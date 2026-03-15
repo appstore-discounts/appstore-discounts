@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1840` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1842` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1842|383359044|自动|iCircuit|iCircuit|iCircuit|iCircuit|iCircuit|iCircuit|iCircuit|
+|1841|1630887189|自动|❌|20 Minutes Till Dawn|20 Minutes Till Dawn|20 Minutes Till Dawn|20 Minutes Till Dawn:Premium|20 Minutes Till Dawn:Premium|20 Minutes Till Dawn|
 |1840|6759131919|自动|公開資訊接收站 - 公開資訊觀測站重大訊息快篩|公開資訊接收站 - 公開資訊觀測站重大訊息快篩|公開資訊接收站 - 公開資訊觀測站重大訊息快篩|公開資訊接收站 - 公開資訊觀測站重大訊息快篩|公開資訊接收站 - 公開資訊觀測站重大訊息快篩|公開資訊接收站 - 公開資訊觀測站重大訊息快篩|公開資訊接收站 - 公開資訊觀測站重大訊息快篩|
 |1839|6505016522|自动|蜜蜂加速器-极速VPN|蜜蜂加速器-极速VPN|蜜蜂加速器-极速VPN|蜜蜂加速器-极速VPN|MiniBee VPN|MiniBee VPN|MiniBee VPN|
 |1838|351109647|自动|圣经工具(现代中文译本)|聖經工具(現代中文譯本)|聖經工具(現代中文譯本)|聖經工具(現代中文譯本)|聖經工具(現代中文譯本)|聖經工具(現代中文譯本)|聖經工具(現代中文譯本)|
@@ -140,7 +142,7 @@
 |1710|1450856766|自动|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|Jetting for TM KZ / ICC Kart|Jetting for TM KZ / ICC Kart|Carburação TM KZ / ICC Kart|
 |1709|1490100895|自动|❌|Happy Game :)|Happy Game :)|Happy Game :)|Happy Game :)|Happy Game :)|Happy Game :)|
 |1708|1667420124|自动|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|
-|1707|6757755170|自动|❌|Inkblade Idlers：水墨武俠|Inkblade Idlers：水墨武俠|Inkblade Idlers：水墨武俠|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|
+|1707|6757755170|自动|❌|水墨武俠：放置江湖|水墨武俠：放置江湖|水墨武俠：放置江湖|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|
 |1706|1098434617|自动|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|
 |1705|6743831121|自动|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|
 |1704|622398496|自动|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|

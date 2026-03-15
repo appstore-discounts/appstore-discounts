@@ -4061,6 +4061,34 @@
       ]
     ]
   },
+  "383359044": {
+    "name": "iCircuit",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €",
+      "iCircuit Pro (Monthly)": "1,99 €",
+      "iCircuit Pro (Yearly)": "17,99 €"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €",
+      "iCircuit Pro (Monthly)": "1,99 €",
+      "iCircuit Pro (Yearly)": "17,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773607101601,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {
+            "iCircuit Pro (Monthly)": "1,99 €",
+            "iCircuit Pro (Yearly)": "17,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "384363262": {
     "name": "13:20:Sync",
     "maxPriceInfo": {
@@ -56503,6 +56531,27 @@
           "inAppPurchases": {
             "Buy Pro Version": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1630887189": {
+    "name": "20 Minutes Till Dawn",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773607101601,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
