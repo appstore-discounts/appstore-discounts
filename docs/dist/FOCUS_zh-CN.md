@@ -609,8 +609,8 @@
 |1245|6748852099|自动|❌|Delil Zinciri|Delil Zinciri|Delil Zinciri|Chain of Evidence|Chain of Evidence|Delil Zinciri|
 |1244|919429622|自动|❌|金字塔王國物語|金字塔王國物語|金字塔王國物語|The Pyraplex|The Pyraplex|The Pyraplex|
 |1243|727466621|自动|❌|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|
-|1242|1578669842|自动|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|❌|
-|1241|1640679491|自动|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|❌|
+|1242|1578669842|自动|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|
+|1241|1640679491|自动|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
 |1240|6569254072|自动|Watch闪卡|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|
 |1239| ~~6748376912~~ |自动| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ | ~~❌~~ |
 |1238|1533979882|自动|❌|Northgard|Northgard|Northgard|Northgard|Northgard|Northgard|

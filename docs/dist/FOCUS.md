@@ -609,8 +609,8 @@ So far, we've covered `7` `Countries or Regions` and  `1844` `Apps` <br />Push n
 |1245|6748852099|Automatic|❌|Delil Zinciri|Delil Zinciri|Delil Zinciri|Chain of Evidence|Chain of Evidence|Delil Zinciri|
 |1244|919429622|Automatic|❌|金字塔王國物語|金字塔王國物語|金字塔王國物語|The Pyraplex|The Pyraplex|The Pyraplex|
 |1243|727466621|Automatic|❌|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|
-|1242|1578669842|Automatic|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|❌|
-|1241|1640679491|Automatic|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|❌|
+|1242|1578669842|Automatic|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|
+|1241|1640679491|Automatic|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
 |1240|6569254072|Automatic|Watch闪卡|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|
 |1239| ~~6748376912~~ |Automatic| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ | ~~❌~~ |
 |1238|1533979882|Automatic|❌|Northgard|Northgard|Northgard|Northgard|Northgard|Northgard|
