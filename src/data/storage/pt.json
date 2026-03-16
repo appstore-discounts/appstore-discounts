@@ -18100,7 +18100,7 @@
       "formattedPrice": "6,99 €",
       "Waterlogue Unlimited (Monthly)": "1,99 €",
       "Waterlogue Unlimited (Yearly)": "8,99 €",
-      "Waterlogue Unlimited (Lifetime)": "22,99 €"
+      "Waterlogue Unlimited (Lifetime)": "34,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18110,6 +18110,18 @@
       "Waterlogue Unlimited (Lifetime)": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773681092997,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Waterlogue Unlimited (Monthly)": "0,99 €",
+            "Waterlogue Unlimited (Yearly)": "5,99 €",
+            "Waterlogue Unlimited (Lifetime)": "34,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770778632046,
@@ -69669,6 +69681,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773681092997,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "1,99 €",
+            "Vervaet Hydro Trike 5x5": "1,99 €",
+            "Kubota RTV-XG850 SIDEKICK": "1,99 €",
+            "Case IH Austoft 8800 Multi-Row": "1,99 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Kotte PQ 32000": "1,19 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "Claas Xerion 5000": "2,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772937997169,
