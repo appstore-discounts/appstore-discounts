@@ -45075,6 +45075,18 @@
     "history": [
       [
         {
+          "timestamp": 1773745084652,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "2,99 €",
+            "200'000 Coins": "0,99 €",
+            "500'000 Coins": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773527686130,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -53003,8 +53015,8 @@
   "1577762239": {
     "name": "Invading Horde - TD",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
       "Starter pack": "5,99 €",
       "Stars pack 3": "2,99 €",
       "Stars Pack 2": "1,99 €",
@@ -53025,6 +53037,22 @@
       "Gems pack 1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773745084652,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Starter pack": "5,99 €",
+            "Stars pack 3": "2,99 €",
+            "Stars Pack 2": "1,99 €",
+            "Stars Pack 1": "0,99 €",
+            "Gems pack 3": "2,99 €",
+            "Gems pack 2": "1,99 €",
+            "Gems pack 1": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772254726869,
@@ -54794,6 +54822,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1773745084652,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        },
         {
           "timestamp": 1773738050986,
           "price": 14.49,
