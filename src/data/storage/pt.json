@@ -15392,14 +15392,27 @@
       "Coffee for Seth": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "Pizza for Seth": "12,99 €",
       "Burrito for Seth": "8,99 €",
       "Donut for Seth": "0,99 €",
       "Coffee for Seth": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773774769362,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Pizza for Seth": "12,99 €",
+            "Burrito for Seth": "8,99 €",
+            "Donut for Seth": "0,99 €",
+            "Coffee for Seth": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -26490,6 +26503,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1773774769362,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €",
+            "Assinatura (1 ano)": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac #5": "89,99 €"
+          }
+        },
         {
           "timestamp": 1773767523292,
           "price": 0,
@@ -72527,6 +72553,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1773774769362,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Caminhos Distintos": "9,99 €",
+            "Maleta: \"Ouro\"": "0,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Weapon Upgrade Ticket x1 (B)": "2,99 €",
+            "Amuleto:\"Munição para Pistola\"": "0,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Amuleto: \"Erva Verde\"": "0,99 €"
+          }
+        },
         {
           "timestamp": 1773767523292,
           "price": 0,
