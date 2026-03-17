@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1845` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1846` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1846|316133247|Automatic|朗文当代高级词典（第6版）|朗文當代高級詞典 (第6版)|朗文當代高級詞典 (第6版)|朗文當代高級詞典 (第6版)|❌|LDOCE|LDOCE|
 |1845|1551480486|Automatic|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|
 |1844|297328082|Automatic|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|
 |1843|434343055|Automatic|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|
@@ -204,7 +205,7 @@ So far, we've covered `7` `Countries or Regions` and  `1845` `Apps` <br />Push n
 |1651| ~~6754364266~~ |Automatic| ~~臻心贷-小额贷款秒批现金借款金融贷款短期借钱花好分期借款软件~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1650|430157565|Automatic|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|
 |1649|6740422479|Automatic|ælbum|ælbum|ælbum|ælbum|ælbum|ælbum|ælbum|
-|1648|6447306697|Automatic|❌|Cluedo|Cluedo|Cluedo|❌|Cluedo|Cluedo|
+|1648| ~~6447306697~~ |Automatic| ~~❌~~ | ~~Cluedo~~ | ~~Cluedo~~ | ~~Cluedo~~ | ~~❌~~ | ~~Cluedo~~ | ~~Cluedo~~ |
 |1647|1308097969|Automatic|我的记帐本 - MyAsset理财版 V2|我的記帳本 - MyAsset理財版 V2|我的記帳本 - MyAsset理財版 V2|我的記帳本 - MyAsset理財版 V2|Accounting Book - MyAsset V2|Accounting Book - MyAsset V2|Accounting Book - MyAsset V2|
 |1646|6749609393|Automatic|Computer Basics: PC Guide|電腦基礎知識：PC 指南|電腦基礎知識：PC 指南|電腦基礎知識：PC 指南|Computer Basics: PC Guide|Computer Basics: PC Guide|Básico de PC: Guia rápido|
 |1645|6445992619|Automatic|❌|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|

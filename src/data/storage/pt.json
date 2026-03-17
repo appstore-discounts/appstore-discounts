@@ -1083,6 +1083,37 @@
       ]
     ]
   },
+  "316133247": {
+    "name": "LDOCE",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "29,99 €",
+      "Longman Activator Thesaurus": "8,99 €",
+      "Example sentence search activation": "0,00 €",
+      "Example Sounds download activation": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "29,99 €",
+      "Longman Activator Thesaurus": "8,99 €",
+      "Example sentence search activation": "0,00 €",
+      "Example Sounds download activation": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773767523292,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "Longman Activator Thesaurus": "8,99 €",
+            "Example sentence search activation": "0,00 €",
+            "Example Sounds download activation": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "316491616": {
     "name": "TowerMadness",
     "maxPriceInfo": {
@@ -26458,6 +26489,20 @@
       "Parallels Desktop for Mac #5": "89,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773767523292,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "89,99 €",
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772836599548,
@@ -72481,6 +72526,25 @@
       "Weapon Upgrade Ticket x3 (B)": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773767523292,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (D)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (C)": "6,99 €",
+            "Weapon Upgrade Ticket x1 (F)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (E)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (C)": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771398657433,

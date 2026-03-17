@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 316133247,
+      "name": {
+        "mo": "朗文當代高級詞典 (第6版)"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1551480486,
       "name": {
         "pt": "IFR Trainer"
@@ -1391,7 +1398,8 @@
       "name": {
         "pt": "Cluedo"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 1308097969,
