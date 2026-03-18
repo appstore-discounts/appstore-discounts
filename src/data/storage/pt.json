@@ -10583,6 +10583,25 @@
     "history": [
       [
         {
+          "timestamp": 1773812278226,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Surto": "3,99 €",
+            "Procurement Director": "0,99 €",
+            "Disaster Manager": "0,99 €",
+            "Medical Coordinator": "0,99 €",
+            "Ethics Watchdog": "0,99 €",
+            "Chaos Engineer": "0,99 €",
+            "Economic Forecaster": "0,99 €",
+            "Situation Director": "0,99 €",
+            "Outreach Coordinator": "0,99 €",
+            "Fast Response EMTs": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773631257562,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -26358,6 +26377,27 @@
       [
         {
           "timestamp": 1761797674362,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1076480192": {
+    "name": "Photo Manager Pro",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773812278226,
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
