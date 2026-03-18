@@ -132,7 +132,7 @@
 |1728|6749826892|自动|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|自动|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|自动|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
-|1725|6451352949|自动|鱼影 - 手表体感钓鱼|魚影 - 手表體感釣魚|魚影 - 手表體感釣魚|魚影 - 手表體感釣魚|Fishow - Wrist Fishing Sim|Fishow - Wrist Fishing Sim|Fishow - Wrist Fishing Sim|
+|1725|6451352949|自动|鱼影 - 手表体感钓鱼|魚影 - 手表體感釣魚|魚影 - 隨時隨地隨手拋竿|魚影 - 隨時隨地隨手拋竿|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|
 |1724|1074661768|自动|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
 |1723|938409051|自动|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
 |1722|1445772666|自动|❌|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|
@@ -175,7 +175,7 @@
 |1685|1465288147|自动|❌|ATOM RPG|ATOM RPG|ATOM RPG|ATOM RPG|ATOM RPG|ATOM RPG|
 |1684|6754591842|自动|无径之林|❌|❌|❌|❌|❌|❌|
 |1683|329937776|自动|Tour Tempo|Tour Tempo|Tour Tempo|Tour Tempo|Tour Tempo|Tour Tempo|Tour Tempo|
-|1682|1446399911|自动|指尖轮盘 - 有趣的手指转盘决定器|指尖輪盤 - 有趣的手指轉盤決定器|指尖輪盤 - 有趣的手指轉盤決定器|指尖輪盤 - 有趣的手指轉盤決定器|Tap Roulette - Random Picker|Tap Roulette - Random Picker|Tap Roulette - Random Picker|
+|1682|1446399911|自动|指尖轮盘 - 有趣的手指转盘决定器|指尖輪盤 - 有趣的手指轉盤決定器|指尖輪盤 - 有趣的手指轉盤決定器|指尖輪盤 - 有趣的手指轉盤決定器|Tap Roulette - Decision Maker|Tap Roulette - Random Picker|Tap Roulette - Random Picker|
 |1681|6747817415|自动|CantoKeys|CantoKeys|CantoKeys|CantoKeys|CantoKeys|CantoKeys|CantoKeys|
 |1680|932687167|自动|iSpreadsheet™ : 电子计算表|iSpreadsheet™|iSpreadsheet™|iSpreadsheet™|iSpreadsheet™|iSpreadsheet™|iSpreadsheet™|
 |1679|605274104|自动|❌|Matthew Henry Study Bible|Matthew Henry Study Bible|Matthew Henry Study Bible|Matthew Henry Study Bible|Matthew Henry Study Bible|Matthew Henry Study Bible|
