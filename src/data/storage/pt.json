@@ -18214,8 +18214,8 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
-      "Waterlogue Unlimited (Monthly)": "1,99 €",
-      "Waterlogue Unlimited (Yearly)": "8,99 €",
+      "Waterlogue Unlimited (Monthly)": "3,99 €",
+      "Waterlogue Unlimited (Yearly)": "9,99 €",
       "Waterlogue Unlimited (Lifetime)": "34,99 €"
     },
     "minPriceInfo": {
@@ -18226,6 +18226,18 @@
       "Waterlogue Unlimited (Lifetime)": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773787282615,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Waterlogue Unlimited (Monthly)": "3,99 €",
+            "Waterlogue Unlimited (Yearly)": "9,99 €",
+            "Waterlogue Unlimited (Lifetime)": "34,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773681092997,
@@ -25778,6 +25790,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773787282615,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772752197333,
@@ -43180,6 +43200,23 @@
     "history": [
       [
         {
+          "timestamp": 1773787282615,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "L.A. Monstropolis Dice": "4,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        },
+        {
           "timestamp": 1773780586095,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -57946,6 +57983,14 @@
     "history": [
       [
         {
+          "timestamp": 1773787282615,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1772678570621,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -63212,6 +63257,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773787282615,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772506022295,
@@ -73409,6 +73462,14 @@
     "history": [
       [
         {
+          "timestamp": 1773787282615,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1772506022295,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -74980,6 +75041,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773787282615,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772678570621,
