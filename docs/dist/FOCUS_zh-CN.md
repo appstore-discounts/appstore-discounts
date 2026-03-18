@@ -132,7 +132,7 @@
 |1728|6749826892|自动|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|自动|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|自动|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
-|1725|6451352949|自动|鱼影 - 手表体感钓鱼|魚影 - 手表體感釣魚|魚影 - 隨時隨地隨手拋竿|魚影 - 隨時隨地隨手拋竿|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|
+|1725|6451352949|自动|鱼影 - 掌上钓鱼模拟器|魚影 - 隨時隨地隨手拋竿|魚影 - 隨時隨地隨手拋竿|魚影 - 隨時隨地隨手拋竿|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|
 |1724|1074661768|自动|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
 |1723|938409051|自动|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
 |1722|1445772666|自动|❌|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|
