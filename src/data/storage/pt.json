@@ -7818,14 +7818,27 @@
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €",
-      "DVSA Driving essential skills": "5,99 €"
+      "DVSA Driving essential skills": "5,99 €",
+      "DVSA Riding essential skills": "5,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €",
-      "DVSA Driving essential skills": "5,99 €"
+      "DVSA Driving essential skills": "5,99 €",
+      "DVSA Riding essential skills": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773947318028,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "DVSA Riding essential skills": "5,99 €",
+            "DVSA Driving essential skills": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -25114,6 +25127,24 @@
       "Challenge Pass \"Retro Fantasia\"": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773947318028,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Basic Plan - Monthly": "0,99 €",
+            "Challenge Pass": "2,99 €",
+            "Challenge Pass \"Retro Fantasia\"": "2,99 €",
+            "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+            "Expansion Ch. Z": "3,99 €",
+            "Challenge Pass \"Speedcore Overload\"": "2,99 €",
+            "satella Selection Pass": "2,99 €",
+            "Lanota 9th Anniversary Pass": "3,99 €",
+            "ULTRA BONK Hour Challenge Pass": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771498413527,
@@ -63813,16 +63844,31 @@
       "formattedPrice": "1,99 €",
       "Pro – Lifetime": "0,00 €",
       "Assinatura semanal": "1,99 €",
-      "Assinatura anual": "29,99 €"
+      "Assinatura anual": "29,99 €",
+      "Premium Lifetime": "34,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
       "Pro – Lifetime": "0,00 €",
       "Assinatura semanal": "0,99 €",
-      "Assinatura anual": "9,99 €"
+      "Assinatura anual": "9,99 €",
+      "Premium Lifetime": "34,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773947318028,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Premium Lifetime": "34,99 €",
+            "Pro – Lifetime": "0,00 €",
+            "Assinatura semanal": "1,49 €",
+            "Assinatura anual": "12,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773873543091,
