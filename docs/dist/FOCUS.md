@@ -807,7 +807,7 @@ So far, we've covered `7` `Countries or Regions` and  `1854` `Apps` <br />Push n
 |1057|6738923299|Automatic|❌|Spin Hero|Spin Hero|Spin Hero|Spin Hero|Spin Hero|Spin Hero|
 |1056|299342927|Automatic|❌|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|
 |1055|6502399166|Automatic|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|Calobara|❌|❌|
-|1054|1435752659|Automatic|❌|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|
+|1054|1435752659|Automatic|❌|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|
 |1053|6458733069|Automatic|养生钟 - 中医时辰手表软件|養生鐘 - 解压小橙子 经络穴位图解|養生鐘 - 解压小橙子 经络穴位图解|養生鐘 - 解压小橙子 经络穴位图解|Health Clock - Sleep & Health|养生钟 - 中医时辰 跳绳手表游戏|养生钟 - 中医时辰手表软件|
 |1052|1216484605|Automatic|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|
 |1051|440666387|Automatic|化学家 - CHEMIST|化學家 - CHEMIST|化學家 - CHEMIST|化學家 - CHEMIST|CHEMIST by THIX|CHEMIST by THIX|CHEMIST by THIX|
