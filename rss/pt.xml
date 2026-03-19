@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-03-19T16:16:10.936Z</updated>
+    <updated>2026-03-19T23:51:23.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-19T16:16:10.936Z</updated>
+        <updated>2026-03-19T23:51:23.299Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptThu, 19 Mar 2026 16:16:10 GMT</id>
+        <id>rankingptThu, 19 Mar 2026 23:51:23 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-19T16:16:10.936Z</updated>
+        <updated>2026-03-19T23:51:23.299Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1855</b>
+        <b>1856</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1654</b>
+        <b>1655</b>
       </td>
       <td>
         <b>81</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1577</b>
+        <b>1578</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1433</b>
+        <b>1434</b>
       </td>
       <td>
         <b>9</b>
@@ -119,7 +119,7 @@ feedId:206907475259680768+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>2</b>
+            <span>Total Times</span>：<b>3</b>
           </li><li>
             <span>Price</span>：<b>2</b>
           </li><li>
@@ -130,6 +130,10 @@ feedId:206907475259680768+userId:73658201673997312
                 <i>FCPXML Export</i>：<b>2</b>
               </li><li>
                 <i>Multicam Studio</i>：<b>2</b>
+              </li><li>
+                <i>Creator Pass Monthly</i>：<b>1</b>
+              </li><li>
+                <i>Creator Pass Yearly</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -470,7 +474,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1160943124">Speech to Text : Voice to Text</a>
+        <a href="https://apps.apple.com/pt/app/id1118115766">Bloons TD 6</a>
       </td>
       <td>
         <ul>
@@ -485,6 +489,40 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>23</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1159700098">To the Moon</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>24</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1160943124">Speech to Text : Voice to Text</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1199912736">Carcassonne – Tiles & Tactics</a>
@@ -513,7 +551,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1248033433">Kingdom Rush Vengeance TD</a>
@@ -536,44 +574,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1346580540">Motorsport Manager Mobile 3</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>26</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1400032769">Card.Note - 多彩卡片笔记</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1411823462">7Days : Backer</a>
+        <a href="https://apps.apple.com/pt/app/id1271620263">ICEY</a>
       </td>
       <td>
         <ul>
@@ -590,7 +594,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1424977227">Titan Quest HD</a>
+        <a href="https://apps.apple.com/pt/app/id1346580540">Motorsport Manager Mobile 3</a>
       </td>
       <td>
         <ul>
@@ -607,7 +611,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1439886655">Cultist Simulator</a>
+        <a href="https://apps.apple.com/pt/app/id1380582804">手机帝国</a>
       </td>
       <td>
         <ul>
@@ -624,7 +628,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1446399911">Tap Roulette - Random Picker</a>
+        <a href="https://apps.apple.com/pt/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
         <ul>
@@ -641,7 +645,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1453820315">This Is the Police 2</a>
+        <a href="https://apps.apple.com/pt/app/id1411823462">7Days : Backer</a>
       </td>
       <td>
         <ul>
@@ -658,7 +662,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1453875289">Hyper Light Drifter</a>
+        <a href="https://apps.apple.com/pt/app/id1424977227">Titan Quest HD</a>
       </td>
       <td>
         <ul>
@@ -675,7 +679,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1464666446">MyTracks: GPS Recorder</a>
+        <a href="https://apps.apple.com/pt/app/id1439262206">Root Board Game</a>
       </td>
       <td>
         <ul>
@@ -683,6 +687,20 @@ feedId:206907475259680768+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>The Riverfolk Expansion</i>：<b>1</b>
+              </li><li>
+                <i>Root: The Underworld Expansion</i>：<b>1</b>
+              </li><li>
+                <i>The Clockwork Expansion</i>：<b>1</b>
+              </li><li>
+                <i>Exiles & Partisans & Vagabonds</i>：<b>1</b>
+              </li><li>
+                <i>Root: The Marauder Expansion</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -692,7 +710,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1481006495">A Hora Da Sua Morte</a>
+        <a href="https://apps.apple.com/pt/app/id1439886655">Cultist Simulator</a>
       </td>
       <td>
         <ul>
@@ -709,7 +727,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1481181827">Aces of the Luftwaffe Squadron</a>
+        <a href="https://apps.apple.com/pt/app/id1446399911">Tap Roulette - Random Picker</a>
       </td>
       <td>
         <ul>
@@ -726,7 +744,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1491530147">Slay the Spire</a>
+        <a href="https://apps.apple.com/pt/app/id1453808408">Juicy Realm</a>
       </td>
       <td>
         <ul>
@@ -741,6 +759,108 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>37</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1453820315">This Is the Police 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>38</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1453875289">Hyper Light Drifter</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>39</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1464666446">MyTracks: GPS Recorder</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>40</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1481006495">A Hora Da Sua Morte</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>41</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1481181827">Aces of the Luftwaffe Squadron</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>42</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1491530147">Slay the Spire</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1523146826">RPGTodos: Reboot</a>
@@ -763,7 +883,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1523633394">SpongeBob SquarePants: BfBB</a>
@@ -780,7 +900,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1539778232">Afterplace</a>
@@ -797,7 +917,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1558634102">Medidor de Som</a>
@@ -814,7 +934,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1571643809">Dungeon and Puzzles</a>
@@ -831,112 +951,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1576004936">Química Tabela Periódica 2026</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>43</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1586126746">Labyrinth City</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>44</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1601446687">Streets of Rage 4</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>45</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1636423328">Cat Quest II</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>46</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1639509098">Pasha Planet: Reborn</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>47</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1640636826">Código Azul - RCP & ACLS</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1642715290">Little Big Workshop</a>
+        <a href="https://apps.apple.com/pt/app/id1575414319">Dune: Imperium</a>
       </td>
       <td>
         <ul>
@@ -953,7 +971,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1644917705">Cyber Manhunt</a>
+        <a href="https://apps.apple.com/pt/app/id1576004936">Química Tabela Periódica 2026</a>
       </td>
       <td>
         <ul>
@@ -970,7 +988,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1672164496">Roundguard</a>
+        <a href="https://apps.apple.com/pt/app/id1580629864">Clank!</a>
       </td>
       <td>
         <ul>
@@ -978,6 +996,12 @@ feedId:206907475259680768+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Sunken Treasures</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -987,7 +1011,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6474541983">Children of Morta</a>
+        <a href="https://apps.apple.com/pt/app/id1586126746">Labyrinth City</a>
       </td>
       <td>
         <ul>
@@ -1004,7 +1028,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6458144503">Skul: The Hero Slayer</a>
+        <a href="https://apps.apple.com/pt/app/id1587860402">Moncage</a>
       </td>
       <td>
         <ul>
@@ -1021,7 +1045,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6477541914">Parallel Experiment</a>
+        <a href="https://apps.apple.com/pt/app/id1592854410">Island Story: 100 Days</a>
       </td>
       <td>
         <ul>
@@ -1038,7 +1062,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6448352407">Unboxing the Cryptic Killer</a>
+        <a href="https://apps.apple.com/pt/app/id1601446687">Streets of Rage 4</a>
       </td>
       <td>
         <ul>
@@ -1053,6 +1077,193 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>55</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1614795077">Otaku's Adventure</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>56</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1636423328">Cat Quest II</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>57</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1639509098">Pasha Planet: Reborn</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>58</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1640636826">Código Azul - RCP & ACLS</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>59</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1642715290">Little Big Workshop</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>60</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1644917705">Cyber Manhunt</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>61</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1672164496">Roundguard</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>62</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6474541983">Children of Morta</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>63</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6458144503">Skul: The Hero Slayer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>64</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6477541914">Parallel Experiment</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>65</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6448352407">Unboxing the Cryptic Killer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6455495086">3D Pinball Space Cadet</a>
@@ -1075,7 +1286,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6445992619">SpongeBob - The Cosmic Shake</a>
@@ -1092,7 +1303,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6504433140">LaxtTime - Remember Last Time</a>
@@ -1115,7 +1326,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6756542102">Onyx Magic</a>
@@ -1138,7 +1349,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740553198">FlowDown - Open & Fast AI</a>
@@ -1155,7 +1366,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6479683928">AMood - 你的健康生活好伙伴</a>
@@ -1178,7 +1389,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6478639011">Subnautica</a>
@@ -1195,7 +1406,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6759806669">ScoreMaster - Board Game</a>
@@ -1212,7 +1423,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6747814605">Is This Seat Taken?</a>
@@ -1229,7 +1440,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6757012046">RestTap</a>
@@ -1246,7 +1457,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6466296603">The Last Game</a>
@@ -1263,7 +1474,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6471839445">RYUKIN</a>
@@ -1284,6 +1495,80 @@ feedId:206907475259680768+userId:73658201673997312
                 <i>WIREFRAME BLACK</i>：<b>1</b>
               </li><li>
                 <i>WIREFRAME WHITE</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>78</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6443875944">Sands of Salzaar</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>79</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6743115658">TABS Pocket Edition</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>80</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6449233549">Ark Nova</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>81</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6467822375">Auto Redial App</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Premium Lifetime</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -1383,6 +1668,829 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clank!]]></title>
+        <id>Clank!-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/clank/id1580629864?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 11,99 € → 8,99 €<br/>Sunken Treasures: 9,99 € → 8,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/clank/id1580629864?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/32/45/173245e6-f04a-e067-711a-ffb4dc7843fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>11,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[8,99 € ~ 11,99 €]</span>）
+</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Sunken Treasures：</strong><span>9,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[8,99 € ~ 9,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>8,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Sunken Treasures：<b>8,99 €</b>
+  </li><li>
+    Mummy's Curse：<b>9,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Aventure-se roubando no premiado jogo de tabuleiro!
+Uma nova aventura começa!
+"Clank!, o icônico jogo de aventura de tabuleiro de construção de baralho desafia os ladrões ousados a se infiltrarem no covil do dragão, roubar um de seus preciosos artefatos e escapar antes de virar churrasco!
+
+Juntando mais fãs e prêmios ao redor do mundo, Clank! é um dos mais amados jogos de tabuleiro moderno com muitas expansões e adaptações para a diversão dos jogadores."
+O quão fundo você irá se aventurar?
+"Quanto mais fundo for, mais valiosos serão os tesouros que encontrar... mas será mais difícil ainda escapar! Então seja breve e não faça barulho: Um passo em falso e CLANK! Cada barulho pode chamar a atenção do dragão.
+
+Você está competindo contra seus amigos ladrões para reivindicar o prêmio mais valioso... mas você só terá o saque se conseguir escapar das profundezas com vida!"
+Escolha seu caminho
+"Você vai precisar de um bom par de botas, uma espada afiada e todas suas habilidades de ladino para sobreviver na masmorra. Ao longo do caminho, você irá adquirir novos itens, perícias e aliados para te ajudar a conquistar a vitória!
+
+Misturando construção de baralho e exploração, Clank! oferece uma aventura de exploração de masmorra única a cada vez que jogar."
+Diversas formas de jogar
+"Aprenda a usar as cordas no tutorial guia e aprimore suas habilidades ao coletar conquistas e concluir desafios. Jogue em multiplataforma com os amigos ou compita em novos e empolgantes Assaltos que colocam você contra jogadores de todo o mundo!
+
+Seja como for que você entrar na masmorra: boa sorte... você vai precisar!"
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Island Story: 100 Days]]></title>
+        <id>Island Story: 100 Days-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/island-story-100-days/id1592854410?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 1,49 € → 1,29 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/island-story-100-days/id1592854410?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/ed/66/faed66fc-3a68-4cbb-2379-2b0d5905e052/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>1,49 €</span> → <b>
+  <strong>1,29 €</strong>
+</b><span>[0,99 € ~ 1,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,29 €</b>
+</p><h2>Application Description</h2><p>
+  You are shipwrecked on a desert island. 
+﻿ 
+■ Survival 
+• Eating only wild fruits will not fill your stomach. 
+• Catch fish in a mini-game, or craft traps for meat. 
+﻿ 
+■ Realistic Health System 
+• Staying healthy is a constant struggle. 
+• Manage a complex system of needs: weight, wounds, hunger, thirst, energy, body temperature, insect bites… 
+﻿ 
+■ Upgrade Your Camp 
+• Gather resources to craft tools and build furniture. 
+﻿ 
+■ Dynamic Weather 
+• Changing weather limits your movements and can disrupt daily plans. 
+﻿ 
+■ Self-Sufficient Living 
+• Learn to grow crops, raise goats, and bake bread from scratch. 
+﻿ 
+■ Relaxation 
+• Immerse yourself in natural white noise. 
+ 
+--------- 
+Play Offline · No Ads
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sands of Salzaar]]></title>
+        <id>Sands of Salzaar-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/sands-of-salzaar/id6443875944?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 3,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/sands-of-salzaar/id6443875944?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/01/f0/6301f0c7-6f13-4614-574c-6889752180c8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[3,99 € ~ 5,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    DLC - Land of the Eclipse：<b>1,99 €</b>
+  </li><li>
+    DLC - The Ember Saga：<b>1,99 €</b>
+  </li><li>
+    DLC - The Tournament：<b>1,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  This is a fantastical tale of an exotic land. The Old Empire has fallen, leaving rival tribes to fight for control of the great desert. Little do they know of the seeds of darkness which grow in the shadows with each passing day...
+
+Sands of Salzaar is an open-world strategy-action RPG set across a sprawling desert. Build up and manage your forces from a single unit to a mighty army, then lead them into massive battles against your foes. How you progress is up to you: customize your hero with a wide variety of skills and talents, choose which factions to side with, and plan your strategies carefully to establish yourself as whoever you aspire to be - a lone wolf, a wealthy trader, a city lord, or a war schemer.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/22/bb/8d22bbe8-24de-e022-f81c-2d31293c3b33/8e767b69-0a06-4bbe-99fc-9ca704bf1ad3__U90e8_U843d_U4e0e_U5f2f_U9053-Q4DLC-ios_U5546_U5e97_U7528_U56fe-2208x1242-en.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/8b/0f/658b0fa3-7596-f398-e0d0-7f041ae7cae1/5d4c0aa3-734b-4828-9554-e04084942240_5.5_U5bf8__U90e8_U843d_U4e0e_U5f2f_U5200-DLCKV-2208x1242-en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/34/8f/ac348ff9-e3bc-b624-e7be-7643611a00a0/e829f9eb-4c51-49c8-bea2-220c7ce1edfa_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/a7/ec/eca7ec0d-d4b1-ce92-e212-b2b4aec80d86/be0c8c75-f47a-4a28-b4b7-c6ef2dd84824_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/20/a2/ef20a2ed-11de-cbe2-8990-76848bd66ba9/9633f576-33f1-458e-898e-0eda60c9b8a2_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/a0/81/46a081d1-a027-ae17-55c7-47bce928297e/078c7a28-8082-4782-b12e-37e934009623_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/f4/81/01f481a1-c1bf-c0cb-5012-f73c45ded0d9/2a8f58c8-daaf-417d-be33-3f4a7491a30d_4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/f5/a6/8af5a609-2d40-2c00-9313-94c49eb00921/e60268c2-16fc-4b46-a361-a3e8d80560b2__U90e8_U843d_U4e0e_U5f2f_U9053-Q4DLC-ios_U5546_U5e97_U7528_U56fe-2732x2048-en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/32/10/8d321059-517c-d99c-960c-09cc67770b65/639b1320-426a-4492-8302-13bd5f65b747_12.9_U5bf8__U90e8_U843d_U4e0e_U5f2f_U5200-DLCKV-2732x2048-en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/9b/6e/749b6e76-c442-7faa-5e33-cd1797ee6ad3/71d3d1f3-197c-4a28-80c7-17ca457d8b1d_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/a9/dc/28a9dc25-6d66-a6e1-263d-0070ac9ac110/71743be1-582f-4529-a57a-5a4ce8bbf8e7_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/88/66/1a886645-8644-3a1a-cf6e-b18735915104/50e02bc2-3e95-4f9e-a8af-5e3a54ab362d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/5b/b5/6b5bb51e-4913-5001-83ed-b53a7bc13a87/34170a4b-bcaf-4652-9535-a77cfb3dbfcd_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/2e/20/942e2050-26f1-a4fb-deb7-4bc49034ac5a/0a34a635-6104-4477-8448-a3deb323f024_5.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TABS Pocket Edition]]></title>
+        <id>TABS Pocket Edition-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/tabs-pocket-edition/id6743115658?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 4,59 € → 3,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/tabs-pocket-edition/id6743115658?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/8d/76/be8d7648-450a-8f32-c025-d51af03e4bd8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>4,59 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[3,99 € ~ 4,59 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h2>Application Description</h2><p>
+  Be the leader of red and blue wobblers from ancient lands, spooky places and fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created. 
+
+When you grow tired of the 100+ wobblers at your disposal you can make new ones in the unit creator.
+
+You can also send your wobblers to fight your friends or strangers in online multiplayer!
+
+Features:
+
+    -Campaigns
+    -Multiplayer
+    -Sandbox mode
+    -Unit Possession
+    -A bunch of silly units
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dune: Imperium]]></title>
+        <id>Dune: Imperium-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/dune-imperium/id1575414319?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 11,99 € → 8,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/dune-imperium/id1575414319?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/7c/c1/9b7cc132-ad9f-1770-0990-de7af141fafb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>11,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[7,99 € ~ 11,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>8,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Dune: Imperium - Rise of Ix：<b>9,99 €</b>
+  </li><li>
+    Dune: Imperium - Immortality：<b>9,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Immerse yourself in the world of Dune. 
+
+Experience the ultimate blend of strategy and intrigue as you navigate the treacherous landscapes of Arrakis in the award-winning board game Dune: Imperium!
+
+Battle online, locally with AI, or against the formidable House Hagal.
+
+Earn Achievements that showcase your prowess as a leader.
+
+Embark on more than a dozen Challenges that will test your wit and cunning.
+
+Compete for badges in the rotating Skirmish Mode where no two games are the same!
+
+Control the Spice. Control the Universe.
+
+Arrakis. Dune. Desert Planet. Raise your banner above the vast wasteland before you. As the Great Houses of the Landsraad marshal their forces and their spies, whom will you influence, and whom will you betray? A tyrannical Emperor. The secretive Bene Gesserit. The shrewd Spacing Guild. The ferocious Fremen of the Deep Desert. The power of the Imperium can be yours, but war is not the only way to claim it.
+
+Dune: Imperium blends deck-building and worker placement in a deeply thematic new strategy game where the fate of the Empire hangs on your decisions. Will you seek political allies or rely upon military might? Economic strength or subtle intrigues? A council seat… or a sharpened blade? The cards are dealt. The choice is yours. The Imperium awaits.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f8/00/52/f80052bf-51a3-5e3a-ec42-585a55cef4c5/5e589afa-93d9-452a-9f4f-199f95aa6882_EN_iOS_2208x1242_Screenshot_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a6/0f/60/a60f60ef-d9f3-df86-8032-5029636cd7a8/027d9c80-78b4-43f9-9b84-c053ef37fec1_EN_iOS_2208x1242_Screenshot_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a4/f9/20/a4f920a4-73c2-6676-4432-d5916774dc8c/73c4c391-c4e4-47f7-9c75-7aa5b5982717_EN_iOS_2208x1242_Screenshot_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7c/89/92/7c899249-333a-2c18-6a0b-2fbae8203fe9/190cfc8c-f667-4e1a-a40b-d23b2b159269_EN_iOS_2208x1242_Screenshot_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a2/88/42/a2884296-b4dc-54de-7259-ea1e91d141a6/ddd180a1-c9c9-433e-b998-b3257866d54e_EN_iOS_2208x1242_Screenshot_2.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/74/2f/6b/742f6b6b-606b-942e-78fa-0c53dc75e6af/03aeddaf-3427-41a7-958a-ec66037bb235_EN_iOS_2732x2048_Screenshot_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/66/44/ea/6644ea22-1383-01f4-f610-be82596c34fd/12ab7620-a121-407b-b735-0ed01fc98065_EN_iOS_2732x2048_Screenshot_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bc/3e/52/bc3e5208-b196-5c49-9300-3b76eda726b5/dbef42ed-8ac6-4336-84f6-32bb3a95779d_EN_iOS_2732x2048_Screenshot_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/39/84/57/398457be-7bf7-63e9-1e55-3d4514ea1c5f/ef5ebba3-595a-4c6d-a89a-1a74922e2098_EN_iOS_2732x2048_Screenshot_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e2/6b/2e/e26b2e35-0a71-4750-7364-40d59b4dedac/b84fcfe2-a330-4d79-b57b-67d11f97a677_EN_iOS_2732x2048_Screenshot_4.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ark Nova]]></title>
+        <id>Ark Nova-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/ark-nova/id6449233549?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 11,99 € → 8,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/ark-nova/id6449233549?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/cf/b8/6fcfb802-5f45-849b-8c41-cd47156da54e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>11,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[8,99 € ~ 11,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>8,99 €</b>
+</p><h2>Application Description</h2><p>
+  Plan and build a modern, scientifically managed zoo to support conservation projects in an acclaimed strategy board game.
+
+In Ark Nova, you will plan and design a modern, scientifically managed zoo. With the ultimate goal of owning the most successful zoological establishment, you will build enclosures, accommodate animals, and support conservation projects all over the world. Specialists and unique buildings will help you in achieving this goal. 
+
+At the heart of Ark Nova are 255 cards featuring animals, specialists, unique enclosures, and conservation projects, each with a particular ability. Use them to increase the appeal and scientific reputation of your zoo and to collect conservation points. Each player has a set of action cards, which you will use and upgrade to carry out your plans.
+
+Each player has a set of five action cards to manage their gameplay, and the power of an action is determined by the slot the card currently occupies. The cards are:
+
+BUILD: Allows you to build standard or special enclosures, kiosks, and pavilions.
+
+ANIMALS: Allows you to accommodate animals in your zoo.
+
+CARDS: Allows you to gain new zoo cards (animals, sponsors, and conservation project cards).
+
+ASSOCIATION: Allows your association workers to carry out different tasks.
+
+SPONSORS: Allows you to play a sponsor card in your zoo or to raise money.
+
+With high replayability and rich components, Ark Nova provides a remarkable gaming experience that will bring the game to the table again and again.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otaku's Adventure]]></title>
+        <id>Otaku's Adventure-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/otakus-adventure/id1614795077?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/otakus-adventure/id1614795077?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/10/23/8110232f-4e1c-8a11-8f2a-5fbfc0bea55d/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[1,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  Otaku’s Adventure is a unique anime-style AVG that tells the story of an Otaku who has been single since birth and craves to be loved. After the romantic encounter with three charming girls, your life will take an unexpected turn: to go on a run-away adventure with Waifu, an outer-space journey with Gohard, or an exploration in a fantasy world with (´･ω･`). 
+
+- Kick start your thrilling and romantic adventure and release your Otaku energy!
+- Unlock 35+ endings following three different routes
+- Use your wit to solve the ingenious puzzles and beat a collection of funny mini-games ranging from shooting games to turn-based RPG combat
+- Enjoy the brand new DLC free of charge and uncover the untold story of Waifu
+- Get yourself immersed in the new voice-acting for Waifu and (´･ω･`) along with the original Cantonese voice-acting for Gohard
+- Test your Otaku-ness level by discovering the anime and game references!
+_________________________
+
+Follow us on Twitter: @XD_En_Official
+Contact: indie@xd.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/5e/93/c45e9390-b1e1-c6ad-e905-f0201cf04b11/50308b0f-81d5-4d04-9024-9e78f2939571_0.03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e1/78/54/e1785451-c0e3-7e72-0e4d-2599fb0099ee/e240c269-6fac-4420-9efb-928da773c48c_0.13.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/de/eb/e2deeb44-b1e5-11e4-129b-507f163c5a84/f9fe4f74-e71c-4689-b6b8-ec1d5812ada6_0.11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cd/41/97/cd4197c7-c782-18f8-07ba-358226110869/49d18210-4084-485e-b087-0c19562d3a42_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/23/d9/4223d9cf-214b-2d95-b7ca-1fbc08ed81de/167872f1-69a4-466e-b414-16a74090619a_4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/e4/25/b9e42535-fdb1-67db-bbad-4ed92e8135f1/aabb6544-5185-4c3d-8cab-58f72192e207_Image_16.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/01/18/74/011874e0-15e8-59a7-18fc-a5663aa79392/38085f32-039e-42f6-acb6-f2af4f1b3131_Image_14.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/74/85/0a/74850ac4-16c4-aff1-5f5b-ec1359b3ea22/fd2368d7-198b-4a43-aec6-5d7a2df135ac_Image_18.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/71/2d/33712d6c-e121-b8c2-7630-252657bfe9fd/3964fbf4-962d-414f-bc43-5aa546ce2dba_5-1600x1200.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/87/b8/cb87b846-df08-4758-8a51-4a88fd8d24ef/5cf8ac1f-eec9-4df3-9f35-5ed5ce1c3c72_4-1600x1200.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto Redial App]]></title>
+        <id>Auto Redial App-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/auto-redial-app/id6467822375?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Premium Lifetime: 34,99 € → 22,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/auto-redial-app/id6467822375?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/dd/e1/fcdde150-5f39-be15-0b20-1e0ae845a903/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Premium Lifetime：</strong><span>34,99 €</span> → <b>
+  <strong>22,99 €</strong>
+</b><span>[22,99 € ~ 34,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Premium Lifetime：<b>22,99 €</b>
+  </li><li>
+    Pro – Lifetime：<b>0,00 €</b>
+  </li><li>
+    Assinatura semanal：<b>1,49 €</b>
+  </li><li>
+    Assinatura anual：<b>12,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Com esta aplicação, pode fazer chamadas automáticas para os números que desejar de forma eficiente e personalizada. Pode definir o número de repetições, o intervalo entre chamadas, adicionar um posto, ativar a vibração antes de marcar e até mesmo agendar as suas chamadas utilizando um calendário integrado. A Auto Redial App oferece ainda uma interface simples e intuitiva, um histórico de chamadas detalhado e várias opções de personalização para se adequar às suas necessidades.
+
+Esta aplicação é ideal para quem precisa de fazer chamadas repetitivas automaticamente — como uma chamada para uma consulta, uma nova tentativa de chamada quando o número está ocupado ou contactar serviços onde a linha está ocupada.
+
+Principais características:
+- Redisque automaticamente as chamadas ocupadas ou não atendidas.
+- Defina o número de tentativas e os intervalos de tempo.
+- Agende chamadas com antecedência via calendário.
+- Adicione os ramais automaticamente após a marcação.
+- Ative a vibração antes de cada rediscagem.
+- Histórico de chamadas e estatísticas de novas tentativas.
+
+Perfeito para:
+- Marcação de consultas (médicas, embaixadas, etc.)
+- Atendimento ao cliente ou suporte técnico
+- Telefonar para repartições públicas
+- Freelancers e empresários a acompanhar clientes
+
+Quer esteja a ligar para marcar uma consulta médica, falar com o serviço de apoio ao cliente ou apenas a tentar ligar-se quando a linha está ocupada, esta aplicação poupa tempo e frustração.
+
+
+Política de Privacidade:
+https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
+
+Termos de Uso (EULA):
+Apple App Store
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/5e/64/d25e640d-9179-5372-ef28-a2b311c8ff90/7ae05f33-29d4-475c-9db4-f938acdc697a_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/ba/37/84ba373b-7e9c-f9f9-ba2c-dd954b51da40/fb893d89-7c26-4427-bdaa-42d753b796d2_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/40/2a/59402a5f-5130-68b9-17d1-4832ab11e523/8e49ed3d-2849-4690-ae83-e878acb7e893_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.25.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/b9/91/cdb99105-041b-1964-0011-78ffbe88bda0/103c44c7-203d-43c5-9bf0-31a9691da6af_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.19.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b9/ed/d5b9ed24-9a1b-b217-7075-79dd40fa198d/83089997-797f-4c68-aa7d-71aef1edee6d_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.11.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/81/52/e081524f-fe33-4ef1-c2e7-bcdd6950de38/36a302a5-17a0-4c7d-a575-bfb64f8d97dc_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/52/79/51527915-b73c-86c1-9bfa-328c25a89a2a/8f69617d-e5f1-4726-ba4a-266eaa3ee8e3_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.35.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/63/08/b363088f-ebbe-404f-9990-982d329c4c4c/49d79db2-cae7-45ba-a075-dd34372e3fe1_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.21.11.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/1d/7b/d61d7b86-e55a-df56-a632-28e491055fd9/91e843c0-9b5c-4871-b072-e7f072071149_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.19.07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/d9/91/9ad99154-84aa-2bc6-1ef0-5256999b5b99/cc0e8dd8-8469-47c4-95a0-7c9b68db56b5_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.47.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LumaFusion]]></title>
+        <id>LumaFusion-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/lumafusion/id1062022008?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Creator Pass Monthly: 9,99 € → 6,99 €<br/>Creator Pass Yearly: 69,99 € → 47,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/lumafusion/id1062022008?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/18/8b/c9188b88-840b-548e-165c-a93cacdcc951/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Creator Pass Monthly：</strong><span>9,99 €</span> → <b>
+  <strong>6,99 €</strong>
+</b><span>[6,99 € ~ 9,99 €]</span>
+  </li><li>
+    <strong>Creator Pass Yearly：</strong><span>69,99 €</span> → <b>
+  <strong>47,99 €</strong>
+</b><span>[47,99 € ~ 69,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>19,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Creator Pass Monthly：<b>6,99 €</b>
+  </li><li>
+    Creator Pass Yearly：<b>47,99 €</b>
+  </li><li>
+    FCPXML Export：<b>13,99 €</b>
+  </li><li>
+    Rampa de velocidade：<b>13,99 €</b>
+  </li><li>
+    Multicam Studio：<b>13,99 €</b>
+  </li><li>
+    CoreMelt PaintX Plug-In：<b>22,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  LumaFusion: a melhor experiência narrativa para edição de vídeos
+
+Welcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.
+
+EDIÇÃO PROFISSIONAL FACILITADA
+• Seis faixas de vídeo/áudio ou gráficos: crie edições de múltiplas camadas com manuseio fácil de mídia 4K ProRes e HDR.
+• Seis faixas de áudio adicionais: construa seu ambiente sonoro.
+• A linha do tempo ideal: edição fluente usando a linha do tempo magnética e guiada mais flexível do mundo.
+• Muitas transições: mantenha sua história em movimento.
+• Prévia no monitor externo: veja em uma tela grande.
+• Marcadores, tags e notas: mantenha-se organizado.
+• Locução: grave VO enquanto reproduz seu filme.
+
+EFEITOS EM CAMADAS E CORREÇÃO DE COR
+• Tela verde, luma e chroma key: para a composição criativa.
+• Prepare o estabilizador de vídeo: mantenha sua filmagem estável.
+• Correção de cores poderosa: crie o seu próprio visual.
+• Formas de onda de vídeo, escopo vetorial e histograma.
+• LUTs: Importe e aplique múltiplas LUTs .cube ou .3dl.
+• Quadros-chave ilimitados: anime efeitos com precisão.
+• Presets de textos e efeitos personalizáveis: salve e compartilhe suas animações e visuais favoritos.
+• Grades e guias: alinhe elementos com título seguro, ação segura e linha de horizonte.
+
+CONTROLE DE ÁUDIO AVANÇADO
+• Equalizador gráfico, equalizador paramétrico e isolamento de voz: sintonize o áudio.
+• Níveis de áudio de quadro-chave, panorâmica e equalizador: crie mixagens perfeitas.
+• Suporte para áudio estéreo e mono duplo: para entrevistas com vários microfones em um clipe.
+Redução de áudio: equilibre sua música e diálogo.
+• Plug-ins de áudio externos: aprimore seu som.
+
+TÍTULOS CRIATIVOS E TEXTO MULTICAMADAS
+• Títulos multicamadas: combine formas, imagens e textos em seu gráfico.
+• Fontes, cores, bordas e sombras personalizáveis: crie títulos atrativos.
+• Importe fontes personalizadas: fortaleça sua marca.
+• Salve e compartilhe presets de títulos: perfeito para colaboração.
+
+FLEXIBILIDADE DE PROJETOS E BIBLIOTECA DE MÍDIA
+• Proporções para todos os usos: do cinema panorâmico às redes sociais.
+• Taxas de quadros de 18 fps a 240 fps: flexibilidade para qualquer cenário.
+• Edite a partir das Fotos, Frame.io e diretamente de unidades USB-C: acesse seu conteúdo em qualquer lugar.
+• Importe mídias do armazenamento na nuvem: onde quer que você as armazene.
+
+COMPARTILHE SUAS OBRAS-PRIMAS
+• Controle resolução, qualidade e formato:
+• Compartilhar filmes em redes sociais, armazenamento local ou armazenamento em nuvem.
+• Edite em vários dispositivos: transfira projetos com facilidade.
+
+RECURSOS AVANÇADOS (compre individualmente ou obtenha TODOS como parte da assinatura do Creator Pass - veja abaixo)
+• Aceleração de Velocidade e Keyframing Aprimorado - Crie rampas de velocidade, curvas de Bézier e easing com este recurso único e fácil de usar.
+• Exportação XML: Exporte seu projeto para o Final Cut Pro para Mac
+• Multicam Studio: sincronize 6 câmeras ou áudio e toque para alternar ângulos
+
+ASSINATURA CREATOR PASS
+• Obtenha acesso total ao Storyblocks para LumaFusion: milhões de músicas, efeitos sonoros e vídeos isentos de direitos autorais de alta qualidade, além de obter todos os recursos aprimorados acima.
+
+SUPORTE GRATUITO EXTRAORDINÁRIO
+• Tutoriais on-line: www.youtube.com/@LumaTouch
+• Guia de referência: luma-touch.com/lumafusion-reference-guide
+• Suporte: luma-touch.com/support
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Root Board Game]]></title>
+        <id>Root Board Game-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/root-board-game/id1439262206?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 9,99 € → 3,99 €<br/>The Riverfolk Expansion: 9,99 € → 7,99 €<br/>Root: The Underworld Expansion: 9,99 € → 7,99 €<br/>The Clockwork Expansion: 6,99 € → 3,99 €<br/>Exiles & Partisans & Vagabonds: 8,99 € → 6,99 €<br/>Root: The Marauder Expansion: 9,99 € → 8,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/root-board-game/id1439262206?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/ab/c7/63abc77b-66da-9eca-0acc-886b11d9e6f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>9,99 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[3,99 € ~ 9,99 €]</span>）
+</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>The Riverfolk Expansion：</strong><span>9,99 €</span> → <b>
+  <strong>7,99 €</strong>
+</b><span>[7,99 € ~ 9,99 €]</span>
+  </li><li>
+    <strong>Root: The Underworld Expansion：</strong><span>9,99 €</span> → <b>
+  <strong>7,99 €</strong>
+</b><span>[7,99 € ~ 9,99 €]</span>
+  </li><li>
+    <strong>The Clockwork Expansion：</strong><span>6,99 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[3,99 € ~ 6,99 €]</span>
+  </li><li>
+    <strong>Exiles & Partisans & Vagabonds：</strong><span>8,99 €</span> → <b>
+  <strong>6,99 €</strong>
+</b><span>[6,99 € ~ 8,99 €]</span>
+  </li><li>
+    <strong>Root: The Marauder Expansion：</strong><span>9,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[8,99 € ~ 9,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    The Riverfolk Expansion：<b>7,99 €</b>
+  </li><li>
+    Root: The Underworld Expansion：<b>7,99 €</b>
+  </li><li>
+    The Clockwork Expansion：<b>3,99 €</b>
+  </li><li>
+    Exiles & Partisans & Vagabonds：<b>6,99 €</b>
+  </li><li>
+    Root: The Marauder Expansion：<b>8,99 €</b>
+  </li><li>
+    Hirelings & Landmarks：<b>9,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Play the digital adaptation of the beloved tabletop board game. Root is a game of adventure and war where 2 to 4 players battle for control of a vast wilderness.
+
+The nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance’s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.
+
+Meanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander who they hope will lead their faction to resume their ancient birthright.
+
+The stage is set for a contest that will decide the fate of the great woodland. It is up to the players to decide which group will ultimately take root.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/9c/9d/e1/9c9de16c-15ee-c566-fb44-8a89e2dd0b13/c8675d04-a78b-4696-9eaf-196629e583f8_RootGroupShot_55.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b7/c4/9f/b7c49f1f-c75a-7b38-3276-3726f6d2c5b8/29000936-e0f9-4999-87e4-200cd033cfef_RootFight_55.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0a/e7/0a/0ae70af0-27f1-c1d3-f395-6f5644aec802/63de2431-5e2d-4865-a592-6703924ee9c2_Root_Home_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9c/af/02/9caf0281-d977-1705-fdbb-c8eec72da44f/aff9c070-caa2-4db2-a38e-ce17ffc1d538_Root_BeautifulBoardGame_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5c/be/d6/5cbed637-e104-8049-cdf3-3fda7723d3d5/bc49725c-8782-47a8-bd79-20efabc3028f_Root_WoodlandWarfare_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/3d/9f/ba3d9fb9-c07d-5650-6a82-719359fb6427/bfc391fd-3a4e-4848-a202-3954be049882_Root_Fight_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/26/26/62/26266206-de38-909f-1924-0de2926cf769/1d8eaec5-95c1-4625-bfc7-bdacf82bbc54_Root_OutrageUprising_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/be/b6/1b/beb61be0-87ce-272a-847d-a342a9c04b8b/8a972d7e-6720-4b41-bb5e-e392e31b321b_Root_Swindle_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/46/ae/f8/46aef8da-6759-9406-f689-ff7f03cd8a69/9aff02f8-5fc1-4c91-807c-f8cdfb9aeed9_Root_ManyWays_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/0d/bc/a30dbc1e-7a9f-e704-3d4c-4059c4f01d8d/7285218f-bf62-4248-a3e5-942f6a7debef_Root_StrategicChallenges_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/65/d9/81/65d981e3-b379-6571-dc01-ff1743fc3624/20eebe85-744d-480b-8605-a6f8c68c926a_RootGroupShot_Tablet.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/92/a0/ff/92a0fff7-78aa-9ec4-7ffa-5d84400484f4/f730198f-1c2a-45cc-9ac4-9f7c2282e29e_RootFight_tablet.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/54/5a/7c/545a7c62-ab17-5d6c-43da-64f1168444b9/42843730-c353-406d-b38d-a545183a3b06_Root_Home_2732-x-2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/92/3b/21923b13-5142-e74c-fd1d-5cba5273dfa6/97687b23-3da3-47d7-a9de-dbb591a88cc9_Root_BeautifulBoardGame_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e1/6c/49/e16c4906-f352-bbba-cf81-00ea51c3bde2/9c6fe526-5f2f-4243-8281-ee91623e5594_Root_WoodlandWarfare_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ec/c6/4e/ecc64eeb-c211-29c8-2280-d217e0c30289/56c5112d-d46b-4562-ae81-fb52f610e432_Root_Fight_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/cc/33/cc/cc33cce9-0183-8fbe-d805-d98d05fcf992/6ed6068f-3d7f-4a2f-a495-c20b8d9c56ea_Root_Outrage_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/90/fb/7a/90fb7a69-3d04-fd6a-2c62-ce317052a6e2/d6a45759-e737-402a-a8b9-87cf443f750f_Root_Swindle_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/aa/51/fd/aa51fdfc-109b-78a2-51eb-6d01ecd7d912/202fda3c-fe48-45b1-a98a-ffbaa6d1bfc2_Root_ManyWays_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2c/82/fb/2c82fb3d-4bee-61db-67f6-b970328f2a8e/84b99e55-4193-427b-beec-b1ccbacc4f39_Root_Challenges_2732x2048.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloons TD 6]]></title>
+        <id>Bloons TD 6-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/bloons-td-6/id1118115766?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 7,99 € → 5,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/bloons-td-6/id1118115766?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/96/d0049697-4c34-48ae-47b9-d614731a279c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>7,99 €</span> → <b>
+  <strong>5,99 €</strong>
+</b><span>[5,99 € ~ 7,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>5,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Oferta de Pilha de Dinheiro：<b>3,49 €</b>
+  </li><li>
+    Dinheiro de Macaco：<b>2,49 €</b>
+  </li><li>
+    Liberar Torre Totalmente：<b>5,99 €</b>
+  </li><li>
+    Pilha de Dinheiro de Macaco：<b>5,99 €</b>
+  </li><li>
+    XP de Torre：<b>1,19 €</b>
+  </li><li>
+    Oferta de Cofre de Dinheiro：<b>14,99 €</b>
+  </li><li>
+    Ponto de Conhecimento：<b>1,19 €</b>
+  </li><li>
+    Liberar Excelência：<b>5,99 €</b>
+  </li><li>
+    Modo Dinheiro Dobrado：<b>21,99 €</b>
+  </li><li>
+    10 Pontos de Conhecimento：<b>8,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Monte sua defesa perfeita com uma combinação de torres de macacos poderosas e heróis incríveis, depois estoure até o último Bloon invasor!
+
+Mais de uma década de defesa de torres e atualizações gigantes regulares faz do Bloons TD 6 o jogo favorito de milhões de jogadores. Curta horas infinitas de estratégia com Bloons TD 6!
+
+CONTEÚDO QUE NÃO ACABA!
+* Atualizações regulares! Lançamos diversas atualizações todos os anos com novos personagens, recursos e jogabilidade.
+* Eventos de Chefe! Temíveis Bloons Chefes desafiarão até as defesas mais fortes.
+* Odisseias! Batalhe em uma série de mapas conectados por temas, regras e recompensas.
+* Território Contestado! Una forças com outros jogadores e dispute território contra cinco outras equipes. Capture espaços em um mapa compartilhado e compita nos placares.
+* Missões! Descubra o que motiva os macacos com Missões projetadas para contar histórias e compartilhar conhecimentos.
+* Loja de Troféus! Ganhe troféus para liberar dúzias de itens cosméticos que permitem que você personalize seus Macacos, Bloons, animações, música e mais.
+* Navegador de conteúdo! Crie seus próprios Desafios e Odisseias, depois compartilhe-os com outros jogadores e veja quais são os conteúdos mais curtidos e jogados pela comunidade.
+
+HERÓIS E TORRES DE MACACO ÉPICOS!
+* 25 torres de macaco poderosas, cada uma com 3 caminhos de melhoria e habilidades ativadas únicas.
+* Excelência! Explore o poder incrível das mais recentes melhorias de Excelência.
+* 17 heróis diversos, com 20 melhorias icônicas e 2 habilidades especiais. Além de visuais liberáveis e vozes!
+
+GRANDIOSIDADE SEM FIM!
+* Cooperativo com 4 jogadores! Jogue todos os mapas e modos com até outros 3 jogadores em partidas públicas ou privadas.
+* Jogue em qualquer lugar: o modo individual offline funciona mesmo quando você não tem internet!
+* 70+ mapas feitos à mão, com mais conteúdo adicionado a cada atualização.
+* Conhecimento Símio! Mais de 100 metamelhorias para adicionar poder onde você precisa.
+* Poderes e Macacos Insta! Ganhos no curso do jogo, eventos e conquistas. Adiciona poder instantaneamente para mapas e modos complicados.
+
+Colocamos tanto conteúdo e melhorias quanto possível em cada atualização, e continuaremos a adicionar novos recursos, conteúdo e desafios com atualizações regulares.
+
+Respeitamos profundamente seu tempo e apoio, e esperamos que Bloons TD 6 seja o melhor jogo de estratégia que você já jogou. Se não for, entre em contato pelo site https://support.ninjakiwi.com e nos ajude a melhorar!
+
+Mas esses Bloons não vão se estourar sozinhos... Afie seus dardos e vá jogar Bloons TD 6!
+
+
+**********
+
+Notas Ninja Kiwi:
+
+Por favor, veja nossos Termos de Serviço e Política de Privacidade. Você será solicitado no jogo a aceitar esses termos para salvar na nuvem e proteger o progresso de seu jogo:
+https://ninjakiwi.com/terms
+https://ninjakiwi.com/privacy_policy
+
+Bloons TD 6 contém itens de jogo que podem ser comprados com dinheiro real. Você pode desabilitar compras no jogo nas configurações do seu dispositivo ou fale conosco em https://support.ninjakiwi.com se precisar de ajuda. Suas compras financiam nossas melhorias de desenvolvimento e novos jogos, e agradecemos de verdade cada voto de confiança depositado com suas compras.
+
+Comunidade Ninja Kiwi:
+Amamos ouvir nossos jogadores, então, entre em contato com qualquer opinião, positiva ou negativa, em https://support.ninjakiwi.com.
+
+Streamers e criadores de vídeos:
+A Ninja Kiwi está promovendo criadores de canais no YouTube e na Twitch. Se você ainda não está trabalhando conosco, continue fazendo vídeos e conte-nos sobre seu canal em streamers@ninjakiwi.com.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/d3/b6/f0d3b667-3b05-13d8-1262-53b9f9d6b479/26f1a1ea-689b-4ffd-855f-ceaca1f2ca4b_1_5.5__0012_Portuguese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/97/60/a6/9760a6cb-3ddc-de4d-354f-53d8a42489d0/d946d51b-f895-44b1-8fa7-af13cf09deed_2_Towers_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/27/61/8d276170-585d-bd80-92de-3457d8fd0a61/e4b89650-df99-4ce2-a29f-8494f98ba170_3_5.5__0010_Portuguese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f7/96/32/f79632f7-a07b-86db-4249-49efd5e67381/c2eb8163-44cd-4533-b425-e2552931cdcb_4_Odyssey_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/99/41/dc99416f-ec3b-4762-d6f7-3ab7cbb5c750/e0f269ec-084a-4125-9e3f-feee0028b3d6_5_5.5__0010_Portuguese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/61/07/67610704-f90c-0596-4159-36e95ff2d446/4e1a5fd0-ab4f-4903-81ab-9df353a28d15_6_5.5__0010_Portuguese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/2e/b3/9b2eb3e0-e817-8bb4-ca9d-00924e6c04f6/78b4aa68-664a-49f5-9277-a0a0be1b47ee_7_5.5__0010_Portuguese.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/7e/33/6d7e3365-0e07-5f98-b629-7b2d7be34ce7/mzl.hlseitxi.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/20/6a/ff206adf-0ce2-46e7-e979-7b3a196d7752/ce62beb0-f735-407a-b4c3-f56f5f596a3a_1_iPadPro__0012_Portuguese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/f6/5b/0ef65bb0-2d0b-9174-754a-8e18bcd8e30f/aa8cd1c4-1a34-41dc-8719-177fb3a1d7b9_2_iPadPro__0012_Portuguese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/63/4b/af634b00-c3c9-2358-d404-48cbcba9ac24/29a34130-ee10-4cad-bf8c-8e9d2484f5c6_3_iPadPro__0010_Portuguese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/36/ee/ea36eeab-d567-61b0-0782-9a4791f4cc1a/495925da-b2ff-4e30-bd5e-261bf07f76be_4_iPadPro__0010_Portuguese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/12/d9/0c12d99d-781b-0900-cb87-235dbceecef8/2ceb7af5-a89d-4911-baa5-b8bbaa07a8bb_5_iPadPro__0010_Portuguese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/89/7e/6c897e05-5910-7f7b-ded1-e51aea8d7aae/86036d98-2b22-4c6c-968d-6893195cb297_6_iPadPro__0010_Portuguese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/29/fc/cf29fca7-9c28-7b3e-5a22-f6660326b1a0/0f21096b-cc06-4468-bd82-944c3818c491_7_iPadPro__0010_Portuguese.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/90/96/84/90968433-a8ca-3d62-a649-75191c0bcbe7/mzl.thqikfqc.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机帝国]]></title>
+        <id>手机帝国-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/%E6%89%8B%E6%9C%BA%E5%B8%9D%E5%9B%BD/id1380582804?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/%E6%89%8B%E6%9C%BA%E5%B8%9D%E5%9B%BD/id1380582804?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/fd/4f/35fd4fcb-381b-1ee8-d703-e4173dfb9613/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[1,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  《手机帝国》是一款以“造手机”为题材的高自由度单机模拟经营游戏。你扮演一名回到2001年的创业者，因为独到的眼光拿到了神秘投资人的启动资金，进而创立了一家可能改变世界的科技企业。游戏从2001年开始到2035年结束，你将从研发最早期的九宫格智能手机开始，一直到研发可完全独立使用的AR智能眼镜结束。在这35年时间里，你将亲历、见证、推动智能手机波澜壮阔的发展历程，并有机会把你的公司发展成为世界第一的科技企业。
+
+•有深度的玩法
+《手机帝国》的核心玩法是研发更好的图纸、升级更牛的科技、打造更强的团队、研发更好的手机、赚取更多的利润，如此循环。而“如何用人”是整个游戏的精髓所在，根据员工的能力、天赋和技能，把合适的员工放到合适的岗位才会发挥出其最大潜能。员工的配合还会触发团队突破效果，这是一个可以让你突破科技限制从而创造奇迹的新机制。
+
+•海量的内容
+你在游戏中可研发经典的九宫格手机、全键盘手机、早期触控手机、全面屏手机、折叠屏手机，甚至未来的AR智能眼镜，总共有超过100种手机外观供你研究。
+
+•不断进阶的科技
+游戏中的电池、屏幕、材质、相机等均可不断升级，在你资金充裕时甚至可以启动CPU和操作系统的自研项目，你将有可能研发出性能逆天的芯片来大幅提升自己的手机品质。
+
+•新颖的竞争体验
+你作为科技公司的CEO将与各个时期的科技巨头们展开竞争，你可以选择和他们搞好关系共谋发展，也可以为争夺优秀人才展开挖人大战。
+
+•大量的随机事件
+为了增加游戏的世界感，我们在游戏中融入了大量的随机事件，包括：世界事件、行业新闻、危机事件、幸运事件、员工事件、记者采访等等，甚至还包括比如太空电梯、火星登陆、AI大爆发等未来事件。
+
+•独创的说服系统
+为了更好的模拟现实生活中的人才招揽过程，我们在游戏中内置了一款小游戏，该游戏以古老的“九型人格”为原型，玩家需要根据招募对象的不同人格类型，采用不同的沟通技巧和策略来说服对方。越是顶级的人才，说服的难度越高。
+
+•更多等待你探索的内容
+游戏中还包括信用评级、企业并购、情报系统、员工培养、公司战略等其他好玩的元素等待你来探索。
+
+支持语言:
+*简体中文 (Simplified Chinese)
+*繁体中文 (Traditional Chinese)
+*English
+
+操作系统
+iOS：8.0 及更高版本
+
+推荐配置
+运行内存：1GB 及更多
+存储空间：1.5GB
+
+游戏讨论群：554989526
+疑难杂症、bug反馈Q群：1031947214
+Email：indie@xindong.com
+©2020 X.D. Network Inc. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/3b/19/813b1985-ef2c-75ae-57ab-f15faed25afa/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/e0/8f/5ee08f65-5213-80a2-e4a9-9e3b09ac05d1/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/38/ca/2f38caf0-0919-f98f-9168-38742d192bb2/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c9/a8/8c/c9a88c64-8c15-efc0-ce8b-ef33f74f95f8/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1f/2a/f2/1f2af251-da0f-4a42-bcdc-de21e5feba9c/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1d/b8/08/1db808ee-75e3-577d-c2a8-e17a33f32c3f/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/d0/79/f7d07943-a146-e863-1aad-33a56a937894/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/4e/f9/ad4ef903-37c6-d936-2995-e0b545d98ad1/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/ec/2e/71ec2efd-5044-0335-5e2f-92b322f153cd/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/8a/5e/e48a5e7c-b660-8522-77ac-0bf6134ab77b/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/cf/db/b9cfdb56-98b7-c921-0f42-75c053443d19/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/94/d5/30/94d530f6-dac9-b41f-212a-94046822ad20/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/0f/86/610f86d8-15e8-74b2-92e2-2147d8c1d68a/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/d5/63/3cd56333-b5dc-ce4d-6fa4-6df2a5befed1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/fb/2e/f0fb2e79-5f77-32e1-f732-bbd2993ead02/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/87/6b/62/876b62ba-8932-3ab8-87e4-dda211acedeb/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9a/05/9c/9a059c68-0300-6d41-aecb-9852e4ff5ae4/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/63/ff/eb63fff5-9f7b-5b56-d779-df1a49578458/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/68/12/1d681236-54bb-611c-78f3-66525a4e3d14/pr_source.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juicy Realm]]></title>
+        <id>Juicy Realm-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/juicy-realm/id1453808408?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/juicy-realm/id1453808408?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/23/e7/0c23e71d-9853-40d0-4273-f6c08cb1369b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[1,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  Juicy Realm is a roguelike game with fruits as enemies. It is set in a world in which the line between animals and plants is blurred. It began with the tipping of the food-chain, which forced the humans to establish an outpost and begin an investigation in the region where the first species of mutated plants was discovered. The military has prepared a vast number of powerful weapons, with you leading the vanguard forces to wage this long war.
+
+Subverted Order
+“Many years later, when the humans watch as the plants climb up to the top of the food chain, they will be reminded of their own naivety and arrogance…”
+Only when all the plants started to evolve into animals, growing limbs and becoming sentient, did the humans realize the threat of those photosynthetic-lifeforms. No one knows how they achieved the state of evolution that took animal lifeforms millions of years to reach in such a short amount of time, and no one knows their ultimate objective. The only thing known for sure is that the humans now face the greatest challenge since they climbed up to the top of the food chain.
+
+Gameplay
+As the first explorers of this unknown region, you must strive to venture deep into the enemy hive, defeat all kinds of fruits and arm yourself with various equipment, as well as upgrade yourself with the resources you find in your way.
+
+Game Features
+-Rougelite elements such as random terrains, loot drops, and monsters
+-Hundreds of special and bizarre weapons and items
+-Loads of unique mod enemies and bosses
+-10 characters in the roster with unique skills and abilities
+-Unique artstyle with rich details
+
+Twitter: /@JuicyRealm
+Facebook: @JuicyRealm
+Press contact: juicyrealm@spacecangames.com
+
+[Minimum Requirements]
+
+Please make sure you are using devices matching the following requirements. If you are using old devices, the game might not run normally on your device.
+
+iPhone 6S and higher
+iPad Air 2 and higher
+iPad Mini 4 and higher
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/45/0a/3a450a53-b535-96da-505b-e15d4ee981ae/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/c7/15/f0c7157f-7618-abcf-d022-22cab0453c31/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/3b/ad/e13badd6-1686-70e6-e2c6-94976ed10288/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/0c/9c/950c9ca5-39fe-c66a-a9b4-fcdc5a14565c/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/58/78/c758787b-6f28-cb09-1600-b63d4502f75d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/2a/62/252a62fe-c11d-7cbc-1c3a-4ea6531dca1e/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/84/8a/e0/848ae0ea-d8e0-8f67-4bfc-e1679ee028e4/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/0a/e6/6f0ae677-31d6-1e47-f50c-8c956f30ae84/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/31/c8/0831c840-1232-6894-2310-e04ced38cef0/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/db/83/48db831b-ff2a-4d3a-f3bc-a3336e5070f6/pr_source.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To the Moon]]></title>
+        <id>To the Moon-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/to-the-moon/id1159700098?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/to-the-moon/id1159700098?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/70/9a/b4709aac-55d1-21e8-89d4-ccdeccf04a1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[1,99 € ~ 5,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  Uma história sobre a viagem de dois doutores através das memórias de um homem moribundo, de modo a realizar artificialmente o seu último desejo.
+
+Mais detalhes
+A história de "To the Moon" revela-se diante dos jogadores, assim como um filme. Enquanto o jogo completo não tem sistema de batalha e pode ser finalizado em algumas horas, a atraente história e a trilha sonora original tocante ressoa com os jogadores em todo o mundo. Além de receber grandes classificações positivas, "To the Moon" ganhou muitos prêmios da Gamespot, Metacritic, WIRED, e muito mais, e foi nomeado para "I'm Not Crying, There's Something In My Eye" nos Prêmios Steam de 2016.
+"To the Moon", um RPG baseado em história com gráficos em pixels, foi originalmente desenvolvido há seis anos para PC pelo produtor canadense Kan Gao e pela Freebird Games, seu estúdio de jogos indie. Os direitos de desenvolver e publicar a versão móvel remasterizada de "To the Moon" foram adquiridos pela X.D. Network Inc.
+
+Sobre este jogo
+Os doutores Rosalene e Watts têm trabalhos peculiares, eles oferecem a chance de viver outra vez, tudo dentro da mente dos seus pacientes.
+
+Devido a seriedade da operação, a nova vida torna-se na última coisa de que os pacientes se lembram antes de respirarem uma última vez. Assim, a operação só é aplicada a pessoas em estado terminal, pare que possam experienciar o que sempre quiseram, mas não conseguiram.
+
+Esta história particular segue a tentativa de completar o sonho de Johnny, um homem idoso. Ao recuarem na sua memória, novos fragmentos do seu passado se vão relevados. Ao unir os acontecimentos da sua vida, os dois doutores procuram descobrir a razão por detrás do seu último pedido.
+
+E o último desejo de Johnny é, claro… ir para a lua.
+
+CARACTERÍSTICAS CHAVE
+•Desbloquear 29 novas tags imessage
+•Nova função de música. Suporta música de fundo. Baixar músicas para o jogo (abre automaticamente após finalizado)
+•Novo DIY
+Função de Compartilhamento de Código. Clique e compartilhe com amigos em qualquer lugar."
+•Uma experiência única que não se baseia no combate, revolvendo à volta da história.
+•Uma mistura inovativa de elementos de jogos de aventura com o estilo estético de RPGs clássicos.
+•Uma soundtrack original reconhecida criticamente que se liga intimamente à historia. 
+•Uma execução rápida sem perdas de tempo ou esperas inúteis.
+
+Languages Supported: 
+* English 
+* Français 
+* Deutsch 
+* Español (Latinoamérica) 
+* Español (Europa) 
+* Português 
+* Polski
+* lingua italiana (Italian)
+* Người việt nam
+* русский(Russian)
+* 한국어 (Korean) 
+* 简体中文 (Simplified Chinese) 
+* 繁體中文 (Traditional Chinese) 
+* 日本語 (Japanese)
+* Türk dili(Turkish)
+* Українська（Ukraine）
+
+Facebook: /TotheMoonHD
+Twitter: @TotheMoonHD
+Service email: TotheMoon@xindong.com
+
+© 2017 X.D. Network Inc. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/48/37/34/483734dd-6f5d-6311-0786-6bb7f1b28fab/mzl.mykmuzch.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/07/01/4e/07014ee2-1d60-9ffd-33d5-f96613926fd7/mzl.pnqtvjrg.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4a/4f/81/4a4f8161-9162-2a2f-150d-1d58f2b0c473/mzl.wdsgzxbs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/0f/68/e9/0f68e9f0-5e96-922e-2f84-897a4aa39457/mzl.owkybnwd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/3c/a9/6c/3ca96cc7-5127-7bb6-cad5-41aeb24675c4/mzl.xowhekun.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/6b/14/1e6b143a-a750-a2ce-5db0-62e1be5ac493/mzl.caaungex.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/41/90/f0/4190f0bc-56cd-1984-2d63-2fc592a54569/mzl.tmywratp.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/63/79/3c/63793ce5-d63c-7994-196d-2a5bde26cb1d/mzl.opuufrqu.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/3d/6e/84/3d6e84fe-adb5-3db2-e32d-63723706cac4/mzl.fsqknvhl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/22/82/f922829c-db17-86d2-42eb-88b036da4a7b/mzl.epomvamn.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICEY]]></title>
+        <id>ICEY-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/icey/id1271620263?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/icey/id1271620263?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/e4/0b/42e40bed-ba27-1450-9463-da43e44010d3/AppIcon-1x_U007emarketing-0-9-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[1,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  ICEY is a 2D side-scrolling action game. As you follow the narrator's omnipresent voice, you will see through ICEY's eyes and learn the truth about her world. 
+
+“Alright, you caught me! This ISN'T really just a simple 2D action game, and you WON'T be seeing through ICEY's eyes... NOR will you learn the truth about her world." says the narrator. 
+
+“ICEY is a Meta game in disguise. The narrator will constantly urge you in one direction, but you must ask, "Why? Why am I following his directions? Why can't I learn the truth about this world and ICEY's purpose here?" Fight against his tyranny, and uncover what's really going on for yourself!
+
+In fact, you can become ICEY, and let loose the shackles of your own identity. You are ICEY, and ICEY is you... if you want it that way. Feel free to keep hold of your own self, if you wish. 
+
+Now Is the Time For You to Discover the Truth.
+
+[FEATURES]
+
+Fast-paced Combat: 
+Crush enemies in the palm of your hand. 
+Attack! Dodge! Counterattack! Do not hesitate. 
+This is the only way to survive! 
+
+Incredible Combos: 
+With simple controls, amazing combos are easy to unleash, even for beginners. 
+Every skill is special in its own way. Master your favorites and create your own fighting style!
+
+Massive Cyborg Bosses: 
+Can you withstand the onslaught of attacks from terrifying cyborg bosses? 
+Every boss unleashes flurries of different attacks. It's up to you to find their weak spots and tear them apart!
+
+[Awards]
+-Nominated, Tokyo Game Show 2016 DENGEKI PlayStation Best Indie Game
+-Official Selection, 2016 Gamescom Indie Arena Booth 
+-Most Promising Game 2nd Prize, Taipei Game Show 2016 
+-Official Selection, Casual Connect Asia 2016 
+-Official Selection, IGF China 2015 
+-Best Technology Award, Indieplay 2015
+
+Operating system 
+iOS: version 8.0 or higher 
+
+Recommended configuration 
+RAM: 2 GB or more 
+Storage: 1.2 GB (iOS) 
+
+Tips 
+- As gameplay smoothness and reliability are affected by screen resolution and the number of applications running in the background, you can adjust the image quality option to achieve balance between image, smoothness and power consumption. 
+
+- Added MFi controller support
+
+Languages Supported:
+*English
+*Francais
+*Español
+*简体中文 (Simplified Chinese)
+*繁体中文 (Traditional Chinese)
+
+Facebook: /ICEYtheGame
+Twitter:@ICEYtheGame
+Service Email: ICEY@xindong.com
+2017 X.D. Network Inc. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/31/4d/80314d42-4928-285e-ff1e-ae1ed0594fe5/mzl.paznipql.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/e1/ad/6be1ad4c-c98e-9ff0-c05e-442317676aa1/mzl.ixidjdpc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/bf/ec/20bfec09-f888-df7e-cb69-3e2b38d93039/mzl.qwspudpw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/1e/1b/311e1b7f-65f5-6868-3533-cd7a0f937706/mzl.qxndgpfo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/f3/05/cef305b2-337e-46b8-4bb9-faba8a466ae7/mzl.ugthspkk.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/73/0e/2b/730e2b72-7942-0a0a-d991-7860268f517f/mzl.jvnwrskb.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/0b/42/710b42d7-f75b-d88d-5f3a-40d305126d19/mzl.qhvrhsiw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/5e/92/855e9240-0e07-b317-a4ab-d649762b22f9/mzl.evnuizwl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/12/d3/7012d3b7-87cb-8022-3b2c-84b36e1e43e1/mzl.rnckkema.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moncage]]></title>
+        <id>Moncage-pt-1773959796922</id>
+        <link href="https://apps.apple.com/pt/app/moncage/id1587860402?uo=4"/>
+        <updated>2026-03-19T22:36:36.922Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 3,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/moncage/id1587860402?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[3,99 € ~ 5,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h2>Application Description</h2><p>
+  Moncage is a stunning vignette puzzle adventure developed by Optillusion. 
+
+The game takes place inside a mysterious cube, with each side of the cube housing a unique world: be it an old factory, a light tower, an amusement park, or a church, etc. At first sight, they may seem random and unrelated, but upon closer look, you will become mesmerized by the subtle and intricate ways of how these worlds connect…  
+
+【Solve Puzzles with Mind-Boggling Optical Illusions】
+Use your imagination and spare no brain cells to find the connection and pinpoint every possible interaction between different sides of the cube, then watch as the magic unfold in front of you.
+
+【Collect All Photos to Unveil the Story】
+Behind the puzzles, there lies a story with a surprising twist for the player to uncover. Collect the photos from obscure corners and angles to reveal the underlying story, one photo at a time.
+
+【Get Unstuck with Thoughtful Hints】
+There is a multitude of guidance systems to help prevent players from getting stuck. Focus can be activated to highlight the key items to the solution, while hint texts are available to provide further clarity. And, if all else fails, video walkthroughs can be unlocked as the ultimate safety plan. 
+
+【Prove Your Puzzle-Solving Skills with Medals】
+There are a total of 15 achievements in the game, each corresponding with a Medal that has been crafted with a uniquely stunning design. A complete collection of the 15 Medals could be the perfect evidence to attest to your master puzzle-solving skills~
+
+【Connect with us:】
+Twitter: @MoncageTheGame
+Email: moncagethegame@gmail.com
+Discord: https://discord.com/invite/TEVX2uPEsj
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LumaFusion]]></title>
@@ -2323,50 +3431,5 @@ O Farming Simulator 20 vem com os seguintes recursos:
 • Novos gráficos 3D exibem ainda mais detalhes das tuas máquinas e do ambiente norte-americano.
 • A vista da cabina permite-te conduzir os teus veículos de uma forma ainda mais realista do que dantes"
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/22/0c/de/220cde84-ebcc-e67c-69ff-e5168d942fb0/tns.tinzufkn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/bf/e8/bf/bfe8bfaa-ede4-1857-df98-837c0ea146a8/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/09/47/01/09470115-20c8-4078-b369-9126d99da644/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/45/00/c0/4500c01f-a3c6-92ec-ab29-b83ccfba120f/tns.rlosixom.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a4/3f/c2/a43fc270-7782-0a41-bc03-685053301472/43924ee5-885c-43cd-aa01-b181a3ceeebd_03-_U005b16_9_U005d_2208x1242__U0028iPhone_8_7_6_Plus_5_U002c5_Zoll_U0029_copy.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/8a/69/0c/8a690c13-c0e8-b67e-8f55-65c7ab44a30c/da4f99c0-ee19-40c2-84ae-d4f2e6dd4351_01-_U005b16_9_U005d_2208x1242__U0028iPhone_8_7_6_Plus_5_U002c5_Zoll_U0029.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/56/e5/5d/56e55d81-7828-3e2b-84a7-e6957b15649a/c4da76a6-0b50-40de-a59b-28c08e52ed4d_02-_U005b16_9_U005d_2208x1242__U0028iPhone_8_7_6_Plus_5_U002c5_Zoll_U0029_copy.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/94/8e/cf/948ecf5f-e1ee-2c91-6545-c26ac3a6d923/tns.nvokymdh.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/10/18/b2/1018b29e-d523-b480-2c35-56f5b75d599c/tns.ykxdeoyn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1c/18/02/1c1802d1-8027-dc9f-0d89-21e318473c9b/a0c2f391-2b0c-486a-8aa5-af91e3961022_02-_U005b4_3_U005d_2732x2048__U0028iPad_Pro_12_U002c9_Zoll_U0029_copy_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8a/42/5b/8a425b08-f1ed-4154-22f8-230ddcd29ced/7b2e5489-0d80-475b-9953-578698f09f9c_01-_U005b4_3_U005d_2732x2048__U0028iPad_Pro_12_U002c9_Zoll_U0029.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d5/4e/44/d54e4430-f917-74aa-755b-a32ca14815df/28d60db4-644d-4684-be8f-6eb3161d4a5e_01-_U005b4_3_U005d_2732x2048__U0028iPad_Pro_12_U002c9_Zoll_U0029.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/dc/cb/44/dccb44b0-a5f9-5214-1a69-b0596210e06f/c931b03e-aea9-434d-ae65-d8dfe2710914_02-_U005b4_3_U005d_2732x2048__U0028iPad_Pro_12_U002c9_Zoll_U0029_copy_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ee/00/36/ee003682-03b1-7905-def8-3c4b7d2148ad/acbc970a-d6b1-4817-8b79-9756daebd830_03-_U005b4_3_U005d_2732x2048__U0028iPad_Pro_12_U002c9_Zoll_U0029_copy.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labyrinth City]]></title>
-        <id>Labyrinth City-pt-1773700901853</id>
-        <link href="https://apps.apple.com/pt/app/labyrinth-city/id1586126746?uo=4"/>
-        <updated>2026-03-16T22:41:41.853Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/labyrinth-city/id1586126746?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/c4/4e/f8c44e91-1477-b8a2-4512-f7842214df95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h2>Application Description</h2><p>
-  Labyrinth City: Pierre the Maze Detective is an adventure puzzle game for children and adults alike! Adapted from the award-winning children's illustration book series by IC4DESIGN and developed by Darjeeling, Labyrinth City takes you on a trip through a fantastic world of underground cities, hot-air balloons, tree-tops and haunted houses. Find your way through each interactive maze, engage with colorful characters, explore hidden pathways, unlock pieces of clues and solve the mystery along the way.
-
-【The Story】
-A new case has arrived for Pierre the Maze Detective! Mr. X has stolen the Maze Stone, which has the power to turn the whole Opera City into a maze. Help Pierre and his friend Carmen find their way through the mazes and stop Mr. X before it's too late!
-
-【The Game】
-You play as Pierre, Opera City's renowned maze detective, and you must retrieve the Maze Stone stolen by the notorious thief Mr. X! Without you, Opera City is doomed, as the Maze Stone has the power to turn everything around it into an intricate labyrinth. "Beautiful and cute puzzle games are fine and all," I hear you say, "but what about the challenge?". A fine question! In a maze, although there is only one true path to the exit, there are countless trails to hidden treasures and mini-games. So pay close attention while exploring Opera City and you will be pleasantly surprised. 
-
-【Features】
-- Explore Opera City! 
-Enter colorful worlds teeming with life and intricate details based on the best-selling children’s book series Pierre the Maze Detective by IC4DESIGN 
-
-- Solve All Mysteries! 
-More than 100 hidden objects and unique trophies to find, engaging puzzles and minigames to stimulate your brain 
-
-- Interact With the Surroundings! 
-Over 500 interactions possible with the characters, items, and background 
-
-- Relive Childhood Memories! 
-Each scene is based on a double-page illustration from the original work 
-
-- Original soundtrack 
-
-- Save the World!
- All levels are tied together by an overarching narration that will fill the detectives within us with purpose 
-
-- Speaks Your Language! 
-Available in English, Chinese (simplified and traditional), French, German, Italian, Japanese, Korean, Spanish, and Russian
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/25/0a/c5/250ac576-1169-9692-359d-2b70d9316677/beb1bb18-6490-422b-b03a-fa9b145c1518_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fc/98/39/fc983926-40b9-500f-92d7-360b10dacb32/a0f012f2-c081-4419-8007-cf8701e9c2e9_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/19/a3/c1/19a3c19c-2ad7-5263-4188-b388a881937b/6eb5bb38-55ed-4136-a295-ee43ae67cf44_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/6a/60/e16a604a-9edd-d25f-2523-d560c2f639f6/9e37c66a-e618-4f51-80d1-3c53e3807954_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ed/4d/2c/ed4d2cb3-a5c6-94e6-13e7-970a10b8b2f2/51ca2494-b21d-4ef0-88d6-122e080c0f74_IMG_0397.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3f/1b/57/3f1b5793-f8b9-13ba-5b46-68980ec18b28/c7347421-e02d-4de3-9a98-68515c7ef4f7_IMG_0405.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3d/dd/f8/3dddf84c-b650-5320-95de-ae347c5d71c2/f146a507-41c7-4cfe-a6f7-e410895c8c2a_IMG_0401.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/62/be/d362be30-0590-7b6a-36e1-1244d0fc303a/aa093143-87d3-46db-8952-31236c38b64e_IMG_0415.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f7/09/70/f7097039-0da5-6174-27f2-0f822f8bdbbc/52dbe8d6-d5e7-4efe-a6bc-1edb76089ec5_IMG_0425.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/69/d5/cf/69d5cf4c-ff1a-b652-2819-fa72df893dcd/dd0d1f61-bdbf-42fb-b568-8c81acd85b14_IMG_0400.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/a0/90/82a0905a-4bb5-a618-8536-a58add2b96a3/3865d469-d107-47b4-9785-7bc20341be02_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/01/b6/62/01b66232-c833-d39a-edc1-9e7769bc806c/7d74f9f5-783d-44e1-86bf-39fc07aab5e2_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/de/3d/bc/de3dbcba-0962-bb38-dc08-d98f2f7505a2/668d7c1e-fc81-4b1c-846c-962ce16bff73_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/fd/d2/c3fdd21c-ab24-b0a8-824e-a0c586e02cba/ffdd88a1-074b-446e-a450-862a962fd7f3_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/cb/21/ddcb21d9-8c5f-9c48-ce1e-7bf0d5eec895/4403fbcd-4abd-40c5-8390-960b4d3bc2a7_IMG_0095.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/d9/64/3cd964bb-226d-79b9-bd95-cb79afdb8e53/93654817-41ed-48cc-905d-9f3bb2daa050_IMG_0096.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b8/12/10/b81210c5-8342-0369-e06e-84c5a7660964/9d2f43a6-8c01-44d0-97cf-38f8b605f258_IMG_0099.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/99/5f/4c/995f4c4a-5aac-5b7d-c188-60e117bd7462/2a17d9db-0122-4c3d-9b6a-fcb736b641d5_IMG_0111.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/6e/ac/836eac7e-52c6-eb15-c1b4-6c8e86f83c2e/aa3b9684-552e-4563-a992-e84e70233d36_IMG_0109.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b6/ca/07/b6ca07a8-7b8d-75d9-227a-9191e8370a71/1c0d375d-f1e7-44ba-a916-71f4f44729b7_IMG_0095.PNG/552x414bb.png" />]]></content>
     </entry>
 </feed>
