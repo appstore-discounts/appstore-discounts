@@ -42396,6 +42396,18 @@
     "history": [
       [
         {
+          "timestamp": 1773888745831,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "300 Altitude Query Times": "3,99 €",
+            "100 Altitude Query Times": "2,99 €",
+            "Lifetime Premium": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1767925176088,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -63723,13 +63735,37 @@
     "name": "Spark Novels",
     "maxPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "formattedPrice": "7,99 €",
+      "Monthly Sponsor": "6,99 €",
+      "Yearly Sponsor": "22,99 €",
+      "Large Tip": "9,99 €",
+      "Medium Tip": "5,99 €",
+      "Small Tip": "2,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "formattedPrice": "7,99 €",
+      "Monthly Sponsor": "6,99 €",
+      "Yearly Sponsor": "22,99 €",
+      "Large Tip": "9,99 €",
+      "Medium Tip": "5,99 €",
+      "Small Tip": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773888745831,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Monthly Sponsor": "6,99 €",
+            "Yearly Sponsor": "22,99 €",
+            "Large Tip": "9,99 €",
+            "Medium Tip": "5,99 €",
+            "Small Tip": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -65205,6 +65241,25 @@
       "Swift": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773888745831,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "C90GTx": "0,99 €",
+            "UH-60": "0,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "22,99 €",
+            "Global scenery - 12 months": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773715469276,
