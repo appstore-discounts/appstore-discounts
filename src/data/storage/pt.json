@@ -22501,6 +22501,27 @@
       ]
     ]
   },
+  "958604518": {
+    "name": "Lumino City",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773917518691,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "960457446": {
     "name": "Flush Toilet Finder Pro",
     "maxPriceInfo": {
@@ -40818,6 +40839,31 @@
           "price": 9.99,
           "formattedPrice": "9,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1446215054": {
+    "name": "Comparador Dif",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Remove advertisements": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Remove advertisements": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773917518691,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Remove advertisements": "0,99 €"
+          }
         }
       ]
     ]
@@ -76239,6 +76285,17 @@
     "history": [
       [
         {
+          "timestamp": 1773917518691,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "1000 Redemption Tickets": "9,99 €",
+            "80 Redemption Tickets": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773369733122,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -77313,10 +77370,10 @@
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €",
-      "WIREFRAME RAINBOW": "1,99 €",
-      "WIREFRAME RED": "1,99 €",
-      "WIREFRAME BLACK": "1,99 €",
-      "WIREFRAME WHITE": "1,99 €",
+      "WIREFRAME RAINBOW": "0,99 €",
+      "WIREFRAME RED": "0,99 €",
+      "WIREFRAME BLACK": "0,99 €",
+      "WIREFRAME WHITE": "0,99 €",
       "LOW POLY BLUE": "1,99 €",
       "LOW POLY PINK": "1,99 €",
       "LOW POLY CALICO": "1,99 €",
@@ -77325,6 +77382,25 @@
       "LOW POLY GRAY": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773917518691,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "WIREFRAME RAINBOW": "0,99 €",
+            "WIREFRAME RED": "0,99 €",
+            "WIREFRAME BLACK": "0,99 €",
+            "WIREFRAME WHITE": "0,99 €",
+            "LOW POLY BLUE": "1,99 €",
+            "LOW POLY PINK": "1,99 €",
+            "LOW POLY CALICO": "1,99 €",
+            "LOW POLY RED": "1,99 €",
+            "LOW POLY BLACK": "1,99 €",
+            "LOW POLY GRAY": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772678570621,
