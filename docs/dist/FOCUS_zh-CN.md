@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1854` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1855` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1855|1546607440|自动|ImagExif 2 - edit exif data|ImagExif 2 - edit exif data|ImagExif 2 - edit exif data|ImagExif 2 - edit exif data|ImagExif 2 - edit exif data|ImagExif 2 - edit exif data|ImagExif 2 - edit exif data|
 |1854|958604518|自动|❌|Lumino City|Lumino City|Lumino City|Lumino City|Lumino City|Lumino City|
 |1853|1446215054|自动|差异检查|差異檢查|差異檢查|差異檢查|Diffchecker|Diffchecker|Comparador Dif|
 |1852|1164523253|自动|Artemis Director's Viewfinder|Artemis Director's Viewfinder|Artemis Director's Viewfinder|Artemis Director's Viewfinder|Artemis Director's Viewfinder|Artemis Director's Viewfinder|Artemis Director's Viewfinder|
@@ -807,7 +808,7 @@
 |1057|6738923299|自动|❌|Spin Hero|Spin Hero|Spin Hero|Spin Hero|Spin Hero|Spin Hero|
 |1056|299342927|自动|❌|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|PocketPhonics (basic edition)|
 |1055|6502399166|自动|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|卡路狸 - 轻运动记录|Calobara|❌|❌|
-|1054|1435752659|自动|❌|駕考王-摩托車、汽車、客車、貨車駕駛實習考試|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|
+|1054|1435752659|自动|❌|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|駕考王 - 澳門駕考駕照筆試模擬考試題庫|
 |1053|6458733069|自动|养生钟 - 中医时辰手表软件|養生鐘 - 解压小橙子 经络穴位图解|養生鐘 - 解压小橙子 经络穴位图解|養生鐘 - 解压小橙子 经络穴位图解|Health Clock - Sleep & Health|养生钟 - 中医时辰 跳绳手表游戏|养生钟 - 中医时辰手表软件|
 |1052|1216484605|自动|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|Viewfinder Preview|
 |1051|440666387|自动|化学家 - CHEMIST|化學家 - CHEMIST|化學家 - CHEMIST|化學家 - CHEMIST|CHEMIST by THIX|CHEMIST by THIX|CHEMIST by THIX|

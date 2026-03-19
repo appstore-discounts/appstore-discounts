@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-03-19T12:13:07.500Z</updated>
+    <updated>2026-03-19T16:16:10.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-19T12:13:07.500Z</updated>
+        <updated>2026-03-19T16:16:10.936Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptThu, 19 Mar 2026 12:13:07 GMT</id>
+        <id>rankingptThu, 19 Mar 2026 16:16:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-19T12:13:07.500Z</updated>
+        <updated>2026-03-19T16:16:10.936Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1854</b>
+        <b>1855</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1653</b>
+        <b>1654</b>
       </td>
       <td>
         <b>81</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1576</b>
+        <b>1577</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1432</b>
+        <b>1433</b>
       </td>
       <td>
         <b>9</b>
@@ -114,7 +114,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1065802380">Stream Music Player</a>
+        <a href="https://apps.apple.com/pt/app/id1062022008">LumaFusion</a>
       </td>
       <td>
         <ul>
@@ -122,6 +122,16 @@ feedId:206907475259680768+userId:73658201673997312
             <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>2</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Rampa de velocidade</i>：<b>2</b>
+              </li><li>
+                <i>FCPXML Export</i>：<b>2</b>
+              </li><li>
+                <i>Multicam Studio</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -131,7 +141,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1478611992">Farming Simulator 20</a>
+        <a href="https://apps.apple.com/pt/app/id1065802380">Stream Music Player</a>
       </td>
       <td>
         <ul>
@@ -148,7 +158,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
+        <a href="https://apps.apple.com/pt/app/id1478611992">Farming Simulator 20</a>
       </td>
       <td>
         <ul>
@@ -163,6 +173,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id401818935">Genius Scan Enterprise - PDF</a>
@@ -185,7 +212,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id510249014">Level HD.</a>
@@ -202,7 +229,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id549432607">Townsmen Premium</a>
@@ -219,7 +246,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id608540795">Tunable – Tuner & Metronome</a>
@@ -236,7 +263,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id646256209">Photo Eraser for iPhone</a>
@@ -253,7 +280,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id722262021">Wallax - Wallpaper Editor</a>
@@ -270,7 +297,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id908905093">Lumy</a>
@@ -287,7 +314,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -304,7 +331,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id982175678">This War of Mine</a>
@@ -321,7 +348,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id994157520">1942 Pacific Front Premium</a>
@@ -338,7 +365,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -355,7 +382,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1001096601">1941 Frozen Front Premium</a>
@@ -372,7 +399,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1009747025">zFuse - Video Player</a>
@@ -389,7 +416,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -400,33 +427,6 @@ feedId:206907475259680768+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1062022008">LumaFusion</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li><li>
-            <span>Compras integradas</span><ol>
-              <li>
-                <i>Rampa de velocidade</i>：<b>1</b>
-              </li><li>
-                <i>FCPXML Export</i>：<b>1</b>
-              </li><li>
-                <i>Multicam Studio</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1383,6 +1383,110 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LumaFusion]]></title>
+        <id>LumaFusion-pt-1773932159938</id>
+        <link href="https://apps.apple.com/pt/app/lumafusion/id1062022008?uo=4"/>
+        <updated>2026-03-19T14:55:59.938Z</updated>
+        <summary type="html"><![CDATA[Price: 29,99 € → 19,99 €<br/>FCPXML Export: 19,99 € → 13,99 €<br/>Rampa de velocidade: 19,99 € → 13,99 €<br/>Multicam Studio: 19,99 € → 13,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/lumafusion/id1062022008?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/18/8b/c9188b88-840b-548e-165c-a93cacdcc951/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>29,99 €</span> → <b>
+  <strong>19,99 €</strong>
+</b><span>[19,99 € ~ 29,99 €]</span>）
+</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>FCPXML Export：</strong><span>19,99 €</span> → <b>
+  <strong>13,99 €</strong>
+</b><span>[13,99 € ~ 19,99 €]</span>
+  </li><li>
+    <strong>Rampa de velocidade：</strong><span>19,99 €</span> → <b>
+  <strong>13,99 €</strong>
+</b><span>[13,99 € ~ 19,99 €]</span>
+  </li><li>
+    <strong>Multicam Studio：</strong><span>19,99 €</span> → <b>
+  <strong>13,99 €</strong>
+</b><span>[13,99 € ~ 19,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>19,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Creator Pass Monthly：<b>9,99 €</b>
+  </li><li>
+    Creator Pass Yearly：<b>69,99 €</b>
+  </li><li>
+    FCPXML Export：<b>13,99 €</b>
+  </li><li>
+    Rampa de velocidade：<b>13,99 €</b>
+  </li><li>
+    Multicam Studio：<b>13,99 €</b>
+  </li><li>
+    CoreMelt PaintX Plug-In：<b>22,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  LumaFusion: a melhor experiência narrativa para edição de vídeos
+
+Welcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.
+
+EDIÇÃO PROFISSIONAL FACILITADA
+• Seis faixas de vídeo/áudio ou gráficos: crie edições de múltiplas camadas com manuseio fácil de mídia 4K ProRes e HDR.
+• Seis faixas de áudio adicionais: construa seu ambiente sonoro.
+• A linha do tempo ideal: edição fluente usando a linha do tempo magnética e guiada mais flexível do mundo.
+• Muitas transições: mantenha sua história em movimento.
+• Prévia no monitor externo: veja em uma tela grande.
+• Marcadores, tags e notas: mantenha-se organizado.
+• Locução: grave VO enquanto reproduz seu filme.
+
+EFEITOS EM CAMADAS E CORREÇÃO DE COR
+• Tela verde, luma e chroma key: para a composição criativa.
+• Prepare o estabilizador de vídeo: mantenha sua filmagem estável.
+• Correção de cores poderosa: crie o seu próprio visual.
+• Formas de onda de vídeo, escopo vetorial e histograma.
+• LUTs: Importe e aplique múltiplas LUTs .cube ou .3dl.
+• Quadros-chave ilimitados: anime efeitos com precisão.
+• Presets de textos e efeitos personalizáveis: salve e compartilhe suas animações e visuais favoritos.
+• Grades e guias: alinhe elementos com título seguro, ação segura e linha de horizonte.
+
+CONTROLE DE ÁUDIO AVANÇADO
+• Equalizador gráfico, equalizador paramétrico e isolamento de voz: sintonize o áudio.
+• Níveis de áudio de quadro-chave, panorâmica e equalizador: crie mixagens perfeitas.
+• Suporte para áudio estéreo e mono duplo: para entrevistas com vários microfones em um clipe.
+Redução de áudio: equilibre sua música e diálogo.
+• Plug-ins de áudio externos: aprimore seu som.
+
+TÍTULOS CRIATIVOS E TEXTO MULTICAMADAS
+• Títulos multicamadas: combine formas, imagens e textos em seu gráfico.
+• Fontes, cores, bordas e sombras personalizáveis: crie títulos atrativos.
+• Importe fontes personalizadas: fortaleça sua marca.
+• Salve e compartilhe presets de títulos: perfeito para colaboração.
+
+FLEXIBILIDADE DE PROJETOS E BIBLIOTECA DE MÍDIA
+• Proporções para todos os usos: do cinema panorâmico às redes sociais.
+• Taxas de quadros de 18 fps a 240 fps: flexibilidade para qualquer cenário.
+• Edite a partir das Fotos, Frame.io e diretamente de unidades USB-C: acesse seu conteúdo em qualquer lugar.
+• Importe mídias do armazenamento na nuvem: onde quer que você as armazene.
+
+COMPARTILHE SUAS OBRAS-PRIMAS
+• Controle resolução, qualidade e formato:
+• Compartilhar filmes em redes sociais, armazenamento local ou armazenamento em nuvem.
+• Edite em vários dispositivos: transfira projetos com facilidade.
+
+RECURSOS AVANÇADOS (compre individualmente ou obtenha TODOS como parte da assinatura do Creator Pass - veja abaixo)
+• Aceleração de Velocidade e Keyframing Aprimorado - Crie rampas de velocidade, curvas de Bézier e easing com este recurso único e fácil de usar.
+• Exportação XML: Exporte seu projeto para o Final Cut Pro para Mac
+• Multicam Studio: sincronize 6 câmeras ou áudio e toque para alternar ângulos
+
+ASSINATURA CREATOR PASS
+• Obtenha acesso total ao Storyblocks para LumaFusion: milhões de músicas, efeitos sonoros e vídeos isentos de direitos autorais de alta qualidade, além de obter todos os recursos aprimorados acima.
+
+SUPORTE GRATUITO EXTRAORDINÁRIO
+• Tutoriais on-line: www.youtube.com/@LumaTouch
+• Guia de referência: luma-touch.com/lumafusion-reference-guide
+• Suporte: luma-touch.com/support
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RYUKIN]]></title>

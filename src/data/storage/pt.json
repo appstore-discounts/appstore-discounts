@@ -12850,6 +12850,23 @@
     "history": [
       [
         {
+          "timestamp": 1773932159938,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "Skatepark: Inbound": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1773926574416,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -25620,6 +25637,21 @@
       "CoreMelt PaintX Plug-In": "15,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773932159938,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {
+            "Creator Pass Monthly": "9,99 €",
+            "Creator Pass Yearly": "69,99 €",
+            "FCPXML Export": "13,99 €",
+            "Rampa de velocidade": "13,99 €",
+            "Multicam Studio": "13,99 €",
+            "CoreMelt PaintX Plug-In": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773095834409,
@@ -49808,6 +49840,27 @@
           "inAppPurchases": {
             "Sokoban Level Solution": "0,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1546607440": {
+    "name": "ImagExif 2 - edit exif data",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773932159938,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
