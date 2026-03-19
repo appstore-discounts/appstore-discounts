@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-03-19T16:16:10.896Z</updated>
+    <updated>2026-03-19T18:24:32.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-19T16:16:10.896Z</updated>
+        <updated>2026-03-19T18:24:32.557Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoThu, 19 Mar 2026 16:16:10 GMT</id>
+        <id>rankingmoThu, 19 Mar 2026 18:24:32 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-19T16:16:10.896Z</updated>
+        <updated>2026-03-19T18:24:32.557Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,13 +51,13 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1855</b>
+        <b>1856</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1654</b>
+        <b>1655</b>
       </td>
       <td>
         <b>81</b>
@@ -68,13 +68,13 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1724</b>
+        <b>1725</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>1545</b>
+        <b>1546</b>
       </td>
       <td>
         <b>68</b>
@@ -95,31 +95,12 @@ feedId:157008389768002560+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <del>
-          <a href="https://apps.apple.com/mo/app/id1423585518">ROMAN: 進食計畫、減肥、減脂一體化。體重管理。</a>
-        </del>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>3</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
         <a href="https://apps.apple.com/mo/app/id1062022008">LumaFusion</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>2</b>
+            <span>总次数</span>：<b>3</b>
           </li><li>
             <span>价格</span>：<b>2</b>
           </li><li>
@@ -132,8 +113,29 @@ feedId:157008389768002560+userId:73658201673997312
                 <i>Multicam Studio</i>：<b>2</b>
               </li><li>
                 <i>每年創作者通行證</i>：<b>1</b>
+              </li><li>
+                <i>創作者通行證每月</i>：<b>1</b>
               </li>
             </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <del>
+          <a href="https://apps.apple.com/mo/app/id1423585518">ROMAN: 進食計畫、減肥、減脂一體化。體重管理。</a>
+        </del>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>3</b>
           </li>
         </ul>
       </td>
@@ -2161,6 +2163,98 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LumaFusion]]></title>
+        <id>LumaFusion-mo-1773939846316</id>
+        <link href="https://apps.apple.com/mo/app/lumafusion/id1062022008?uo=4"/>
+        <updated>2026-03-19T17:04:06.316Z</updated>
+        <summary type="html"><![CDATA[創作者通行證每月: USD 9.99 → USD 7.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/lumafusion/id1062022008?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/18/8b/c9188b88-840b-548e-165c-a93cacdcc951/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>創作者通行證每月：</strong><span>USD 9.99</span> → <b>
+  <strong>USD 7.99</strong>
+</b><span>[USD 7.99 ~ USD 9.99]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 19.99</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    創作者通行證每月：<b>USD 7.99</b>
+  </li><li>
+    FCPXML Export：<b>USD 13.99</b>
+  </li><li>
+    速度斜坡和關鍵幀：<b>USD 13.99</b>
+  </li><li>
+    Multicam Studio：<b>USD 13.99</b>
+  </li><li>
+    每年創作者通行證：<b>USD 49.99</b>
+  </li><li>
+    CoreMelt PaintX Plug-In：<b>USD 19.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  LumaFusion: 影片編輯的終極敘事體驗
+
+歡迎體驗 App Store 2021「年度最佳 App」及「編輯精選獎」的得獎 App！我們是世界各地故事創作者的專業標準，提供流暢直觀、為觸控螢幕而設計的剪輯體驗。
+
+【專業剪輯從此簡單又輕鬆】
+• 6 條影音軌 / 圖像軌道：建立多層編輯，並平滑處理 4K ProRes 和 HDR 媒體。
+• 另外 6 條音軌：建立聲景。
+• 終極時間軸體驗：使用全球最靈活的軌道及磁性時間軸，實現流暢編輯。
+• 大量過場效果：讓您的故事持續推進。
+• 在外接顯示器上顯示預覽：在大螢幕上查看。
+• 加入標記、標籤和備註：計畫案保持井井有條。
+• 加入旁白：在播放您的電影的同時錄製旁白。
+
+【圖層效果、色彩校正】
+• 綠幕、亮度與色度去背：運用創意來建立圖層合成。
+• Lock and Load 穩定器：保持鏡頭穩定。
+• 強大的色彩校正：打造您自己的風格。
+• 視頻波形、向量和直方圖範圍。
+• LUT 色彩檔：匯入並套用多個 .cube 或 .3dl LUT 色彩檔。
+• 關鍵影格無限數量：精準製作動畫效果。
+• 自訂文字和效果預設值：儲存並分享你喜歡的動畫效果和外觀。
+• 網格和參考線：精確對齊元素與標題安全區域、動作安全區域和水平線。
+
+【進階音訊控制】
+• 使用圖示型等化器、參數型等化器、聲音隔離功能：完美調整音訊細節。
+• 關鍵影格音訊電平、聲像、等化器：進行完美混音。
+• 支援立體聲和雙單聲道音訊：適用於在單一片段中使用多個麥克風的訪談。
+• 使用自動迴避：在話語期間迴避音樂，保持音訊平衡。
+• 第三方音訊擴充程式：增強聲音效果。
+
+【創意標題字幕、多層文字】
+• 建立多層標題字幕：將圖形、圖像和文字加入您的圖形中。
+• 自行調整字體、顏色、填充顏色、邊框和陰影：設計出引人注目的標題字幕。
+• 匯入自訂字體：增強您的品牌。
+• 儲存並分享標題字幕預設值：非常適合協作。
+
+【計畫案彈性管理、媒體素材庫】
+• 涵蓋所有不同需求的長寬比：包括寬銀幕電影、社群媒體影片或更多其他需求。
+• 影格率範圍為 18fps-240fps：可靈活應用於任何工作流程。
+• 直接編輯來自 USB-C 硬碟、「照片」App 和 Frame.io 的媒體項目：讓你隨時隨地存取媒體內容。
+• 從雲端匯入媒體：自選儲存空間，沒有限制。
+
+【分享剪輯成果】
+• 控制解析度、畫質和格式：
+• 將電影分享至社交媒體、本地儲存或雲端儲存。
+• 跨裝置剪輯：輕鬆無縫傳輸計畫案。
+
+增強功能（可單獨購買，或作為創作者通行證訂閱的一部分獲取所有功能 - 請參見下文）
+• 速度調節與增強關鍵幀 - 使用這個獨一無二且易於使用的功能，創建速度調節、貝茲曲線和緩動效果。
+• XML 匯出：將你的計畫案匯出到 Mac 上的 Final Cut Pro
+• Multicam Studio「多機工作室」：同步 6 個攝影機或音訊，點一下即可切換角度
+
+創作者通行證訂閱
+• 享用 Storyblocks for LumaFusion：數百萬首高品質免版稅音樂、音效和視頻，還可獲得上述所有增強功能。
+
+【免費優質支援服務】
+• 線上教學：www.youtube.com/@LumaTouch
+• 參考指南：luma-touch.com/lumafusion-reference-guide
+• 支援：luma-touch.com/support
+</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/5b/3d/fa5b3d35-3f85-ccf9-c67d-d0c3d38919aa/zh-hant-8-Multicam.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/e6/6b/93e66b5b-0136-6893-0a75-931bbb42ae06/zh-hant-9-Audio.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/d9/f4/a6d9f42c-a1c4-929c-c699-f296628dd058/zh-hant-10-Titles.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Clank!]]></title>
