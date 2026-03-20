@@ -481,7 +481,7 @@ So far, we've covered `7` `Countries or Regions` and  `1859` `Apps` <br />Push n
 |1388|6752503669|Automatic|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|
 |1387|1148617550|Automatic|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|Automatic|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
-|1385|1484024784|Automatic|❌|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
+|1385|1484024784|Automatic|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
 |1384|1672085276|Automatic|❌|Aiko|Aiko|Aiko|Aiko|Aiko|Aiko|
 |1383|1370362850|Automatic|LAYOUT 拍立得相机 - 极简时尚自拍，复古海报美图设计|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYÒUT|LAYOUT - Poster& Photo Editor|LAYÒUT|
 |1382|6747307749|Automatic|CHAKK - 스토리 꾸미는 재미, 챡!|CHAKK - 스토리 꾸미는 재미, 챡!|CHAKK - 스토리 꾸미는 재미, 챡!|CHAKK - 스토리 꾸미는 재미, 챡!|CHAKK - 스토리 꾸미는 재미, 챡!|CHAKK - 스토리 꾸미는 재미, 챡!|CHAKK - 스토리 꾸미는 재미, 챡!|
