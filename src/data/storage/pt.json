@@ -58758,14 +58758,22 @@
   "1642139491": {
     "name": "Tokyo Dispatcher!",
     "maxPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "0,49 €"
+      "price": 0.69,
+      "formattedPrice": "0,69 €"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774018306547,
+          "price": 0.69,
+          "formattedPrice": "0,69 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772946750263,
