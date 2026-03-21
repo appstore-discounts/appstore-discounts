@@ -50243,6 +50243,14 @@
     "history": [
       [
         {
+          "timestamp": 1774132410145,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1771641416999,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -58841,8 +58849,8 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €",
-      "Yearly Subscription": "5,99 €",
-      "Monthly Subscription": "0,99 €"
+      "Yearly Subscription": "9,99 €",
+      "Monthly Subscription": "1,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -58851,6 +58859,17 @@
       "Monthly Subscription": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774132410145,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Yearly Subscription": "9,99 €",
+            "Monthly Subscription": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773009134766,
