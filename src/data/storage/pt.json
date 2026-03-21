@@ -3045,6 +3045,23 @@
     "history": [
       [
         {
+          "timestamp": 1774082541675,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1774076158253,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -49143,6 +49160,27 @@
       ]
     ]
   },
+  "1529806305": {
+    "name": "Carburação IAME X30 Karting",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774082541675,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1530345628": {
     "name": "Hot Springs Story2",
     "maxPriceInfo": {
@@ -71535,6 +71573,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774082541675,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "500'000 Coins": "2,49 €",
+            "200'000 Coins": "1,19 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Kubota RTV-XG850 SIDEKICK": "1,99 €",
+            "Versatile 4WD 620": "2,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773959796922,
