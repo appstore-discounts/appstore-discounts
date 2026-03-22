@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1862` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1863` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1863|332325822|Automatic|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|
 |1862|643162868|Automatic|铁板神数-专业八字命理玄学测算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|❌|
 |1861|1530716139|Automatic|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Carburação IAME SWIFT, GAZELLE|
 |1860|1529806305|Automatic|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Carburação IAME X30 Karting|
@@ -1800,7 +1801,7 @@ So far, we've covered `7` `Countries or Regions` and  `1862` `Apps` <br />Push n
 |72|1633865171|Manual|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|
 |71|1492395549|Manual|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|❌|❌|
 |70|1661419573|Manual|atvTools|atvTools|atvTools|atvTools|atvTools|atvTools|atvTools|
-|69|6479683928|Manual|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|
+|69|6479683928|Manual|AMood: 情绪实时监测 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: AI Mood Monitor|AMood: AI Mood Monitor|AMood: AI Mood Monitor|
 |68|6443798663|Manual|敲木鱼 - 打节拍敲音效解压神器|敲木魚|敲木魚|敲木魚|MuYu|MuYu|❌|
 |67| ~~373454750~~ |Manual| ~~随手记Pro–个人家庭生意记账~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~随手记Pro~~ | ~~随手记Pro–记账财务管理软件~~ | ~~❌~~ |
 |66|916366645|Manual|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|

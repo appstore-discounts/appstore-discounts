@@ -1982,6 +1982,27 @@
       ]
     ]
   },
+  "332325822": {
+    "name": "St. Josemaria",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774205353742,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "332424440": {
     "name": "Magnata Milionário",
     "maxPriceInfo": {
@@ -71985,6 +72006,25 @@
     "history": [
       [
         {
+          "timestamp": 1774205353742,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Kubota RTV-XG850 SIDEKICK": "1,99 €",
+            "Versatile 4WD 620": "2,49 €",
+            "Farmet Fantom 1250 Pro": "1,19 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774082541675,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -74231,7 +74271,7 @@
     ]
   },
   "6479683928": {
-    "name": "AMood - 你的健康生活好伙伴",
+    "name": "AMood: AI Mood Monitor",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",

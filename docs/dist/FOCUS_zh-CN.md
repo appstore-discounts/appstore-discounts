@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1862` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1863` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1863|332325822|自动|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|St. Josemaria|
 |1862|643162868|自动|铁板神数-专业八字命理玄学测算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|鐵板神數-專業八字命理玄學測算|❌|
 |1861|1530716139|自动|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Jetting IAME SWIFT & GAZELLE|Carburação IAME SWIFT, GAZELLE|
 |1860|1529806305|自动|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Jetting for IAME X30 Karting|Carburação IAME X30 Karting|
@@ -1800,7 +1801,7 @@
 |72|1633865171|手动|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|獬豸 · 民法典 - 法律/司法解释/指导案例|
 |71|1492395549|手动|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|❌|❌|
 |70|1661419573|手动|atvTools|atvTools|atvTools|atvTools|atvTools|atvTools|atvTools|
-|69|6479683928|手动|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|
+|69|6479683928|手动|AMood: 情绪实时监测 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: AI Mood Monitor|AMood: AI Mood Monitor|AMood: AI Mood Monitor|
 |68|6443798663|手动|敲木鱼 - 打节拍敲音效解压神器|敲木魚|敲木魚|敲木魚|MuYu|MuYu|❌|
 |67| ~~373454750~~ |手动| ~~随手记Pro–个人家庭生意记账~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~随手记Pro~~ | ~~随手记Pro–记账财务管理软件~~ | ~~❌~~ |
 |66|916366645|手动|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|
