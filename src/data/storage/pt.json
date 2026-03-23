@@ -44373,6 +44373,25 @@
     "history": [
       [
         {
+          "timestamp": 1774234389621,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €",
+            "1935 Atlantic City": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773897908459,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -56143,6 +56162,14 @@
     "history": [
       [
         {
+          "timestamp": 1774234389621,
+          "price": 1.49,
+          "formattedPrice": "1,49 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1773959796922,
           "price": 1.29,
           "formattedPrice": "1,29 €",
@@ -61755,10 +61782,18 @@
       "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774234389621,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770590156466,
@@ -72031,6 +72066,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774234389621,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Case IH Speed-Tiller": "1,19 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774205353742,
