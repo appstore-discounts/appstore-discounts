@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1867` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1868` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1868|6443517411|Automatic|❌|香蕉RSS播放器|香蕉RSS播放器|香蕉RSS播放器|Banana RSS Player|Banana RSS Player|Banana RSS Player|
 |1867|1032668306|Automatic|News Explorer|News Explorer|News Explorer|News Explorer|News Explorer|News Explorer|News Explorer|
 |1866|1339054344|Automatic|❌|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|
 |1865|6743526212|Automatic|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|
@@ -812,7 +813,7 @@ So far, we've covered `7` `Countries or Regions` and  `1867` `Apps` <br />Push n
 |1065|926177061|Automatic|Hipstamatic的TinType|TinType - Hipstamatic|TinType - Hipstamatic|TinType - Hipstamatic|TinType by Hipstamatic|TinType by Hipstamatic|TinType por Hipstamatic|
 |1064|6743422824|Automatic|❌|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|
 |1063|885792725|Automatic|❌|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|
-|1062|1577752006|Automatic|Soccer Plus|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|Soccer Plus: Football Stats|Soccer Plus: Football Stats|Soccer Plus: Football Stats|
+|1062|1577752006|Automatic|Soccer Plus|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|Soccer Plus: Football Stats|Soccer Plus: Football Tracker|Soccer Plus: Rastreador Futbol|
 |1061|1632953327|Automatic|❌|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|
 |1060|1523146826|Automatic|❌|全民RPG：重啟|全民RPG：重啟|全民RPG：重啟|Everybody's RPG: Reboot|Everybody's RPG: Reboot|RPGTodos: Reboot|
 |1059|1609683141|Automatic|❌|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|

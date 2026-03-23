@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1867` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1868` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1868|6443517411|自动|❌|香蕉RSS播放器|香蕉RSS播放器|香蕉RSS播放器|Banana RSS Player|Banana RSS Player|Banana RSS Player|
 |1867|1032668306|自动|News Explorer|News Explorer|News Explorer|News Explorer|News Explorer|News Explorer|News Explorer|
 |1866|1339054344|自动|❌|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|Monster Hunter Stories|
 |1865|6743526212|自动|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|AutoSeat 2|
@@ -812,7 +813,7 @@
 |1065|926177061|自动|Hipstamatic的TinType|TinType - Hipstamatic|TinType - Hipstamatic|TinType - Hipstamatic|TinType by Hipstamatic|TinType by Hipstamatic|TinType por Hipstamatic|
 |1064|6743422824|自动|❌|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|
 |1063|885792725|自动|❌|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|
-|1062|1577752006|自动|Soccer Plus|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|Soccer Plus: Football Stats|Soccer Plus: Football Stats|Soccer Plus: Football Stats|
+|1062|1577752006|自动|Soccer Plus|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|Soccer Plus: Football Stats|Soccer Plus: Football Tracker|Soccer Plus: Rastreador Futbol|
 |1061|1632953327|自动|❌|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|
 |1060|1523146826|自动|❌|全民RPG：重啟|全民RPG：重啟|全民RPG：重啟|Everybody's RPG: Reboot|Everybody's RPG: Reboot|RPGTodos: Reboot|
 |1059|1609683141|自动|❌|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|
