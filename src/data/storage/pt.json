@@ -986,10 +986,21 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "全能版": "22,99 €",
+      "全能版": "0,99 €",
       "星平合参": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774272298044,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "星平合参": "1,99 €",
+            "全能版": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773471561108,
@@ -19108,10 +19119,21 @@
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €",
-      "Diapasão": "1,99 €",
-      "Configurações": "1,99 €"
+      "Diapasão": "0,99 €",
+      "Configurações": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774272298044,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Diapasão": "0,99 €",
+            "Configurações": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769749948149,
@@ -21474,14 +21496,22 @@
   "929618748": {
     "name": "Squeezy Men",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774272298044,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -39924,6 +39954,16 @@
       "Card.Note Premiun": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774272298044,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Card.Note Premiun": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773759910762,
@@ -75930,6 +75970,14 @@
     "history": [
       [
         {
+          "timestamp": 1774272298044,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1773700901853,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -77937,6 +77985,17 @@
       "80 Redemption Tickets": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774272298044,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "1000 Redemption Tickets": "9,99 €",
+            "80 Redemption Tickets": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773917518691,

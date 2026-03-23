@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-03-23T12:18:15.005Z</updated>
+    <updated>2026-03-23T14:44:14.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-23T12:18:15.005Z</updated>
+        <updated>2026-03-23T14:44:14.171Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkMon, 23 Mar 2026 12:18:15 GMT</id>
+        <id>rankinghkMon, 23 Mar 2026 14:44:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-23T12:18:15.005Z</updated>
+        <updated>2026-03-23T14:44:14.171Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -1813,6 +1813,23 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>94</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6743547737">PowNap</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2482,6 +2499,124 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowNap]]></title>
+        <id>PowNap-hk-1774272298044</id>
+        <link href="https://apps.apple.com/hk/app/pownap/id6743547737?uo=4"/>
+        <updated>2026-03-23T13:24:58.044Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 48.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/pownap/id6743547737?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/1a/be/2c1abe13-44bc-a890-eb03-196fe611cc97/AppIcon-0-0-1x_U007ewatch-0-20-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 58.00</span> → <b>
+  <strong>HK$ 48.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 58.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 48.00</b>
+</p><h2>应用描述</h2><p>
+  PowNap
+
+Wake up when your body is ready.
+
+PowNap is an intelligent power-nap timer for Apple Watch.
+
+Instead of rigid time rules, PowNap uses your heart rate to detect recovery and wake you at the right moment.
+
+You start the nap.
+PowNap handles detection and wake-up — based on your current physiology.
+
+---
+
+Two Modes
+
+Power Nap
+15, 20, or 25 minutes.
+- May end earlier if your body recovers sooner
+- Ends at the selected time at the latest
+
+Heart-rate detection with a fixed upper limit.
+
+Infinity Nap
+No time limit.
+- Ends when your body shows signs of recovery or light sleep
+- Ideal for stress, exhaustion, or when you don’t want a fixed duration
+
+Not designed for deep sleep, but for short, measurable recovery.
+Depending on your heart rate, this may happen after 10–15 minutes — or later.
+
+---
+
+Calm. Precise. Distraction-free.
+- Detects relaxation and falling asleep via heart rate
+- Wakes you with gentle vibration
+- No countdown pressure, no unnecessary sound
+- Subtle progress indicators instead of a classic timer
+- Runs fully offline on your Apple Watch
+
+Tap “Start” — PowNap takes care of the rest.
+
+---
+
+Adjustable (Optional)
+- Vibration: Soft, Medium, Strong, or Increasing
+- Heart-rate threshold:
+- automatically adjusted to your resting heart rate
+- or manually set as a percentage
+
+Behavior may vary slightly depending on your daily condition.
+
+---
+
+Private & Local
+- One-time purchase — no subscription
+- No ads, no account, no tracking
+- No cloud
+
+All processing happens locally on your watch.
+Saving naps to Apple Health is optional.
+
+For heart-rate detection, Health permissions (Workout, Heart Rate, Sleep) are required.
+Without them, heart-rate-based nap control is not available.
+
+---
+
+Important Notes
+- PowNap is not a medical device
+- For continuous heart-rate tracking, PowNap uses a “Mind & Body” workout session (required by watchOS)
+
+As a result, exercise minutes are counted and Activity Rings are affected.
+This behavior is system-controlled and cannot be undone.
+
+---
+
+Buy once.
+No conditions.
+Just calm, focused recovery.
+
+---
+
+Short FAQ
+
+Why does PowNap start a workout?
+- watchOS only allows continuous heart-rate tracking during an active workout.
+
+Does PowNap fake activity or calories?
+- No. All values come directly from watchOS.
+
+Does PowNap affect Activity Rings?
+- Yes, while the workout is active — this is system behavior.
+
+Infinity = deep sleep?
+- No. Infinity Nap is for short recovery, not deep or long sleep.
+
+---
+
+Apple Watch Compatibility
+
+Requires Apple Watch Series 4 or newer (including SE).
+Apple Watch Series 3 and earlier are not supported.
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[地牢求生 - 無盡的迷宮]]></title>
