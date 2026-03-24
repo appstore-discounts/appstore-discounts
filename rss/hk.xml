@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-03-24T18:29:03.833Z</updated>
+    <updated>2026-03-24T23:59:14.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-24T18:29:03.835Z</updated>
+        <updated>2026-03-24T23:59:14.488Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkTue, 24 Mar 2026 18:29:03 GMT</id>
+        <id>rankinghkTue, 24 Mar 2026 23:59:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-24T18:29:03.835Z</updated>
+        <updated>2026-03-24T23:59:14.488Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -1929,6 +1929,29 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>100</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6755290585">Raiders Map</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>Raider Mk. 1</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2598,6 +2621,50 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raiders Map]]></title>
+        <id>Raiders Map-hk-1774392005900</id>
+        <link href="https://apps.apple.com/hk/app/raiders-map/id6755290585?uo=4"/>
+        <updated>2026-03-24T22:40:05.900Z</updated>
+        <summary type="html"><![CDATA[Raider Mk. 1: HK$ 38.00 → HK$ 8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/raiders-map/id6755290585?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b8/30/01b830e0-cb1c-f725-3e88-ef85cd876f94/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Raider Mk. 1：</strong><span>HK$ 38.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 38.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Raider Mk. 2：<b>HK$ 48.00</b>
+  </li><li>
+    Raider Mk. 3：<b>HK$ 88.00</b>
+  </li><li>
+    Raider Mk. 1：<b>HK$ 8.00</b>
+  </li><li>
+    Raider Weekly：<b>HK$ 18.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Enemy drop list, guides and quest-line guides.
+
+- Interactive Maps
+- Sort and Filter
+- Event Timers and Notifications
+- Guides for Quests
+
+Guides and Maps are partially available for free, but a Pro membership is required to access all content
+
+Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.
+
+
+Not affiliated with embark. Raiders Map is independently owned and managed. 
+
+apple standard EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Earthquake Network]]></title>
