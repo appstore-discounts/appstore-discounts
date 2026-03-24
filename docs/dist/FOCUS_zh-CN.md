@@ -813,7 +813,7 @@
 |1065|926177061|自动|Hipstamatic的TinType|TinType - Hipstamatic|TinType - Hipstamatic|TinType - Hipstamatic|TinType by Hipstamatic|TinType by Hipstamatic|TinType por Hipstamatic|
 |1064|6743422824|自动|❌|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|
 |1063|885792725|自动|❌|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|
-|1062|1577752006|自动|Soccer Plus|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|SoccerPlus-足球運動記錄和訓練|Soccer Plus: Football Stats|Soccer Plus: Football Tracker|Soccer Plus: Rastreador Futbol|
+|1062|1577752006|自动|Soccer Plus: 足球数据与热图追踪|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: Football Tracker|Soccer Plus: Football Tracker|Soccer Plus: Rastreador Futbol|
 |1061|1632953327|自动|❌|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|Tivimax IPTV Player (Premium)|
 |1060|1523146826|自动|❌|全民RPG：重啟|全民RPG：重啟|全民RPG：重啟|Everybody's RPG: Reboot|Everybody's RPG: Reboot|RPGTodos: Reboot|
 |1059|1609683141|自动|❌|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|Dirt Trackin 3|
