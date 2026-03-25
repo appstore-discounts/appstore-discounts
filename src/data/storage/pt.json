@@ -78090,13 +78090,31 @@
     "name": "婚启",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "季度会员": "2,99 €",
+      "月度会员": "0,99 €",
+      "永久会员": "6,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "季度会员": "2,99 €",
+      "月度会员": "0,99 €",
+      "永久会员": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774422739885,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "季度会员": "2,99 €",
+            "月度会员": "0,99 €",
+            "永久会员": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767911360936,
