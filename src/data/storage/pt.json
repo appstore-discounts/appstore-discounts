@@ -44710,6 +44710,25 @@
     "history": [
       [
         {
+          "timestamp": 1774406991958,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €",
+            "1935 Atlantic City": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774392005900,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -55091,6 +55110,27 @@
           "inAppPurchases": {
             "The Last Divinity DLC": "3,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1577498043": {
+    "name": "14PX",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774406991958,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
