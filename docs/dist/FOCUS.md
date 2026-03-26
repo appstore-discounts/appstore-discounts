@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1876` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1877` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1877|6760428230|Automatic|❌|闲置修仙|闲置修仙|闲置修仙|Idle Cultivation|Idle Cultivation|闲置修仙|
 |1876|1440279996|Automatic|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|
 |1875|6743467531|Automatic|❌|雞寶小廚神：療癒系餐廳經營|雞寶小廚神：療癒系餐廳經營|雞寶小廚神：療癒系餐廳經營|Cluck 'n Serve: Chef Frenzy|Cluck 'n Serve: Chef Chaos|Frango Feliz: Chef de Cozinha|
 |1874|6760900452|Automatic|❌|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|
