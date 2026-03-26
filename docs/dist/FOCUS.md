@@ -209,7 +209,7 @@ So far, we've covered `7` `Countries or Regions` and  `1877` `Apps` <br />Push n
 |1678|6757795420|Automatic|❌|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|
 |1677|6755921847|Automatic|乐语-音乐术语词典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|Yueyu - Music Terms Dictionary|❌|❌|
 |1676|408209116|Automatic|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|
-|1675|6740698426|Automatic|❌|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
+|1675|6740698426|Automatic|帝国传奇：像素英雄|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
 |1674|364909484|Automatic|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|❌|
 |1673|714855554|Automatic|轮盘赌数十计算器|輪盤賭數十計算器|輪盤賭數十計算器|輪盤賭數十計算器|Roulette Dozens Calculator|Roulette Dozens Calculator|Calculadora roleta dúzias|
 |1672|1570440293|Automatic|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|

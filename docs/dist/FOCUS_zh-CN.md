@@ -209,7 +209,7 @@
 |1678|6757795420|自动|❌|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|
 |1677|6755921847|自动|乐语-音乐术语词典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|Yueyu - Music Terms Dictionary|❌|❌|
 |1676|408209116|自动|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|
-|1675|6740698426|自动|❌|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
+|1675|6740698426|自动|帝国传奇：像素英雄|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
 |1674|364909484|自动|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|❌|
 |1673|714855554|自动|轮盘赌数十计算器|輪盤賭數十計算器|輪盤賭數十計算器|輪盤賭數十計算器|Roulette Dozens Calculator|Roulette Dozens Calculator|Calculadora roleta dúzias|
 |1672|1570440293|自动|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|
