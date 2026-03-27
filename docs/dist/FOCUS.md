@@ -761,7 +761,7 @@ So far, we've covered `7` `Countries or Regions` and  `1881` `Apps` <br />Push n
 |1130|396269166|Automatic|❌|The Shadow Sun|The Shadow Sun|The Shadow Sun|The Shadow Sun|The Shadow Sun|The Shadow Sun|
 |1129|1442035374|Automatic|❌|圍棋師傅|圍棋師傅|圍棋師傅|A Master of Go|A Master of Go|A Master of Go|
 |1128|1492041611|Automatic|❌|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|
-|1127|6745421021|Automatic|ScanAgent|ScanAgent|ScanAgent|ScanAgent|ScanAgent|ScanAgent|ScanAgent|
+|1127|6745421021|Automatic|ScanAgent|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|
 |1126|993483096|Automatic|拼音助手专业版 - 最好的普通话真人发声字典|拼音助手专业版 - 最好的普通話真人發聲字典|拼音助手专业版 - 最好的普通話真人發聲字典|拼音助手专业版 - 最好的普通話真人發聲字典|Pinyin Helper Pro|Pinyin Helper Pro|Pinyin Helper Pro|
 |1125|1596075354|Automatic|❌|了不起的修仙模拟器|了不起的修仙模拟器|了不起的修仙模拟器|Amazing Cultivation Simulator|Amazing Cultivation Simulator|Amazing Cultivation Simulator|
 |1124|6501973975|Automatic|休息日|休息日|休息日|休息日|Off Day|Off Day|Off Day|
