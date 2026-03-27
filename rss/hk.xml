@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-03-27T04:38:04.204Z</updated>
+    <updated>2026-03-27T16:04:05.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-27T04:38:04.204Z</updated>
+        <updated>2026-03-27T16:04:05.677Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkFri, 27 Mar 2026 04:38:04 GMT</id>
+        <id>rankinghkFri, 27 Mar 2026 16:04:05 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-27T04:38:04.204Z</updated>
+        <updated>2026-03-27T16:04:05.678Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1879</b>
+        <b>1880</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1678</b>
+        <b>1679</b>
       </td>
       <td>
         <b>81</b>
@@ -68,13 +68,13 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>1757</b>
+        <b>1758</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>1578</b>
+        <b>1579</b>
       </td>
       <td>
         <b>73</b>
@@ -280,6 +280,33 @@ feedId:157008141708743680+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id6467822375">Auto Redial App</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>高級終身會員</i>：<b>2</b>
+              </li><li>
+                <i>年度訂閱</i>：<b>2</b>
+              </li><li>
+                <i>每週訂閱</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id6752503669">Solar Arc – Sun & Moon Tracker</a>
       </td>
       <td>
@@ -294,7 +321,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id401818935">Genius Scan Enterprise - PDF</a>
@@ -317,7 +344,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id510249014">水準管 HD</a>
@@ -334,7 +361,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id549432607">Townsmen Premium</a>
@@ -351,7 +378,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id625274950">國語辭典</a>
@@ -368,7 +395,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id646256209">照片橡皮擦</a>
@@ -385,7 +412,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id722262021">Wallax - Wallpaper Editor</a>
@@ -402,7 +429,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id807752194">大提琴調音器專業版 - Cello Tuner Pro</a>
@@ -427,7 +454,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id908905093">Lumy</a>
@@ -444,7 +471,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -461,7 +488,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -484,7 +511,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id982175678">This War of Mine</a>
@@ -501,7 +528,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id994157520">1942 Pacific Front Premium</a>
@@ -518,7 +545,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -535,7 +562,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1001096601">1941 Frozen Front Premium</a>
@@ -552,7 +579,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1009747025">zFuse - 影片播放器</a>
@@ -569,7 +596,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1012298403">Don't Starve: Pocket Edition</a>
@@ -586,7 +613,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1020541183">電影精靈 - 專業視頻編輯和電影製作</a>
@@ -603,7 +630,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1070462618">Hero Emblems II</a>
@@ -620,7 +647,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1102750714">地牢求生 - 無盡的迷宮</a>
@@ -637,7 +664,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1118115766">Bloons TD 6</a>
@@ -654,7 +681,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1159700098">去月球-To the Moon</a>
@@ -671,7 +698,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1160943124">Speech to Text : Voice to Text</a>
@@ -688,7 +715,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1199912736">Carcassonne – Tiles & Tactics</a>
@@ -717,7 +744,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1248033433">王國保衛戰：復仇</a>
@@ -750,7 +777,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1271620263">ICEY</a>
@@ -767,7 +794,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -784,7 +811,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1346580540">Motorsport Manager Mobile 3</a>
@@ -801,7 +828,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1380582804">手機帝國</a>
@@ -818,7 +845,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -835,7 +862,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1411823462">7Days : Backer</a>
@@ -852,7 +879,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1424977227">Titan Quest HD</a>
@@ -869,7 +896,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439262206">Root Board Game</a>
@@ -900,7 +927,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439886655">Cultist Simulator</a>
@@ -917,7 +944,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1441532941">神界：原罪2</a>
@@ -934,7 +961,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1446399911">指尖輪盤 - 有趣的手指轉盤決定器</a>
@@ -951,7 +978,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1449893235">Earthquake Network</a>
@@ -974,7 +1001,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453808408">Juicy Realm</a>
@@ -991,7 +1018,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453820315">This Is the Police 2</a>
@@ -1008,7 +1035,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453875289">Hyper Light Drifter</a>
@@ -1025,7 +1052,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1459520638">Wingspan: The Board Game</a>
@@ -1052,7 +1079,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1464666446">我的足跡: GPS記錄儀</a>
@@ -1069,7 +1096,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1464850921">每日英语阅读</a>
@@ -1092,7 +1119,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1481006495">倒計時應用 Countdown App</a>
@@ -1109,7 +1136,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -1126,7 +1153,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1484024784">子午線157: 第1章</a>
@@ -1143,7 +1170,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1512282997">子午线157: 第2章</a>
@@ -1160,7 +1187,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1523146826">全民RPG：重啟</a>
@@ -1183,7 +1210,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1523633394">SpongeBob SquarePants</a>
@@ -1200,7 +1227,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1537362903">Neighbours back From Hell</a>
@@ -1217,7 +1244,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1538124245">where I put it</a>
@@ -1234,7 +1261,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1539778232">Afterplace</a>
@@ -1251,7 +1278,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1558634102">分貝計 (聲級計)</a>
@@ -1268,7 +1295,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1575414319">Dune: Imperium</a>
@@ -1293,7 +1320,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1576004936">化學 - 元素週期表 2026</a>
@@ -1310,7 +1337,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1576148500">Meridian 157: Chapter 3</a>
@@ -1327,7 +1354,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1586126746">Labyrinth City</a>
@@ -1344,7 +1371,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1587860402">籠中窺夢</a>
@@ -1361,7 +1388,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1592505377">Wreckfest</a>
@@ -1378,7 +1405,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1592854410">荒島物語100天</a>
@@ -1395,7 +1422,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1601446687">Streets of Rage 4</a>
@@ -1412,7 +1439,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1611723264">人類跌落夢境</a>
@@ -1429,7 +1456,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1614795077">Otaku's Adventure</a>
@@ -1446,7 +1473,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1620202676">鋼鐵戰隊</a>
@@ -1463,7 +1490,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1620883955">Little Nightmares</a>
@@ -1480,7 +1507,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1636423328">Cat Quest II</a>
@@ -1497,7 +1524,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1637940076">EarthBeat - Schumann Resonance</a>
@@ -1520,7 +1547,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1639509098">帕夏星球：重生</a>
@@ -1537,7 +1564,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1640636826">Code Blue – CPR & ACLS Timer</a>
@@ -1554,7 +1581,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642715290">Little Big Workshop</a>
@@ -1571,7 +1598,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1644917705">無處遁形：全網公敵</a>
@@ -1588,7 +1615,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1659271912">東京電車２</a>
@@ -1605,7 +1632,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1672164496">Roundguard</a>
@@ -1622,7 +1649,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6474541983">Children of Morta</a>
@@ -1639,7 +1666,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6458144503">Skul: The Hero Slayer</a>
@@ -1656,7 +1683,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6477541914">Parallel Experiment</a>
@@ -1673,7 +1700,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6448352407">Unboxing the Cryptic Killer</a>
@@ -1690,7 +1717,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6445992619">SpongeBob - The Cosmic Shake</a>
@@ -1707,7 +1734,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
+        <b>89</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6455495086">3D Pinball Space Cadet</a>
@@ -1730,7 +1757,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
+        <b>90</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6504433140">LaxtTime</a>
@@ -1753,7 +1780,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>90</b>
+        <b>91</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6756542102">Onyx Magic</a>
@@ -1776,7 +1803,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>91</b>
+        <b>92</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6479683928">AMood: 情緒即時監測 & 健康管理</a>
@@ -1799,7 +1826,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>92</b>
+        <b>93</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6478639011">Subnautica</a>
@@ -1816,7 +1843,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>93</b>
+        <b>94</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6747814605">這位子形不形？</a>
@@ -1833,7 +1860,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>94</b>
+        <b>95</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6759806669">ScoreMaster 萬用桌遊計分助手</a>
@@ -1850,7 +1877,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>95</b>
+        <b>96</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6757012046">RestTap</a>
@@ -1867,7 +1894,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6466296603">The Last Game</a>
@@ -1884,7 +1911,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>97</b>
+        <b>98</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6471839445">RYUKIN</a>
@@ -1913,7 +1940,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6443875944">Sands of Salzaar</a>
@@ -1930,7 +1957,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>99</b>
+        <b>100</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6743115658">TABS Pocket Edition</a>
@@ -1947,7 +1974,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>100</b>
+        <b>101</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6449233549">Ark Nova</a>
@@ -1958,33 +1985,6 @@ feedId:157008141708743680+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>101</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id6467822375">Auto Redial App</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買</span><ol>
-              <li>
-                <i>每週訂閱</i>：<b>1</b>
-              </li><li>
-                <i>高級終身會員</i>：<b>1</b>
-              </li><li>
-                <i>年度訂閱</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -2751,6 +2751,67 @@ feedId:157008141708743680+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Auto Redial App]]></title>
+        <id>Auto Redial App-hk-1774623546891</id>
+        <link href="https://apps.apple.com/hk/app/auto-redial-app/id6467822375?uo=4"/>
+        <updated>2026-03-27T14:59:06.891Z</updated>
+        <summary type="html"><![CDATA[高級終身會員: HK$ 88.00 → HK$ 58.00<br/>年度訂閱: HK$ 58.00 → HK$ 48.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/auto-redial-app/id6467822375?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/dd/e1/fcdde150-5f39-be15-0b20-1e0ae845a903/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>高級終身會員：</strong><span>HK$ 88.00</span> → <b>
+  <strong>HK$ 58.00</strong>
+</b><span>[HK$ 58.00 ~ HK$ 228.00]</span>
+  </li><li>
+    <strong>年度訂閱：</strong><span>HK$ 58.00</span> → <b>
+  <strong>HK$ 48.00</strong>
+</b><span>[HK$ 48.00 ~ HK$ 188.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    每週訂閱：<b>HK$ 8.00</b>
+  </li><li>
+    高級終身會員：<b>HK$ 58.00</b>
+  </li><li>
+    Pro – Lifetime：<b>HK$ 0.00</b>
+  </li><li>
+    年度訂閱：<b>HK$ 48.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  透過此應用程序，您可以有效率且個人化地自動撥打您想要的號碼。您可以定義重複次數、通話間隔、新增分機號碼、撥號前啟動震動，甚至使用內建行事曆安排通話。 「自動重撥應用程式」還提供簡單直覺的介面、詳細的通話記錄和多種自訂選項，以滿足您的需求。
+
+此應用程式非常適合需要自動重複撥打電話的任何人 - 例如預約電話、忙線重試或聯絡線路繁忙的服務。
+
+主要特點：
+- 自動重撥佔線或未接來電。
+- 設定重試次數和時間間隔。
+- 透過行事曆提前安排通話。
+- 撥號後自動新增分機號碼。
+- 每次重撥前啟用振動。
+- 通話記錄和重試統計。
+
+適合：
+- 預約（醫生、大使館等）
+- 客戶服務或技術支援
+- 致電公共辦公室
+- 自由工作者和企業主跟進客戶
+
+無論您是打電話預約醫生、聯繫客戶服務，還是在線路繁忙時嘗試連接，此應用程式都可以節省時間和避免煩惱。
+
+
+隱私權政策：
+
+https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
+
+使用條款（最終使用者許可協議）：
+
+Apple App Store：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/34/a6/ea34a6ef-0f27-5c2f-da72-0ac5d433c69a/989ffe33-0c8a-4a18-be78-abf229ff9046_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.33.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/c3/95/6ec39518-34cf-2527-a49d-9b9949be9e52/3c5224a8-9051-4329-a504-3fc03f035a07_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.42.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/a3/78/d2a378e3-099c-feda-76cc-f5c189cc7372/8e2f164c-246c-46ff-90c9-abba2c4b7ee5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.21.26.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cc/52/28cc5275-ceee-255b-2645-07ada3a0aa76/3cd58bbf-5a78-4970-bec9-ca56e64292fd_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.54.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/3f/04/453f04d4-1dc8-8d6f-0603-581683f8d5d9/26d59837-71f1-4582-a8f6-35a1d39a38c5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.48.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/81/52/e081524f-fe33-4ef1-c2e7-bcdd6950de38/36a302a5-17a0-4c7d-a575-bfb64f8d97dc_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/52/79/51527915-b73c-86c1-9bfa-328c25a89a2a/8f69617d-e5f1-4726-ba4a-266eaa3ee8e3_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.35.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/63/08/b363088f-ebbe-404f-9990-982d329c4c4c/49d79db2-cae7-45ba-a075-dd34372e3fe1_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.21.11.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/1d/7b/d61d7b86-e55a-df56-a632-28e491055fd9/91e843c0-9b5c-4871-b072-e7f072071149_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.19.07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/d9/91/9ad99154-84aa-2bc6-1ef0-5256999b5b99/cc0e8dd8-8469-47c4-95a0-7c9b68db56b5_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.47.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solar Arc – Sun & Moon Tracker]]></title>
         <id>Solar Arc – Sun &amp; Moon Tracker-hk-1774581481204</id>
         <link href="https://apps.apple.com/hk/app/solar-arc-sun-moon-tracker/id6752503669?uo=4"/>
@@ -3382,82 +3443,6 @@ When an earthquake is detected in real time by smartphones near the epicenter, t
 Privacy: https://www.sismo.app/privacy
 
 Terms and conditions: https://www.sismo.app/terms-conditions
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神界：原罪2]]></title>
-        <id>神界：原罪2-hk-1774364832288</id>
-        <link href="https://apps.apple.com/hk/app/%E7%A5%9E%E7%95%8C-%E5%8E%9F%E7%BD%AA2/id1441532941?mt=12&amp;uo=4"/>
-        <updated>2026-03-24T15:07:12.288Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 368.00 → HK$ 98.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E7%A5%9E%E7%95%8C-%E5%8E%9F%E7%BD%AA2/id1441532941?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/51/28/7a5128be-8a2b-8dc6-a0cb-c50e13564822/Divinity2Icon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 368.00</span> → <b>
-  <strong>HK$ 98.00</strong>
-</b><span>[HK$ 68.00 ~ HK$ 368.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 98.00</b>
-</p><h2>应用描述</h2><p>
-  在榮獲了160多個獎項和提名，其中涵蓋了英國電影學院獎(BAFTA)之際，《神界：原罪2》(Divinity: Original Sin 2)終於登陸了Mac平臺！在一個充滿邪惡、被諸神遺棄的世界中，建立一支隊伍，體驗真正的多線性遊戲玩法。每個玩家，都會擁有自己獨特的故事。你的選擇非常重要，所以一定要明智地做出選擇，要知道，你們之間只有一個人可以成為新的神！
-
-警告：在購買遊戲前，請確認您的機器是否符合以下配置要求。
-
-特色：
--從五個夢幻般的種族中挑選一個來構造你的角色，每個種族都有自己的獨特能力和劇情故事：精靈、矮人、蜥蜴人、人類和亡靈。
--探索一個被戰利品、寶藏、強大的力量和故事所充滿的廣袤的世界，這個世界中還充滿了令人驚奇的分支劇情。
--以自然元素為特色的回合式戰鬥：將烈焰、大地、冰霜、大氣和其他元素結合起來，對抗你的敵人。
--與動物和鬼魂交談，獲得關於世界及其秘密的獨特見解。
--最多4人在線或2人分屏合作。
--啟動遊戲時按住CMD鍵即可進行語言及遊戲選項配置。
-
-如何確認：要確認你的Mac型號，在Apple菜單中選擇“About This Mac（關於本機）”即可。
-
-OS系統:
-
-- 推薦 macOS 10.14.2 Mojave (或更高版本) 
-- 支持 macOS 10.13.6 High Sierra
-
-支持硬件：
-
-- MacBook Pro: 2016年年底後發售的所有型號
-- MacBook Air: 2017年年中後發售的所有型號
-- iMac: 2014年後發售的所有支持Radeon圖像的型號，以及2017年年中後發售的所有iMac型號
-- Mac Pro:  2019年起發售的所有型號
-- Mac mini: 2018年起發售的所有型號
-- eGPU: 所有基於 AMD GPU的官方eGPU型號模組
-
-
-HDR生效條件:
-
-- macOS 10.14.2 或更高版本
-- 任意達到500尼特值並支持自動亮度調整的iMac顯示
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/5d/dc/ba5ddc67-9dd1-c795-d7bf-6bff6fd4dce5/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/cd/f4/1f/cdf41f77-565c-7f7b-30ed-252855685547/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f0/63/12/f0631209-4cec-47b8-6afb-e491e8feb34d/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d4/7b/09/d47b0955-5a56-9ddf-846a-c5b20f7130ba/pr_source.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astrea: Six-Sided Oracles]]></title>
-        <id>Astrea: Six-Sided Oracles-hk-1774359637927</id>
-        <link href="https://apps.apple.com/hk/app/astrea-six-sided-oracles/id6746136017?uo=4"/>
-        <updated>2026-03-24T13:40:37.927Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 88.00 → HK$ 58.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/astrea-six-sided-oracles/id6746136017?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/eb/dd/e0ebdd3b-4e70-9da5-4c98-8561bcf5e8fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 88.00</span> → <b>
-  <strong>HK$ 58.00</strong>
-</b><span>[HK$ 58.00 ~ HK$ 88.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 58.00</b>
-</p><h2>应用描述</h2><p>
-  建立足夠強大的骰子組合，淨化阿斯特賴亞失控的腐敗並拯救星系。
-
-特色
-• 獨特的雙重「傷害」系統：腐化與淨化——《阿斯特賴亞》有一種新型的「傷害」系統。淨化可以用來傷害敵人或治療自己，而腐化可以用來傷害自己或治療敵人。使用淨化來安撫敵人，或腐化自己來釋放力量以扭轉戰局。
-• 動態生命條系統——將技能附加到生命條後，可以使用腐化來啟用這些技能並釋放強大的能力。但是要小心，如果接受了太多腐敗，你可能會被會被它消耗殆盡。
-• 不是紙牌，是骰子！——建立適合你遊戲風格的骰子組合。從超過350顆骰子和三種骰子類型中選擇：可靠安全、完美平衡或強大有風險。以高風險、高報酬為核心設計的骰子型系統。
-• 自訂骰子——編輯骰子面，以新動作來創造自己的命運，讓強大結果的機率對自己有利。
-• 在六位勇敢神諭者中選擇——每一位都擁有自己獨特的骰子組合、能力與玩法風格。從靈巧的施法者到野蠻的狂戰士，無論是喜歡讓對手挨轟求饒，還是想以智取勝，總有一位適合你。
-• 發現超過170種修改賜福——為神諭者注入獨特的被動技，產生強大的效果，將改變你的基本策略。在恆星賜福（力量較弱的被動效果）或黑洞賜福（具有不利條件的強大被動效果）之間進行選擇。
 </p>]]></content>
     </entry>
 </feed>
