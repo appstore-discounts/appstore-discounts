@@ -1319,7 +1319,8 @@
       "HAA Home Theater": "99,99 €",
       "Unlock All Tier 5": "299,99 €",
       "Unlock All Tier 7": "399,99 €",
-      "Unlock All Tier 4": "229,99 €"
+      "Unlock All Tier 4": "229,99 €",
+      "Transfer Function": "59,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -1343,9 +1344,29 @@
       "HAA Home Theater": "69,99 €",
       "Unlock All Tier 5": "179,00 €",
       "Unlock All Tier 7": "299,00 €",
-      "Unlock All Tier 4": "149,99 €"
+      "Unlock All Tier 4": "149,99 €",
+      "Transfer Function": "59,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774644551434,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "Transfer Function": "59,99 €",
+            "SPL Pro Module": "8,99 €",
+            "All-In Module Access": "9,99 €",
+            "Polarity Test Module": "3,99 €",
+            "SoundScope VR": "29,99 €",
+            "SPL Graph Module": "9,99 €",
+            "Speaker Distortion": "6,99 €",
+            "ETC Module": "6,99 €",
+            "VU Meter": "2,99 €",
+            "SPL Traffic Light": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772390661420,

@@ -761,7 +761,7 @@
 |1130|396269166|自动|❌|The Shadow Sun|The Shadow Sun|The Shadow Sun|The Shadow Sun|The Shadow Sun|The Shadow Sun|
 |1129|1442035374|自动|❌|圍棋師傅|圍棋師傅|圍棋師傅|A Master of Go|A Master of Go|A Master of Go|
 |1128|1492041611|自动|❌|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|FINAL FANTASY V|
-|1127|6745421021|自动|ScanAgent|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|
+|1127|6745421021|自动|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|紫拿鐵 Purple Latte|
 |1126|993483096|自动|拼音助手专业版 - 最好的普通话真人发声字典|拼音助手专业版 - 最好的普通話真人發聲字典|拼音助手专业版 - 最好的普通話真人發聲字典|拼音助手专业版 - 最好的普通話真人發聲字典|Pinyin Helper Pro|Pinyin Helper Pro|Pinyin Helper Pro|
 |1125|1596075354|自动|❌|了不起的修仙模拟器|了不起的修仙模拟器|了不起的修仙模拟器|Amazing Cultivation Simulator|Amazing Cultivation Simulator|Amazing Cultivation Simulator|
 |1124|6501973975|自动|休息日|休息日|休息日|休息日|Off Day|Off Day|Off Day|
