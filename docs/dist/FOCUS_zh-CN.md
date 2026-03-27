@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1880` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1881` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1881|1422196592|自动|堪舆透明罗盘|堪輿透明羅盤|堪輿透明羅盤|堪輿透明羅盤|FengShui Transparent Compass|FengShui Transparent Compass|堪輿透明羅盤|
 |1880|6749550770|自动|❌|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|
 |1879|363360636|自动|Ship Finder|Ship Finder|Ship Finder|Ship Finder|Ship Finder|Ship Finder|Ship Finder|
 |1878|6759552301|自动|星环弹珠|星環彈珠|星環彈珠|星環彈珠|Crown Orbit|Crown Orbit|Crown Orbit|
@@ -1058,7 +1059,7 @@
 |832|6447693393|自动|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|
 |831|6446021269|自动|❌|ROCKMAN X DiVE Offline|ROCKMAN X DiVE Offline|ROCKMAN X DiVE Offline|MEGA MAN X DiVE Offline|MEGA MAN X DiVE Offline|MEGA MAN X DiVE Offline|
 |830|6446337236|自动|新概念英语-新概念英语全四册单词听力口语|新概念英語--新概念英語全四册單詞聽力口語|新概念英語--新概念英語全四册單詞聽力口語|新概念英語--新概念英語全四册單詞聽力口語|New Concept English Study|New Concept English Study|新概念英语-新概念英语全四册单词听力口语|
-|829|6475892753|自动|❌|Listenify|❌|Listenify|Listenify|Listenify|❌|
+|829|6475892753|自动|❌|Listenify|Listenify|Listenify|Listenify|Listenify|Listenify|
 |828|6739755879|自动|百名店map|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|
 |827|6443849085|自动|❌|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|
 |826|6744893097|自动|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|

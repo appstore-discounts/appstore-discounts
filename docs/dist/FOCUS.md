@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1880` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1881` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1881|1422196592|Automatic|堪舆透明罗盘|堪輿透明羅盤|堪輿透明羅盤|堪輿透明羅盤|FengShui Transparent Compass|FengShui Transparent Compass|堪輿透明羅盤|
 |1880|6749550770|Automatic|❌|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|
 |1879|363360636|Automatic|Ship Finder|Ship Finder|Ship Finder|Ship Finder|Ship Finder|Ship Finder|Ship Finder|
 |1878|6759552301|Automatic|星环弹珠|星環彈珠|星環彈珠|星環彈珠|Crown Orbit|Crown Orbit|Crown Orbit|
@@ -1058,7 +1059,7 @@ So far, we've covered `7` `Countries or Regions` and  `1880` `Apps` <br />Push n
 |832|6447693393|Automatic|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|灵感卡片 - 创意笔记|
 |831|6446021269|Automatic|❌|ROCKMAN X DiVE Offline|ROCKMAN X DiVE Offline|ROCKMAN X DiVE Offline|MEGA MAN X DiVE Offline|MEGA MAN X DiVE Offline|MEGA MAN X DiVE Offline|
 |830|6446337236|Automatic|新概念英语-新概念英语全四册单词听力口语|新概念英語--新概念英語全四册單詞聽力口語|新概念英語--新概念英語全四册單詞聽力口語|新概念英語--新概念英語全四册單詞聽力口語|New Concept English Study|New Concept English Study|新概念英语-新概念英语全四册单词听力口语|
-|829|6475892753|Automatic|❌|Listenify|❌|Listenify|Listenify|Listenify|❌|
+|829|6475892753|Automatic|❌|Listenify|Listenify|Listenify|Listenify|Listenify|Listenify|
 |828|6739755879|Automatic|百名店map|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|Oishii Map - Tabelog Top 100|
 |827|6443849085|Automatic|❌|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|Terminal Madness - Awakening|
 |826|6744893097|Automatic|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|Easy Snap Finger|

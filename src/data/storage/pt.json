@@ -40778,6 +40778,27 @@
       ]
     ]
   },
+  "1422196592": {
+    "name": "堪輿透明羅盤",
+    "maxPriceInfo": {
+      "price": 44.99,
+      "formattedPrice": "44,99 €"
+    },
+    "minPriceInfo": {
+      "price": 44.99,
+      "formattedPrice": "44,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774630899433,
+          "price": 44.99,
+          "formattedPrice": "44,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1422480068": {
     "name": "Notes Writer Pro: Notas e PDF",
     "maxPriceInfo": {
@@ -58407,6 +58428,17 @@
       "Rocket Science Pack": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774630899433,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Orbit Pack": "5,99 €",
+            "Rocket Science Pack": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770324117782,
@@ -80847,6 +80879,27 @@
           "timestamp": 1774590314787,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6475892753": {
+    "name": "Listenify",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774630899433,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
           "inAppPurchases": {}
         }
       ]
