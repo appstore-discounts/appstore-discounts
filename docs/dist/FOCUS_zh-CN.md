@@ -863,7 +863,7 @@
 |1026|1114127463|自动|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|Reigns|
 |1025|1636439801|自动|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|Railbound|
 |1024|1479808939|自动|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|
-|1023|6451376191|自动|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone: Minimalist Widgets|Dumb Phone: Minimalist Widgets|Dumb Phone|
+|1023|6451376191|自动|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone — Widgets & Focus|Dumb Phone|Dumb Phone|
 |1022|6446912063|自动|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|自动|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|❌|
 |1020|409818349|自动|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
