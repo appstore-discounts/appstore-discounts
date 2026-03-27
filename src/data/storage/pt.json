@@ -3132,6 +3132,25 @@
     "history": [
       [
         {
+          "timestamp": 1774590314787,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro + Família": "29,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Haydn: String Quartets": "1,99 €",
+            "Christmas Carol Collection": "1,99 €",
+            "Bach: Cello Suites": "1,99 €",
+            "Vivaldi: The Four Seasons": "1,99 €",
+            "Mozart: Twelve Duets": "1,99 €",
+            "The Mutopia Piano Collection": "5,99 €",
+            "forScore Pro": "17,99 €",
+            "Voluntary Upgrade": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774082541675,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -44003,7 +44022,8 @@
       "精听党 | 英语六级真题精品课": "8,99 €",
       "精听党 | 英语四级真题精品课": "9,99 €",
       "英语时文精读（新冠专题）": "29,99 €",
-      "VIP连续包月": "3,99 €"
+      "VIP连续包月": "3,99 €",
+      "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -44018,9 +44038,29 @@
       "精听党 | 英语六级真题精品课": "8,99 €",
       "精听党 | 英语四级真题精品课": "9,99 €",
       "英语时文精读（新冠专题）": "29,99 €",
-      "VIP连续包月": "3,99 €"
+      "VIP连续包月": "3,99 €",
+      "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774590314787,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €",
+            "VIP连续包月": "3,99 €",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "34,99 €",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "34,99 €",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "34,99 €",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "34,99 €",
+            "林小鹿英语精读（1-7季合集升级版）": "79,99 €",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "34,99 €",
+            "林小鹿经济学人精读": "22,99 €",
+            "精听党 | 英语六级真题精品课": "8,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768322447835,
@@ -60408,14 +60448,22 @@
   "1642139491": {
     "name": "Tokyo Dispatcher!",
     "maxPriceInfo": {
-      "price": 0.69,
-      "formattedPrice": "0,69 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774590314787,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774018306547,
@@ -61111,14 +61159,22 @@
   "1659271912": {
     "name": "Tokyo Dispatcher! 2",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774590314787,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772946750263,
@@ -67763,6 +67819,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1774590314787,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Boeing 777F": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "CRJ900": "0,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "22,99 €"
+          }
+        },
         {
           "timestamp": 1774581481204,
           "price": 3.99,
@@ -80736,6 +80809,27 @@
           "timestamp": 1774552699776,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749550770": {
+    "name": "Life Simulator RPG",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774590314787,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
