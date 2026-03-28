@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-03-27T18:22:18.828Z</updated>
+    <updated>2026-03-28T00:03:24.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-27T18:22:18.828Z</updated>
+        <updated>2026-03-28T00:03:24.974Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 27 Mar 2026 18:22:18 GMT</id>
+        <id>rankingptSat, 28 Mar 2026 00:03:24 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-27T18:22:18.828Z</updated>
+        <updated>2026-03-28T00:03:24.974Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -174,14 +174,24 @@ feedId:206907475259680768+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1065802380">Stream Music Player</a>
+        <a href="https://apps.apple.com/pt/app/id6467822375">Auto Redial App</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>2</b>
+            <span>Total Times</span>：<b>3</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Premium Lifetime</i>：<b>3</b>
+              </li><li>
+                <i>Assinatura anual</i>：<b>2</b>
+              </li><li>
+                <i>Assinatura semanal</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -191,7 +201,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1478611992">Farming Simulator 20</a>
+        <a href="https://apps.apple.com/pt/app/id1065802380">Stream Music Player</a>
       </td>
       <td>
         <ul>
@@ -208,7 +218,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1571643809">Dungeon and Puzzles</a>
+        <a href="https://apps.apple.com/pt/app/id1478611992">Farming Simulator 20</a>
       </td>
       <td>
         <ul>
@@ -225,7 +235,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
+        <a href="https://apps.apple.com/pt/app/id1571643809">Dungeon and Puzzles</a>
       </td>
       <td>
         <ul>
@@ -242,24 +252,14 @@ feedId:206907475259680768+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6467822375">Auto Redial App</a>
+        <a href="https://apps.apple.com/pt/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>Compras integradas</span><ol>
-              <li>
-                <i>Premium Lifetime</i>：<b>2</b>
-              </li><li>
-                <i>Assinatura semanal</i>：<b>1</b>
-              </li><li>
-                <i>Assinatura anual</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -2067,6 +2067,66 @@ feedId:206907475259680768+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Auto Redial App]]></title>
+        <id>Auto Redial App-pt-1774651254621</id>
+        <link href="https://apps.apple.com/pt/app/auto-redial-app/id6467822375?uo=4"/>
+        <updated>2026-03-27T22:40:54.621Z</updated>
+        <summary type="html"><![CDATA[Premium Lifetime: 9,99 € → 8,99 €<br/>Assinatura anual: 7,99 € → 6,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/auto-redial-app/id6467822375?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/3b/3d/ee3b3d6b-72e7-e1f7-0250-2d962e8825ee/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Premium Lifetime：</strong><span>9,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[8,99 € ~ 34,99 €]</span>
+  </li><li>
+    <strong>Assinatura anual：</strong><span>7,99 €</span> → <b>
+  <strong>6,99 €</strong>
+</b><span>[6,99 € ~ 29,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Premium Lifetime：<b>8,99 €</b>
+  </li><li>
+    Pro – Lifetime：<b>0,00 €</b>
+  </li><li>
+    Assinatura semanal：<b>0,99 €</b>
+  </li><li>
+    Assinatura anual：<b>6,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Com esta aplicação, pode fazer chamadas automáticas para os números que desejar de forma eficiente e personalizada. Pode definir o número de repetições, o intervalo entre chamadas, adicionar um posto, ativar a vibração antes de marcar e até mesmo agendar as suas chamadas utilizando um calendário integrado. A Auto Redial App oferece ainda uma interface simples e intuitiva, um histórico de chamadas detalhado e várias opções de personalização para se adequar às suas necessidades.
+
+Esta aplicação é ideal para quem precisa de fazer chamadas repetitivas automaticamente — como uma chamada para uma consulta, uma nova tentativa de chamada quando o número está ocupado ou contactar serviços onde a linha está ocupada.
+
+Principais características:
+- Redisque automaticamente as chamadas ocupadas ou não atendidas.
+- Defina o número de tentativas e os intervalos de tempo.
+- Agende chamadas com antecedência via calendário.
+- Adicione os ramais automaticamente após a marcação.
+- Ative a vibração antes de cada rediscagem.
+- Histórico de chamadas e estatísticas de novas tentativas.
+
+Perfeito para:
+- Marcação de consultas (médicas, embaixadas, etc.)
+- Atendimento ao cliente ou suporte técnico
+- Telefonar para repartições públicas
+- Freelancers e empresários a acompanhar clientes
+
+Quer esteja a ligar para marcar uma consulta médica, falar com o serviço de apoio ao cliente ou apenas a tentar ligar-se quando a linha está ocupada, esta aplicação poupa tempo e frustração.
+
+
+Política de Privacidade:
+https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
+
+Termos de Uso (EULA):
+Apple App Store
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/5e/64/d25e640d-9179-5372-ef28-a2b311c8ff90/7ae05f33-29d4-475c-9db4-f938acdc697a_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/ba/37/84ba373b-7e9c-f9f9-ba2c-dd954b51da40/fb893d89-7c26-4427-bdaa-42d753b796d2_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/40/2a/59402a5f-5130-68b9-17d1-4832ab11e523/8e49ed3d-2849-4690-ae83-e878acb7e893_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.25.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/b9/91/cdb99105-041b-1964-0011-78ffbe88bda0/103c44c7-203d-43c5-9bf0-31a9691da6af_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.19.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b9/ed/d5b9ed24-9a1b-b217-7075-79dd40fa198d/83089997-797f-4c68-aa7d-71aef1edee6d_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.11.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/81/52/e081524f-fe33-4ef1-c2e7-bcdd6950de38/36a302a5-17a0-4c7d-a575-bfb64f8d97dc_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/52/79/51527915-b73c-86c1-9bfa-328c25a89a2a/8f69617d-e5f1-4726-ba4a-266eaa3ee8e3_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.35.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/63/08/b363088f-ebbe-404f-9990-982d329c4c4c/49d79db2-cae7-45ba-a075-dd34372e3fe1_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.21.11.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/1d/7b/d61d7b86-e55a-df56-a632-28e491055fd9/91e843c0-9b5c-4871-b072-e7f072071149_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.19.07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/d9/91/9ad99154-84aa-2bc6-1ef0-5256999b5b99/cc0e8dd8-8469-47c4-95a0-7c9b68db56b5_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.47.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AeroPads - Pads & Soundscapes]]></title>
         <id>AeroPads - Pads &amp; Soundscapes-pt-1774630899433</id>
         <link href="https://apps.apple.com/pt/app/aeropads-pads-soundscapes/id1612952507?uo=4"/>
@@ -2745,55 +2805,5 @@ Adoraríamos ver seu conteúdo no Youtube e no Twitch! Nós apoiamos e promovemo
 —— 婚启团队
 期待与你一起启程
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divinity: Original Sin 2]]></title>
-        <id>Divinity: Original Sin 2-pt-1774392005900</id>
-        <link href="https://apps.apple.com/pt/app/divinity-original-sin-2/id1441532941?mt=12&amp;uo=4"/>
-        <updated>2026-03-24T22:40:05.900Z</updated>
-        <summary type="html"><![CDATA[Price: 49,99 € → 14,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/divinity-original-sin-2/id1441532941?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/51/28/7a5128be-8a2b-8dc6-a0cb-c50e13564822/Divinity2Icon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>49,99 €</span> → <b>
-  <strong>14,99 €</strong>
-</b><span>[9,99 € ~ 49,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>14,99 €</b>
-</p><h2>Application Description</h2><p>
-  Divinity: Original Sin 2 já conta com mais de 160 prémios e nomeações, incluindo um BAFTA, e chega agora ao Mac. Forma um grupo e desfruta da jogabilidade ramificada com histórias distintas para cada personagem num mundo abandonado pelos deuses e entregue ao mal. As tuas decisões são importantes, por isso, pondera as tuas opções e lembra-te que apenas um poderá tornar-se o Divine!
-
-Aviso: antes de comprar, verifica se o teu computador cumpre os requisitos listados em baixo.
- 
- Caraterísticas:
- - Joga como uma das 5 raças de fantasia, cada uma com as suas próprias personalidades e histórias: Elfos, Anões, Lagartos, Humanos e Mortos-vivos.
- - Explora um mundo vasto e cheio de saque, tesouros, melhorias e histórias com narrativas ramificadas nunca antes vistas.
- - Combate por turnos que inclui os elementos da natureza: combina fogo, terra, água, ar e muito mais para derrotar os teus inimigos. 
- - Fala com animais e fantasmas para ganhar informações únicas sobre o mundo e os seus segredos. 
- - Para até 4 jogadores online ou 2 jogadores em ecrã dividido no modo cooperativo.
- - Mantém CMD pressionado ao abrir o jogo para aceder às opções de idioma e configuração.
- 
- Requisitos: seleciona “Sobre Este Mac” a partir do menu Apple na tua barra de menus para verificar o modelo do teu Mac.
- 
- SO:
- 
- - recomendado macOS 10.14.2 Mojave (ou superior)
- - macOS 10.13.6 High Sierra suportado
- 
- Hardware suportado:
- 
- - MacBook Pro: todos desde o final de 2016
- - MacBook Air: todos desde meados de 2017
- - iMac: todos desde o final de 2014 com placa gráfica Radeon e todos os iMacs desde meados de 2017
- - Mac Pro: todos desde 2019
- - Mac mini: todos desde 2018
- - eGPU: todos os módulos oficiais eGPU baseados em GPUs AMD
- 
- 
- Requisitos HDR:
- 
- - macOS 10.14.2 ou superior
- - Qualquer iMac capaz de exibição de 500 Nits que suporte o Ajuste Automático do Brilho.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/5d/dc/ba5ddc67-9dd1-c795-d7bf-6bff6fd4dce5/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/cd/f4/1f/cdf41f77-565c-7f7b-30ed-252855685547/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f0/63/12/f0631209-4cec-47b8-6afb-e491e8feb34d/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d4/7b/09/d47b0955-5a56-9ddf-846a-c5b20f7130ba/pr_source.jpg/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
