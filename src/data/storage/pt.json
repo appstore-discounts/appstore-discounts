@@ -21274,6 +21274,23 @@
     "history": [
       [
         {
+          "timestamp": 1774687854186,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Abandoned Mines Add-on": "0,99 €",
+            "DLC Sisters in Arms": "2,99 €",
+            "Biomes Add-on": "1,99 €",
+            "Biomes Add-on (Special Price)": "0,99 €",
+            "DLC Sister in Arms (Special Price)": "1,99 €",
+            "Grottoes Add-on": "0,99 €",
+            "Wonderwood Add-on": "9,99 €",
+            "Heroes Add-on": "3,99 €",
+            "Temples of 4 Elements Add-on": "3,99 €",
+            "Invasion Add-on": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1774681660492,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -80505,14 +80522,22 @@
   "6455889577": {
     "name": "Psychrometrics",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774687854186,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772601084303,
