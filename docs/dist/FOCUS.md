@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1882` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1883` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1883|1492049794|Automatic|宗师-武林风云传|宗師 - 武林風雲傳|宗師 - 武林風雲傳|宗師 - 武林風雲傳|宗师-武林风云传|宗师-武林风云传|宗师-武林风云传|
 |1882|1406794157|Automatic|我的私房菜-厨房 下厨 烹饪 料理 美食 家常菜 厨师 菜谱|我的私房菜-早餐 食譜 廚房 料理 美食 烹飪 做菜 筆記|我的私房菜-早餐 食譜 廚房 料理 美食 烹飪 做菜 筆記|我的私房菜-早餐 食譜 廚房 料理 美食 烹飪 做菜 筆記|My Cooking Recipe -My dish app|My Cooking Recipe - Tasty Dish|My Cooking Recipe -My dish app|
 |1881|1422196592|Automatic|堪舆透明罗盘|堪輿透明羅盤|堪輿透明羅盤|堪輿透明羅盤|FengShui Transparent Compass|FengShui Transparent Compass|堪輿透明羅盤|
 |1880|6749550770|Automatic|❌|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|
