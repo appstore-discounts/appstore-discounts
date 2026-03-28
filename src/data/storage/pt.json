@@ -28507,6 +28507,25 @@
     "history": [
       [
         {
+          "timestamp": 1774666118529,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "7,000,000 points": "89,99 €",
+            "500,000 points": "9,99 €",
+            "2,100,000 points": "39,99 €",
+            "100,000 points": "2,99 €",
+            "25,000 points": "0,99 €",
+            "1,500,000 points": "29,99 €",
+            "850,000 points": "17,99 €",
+            "10,000,000 points": "99,99 €",
+            "3,750,000 points": "59,99 €",
+            "300,000 points": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773348225075,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -40719,6 +40738,37 @@
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1406794157": {
+    "name": "My Cooking Recipe -My dish app",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Avoid privacy breach & lost": "0,99 €",
+      "Launch Chef tools & utilities": "0,99 €",
+      "Food expiry alert & prevention": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Avoid privacy breach & lost": "0,99 €",
+      "Launch Chef tools & utilities": "0,99 €",
+      "Food expiry alert & prevention": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774666118529,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Avoid privacy breach & lost": "0,99 €",
+            "Launch Chef tools & utilities": "0,99 €",
+            "Food expiry alert & prevention": "0,99 €"
+          }
         }
       ]
     ]
