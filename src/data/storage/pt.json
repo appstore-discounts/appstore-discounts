@@ -19442,16 +19442,27 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €",
-      "Diapasão": "1,99 €",
-      "Configurações": "1,99 €"
+      "Diapasão": "3,99 €",
+      "Configurações": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Diapasão": "0,99 €",
       "Configurações": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774795238272,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Diapasão": "3,99 €",
+            "Configurações": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774272298044,
@@ -40700,6 +40711,16 @@
     "history": [
       [
         {
+          "timestamp": 1774795238272,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Card.Note Premiun": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774272298044,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -58904,6 +58925,27 @@
             "Orbit Pack": "5,99 €",
             "Rocket Science Pack": "5,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1613286262": {
+    "name": "KOF '96 ACA NEOGEO",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774795238272,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -81345,6 +81387,27 @@
           "timestamp": 1774730408497,
           "price": 7.99,
           "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752323092": {
+    "name": "Bnafter",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774795238272,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]
