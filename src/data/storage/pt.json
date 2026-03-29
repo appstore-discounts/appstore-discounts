@@ -10990,6 +10990,27 @@
       ]
     ]
   },
+  "522281602": {
+    "name": "ZipApp Pro: The Unarchiver",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774816886697,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "525176875": {
     "name": "Sun Surveyor",
     "maxPriceInfo": {
@@ -68287,7 +68308,8 @@
       "F/A-18": "1,99 €",
       "Robinson R-22": "0,99 €",
       "Swift": "0,99 €",
-      "Junkers Ju 52": "0,99 €"
+      "Junkers Ju 52": "0,99 €",
+      "ASG29": "0,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -68322,9 +68344,29 @@
       "F/A-18": "1,99 €",
       "Robinson R-22": "0,99 €",
       "Swift": "0,99 €",
-      "Junkers Ju 52": "0,99 €"
+      "Junkers Ju 52": "0,99 €",
+      "ASG29": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774816886697,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "ASG29": "0,99 €",
+            "Boeing 777F": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "CRJ900": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774590314787,
