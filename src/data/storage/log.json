@@ -1,5 +1,88 @@
 [
   {
+    "timestamp": 1774802658298,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 536495161,
+          "trackName": "Lapse It Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1406253554,
+          "trackName": "AirTycoon 5",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 634158738,
+          "trackName": "e-Sword LT: Bible Study to Go",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [
+        {
+          "trackId": 6757986827,
+          "trackName": "Translate Gemma l Offline",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 960457446,
+          "trackName": "Flush Toilet Finder Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1660616690,
+          "trackName": "OneTap Stream - PC Game Stream",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tw": [
+        {
+          "trackId": 1437282350,
+          "trackName": "Clear Fear",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 335454448,
+          "trackName": "Tilt to Live",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 390017969,
+          "trackName": "Due - Reminders & Timers",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1512282997,
+          "trackName": "子午线157: 第2章",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [
+        {
+          "trackId": 1446399911,
+          "trackName": "Tap Roulette - Decision Maker",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "1h29m4.077s",
+    "regionAppCount": {
+      "cn": 944,
+      "hk": 1627,
+      "mo": 1623,
+      "tw": 1632,
+      "us": 1617,
+      "tr": 1611,
+      "pt": 1566
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1774795238272,
     "regionAppInfo": {
       "cn": [
@@ -126639,29 +126722,5 @@
     },
     "limitCount": 2,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1774197570096,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "1h37m5.033s",
-    "regionAppCount": {
-      "cn": 926,
-      "hk": 1601,
-      "mo": 1596,
-      "tw": 1606,
-      "us": 1591,
-      "tr": 1584,
-      "pt": 1541
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]

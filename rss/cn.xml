@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-03-29T16:03:14.770Z</updated>
+    <updated>2026-03-29T18:13:16.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-29T16:03:14.771Z</updated>
+        <updated>2026-03-29T18:13:16.599Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 29 Mar 2026 16:03:14 GMT</id>
+        <id>rankingcnSun, 29 Mar 2026 18:13:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-29T16:03:14.771Z</updated>
+        <updated>2026-03-29T18:13:16.599Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -126,6 +126,29 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>Card.Note Premiun</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id401818935">Genius Scan Enterprise - PDF</a>
       </td>
       <td>
@@ -146,7 +169,32 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id807752194">大提琴调音器专业版 - Cello Tuner Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>设置</i>：<b>1</b>
+              </li><li>
+                <i>音叉</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1065802380">Stream Music Player</a>
@@ -163,30 +211,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>Card.Note Premiun</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <del>
@@ -205,7 +230,24 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6504854196">下一站江湖Ⅱ</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6479683928">AMood: 情绪实时监测 & 健康管理</a>
@@ -230,7 +272,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6754641661">婚启</a>
@@ -253,7 +295,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6752503669">Solar Arc – Sun & Moon Tracker</a>
@@ -270,7 +312,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
@@ -287,7 +329,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id608540795">Tunable – Tuner & Metronome</a>
@@ -304,7 +346,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id646256209">Photo Eraser</a>
@@ -321,7 +363,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id722262021">Wallax - Wallpaper Editor</a>
@@ -338,32 +380,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id807752194">大提琴调音器专业版 - Cello Tuner Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>设置</i>：<b>1</b>
-              </li><li>
-                <i>音叉</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
@@ -380,7 +397,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -405,7 +422,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1020541183">电影精灵 - 专业视频编辑和电影制作</a>
@@ -422,7 +439,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1102750714">地牢求生</a>
@@ -439,7 +456,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1157863540">泰拉瑞亚</a>
@@ -456,7 +473,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1159266744">双子 Gemini</a>
@@ -473,7 +490,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1159700098">去月球-To the Moon</a>
@@ -490,7 +507,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1160943124">听写文本：语音识别</a>
@@ -507,7 +524,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1271620263">艾希 - ICEY</a>
@@ -524,7 +541,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1304822713">无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游</a>
@@ -541,7 +558,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1344655035">蜡烛人</a>
@@ -564,7 +581,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1380582804">手机帝国</a>
@@ -581,7 +598,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1446399911">指尖轮盘 - 有趣的手指转盘决定器</a>
@@ -598,7 +615,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453808408">恶果之地</a>
@@ -615,7 +632,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
@@ -632,7 +649,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1464666446">我的足迹: GPS记录仪</a>
@@ -649,7 +666,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1481006495">倒计时应用 Countdown App</a>
@@ -666,7 +683,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -683,7 +700,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1558634102">分贝计 (声级计)</a>
@@ -700,7 +717,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1560779038">伤寒论条阅</a>
@@ -717,7 +734,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576004936">化学 - 元素周期表 2026</a>
@@ -734,7 +751,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1584313012">笼中窥梦</a>
@@ -751,7 +768,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -768,7 +785,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1614200925">部落与弯刀</a>
@@ -785,7 +802,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1614740269">答题王 - 百科知识问答题库</a>
@@ -802,7 +819,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1640636826">Code Blue – CPR & ACLS Timer</a>
@@ -819,7 +836,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
@@ -836,7 +853,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1665759338">坐在罐子里的人</a>
@@ -853,7 +870,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742311454">伏魔诀-阴阳秘术诡道修仙录</a>
@@ -870,7 +887,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749045841">王国保卫战5</a>
@@ -887,7 +904,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504433140">LaxtTime - 日常记录/循环提醒/习惯养成/倒计时</a>
@@ -910,7 +927,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6756542102">Onyx Magic</a>
@@ -927,23 +944,6 @@ feedId:157007849019630592+userId:73658201673997312
                 <i>Onyx Print</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>46</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6504854196">下一站江湖Ⅱ</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -1762,6 +1762,184 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大提琴调音器专业版 - Cello Tuner Pro]]></title>
+        <id>大提琴调音器专业版 - Cello Tuner Pro-cn-1774802658298</id>
+        <link href="https://apps.apple.com/cn/app/%E5%A4%A7%E6%8F%90%E7%90%B4%E8%B0%83%E9%9F%B3%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88-cello-tuner-pro/id807752194?uo=4"/>
+        <updated>2026-03-29T16:44:18.298Z</updated>
+        <summary type="html"><![CDATA[价格: ¥68.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A4%A7%E6%8F%90%E7%90%B4%E8%B0%83%E9%9F%B3%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88-cello-tuner-pro/id807752194?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/2e/90/ea2e9000-c6de-d332-02bd-1a8e8f1431ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥68.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥68.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    设置：<b>¥28.00</b>
+  </li><li>
+    音叉：<b>¥28.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  容易地及准确地调整大提琴的音色 
+
+· 校准: A392Hz, A415Hz, A432Hz, A440Hz, A441Hz, A442Hz, A443Hz, A444Hz, A466Hz. 
+· 准确 – 以Hz显示频率 
+· 唯一一个适用于64位的调音器 
+· 泛用性高 – 支援iPod touch, iPhone及iPad 
+· 立即加载并提供快速的调音 
+· 最高的反应度 
+· 恒常的更新 
+· 视觉上的指针 – 已调音的弦会发亮 
+· 为Retina显示屏而优化 
+· 直觉上的用家接口和LED调音显示指针 
+
+---
+
+重要通告：iOS7已经开放了在隐私设定里加上麦克风存取的功能。当这程序发出提示的时候，请记得允许麦克风存取的设定。你可以在设定 -> 隐私 -> 麦克风里检查到。谢谢
+
+---
+
+有任何意见？问题？ 
+
+请把任何意见透过我们的网页或者feedback@daikyoujulabs.com传给我们
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/31/87/10/31871044-3557-0bdb-b105-d5b05c90da66/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e7/f3/69/e7f369a4-9b05-da14-17c6-0e5f7dda0d1a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/47/ac/7e47acbc-5ddc-4650-c237-5b9e90b5130f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/12/80/b8/1280b8a8-d718-3f2b-9dac-ad73a10fc1fb/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d2/88/2b/d2882ba2-ff92-4d60-bf13-745312960385/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/3d/ef/ed3def7d-55fa-0dda-17ee-bf92dff3b9ef/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ee/41/76/ee4176ab-bcaf-076f-39e7-548e8fe8c72c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ab/69/9c/ab699c6d-75f5-c1d8-13a5-2214169b608d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/8e/31/d68e315a-d42e-4598-7a42-d3447bb0ee56/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5b/ac/66/5bac6650-4ef6-f70a-6d3f-6a5140a72575/841989ff-f55d-412f-aa06-de70c7a4e4d5_iPhone_8_Plus-9About.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a8/f1/51/a8f1514f-3752-3740-4c57-40d22aee77f2/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fa/25/92/fa2592c8-45bc-b685-f8c2-2b0e08b1296c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/79/1c/53/791c53e2-25ea-ddfb-e071-13f1335ee75e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/97/7a/36/977a3629-9699-601d-02ac-e7d77af4af68/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/91/75/d391752c-39a0-6fdd-df8d-a9393cab4f1c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/07/bd/72/07bd72d0-972d-86eb-52fd-e38909473814/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/d9/4d/91d94d03-3765-d124-41bf-e39c1ea04c1f/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/ba/b1/8fbab190-41fd-2317-e4db-090d7d7e76dc/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c7/d6/6d/c7d66dcf-0bd2-ed14-2275-f78a54b7477e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/df/2f/f1/df2ff176-9002-88cf-01b8-e9bf164eab72/5c92a5af-9b2f-46b5-af47-bf7d3e857aa5_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-9About.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下一站江湖Ⅱ]]></title>
+        <id>下一站江湖Ⅱ-cn-1774802658298</id>
+        <link href="https://apps.apple.com/cn/app/%E4%B8%8B%E4%B8%80%E7%AB%99%E6%B1%9F%E6%B9%96/id6504854196?uo=4"/>
+        <updated>2026-03-29T16:44:18.298Z</updated>
+        <summary type="html"><![CDATA[价格: ¥24.00 → ¥18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%B8%8B%E4%B8%80%E7%AB%99%E6%B1%9F%E6%B9%96/id6504854196?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/7a/0b/4d7a0b2d-0859-2b79-69bb-2152adb7b431/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥24.00</span> → <b>
+  <strong>¥18.00</strong>
+</b><span>[¥18.00 ~ ¥36.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥18.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    纯外观DLC《江湖初见》：<b>¥16.00</b>
+  </li><li>
+    纯外观DLC《日月玄宗》：<b>¥16.00</b>
+  </li><li>
+    纯外观DLC《六脉齐发》：<b>¥16.00</b>
+  </li><li>
+    纯外观DLC《风华绝代》：<b>¥16.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【核心特色：这就是你从未体验过的江湖】
+
+1.  “移动端发货”：独属于你的无缝武侠大世界，真实武林画卷
+       无读条世界：告别加载画面！我们打造了一个面积达256丈的无缝大世界——中原、江南、西域、南疆……从熙熙攘攘的古城街区，到人迹罕至的雪山秘境，所有场景皆可自由探索。
+       活的江湖：昼夜、真实天气、万物动态（可破坏环境、可拾取万物）。世界不仅仅是背景，更是可交互的阶段。
+       无束缚体验：轻功飞跃山河，踏波而行，攀爬峭壁。你的武侠梦，不再受束缚。
+
+（我们的核心是创造一个‘无界’的武侠世界。在这里，地图没有空气墙，探索没有读条，整个世界是连贯、可交互、充满生机的）
+
+2.  “第一代最受欢迎的玩法”：千种武学心法，自由搭配的武侠战斗
+       没有僵化的“职业”限制！我们提供了超过数百种内功、外功、轻功、技艺。你可以是刀剑双绝的豪侠，也可以是精通音律、以琴音伤人的雅士，甚至是暗器毒术无双的“邪派”高手。
+       武学招式不再是一成不变的关键循环。采用我们“无规则”战斗系统，所有的招式心苦自由搭配、组合，你自己的套路。是追求一击必杀的极限爆发，还是决定组建全场连绵不绝的控制？战斗的策略与乐趣，完全交由你。
+
+3.  “你的江湖”：高自由度的人生，你的选择就是规则
+       江湖不是非黑即白。你的每一个抉择都会引发难以想象的“因果链”。救下一个路人，他可能就是你未来宗门的引荐人；偷听一桩秘密，或许会让你卷入颠覆王朝的阴谋。
+       可以选择拜入名门正派的恪守门规，也可以加入诡谲魔教随心所欲，更可以做个散人，逍遥自在。甚至可以完全抛开打杀，成为一名富甲天下的商贾、巧夺天工的匠人，也可以悬壶济世的神医。这个世界，认可你的每一种活法。
+
+4.  “多达700万字的文本内容，庞大的玩法量级”：沙盒奇遇，要素隐藏线索
+       《下一站江湖Ⅱ》的世界是“活”的。NPC们有自己的生活记录和喜怒哀乐。你可能在悬崖下发现前辈遗骸，学到失传绝学；也可能一碗酒，结交到一位隐世高人。
+       大量未在任务列表中标记的“奇遇”事件散落在世界各个角落。探索的回报远超你的想象，真正的宝藏，永远献给最好奇的旅人。
+
+5.  “市井百业，多维度沉浸身份”：技艺百态，感受江湖的烟火气
+       江湖不止有武功。我们深入嵌入了当今同类生活技能：采矿、采药、锻造、制琴、象棋、书法、绘画、厨艺……这些不仅仅是赚钱的手段，更是提升角色、解锁特殊剧情和关卡能力的关键。一门技艺的技能，也能让你名动江湖。
+
+【故事背景：游戏基础框架】（持续更新）
+700万文字庞大世界观：战国末期，三国、百家、江湖！
+
+1.  角色扮演：
+① 多出身多结局，每个主角都是全新体验（当前已将门之子、富家千金、寒门书生、江湖浪子、无名小卒等五大身出300多万字主线剧情接近20个结局）
+
+2.  市井身份：
+① 皈依各器皿特色的城井身份独特的对应独立剧情、规则玩法。比如刺客对应青衣楼的门玩法派、以及相关的物品万字独立剧情，突出的悬赏及刺杀玩法等
+
+3.  江湖霸图：模拟经营、骑砍LIKE、世界建造
+① 物品可加入各具特色的门派
+② 每个派都有自己的独立剧情以及与其他门派的恩怨，比如狂刀门和绝剑门的火烧凌云窟大型剧情
+③ 每个门派都有自己突出的突出体系，以及规则：比如少林的从扫地僧至罗汉堂首座，敲钟玩法及铜人阵
+④ 每个门派都强调自己的武学、心法体系
+⑤ 每个门派都可以模拟经营、占领大世界的比如矿山青楼，并开启对应的经营
+⑥ 每个门派都一样骑马与砍杀一样的世界争霸
+
+4.  自由成长：习百家武学，走你自己的江湖
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
+        <id>Card.Note - 多彩卡片笔记-cn-1774802658298</id>
+        <link href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
+        <updated>2026-03-29T16:44:18.298Z</updated>
+        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/77/fe/1277fe31-b8d2-801c-0cf3-0156177bd258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥1.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥3.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Card.Note Premiun：<b>¥12.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Card.Note：小某书百万博主私藏推荐的手账类App 
+
+这是一款以卡片为主要设计理念的极简记事 App ；
+你写的每一段文字都可以生成一张张精美的卡片 。
+
+你可以用它来写诗、短文、随想； 
+也可以用它来写日记、清单、规划、要事提醒；
+还可以直接用语音输入来记录每个瞬间的念头。
+
+「Card.Note」九大特点：
+
+1.极简设计
+循着极简的设计理念，结合图标及手势操作，轻松上手。
+
+2.文青定制
+精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
+
+3.全局卡片化
+充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
+
+4.全局手势化
+下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
+
+5.语音录入
+打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
+
+6.要事提醒：
+可设置提醒闹种，重要事情和计划不再错失。
+
+7.快捷高效
+支持Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
+
+8.iCloud云同步
+支持iCloud云同步，多台设备间数据可任意同步。
+
+9.深色模式
+全局适配深色模式，视觉舒适不刺眼。
+
+感谢下载，生活愉快。
+
+如有问题或建议，请联系开发者
+微博：土味文艺开发者
+邮箱：yande18@126.com
+</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/ee/72/edee72d3-c32e-30e4-a9be-3f8870910632/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/21/17/322117e7-1cfe-e170-76d4-42dc890b8733/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/90/b8/0390b889-5f64-eb9d-4349-655cf37a58a0/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2d/ca/2c2dcaba-629a-0769-04f1-c9a3dd1eb462/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/e9/1d/40e91dbd-bf1e-bab1-b9dc-bb568ac0a3c9/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/06/63/f2066382-37b8-f3bd-9d57-51940557a6be/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/cd/70/7acd706a-2b85-1421-5f71-e684e5ff533a/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/2d/25/372d2533-e96a-9890-551d-2738c5d0ebdb/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/58/7c/0a587c45-1e19-0f9b-6935-15f4d060c80d/mzl.wftiudsj.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[坐在罐子里的人]]></title>
         <id>坐在罐子里的人-cn-1774795238272</id>
         <link href="https://apps.apple.com/cn/app/%E5%9D%90%E5%9C%A8%E7%BD%90%E5%AD%90%E9%87%8C%E7%9A%84%E4%BA%BA/id1665759338?uo=4"/>
@@ -1965,21 +2143,5 @@ Yours forever.
 
 Questions or ideas? hello@spruzzolabs.com
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帝国传奇：像素英雄]]></title>
-        <id>帝国传奇：像素英雄-cn-1774545124478</id>
-        <link href="https://apps.apple.com/cn/app/%E5%B8%9D%E5%9B%BD%E4%BC%A0%E5%A5%87-%E5%83%8F%E7%B4%A0%E8%8B%B1%E9%9B%84/id6740698426?uo=4"/>
-        <updated>2026-03-26T17:12:04.478Z</updated>
-        <summary type="html"><![CDATA[价格: ¥22.00 → ¥18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%B8%9D%E5%9B%BD%E4%BC%A0%E5%A5%87-%E5%83%8F%E7%B4%A0%E8%8B%B1%E9%9B%84/id6740698426?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/7e/13/9b7e13fc-deac-629c-3ac4-989a9f0e38d2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥22.00</span> → <b>
-  <strong>¥18.00</strong>
-</b><span>[¥18.00 ~ ¥22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥18.00</b>
-</p><h2>应用描述</h2><p>这是一款以《英雄无敌》玩法为游戏原型，战斗参考了《英雄之时》采用快节奏的自走棋模式的单局存档式回合制策略游戏。游戏以《帝国时代》为游戏背景，游戏内拥有多个种族，每个种族以各个国家的文明特点作为种族风格，如法兰西、华夏、古罗马，等。美术风格采用Q版像素呈现。玩家在单局游戏内，发展家园、培养英雄、建立部队、探索地图，结合各种策略，击败所有对手，获得最终胜利。</p>]]></content>
     </entry>
 </feed>
