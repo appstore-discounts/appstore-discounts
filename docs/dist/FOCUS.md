@@ -575,7 +575,7 @@ So far, we've covered `7` `Countries or Regions` and  `1884` `Apps` <br />Push n
 |1319|6504854196|Automatic|下一站江湖Ⅱ|❌|❌|❌|❌|❌|❌|
 |1318|6746649752|Automatic|MagicKit Pro：AI智能工具箱|MagicKit Pro：AI智慧工具箱|MagicKit Pro：AI智慧工具箱|MagicKit Pro：AI智慧工具箱|MagicKit Pro: AI Smart Toolbox|MagicKit Pro: AI Smart Toolbox|MagicKit Pro: AI Smart Toolbox|
 |1317|976063866|Automatic|❌|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|
-|1316|6749840287|Automatic|Conduit: OpenWebUI 客户端|Conduit|Conduit|Conduit|Conduit: OpenWebUI Client|Conduit: OpenWebUI Client|Conduit: OpenWebUI Client|
+|1316|6749840287|Automatic|Conduit: OpenWebUI 客户端|Conduit: OpenWebUI Client|Conduit: OpenWebUI Client|Conduit: OpenWebUI Client|Conduit: OpenWebUI Client|Conduit: OpenWebUI Client|Conduit: OpenWebUI Client|
 |1315|6744863722|Automatic|neightn remote|neightn remote|neightn remote|neightn remote|neightn remote|neightn remote|neightn remote|
 |1314|989733380|Automatic|❌|航空大亨4|航空大亨4|航空大亨4|AirTycoon 4|AirTycoon 4|AirTycoon 4|
 |1313|1557637265|Automatic|家园、异星与猎人|❌|❌|❌|❌|❌|❌|
