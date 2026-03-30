@@ -25318,11 +25318,21 @@
       "Server Subscription": "5,49 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Server Subscription": "5,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774904120832,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Server Subscription": "5,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774823958074,
@@ -29620,6 +29630,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1774904120832,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Fast Track Pack": "9,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Liberar Excelência": "5,99 €"
+          }
+        },
         {
           "timestamp": 1774897835870,
           "price": 7.99,
@@ -36755,6 +36782,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1774904120832,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "ConneR": "9,99 €",
+            "Miku": "9,99 €",
+            "9 Characters": "39,99 €",
+            "CAPSO": "9,99 €",
+            "Aroma": "9,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "9,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "9,99 €"
+          }
+        },
         {
           "timestamp": 1774897835870,
           "price": 1.99,
@@ -61116,6 +61160,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774904120832,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774823958074,
