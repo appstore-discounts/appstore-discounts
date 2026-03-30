@@ -63357,13 +63357,25 @@
     "name": "Solar Arc – Sun & Moon Tracker",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "formattedPrice": "6,99 €",
+      "Solar Arc Pro": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Solar Arc Pro": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774878638971,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Solar Arc Pro": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774564723175,
