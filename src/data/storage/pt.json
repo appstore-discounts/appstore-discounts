@@ -24284,6 +24284,22 @@
     "history": [
       [
         {
+          "timestamp": 1774823958074,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "13 Gems": "8,99 €",
+            "1 Gem": "0,99 €",
+            "6 Gems": "3,99 €",
+            "48 Gems": "29,99 €",
+            "28 Gems": "17,99 €",
+            "74 Gems": "49,99 €",
+            "150 Gems": "89,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1772752197333,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -25277,8 +25293,8 @@
   "1003660287": {
     "name": "Dwarf Fortress Remote",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "Server Subscription": "5,49 €"
     },
     "minPriceInfo": {
@@ -25287,6 +25303,16 @@
       "Server Subscription": "5,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774823958074,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Server Subscription": "5,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -48069,6 +48095,14 @@
     "history": [
       [
         {
+          "timestamp": 1774823958074,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774046215895,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -49667,6 +49701,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774823958074,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774046215895,
@@ -54946,6 +54988,14 @@
     "history": [
       [
         {
+          "timestamp": 1774823958074,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774478765035,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -55918,6 +55968,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774823958074,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774046215895,
@@ -60923,6 +60981,14 @@
     "history": [
       [
         {
+          "timestamp": 1774823958074,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1773240921396,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -64235,11 +64301,21 @@
       "Australia DLC": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
-      "Australia DLC": "1,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Australia DLC": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774823958074,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Australia DLC": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767147072737,
