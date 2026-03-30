@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-03-30T16:34:21.081Z</updated>
+    <updated>2026-03-30T19:57:53.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-30T16:34:21.081Z</updated>
+        <updated>2026-03-30T19:57:53.004Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 30 Mar 2026 16:34:21 GMT</id>
+        <id>rankingusMon, 30 Mar 2026 19:57:53 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-30T16:34:21.081Z</updated>
+        <updated>2026-03-30T19:57:53.004Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -174,14 +174,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1065802380">Stream Music Player</a>
+        <a href="https://apps.apple.com/us/app/id401818935">Genius Scan Enterprise - PDF</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Genius Scan Ultra</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -191,7 +197,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
+        <a href="https://apps.apple.com/us/app/id1065802380">Stream Music Player</a>
       </td>
       <td>
         <ul>
@@ -208,7 +214,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1478611992">Farming Simulator 20</a>
+        <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
         <ul>
@@ -225,7 +231,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
+        <a href="https://apps.apple.com/us/app/id1478611992">Farming Simulator 20</a>
       </td>
       <td>
         <ul>
@@ -242,7 +248,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
       </td>
       <td>
         <ul>
@@ -257,6 +263,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580629864">Clank!</a>
@@ -281,7 +304,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
@@ -298,7 +321,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6467822375">Auto Redial App</a>
@@ -325,7 +348,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6752503669">Solar Arc – Sun & Moon Tracker</a>
@@ -342,7 +365,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
@@ -365,7 +388,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id327742738">聖經(和合本)(繁體中英對照)</a>
@@ -380,29 +403,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>La Bible</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id401818935">Genius Scan Enterprise - PDF</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Genius Scan Ultra</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -2806,6 +2806,109 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Genius Scan Enterprise - PDF]]></title>
+        <id>Genius Scan Enterprise - PDF-us-1774897835870</id>
+        <link href="https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=4"/>
+        <updated>2026-03-30T19:10:35.870Z</updated>
+        <summary type="html"><![CDATA[Genius Scan Ultra: $49.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/4f/33/c54f33fb-faa6-f475-beae-ec2d456aa0c1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Genius Scan Ultra：</strong><span>$49.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $49.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$49.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Genius Scan Ultra：<b>$4.99</b>
+  </li><li>
+    Super Large Tip：<b>$9.99</b>
+  </li><li>
+    Generous Tip：<b>$2.99</b>
+  </li><li>
+    Small Tip：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Genius Scan is a document scanner app in your pocket. Quickly scan your paper documents on the go and export them as multi-page PDF files.
+
+*** Apple App of the Week *** 20+ million users *** 1000s of small businesses ***
+
+Place any document in front of your device’s camera: our scanner app automatically recognizes the paper against the background, crops it, and cleans up the result. You obtain a crisp, legible scan. Batch scanning lets you scan dozens of pages in a matter of seconds. Powerful tools help you organize, share, or archive your documents.
+
+“Next time you plan to hit the road, don’t forget to download Genius Scan to make life easier for yourself and your accounting department.” - AppPicker.com
+
+“Camera apps aren’t designed for close-up text scanning, but Genius Scan is.” - The Guardian
+
+== ENTERPRISE EDITION ==
+
+Genius Scan Plus Premium Plan:
+
+- All the premium features of the Genius Scan Plus Premium Plan (denoted with + below), out of the box (no upgrade needed).
+
+Managed Configuration:
+
+- Deployment to fleets of devices managed by a MDM tool
+- Pre-configuration of app settings on a per-user basis (eg. set default email address, WebDAV/FTP credentials)
+- Control of which apps and services users can export documents to
+- No ads
+
+== KEY FEATURES == 
+
+Smart Scanning:
+
+- Document detection & background removal
+- Distortion correction
+- Shadow removal and defect cleanup
+- Filters (black & white, whiteboard, photo)
+- Batch scanning
+
+PDF Creation & Editing:
+
+- Document merging & splitting
+- Multiple page PDF creation
+- Photos and PDF import
+
+Security & Privacy:
+
+- On-device document processing
++ Face ID locking
++ PDF password encryption
+
+Document Organization:
+
+- Document tagging
+- Metadata and content search
++ Smart document renaming (custom templates, …)
++ Backup and multi-device sync with Genius Cloud (separate subscription)
+
+Export:
+
+- Email
++ Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV.
++ Any WebDAV compatible service such as Citrix ShareFile, NextCloud, ownCloud, Synology, Yandex. 
++ Automatic background auto-export
+
+OCR (Text Recognition):
+
++ Text extraction
++ Searchable PDF creation
++ Business card scanning & contact creation
+
+== ABOUT US ==
+
+It’s in the heart of Paris, France that The Grizzly Labs develops Genius Scan. We take pride in crafting apps that help millions of users throughout the world and hold ourselves to the highest standards in terms of quality and privacy. Get in touch with us @thegrizzlylabs if you have any questions.
+
+== PRICING & LEGAL ==
+
+You can subscribe to Genius Cloud for backup & synchronization. In that case, Genius Scan’s store displays the duration and price of each subscription, updated at the time of purchase. Payment will be charged to iTunes account when the order is confirmed. Subscriptions automatically renew unless auto-renew is turned off no later than 24 hours before the end of the current period. Manage subscriptions, disable auto-renewal in the iTunes account settings.
+
+https://www.thegrizzlylabs.com/genius-scan/cloud/terms
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Waterlogue: Photo to Painting]]></title>
         <id>Waterlogue: Photo to Painting-us-1774883532856</id>
         <link href="https://apps.apple.com/us/app/waterlogue-photo-to-painting/id764925064?uo=4"/>
@@ -3301,60 +3404,5 @@ Terms of Use (EULA):
 Apple App Store
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/34/a6/ea34a6ef-0f27-5c2f-da72-0ac5d433c69a/989ffe33-0c8a-4a18-be78-abf229ff9046_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.33.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/c3/95/6ec39518-34cf-2527-a49d-9b9949be9e52/3c5224a8-9051-4329-a504-3fc03f035a07_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.42.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/a3/78/d2a378e3-099c-feda-76cc-f5c189cc7372/8e2f164c-246c-46ff-90c9-abba2c4b7ee5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.21.26.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cc/52/28cc5275-ceee-255b-2645-07ada3a0aa76/3cd58bbf-5a78-4970-bec9-ca56e64292fd_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.54.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/3f/04/453f04d4-1dc8-8d6f-0603-581683f8d5d9/26d59837-71f1-4582-a8f6-35a1d39a38c5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.48.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/81/52/e081524f-fe33-4ef1-c2e7-bcdd6950de38/36a302a5-17a0-4c7d-a575-bfb64f8d97dc_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/52/79/51527915-b73c-86c1-9bfa-328c25a89a2a/8f69617d-e5f1-4726-ba4a-266eaa3ee8e3_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.35.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/63/08/b363088f-ebbe-404f-9990-982d329c4c4c/49d79db2-cae7-45ba-a075-dd34372e3fe1_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.21.11.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/1d/7b/d61d7b86-e55a-df56-a632-28e491055fd9/91e843c0-9b5c-4871-b072-e7f072071149_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.19.07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/d9/91/9ad99154-84aa-2bc6-1ef0-5256999b5b99/cc0e8dd8-8469-47c4-95a0-7c9b68db56b5_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.47.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AeroPads - Pads & Soundscapes]]></title>
-        <id>AeroPads - Pads &amp; Soundscapes-us-1774638290135</id>
-        <link href="https://apps.apple.com/us/app/aeropads-pads-soundscapes/id1612952507?uo=4"/>
-        <updated>2026-03-27T19:04:50.135Z</updated>
-        <summary type="html"><![CDATA[Price: $7.99 → $5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/aeropads-pads-soundscapes/id1612952507?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/ca/dd/70cadd5a-e659-0747-0d58-9b7a4a2b82aa/AeroPads-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$7.99</span> → <b>
-  <strong>$5.99</strong>
-</b><span>[$0.99 ~ $9.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$5.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Orbit Pack：<b>$4.99</b>
-  </li><li>
-    Rocket Science Pack：<b>$4.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Have you ever struggled to find confidence on stage or inspiration in the studio? AeroPads cues immersive pads and soundscapes that inspire and equip you to perform and write your best.
-
-ENHANCE YOUR SOUND. ENGAGE YOUR AUDIENCE.
-Every musician has experienced an empty mix or an awkward transition. When using AeroPads, you instantly add more dimension and character to your sound. With a more immersive mix and the ability to perform smooth and seamless transitions, you will feel more confident while your audience will be more engaged.
-
-FOR EVERY MUSICIAN.
-Pads and soundscapes are a versatile accompaniment to nearly any style of music. Whether you are a soloist or full band, AeroPads will take your sound to the next level. Rock bands, worship teams, wedding singers, producers, songwriters, and instrumentalists are just a few of the many types of musicians that have loved using AeroPads.
-
-DESIGNED FOR THE STAGE. INSPIRED BY SPACE.
-AeroPads features creative and immersive soundscapes paired with a beautiful and intuitive interface, all inspired by the pinnacle of exploration and inspiration: outer space.
-
-CREATIVITY THAT SPARKS CREATIVITY.
-AeroPads aren't your typical pads. Most pads out there are really boring or insanely obnoxious. However, AeroPads features thoughtfully crafted soundscapes that are meticulously fine-tuned with the perfect amount of harmonic and textural movement. Simply put, AeroPads won't step on the toes of your arrangement or get on the nerves of your sound guy (like most other pads out there).
-
-
-Highlighted Features:
-- A beautiful space-inspired interface with a simple and intuitive design.
-- Live View: Every key and three of your favorite patches are instantly accessible (best suited for experimentation, free-flowing sets, and songwriting).
-- Setlist View: Plan and build a detailed setlist (best suited for structured sets and seamless transitions).
-- The iconic Atmosphere Soundpack which includes five unique patches named after and inspired by the layers of Earth's atmosphere. 
-- Three patches can be added to Live View to be made instantly accessible, so there's no need to dig through menus to just to change a patch when performing live.
-- Additional patches and Soundpacks available for purchase.
-- Key-specific pads in multiple tonalities: major, minor, and neutral.
-- Concert pitch adjustment.
-
-
-How to Use:
-01. Cue a pad that matches the key of your musical arrangement.
-02. Play overtop of the accompanying pads and soundcapes.
-03. Enjoy the boost of audience engagement, musician confidence, and creative inspiration.
-
-Pads and soundscapes are intended as a subtle accompaniment to musical arrangements/performances. They are designed to be cued according to the key of the arrangement. Once cued, you'll hear a droning pad centered around the root note with additional harmonic textures within the selected key. The only time a pad's key should change within a song is in the instance of a key change. For best results, mix AeroPads appropriately within the overall mix. When mixed too loud, AeroPads may compete with melodies and the arrangement. When mixed too quietly, AeroPads may be less effective. When mixed appropriately, they will sound awesome.
-</p>]]></content>
     </entry>
 </feed>

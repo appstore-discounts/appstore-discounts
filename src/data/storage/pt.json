@@ -19866,14 +19866,22 @@
   "857607006": {
     "name": "Triple A HD - Touch Visualizer",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774897835870,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772103313387,
@@ -27894,6 +27902,19 @@
     "history": [
       [
         {
+          "timestamp": 1774897835870,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €",
+            "Assinatura (1 ano)": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac #5": "89,99 €"
+          }
+        },
+        {
           "timestamp": 1774890300362,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -29557,7 +29578,8 @@
       "Pacote Insta de Macaco Nível 4": "7,99 €",
       "Mermonkey Unlock Pack": "8,99 €",
       "Pacote Herói": "5,99 €",
-      "Torre completa e Excelência": "9,99 €"
+      "Torre completa e Excelência": "9,99 €",
+      "Powers Pro Second Set Pack": "9,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -29593,10 +29615,27 @@
       "Pacote Insta de Macaco Nível 4": "3,99 €",
       "Mermonkey Unlock Pack": "8,99 €",
       "Pacote Herói": "5,99 €",
-      "Torre completa e Excelência": "9,99 €"
+      "Torre completa e Excelência": "9,99 €",
+      "Powers Pro Second Set Pack": "9,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1774897835870,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Powers Pro Second Set Pack": "9,99 €",
+            "Frontier Legends": "14,99 €",
+            "Frontier Legends Sale": "6,99 €",
+            "Havoc Staff Booster Sale": "1,99 €",
+            "Skeletor Obyn Prestige Pack": "7,99 €",
+            "Havoc Staff Booster": "3,99 €",
+            "Powers Pro Launch Pack": "9,99 €",
+            "Desperado Unlock Pack": "8,99 €",
+            "She-Ra Prestige Pack Sale": "7,99 €"
+          }
+        },
         {
           "timestamp": 1774850556483,
           "price": 7.99,
@@ -36717,6 +36756,25 @@
     "history": [
       [
         {
+          "timestamp": 1774897835870,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Cosmic Radio 2025": "5,99 €",
+            "Lantis Selection": "5,99 €",
+            "Phigros": "5,99 €",
+            "Rotaeno": "5,99 €",
+            "AD:HOUSE Selection": "5,99 €",
+            "Stream Palette Selection": "5,99 €",
+            "HARDCORE TANO*C VOL.II": "5,99 €",
+            "HARDCORE TANO*C": "5,99 €",
+            "Cosmic Radio 2024": "5,99 €",
+            "Miku Extend 2025": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774197570096,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -37622,6 +37680,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1774897835870,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "3,49 €",
+            "Power Builder (weekly)": "0,99 €",
+            "Micro Tip": "0,99 €",
+            "Power Builder (yearly)": "27,99 €",
+            "The Ultimate Tip": "59,99 €",
+            "Super Mega Smashing Tip": "34,99 €",
+            "Super Smashing Tip": "19,99 €",
+            "Super Mega Tip": "9,99 €",
+            "Mega Tip": "6,99 €"
+          }
+        },
         {
           "timestamp": 1774890300362,
           "price": 0.99,
@@ -73987,6 +74061,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1774897835870,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "John Deere 8R 410": "2,49 €",
+            "Versatile 4WD 620": "2,49 €",
+            "Case IH Speed-Tiller": "1,19 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Kubota RTV-XG850 SIDEKICK": "1,99 €"
+          }
+        },
         {
           "timestamp": 1774841142296,
           "price": 7.99,
