@@ -72450,10 +72450,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774862523271,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767768294074,
@@ -79397,6 +79405,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774862523271,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772333804667,
