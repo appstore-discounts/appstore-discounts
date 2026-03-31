@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 642285909,
+      "name": {
+        "mo": "Light Meter - measure luminosity in lux, fc, lumen"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1644199292,
       "name": {
         "mo": "Stardew Save Editor"
