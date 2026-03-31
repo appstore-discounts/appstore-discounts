@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1890` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1891` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1891|6503954810|Automatic|❌|Poppy Playtime Chapter 3|Poppy Playtime Chapter 3|Poppy Playtime Chapter 3|Poppy Playtime Chapter 3|Poppy Playtime Chapter 3|Poppy Playtime Chapter 3|
 |1890|642285909|Automatic|Light Meter - measure luminosity in lux, fc, lumen|Light Meter - measure luminosity in lux, fc, lumen|Light Meter - measure luminosity in lux, fc, lumen|Light Meter - measure luminosity in lux, fc, lumen|Light Meter - measure luminosity in lux, fc, lumen|Light Meter - measure luminosity in lux, fc, lumen|Light Meter - measure luminosity in lux, fc, lumen|
 |1889|1644199292|Automatic|Stardew Save Editor|Stardew Save Editor|Stardew Save Editor|Stardew Save Editor|Stardew Save Editor|Stardew Save Editor|Stardew Save Editor|
 |1888|522281602|Automatic|ZipApp 专业版：全能解压缩利器|ZipApp 專業版：全能解壓縮工具|ZipApp 專業版：全能解壓縮工具|ZipApp 專業版：全能解壓縮工具|ZipApp Pro: The Unarchiver|ZipApp Pro: The Unarchiver|ZipApp Pro: The Unarchiver|
@@ -447,7 +448,7 @@ So far, we've covered `7` `Countries or Regions` and  `1890` `Apps` <br />Push n
 |1453|1369699810|Automatic|❌|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|
 |1452|1638485107|Automatic|文件管理器|檔案管理器|檔案管理器|檔案管理器|EasyDocuments|EasyDocuments|EasyDocuments|
 |1451|386303262|Automatic|❌|Beyond Ynth|Beyond Ynth|Beyond Ynth|Beyond Ynth|Beyond Ynth|Beyond Ynth|
-|1450|314481272|Automatic|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|
+|1450|314481272|Automatic|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (张道长的五行能量趋势图及AI分析)|
 |1449|1530345628|Automatic|❌|溫泉物語2|溫泉物語2|溫泉物語2|Hot Springs Story2|Hot Springs Story2|Hot Springs Story2|
 |1448|438927135|Automatic|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|
 |1447|6738282698|Automatic|❌|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|

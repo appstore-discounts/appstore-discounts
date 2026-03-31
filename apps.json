@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6503954810,
+      "name": {
+        "pt": "Poppy Playtime Chapter 3"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 642285909,
       "name": {
         "mo": "Light Meter - measure luminosity in lux, fc, lumen"
