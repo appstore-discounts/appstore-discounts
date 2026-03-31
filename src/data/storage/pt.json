@@ -39769,6 +39769,23 @@
     "history": [
       [
         {
+          "timestamp": 1774976856780,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pic Say Poster Pack": "0,99 €",
+            "Insta Poster Pack": "0,99 €",
+            "Always Font Pack": "0,00 €",
+            "Unique Font Pack": "0,99 €",
+            "Reason Font Pack": "0,00 €",
+            "Path Font Pack": "0,00 €",
+            "Wisdom Font Pack": "0,00 €",
+            "Just Font Pack": "0,00 €",
+            "Future Font Pack": "0,00 €",
+            "Perfect Poster Pack": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1774942748833,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -81990,6 +82007,40 @@
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444660338": {
+    "name": "Legend of Keepers",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
+      "Legend of Keepers - DLC Bundle": "3,99 €",
+      "Soul Smugglers": "1,99 €",
+      "Feed the Troll": "1,99 €",
+      "Return of the Goddess": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
+      "Legend of Keepers - DLC Bundle": "3,99 €",
+      "Soul Smugglers": "1,99 €",
+      "Feed the Troll": "1,99 €",
+      "Return of the Goddess": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1774976856780,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Legend of Keepers - DLC Bundle": "3,99 €",
+            "Soul Smugglers": "1,99 €",
+            "Feed the Troll": "1,99 €",
+            "Return of the Goddess": "1,99 €"
+          }
         }
       ]
     ]
