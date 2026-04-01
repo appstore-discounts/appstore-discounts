@@ -4793,6 +4793,52 @@
       ]
     ]
   },
+  "396101698": {
+    "name": "Dino Rush",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "6000 coins": "5,99 €",
+      "50000 coins": "34,99 €",
+      "12000 coins": "8,99 €",
+      "4000 coins": "2,99 €",
+      "1000 coins": "0,99 €",
+      "80000 coins": "59,99 €",
+      "14000 coins": "9,99 €",
+      "2000 coins": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "6000 coins": "5,99 €",
+      "50000 coins": "34,99 €",
+      "12000 coins": "8,99 €",
+      "4000 coins": "2,99 €",
+      "1000 coins": "0,99 €",
+      "80000 coins": "59,99 €",
+      "14000 coins": "9,99 €",
+      "2000 coins": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775070838694,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "6000 coins": "5,99 €",
+            "50000 coins": "34,99 €",
+            "12000 coins": "8,99 €",
+            "4000 coins": "2,99 €",
+            "1000 coins": "0,99 €",
+            "80000 coins": "59,99 €",
+            "14000 coins": "9,99 €",
+            "2000 coins": "1,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "396269166": {
     "name": "The Shadow Sun",
     "maxPriceInfo": {
@@ -42526,6 +42572,27 @@
       [
         {
           "timestamp": 1771253497902,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1438091392": {
+    "name": "Human Fall Flat",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775070838694,
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
