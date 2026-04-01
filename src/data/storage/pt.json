@@ -2093,10 +2093,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -5227,6 +5235,17 @@
     "history": [
       [
         {
+          "timestamp": 1774996893994,
+          "price": 59.99,
+          "formattedPrice": "59,99 €",
+          "inAppPurchases": {
+            "Genius Scan Ultra": "44,99 €",
+            "Ponta super grande": "9,99 €",
+            "Doação generosa": "2,99 €",
+            "Pequena doação": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1774990306976,
           "price": 59.99,
           "formattedPrice": "59,99 €",
@@ -8064,6 +8083,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772333804667,
@@ -14362,6 +14389,21 @@
       "Pacote de Prestígio ótimo": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Pacote de Prestígio pequeno": "1,99 €",
+            "Pacote de Prestígio médio": "9,99 €",
+            "Aceleração Ilimitada!": "3,99 €",
+            "O dobro de XP, sem limites!": "3,99 €",
+            "Pacote final Prestige": "44,99 €",
+            "Pacote de Prestígio ótimo": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773873543091,
@@ -25029,6 +25071,20 @@
     "history": [
       [
         {
+          "timestamp": 1774996893994,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "1400 GEMAS": "89,99 €",
+            "650 GEMAS": "49,99 €",
+            "250 GEMAS": "17,99 €",
+            "120 GEMAS": "8,99 €",
+            "50 GEMAS": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773873543091,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -25223,6 +25279,20 @@
       "125.000 ouro": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "60,000 Gold": "9,99 €",
+            "25.000 ouro": "5,99 €",
+            "700.000 ouro": "99,99 €",
+            "325.000 ouro": "49,99 €",
+            "125.000 ouro": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773873543091,
@@ -37646,10 +37716,18 @@
       "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -41647,6 +41725,19 @@
     "history": [
       [
         {
+          "timestamp": 1774996893994,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "4,99 €",
+            "Ragnarök DLC": "4,99 €",
+            "Atlantis DLC": "4,99 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773873543091,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -45196,6 +45287,14 @@
     "history": [
       [
         {
+          "timestamp": 1774996893994,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767838343014,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -48492,6 +48591,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772333804667,
@@ -57258,14 +57365,22 @@
   "1590622755": {
     "name": "µBrowser: Watch Web Browser",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -60506,10 +60621,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773607101601,
@@ -71031,6 +71154,17 @@
     "history": [
       [
         {
+          "timestamp": 1774996893994,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Supporter Pack": "0,99 €",
+            "The Boglands DLC": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1772823426990,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -77861,6 +77995,17 @@
     "history": [
       [
         {
+          "timestamp": 1774996893994,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 1": "5,99 €",
+            "Raider Mk. 2": "6,99 €",
+            "Raider Mk. 3": "9,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1774990306976,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -80999,8 +81144,8 @@
   "6740008848": {
     "name": "Alters - Reign Beyond Your Ego",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
       "Alters Pack": "1,99 €"
     },
     "minPriceInfo": {
@@ -81009,6 +81154,16 @@
       "Alters Pack": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1774996893994,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Alters Pack": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772245814123,
