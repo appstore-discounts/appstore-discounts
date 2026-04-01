@@ -876,7 +876,7 @@ So far, we've covered `7` `Countries or Regions` and  `1892` `Apps` <br />Push n
 |1026|1114127463|Automatic|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|Reigns|
 |1025|1636439801|Automatic|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|Railbound|
 |1024|1479808939|Automatic|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|
-|1023|6451376191|Automatic|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone — Widgets & Focus|Dumb Phone|Dumb Phone|
+|1023|6451376191|Automatic|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone — Launcher & Themes|Dumb Phone|Dumb Phone|
 |1022|6446912063|Automatic|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|Automatic|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|❌|
 |1020|409818349|Automatic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
@@ -1259,7 +1259,7 @@ So far, we've covered `7` `Countries or Regions` and  `1892` `Apps` <br />Push n
 |643|1085978097|Automatic|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|
 |642|1148321705|Automatic|❌|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|
 |641|1286255182|Automatic|Filmlike|Filmlike Camera|Filmlike Camera|Filmlike Camera|Filmlike Camera|Filmlike Camera|Filmlike Camera|
-|640|1449584007|Automatic|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler • Beat Maker|
+|640|1449584007|Automatic|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|
 |639|1523025509|Automatic|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|
 |638|1536419933|Automatic|❌|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|
 |637|1574175808|Automatic|❌|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|

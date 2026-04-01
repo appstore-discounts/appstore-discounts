@@ -876,7 +876,7 @@
 |1026|1114127463|自动|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|Reigns|
 |1025|1636439801|自动|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|Railbound|
 |1024|1479808939|自动|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|
-|1023|6451376191|自动|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone — Widgets & Focus|Dumb Phone|Dumb Phone|
+|1023|6451376191|自动|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone — Launcher & Themes|Dumb Phone|Dumb Phone|
 |1022|6446912063|自动|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|自动|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|❌|
 |1020|409818349|自动|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
@@ -1259,7 +1259,7 @@
 |643|1085978097|自动|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|
 |642|1148321705|自动|❌|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|Bully: Anniversary Edition|
 |641|1286255182|自动|Filmlike|Filmlike Camera|Filmlike Camera|Filmlike Camera|Filmlike Camera|Filmlike Camera|Filmlike Camera|
-|640|1449584007|自动|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler|Koala Sampler • Beat Maker|
+|640|1449584007|自动|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|Koala Sampler • Beat Maker|
 |639|1523025509|自动|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|PANTHEON - Official|
 |638|1536419933|自动|❌|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|Break Pile - Brick Breaker|
 |637|1574175808|自动|❌|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|Specimen Zero - Horror|
