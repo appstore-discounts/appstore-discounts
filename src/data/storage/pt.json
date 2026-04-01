@@ -28064,6 +28064,20 @@
     "history": [
       [
         {
+          "timestamp": 1775035020348,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "89,99 €",
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774897835870,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -28516,8 +28530,8 @@
   "1094038347": {
     "name": "Só Tem Você Aqui",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
       "\"Tempo\"": "0,49 €",
       "Doação III": "5,99 €",
       "Doação II": "1,99 €",
@@ -28532,6 +28546,19 @@
       "Doação I": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775035020348,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "\"Tempo\"": "0,49 €",
+            "Doação III": "5,99 €",
+            "Doação II": "1,99 €",
+            "Doação I": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
