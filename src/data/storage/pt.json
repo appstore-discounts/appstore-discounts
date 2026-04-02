@@ -33135,6 +33135,18 @@
     "history": [
       [
         {
+          "timestamp": 1775137439039,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Year": "12,99 €",
+            "6 Months": "5,99 €",
+            "Month": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773544767372,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -80196,14 +80208,22 @@
   "6749824842": {
     "name": "Parachute Backup Mobile",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775137439039,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767272224446,
