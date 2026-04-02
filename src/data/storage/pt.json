@@ -4169,6 +4169,27 @@
       ]
     ]
   },
+  "374098312": {
+    "name": "Unicode Pad",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775098485725,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "375819093": {
     "name": "Forvo Pronunciation",
     "maxPriceInfo": {
@@ -19309,6 +19330,27 @@
           "timestamp": 1761797674362,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "744321889": {
+    "name": "Unicode Pad Pro with keyboards",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775098485725,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -69487,6 +69529,25 @@
       "ASG29": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775098485725,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Global scenery - 3 months": "7,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "ASG29": "0,99 €",
+            "Boeing 737-900": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775023187788,
