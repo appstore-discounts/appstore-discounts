@@ -5353,6 +5353,17 @@
     "history": [
       [
         {
+          "timestamp": 1775169556083,
+          "price": 59.99,
+          "formattedPrice": "59,99 €",
+          "inAppPurchases": {
+            "Genius Scan Ultra": "44,99 €",
+            "Ponta super grande": "9,99 €",
+            "Doação generosa": "2,99 €",
+            "Pequena doação": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1775162529783,
           "price": 59.99,
           "formattedPrice": "59,99 €",
@@ -35315,6 +35326,23 @@
     "history": [
       [
         {
+          "timestamp": 1775169556083,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Hammerhold Campaign!": "8,99 €",
+            "Hero Beresad": "5,99 €",
+            "Barrel of gems": "9,99 €",
+            "Mega Tower Bundle": "17,99 €",
+            "Handful of gems": "2,99 €",
+            "Tower Blazing Gem": "2,99 €",
+            "Pirate Kings Campaign!": "9,99 €",
+            "Pouch of gems": "5,99 €",
+            "Mega Heroe Bundle": "19,99 €",
+            "Tower Grim Cemetery": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1775162529783,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -45641,11 +45669,21 @@
       "ATOM RPG - Supporter Pack": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
       "ATOM RPG - Supporter Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775169556083,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "ATOM RPG - Supporter Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768725301023,
@@ -78947,6 +78985,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1775169556083,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 1": "5,99 €",
+            "Raider Mk. 2": "6,99 €",
+            "Raider Mk. 3": "9,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        },
         {
           "timestamp": 1775162529783,
           "price": 0,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-04-02T18:24:11.748Z</updated>
+    <updated>2026-04-03T00:01:29.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-02T18:24:11.750Z</updated>
+        <updated>2026-04-03T00:01:29.158Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 02 Apr 2026 18:24:11 GMT</id>
+        <id>rankingcnFri, 03 Apr 2026 00:01:29 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-02T18:24:11.750Z</updated>
+        <updated>2026-04-03T00:01:29.159Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -95,6 +95,31 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id966489322">生辰 — 桌面时间小组件</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>永久会员</i>：<b>1</b>
+              </li><li>
+                <i>生辰-季度会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1160943124">听写文本：语音识别</a>
       </td>
       <td>
@@ -109,7 +134,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -132,7 +157,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1524418421">SessionBand Jazz Fusion</a>
@@ -149,7 +174,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1534488108">SessionBand Jazz 4</a>
@@ -166,7 +191,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
@@ -183,7 +208,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1635315427">暖雪</a>
@@ -206,7 +231,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -673,6 +698,73 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
+        <id>生辰 — 桌面时间小组件-cn-1775169556083</id>
+        <link href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
+        <updated>2026-04-02T22:39:16.083Z</updated>
+        <summary type="html"><![CDATA[永久会员: ¥98.00 → ¥88.00<br/>生辰-季度会员: ¥88.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/22/b2/9c22b2da-69ae-ad21-7299-3ae40fcd7042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>永久会员：</strong><span>¥98.00</span> → <b>
+  <strong>¥88.00</strong>
+</b><span>[¥88.00 ~ ¥128.00]</span>
+  </li><li>
+    <strong>生辰-季度会员：</strong><span>¥88.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥22.00 ~ ¥88.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    生辰年度会员：<b>¥78.00</b>
+  </li><li>
+    月度会员：<b>¥15.00</b>
+  </li><li>
+    永久会员：<b>¥88.00</b>
+  </li><li>
+    生辰-季度会员：<b>¥22.00</b>
+  </li><li>
+    生辰-年度会员：<b>¥88.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  这是一款关于生、死、心愿与延续的App。
+
+小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
+时针转动，生命流逝，但每一次心跳都可以更加有力。
+
+有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
+而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+
+生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+
+- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
+- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
+- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+
+美国诗人纳·斯待尔在87岁那年写道：
+"如果我能够从头活过，我会试着犯更多的错。
+我会放松一点，我会灵活一点。
+我会爬更多的山，游更多的河，看更多的日落。"
+
+因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+
+【生辰 App 会员服务说明】
+
+1.会员包含几种订购类型
+订阅周期：1个月、3个月、12个月
+2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
+3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
+4.生辰App 会员协议
+生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
+5.生辰App 软件协议与隐私政策
+生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
+生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[鬼谷八荒]]></title>
@@ -1211,79 +1303,5 @@ All loops are offered royalty-free and can be used freely in your own works.
 </h2><h2>全部价格信息</h2><p>
   价格：<b>免费</b>
 </p><h2>应用描述</h2><p>With the Cry Translator, you’ll quickly understand what your baby needs! This award-winning program takes a look at your baby’s cry and gives you the reason of crying in just under 5 seconds. Is your baby hungry, tired, upset, stressed, or just plain bored? The Cry Translator will let you know.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Blue – CPR & ACLS Timer]]></title>
-        <id>Code Blue – CPR &amp; ACLS Timer-cn-1774904120832</id>
-        <link href="https://apps.apple.com/cn/app/code-blue-cpr-acls-timer/id1640636826?uo=4"/>
-        <updated>2026-03-30T20:55:20.832Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/code-blue-cpr-acls-timer/id1640636826?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/d8/ac/ddd8acce-0a8c-4f03-479e-4cd2495ed02c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥28.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  Code Blue is a professional CPR and ACLS timer designed to support healthcare providers during cardiac arrest and resuscitation events, where every second matters.
-Built and tested in real clinical environments, Code Blue helps you track CPR cycles, epinephrine timing, rhythms, medications, and procedures with precision — even during long, complex codes.
-Whether you need a simple CPR timer or a complete cardiac arrest log, Code Blue adapts to your workflow.
-
-# Core Features #
-DUAL CPR & EPINEPHRINE TIMERS
-- Simultaneously track CPR compression cycles and epinephrine intervals
-- High-contrast visual alerts when time limits are exceeded
-
-REAL-TIME EVENT LOG
-- Register rhythms, pulse checks, medications, procedures, and interventions
-- Access a concise summary or a full resuscitation timeline at any moment
-
-COMPRESSION FRACTION TRACKING
-- Monitor compression fraction to reduce pauses and optimize CPR quality
-
-# Fully Customizable for Your Practice #
-CUSTOM MEDICATIONS & PROCEDURES
-- Add and save your own medications, doses, procedures, and rhythms
-
-FLEXIBLE WORKFLOWS
-Configure the app as a simple CPR timer
-Or use advanced logging for prolonged cardiac arrest scenarios more than an hour
-
-# First Responder & Post-Code Tools #
-FIRST RESPONDER MODE
-- Designed for out-of-hospital cardiac arrest
-- Save event location coordinates for later review on the interactive map
-
-CODE HISTORY & PDF EXPORT
-- Save previous codes
-- Generate and share detailed PDF reports for documentation, teaching, or review
-
-# Evidence-Based Flowcharts #
-ACLS & RESUSCITATION GUIDELINES
-- Integrated CPR and cardiac arrest flowcharts
-- Based on AHA ACLS and ERC post-resuscitation care guidelines
-
-# Built for Healthcare Professionals #
-Designed for use in:
-- Emergency Departments
-- ICUs
-- Wards
-- Prehospital and first-responder settings
-
-Code Blue helps you stay focused on patient care while the app handles timing, tracking, and documentation.
-
-# Support & Legal #
-For suggestions, feature requests, or bug reports, contact:
-Customer Support:
-suporte.codigoazul@gmail.com
-
-Privacy Policy:
-https://sites.google.com/view/codeblueapp/privacy
-
-End User License Agreement (EULA):
-https://sites.google.com/view/codeblueapp/eula
-</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/6e/8d/c46e8d22-d26c-8fb3-8756-7ec1131956af/41230127-fbf6-47fe-adb3-e4650a096509_iPad_Pro_12.9__-_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/d1/c8/c7d1c8b9-0f52-23f2-a21f-392abedbe909/f2e9fdd4-7e5b-4259-b86a-db27762d97c1_iPad_Pro_12.9__-_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/98/19/719819da-1a09-1f91-d095-64dff71cae66/d5e9b2ce-9a60-4106-a6b3-b1fe8f1d692f_iPad_Pro_12.9__-_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/75/a0/cc75a0db-6a7e-c540-1204-f81aa84cbc07/69b30a24-7b95-476b-9e8c-793f802995a5_iPad_Pro_12.9__-_5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
