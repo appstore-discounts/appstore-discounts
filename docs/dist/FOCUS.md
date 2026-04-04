@@ -1560,7 +1560,7 @@ So far, we've covered `7` `Countries or Regions` and  `1897` `Apps` <br />Push n
 |347|1516531425|Automatic|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
 |346|1517349382|Automatic|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|❌|
 |345|1518841947|Automatic|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
-|344|1519386476|Automatic|❌|手錶與手機迷你遊戲|手錶與手機迷你遊戲|手錶與手機迷你遊戲|MiniGames for Watch and Phone|MiniGames for Watch and Phone|MiniJogos para Watch|
+|344|1519386476|Automatic|❌|手錶與手機迷你遊戲|手錶與手機迷你遊戲|手錶與手機迷你遊戲|MiniGames - Retro Watch Games|MiniGames - Retro Watch Games|MiniJogos para Watch|
 |343|1523633394|Automatic|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|SpongeBob SquarePants: BfBB|
 |342|1525735418|Automatic|❌|❌|❌|❌|❌|Mesih|❌|
 |341|1528199331|Automatic|❌|崩潰大陸 2|崩潰大陸 2|崩潰大陸 2|Crashlands 2|Crashlands 2|Crashlands 2|
