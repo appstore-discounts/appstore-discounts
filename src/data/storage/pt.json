@@ -542,6 +542,25 @@
     "history": [
       [
         {
+          "timestamp": 1775335273950,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 gold": "1,99 €",
+            "10,000 gold": "0,99 €",
+            "100,000 coins": "3,99 €",
+            "15000 eggs": "2,99 €",
+            "5000 eggs": "1,99 €",
+            "500 eggs": "0,99 €",
+            "10000 candies": "2,99 €",
+            "1000 candies": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775083731310,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -1378,14 +1397,16 @@
       "Phase Meter": "8,99 €",
       "HAA Link": "9,99 €",
       "HAA Pro Module": "22,99 €",
-      "SPL Enhance": "22,99 €",
+      "SPL Enhance": "44,99 €",
       "HAA Upgrade to Pro": "449,99 €",
       "HAA Pro Installer Calibration": "599,99 €",
       "HAA Home Theater": "99,99 €",
       "Unlock All Tier 5": "299,99 €",
       "Unlock All Tier 7": "399,99 €",
       "Unlock All Tier 4": "229,99 €",
-      "Transfer Function": "59,99 €"
+      "Transfer Function": "59,99 €",
+      "LUFS Meter": "9,99 €",
+      "HAA CinemaTools with HAA Link": "99,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -1410,9 +1431,30 @@
       "Unlock All Tier 5": "179,00 €",
       "Unlock All Tier 7": "299,00 €",
       "Unlock All Tier 4": "149,99 €",
-      "Transfer Function": "59,99 €"
+      "Transfer Function": "59,99 €",
+      "LUFS Meter": "9,99 €",
+      "HAA CinemaTools with HAA Link": "99,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775335273950,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "LUFS Meter": "9,99 €",
+            "HAA CinemaTools with HAA Link": "99,99 €",
+            "HAA Link": "9,99 €",
+            "HAA Pro Module": "22,99 €",
+            "SPL Enhance": "44,99 €",
+            "All-In Module Access": "9,99 €",
+            "HAA Upgrade to Pro": "449,99 €",
+            "HAA Pro Installer Calibration": "599,99 €",
+            "HAA Home Theater": "99,99 €",
+            "Unlock All Tier 5": "299,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774644551434,
@@ -27821,6 +27863,23 @@
       "458 Days SVIP": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775335273950,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "910 Days SVIP": "22,99 €",
+            "458 Days SVIP": "9,99 €",
+            "SVIP auto-renew annually": "14,99 €",
+            "SVIP auto-renew quarterly": "3,99 €",
+            "90 Days SVIP": "2,99 €",
+            "Annual Special SVIP": "14,99 €",
+            "545 Days SVIP": "9,99 €",
+            "3-Year SVIP": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774392005900,
@@ -70063,6 +70122,23 @@
     "history": [
       [
         {
+          "timestamp": 1775335273950,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Global scenery - 3 months": "7,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "22,99 €"
+          }
+        },
+        {
           "timestamp": 1775280237069,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -83673,6 +83749,52 @@
             "Feed the Troll": "1,99 €",
             "Return of the Goddess": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6751122124": {
+    "name": "Notteka ｜ 专业粤语会议助手",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Monthly subscription": "14,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Monthly subscription": "14,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775335273950,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Monthly subscription": "14,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6760331891": {
+    "name": "寶寶的每日陪伴計畫",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775335273950,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
