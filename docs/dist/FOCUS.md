@@ -1836,7 +1836,7 @@ So far, we've covered `7` `Countries or Regions` and  `1897` `Apps` <br />Push n
 |71|1492395549|Manual|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|❌|❌|
 |70|1661419573|Manual|atvTools|atvTools|atvTools|atvTools|atvTools|atvTools|atvTools|
 |69|6479683928|Manual|AMood: 情绪实时监测 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: 情緒即時監測 & 健康管理|AMood: AI Mood Monitor|AMood: AI Mood Monitor|AMood: AI Mood Monitor|
-|68|6443798663|Manual|敲木鱼 - 打节拍敲音效解压神器|敲木魚|敲木魚|敲木魚|MuYu|MuYu|❌|
+|68|6443798663|Manual|洪绘敲木鱼|敲木魚|敲木魚|敲木魚|MuYu|MuYu|❌|
 |67| ~~373454750~~ |Manual| ~~随手记Pro–个人家庭生意记账~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~随手记Pro~~ | ~~随手记Pro–记账财务管理软件~~ | ~~❌~~ |
 |66|916366645|Manual|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|
 |65|1164801111|Manual|AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep: Watch Sleep Tracker|AutoSleep: Watch Sleep Tracker|AutoSleep – Rastreador de sono|
