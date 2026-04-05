@@ -26,7 +26,7 @@
       "price": 9.99,
       "formattedPrice": "9,99 €",
       "Pro Tier 1": "9,99 €",
-      "Pro Tier 2": "14,99 €",
+      "Pro Tier 2": "99,99 €",
       "RadarScope Pro Subscription": "9,99 €"
     },
     "minPriceInfo": {
@@ -37,6 +37,18 @@
       "RadarScope Pro Subscription": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775415360407,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "RadarScope Pro Subscription": "9,99 €",
+            "Pro Tier 1": "9,99 €",
+            "Pro Tier 2": "99,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -19761,6 +19773,18 @@
       "Waterlogue Unlimited (Lifetime)": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775415360407,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Waterlogue Unlimited (Monthly)": "3,99 €",
+            "Waterlogue Unlimited (Yearly)": "9,99 €",
+            "Waterlogue Unlimited (Lifetime)": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774883532856,
