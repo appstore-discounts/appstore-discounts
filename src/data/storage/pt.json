@@ -39,6 +39,16 @@
     "history": [
       [
         {
+          "timestamp": 1775421722542,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Pro Tier 1": "9,99 €",
+            "Pro Tier 2": "14,99 €",
+            "RadarScope Pro Subscription": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1775415360407,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -46886,7 +46896,16 @@
       "Astronaut Token": "3,49 €",
       "Frost Dice": "4,99 €",
       "Shining Obsidian Dice Sale": "3,99 €",
-      "Frost Dice Sale": "3,99 €"
+      "Frost Dice Sale": "3,99 €",
+      "Black Cat Token": "3,49 €",
+      "Tempest Mech Token": "9,99 €",
+      "Maelstrom Mech Token": "9,99 €",
+      "Storm Cloud Mech Token": "9,99 €",
+      "Cyclone Mech Token": "9,99 €",
+      "Mech Bundle": "24,99 €",
+      "Megalodon Token": "4,99 €",
+      "King Kraken Token": "4,99 €",
+      "Monsters of the Deep Bundle": "7,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -46999,9 +47018,36 @@
       "Astronaut Token": "3,49 €",
       "Frost Dice": "4,99 €",
       "Shining Obsidian Dice Sale": "3,99 €",
-      "Frost Dice Sale": "3,99 €"
+      "Frost Dice Sale": "3,99 €",
+      "Black Cat Token": "3,49 €",
+      "Tempest Mech Token": "9,99 €",
+      "Maelstrom Mech Token": "9,99 €",
+      "Storm Cloud Mech Token": "9,99 €",
+      "Cyclone Mech Token": "9,99 €",
+      "Mech Bundle": "24,99 €",
+      "Megalodon Token": "4,99 €",
+      "King Kraken Token": "4,99 €",
+      "Monsters of the Deep Bundle": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775421722542,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Black Cat Token": "3,49 €",
+            "Tempest Mech Token": "9,99 €",
+            "Maelstrom Mech Token": "9,99 €",
+            "Storm Cloud Mech Token": "9,99 €",
+            "Cyclone Mech Token": "9,99 €",
+            "Mech Bundle": "24,99 €",
+            "Megalodon Token": "4,99 €",
+            "King Kraken Token": "4,99 €",
+            "Monsters of the Deep Bundle": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774789916959,
@@ -50383,6 +50429,25 @@
       "Fancy Apparel": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775421722542,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Zenith Islands DLC": "5,99 €",
+            "Prime Dimension DLC": "7,99 €",
+            "Fancy Apparel": "17,99 €",
+            "Evoker Kit": "0,99 €",
+            "Evoker Package": "9,99 €",
+            "Hunter Package": "9,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 10000": "79,99 €",
+            "Prime Gemma 2500": "22,99 €",
+            "Master Package": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775207051240,
@@ -66921,6 +66986,25 @@
       "Mystic Mayhem Card Back": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775421722542,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "0,99 €",
+            "Santa Claws Pack": "4,99 €",
+            "Under the Tree location": "1,99 €",
+            "Santa Claws Emoji Pack": "0,99 €",
+            "All Wrapped Up outfit": "1,99 €",
+            "Snow Globe Outfit": "1,99 €",
+            "Mystic Mayhem Location": "0,99 €",
+            "MysticMayhem Cauldron Creature": "1,99 €",
+            "Mystic Mayhem Emoji Pack": "1,99 €",
+            "Mystic Mayhem Card Back": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774850556483,
