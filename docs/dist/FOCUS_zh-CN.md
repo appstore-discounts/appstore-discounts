@@ -927,7 +927,7 @@
 |991|1116905928|自动|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|
 |990|1292311498|自动|International One Night|International One Night|International One Night|International One Night|❌|❌|❌|
 |989|6473332700|自动|逐鹿 - 历史沙盘战棋|❌|❌|❌|❌|❌|❌|
-|988|6742526717|自动|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|
+|988|6742526717|自动|WatchTube for YouTube|WatchTube for YouTube|WatchTube One|WatchTube One|WatchTube One|WatchTube One|WatchTube One|
 |987|6478398981|自动|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
 |986|528181527|自动|行车记录仪 「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Driving Recorder|TripREC Driving Recorder|gravador de condução「TripREC」|
 |985|545625741|自动|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
