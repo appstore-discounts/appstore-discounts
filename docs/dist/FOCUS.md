@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1909` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1910` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1910|1536107653|Automatic|❌|Bike Baron 2|Bike Baron 2|Bike Baron 2|Bike Baron 2|Bike Baron 2|Bike Baron 2|
 |1909|6673906410|Automatic|❌|星之海|星之海|星之海|Sea of Stars|Sea of Stars|Sea of Stars|
 |1908|1441651711|Automatic|❌|7 Wonders Duel|7 Wonders Duel|7 Wonders Duel|7 Wonders Duel|7 Wonders Duel|7 Wonders Duel|
 |1907|6758868472|Automatic|❌|Beyond the Room|Beyond the Room|Beyond the Room|Beyond the Room|Beyond the Room|Beyond the Room|
