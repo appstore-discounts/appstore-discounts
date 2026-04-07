@@ -47153,6 +47153,25 @@
     "history": [
       [
         {
+          "timestamp": 1775531867945,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €",
+            "1935 Atlantic City": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775481958991,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -53657,8 +53676,8 @@
       "增加 1 个补签卡": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "月卡": "3,99 €",
       "季卡": "9,99 €",
       "年卡": "29,99 €",
@@ -53671,6 +53690,25 @@
       "增加 1 个补签卡": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775531867945,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "月卡": "3,99 €",
+            "季卡": "9,99 €",
+            "年卡": "29,99 €",
+            "增加 500 个记忆币": "0,99 €",
+            "增加 16000 个记忆币": "29,99 €",
+            "增加 8000 个记忆币": "14,99 €",
+            "增加 800 个记忆币": "1,99 €",
+            "增加 1800 个记忆币": "3,99 €",
+            "增加 4000 个记忆币": "8,99 €",
+            "增加 1 个补签卡": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -70669,6 +70707,25 @@
     "history": [
       [
         {
+          "timestamp": 1775531867945,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "22,99 €",
+            "Global scenery - 12 months": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775335273950,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -82130,14 +82187,22 @@
   "6757624445": {
     "name": "Device Lab",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775531867945,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768401184413,
