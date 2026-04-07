@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-04-07T04:41:09.187Z</updated>
+    <updated>2026-04-07T15:09:29.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-07T04:41:09.187Z</updated>
+        <updated>2026-04-07T15:09:29.884Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 07 Apr 2026 04:41:09 GMT</id>
+        <id>rankingusTue, 07 Apr 2026 15:09:29 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-07T04:41:09.187Z</updated>
+        <updated>2026-04-07T15:09:29.884Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1908</b>
+        <b>1909</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1707</b>
+        <b>1708</b>
       </td>
       <td>
         <b>81</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1764</b>
+        <b>1765</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1588</b>
+        <b>1589</b>
       </td>
       <td>
         <b>64</b>
@@ -152,14 +152,22 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1094038347">Only You Are Here</a>
+        <a href="https://apps.apple.com/us/app/id807752194">Cello Tuner Professional</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Tuning Fork</i>：<b>1</b>
+              </li><li>
+                <i>Settings</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -169,7 +177,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1160943124">Speech to Text : Voice to Text</a>
+        <a href="https://apps.apple.com/us/app/id1094038347">Only You Are Here</a>
       </td>
       <td>
         <ul>
@@ -186,7 +194,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1287138671">Thumper: Pocket Edition</a>
+        <a href="https://apps.apple.com/us/app/id1160943124">Speech to Text : Voice to Text</a>
       </td>
       <td>
         <ul>
@@ -203,7 +211,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1291429551">60 Parsecs!</a>
+        <a href="https://apps.apple.com/us/app/id1287138671">Thumper: Pocket Edition</a>
       </td>
       <td>
         <ul>
@@ -218,6 +226,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>8</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1291429551">60 Parsecs!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -240,7 +265,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1437669537">Bendy and the Ink Machine</a>
@@ -257,7 +282,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1465288147">ATOM RPG</a>
@@ -274,7 +299,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1474716211">60 Seconds! Reatomized</a>
@@ -291,7 +316,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1490100895">Happy Game :)</a>
@@ -308,7 +333,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1524418421">SessionBand Jazz Fusion</a>
@@ -325,7 +350,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1534488108">SessionBand Jazz 4</a>
@@ -342,7 +367,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537060891">Titan Quest: Legendary Edition</a>
@@ -359,7 +384,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537782938">墨墨记忆卡｜考研考公考证外语学习闪卡</a>
@@ -376,7 +401,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
@@ -393,7 +418,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -410,7 +435,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1630887189">20 Minutes Till Dawn:Premium</a>
@@ -427,7 +452,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659271912">Tokyo Dispatcher! 2</a>
@@ -444,7 +469,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1662217862">Wipr 2</a>
@@ -461,7 +486,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6504841512">Halls of Torment: Premium</a>
@@ -478,7 +503,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742472194">Tale of Immortal</a>
@@ -503,7 +528,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444400410">Farming Simulator 23 Mobile</a>
@@ -520,7 +545,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
@@ -537,7 +562,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447508479">Warm Snow</a>
@@ -560,7 +585,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6475892753">Listenify</a>
@@ -577,7 +602,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6755290585">Raiders Map</a>
@@ -1190,6 +1215,75 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cello Tuner Professional]]></title>
+        <id>Cello Tuner Professional-us-1775569659553</id>
+        <link href="https://apps.apple.com/us/app/cello-tuner-professional/id807752194?uo=4"/>
+        <updated>2026-04-07T13:47:39.553Z</updated>
+        <summary type="html"><![CDATA[Tuning Fork: $3.99 → $1.99<br/>Settings: $3.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/cello-tuner-professional/id807752194?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/2e/90/ea2e9000-c6de-d332-02bd-1a8e8f1431ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Tuning Fork：</strong><span>$3.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$0.99 ~ $3.99]</span>
+  </li><li>
+    <strong>Settings：</strong><span>$3.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$0.99 ~ $3.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$9.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Tuning Fork：<b>$1.99</b>
+  </li><li>
+    Settings：<b>$1.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Tune your cello instantly with precision and ease!
+Optimal for beginners, intermediate and advanced musicians!
+
+· The most accurate - displays the exact sound frequency in Hz.
+· Calibration for A: 392Hz, 415Hz, 432Hz, 440Hz, 441Hz, 442Hz, 443Hz, 444Hz, 466Hz. 
+· Instant load and fastest tuning! - Optimized for latest devices.
+· Highest responsiveness and sensitivity.
+· Intuitive user interface with LED tuning indicator.
+· Visual indicators - tuned string lights up.
+· Universal app - works with iPhone, iPad and iPod touch.
+· Advanced settings (A4 calibration, Mic sensitivity, Sound notifications) and Tuning fork! (as in-app purchases)
+
+What our users say:
+
+"Does what it promises - Very useful app." 
+
+"This app makes tuning so easy!" 
+
+"By far the greatest and most accurate cello tuning app. Play the string, read its chart and you know whether you're in tune."
+
+"Amazing! Outstanding, well spent money!
+
+"All cellists should have this app!"
+
+"It's very useful for me! Thank  you!"
+
+"Excellent app"
+
+"Very convenient software. Suitable for any skill!"
+
+--- 
+
+Please make sure to allow microphone access to this app when prompted. 
+Check it under Settings>Privacy>Microphone. Thank you.
+
+--- 
+
+Got ideas? Questions? 
+
+Please send us your feedback through our site or to feedback@daikyoujulabs.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/3b/9f/293b9fe8-3cbf-e312-673e-4af935fd61a5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/2b/ed/6f2bedfd-9953-3a67-28a5-075ff1f6472f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3b/03/20/3b0320e2-8165-4095-3c35-dad25dacad5b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/a0/b5/05a0b55c-6a5c-6d55-59f6-cc44d3cf517b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c2/26/0e/c2260eec-c64d-d62b-d4f3-d6757f789f16/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/4e/cf/28/4ecf2845-2a23-16f1-1336-e0ff12950bf7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0f/66/0c/0f660c43-d785-e31a-a439-2ff4eb63da9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/17/90/81/179081b4-fd92-ed74-d940-ee6b7e1e5f29/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/69/1f/c4/691fc45c-a4f3-0872-ffe6-8754c590734a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/93/07/a8/9307a84b-538c-2814-7def-13801fbcbd93/c9a02feb-59b9-4254-aec3-b85dbe96411a_iPhone_8_Plus-9About.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/02/dc/33/02dc3381-a9a7-5532-5e40-913abb1370f6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/ae/29/37ae29ea-0018-d59d-1a5f-3c1951612a67/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/01/db/08/01db080e-3fdd-3d1c-f619-eb7b4d940a5f/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ab/7e/b7/ab7eb7cc-6e75-7dfc-2744-c2850cdae74d/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/62/6b/5c/626b5c7c-b7e2-ff3e-5225-855fc008dc63/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5c/f3/21/5cf3217b-fd01-5a33-43bc-6a0b7dc9db4d/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/e9/de/a6e9dedf-d8ad-3f08-0076-58e44542706c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2f/d0/b2/2fd0b2cd-b546-972b-9b72-4ec3f61568c4/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/26/f6/24/26f62402-2eb3-432a-0b0c-d418d70077b0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/30/8c/15/308c15e5-0184-7940-0994-27db6e0ce087/616ead6b-5765-4eb6-a80a-fa2a337d48c6_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-9About.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[墨墨记忆卡｜考研考公考证外语学习闪卡]]></title>

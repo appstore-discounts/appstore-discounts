@@ -20172,6 +20172,17 @@
     "history": [
       [
         {
+          "timestamp": 1775569659553,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Diapasão": "1,99 €",
+            "Configurações": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774795238272,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -79104,6 +79115,25 @@
     "history": [
       [
         {
+          "timestamp": 1775569659553,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (D)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (C)": "6,99 €",
+            "Weapon Upgrade Ticket x1 (F)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (E)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (C)": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775051617083,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -84618,6 +84648,27 @@
           "timestamp": 1775467033543,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6673906410": {
+    "name": "Sea of Stars",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775569659553,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]
