@@ -54143,13 +54143,25 @@
       "PRO Lifetime": "44,99 €"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "4,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "PRO Monthly Subscription": "2,99 €",
       "PRO Yearly Subscription": "9,99 €",
       "PRO Lifetime": "44,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775575066361,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "PRO Monthly Subscription": "2,99 €",
+            "PRO Yearly Subscription": "9,99 €",
+            "PRO Lifetime": "44,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772160100910,
@@ -79114,6 +79126,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1775575066361,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Caminhos Distintos": "9,99 €",
+            "Maleta: \"Ouro\"": "0,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Weapon Upgrade Ticket x1 (B)": "2,99 €",
+            "Amuleto:\"Munição para Pistola\"": "0,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Amuleto: \"Erva Verde\"": "0,99 €"
+          }
+        },
         {
           "timestamp": 1775569659553,
           "price": 0,
