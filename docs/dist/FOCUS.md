@@ -1479,7 +1479,7 @@ So far, we've covered `7` `Countries or Regions` and  `1911` `Apps` <br />Push n
 |442|1065599938|Automatic|❌|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|
 |441|1077639630|Automatic|说剑The Swords|❌|❌|❌|❌|❌|❌|
 |440|1093131935|Automatic|❌|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|
-|439|1094038347|Automatic|❌|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|Só Tem Você Aqui|
+|439| ~~1094038347~~ |Automatic| ~~❌~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Só Tem Você Aqui~~ |
 |438| ~~1095903651~~ |Automatic| ~~【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~❌~~ |
 |437|1099088440|Automatic|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|❌|
 |436|1108479411|Automatic|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|Driving Zone 2: Carros Jogos|

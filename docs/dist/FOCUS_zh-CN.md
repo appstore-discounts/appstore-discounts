@@ -1479,7 +1479,7 @@
 |442|1065599938|自动|❌|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|
 |441|1077639630|自动|说剑The Swords|❌|❌|❌|❌|❌|❌|
 |440|1093131935|自动|❌|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|
-|439|1094038347|自动|❌|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|Only You Are Here|Só Tem Você Aqui|
+|439| ~~1094038347~~ |自动| ~~❌~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Only You Are Here~~ | ~~Só Tem Você Aqui~~ |
 |438| ~~1095903651~~ |自动| ~~【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ | ~~❌~~ |
 |437|1099088440|自动|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|❌|
 |436|1108479411|自动|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|Driving Zone 2: Carros Jogos|
