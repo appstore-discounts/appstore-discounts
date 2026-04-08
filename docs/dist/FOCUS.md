@@ -882,7 +882,7 @@ So far, we've covered `7` `Countries or Regions` and  `1910` `Apps` <br />Push n
 |1038|929618748|Automatic|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|
 |1037| ~~519561306~~ |Automatic| ~~ATracker PRO - 每日时间管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO Time Tracker~~ | ~~ATracker PRO Time Tracker~~ | ~~❌~~ |
 |1036|1456212639|Automatic|❌|返校|返校|返校|Detention|Detention|Detention|
-|1035|734464614|Automatic|生命密码|生命密碼|生命密碼|生命密碼|Numberology|Numberology|❌|
+|1035|734464614|Automatic|生命密码|生命密碼|生命密碼|生命密碼|Numberology|Numberology|生命密碼|
 |1034|941671702|Automatic|GR Viewer|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|
 |1033|744851208|Automatic|❌|賽馬牧場物語|賽馬牧場物語|賽馬牧場物語|Pocket Stables|Pocket Stables|Pocket Stables|
 |1032|1123652342|Automatic|❌|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|Jurassic GO - Dinosaur Snap Adventures|Jurassic GO - Dinosaur Snap Adventures|Dinossauro GO - Dinosaur Snap Adventures – Descubra e fotografe dinossauros fofos e engraçados!|
