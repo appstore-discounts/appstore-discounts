@@ -1092,7 +1092,7 @@ So far, we've covered `7` `Countries or Regions` and  `1922` `Apps` <br />Push n
 |840|1308038634|Automatic|❌|修真风云录|修真风云录|修真风云录|修真风云录|修真风云录|修真风云录|
 |839|1486110292|Automatic|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|
 |838|1531068181|Automatic|TimeGlance - 并发症|TimeGlance - 複雜功能|TimeGlance - 複雜功能|TimeGlance - 複雜功能|TimeGlance - Complication|TimeGlance - Complication|TimeGlance - Compilação|
-|837|1551539091|Automatic|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|❌|
+|837|1551539091|Automatic|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|
 |836|1552157188|Automatic|Ace Subtitle Converter：字幕转换器|轉換字幕格式|轉換字幕格式|轉換字幕格式|Ace Subtitle Converter|Ace Subtitle Converter|Converter formato de legenda|
 |835|1577762239|Automatic|❌|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|
 |834|1613920866|Automatic|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|
@@ -1585,7 +1585,7 @@ So far, we've covered `7` `Countries or Regions` and  `1922` `Apps` <br />Push n
 |347|1516531425|Automatic|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
 |346|1517349382|Automatic|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|❌|
 |345|1518841947|Automatic|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
-|344|1519386476|Automatic|❌|手錶與手機迷你遊戲|手錶與手機迷你遊戲|手錶與手機迷你遊戲|MiniGames - Retro Watch Games|MiniGames - Retro Watch Games|MiniJogos para Watch|
+|344|1519386476|Automatic|❌|手錶與手機迷你遊戲|手錶與手機迷你遊戲|手錶與手機迷你遊戲|MiniGames - Retro Watch Games|MiniGames - Retro Watch Games|MiniJogos - Retro de Relógio|
 |343|1523633394|Automatic|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|SpongeBob SquarePants: BfBB|
 |342|1525735418|Automatic|❌|❌|❌|❌|❌|Mesih|❌|
 |341|1528199331|Automatic|❌|崩潰大陸 2|崩潰大陸 2|崩潰大陸 2|Crashlands 2|Crashlands 2|Crashlands 2|

@@ -1092,7 +1092,7 @@
 |840|1308038634|自动|❌|修真风云录|修真风云录|修真风云录|修真风云录|修真风云录|修真风云录|
 |839|1486110292|自动|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|Minitube for Youtube|
 |838|1531068181|自动|TimeGlance - 并发症|TimeGlance - 複雜功能|TimeGlance - 複雜功能|TimeGlance - 複雜功能|TimeGlance - Complication|TimeGlance - Complication|TimeGlance - Compilação|
-|837|1551539091|自动|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|❌|
+|837|1551539091|自动|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|NFC Business Card - Read Write|
 |836|1552157188|自动|Ace Subtitle Converter：字幕转换器|轉換字幕格式|轉換字幕格式|轉換字幕格式|Ace Subtitle Converter|Ace Subtitle Converter|Converter formato de legenda|
 |835|1577762239|自动|❌|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|Invading Horde - TD|
 |834|1613920866|自动|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|金價即時通|
@@ -1585,7 +1585,7 @@
 |347|1516531425|自动|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
 |346|1517349382|自动|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|❌|
 |345|1518841947|自动|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
-|344|1519386476|自动|❌|手錶與手機迷你遊戲|手錶與手機迷你遊戲|手錶與手機迷你遊戲|MiniGames - Retro Watch Games|MiniGames - Retro Watch Games|MiniJogos para Watch|
+|344|1519386476|自动|❌|手錶與手機迷你遊戲|手錶與手機迷你遊戲|手錶與手機迷你遊戲|MiniGames - Retro Watch Games|MiniGames - Retro Watch Games|MiniJogos - Retro de Relógio|
 |343|1523633394|自动|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|SpongeBob SquarePants: BfBB|
 |342|1525735418|自动|❌|❌|❌|❌|❌|Mesih|❌|
 |341|1528199331|自动|❌|崩潰大陸 2|崩潰大陸 2|崩潰大陸 2|Crashlands 2|Crashlands 2|Crashlands 2|
