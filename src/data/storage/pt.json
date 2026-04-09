@@ -19231,6 +19231,23 @@
     "history": [
       [
         {
+          "timestamp": 1775768354942,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Race Pass": "5,99 €",
+            "700 Aces": "9,99 €",
+            "5000 Aces": "44,99 €",
+            "300 Aces": "5,99 €",
+            "15000 Aces": "99,99 €",
+            "300 Aces Limited Time Offer": "0,99 €",
+            "700 Aces Limited Time Offer": "5,99 €",
+            "Racing Prodigy Kart TKM TR (T)": "6,99 €",
+            "Racing Prodigy Small Tyre Pack": "2,99 €",
+            "Racing Prodigy X30 La Conca L4": "17,99 €"
+          }
+        },
+        {
           "timestamp": 1775762349274,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -56679,14 +56696,24 @@
     "name": "Medidor de Som",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Acesso Premium": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Acesso Premium": "0,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1775768354942,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Acesso Premium": "0,99 €"
+          }
+        },
         {
           "timestamp": 1775720944662,
           "price": 0.99,
@@ -68471,6 +68498,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1775768354942,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "9,99 €",
+            "Mystic Mayhem Pack": "4,99 €",
+            "Sun and Spice Bundle": "7,99 €",
+            "Santa Claws Card Back": "0,99 €",
+            "Santa Claws Pack": "4,99 €",
+            "Under the Tree location": "1,99 €",
+            "Santa Claws Emoji Pack": "0,99 €",
+            "All Wrapped Up outfit": "1,99 €",
+            "Snow Globe Outfit": "1,99 €",
+            "Mystic Mayhem Location": "0,99 €"
+          }
+        },
         {
           "timestamp": 1775762349274,
           "price": 4.99,
@@ -86209,6 +86253,27 @@
           "timestamp": 1775743448156,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6757801598": {
+    "name": "Custom Cars: Online Drive",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775768354942,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
