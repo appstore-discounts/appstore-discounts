@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-04-08T10:36:12.927Z</updated>
+    <updated>2026-04-09T00:16:20.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-08T10:36:12.929Z</updated>
+        <updated>2026-04-09T00:16:20.537Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 08 Apr 2026 10:36:12 GMT</id>
+        <id>rankingtrThu, 09 Apr 2026 00:16:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-08T10:36:12.929Z</updated>
+        <updated>2026-04-09T00:16:20.538Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,16 +51,16 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1911</b>
+        <b>1918</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1710</b>
+        <b>1717</b>
       </td>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1761</b>
+        <b>1768</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>1589</b>
+        <b>1596</b>
       </td>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
+        <del>
+          <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -348,7 +350,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1437669537">Bendy and the Ink Machine</a>
+        <a href="https://apps.apple.com/tr/app/id1411823462">7Days : Backer</a>
       </td>
       <td>
         <ul>
@@ -363,6 +365,40 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1435461053">This Is the Police</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1437669537">Bendy and the Ink Machine</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1459520638">Wingspan: The Board Game</a>
@@ -385,7 +421,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1465288147">ATOM RPG</a>
@@ -402,7 +438,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1524418421">SessionBand Jazz Fusion</a>
@@ -419,7 +455,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1534488108">SessionBand Jazz 4</a>
@@ -436,7 +472,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1537060891">Titan Quest: Legendary Edition</a>
@@ -453,7 +489,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1537782938">墨墨记忆卡｜考研考公考证外语学习闪卡</a>
@@ -470,7 +506,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1546911907">Even Longer</a>
@@ -487,7 +523,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
@@ -504,44 +540,10 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1580067723">Wall of insanity</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>24</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1621065119">Ace Attorney Trilogy</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1630887189">20 Minutes Till Dawn:Premium</a>
+        <a href="https://apps.apple.com/tr/app/id1571643809">Dungeon and Puzzles</a>
       </td>
       <td>
         <ul>
@@ -558,7 +560,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1662217862">Wipr 2</a>
+        <a href="https://apps.apple.com/tr/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -575,7 +577,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6504841512">Halls of Torment: Premium</a>
+        <a href="https://apps.apple.com/tr/app/id1621065119">Ace Attorney Trilogy</a>
       </td>
       <td>
         <ul>
@@ -590,6 +592,57 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>28</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1630887189">20 Minutes Till Dawn:Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>29</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1662217862">Wipr 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>30</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6504841512">Halls of Torment: Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6742472194">Tale of Immortal</a>
@@ -614,7 +667,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6444400410">Farming Simulator 23 Mobile</a>
@@ -631,7 +684,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
@@ -648,7 +701,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6475892753">Listenify</a>
@@ -665,10 +718,27 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6446021269">MEGA MAN X DiVE Offline</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>36</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6497948575">Way of the Hunter Wild America</a>
       </td>
       <td>
         <ul>
@@ -1010,7 +1080,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/tr/app/id1094038347">Only You Are Here</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1019,7 +1089,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1436429074">FILCA - SLR Film Camera</a>
+        <a href="https://apps.apple.com/tr/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1028,7 +1098,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
+        <a href="https://apps.apple.com/tr/app/id1436429074">FILCA - SLR Film Camera</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1037,7 +1107,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1439881811">RadarOmega</a>
+        <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1046,7 +1116,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/tr/app/id1439881811">RadarOmega</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1055,7 +1125,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1484622401">Religion inc. God Simulator</a>
+        <a href="https://apps.apple.com/tr/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1064,7 +1134,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/tr/app/id1484622401">Religion inc. God Simulator</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1073,7 +1143,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1082,7 +1152,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6505058041">Quakeline</a>
+        <a href="https://apps.apple.com/tr/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1091,7 +1161,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
+        <a href="https://apps.apple.com/tr/app/id6505058041">Quakeline</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1100,16 +1170,16 @@ feedId:157008924688563200+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1198176727">Controller for HomeKit</a>
+        <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1055511498">Day One</a>
+        <a href="https://apps.apple.com/tr/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1118,7 +1188,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
+        <a href="https://apps.apple.com/tr/app/id1055511498">Day One</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1127,7 +1197,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1473785373">MoneyTrack: Expense & Budget</a>
+        <a href="https://apps.apple.com/tr/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1136,7 +1206,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
+        <a href="https://apps.apple.com/tr/app/id1473785373">MoneyTrack: Expense & Budget</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1145,7 +1215,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id533055404">Night Stars</a>
+        <a href="https://apps.apple.com/tr/app/id1610668825">FyTube - YouTube Without Ads</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1154,7 +1224,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id598581396">Kingdom Rush Frontiers TD</a>
+        <a href="https://apps.apple.com/tr/app/id533055404">Night Stars</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1163,7 +1233,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/tr/app/id598581396">Kingdom Rush Frontiers TD</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1172,7 +1242,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1181,7 +1251,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>55</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1190,7 +1260,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>56</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1199,7 +1269,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>57</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1208,7 +1278,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>58</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1453318714">Vostok — Story Maker</a>
+        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1217,7 +1287,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>59</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/tr/app/id1453318714">Vostok — Story Maker</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1226,7 +1296,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>60</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1235,7 +1305,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>61</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id488674899">RAIN RADAR ° live weather maps</a>
+        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1244,7 +1314,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>62</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/tr/app/id488674899">RAIN RADAR ° live weather maps</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1253,7 +1323,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>63</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id373454750">随手记Pro–记账财务管理软件</a>
+        <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1262,7 +1332,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>64</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id866450515">Forest: Focus for Productivity</a>
+        <a href="https://apps.apple.com/tr/app/id373454750">随手记Pro–记账财务管理软件</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1271,7 +1341,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>65</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id388624839">CamScanner + | PDF Scanner</a>
+        <a href="https://apps.apple.com/tr/app/id866450515">Forest: Focus for Productivity</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1280,12 +1350,223 @@ feedId:157008924688563200+userId:73658201673997312
         <b>66</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id388624839">CamScanner + | PDF Scanner</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>67</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1659622164">VidHub -Video Library & Player</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Way of the Hunter Wild America]]></title>
+        <id>Way of the Hunter Wild America-tr-1775688677441</id>
+        <link href="https://apps.apple.com/tr/app/way-of-the-hunter-wild-america/id6497948575?uo=4"/>
+        <updated>2026-04-08T22:51:17.441Z</updated>
+        <summary type="html"><![CDATA[Price: ₺69,99 → ₺48,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/way-of-the-hunter-wild-america/id6497948575?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3f/22/c13f225e-1a33-e0c0-1a9e-97feed3ffd98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺69,99</span> → <b>
+  <strong>₺48,99</strong>
+</b><span>[₺29,99 ~ ₺69,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺48,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Steyr Arms Pack：<b>₺29,99</b>
+  </li><li>
+    Hunter's Pack：<b>₺20,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Enjoy the first entry of the Way of the Hunter mobile series set in the beautiful North American Pacific Northwest.
+
+This authentic hunting experience lets you explore and hunt in large open-world environments in the Nez Perce Valleys, USA. Discover true-to-life animals in beautiful natural habitats and handle various detailed and highly realistic weapons.
+
+Way of the Hunter provides a highly immersive, completely integrated experience amongst stunning wildlife with true-to-live animal group behavior. Witness the changing of complex ecosystems that react and adapt to your input. Learn what it means to be a true hunter and put your skills to the test.
+
+Face the challenges of ethical hunting, supported by a compelling story, or simply enjoy hunting in rich environments freely.
+
+* Dozens of strikingly detailed animal species with realistic behavior models for a genuinely immersive hunting experience
+* Hunt like a pro with features that highlight animal signs, blood splatter analysis, and shot review with the rewindable bullet camera
+* Use Hunter Sense to highlight important details and information or deactivate it
+* Complex Trophy system generates unique antlers and horns based on multiple factors like fitness and age
+* Sophisticated natural animal animations and reactions when sensing the player's presence
+* 24-hour day/night cycle with changing wind and weather
+* Realistic ballistics and bullet physics simulation
+* A broad selection of firearms and equipment, including licensed gear from Bushnell, Federal, Leupold, Primos, Remington, and Steyr Arms
+* An in-game economy that lets you hunt game and sell the meat to purchase new gear, hunting passes, and taxidermy for your trophy stands
+* A compelling story about the struggles of a family hunting business and the rivalry and friendships that surround it
+* Intuitive photo mode for capturing and sharing your favorite moments
+* Stalk your prey with a gamepad or touch controls
+* Optimized mobile controls for comfort and efficiency
+
+WARNING:
+Devices with less than 4 GB of RAM are not supported!
+You need a device with at least 6 GB of RAM to use the highest graphics settings.
+
+Imprint: http://www.handy-games.com/contact/
+
+© www.handy-games.com GmbH
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7Days : Backer]]></title>
+        <id>7Days : Backer-tr-1775688677441</id>
+        <link href="https://apps.apple.com/tr/app/7days-backer/id1411823462?uo=4"/>
+        <updated>2026-04-08T22:51:17.441Z</updated>
+        <summary type="html"><![CDATA[Price: ₺249,99 → ₺29,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/7days-backer/id1411823462?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/82/1a/2e821a91-10d1-1d67-4aec-90a6537abe31/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺249,99</span> → <b>
+  <strong>₺29,99</strong>
+</b><span>[₺19,99 ~ ₺249,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺29,99</b>
+</p><h2>Application Description</h2><p>
+  Are you bored of the same old novels? Are you interested in interactive story games, visual novel, choice based storyline, and indie games, but you're tired of the same old? Try our Adventure Game, a Mysterious Novel where choices do matter! We are offering our interactive storytelling game named ‘7Days: Mystery Visual Novel, Adventure Game’. All our stories, mysterious novels are written by diligently selected authors.
+
+Here we come a story game, filled with mystery, touching, innocent episodes, storyline and chat stories!
+
+'7Days!: Mystery Visual Novel, Adventure Game' is an amazing mystery story game and choice based game. It is a unique choice based, storytelling game where the user can create their unique story based on the choices they make.
+
+We will provide the best story game experience with a great mystery storyline via the chat based adventure game, designed to suit mobile devices. It is a strongly recommended game for you.
+
+■ Game explained
+Every choice you make will change your story.
+Every small choice will change your relationships with comrades,
+and change your fate and those of your comrades at critical moments.
+
+You may be the villain, or a trustworthy comrade.
+Everything depends on your choices.
+
+■ Mystery Storyline
+There are dead spirits who have been put to test for resurrection in the world of death.
+The messenger of death has assigned them each with a task and they must either attack one another or work together. Your character, Kirell, must also complete the choice-based tasks that she has been assigned.
+But her tasks requires others to die....
+
+You only have 7 days
+What choice will you make?
+
+Experience this imagination-provoking story right now.
+
+■ '7Days: Mystery Visual Novel, Adventure Game' features
+- Graphic Novel style artwork with stunning graphics
+- Unique game setting that switches between life and death
+- Mystery storyline that changes according to your choices
+- Various achievements and hidden challenges
+- Different episodes and endings based on the story
+- Text adventure with a mysterious feeling
+- Exciting storytelling game
+- Choice based game in mystery
+
+■ We recommend this Adventure Game, Story Game for…
+- Who Like Visual Novel, Mystery Games, Adventure Game or Story Games, Opus, Innocent
+- Want to kill time while playing Adventure Games or reading a Visual Novel
+- Love to be in World of Ghosts, or like to play Mystery Games, Interactive Storyline
+- Love light novels, Masterpiece Storyline, Mysterious Novel or Adventure Games
+- Those who want to move from the old stories & old templates of adventure game
+- Love interactive mystery story, Masterpiece Novel, Storytelling game
+- Those who get tired of playing regular novel story
+- Who Like Adventure Games | Best Storytelling | Mystery Storyline | Thriller Storyline | Innocent Storyline | Indie Games
+
+■ We guarantee that it'll be fun. Download and experience it right now
+
+We bring new adventure game storyline! Now, you have the opportunity to enjoy our Thriller, Mystery Story Adventure Games!
+
+If you see any issues or have good suggestions, please send them to help@buffstudio.com. We will work hard make better Choice based story games, Mystery storytelling, Indie games, Thriller storyline, Adventure games, Choice based game.
+
+■ We need your support to make better story games, adventure games, visual novel games. Please recommend this storytelling game to your family and friends. It will be of great help to us.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/9b/b8/579bb8b6-31a4-7528-f312-f0d1f3311514/mzl.rbhxmlmm.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/41/a2/8541a2f7-8cd7-cbaa-71c3-93a57b824f50/mzl.ttocwfwj.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5a/b7/fa/5ab7fa4d-a5ec-24cc-7d18-191003a686c0/mzl.scifoduc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/33/ce/8d33cec1-13bd-07ca-1f63-46c466c7dbb6/mzl.rxotthrq.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/98/ab/5498ab21-c6c2-d3b3-3111-6100e2ae969f/mzl.ahjzigqj.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a6/80/aa/a680aa44-16bf-88b5-04d7-9dc42f39e797/mzl.mvtxkxgn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/d2/3c/0fd23c12-f6ed-b070-5172-dfe6b7125528/mzl.pzvddnfl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/06/49/d60649f1-57b6-7c46-21b5-ca01de26ea92/mzl.fbaavrug.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1a/02/12/1a02123c-d51c-5c54-6cd2-a8bdfef7271f/mzl.denuxsgw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2a/ab/2e/2aab2e48-6cc0-6f23-ce33-399d1ee73d73/mzl.oaxqyqcz.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dungeon and Puzzles]]></title>
+        <id>Dungeon and Puzzles-tr-1775688677441</id>
+        <link href="https://apps.apple.com/tr/app/dungeon-and-puzzles/id1571643809?uo=4"/>
+        <updated>2026-04-08T22:51:17.441Z</updated>
+        <summary type="html"><![CDATA[Price: ₺149,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/dungeon-and-puzzles/id1571643809?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/37/2b/c4/372bc437-cdcc-4d28-769c-734bca372000/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺149,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺99,99 ~ ₺149,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h2>Application Description</h2><p>
+  --
+
+Awards:
+● 2021 BitSummit THE 8th BIT: Official Selection
+● Busan Indie Connect 2020: Excellence in Casual
+● Bahamut 2020 ACG Creation Contest: Bronze Award
+
+About:
+Dungeon and Puzzles is a game that challenges players' 2D spatial perception and logical thinking. A player can use a sword to attack monsters, or a bow and an arrow to destroy enemies from afar. Pushing the obstacles back with a shield and pulling the monsters with a pair of special gloves.
+
+There are 150 handcrafted rooms in the dungeon. Players will have to get a better understanding of the game to solve the puzzles and clear the rooms.
+
+To beat the puzzles with fewer moves, achieving advanced goals, players will have to try different tactics and move combinations to find an optimized solution for the room. Sometimes a player would need to put the old solution aside and take on a new perspective towards the problem, reexamine and rethink before making a move.
+
+Features:
+● Dungeon + Puzzle + Sokoban
+● 150 handcrafted rooms
+● Fantasy themed pixel art
+● Non-linear dungeon map
+
+--
+
+● Follow us on Twitter
+https://twitter.com/nekolyst
+● Like us on Facebook
+https://www.facebook.com/Nekolyst
+● Join our Discord server
+https://discord.gg/A7Sss9d
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/02/6d/d5/026dd54f-abf7-48cb-520e-417d64d63a88/04911ad3-24f7-46d5-ac3a-b4e38727268a_1242x2208_1_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6e/56/82/6e5682ec-2bbe-1721-caec-b23ac3f4c404/7847e700-798d-47ce-b0f7-a262a755b2be_1242x2208_2_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ad/12/05/ad1205ca-b39a-d4c3-e85d-6096fb7fd50b/5e45831a-c939-4c29-90e3-f718dfd7220d_1242x2208_3_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/99/6a/c3/996ac323-d20f-2a6c-fdad-919472764244/77593e1e-e47c-45d5-9b53-763eff5812f0_1242x2208_4_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7b/da/5f/7bda5fe6-f7dc-077a-4b88-531ac9f9a8e8/91acdf2b-debb-4a6e-947c-9c87eae9115e_1242x2208_5_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c7/40/b0/c740b0b9-49c2-b3b2-c4e4-9183180f0061/818eab0d-d5cc-4e34-930d-6d6ff907da00_1242x2208_6_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c6/60/e8/c660e863-31ef-e435-2b8e-e262673674ff/de857503-d609-47b6-8c7d-4d3d2cfef187_1242x2208_7_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/97/f8/a697f82e-4f2a-c0ce-80a3-867edea2191e/07f6be1d-795c-45be-a410-fa5a8d52ee24_1242x2208_8_english.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5f/4d/f3/5f4df3ad-fc93-140d-d77a-636f3dcaef04/14a1128d-3faa-4608-a63b-f1a31ef275a7_2048x2732_1_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/48/07/58/480758e8-5a32-7349-6888-cb18a763f8db/439e12d3-eabe-41b3-943d-7e42a95b0e87_2048x2732_2_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6e/16/fc/6e16fc66-177e-2e07-08c7-70b19bc8de79/b57046a7-3dfc-461e-99fc-1dde7b7f970b_2048x2732_3_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/01/55/fa/0155fa0d-975f-bcc0-6d6e-e2abd1ab104d/04812bd2-6fea-4dcc-88a3-86ff1fb22ff9_2048x2732_4_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/38/57/86/38578659-3367-dc10-3037-3934a40e6e31/aa2a7d9d-e4da-4535-9bd9-d6e519fa449c_2048x2732_5_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6a/7a/c3/6a7ac32d-5550-9b44-9164-8e9ab10417c9/661c41f0-0ef2-4e36-a00e-bdd892a896c5_2048x2732_6_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/57/d6/6e/57d66ee5-50f4-84e7-d301-09d902c9d0b1/cada7688-4f66-49f3-931c-48f2290814fb_2048x2732_7_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a8/7f/34/a87f34a1-a916-8d2c-be1f-9ed52851ccf4/5168a4ac-d607-48b0-b1de-fface7dcd250_2048x2732_8_english.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is the Police]]></title>
+        <id>This Is the Police-tr-1775688677441</id>
+        <link href="https://apps.apple.com/tr/app/this-is-the-police/id1435461053?uo=4"/>
+        <updated>2026-04-08T22:51:17.441Z</updated>
+        <summary type="html"><![CDATA[Price: ₺54,99 → ₺11,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/this-is-the-police/id1435461053?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8f/f1/a48ff181-b0ac-2c9a-9b80-e686482a6636/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺54,99</span> → <b>
+  <strong>₺11,99</strong>
+</b><span>[₺5,00 ~ ₺54,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺11,99</b>
+</p><h2>Application Description</h2><p>
+  Dive into a deep story of corruption, crime and intrigue. Take the role of gritty Police Chief Jack Boyd, and come face to face with the ugly underbelly of Freeburg, a city spiraling the drain. Will Jack reach his retirement with a nice stack of bills, or will he end up broken ... or worse? 
+
+Manage your staff, respond to emergencies, and investigate crimes in a city on the brink of chaos. The mafia underworld maneuvers behind the scenes, sinking their claws ever deeper into the city, even as the mayor is ready to exploit every situation to his political advantage. 
+
+Choose your approach to each situation as it unfolds. Sometimes you’ll be responding to a developing crisis at a crime scene, or negotiating with Freeburg’s crime bosses. Sometimes you’ll find yourself dodging questions in the press room, or even the occasional cross-examination in the witness box. Can you keep this pressure cooker from exploding, at least for long enough to stash away a nice retirement nest egg?
+
+- Your mission is clear: make $500,000 in 180 days before Jack Boyd reaches retirement. How? That’s up to you!
+
+- Decisions, decisions! This Is the Police is all about a dark story and how you react to it. Whatever you decide, your choices will influence the game – and the fate of Jack Boyd.
+
+- The Good, the Bad, and... the Ugly? The Chief of Freeburg's Police Department deals with all kind of people. It is up to you to find the bad guys and decide how to deal with them.
+
+- Carry out your duties. As head of Freeburg PD, Jack deals with all sorts of challenges every day: responding to emergencies, managing his officers, defending the department against City Hall and a corrupt mayor, and much more.
+
+- Solve Investigations and gather evidence against the criminal gangs of Freeburg.
+
+- Deal with the competing powers of the city. Everyone offers you favors, and each one comes at a price.
+Rich and fully voiced story: Jack Boyd is portrayed by Jon St. John, the voice of Duke Nukem.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/a3/57/bba35765-9216-3b27-c1d8-d9178a046ee8/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/65/f9/3a65f9db-06d2-10f0-9fe3-b4392f5ab012/mzl.owhrtvfj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/67/f7/1f67f77d-eee1-4c04-bd23-6da61df6f7ca/mzl.malnrgyb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/88/99/a288999f-7512-345a-bbaa-acf8337b6f4c/mzl.fdsdnvif.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/c8/88/42c88883-e500-9439-65e0-8d1c39cafd43/mzl.qmbbguta.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/8b/78c58b85-c852-8c68-e77f-f37efd2cf51e/mzl.lhgcezcl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/5c/76/ff5c766e-1d26-33e1-2342-1bf1e85dd23d/mzl.ttuhjyzo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/46/f6/5c/46f65c47-81df-13c6-c639-dc3538837c4c/mzl.hiyhsscb.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/07/51/fc/0751fcf8-31c6-69bf-7aaa-86aa97e0e92a/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/11/3d/22113d2d-8ba6-671b-1f2e-3c27445644f0/mzl.pqavucuh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/65/0b/a8650bd8-0ea4-d541-5225-6a7c28dfb972/mzl.ayavwplr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/39/ca/3d/39ca3dd7-5226-7cb2-4d70-a926b5f2fbb0/mzl.imaxoons.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/88/29/c9/8829c9a1-3092-1b70-95a9-f202667db7be/mzl.xpwkesve.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/c0/c6/abc0c697-bed3-a89d-cfaf-2a5240e28ac0/mzl.hfehkdnh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3b/5a/4d/3b5a4d76-0bc5-2e3a-7717-371e3deb4c6d/mzl.vbogzhqd.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/92/dd/2e92dd9d-f021-0a29-6f55-2f28e82233df/mzl.fdywcbvd.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Only You Are Here]]></title>
@@ -1859,132 +2140,6 @@ Immerse yourself in the game's history, walk through many endings, and discover 
   Price：<b>₺79,99</b>
 </p><h2>Application Description</h2><p>
   Dispatch Japanese trains!
-
-・Simple brain game
-"Train Dispatcher!2" is a brain game with simple rules. No expertise required.
-Train fans, game fans, everyone can enjoy it.
-
-・To everyone who will become a train dispatcher
-In the morning in Japan, customers are waiting for the arrival of the train to go to work.
-Let's start the train and transport the customers.
-
-・Goal of the game
-Japanese railway companies are for-profit organizations. Let's aim for high operating profit!
-
-・How to make profit
-Fare revenue - Departure cost = Operating profit.
-
-Fare revenue is generated when passengers board at a station.
-Example) If two passengers board a train at a station with a fare of 20, the company receives 40.
-
-Departure costs are charged according to the number of cars when the train departs.
-Example) 30 for a 2-car train, 40 for a 4-car train, and 70 for a 10-car train.
-
-One person can ride in one car.
-Fare revenue is generated when customers board the train.
-Adjust the driving schedule and the number of vehicles to aim for the highest profit.
-Departure costs. If you run too many trains and the occupancy rate drops, you'll lose revenue.
-
-・How to operate
-The game is very easy to operate and the rules are simple.
-All you have to do is adjust the number of train cars and make the trains depart at the best time.
-As the game progresses, various variations such as express trains and transfer stations will appear.
-
-・Volume
-Enjoy over 50 routes.
-Please experience the wide variety of transportation strategies of Japanese railway companies.
-No ads, no charges.
-
-・No ads, no billing
-Please concentrate on the game. Children can also enjoy the game.
-Share your results on Social Media.
-
-・Train lines you can play with
-JR East Japan JR Tokai JR West Japan JR Kyushu Tobu Tokyu Seibu Keio Keikyu Keihan Hankyu Hanshin Kintetsu Meitetsu Odakyu Nankai Seitetsu Sotetsu Keisei Tokyo Metro Osaka Metro Toei Subway Tsukuba Express
-
-・Capacity is about 130MB
-The storage burden is also small. There is no heavy processing at all.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/29/7f/80/297f80d7-ddae-21d2-a8bb-2238d6e27e31/03a4368f-ab82-411e-9d08-e0b9b75ff3cc_en2208x1242KeioInokashira.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/fb/de/b1fbdecf-d954-e1d9-ce2a-c70f7c458cbe/f1af4604-0731-476d-a442-14b2285b8385_en2208x1242TobuTojo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cf/ee/6b/cfee6b52-b064-2a96-78f4-1f327d69aaa3/3069c142-515e-4745-94fe-db1569ff3546_en2208x1242StageChoice.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ef/a8/97/efa897e3-26df-9454-4b46-e03d933fbabc/e1a4b9c7-4071-4fee-b7ed-c3428b1dc07f_en2208x1242JRKagoshima.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/db/7f/a7/db7fa706-1e22-213f-6e50-c99003f980e2/089dc558-cfd3-47c7-a6a8-0b8c3984d235_en2208x1242NankaiHonsen.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d9/73/1f/d9731f91-5832-8e4f-c451-264f68e750a3/e40e23b1-3592-4f6f-be8a-597a51d5d01c_en2732x2048KeioInokashira.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/77/41/82774172-199d-3f54-88ab-d4697ba3dad4/ff5aa210-884b-483d-812d-a12d25f66d9e_en2732x2048TobuTojo.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c3/c3/33/c3c333ca-e638-3244-98dc-e3550e8aa349/40f5f1ce-c5a8-4262-8ef3-141802447094_en2732x2048StageChoice.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/50/b7/8450b7f5-42ac-00f3-880b-631e5af581ff/83658dd2-1b58-44ac-bd40-93e813da96c1_en2732x2048JRKagoshima.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/1f/e9/751fe970-001d-510c-b028-dd369a5185b4/bdbcfb88-b163-4518-aa94-515e9ba227ac_en2732x2048NankaiHonsen.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waterlogue: Photo to Painting]]></title>
-        <id>Waterlogue: Photo to Painting-tr-1775415360407</id>
-        <link href="https://apps.apple.com/tr/app/waterlogue-photo-to-painting/id764925064?uo=4"/>
-        <updated>2026-04-05T18:56:00.407Z</updated>
-        <summary type="html"><![CDATA[Waterlogue Unlimited (Lifetime): ₺1.299,99 → ₺999,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/waterlogue-photo-to-painting/id764925064?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/58/b6/6e58b6e5-710c-239c-9702-f78b1342428e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Waterlogue Unlimited (Lifetime)：</strong><span>₺1.299,99</span> → <b>
-  <strong>₺999,99</strong>
-</b><span>[₺999,99 ~ ₺1.499,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Waterlogue Unlimited (Monthly)：<b>₺199,99</b>
-  </li><li>
-    Waterlogue Unlimited (Yearly)：<b>₺499,99</b>
-  </li><li>
-    Waterlogue Unlimited (Lifetime)：<b>₺999,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  You don’t need to paint to create beautiful watercolor images—Waterlogue captures the essence of your photos in brilliant, liquid color. See the world like an artist.
-
-
-FEATURES:
-
-• Create art that looks hand-painted
-• Photos become luminous watercolors in seconds
-• Expressive styles for portraits, landscapes, and more
-• Beautiful results for people and pets
-• Print-quality export for frameable art
-• Simulated watercolor, not AI
-• Private by design—your photos never leave your device
-• Customize borders, lightness, and detail
-
-
-ACCLAIM:
-
-• Over one million sold since 2013
-• Awarded "App Store Best of 2014" by Apple
-• Featured as App Store App of the Day
-• Oprah's holiday pick! "Made with Love: DIY Gifts"—O, The Oprah Magazine
-• “…with Waterlogue, it’s clear that there’s a very thoughtful human touch behind the app’s painterly algorithms.” —WIRED
-• “…Waterlogue is going to utterly amaze you, as it’s the first app I’ve seen that gives results that really look like a watercolor painting.” —Cult of Mac
-• “Watercolor apps may not be a new idea, but Waterlogue does it in a gorgeous, intuitive way, and it’s quite a pleasure to use.” —AppAdvice.com
-• “It goes beyond typical Photoshop watercolor filters because it has more visual intelligence, and more of the feel of the real paint.” —James Gurney, Artist and Author of Dinotopia
-• From Tinrocket, creator of This by Tinrocket (App Store Best of 2016), Olli (App Store Best of 2017), and more
-
-
-KEEP UP WITH TINROCKET:
-
-• Follow @Tinrocket on Instagram for the latest!
-• We’re here to help: If you have a question or need assistance, you can always email us at support@tinrocket.com
-• If you like Waterlogue, please consider leaving an App Store review or rating. Every review counts and helps indie developers like ourselves.
-
-
-Waterlogue® and See the world like an artist® are registered trademarks of Tinrocket, LLC
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokyo Dispatcher! 2]]></title>
-        <id>Tokyo Dispatcher! 2-tr-1775407580917</id>
-        <link href="https://apps.apple.com/tr/app/tokyo-dispatcher-2/id1659271912?uo=4"/>
-        <updated>2026-04-05T16:46:20.917Z</updated>
-        <summary type="html"><![CDATA[Price: ₺99,99 → ₺49,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tokyo-dispatcher-2/id1659271912?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/7e/e4/f17ee445-6b5b-7d7c-ca3a-f4fff45440ab/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺99,99</span> → <b>
-  <strong>₺49,99</strong>
-</b><span>[₺2,99 ~ ₺99,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺49,99</b>
-</p><h2>Application Description</h2><p>
-  Drive trains and carry passengers on Japanese railway lines.
 
 ・Simple brain game
 "Train Dispatcher!2" is a brain game with simple rules. No expertise required.
