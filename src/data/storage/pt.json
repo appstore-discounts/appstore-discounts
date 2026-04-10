@@ -14260,7 +14260,9 @@
       "Skatepark: The Warehouse": "0,99 €",
       "Skatepark: Double Infinity": "0,99 €",
       "SLS 2013: Kansas City": "0,99 €",
-      "Wheel Color Pack": "0,99 €"
+      "Wheel Color Pack": "0,99 €",
+      "2017 Skatepark of Tampa": "1,99 €",
+      "SLS 6 Pack": "5,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -14292,10 +14294,29 @@
       "Skatepark: The Warehouse": "0,99 €",
       "Skatepark: Double Infinity": "0,99 €",
       "SLS 2013: Kansas City": "0,99 €",
-      "Wheel Color Pack": "0,99 €"
+      "Wheel Color Pack": "0,99 €",
+      "2017 Skatepark of Tampa": "1,99 €",
+      "SLS 6 Pack": "5,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1775800971315,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark of Tampa": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "SLS 2018: World Championship": "0,99 €",
+            "SLS Hangar": "2,99 €",
+            "SLS 2013: Kansas City": "0,99 €",
+            "2017 Skatepark of Tampa": "1,99 €",
+            "SLS 6 Pack": "5,99 €"
+          }
+        },
         {
           "timestamp": 1775791691147,
           "price": 1.99,
@@ -25997,6 +26018,20 @@
     "history": [
       [
         {
+          "timestamp": 1775800971315,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "13 Gems": "8,99 €",
+            "1 Gem": "0,99 €",
+            "6 Gems": "3,99 €",
+            "28 Gems": "17,99 €",
+            "74 Gems": "49,99 €",
+            "150 Gems": "89,99 €",
+            "48 Gems": "29,99 €"
+          }
+        },
+        {
           "timestamp": 1775791691147,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -36827,6 +36862,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1775800971315,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Tower War Zepelling": "5,99 €",
+            "Tower Wicked Sisters": "2,99 €",
+            "Tower Swamp Monster": "2,99 €",
+            "Tower Ignis Altar": "0,99 €",
+            "Tower Shaolin Temple": "0,99 €",
+            "Tower Rotten Forest": "0,99 €",
+            "Tower Blazing Watcher": "2,99 €",
+            "Tower Deep Devils Reef": "0,99 €",
+            "Hero Tank": "3,99 €",
+            "Hero Tramin": "2,99 €"
+          }
+        },
         {
           "timestamp": 1775791691147,
           "price": 5.99,
