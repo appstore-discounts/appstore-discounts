@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-04-10T00:16:20.226Z</updated>
+    <updated>2026-04-10T04:52:35.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-10T00:16:20.226Z</updated>
+        <updated>2026-04-10T04:52:35.142Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 10 Apr 2026 00:16:20 GMT</id>
+        <id>rankingptFri, 10 Apr 2026 04:52:35 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-10T00:16:20.226Z</updated>
+        <updated>2026-04-10T04:52:35.142Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -95,6 +95,29 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/pt/app/id401818935">Genius Scan Enterprise - PDF</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Genius Scan Ultra</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/pt/app/id6444400410">Farming Simulator 23</a>
       </td>
       <td>
@@ -109,7 +132,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id288419283">RadarScope</a>
@@ -132,7 +155,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id332636983">Cry Translator</a>
@@ -143,29 +166,6 @@ feedId:206907475259680768+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id401818935">Genius Scan Enterprise - PDF</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>Compras integradas</span><ol>
-              <li>
-                <i>Genius Scan Ultra</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -858,6 +858,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>43</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6455495086">3D Pinball Space Cadet</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -960,6 +977,129 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Pinball Space Cadet]]></title>
+        <id>3D Pinball Space Cadet-pt-1775791691147</id>
+        <link href="https://apps.apple.com/pt/app/3d-pinball-space-cadet/id6455495086?uo=4"/>
+        <updated>2026-04-10T03:28:11.147Z</updated>
+        <summary type="html"><![CDATA[Price: 3,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/3d-pinball-space-cadet/id6455495086?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/1e/e8/cd1ee80f-eae8-c05d-461f-3460687b25b5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>3,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 3,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Remove Ads：<b>0,00 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>The table features the player as a member of a space fleet that completes missions to increase rank. Players can attain nine different ranks (listed from lowest to highest): Cadet, Ensign, Lieutenant, Captain, LT Commander, Commander, Commodore, Admiral, and Fleet Admiral. Players accept a mission by hitting "mission targets" which select which mission they will take, and by going up the "launch ramp". Each mission has a set number of things for players to do, such as hitting the "attack bumpers" (which are a set of four bumpers at the top of the table) eight times (this is the "target practice" mission). Some missions involve a number of steps which must be completed in sequence. Missions end either by being completed, or by being aborted due to running out of "fuel", as indicated by the lights in the passage that passes under the launch ramp. The "fuel" lights go out one by one at a time interval, and can be re-lit by having the ball go over them, or all at once by going up the launch ramp again. Upon completing a mission, some of the blue lights in a circle in the middle of the table turn on. When all of the lights in the blue circle turn on, the player's rank increases, and a light in the orange circle turns on.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/b3/dd/a3b3dd2e-ad28-da92-3934-17a63e003102/9253eec4-10a2-4b0d-b733-112971cf4ffd_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.33.54.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/0e/7a/c00e7a51-5f6f-93a1-33c3-218e14817d19/c50d9c5b-a981-4259-b235-323033181724_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.10.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/42/24/7142242f-62f2-b6fa-129d-72757ec888ed/f99d0787-d433-44c4-8de5-2ac92f30e9d0_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.16.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/4f/a0/1e4fa008-5d59-c08a-0cf8-172e4c5c41f8/8c5fadd3-b10c-4985-a5b0-2e15d6a8dc96_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.19.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/bc/d3/bcbcd3ca-2ace-07be-c944-342bbae84257/1e68d75b-a9cb-4853-b81d-f8973957e4e3_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.22.png/406x228bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genius Scan Enterprise - PDF]]></title>
+        <id>Genius Scan Enterprise - PDF-pt-1775791691147</id>
+        <link href="https://apps.apple.com/pt/app/genius-scan-enterprise-pdf/id401818935?uo=4"/>
+        <updated>2026-04-10T03:28:11.147Z</updated>
+        <summary type="html"><![CDATA[Genius Scan Ultra: 44,99 € → 5,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/genius-scan-enterprise-pdf/id401818935?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/4f/33/c54f33fb-faa6-f475-beae-ec2d456aa0c1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Genius Scan Ultra：</strong><span>44,99 €</span> → <b>
+  <strong>5,99 €</strong>
+</b><span>[5,99 € ~ 44,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>59,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Genius Scan Ultra：<b>5,99 €</b>
+  </li><li>
+    Ponta super grande：<b>9,99 €</b>
+  </li><li>
+    Doação generosa：<b>2,99 €</b>
+  </li><li>
+    Pequena doação：<b>0,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  O Genius Scan é um scanner de bolso. Digitalize rapidamente seus documentos em qualquer lugar e exporte-os como arquivos JPEG ou PDF de várias páginas.
+
+*** Apple App of the Week *** mais de 20 milhões de usuários *** milhares de pequenas empresas ***
+
+Posicione qualquer documento em frente à câmera do seu dispositivo: nosso aplicativo digitalizador reconhecerá o papel contra o fundo, cortará sua imagem e limpará o resultado. Você obterá uma digitalização nítida e legível. A digitalização em lote permite que você digitalize dezenas de páginas em apenas alguns segundos. Ferramentas poderosas ajudam a organizar, compartilhar ou arquivar seus documentos.
+
+"Na próxima vez que você planejar viajar, não se esqueça de baixar uma cópia do Genius Scan para facilitar sua vida e a do departamento de contabilidade." - AppPicker.com
+
+"Os aplicativos de câmera não foram projetados para digitalizar textos de perto, mas o Genius Scan sim." - The Guardian
+
+== ENTERPRISE EDITION ==
+
+Pacote Genius Scan+ Premium:
+
+- Todos os recursos premium do Genius Scan+ (indicados com + abaixo), prontos para usar (sem necessidade de atualização).
+
+Configuração gerenciada:
+
+- Implantação em frotas de dispositivos por uma ferramenta MDM
+- Definição prévia das configurações do aplicativo por usuário (por exemplo, definir endereço de email padrão, credenciais de WebDAV/FTP)
+- Controle de quais aplicativos e serviços para os quais os usuários podem exportar documentos
+- Sem anúncios
+
+== PRINCIPAIS RECURSOS == 
+
+Digitalização inteligente:
+
+- Detecção de documento e remoção de fundo
+- Correção de distorções
+- Remoção de sombras e limpeza de imperfeição
+- Filtros (preto e branco, quadro branco, foto)
+- Digitalização em lote
+
+Criação e edição de PDF:
+
+- Mescla e divisão de documentos
+- Criação de PDF multipáginas
+- Importação de fotos e PDF
+
+Segurança e privacidade:
+
+- Processamento de documentos no dispositivo
++ Face ID
++ Criptografia de senha no PDF
+
+Organização de documentos:
+
+- Identificação de documentos
+- Pesquisa de metadados e conteúdo
++ Esquemas personalizados de nomenclatura (Smart Document Names)
++ Backup e sincronização multidispositivos da Genius Cloud (assinatura em separado)
+
+Exporta:
+
+- Email
++ Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV.
++ Qualquer serviço compatível com WebDAV, como Citrix ShareFile, NextCloud, ownCloud, Synology, Yandex. 
++ Exportação automática de fundo
+
+OCR (Reconhecimento de texto):
+
++ Extração de texto
++ Criação de PDFs pesquisáveis
++ Leitura de cartões de visita e criação de contatos
+
+== QUEM SOMOS ==
+
+É no coração de Paris, na França, que The Grizzly Labs desenvolve o Genius Scan. Nos orgulhamos por criarmos aplicativos que ajudam milhões de usuários em todo o mundo, e que nos colocam nos mais altos padrões de qualidade e privacidade. Entre em contato conosco @thegrizzlylabs se tiver alguma dúvida.
+
+== PREÇOS E LEGAIS ==
+
+Você pode se inscrever no Genius Cloud para backup e sincronização. Nesse caso, a loja da Genius Scan exibe a duração e o preço de cada assinatura, atualizados no momento da compra. O pagamento será cobrado na conta do iTunes quando o pedido for confirmado. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada até 24 horas antes do final do período atual. Gerenciar assinaturas, desative a renovação automática nas configurações da conta do iTunes.
+
+https://www.thegrizzlylabs.com/genius-scan/cloud/terms
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Código Azul - RCP & ACLS]]></title>
@@ -1777,57 +1917,5 @@ Comentários? Dúvidas?
 Por favor, envie seus comentários através do nosso site ou: 
 feedback@daikyoujulabs.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0b/b1/2d/0bb12d1b-b62b-89cf-e8d3-db2106a49b63/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/54/28/f7/5428f7a1-68e3-eb76-68b6-5b83b32a1014/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/72/3a/a3/723aa316-4a43-59b2-2cbc-6f6c899d02b0/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/31/71/a9317138-5b1a-b4c0-0215-676f2cc91203/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/60/50/78/605078d9-fe1c-4f33-1378-748f63c4dfa5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/07/bc/d5/07bcd550-0ab4-c838-5ca5-c40279cf339e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/84/f7/6e/84f76e4c-e1d4-bd81-978e-bd747eca1b3d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/56/e8/f7/56e8f713-0ec5-88bb-f4ee-5c2e95b6b6a0/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/70/17/e6/7017e65f-17cb-b421-0d01-cbe3d930fe9a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/05/1c/7f/051c7f9c-3cb0-b320-41d4-3f117d723ea1/ce301c6a-d8ac-4f9e-8cda-7117a1d9a862_iPhone_8_Plus-9About.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/80/ed/ff/80edffd4-5657-c2b1-4b15-619e6e756b98/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/88/d4/e288d40f-308b-4121-3006-cd2c6341f312/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/18/84/21188427-71c4-14a6-2d24-ac5188dab6d6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/d5/66/7ad5669e-4e42-d5a9-c00c-c708c169a98c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/81/a8/07/81a807f8-9e9f-e1cf-d53a-facc6c623072/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/89/20/44892013-2647-c93c-702a-0d4c71cf197e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/c2/60/1bc260b6-2557-6672-ec8b-854884569a64/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b7/b1/2b/b7b12b33-6bb2-f340-65d9-337b00012829/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/34/50/32/3450328d-3af2-2c9e-a1ae-630f2f35e6d8/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a0/80/b4/a080b465-f998-8f1d-9ca0-6d5cbb594c7c/2ad20634-0fdc-4909-aee1-62c02e2a5d43_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-9About.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨墨记忆卡｜考研考公考证外语学习闪卡]]></title>
-        <id>墨墨记忆卡｜考研考公考证外语学习闪卡-pt-1775531867945</id>
-        <link href="https://apps.apple.com/pt/app/%E5%A2%A8%E5%A2%A8%E8%AE%B0%E5%BF%86%E5%8D%A1-%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E8%80%83%E8%AF%81%E5%A4%96%E8%AF%AD%E5%AD%A6%E4%B9%A0%E9%97%AA%E5%8D%A1/id1537782938?uo=4"/>
-        <updated>2026-04-07T03:17:47.945Z</updated>
-        <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/%E5%A2%A8%E5%A2%A8%E8%AE%B0%E5%BF%86%E5%8D%A1-%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E8%80%83%E8%AF%81%E5%A4%96%E8%AF%AD%E5%AD%A6%E4%B9%A0%E9%97%AA%E5%8D%A1/id1537782938?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/74/3b/1a743b08-7931-94a0-f2db-019bc9d8c546/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>0,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 0,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    月卡：<b>3,99 €</b>
-  </li><li>
-    季卡：<b>9,99 €</b>
-  </li><li>
-    年卡：<b>29,99 €</b>
-  </li><li>
-    增加 500 个记忆币：<b>0,99 €</b>
-  </li><li>
-    增加 16000 个记忆币：<b>29,99 €</b>
-  </li><li>
-    增加 8000 个记忆币：<b>14,99 €</b>
-  </li><li>
-    增加 800 个记忆币：<b>1,99 €</b>
-  </li><li>
-    增加 1800 个记忆币：<b>3,99 €</b>
-  </li><li>
-    增加 4000 个记忆币：<b>8,99 €</b>
-  </li><li>
-    增加 1 个补签卡：<b>0,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  墨墨记忆卡 可以帮助你科学高效地规划需要记忆的知识，对抗遗忘。
-
-- 可以把知识编辑成卡片，目前支持文字、图片、声音。
-
-- 可以把自己的知识卡片分享给朋友，也可以搜索他人的卡片进行学习。
-
-- 可以把知识卡片加入记忆规划，墨墨记忆卡 会为你安排合适的时间进行复习。
-
-- 可以查看自己的记忆数据：遗忘曲线、记忆持久度、每日学习情况。
-
-- 可以每日签到，见证自己的坚持和成长。
-
-墨墨科技多年以来一直专注于记忆领域的探索，基于对 1300+ 亿条用户记忆行为数据的研究和统计，绘制了 3000+ 万条不同用户的遗忘曲线，协助用户高效规划自己的记忆。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/9a/a4/649aa4af-8a1b-b69e-4549-1ad6a152c795/87d86d26-99ca-4531-b2af-a9890ea22963_iPhone_8_Plus_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/e3/97/67e39733-ef62-dfe9-ec0b-241d3d64c074/c45956c0-7d03-4cb2-a82d-1a07bc729812_iPhone_8_Plus_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/23/5f/b8235f1b-4a17-570b-5a10-c00f507e4348/a799d418-87ee-41d6-9f2f-86c160a1630d_iPhone_8_Plus_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/5c/b6/c25cb6bb-8911-6234-34cd-951c77beaf0b/79f0e255-ceb6-4c19-9de7-c2fb72f4013a_iPhone_8_Plus_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/90/c8/5a90c8a3-0f7a-6d12-bb9e-22d9ec79ac38/a425f90e-a03f-45ea-aca3-d50056a294f0_iPhone_8_Plus_-_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/57/e15557aa-d5a0-4c9f-df14-31e251c6dd12/2e56093a-91a0-4def-92a5-d39a96787b16_iPad_Pro_12.9__-_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/c0/ee/bbc0eeb0-b17a-f161-f5c9-c929e69813d4/faee6252-9e65-4cac-ae0f-2c3ffe745012_iPad_Pro_12.9__-_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/18/87/0d18870c-8850-f12f-52c3-ab88d2a00714/0b972539-3ccc-46ca-a85f-89cd3fae72ce_iPad_Pro_12.9__-_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/a9/01/cca90138-97b3-5696-901e-4e9d560f8f39/09912afe-c86a-43ce-b268-071a196550c4_iPad_Pro_12.9__-_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/78/bb/b678bbc1-b5d2-1ef9-1d7e-80ab23a13228/a06a9cb9-12c6-4bae-b28a-fa20e454e4c3_iPad_Pro_12.9__-_10.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
