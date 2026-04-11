@@ -944,7 +944,7 @@ So far, we've covered `7` `Countries or Regions` and  `1925` `Apps` <br />Push n
 |991|1116905928|Automatic|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|
 |990|1292311498|Automatic|International One Night|International One Night|International One Night|International One Night|❌|❌|❌|
 |989|6473332700|Automatic|逐鹿 - 历史沙盘战棋|❌|❌|❌|❌|❌|❌|
-|988|6742526717|Automatic|WatchTube One|WatchTube One|WatchTube One|WatchTube One|WatchTube One|WatchTube One|WatchTube One|
+|988|6742526717|Automatic|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube for YouTube|WatchTube - Video & Shorts|
 |987|6478398981|Automatic|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
 |986|528181527|Automatic|行车记录仪 「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Driving Recorder|TripREC Driving Recorder|gravador de condução「TripREC」|
 |985|545625741|Automatic|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
