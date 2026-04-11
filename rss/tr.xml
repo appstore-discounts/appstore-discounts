@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-04-11T08:34:12.084Z</updated>
+    <updated>2026-04-11T14:39:03.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-11T08:34:12.085Z</updated>
+        <updated>2026-04-11T14:39:03.262Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrSat, 11 Apr 2026 08:34:12 GMT</id>
+        <id>rankingtrSat, 11 Apr 2026 14:39:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-11T08:34:12.085Z</updated>
+        <updated>2026-04-11T14:39:03.262Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1925</b>
+        <b>1926</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1724</b>
+        <b>1725</b>
       </td>
       <td>
         <b>82</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1775</b>
+        <b>1776</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>1603</b>
+        <b>1604</b>
       </td>
       <td>
         <b>67</b>
@@ -114,14 +114,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1659271912">Tokyo Dispatcher! 2</a>
+        <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Card.Note Premiun</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -131,7 +137,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6444400410">Farming Simulator 23 Mobile</a>
+        <a href="https://apps.apple.com/tr/app/id1659271912">Tokyo Dispatcher! 2</a>
       </td>
       <td>
         <ul>
@@ -148,6 +154,23 @@ feedId:157008924688563200+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id6444400410">Farming Simulator 23 Mobile</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id332636983">Cry Translator</a>
       </td>
       <td>
@@ -162,7 +185,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id401818935">Genius Scan Enterprise - PDF</a>
@@ -185,7 +208,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id459189186">Machinarium</a>
@@ -202,7 +225,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id764925064">Waterlogue: Photo to Painting</a>
@@ -225,7 +248,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id807752194">Cello Tuner Professional</a>
@@ -250,7 +273,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1020541183">MovieSpirit - Movie Maker Pro</a>
@@ -267,7 +290,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1067575393">Image Eraser - Inpaint & heal</a>
@@ -290,7 +313,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1160943124">Speech to Text : Voice to Text</a>
@@ -307,7 +330,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1239299402">Street Fighter IV CE</a>
@@ -324,7 +347,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1287138671">Thumper: Pocket Edition</a>
@@ -341,7 +364,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1291429551">60 Parsecs!</a>
@@ -352,29 +375,6 @@ feedId:157008924688563200+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 多彩卡片笔记</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Card.Note Premiun</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1517,6 +1517,70 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
+        <id>Card.Note - 多彩卡片笔记-tr-1775913285464</id>
+        <link href="https://apps.apple.com/tr/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
+        <updated>2026-04-11T13:14:45.464Z</updated>
+        <summary type="html"><![CDATA[Price: ₺4,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/77/fe/1277fe31-b8d2-801c-0cf3-0156177bd258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺4,99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ ₺19,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Card.Note Premiun：<b>₺49,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Card.Note：小某书百万博主私藏推荐的手账类App 
+
+这是一款以卡片为主要设计理念的极简记事 App ；
+你写的每一段文字都可以生成一张张精美的卡片 。
+
+你可以用它来写诗、短文、随想； 
+也可以用它来写日记、清单、规划、要事提醒；
+还可以直接用语音输入来记录每个瞬间的念头。
+
+「Card.Note」九大特点：
+
+1.极简设计
+循着极简的设计理念，结合图标及手势操作，轻松上手。
+
+2.文青定制
+精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
+
+3.全局卡片化
+充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
+
+4.全局手势化
+下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
+
+5.语音录入
+打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
+
+6.要事提醒：
+可设置提醒闹种，重要事情和计划不再错失。
+
+7.快捷高效
+支持Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
+
+8.iCloud云同步
+支持iCloud云同步，多台设备间数据可任意同步。
+
+9.深色模式
+全局适配深色模式，视觉舒适不刺眼。
+
+感谢下载，生活愉快。
+
+如有问题或建议，请联系开发者
+微博：土味文艺开发者
+邮箱：yande18@126.com
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/ee/72/edee72d3-c32e-30e4-a9be-3f8870910632/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/21/17/322117e7-1cfe-e170-76d4-42dc890b8733/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/90/b8/0390b889-5f64-eb9d-4349-655cf37a58a0/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2d/ca/2c2dcaba-629a-0769-04f1-c9a3dd1eb462/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/e9/1d/40e91dbd-bf1e-bab1-b9dc-bb568ac0a3c9/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/06/63/f2066382-37b8-f3bd-9d57-51940557a6be/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/cd/70/7acd706a-2b85-1421-5f71-e684e5ff533a/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/2d/25/372d2533-e96a-9890-551d-2738c5d0ebdb/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/58/7c/0a587c45-1e19-0f9b-6935-15f4d060c80d/mzl.wftiudsj.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Raiders Map]]></title>
         <id>Raiders Map-tr-1775891438077</id>
         <link href="https://apps.apple.com/tr/app/raiders-map/id6755290585?uo=4"/>
@@ -2269,37 +2333,5 @@ Choose your approach to each situation as it unfolds. Sometimes you’ll be resp
 - Deal with the competing powers of the city. Everyone offers you favors, and each one comes at a price.
 Rich and fully voiced story: Jack Boyd is portrayed by Jon St. John, the voice of Duke Nukem.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/a3/57/bba35765-9216-3b27-c1d8-d9178a046ee8/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/65/f9/3a65f9db-06d2-10f0-9fe3-b4392f5ab012/mzl.owhrtvfj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/67/f7/1f67f77d-eee1-4c04-bd23-6da61df6f7ca/mzl.malnrgyb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/88/99/a288999f-7512-345a-bbaa-acf8337b6f4c/mzl.fdsdnvif.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/c8/88/42c88883-e500-9439-65e0-8d1c39cafd43/mzl.qmbbguta.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/8b/78c58b85-c852-8c68-e77f-f37efd2cf51e/mzl.lhgcezcl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/5c/76/ff5c766e-1d26-33e1-2342-1bf1e85dd23d/mzl.ttuhjyzo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/46/f6/5c/46f65c47-81df-13c6-c639-dc3538837c4c/mzl.hiyhsscb.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/07/51/fc/0751fcf8-31c6-69bf-7aaa-86aa97e0e92a/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/11/3d/22113d2d-8ba6-671b-1f2e-3c27445644f0/mzl.pqavucuh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/65/0b/a8650bd8-0ea4-d541-5225-6a7c28dfb972/mzl.ayavwplr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/39/ca/3d/39ca3dd7-5226-7cb2-4d70-a926b5f2fbb0/mzl.imaxoons.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/88/29/c9/8829c9a1-3092-1b70-95a9-f202667db7be/mzl.xpwkesve.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/c0/c6/abc0c697-bed3-a89d-cfaf-2a5240e28ac0/mzl.hfehkdnh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3b/5a/4d/3b5a4d76-0bc5-2e3a-7717-371e3deb4c6d/mzl.vbogzhqd.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/92/dd/2e92dd9d-f021-0a29-6f55-2f28e82233df/mzl.fdywcbvd.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only You Are Here]]></title>
-        <id>Only You Are Here-tr-1775639567975</id>
-        <link href="https://apps.apple.com/tr/app/only-you-are-here/id1094038347?uo=4"/>
-        <updated>2026-04-08T09:12:47.975Z</updated>
-        <summary type="html"><![CDATA[Price: ₺3,99 → ₺2,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/only-you-are-here/id1094038347?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/82/ce/aa82ce14-392c-3c39-6a02-e842eb0818e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺3,99</span> → <b>
-  <strong>₺2,99</strong>
-</b><span>[₺2,99 ~ ₺19,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺2,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    "Time"：<b>₺29,99</b>
-  </li><li>
-    Donation I：<b>₺49,99</b>
-  </li><li>
-    Donation II：<b>₺99,99</b>
-  </li><li>
-    Donation III：<b>₺249,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Only You Are Here — an atmospheric adventure with first-person horror elements. 
-
-Take on the role of a person trapped inside their dream. This place is filled with a mix of memories and nightmares. To get out, you have to open a small door.
-
-Immerse yourself in the game's history, walk through many endings, and discover the key secret.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/8f/38/e68f38f0-5c37-3997-e0a1-10e976c1b344/bf9676f6-9ace-41ac-a39a-9e05298a750c_TSER_screenshot_iPhone_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/dc/8c/c2dc8c95-432b-4c27-dba2-632e0494302c/33dd8550-65fe-4a65-958d-0150b5736999_TSER_screenshot_iPhone_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/a3/f8/e8a3f81f-66da-525d-bb73-fbfa4e3389e2/155803a1-99f7-49b6-b3a4-74cf15f6ba28_TSER_screenshot_iPhone_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/a4/df/efa4df0c-1a27-b21a-741c-baca85c5fc25/522966c1-58ab-4a21-906a-af6bdc6f5086_TSER_screenshot_iPhone_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/d2/b4/8bd2b434-26f8-bbb2-4c2f-902a9ad5e1de/f44130ed-f194-4b83-92df-ffd5a5531d91_TSER_screenshot_iPhone_05.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/05/80/64058084-2cff-f595-825c-8205aef63220/158864da-e931-4bfa-ae9d-06dbe0b52b9c_TSER_screenshot_iPad_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/c3/a3/6dc3a304-6a90-4f05-592b-bf3c08a15cbe/5cc70d3a-8048-406c-92cf-94f16743345f_TSER_screenshot_iPad_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/55/e1/6355e14a-3008-a24e-a49c-c1c4fb7d35cb/49c12c58-c876-4469-a9a9-9f87aa8e018a_TSER_screenshot_iPad_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/3a/ab/a73aaba8-6ec7-aecb-74ad-0e6b1bced540/4159ca69-97a1-44b0-9cb7-0a5462f27be7_TSER_screenshot_iPad_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/b6/11/b8b611ea-4323-a49d-87d9-c0278589c38e/4e54d565-b1a4-4586-b09c-a502933bf730_TSER_screenshot_iPad_05.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
