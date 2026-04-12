@@ -2281,6 +2281,27 @@
       ]
     ]
   },
+  "330247123": {
+    "name": "Sun Seeker - Tracker & Compass",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1775990965343,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "332325822": {
     "name": "St. Josemaria",
     "maxPriceInfo": {
@@ -9238,6 +9259,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1775990965343,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
         {
           "timestamp": 1775964724910,
           "price": 7.99,
@@ -25827,14 +25865,22 @@
   "968820626": {
     "name": "Watch Tuner Lite",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1775990965343,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
