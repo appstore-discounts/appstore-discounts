@@ -359,7 +359,7 @@
 |1580|6744361551|自动|❌|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|
 |1579|6746390893|自动|❌|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|
 |1578|1189140204|自动|The Snail|The Snail|The Snail|The Snail|The Snail|The Snail|The Snail|
-|1577|6448928429|自动|❌|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|
+|1577|6448928429|自动|❌|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|
 |1576|368169363|自动|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metrônomo|
 |1575|1672882866|自动|❌|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|
 |1574|6751400144|自动|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|

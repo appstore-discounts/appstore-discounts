@@ -359,7 +359,7 @@ So far, we've covered `7` `Countries or Regions` and  `1929` `Apps` <br />Push n
 |1580|6744361551|Automatic|❌|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|Total War™: NAPOLEON|
 |1579|6746390893|Automatic|❌|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|Red Dead Redemption|
 |1578|1189140204|Automatic|The Snail|The Snail|The Snail|The Snail|The Snail|The Snail|The Snail|
-|1577|6448928429|Automatic|❌|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|
+|1577|6448928429|Automatic|❌|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|Parking Mafia: ONLİNE|
 |1576|368169363|Automatic|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metrônomo|
 |1575|1672882866|Automatic|❌|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|
 |1574|6751400144|Automatic|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|
