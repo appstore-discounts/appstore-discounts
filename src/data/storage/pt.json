@@ -52831,6 +52831,23 @@
     "history": [
       [
         {
+          "timestamp": 1776114166718,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Master Package": "19,99 €",
+            "Prime Gemma 500": "5,99 €",
+            "Hunter Package": "9,99 €",
+            "Prime Gemma 1200": "9,99 €",
+            "Evoker Kit": "0,99 €",
+            "Prime gemma 100": "0,99 €",
+            "Evoker Package": "9,99 €",
+            "Prime Gemma 2500": "22,99 €"
+          }
+        },
+        {
           "timestamp": 1776108194184,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -88527,6 +88544,27 @@
             "15 + 2 Stones!": "2,99 €",
             "250 + 150 Stones!": "59,00 €"
           }
+        }
+      ]
+    ]
+  },
+  "6756928654": {
+    "name": "无恙时光记",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776114166718,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
