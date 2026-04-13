@@ -1248,7 +1248,7 @@ So far, we've covered `7` `Countries or Regions` and  `1929` `Apps` <br />Push n
 |691|1498550832|Automatic|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|ASCCP Management Guidelines|
 |690|6739975257|Automatic|乐桥|乐桥|乐桥|乐桥|TuneShift|TuneShift|乐桥|
 |689|6670190133|Automatic|❌|哆啦A夢的銅鑼燒店物語|哆啦A夢的銅鑼燒店物語|哆啦A夢的銅鑼燒店物語|Doraemon Dorayaki Shop Story|Doraemon Dorayaki Shop Story|Doraemon Dorayaki Shop Story|
-|688|6744862281|Automatic|iPlayer - 本地音乐播放器&离线音乐专业版|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|
+|688|6744862281|Automatic|iPlayer - 本地音乐播放器&无损离线音乐专业版|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|iPlayer - Offline Music  Pro|
 |687|6473001577|Automatic|❌|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|Aerofly FS Global|
 |686|327963391|Automatic|Pedi STAT|Pedi STAT|Pedi STAT|Pedi STAT|Pedi STAT|Pedi STAT|Pedi STAT|
 |685|398463868|Automatic|❌|詰将棋|詰将棋|詰将棋|詰将棋|詰将棋|詰将棋|
