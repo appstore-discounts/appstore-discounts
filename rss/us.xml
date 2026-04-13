@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-04-12T16:09:23.028Z</updated>
+    <updated>2026-04-13T11:22:08.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-12T16:09:23.029Z</updated>
+        <updated>2026-04-13T11:22:08.843Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 12 Apr 2026 16:09:23 GMT</id>
+        <id>rankingusMon, 13 Apr 2026 11:22:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-12T16:09:23.029Z</updated>
+        <updated>2026-04-13T11:22:08.843Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -599,14 +599,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/us/app/id1572719445">Hello Tower</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Airport Pack</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -616,7 +622,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1621065119">Ace Attorney Trilogy</a>
+        <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -633,7 +639,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1630887189">20 Minutes Till Dawn:Premium</a>
+        <a href="https://apps.apple.com/us/app/id1621065119">Ace Attorney Trilogy</a>
       </td>
       <td>
         <ul>
@@ -650,7 +656,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1659271912">Tokyo Dispatcher! 2</a>
+        <a href="https://apps.apple.com/us/app/id1630887189">20 Minutes Till Dawn:Premium</a>
       </td>
       <td>
         <ul>
@@ -667,7 +673,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1662217862">Wipr 2</a>
+        <a href="https://apps.apple.com/us/app/id1659271912">Tokyo Dispatcher! 2</a>
       </td>
       <td>
         <ul>
@@ -684,7 +690,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6504841512">Halls of Torment: Premium</a>
+        <a href="https://apps.apple.com/us/app/id1662217862">Wipr 2</a>
       </td>
       <td>
         <ul>
@@ -699,6 +705,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>35</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6504841512">Halls of Torment: Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6742472194">Tale of Immortal</a>
@@ -723,7 +746,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
@@ -740,7 +763,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447508479">Warm Snow</a>
@@ -763,7 +786,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6475892753">Listenify</a>
@@ -780,7 +803,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6755290585">Raiders Map</a>
@@ -807,7 +830,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446021269">MEGA MAN X DiVE Offline</a>
@@ -824,7 +847,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6497948575">Way of the Hunter Wild America</a>
@@ -841,7 +864,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451352949">Fishow - Cast Anywhere Anytime</a>
@@ -864,7 +887,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740553198">FlowDown - Open & Fast AI</a>
@@ -881,7 +904,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6670469064">The Exit 8</a>
@@ -1495,6 +1518,45 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hello Tower]]></title>
+        <id>Hello Tower-us-1776074549095</id>
+        <link href="https://apps.apple.com/us/app/hello-tower/id1572719445?uo=4"/>
+        <updated>2026-04-13T10:02:29.095Z</updated>
+        <summary type="html"><![CDATA[Airport Pack: $1.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hello-tower/id1572719445?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/6f/43/d16f433e-c24f-c04e-c513-5431a3183804/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Airport Pack：</strong><span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Airport Pack：<b>$0.99</b>
+  </li><li>
+    Sandbox test：<b>$0.99</b>
+  </li><li>
+    Hello Tower Test：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Airport ground maneuvering simulation of more than 40 different airports including 
+London Heathrow LHR, Philadelphia PHL, Miami Intl. MIA, Singapore, New York JFK, Las Vegas LAS, São Paulo GRU, Montreal YUL, Boston BOS,  and many more. 
+
+Different versions of airports included:
+- Play the simplified version, where the airport is scaled down to an easy playable experience.
+- Play the real thing. Here the whole airport is in real size displayed, where all your skills are required.
+
+Features
+- Give pushback, taxi, holding and take-off clearances. 
+- Handle emergencies and try to release all flights on time in order to release the next level.
+
+From an easy single-runway operation at the beginning to demanding hub airports with multiple active runways where all your skills are required.  
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/32/9f/ed329f2f-a199-df34-3fb4-a45553b5abc1/66a399fc-33dc-4e09-a0a0-aa8fa23a28f4_55_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/cb/f2/c7cbf235-5290-220a-db07-6c38ba10f345/3be44f81-2260-48de-9dec-9ddd365af3ca_55_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/fc/62/c9fc6249-9ab3-fad9-ac8e-3695f751fc7f/079121bb-f667-40a3-b38d-dbac70614ee3_55_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/c2/93/25c2935e-0dcd-bdb5-5e98-68f98b4da723/cee28945-ada3-443e-a41d-e019353c40c8_55_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/79/e8/2879e8ee-7d28-455c-95a5-d143f8af45af/94c18aad-95b8-44e0-be12-a51734e889ba_55_05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/6e/f1/f66ef13b-78af-d51a-3e3e-6dd15f3e721b/55_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/f6/17/cef617fb-af54-e31c-6f04-4fa9bbdbea4c/55_3.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ff/30/27ff3030-7828-09f6-3920-50d950ab7fc4/144318a4-3da7-4c2a-b150-c89079434998_129_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/6f/da/d86fda1a-0557-68f3-97ca-c3f64898a8ae/822bb84e-092a-4dcb-8367-62c8f6e423a0_129_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/68/68/b868683f-60b0-da97-bc7f-89c4f272d0e2/093c54ca-c4b8-4a6d-a6be-eb9a71b75b9f_129_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/9d/43/809d438f-6f52-7501-0a50-61de821617b5/09736231-9b16-4ec7-b28c-d959e5d4b080_129_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/22/52/cf22521c-2b12-1769-7f92-6c36c1c06fd3/f0c8dcd7-5e68-4db9-abbc-eecc9696f64a_129_05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/5c/85/eb5c8551-d679-295b-0bd9-8e56d5f4c1df/13_1png.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/6a/58/1c6a5866-f75e-0387-06e6-b3ed840c236c/13_2.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[聖經(和合本)(繁體中英對照)]]></title>
         <id>聖經(和合本)(繁體中英對照)-us-1776005325854</id>
         <link href="https://apps.apple.com/us/app/%E8%81%96%E7%B6%93-%E5%92%8C%E5%90%88%E6%9C%AC-%E7%B9%81%E9%AB%94%E4%B8%AD%E8%8B%B1%E5%B0%8D%E7%85%A7/id327742738?uo=4"/>
@@ -1637,313 +1699,5 @@ feedId:157008699750812672+userId:73658201673997312
 微博：土味文艺开发者
 邮箱：yande18@126.com
 </p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/ee/72/edee72d3-c32e-30e4-a9be-3f8870910632/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/21/17/322117e7-1cfe-e170-76d4-42dc890b8733/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/90/b8/0390b889-5f64-eb9d-4349-655cf37a58a0/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2d/ca/2c2dcaba-629a-0769-04f1-c9a3dd1eb462/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/e9/1d/40e91dbd-bf1e-bab1-b9dc-bb568ac0a3c9/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/06/63/f2066382-37b8-f3bd-9d57-51940557a6be/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/cd/70/7acd706a-2b85-1421-5f71-e684e5ff533a/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/2d/25/372d2533-e96a-9890-551d-2738c5d0ebdb/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/58/7c/0a587c45-1e19-0f9b-6935-15f4d060c80d/mzl.wftiudsj.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlowDown - Open & Fast AI]]></title>
-        <id>FlowDown - Open &amp; Fast AI-us-1775791691147</id>
-        <link href="https://apps.apple.com/us/app/flowdown-open-fast-ai/id6740553198?uo=4"/>
-        <updated>2026-04-10T03:28:11.147Z</updated>
-        <summary type="html"><![CDATA[Price: $6.99 → $5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/flowdown-open-fast-ai/id6740553198?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/f0/bb/7cf0bbf5-e957-cc0a-ca0c-5403bebf6bd6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$6.99</span> → <b>
-  <strong>$5.99</strong>
-</b><span>[$5.99 ~ $7.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$5.99</b>
-</p><h2>Application Description</h2><p>
-  FlowDown is a fast, minimal AI chat app that makes working with large language models feel smooth, focused, and under your control.
-
-For guides, tips, and advanced setup help, visit flowdown.ai.
-
-Why FlowDown
-
-Lightweight and efficient  
-Focus on your conversation, not the app. FlowDown launches quickly, stays out of your way, and keeps long chats responsive, even on busy machines.
-
-Rich formatting with Markdown  
-Get clear, readable answers. FlowDown renders Markdown beautifully, so code blocks, bullet lists, tables, and headings in AI responses are easy to scan and use.
-
-Works with the tools you already have  
-Connect to any OpenAI-compatible API, from major cloud providers to services running in your own home lab. If it speaks the OpenAI API, FlowDown can talk to it.
-
-Talk with text, images, and audio  
-Show, not just tell. Paste screenshots, drop in images, or record your voice to ask questions. Use it to:
-- Transcribe meetings or lectures
-- Summarize voice notes
-- Ask about the content inside a photo
-
-Smooth, instant-feeling conversations  
-Blazing-fast text rendering makes responses stream in fluidly, so you can start reading and refining your prompt without waiting for the model to finish.
-
-Automatic chat titles  
-Stop hunting for the right thread. FlowDown names your conversations automatically based on their content, so you can quickly find that "API bug fix" or "Trip planning" chat later.
-
-Shortcut integrations  
-Use FlowDown inside your workflows. With Shortcuts support, you can:
-- Send selected text from another app to your model
-- Generate drafts, summaries, or replies with one tap
-- Build custom automations that call your favourite model
-
-Privacy by design  
-Your data is yours. FlowDown does not collect your chats. For maximum confidentiality, you can run models locally on your own machine with no external server involved.
-
-Open source and transparent  
-Every line of code is available on GitHub. Inspect it, audit it, or adapt it for your own setups. You can see exactly how your AI client works.
-
-Free trial and open code
-
-FlowDown is fully open source, and we provide a free trial so you can confirm it fits your workflow before buying.
-
-Source code and trial builds are available at:  
-https://github.com/Lakr233/FlowDown  
-To try it, open the Releases section and download the latest trial version.
-
-Local models
-
-For offline, private usage, FlowDown can run models locally on Apple Silicon devices with sufficient memory.
-
-Supported model families include:  
-Cohere, Gemma, Gemma2, Gemma3, InternLM2, Llama / Mistral, OpenELM, Phi, Phi3, PhiMoE, Qwen2, Qwen3, Starcoder2, MiMo, and GLM4.
-
-This gives you:
-- Full control over your data
-- No dependency on external servers
-- The ability to experiment with different open models
-
-Remote models
-
-A complimentary remote model is included so you can start chatting immediately. This starter service is best-effort, with rate limits and no uptime guarantee.
-
-For consistent, reliable use, we recommend:
-- Bringing your own API, or
-- Hosting your own inference server on local or home-lab hardware
-
-FlowDown supports all OpenAI-compatible endpoints, making it ideal for connecting to tools like Ollama and LM Studio running on your own machine for maximum privacy.
-
-Some setups require technical knowledge. If you are new to self-hosted AI or custom endpoints, please read our documentation carefully; the app can be challenging without it.
-
-We strongly recommend using the free trial before purchasing, as refunds may not be available. For advanced or enterprise use, configuration examples and best practices are documented on our website.
-
-Important note
-
-AI-generated content can be inaccurate or misleading. Always verify critical information and use FlowDown responsibly; you are responsible for how you use the output.
-
-© 2025 FlowDown Team. All rights reserved.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Pinball Space Cadet]]></title>
-        <id>3D Pinball Space Cadet-us-1775791691147</id>
-        <link href="https://apps.apple.com/us/app/3d-pinball-space-cadet/id6455495086?uo=4"/>
-        <updated>2026-04-10T03:28:11.147Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/3d-pinball-space-cadet/id6455495086?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/1e/e8/cd1ee80f-eae8-c05d-461f-3460687b25b5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Remove Ads：<b>$0.00</b>
-  </li>
-</ul><h2>Application Description</h2><p>The table features the player as a member of a space fleet that completes missions to increase rank. Players can attain nine different ranks (listed from lowest to highest): Cadet, Ensign, Lieutenant, Captain, LT Commander, Commander, Commodore, Admiral, and Fleet Admiral. Players accept a mission by hitting "mission targets" which select which mission they will take, and by going up the "launch ramp". Each mission has a set number of things for players to do, such as hitting the "attack bumpers" (which are a set of four bumpers at the top of the table) eight times (this is the "target practice" mission). Some missions involve a number of steps which must be completed in sequence. Missions end either by being completed, or by being aborted due to running out of "fuel", as indicated by the lights in the passage that passes under the launch ramp. The "fuel" lights go out one by one at a time interval, and can be re-lit by having the ball go over them, or all at once by going up the launch ramp again. Upon completing a mission, some of the blue lights in a circle in the middle of the table turn on. When all of the lights in the blue circle turn on, the player's rank increases, and a light in the orange circle turns on.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/b3/dd/a3b3dd2e-ad28-da92-3934-17a63e003102/9253eec4-10a2-4b0d-b733-112971cf4ffd_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.33.54.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/0e/7a/c00e7a51-5f6f-93a1-33c3-218e14817d19/c50d9c5b-a981-4259-b235-323033181724_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.10.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/42/24/7142242f-62f2-b6fa-129d-72757ec888ed/f99d0787-d433-44c4-8de5-2ac92f30e9d0_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.16.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/4f/a0/1e4fa008-5d59-c08a-0cf8-172e4c5c41f8/8c5fadd3-b10c-4985-a5b0-2e15d6a8dc96_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.19.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/bc/d3/bcbcd3ca-2ace-07be-c944-342bbae84257/1e68d75b-a9cb-4853-b81d-f8973957e4e3_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.22.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Exit 8]]></title>
-        <id>The Exit 8-us-1775791691147</id>
-        <link href="https://apps.apple.com/us/app/the-exit-8/id6670469064?uo=4"/>
-        <updated>2026-04-10T03:28:11.147Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $2.79]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-exit-8/id6670469064?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/d9/f6/e8d9f62f-cd37-b132-9166-45241defaf4e/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$2.79</strong>
-</b><span>[$2.79 ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.79</b>
-</p><h2>Application Description</h2><p>
-  You are trapped in an endless underground passageway.
-Observe your surroundings carefully to reach "The Exit 8".
-
-
-
-
-Don't overlook any anomalies.
-
-If you find anomalies, turn back immediately.
-
-If you don't find anomalies, do not turn back.
-
-To go out from Exit 8.
-
-
-
-
-
-The Exit 8 is a short walking simulator inspired by Japanese underground passageways, liminal spaces and back rooms.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MovieSpirit - Movie Maker Pro]]></title>
-        <id>MovieSpirit - Movie Maker Pro-us-1775791691147</id>
-        <link href="https://apps.apple.com/us/app/moviespirit-movie-maker-pro/id1020541183?uo=4"/>
-        <updated>2026-04-10T03:28:11.147Z</updated>
-        <summary type="html"><![CDATA[Price: $9.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/moviespirit-movie-maker-pro/id1020541183?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/aa/8f/58aa8fc3-3ede-5036-6576-4f920c5138f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$9.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $9.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Pay once, use forever！ You are free to use and upgrade the App in your whole life once you pay for the download once.
-
-Do you want to share your exciting and memorable moments with someone?
-Do you want to make your own movie?
-Do you want to be a director, a producer, a starring actor?
-
-In MovieSpirit, these characters can all be done by you alone!
-
-With MovieSpirit, you can combine various media materials, such as videos, photos, music, text, recording and finger graffiti, and according to your creativity,  edit them together and add various special effects (scene switching effects, Text animation, Filter effects, video Intro, masks and so on) to create your own movie. 
-
-Main functions:
-
-- Crop, split, merge, cut, transform, flip and scale media clips
-- Overlay multi-layers video (Picture-in-picture effect),  no limit to the number of videos or pictures
-- Professional Video Ratio, Scalable Timeline (frame by frame), Unlimited Track Layers
-- Add masks (Line mask, Rectangle mask, Circle mask, Text mask and Path mask options) to hide or show parts of the video
-- Video matting, remove video background
-- Cutout Tool (Custom Shape Tools such as Pen Tool, Lasso Tool, Smudge Tool and Text Tool can be used for image matting)
-- Replace background for green/blue screen video, chroma key compositing
-- up to 50 special effects options, such as Blur, Snow, Rain, Bubble, Flower, Earthquake, Mirror, Fireworks, Smoke, Vortex, flame, Starry Sky and so on
-- Gradual Opaque
-- Fast-Forward, Slow-Motion and reverse video (1/12 Slow to 16-fold Speed)
-- Text-to-Voice function (dozens of language options)
-- 360 Degrees rotating video
-- Multiple Image Blending modes
-- Various fonts, text templates, text colors, vertical text, emojis, shadows, text strokes, alignment etc., supports downloading new fonts from Internet or icloud 
-- Built-in free music and sound effects in various styles, adding music from your computer or from iTunes, and extracting audio from videos
-- Voice recording
-- Draw graffiti with your finger directly on the film, variety of auxiliary drawing shape tools that can be freely selected such as straight line, curve, arrow, circle, square, triangle, star, heart, colorful text and so on
-- Simple automatic tracking function
-- Add movable mosaic
-- Custom Background Color, such as solid color, gradient color and extract color from picture
-- Dozens of Animation effects
-- Adjustable Brightness, Contrast, Saturation, Exposure, White Balance, Gamma
-- Create your own GIF animation
-- Private Custom Intro titles (sold separately)
-- Up to 80 filter effects (sketch, comics, fisheye, magnifiers, glass, background blur, rotation blur, vortex, various color filter and so on
-- Up to 60 scene switching effects
-- dozens of appearance shapes can be set for video/picture such as circle, heart, diamond, star, various irregular shapes and even customize unique shapes
-- Can turn the video/photo into black and white, highlight the part that needs to be highlighted (Color Splash)
-- Free to deform video/photo into irregular shapes
-- Add motion points to video/photo/text to make them move, zoom, rotate and move together to create a variety of gorgeous effects, such as fade-in and fade-out effect and up to 100 multiple phantom effect
-- Real-time preview, high resolution video output (HD)
-- Import multimedia material directly from your computer via Wi-Fi: videos, photos, music and GIF animations
-- Save and share videos directly to social networks such as Facebook, Instagram, Twitter, iCloud, WeChat, Mailbox and so on
-- Helpful video tutorials
-
-
-We're looking forward to any feedback and comments on MovieSpirit, and if you have any query or problem, please feel free to contact us via email verytools2006@gmail.com
-
-We are committed to your long-term satisfaction. Thanks!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/84/43/c6/8443c612-e66f-2cc4-5404-28496758665d/mzl.vouvntxp.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/a6/b9/81a6b968-db10-16b0-7122-fc4bf9a89139/mzl.irrolmav.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/8d/10/5e8d104d-5b8e-8725-b913-0fec3a00d852/mzl.mhpnjkrz.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/55/22/99/552299e2-cf56-fa58-c350-3896ade7ec99/mzl.tasdcgmo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e5/55/80/e55580c3-ea91-dee0-2e79-6aacfa44eaa6/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/a0/dd/d1a0dd33-42a6-43d9-bd74-e4d1aaf3e727/mzl.gyaqzhtx.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/f8/b1/14f8b185-87f3-3d82-6b0c-e34173307848/mzl.zegpdavb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/8a/dd/f28addfb-74f5-1398-1267-8fb1cabff9e6/mzl.spbtrnit.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/3d/f1/5f3df1c1-daac-1cb8-f8c2-adf671519289/mzl.rkeuxqiq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/15/b1/b815b16e-b741-2fb6-68f7-7f1a61ac89b5/pr_source.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Northgard]]></title>
-        <id>Northgard-us-1775754948837</id>
-        <link href="https://apps.apple.com/us/app/northgard/id1533979882?uo=4"/>
-        <updated>2026-04-09T17:15:48.837Z</updated>
-        <summary type="html"><![CDATA[Price: $7.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/northgard/id1533979882?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$7.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $7.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Scale Bundle：<b>$6.99</b>
-  </li><li>
-    Fur Bundle：<b>$6.99</b>
-  </li><li>
-    Clan of the Dragon：<b>$2.99</b>
-  </li><li>
-    Clan of the snake：<b>$2.99</b>
-  </li><li>
-    Clan of the Lynx：<b>$2.99</b>
-  </li><li>
-    Winter Bundle：<b>$6.99</b>
-  </li><li>
-    Clan of the Horse：<b>$2.99</b>
-  </li><li>
-    Clan of the Kraken：<b>$2.99</b>
-  </li><li>
-    Clan of the Eagle：<b>$2.99</b>
-  </li><li>
-    Clan of the Squirrel：<b>$2.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Northgard is a strategy game based on Norse mythology in which you control a Clan of Vikings fighting for the control of a mysterious newfound continent.
-
-After years of tireless explorations, brave Vikings have discovered a new land filled with mystery, danger and riches: NORTHGARD.
-
-The boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods.
-
-That is, if they can survive the dire Wolves and Undead Warriors roaming the land, befriend or defeat the giants, and survive the harshest winters ever witnessed in the North.
-
-FEATURES
-• Build your settlement on the newly discovered continent of Northgard
-• Assign your vikings to various jobs (Farmer, Warrior, Sailor, Loremaster...)
-• Manage your resources carefully and survive harsh winters and vicious foes
-• Expand and discover new territory with unique strategic opportunities
-• Achieve different victory conditions (Conquest, Fame, Lore, Trading...)
-
-STORY MODE: RIG’S SAGA
-The Viking High King is murdered and his Regal Horn is stolen by a man named Hagen.
-This event kickstarts a saga that will take Rig, his son and heir accompanied by his right-hand man Brand through the new continent of Northgard.
-The continent where he will make new friends and foes and discover a much greater threat than Hagen, and the reasons behind his father’s assassination.
-
-MULTIPLAYER
-• Play with or against other Mobile players with up to 6 players
-• Includes Duel, Free for All and Teamplay modes
-
-CHOOSE YOUR CLAN
-In order to complete the 11 campaign chapters, the player will have to master the specificities of the 6 first clans and tame the unforgiving wilderness of Northgard.
-
-More clans are joining the fight for Northgard!
-• Clan of the Snake: Act from the shadows and take the lead with cunning guerilla tactics
-• Clan of the Dragon: Embrace the old ways and please the gods with sacrifices
-• Clan of the Kraken: Harness the bounty of the sea and unleash its brutal might
-You can unlock the clans of the Snake, Dragon and Kraken separately by buying the DLCs, or together with the Scale Bundle.
-
-• Clan of the Horse: Devote yourself to the art of blacksmithing and craft powerful Relics
-• Clan of the Ox: Equip ancestral equipment and prove the might of your forefathers
-• Clan of the Lynx: Adopt Nature’s way and lure mythical preys into ambushes
-You can unlock the Clans of the Horse, Ox and Lynx separately by buying the DLCs, or together with the Fur Bundle.
-
-• Clan of the Squirrel: Gather ingredients to prepare special recipes and survive the harsh winters
-• Clan of the Rat: Embrace the way of the Shamans and work for the clan
-• Clan of the Eagle: Occupy a large territory, venture outside and gather resources
-Unlock the clans of the Squirrel, Rat and Eagle separately by buying the DLCs, or together with the Winter Bundle.
-
-
-Carefully redesigned for mobile
-• Revamped interface
-• Game Center achievements
-• iCloud - Share your progress between iOS devices
-
-If you experience any issue with Northgard, please contact our customer support at support@playdigious.mail.helpshift.com and give us as much as possible information on your problem.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/60/ef/c460efd8-ce2b-75e0-6f70-e76168de0169/263191c3-3f92-433a-a456-f1ee68f20f54_NG_SN_9DLC_EN_2208x1242px.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/75/2a/3b752ad2-2877-a4b7-68c2-0ce4154ce43b/2bb44e29-bf57-4bd1-8443-fbe6c2296a02_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/ed/1b/03ed1bdb-6531-3eeb-bf94-f4eecbf18db3/5fbbda2a-4dda-4d52-a029-e40f2d08aca5_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/bb/41/07bb4116-adcf-d2a9-3b07-f4c35120ba41/ab759f98-e5f1-4fdb-a5d0-13dad5ca06ed_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/5f/ce/a75fce8c-cae2-540c-7a7c-c74223a5ee07/9bfd13d7-b45d-4749-9f6d-f65d0e6b7731_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/6f/e8/246fe8e5-3136-6a40-0359-85f3eb26b360/cfc0c4f2-8313-4750-90a2-82eb5bab33cc_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/f3/f3/6cf3f3e9-894c-cb54-64f1-2e8edfd62524/f9ea42eb-03f5-4727-b210-4b4c5ee949fa_6_U00285.5_U0029.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/86/1e/db861e48-c43d-62d9-0ccb-4bd2840d3a6e/92810517-a191-4010-a496-51cd095a3c5c_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/f2/a1/4af2a1e6-f33f-32c2-f29b-9eb48cc17f3e/bf60db00-e303-452e-874e-af90d49746e0_8.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/48/dc/a6/48dca63c-79b4-ff0a-3eac-379cca763290/e7968081-9c38-4344-adb2-6e5d527333e5_NG_SN_9DLC_EN_2732x2048px.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/97/81/b8978180-f05e-49c2-d3ca-d9c7705222d7/ef4f6a6f-8875-45f3-82f3-2e4eb4bb8f76_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/3b/0f/d63b0f1f-3cd0-7fa9-13cf-1ca3cce6bb9c/34574b48-ac60-42de-a9c7-fbc7b3fdeffd_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/7a/0c/387a0cda-7dd8-607f-8619-af1aba54790a/e7075d6a-7711-4d17-ac76-5faa841fac2b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/ec/09/e2ec096d-1630-cd2c-64b9-5b02d18ea438/9846d9ef-5d57-453a-85c7-b17618147abf_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/62/6b/ae626b30-0990-2d08-33f8-180db4568767/4af64a95-6a04-4c82-b5ba-641bd0babf77_7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/43/c2/fb43c2e7-a7b3-df3d-5f64-862d4810cb3d/1aaf0286-806b-4c6b-ad7c-8bee203550da_8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/0c/17/610c1749-6c98-1535-caee-1c740c4e90d3/e80fd7d7-90f6-4690-8503-01403b32c93d_9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/cd/a4/eacda4f3-9aba-8942-7790-bccdc3d339b8/4ac8b13b-0254-4cc8-a7ce-d31984aecc97_10.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/72/7d/1e727d4a-a637-3948-8e46-f715718c3125/250cc8d6-f21a-414f-add8-e0b934db1ece_11.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
