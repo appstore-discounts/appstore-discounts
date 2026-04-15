@@ -9675,6 +9675,23 @@
     "history": [
       [
         {
+          "timestamp": 1776273256782,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1776261306798,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -22646,6 +22663,25 @@
       "6 Mo.texto globais": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776273256782,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "12 Mo.Fongo Ultimate": "99,99 €",
+            "3 Mo.Fongo Ultimate": "34,99 €",
+            "6 Mo.Fongo Ultimate": "59,99 €",
+            "1 Mo.Fongo Ultimate": "14,99 €",
+            "12 Mo.Remover anúncios": "19,99 €",
+            "6 Mo.Remover anúncios": "9,99 €",
+            "3 Mo.Remover anúncios": "5,99 €",
+            "1 Mo.Remover anúncios": "2,99 €",
+            "12 Mo.Fongo Plus": "99,99 €",
+            "12 Mo.texto globais": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776200546637,
@@ -85902,10 +85938,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776273256782,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764641127012,
@@ -90094,6 +90138,27 @@
           "timestamp": 1776261306798,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746919411": {
+    "name": "Nubby's Number Factory",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776273256782,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
