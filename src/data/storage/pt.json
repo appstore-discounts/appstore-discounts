@@ -6077,6 +6077,58 @@
       ]
     ]
   },
+  "404553553": {
+    "name": "Bloons TD 4",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Premium Upgrade Pack": "7,99 €",
+      "Extreme Map Pack": "1,99 €",
+      "Rank Up +2 Ranks": "0,99 €",
+      "Double Cash": "2,99 €",
+      "Healthy Bananas": "1,99 €",
+      "Explosive Darts": "1,99 €",
+      "Double Ranga": "1,99 €",
+      "Monkey Tycoon": "0,99 €",
+      "Frag Bombs": "0,99 €",
+      "Digital Amplification": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Premium Upgrade Pack": "7,99 €",
+      "Extreme Map Pack": "1,99 €",
+      "Rank Up +2 Ranks": "0,99 €",
+      "Double Cash": "2,99 €",
+      "Healthy Bananas": "1,99 €",
+      "Explosive Darts": "1,99 €",
+      "Double Ranga": "1,99 €",
+      "Monkey Tycoon": "0,99 €",
+      "Frag Bombs": "0,99 €",
+      "Digital Amplification": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776261306798,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "7,99 €",
+            "Extreme Map Pack": "1,99 €",
+            "Rank Up +2 Ranks": "0,99 €",
+            "Double Cash": "2,99 €",
+            "Healthy Bananas": "1,99 €",
+            "Explosive Darts": "1,99 €",
+            "Double Ranga": "1,99 €",
+            "Monkey Tycoon": "0,99 €",
+            "Frag Bombs": "0,99 €",
+            "Digital Amplification": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "404990064": {
     "name": "SkyView®",
     "maxPriceInfo": {
@@ -9588,7 +9640,9 @@
       "The Incredibles": "8,99 €",
       "Marketplace Pass w/trial": "3,99 €",
       "Furniture Starter Pack": "9,99 €",
-      "Structures Starter Pack": "6,99 €"
+      "Structures Starter Pack": "6,99 €",
+      "Creepy Starter Pack": "9,99 €",
+      "Cuddly Starter Pack": "6,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
@@ -9614,9 +9668,30 @@
       "The Incredibles": "8,99 €",
       "Marketplace Pass w/trial": "3,99 €",
       "Furniture Starter Pack": "9,99 €",
-      "Structures Starter Pack": "6,99 €"
+      "Structures Starter Pack": "6,99 €",
+      "Creepy Starter Pack": "9,99 €",
+      "Cuddly Starter Pack": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776261306798,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Creepy Starter Pack": "9,99 €",
+            "Cuddly Starter Pack": "6,99 €",
+            "Furniture Starter Pack": "9,99 €",
+            "Structures Starter Pack": "6,99 €",
+            "Scary Pack": "9,99 €",
+            "Weapon Pack": "6,99 €",
+            "Minecraft Pets Pack": "9,99 €",
+            "Minecraft Morph Pack": "6,99 €",
+            "Marketplace Pass Full": "3,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776088687884,
@@ -12540,6 +12615,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1776261306798,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Pacote pragas": "14,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €",
+            "Desbloquear Trapaças": "9,99 €"
+          }
+        },
         {
           "timestamp": 1776246153510,
           "price": 0.99,
@@ -16582,6 +16674,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1776261306798,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Torre Liberar Todas as Melhorias": "0,99 €",
+            "Bundle O' Monkey Money": "3,49 €",
+            "Monte de Dinheiro": "5,99 €",
+            "Cofre de Fichas": "9,99 €",
+            "Dinheiro de Macaco": "0,99 €",
+            "Passe de Nível": "0,99 €",
+            "Modo Dinheiro Dobrado": "9,99 €",
+            "Cofre de Dinheiro": "22,99 €",
+            "Bundle O' Tokens": "2,99 €"
+          }
+        },
         {
           "timestamp": 1776246153510,
           "price": 3.49,
@@ -89942,6 +90050,48 @@
       [
         {
           "timestamp": 1776114166718,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444766451": {
+    "name": "中医舌诊宝典",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776261306798,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761034567": {
+    "name": "FrameForge Go",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776261306798,
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
