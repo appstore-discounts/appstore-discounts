@@ -11759,6 +11759,25 @@
     "history": [
       [
         {
+          "timestamp": 1776281868454,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "2,99 €",
+            "RC Transformer": "2,99 €",
+            "Race Car": "2,99 €",
+            "Lego Car": "2,99 €",
+            "XB-70 Valkirie": "2,99 €",
+            "BVM King Cat": "2,99 €",
+            "B17 Flying Fortress": "2,99 €",
+            "A6M Zero": "2,99 €",
+            "P-47 Thunderbolt": "2,99 €",
+            "Curtiss P-40 Warhawk": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776207189815,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -22665,6 +22684,23 @@
     "history": [
       [
         {
+          "timestamp": 1776281868454,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "$5 Crédito": "5,99 €",
+            "1 Mo. texto globais": "3,99 €",
+            "1 Mo.texto Canadá": "2,99 €",
+            "$10 Crédito": "9,99 €",
+            "1 Mo.Fongo Plus": "9,99 €",
+            "3 Mo.texto Canadá": "5,99 €",
+            "6 Mo.texto Canadá": "9,99 €",
+            "12 Mo.texto globais": "29,99 €",
+            "12 Mo.texto Canadá": "19,99 €",
+            "6 Mo.Remover anúncios": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1776273256782,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -32826,7 +32862,8 @@
       "提升十级": "3,99 €",
       "战姬参战": "99,99 €",
       "福运铃铛": "17,99 €",
-      "福运十次": "3,99 €"
+      "福运十次": "3,99 €",
+      "至尊门票": "17,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -32845,9 +32882,29 @@
       "提升十级": "3,99 €",
       "战姬参战": "99,99 €",
       "福运铃铛": "17,99 €",
-      "福运十次": "3,99 €"
+      "福运十次": "3,99 €",
+      "至尊门票": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776281868454,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "至尊门票": "17,99 €",
+            "福运铃铛": "17,99 €",
+            "福运十次": "3,99 €",
+            "战姬参战": "99,99 €",
+            "火鸡宴会": "17,99 €",
+            "提升十级": "3,99 €",
+            "宝石通行证": "17,99 €",
+            "休假证明": "17,99 €",
+            "小憩十次": "3,99 €",
+            "新春灯笼": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769453302092,
@@ -90159,6 +90216,27 @@
           "timestamp": 1776273256782,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6463562198": {
+    "name": "Ye said",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776281868454,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
