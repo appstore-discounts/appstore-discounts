@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-04-16T04:59:03.928Z</updated>
+    <updated>2026-04-16T12:34:14.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-16T04:59:03.928Z</updated>
+        <updated>2026-04-16T12:34:14.217Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwThu, 16 Apr 2026 04:59:03 GMT</id>
+        <id>rankingtwThu, 16 Apr 2026 12:34:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-16T04:59:03.928Z</updated>
+        <updated>2026-04-16T12:34:14.217Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -95,6 +95,29 @@ feedId:157008546980077568+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id401818935">Genius Scan Enterprise - PDF</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App內購買</span><ol>
+              <li>
+                <i>Genius Scan Ultra</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id807752194">大提琴調音器專業版 - Cello Tuner Pro</a>
       </td>
       <td>
@@ -117,7 +140,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <del>
@@ -136,7 +159,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -159,7 +182,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6455495086">3D Pinball Space Cadet</a>
@@ -170,29 +193,6 @@ feedId:157008546980077568+userId:73658201673997312
             <span>总次数</span>：<b>2</b>
           </li><li>
             <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id401818935">Genius Scan Enterprise - PDF</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App內購買</span><ol>
-              <li>
-                <i>Genius Scan Ultra</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1624,6 +1624,109 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genius Scan Enterprise - PDF]]></title>
+        <id>Genius Scan Enterprise - PDF-tw-1776337921572</id>
+        <link href="https://apps.apple.com/tw/app/genius-scan-enterprise-pdf/id401818935?uo=4"/>
+        <updated>2026-04-16T11:12:01.572Z</updated>
+        <summary type="html"><![CDATA[Genius Scan Ultra: $1,290.00 → $150.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/genius-scan-enterprise-pdf/id401818935?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/4f/33/c54f33fb-faa6-f475-beae-ec2d456aa0c1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
+  <li>
+    <strong>Genius Scan Ultra：</strong><span>$1,290.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $1,290.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>$1,490.00</b>
+</p><h3>App內購買</h3><ul>
+  <li>
+    Genius Scan Ultra：<b>$150.00</b>
+  </li><li>
+    超大贊助：<b>$320.00</b>
+  </li><li>
+    慷慨捐贈：<b>$90.00</b>
+  </li><li>
+    小貼士：<b>$30.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Genius Scan 是一款可裝入口袋的掃描器。 可隨時隨地快速掃描文件，並能匯出為JPEG或多頁PDF檔案。
+
+*** Apple App of the Week *** 2000多萬使用者 *** 1000多家小企業 ***
+
+將任何文件放在裝置的相機前面：我們的掃描儀應用程式會自動識別背景紙張，裁剪紙張並清理結果。您可以獲得清晰易讀的掃描。批量掃描可讓您在幾秒鐘內掃描數十頁。強大的工具可幫助您組織、共享或歸檔文件。
+
+“下一次出差時別忘了下載一個Genius Scan，可以給自己和會計部門帶來很大方便。” - AppPicker.com
+
+“相機應用不適合對文字進行近距離掃描，但Genius Scan可以辦到。” - 衛報
+
+==企業版== 
+
+ Genius Scan+ Premium Pack： 
+
+ - 開箱即用（無需升級）Genius Scan+ 的所有高級功能（用下方的 + 表示）。 
+
+管理組態： 
+
+ - 部署到由MDM工具管理的設備中
+ - 按使用者預先配置部署應用程式設定（例如，設定預設電子郵件位址，WebDAV / FTP 憑據） 
+ - 控制使用者可以將文件匯出到哪些應用程式和服務
+ - 無廣告
+
+==主要功能== 
+
+智慧掃描： 
+
+ - 檔案檢測和背景移除
+ - 失真校正
+ - 陰影去除和缺陷清理
+ - 濾鏡（黑白，白板，照片） 
+ - 批量掃描
+
+ PDF建立和編輯： 
+
+ - 文件合併和拆分
+ - 多頁PDF創建
+ - 照片和PDF匯入
+
+安全和隱私： 
+
+ - 裝置上文件處理
+ + 面容_ID 
+ + PDF密碼加密
+
+文件組織： 
+
+ - 文件標記
+ - 元數據和內容搜索
+ + 自訂命名方案（智慧文件名稱） 
+ + 使用Genius Cloud進行備份和多裝置同步（單獨訂閱） 
+
+匯出：
+
+ - 電子郵件
+ + Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV. 
+ + 任何與WebDAV相容的服務，例如Citrix ShareFile、NextCloud，ownCloud、Synology、Yandex。 
+ + 自動後台自動匯出
+
+OCR（文本識別）：
+
+ + 文字提取
+ + 創建可搜尋的PDF
+ + 掃描名片和建立連絡人
+
+==關於我們== 
+
+The Grizzly Labs在法國巴黎市中心開發了Genius Scan。我們製作能夠説明全世界數百萬使用者的應用程式並在品質和隱私方面保持最高標準，我們為此感到自豪。如果您有任何疑問，請通過@thegrizzlylabs聯繫我們。
+
+==定價和法律==
+
+您可以訂閱Genius Cloud進行備份和同步。在這種情況下，Genius Scan的商店會顯示每個訂閱的持續時間和價格，並在購買時更新。訂單確認後，將從iTunes帳戶中收取付款。除非在當前期間結束前24小時內關閉自動續訂，否則訂閱會自動續訂。管理訂閱，禁用iTunes帳戶設置中的自動續訂。
+
+https://www.thegrizzlylabs.com/genius-scan/cloud/terms
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大提琴調音器專業版 - Cello Tuner Pro]]></title>
