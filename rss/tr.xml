@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-04-16T07:31:10.570Z</updated>
+    <updated>2026-04-16T15:27:15.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-16T07:31:10.573Z</updated>
+        <updated>2026-04-16T15:27:15.365Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrThu, 16 Apr 2026 07:31:10 GMT</id>
+        <id>rankingtrThu, 16 Apr 2026 15:27:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-16T07:31:10.573Z</updated>
+        <updated>2026-04-16T15:27:15.365Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -114,6 +114,23 @@ feedId:157008924688563200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id1659271912">Tokyo Dispatcher! 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>3</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id807752194">Cello Tuner Professional</a>
       </td>
       <td>
@@ -136,7 +153,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -153,23 +170,6 @@ feedId:157008924688563200+userId:73658201673997312
                 <i>Card.Note Premiun</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1659271912">Tokyo Dispatcher! 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -759,7 +759,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1642715290">Little Big Workshop</a>
+        <a href="https://apps.apple.com/tr/app/id1642139491">Tokyo Dispatcher!</a>
       </td>
       <td>
         <ul>
@@ -776,7 +776,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1662217862">Wipr 2</a>
+        <a href="https://apps.apple.com/tr/app/id1642715290">Little Big Workshop</a>
       </td>
       <td>
         <ul>
@@ -793,7 +793,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6504841512">Halls of Torment: Premium</a>
+        <a href="https://apps.apple.com/tr/app/id1662217862">Wipr 2</a>
       </td>
       <td>
         <ul>
@@ -808,6 +808,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>40</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6504841512">Halls of Torment: Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6742472194">Tale of Immortal</a>
@@ -832,7 +849,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
@@ -849,7 +866,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6475892753">Listenify</a>
@@ -866,7 +883,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6446021269">MEGA MAN X DiVE Offline</a>
@@ -883,7 +900,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6497948575">Way of the Hunter Wild America</a>
@@ -900,7 +917,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6451352949">Fishow - Cast Anywhere Anytime</a>
@@ -923,7 +940,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740553198">FlowDown - Open & Fast AI</a>
@@ -940,7 +957,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6670469064">The Exit 8</a>
@@ -957,7 +974,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6755290585">Raiders Map</a>
@@ -982,7 +999,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6502453075">Balatro</a>
@@ -999,7 +1016,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6749609393">Computer Basics: PC Guide</a>
@@ -1016,7 +1033,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6759861082">CD’ci: Oyun Al-Sat</a>
@@ -1646,6 +1663,109 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Dispatcher!]]></title>
+        <id>Tokyo Dispatcher!-tr-1776348253830</id>
+        <link href="https://apps.apple.com/tr/app/tokyo-dispatcher/id1642139491?uo=4"/>
+        <updated>2026-04-16T14:04:13.830Z</updated>
+        <summary type="html"><![CDATA[Price: ₺99,99 → ₺49,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tokyo-dispatcher/id1642139491?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/4e/bd/b24ebd0d-dbdc-9145-2997-6730ea989ba0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺99,99</span> → <b>
+  <strong>₺49,99</strong>
+</b><span>[₺2,99 ~ ₺99,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺49,99</b>
+</p><h2>Application Description</h2><p>
+  Run Japan's trains!
+
+No railroad knowledge is required to play "Tokyo Dispatcher!".
+This game is a brain game with simple rules but requires a lot of brain power.
+
+
+Customers are waiting at the station for the trains to arrive to take them to their destinations.
+Start the trains and transport your customers.
+
+You will earn money for every passenger who boards a train.
+Adjust the interval between runs and the number of cars to achieve the highest revenue.
+Departing trains costs money. If you send out too many trains and the boarding rate drops, you will lose your revenue.
+
+The operation method is very easy and the rules are simple.
+All you have to do is adjust the number of train cars and make the trains depart at the best time.
+As the game progresses, express fares will also appear.
+
+No technical knowledge is required at all.
+Both people who like trains and people who like games can quickly understand and enjoy the game.
+
+There are no in-app purchases. There are no ads.
+Please concentrate on the game.
+Share your operating results on social media.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Dispatcher! 2]]></title>
+        <id>Tokyo Dispatcher! 2-tr-1776348253830</id>
+        <link href="https://apps.apple.com/tr/app/tokyo-dispatcher-2/id1659271912?uo=4"/>
+        <updated>2026-04-16T14:04:13.830Z</updated>
+        <summary type="html"><![CDATA[Price: ₺99,99 → ₺49,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tokyo-dispatcher-2/id1659271912?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/2a/1b/602a1be2-5151-01de-9506-5a4b8b8c9ca7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺99,99</span> → <b>
+  <strong>₺49,99</strong>
+</b><span>[₺2,99 ~ ₺99,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺49,99</b>
+</p><h2>Application Description</h2><p>
+  Dispatch Japanese trains!
+
+・Simple brain game
+"Train Dispatcher!2" is a brain game with simple rules. No expertise required.
+Train fans, game fans, everyone can enjoy it.
+
+・To everyone who will become a train dispatcher
+In the morning in Japan, customers are waiting for the arrival of the train to go to work.
+Let's start the train and transport the customers.
+
+・Goal of the game
+Japanese railway companies are for-profit organizations. Let's aim for high operating profit!
+
+・How to make profit
+Fare revenue - Departure cost = Operating profit.
+
+Fare revenue is generated when passengers board at a station.
+Example) If two passengers board a train at a station with a fare of 20, the company receives 40.
+
+Departure costs are charged according to the number of cars when the train departs.
+Example) 30 for a 2-car train, 40 for a 4-car train, and 70 for a 10-car train.
+
+One person can ride in one car.
+Fare revenue is generated when customers board the train.
+Adjust the driving schedule and the number of vehicles to aim for the highest profit.
+Departure costs. If you run too many trains and the occupancy rate drops, you'll lose revenue.
+
+・How to operate
+The game is very easy to operate and the rules are simple.
+All you have to do is adjust the number of train cars and make the trains depart at the best time.
+As the game progresses, various variations such as express trains and transfer stations will appear.
+
+・Volume
+Enjoy over 50 routes.
+Please experience the wide variety of transportation strategies of Japanese railway companies.
+No ads, no charges.
+
+・No ads, no billing
+Please concentrate on the game. Children can also enjoy the game.
+Share your results on Social Media.
+
+・Train lines you can play with
+JR East Japan JR Tokai JR West Japan JR Kyushu Tobu Tokyu Seibu Keio Keikyu Keihan Hankyu Hanshin Kintetsu Meitetsu Odakyu Nankai Seitetsu Sotetsu Keisei Tokyo Metro Osaka Metro Toei Subway Tsukuba Express
+
+・Capacity is about 130MB
+The storage burden is also small. There is no heavy processing at all.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/29/7f/80/297f80d7-ddae-21d2-a8bb-2238d6e27e31/03a4368f-ab82-411e-9d08-e0b9b75ff3cc_en2208x1242KeioInokashira.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/fb/de/b1fbdecf-d954-e1d9-ce2a-c70f7c458cbe/f1af4604-0731-476d-a442-14b2285b8385_en2208x1242TobuTojo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cf/ee/6b/cfee6b52-b064-2a96-78f4-1f327d69aaa3/3069c142-515e-4745-94fe-db1569ff3546_en2208x1242StageChoice.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ef/a8/97/efa897e3-26df-9454-4b46-e03d933fbabc/e1a4b9c7-4071-4fee-b7ed-c3428b1dc07f_en2208x1242JRKagoshima.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/db/7f/a7/db7fa706-1e22-213f-6e50-c99003f980e2/089dc558-cfd3-47c7-a6a8-0b8c3984d235_en2208x1242NankaiHonsen.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d9/73/1f/d9731f91-5832-8e4f-c451-264f68e750a3/e40e23b1-3592-4f6f-be8a-597a51d5d01c_en2732x2048KeioInokashira.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/77/41/82774172-199d-3f54-88ab-d4697ba3dad4/ff5aa210-884b-483d-812d-a12d25f66d9e_en2732x2048TobuTojo.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c3/c3/33/c3c333ca-e638-3244-98dc-e3550e8aa349/40f5f1ce-c5a8-4262-8ef3-141802447094_en2732x2048StageChoice.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/50/b7/8450b7f5-42ac-00f3-880b-631e5af581ff/83658dd2-1b58-44ac-bd40-93e813da96c1_en2732x2048JRKagoshima.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/1f/e9/751fe970-001d-510c-b028-dd369a5185b4/bdbcfb88-b163-4518-aa94-515e9ba227ac_en2732x2048NankaiHonsen.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CD’ci: Oyun Al-Sat]]></title>
