@@ -238,7 +238,7 @@ So far, we've covered `7` `Countries or Regions` and  `1936` `Apps` <br />Push n
 |1708|1667420124|Automatic|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|
 |1707|6757755170|Automatic|❌|水墨武俠：放置江湖|水墨武俠：放置江湖|水墨武俠：放置江湖|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|
 |1706|1098434617|Automatic|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|
-|1705|6743831121|Automatic|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|
+|1705|6743831121|Automatic|图片分割器|图片分割器|图片分割器|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|
 |1704|622398496|Automatic|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|
 |1703|1078875308|Automatic|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|
 |1702|1438531905|Automatic|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|

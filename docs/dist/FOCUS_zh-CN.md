@@ -238,7 +238,7 @@
 |1708|1667420124|自动|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|
 |1707|6757755170|自动|❌|水墨武俠：放置江湖|水墨武俠：放置江湖|水墨武俠：放置江湖|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|
 |1706|1098434617|自动|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|
-|1705|6743831121|自动|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|
+|1705|6743831121|自动|图片分割器|图片分割器|图片分割器|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|
 |1704|622398496|自动|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|
 |1703|1078875308|自动|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|
 |1702|1438531905|自动|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|

@@ -1610,6 +1610,23 @@
     "history": [
       [
         {
+          "timestamp": 1776367532977,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "All-In Module Access": "9,99 €",
+            "SPL Pro Module": "8,99 €",
+            "Polarity Test Module": "3,99 €",
+            "SoundScope VR": "29,99 €",
+            "SPL Graph Module": "9,99 €",
+            "Speaker Distortion": "6,99 €",
+            "ETC Module": "6,99 €",
+            "VU Meter": "2,99 €",
+            "SPL Traffic Light": "9,99 €",
+            "IR Module": "59,99 €"
+          }
+        },
+        {
           "timestamp": 1776360181564,
           "price": 22.99,
           "formattedPrice": "22,99 €",
@@ -25208,6 +25225,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1776367532977,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Unlock all stages": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €"
+          }
+        },
         {
           "timestamp": 1776360181564,
           "price": 0.99,
@@ -88177,7 +88211,7 @@
     ]
   },
   "6743831121": {
-    "name": "图片分割器",
+    "name": "图片分割器 - Image Splitter",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -90122,6 +90156,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776367532977,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775656195976,
