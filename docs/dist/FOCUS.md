@@ -117,7 +117,7 @@ So far, we've covered `7` `Countries or Regions` and  `1936` `Apps` <br />Push n
 |1829|765354760|Automatic|Longman Dict of Modern English|Longman Dict of Modern English|Longman Dict of Modern English|Longman Dict of Modern English|Longman Dict of Modern English|Longman Dict of Modern English|Longman Dict of Modern English|
 |1828|698470765|Automatic|❌|King's League: Odyssey|King's League: Odyssey|King's League: Odyssey|King's League: Odyssey|King's League: Odyssey|King's League: Odyssey|
 |1827|1618333874|Automatic|重生长公主的日常|重生長公主的日常|重生長公主的日常|重生長公主的日常|重生长公主的日常|重生长公主的日常|重生长公主的日常|
-|1826|1640636826|Automatic|Code Blue – CPR & ACLS Timer|Code Blue – CPR & ACLS Timer|Code Blue – CPR & ACLS Timer|Code Blue – CPR & ACLS Timer|Code Blue – CPR & ACLS Timer|Code Blue – CPR & ALS Timer|Código Azul - RCP & ACLS|
+|1826|1640636826|Automatic|Code Blue CPR – ACLS Timer|Code Blue CPR – ACLS Timer|Code Blue CPR – ACLS Timer|Code Blue CPR – ACLS Timer|Code Blue CPR – ACLS Timer|Code Blue CPR – ALS Timer|Código Azul - Timer RCP|
 |1825|6747693300|Automatic|❌|ABYSS BLADE|ABYSS BLADE|ABYSS BLADE|ABYSS BLADE|ABYSS BLADE|ABYSS BLADE|
 |1824|6759861082|Automatic|❌|❌|❌|❌|❌|CD’ci: Oyun Al-Sat|❌|
 |1823|1003788343|Automatic|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-04-15T18:36:06.637Z</updated>
+    <updated>2026-04-16T04:59:03.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-15T18:36:06.638Z</updated>
+        <updated>2026-04-16T04:59:03.877Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 15 Apr 2026 18:36:06 GMT</id>
+        <id>rankingcnThu, 16 Apr 2026 04:59:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-15T18:36:06.639Z</updated>
+        <updated>2026-04-16T04:59:03.877Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1934</b>
+        <b>1936</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1733</b>
+        <b>1735</b>
       </td>
       <td>
         <b>82</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>1078</b>
+        <b>1079</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>916</b>
+        <b>917</b>
       </td>
       <td>
         <b>48</b>
@@ -93,6 +93,31 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id807752194">大提琴调音器专业版 - Cello Tuner Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>音叉</i>：<b>2</b>
+              </li><li>
+                <i>设置</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -115,7 +140,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id764925064">Waterlogue: 照片变画作</a>
@@ -130,31 +155,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>App内购买</span><ol>
               <li>
                 <i>Waterlogue Unlimited（终身）</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id807752194">大提琴调音器专业版 - Cello Tuner Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>设置</i>：<b>1</b>
-              </li><li>
-                <i>音叉</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -462,6 +462,40 @@ feedId:157007849019630592+userId:73658201673997312
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749609393">Computer Basics: PC Guide</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6740115177">破门而入：行动小队</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>21</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
       </td>
       <td>
         <ul>
@@ -917,6 +951,128 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大提琴调音器专业版 - Cello Tuner Pro]]></title>
+        <id>大提琴调音器专业版 - Cello Tuner Pro-cn-1776310445510</id>
+        <link href="https://apps.apple.com/cn/app/%E5%A4%A7%E6%8F%90%E7%90%B4%E8%B0%83%E9%9F%B3%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88-cello-tuner-pro/id807752194?uo=4"/>
+        <updated>2026-04-16T03:34:05.510Z</updated>
+        <summary type="html"><![CDATA[音叉: ¥15.00 → ¥0.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A4%A7%E6%8F%90%E7%90%B4%E8%B0%83%E9%9F%B3%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88-cello-tuner-pro/id807752194?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/2e/90/ea2e9000-c6de-d332-02bd-1a8e8f1431ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>音叉：</strong><span>¥15.00</span> → <b>
+  <strong>¥0.00</strong>
+</b><span>[¥0.00 ~ ¥28.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥68.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    设置：<b>¥15.00</b>
+  </li><li>
+    音叉：<b>¥0.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  容易地及准确地调整大提琴的音色 
+
+· 校准: A392Hz, A415Hz, A432Hz, A440Hz, A441Hz, A442Hz, A443Hz, A444Hz, A466Hz. 
+· 准确 – 以Hz显示频率 
+· 唯一一个适用于64位的调音器 
+· 泛用性高 – 支援iPod touch, iPhone及iPad 
+· 立即加载并提供快速的调音 
+· 最高的反应度 
+· 恒常的更新 
+· 视觉上的指针 – 已调音的弦会发亮 
+· 为Retina显示屏而优化 
+· 直觉上的用家接口和LED调音显示指针 
+
+---
+
+重要通告：iOS7已经开放了在隐私设定里加上麦克风存取的功能。当这程序发出提示的时候，请记得允许麦克风存取的设定。你可以在设定 -> 隐私 -> 麦克风里检查到。谢谢
+
+---
+
+有任何意见？问题？ 
+
+请把任何意见透过我们的网页或者feedback@daikyoujulabs.com传给我们
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/31/87/10/31871044-3557-0bdb-b105-d5b05c90da66/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/e7/f3/69/e7f369a4-9b05-da14-17c6-0e5f7dda0d1a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/47/ac/7e47acbc-5ddc-4650-c237-5b9e90b5130f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/12/80/b8/1280b8a8-d718-3f2b-9dac-ad73a10fc1fb/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d2/88/2b/d2882ba2-ff92-4d60-bf13-745312960385/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/3d/ef/ed3def7d-55fa-0dda-17ee-bf92dff3b9ef/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ee/41/76/ee4176ab-bcaf-076f-39e7-548e8fe8c72c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ab/69/9c/ab699c6d-75f5-c1d8-13a5-2214169b608d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/8e/31/d68e315a-d42e-4598-7a42-d3447bb0ee56/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5b/ac/66/5bac6650-4ef6-f70a-6d3f-6a5140a72575/841989ff-f55d-412f-aa06-de70c7a4e4d5_iPhone_8_Plus-9About.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a8/f1/51/a8f1514f-3752-3740-4c57-40d22aee77f2/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fa/25/92/fa2592c8-45bc-b685-f8c2-2b0e08b1296c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/79/1c/53/791c53e2-25ea-ddfb-e071-13f1335ee75e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/97/7a/36/977a3629-9699-601d-02ac-e7d77af4af68/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/91/75/d391752c-39a0-6fdd-df8d-a9393cab4f1c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/07/bd/72/07bd72d0-972d-86eb-52fd-e38909473814/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/d9/4d/91d94d03-3765-d124-41bf-e39c1ea04c1f/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/ba/b1/8fbab190-41fd-2317-e4db-090d7d7e76dc/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c7/d6/6d/c7d66dcf-0bd2-ed14-2275-f78a54b7477e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/df/2f/f1/df2ff176-9002-88cf-01b8-e9bf164eab72/5c92a5af-9b2f-46b5-af47-bf7d3e857aa5_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-9About.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破门而入：行动小队]]></title>
+        <id>破门而入：行动小队-cn-1776310445510</id>
+        <link href="https://apps.apple.com/cn/app/%E7%A0%B4%E9%97%A8%E8%80%8C%E5%85%A5-%E8%A1%8C%E5%8A%A8%E5%B0%8F%E9%98%9F/id6740115177?uo=4"/>
+        <updated>2026-04-16T03:34:05.510Z</updated>
+        <summary type="html"><![CDATA[价格: ¥12.00 → ¥9.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%A0%B4%E9%97%A8%E8%80%8C%E5%85%A5-%E8%A1%8C%E5%8A%A8%E5%B0%8F%E9%98%9F/id6740115177?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/1c/ed/141ced37-914c-fbc5-843b-4e62bb6e83d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥12.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥6.00 ~ ¥12.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥9.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    DLC：海外行动：<b>¥4.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《破门而入：行动小队》是一款独具特色的2D反恐战术游戏，它将策略的深度与动作的爽快感完美结合。在游戏中，你需要指挥特警小队，在错综复杂的室内环境中直面各种致命威胁。
+
+游戏主要体验在于：
+
+风格迥异的作战成员：6位特警队员各自拥有专属的武器、技能与升级路线，无论是正面强攻还是隐秘行动，都能找到合适的执行者。配合超过60种枪械装备，战术组合千变万化。
+
+拒绝线性的自由挑战：84个关卡无需按部就班，你可以根据任务情况自由选择挑战顺序。面对同一场景，亦可尝试多种通关思路，游戏没有唯一的正确答案。
+
+持续不断的新鲜体验：完成主线任务后，“无尽高塔”模式提供了极高的随机性挑战，而“僵尸入侵”模式则让你在熟悉的战场上，用全新的方式对抗成群的僵尸。
+
+总之，如果你渴望一款能真正让自己运筹帷幄的战术游戏，本作将是绝佳选择。
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怪物乐土]]></title>
+        <id>怪物乐土-cn-1776310445510</id>
+        <link href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4"/>
+        <updated>2026-04-16T03:34:05.510Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/21/9b/36219be2-fb37-182c-8b78-ad2008a532af/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥12.00 ~ ¥18.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥15.00</b>
+</p><h2>应用描述</h2><p>
+  宠物对战与银河恶魔城的融合。在可爱的侧视像素世界中收集和训练怪物，并让其为你作战。
+
+【寻找灵魂使魔，成为你最可靠的冒险伙伴】
+跟随先人的步伐，成为一个怪物饲养人并拯救怪物避难所。借助收集的怪物组建团队，开展史诗般冒险，解锁不断扩张的世界。在成为终极怪物饲养人的过程中，你将揭开威胁着人类与怪物之间和平的谜团。
+
+【探索银河恶魔城式的世界】
+探索银河恶魔城式的世界。借助培养的怪物们各种专属能力，你可以在这个世界上进行探索，拓宽自己视界。砍掉树藤、撞倒墙壁、滑过间隙......在怪物的帮助下，通通不在话下。
+
+【组建你自己的队伍】
+从世界各地孵化、收集和训练怪物，组建自己的组合。每个怪物均具备独有技能树，方便定制你自己的队伍。
+
+【战术3V3作战，激情碰撞】
+有策略地发出进攻命令，发挥最大效果；集中进攻以创造各种连击，反复出招，找到最佳的连击，从而获得最为稀有的怪兽蛋。
+
+【与其他的饲养员联机匹配战斗】
+针锋相对，在线上玩家对战中体验雄壮的战斗，接受技巧与能力的试炼！收集并训练怪物，点满它们的技能树，一路作战，让你的怪物撑到最后！
+
+【联系我们】
+抖音：@良心工作室
+快手：@良心工作室
+B站：@良心工作室
+小红书：@良心工作室
+微博：@良心工作室官方
+Q群：925023982
+
+若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全能记(录音,备忘,流水)]]></title>
