@@ -238,7 +238,7 @@
 |1708|1667420124|自动|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|
 |1707|6757755170|自动|❌|水墨武俠：放置江湖|水墨武俠：放置江湖|水墨武俠：放置江湖|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|
 |1706|1098434617|自动|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|
-|1705|6743831121|自动|图片分割器|图片分割器|图片分割器|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|
+|1705|6743831121|自动|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|图片分割器 - Image Splitter|
 |1704|622398496|自动|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|VBA Guide For Excel|
 |1703|1078875308|自动|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|
 |1702|1438531905|自动|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|
@@ -1848,7 +1848,7 @@
 |98|1595901138|手动|NES 模拟器 - 吞食天地|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|
 |97|1163515895|手动|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账Pro-3秒钟快速记账|
 |96|754105884|手动|NightCap相机|NightCap相機|NightCap相機|NightCap相機|NightCap Camera|NightCap Camera|NightCap Câmera|
-|95|1642364007|手动|海拔指南针|海拔指南针|海拔指南针|海拔指南针|Altitude Compass|Altitude Compass|海拔指南针|
+|95|1642364007|手动|海拔指南针-水印相机|海拔指南针-水印相机|海拔指南针-水印相机|海拔指南针-水印相机|Altitude Compass|Altitude Compass|海拔指南针-水印相机|
 |94|1522215205|手动|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|
 |93|1484181693|手动|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|
 |92|1117998129|手动|2026人体解剖学图谱|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|
