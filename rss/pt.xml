@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-04-17T10:51:23.371Z</updated>
+    <updated>2026-04-17T12:21:04.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-17T10:51:23.371Z</updated>
+        <updated>2026-04-17T12:21:04.057Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 17 Apr 2026 10:51:23 GMT</id>
+        <id>rankingptFri, 17 Apr 2026 12:21:04 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-17T10:51:23.371Z</updated>
+        <updated>2026-04-17T12:21:04.057Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -60,7 +60,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1735</b>
       </td>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1512</b>
       </td>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1248033433">Kingdom Rush Vengeance TD</a>
+        <del>
+          <a href="https://apps.apple.com/pt/app/id1248033433">Kingdom Rush Vengeance TD</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -120,6 +122,23 @@ feedId:206907475259680768+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/pt/app/id6455495086">3D Pinball Space Cadet</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>3</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/pt/app/id401818935">Genius Scan Enterprise - PDF</a>
       </td>
       <td>
@@ -140,7 +159,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id807752194">Afinador de Violoncelo Pro</a>
@@ -165,7 +184,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -188,7 +207,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1659271912">Tokyo Dispatcher! 2</a>
@@ -205,27 +224,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id6444400410">Farming Simulator 23</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6455495086">3D Pinball Space Cadet</a>
+        <a href="https://apps.apple.com/pt/app/id6444400410">Farming Simulator 23</a>
       </td>
       <td>
         <ul>
@@ -1197,7 +1199,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6505058041">Quakeline</a>
+        <a href="https://apps.apple.com/pt/app/id1248033433">Kingdom Rush Vengeance TD</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -1206,12 +1208,41 @@ feedId:206907475259680768+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/pt/app/id6505058041">Quakeline</a>
+      </td>
+      <td>Automatically Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/pt/app/id598581396">Kingdom Rush Frontiers TD</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Pinball Space Cadet]]></title>
+        <id>3D Pinball Space Cadet-pt-1776423848638</id>
+        <link href="https://apps.apple.com/pt/app/3d-pinball-space-cadet/id6455495086?uo=4"/>
+        <updated>2026-04-17T11:04:08.638Z</updated>
+        <summary type="html"><![CDATA[Price: 3,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/3d-pinball-space-cadet/id6455495086?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/26/d2/8e26d2d2-ce38-9f23-d502-2365b2cadf00/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>3,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 3,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Remove Ads：<b>1,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>The table features the player as a member of a space fleet that completes missions to increase rank. Players can attain nine different ranks (listed from lowest to highest): Cadet, Ensign, Lieutenant, Captain, LT Commander, Commander, Commodore, Admiral, and Fleet Admiral. Players accept a mission by hitting "mission targets" which select which mission they will take, and by going up the "launch ramp". Each mission has a set number of things for players to do, such as hitting the "attack bumpers" (which are a set of four bumpers at the top of the table) eight times (this is the "target practice" mission). Some missions involve a number of steps which must be completed in sequence. Missions end either by being completed, or by being aborted due to running out of "fuel", as indicated by the lights in the passage that passes under the launch ramp. The "fuel" lights go out one by one at a time interval, and can be re-lit by having the ball go over them, or all at once by going up the launch ramp again. Upon completing a mission, some of the blue lights in a circle in the middle of the table turn on. When all of the lights in the blue circle turn on, the player's rank increases, and a light in the orange circle turns on.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/57/80/f8578005-047b-16d9-58ac-26681607c836/9253eec4-10a2-4b0d-b733-112971cf4ffd_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.33.54.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/e8/b3/dae8b3c8-33cc-5ec8-9a8c-42b1c3df53ae/c50d9c5b-a981-4259-b235-323033181724_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.10.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/1a/7c/511a7cc9-9ad5-6270-6101-b2ccbf813bbb/f99d0787-d433-44c4-8de5-2ac92f30e9d0_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.16.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/bc/d8/5abcd862-7920-fcda-d056-452bd3514ab3/8c5fadd3-b10c-4985-a5b0-2e15d6a8dc96_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.19.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/01/96/480196b0-a33b-81e2-b77d-36d2a0ab1e3e/1e68d75b-a9cb-4853-b81d-f8973957e4e3_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.22.png/406x228bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aerofly FS Global]]></title>
