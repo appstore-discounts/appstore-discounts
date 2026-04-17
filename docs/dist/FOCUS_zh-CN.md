@@ -1678,7 +1678,7 @@
 |268|6499512726|自动|浮岛冒险|❌|❌|❌|❌|❌|❌|
 |267|6483210281|自动|生物原型|❌|❌|❌|❌|❌|❌|
 |266|6738767322|自动|森丘露营地|❌|❌|❌|❌|❌|❌|
-|265|6737434454|自动|百炼王者|❌|❌|❌|❌|❌|❌|
+|265|6737434454|自动|百炼王者 - 单机暗黑刷装备挂机游戏|❌|❌|❌|❌|❌|❌|
 |264|6743117370|自动|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|❌|
 |263|6740705851|自动|手表变身器-手表游戏集100+多种音效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|Henshin Hero - Game for watch|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
 |262|6743487416|自动|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|Gold Miner - Watch Games|
