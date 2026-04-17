@@ -1531,7 +1531,7 @@ So far, we've covered `7` `Countries or Regions` and  `1936` `Apps` <br />Push n
 |415|1239299402|Automatic|❌|Street Fighter IV CE|Street Fighter IV CE|Street Fighter IV CE|Street Fighter IV CE|Street Fighter IV CE|Street Fighter IV CE|
 |414|1241383990|Automatic|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|Baby Sensory Signbook|
 |413|1247397901|Automatic|❌|奧德瑪|奧德瑪|奧德瑪|Oddmar|Oddmar|Oddmar|
-|412|1248033433|Automatic|❌|王國保衛戰：復仇|王國保衛戰：復仇|王國保衛戰：復仇|Kingdom Rush Vengeance TD Game|Kingdom Rush Vengeance TD|Kingdom Rush Vengeance TD|
+|412| ~~1248033433~~ |Automatic| ~~❌~~ | ~~王國保衛戰：復仇~~ | ~~王國保衛戰：復仇~~ | ~~王國保衛戰：復仇~~ | ~~Kingdom Rush Vengeance TD Game~~ | ~~Kingdom Rush Vengeance TD~~ | ~~Kingdom Rush Vengeance TD~~ |
 |411|1249864455|Automatic|❌|Peace, Death!|Peace, Death!|Peace, Death!|Peace, Death!|Peace, Death!|Peace, Death!|
 |410|1250144822|Automatic|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|玄空飛星羅經 - 專業風水羅盤|
 |409|1259067036|Automatic|❌|發現動物公園|發現動物公園|發現動物公園|Wild Park Manager|Wild Park Manager|Wild Park Manager|
