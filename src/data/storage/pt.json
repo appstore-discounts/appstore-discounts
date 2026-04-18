@@ -57992,6 +57992,14 @@
     "history": [
       [
         {
+          "timestamp": 1776466298121,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774218830196,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -76061,7 +76069,7 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €",
-      "Global scenery - 1 month": "3,99 €",
+      "Global scenery - 1 month": "4,99 €",
       "Boeing 787-10": "1,99 €",
       "Boeing 777-300ER": "1,99 €",
       "Airbus A319": "1,99 €",
@@ -76134,6 +76142,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1776466298121,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 777F": "1,99 €",
+            "EC135": "0,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Junkers Ju 52": "0,99 €",
+            "Robin DR400": "0,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Concorde": "1,99 €"
+          }
+        },
         {
           "timestamp": 1776417939433,
           "price": 0.99,
@@ -81239,6 +81264,25 @@
       "Kacper Pawlak": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776466298121,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Poland Character Bundle": "2,99 €",
+            "Kujawiak": "1,99 €",
+            "Polonaise": "1,99 €",
+            "The Copernicus": "1,99 €",
+            "Orbiting Greatness": "1,99 €",
+            "Regina Kamińska": "1,99 €",
+            "Kacper Pawlak": "1,99 €",
+            "Poland Map": "6,99 €",
+            "Poland Expansion": "7,99 €",
+            "Germany Expansion": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776200546637,

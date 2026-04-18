@@ -1025,7 +1025,7 @@
 |921|1492041539|自动|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|自动|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|自动|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|
-|918|1559871386|自动|ehliyet Sınav Sorular 2022 PRO|ehliyet Sınav Sorular 2022 PRO|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|
+|918|1559871386|自动|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|ehliyet sınav sorular 2026 #1|
 |917|1560779038|自动|伤寒论条阅|伤寒论条阅|伤寒论条阅|伤寒论条阅|伤寒论条阅|伤寒论条阅|伤寒论条阅|
 |916|6450680262|自动|❌|CMSPlayer|CMSPlayer|CMSPlayer|CMSPlayer|CMSPlayer|CMSPlayer|
 |915|6443750571|自动|EmoGuard - 关键字拦截器|EmoGuard - 關鍵字攔截器|EmoGuard - 關鍵字攔截器|EmoGuard - 關鍵字攔截器|EmoGuard - Keyword Blocker|EmoGuard - Keyword Blocker|EmoGuard - Keyword Blocker|
