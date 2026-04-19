@@ -58128,6 +58128,14 @@
     "history": [
       [
         {
+          "timestamp": 1776552176786,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1776466298121,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -64059,6 +64067,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1776552176786,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Content Bundle 1": "9,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €",
+            "Racing Heroes Car Pack": "2,99 €",
+            "Content Bundle 2": "8,99 €",
+            "Steel & Wheels Pack": "1,99 €",
+            "Reckless Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "Off-Road Car Pack": "2,99 €",
+            "Goofy Roofs Pack": "0,99 €"
+          }
+        },
         {
           "timestamp": 1776545170544,
           "price": 9.99,
