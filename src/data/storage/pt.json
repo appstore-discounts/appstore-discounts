@@ -57244,6 +57244,23 @@
     "history": [
       [
         {
+          "timestamp": 1776705257529,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Clã do Boi": "2,99 €",
+            "Pacote de Escamas": "7,99 €",
+            "Clã do Dragão": "2,99 €",
+            "Clã do Lince": "2,99 €",
+            "Clã do Cavalo": "2,99 €",
+            "Clã da Águia": "2,99 €",
+            "Pacote de Peles": "7,99 €",
+            "Clã do Kraken": "2,99 €",
+            "Clã do Rato": "2,95 €",
+            "Clã da Cobra": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1776693666284,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -91772,6 +91789,48 @@
           "timestamp": 1776693666284,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755577839": {
+    "name": "Voice Memos - Merge",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776705257529,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6502634839": {
+    "name": "Dungeon Tracer",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776705257529,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
