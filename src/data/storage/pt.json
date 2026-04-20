@@ -18720,6 +18720,23 @@
     "history": [
       [
         {
+          "timestamp": 1776693666284,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mix It Up": "0,00 €",
+            "The Ellen Show": "0,00 €",
+            "Happy Holidays": "1,99 €",
+            "Just For Kids": "0,00 €",
+            "Ellen Premiere Week in NYC": "1,99 €",
+            "Build Your Own Deck": "2,99 €",
+            "Good News!": "2,99 €",
+            "Ocean Vacation": "0,00 €",
+            "Wish You Were Here": "1,99 €",
+            "Express Yourself": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1776679488500,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -57227,6 +57244,25 @@
     "history": [
       [
         {
+          "timestamp": 1776693666284,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Pacote de Inverno": "7,99 €",
+            "Clã da Águia": "2,99 €",
+            "Clã do Rato": "2,95 €",
+            "Clã do Esquilo": "2,99 €",
+            "Pacote de Peles": "7,99 €",
+            "Pacote de Escamas": "7,99 €",
+            "Clã do Lince": "2,99 €",
+            "Clã do Kraken": "2,99 €",
+            "Clã do Boi": "2,99 €",
+            "Clã do Cavalo": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776200546637,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -91715,6 +91751,27 @@
           "timestamp": 1776293416070,
           "price": 6.99,
           "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758929719": {
+    "name": "婦科考一考（香港中醫考牌）",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776693666284,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
