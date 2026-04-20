@@ -1626,7 +1626,7 @@
 |323|1577392165|自动|❌|Monster Train|Monster Train|Monster Train|Monster Train|Monster Train|Monster Train|
 |322|1578203914|自动|电子宠物机|电子宠物机|电子宠物机|电子宠物机|Peggy Cat - A Virtual Pet|Peggy Cat - A Virtual Pet|电子宠物机|
 |321|1581640677|自动|❌|Football Referee Simulator|Football Referee Simulator|Football Referee Simulator|Football Referee Simulator|Football Referee Simulator|Football Referee Simulator|
-|320|1587674627|自动|爱琳诗篇:异世界冒险 少女放置卡牌手游|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|❌|❌|❌|
+|320|1587674627|自动|绯色终章:异界幻想 少女养成放置卡牌-爱琳诗篇|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|愛琳詩篇:少女養成系 休閒放置二次元卡牌手遊|❌|❌|❌|
 |319|1590622755|自动|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|µBrowser: Watch Web Browser|
 |318|1591627945|自动|❌|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|Papa's Cluckeria To Go!|
 |317|1592505377|自动|❌|Wreckfest|Wreckfest|Wreckfest|Wreckfest|Wreckfest|Wreckfest|
