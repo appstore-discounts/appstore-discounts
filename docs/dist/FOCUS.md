@@ -21,7 +21,7 @@ So far, we've covered `7` `Countries or Regions` and  `1942` `Apps` <br />Push n
 |1931|6761034567|Automatic|❌|影格工坊 Go|影格工坊 Go|影格工坊 Go|FrameForge Go|FrameForge Go|FrameForge Go|
 |1930|6756928654|Automatic|无恙时光记|无恙时光记|无恙时光记|无恙时光记|无恙时光记|无恙时光记|无恙时光记|
 |1929|330247123|Automatic|Sun Seeker - Tracker & Compass|Sun Seeker - Tracker & Compass|Sun Seeker - Tracker & Compass|Sun Seeker - Tracker & Compass|Sun Seeker - Sunlight Tracker|Sun Seeker - Tracker & Compass|Sun Seeker - Tracker & Compass|
-|1928|6761488276|Automatic|❌|CreateDun : 塔防|CreateDun : 塔防|CreateDun : 塔防|CreateDun : Tower Defense|CreateDun : Tower Defense|CreateDun : Tower Defense|
+|1928|6761488276|Automatic|❌|CreateDun：冒險|CreateDun：冒險|CreateDun：冒險|CreateDun : Tower Defense|CreateDun : Tower Defense|CreateDun : Tower Defense|
 |1927|1072737282|Automatic|❌|Space Marshals 2|Space Marshals 2|Space Marshals 2|Space Marshals 2|Space Marshals 2|Space Marshals 2|
 |1926|1017367213|Automatic|❌|Octodad: Dadliest Catch|Octodad: Dadliest Catch|Octodad: Dadliest Catch|Octodad: Dadliest Catch|Octodad: Dadliest Catch|Octodad: Dadliest Catch|
 |1925|1243328998|Automatic|潮州音字典|潮州音字典|潮州音字典|潮州音字典|潮州音字典|潮州音字典|潮州音字典|
