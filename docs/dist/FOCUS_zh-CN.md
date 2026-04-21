@@ -74,7 +74,7 @@
 |1878|6759552301|自动|星环弹珠|星環彈珠|星環彈珠|星環彈珠|Crown Orbit|Crown Orbit|Crown Orbit|
 |1877|6760428230|自动|❌|闲置修仙|闲置修仙|闲置修仙|Idle Cultivation|Idle Cultivation|闲置修仙|
 |1876|1440279996|自动|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|Cross Stitch Saga|
-|1875|6743467531|自动|❌|雞寶小廚神：療癒系餐廳經營|雞寶小廚神：療癒系餐廳經營|雞寶小廚神：療癒系餐廳經營|Cluck 'n Serve: Chef Frenzy|Cluck 'n Serve: Chef Chaos|Frango Feliz: Chef de Cozinha|
+|1875|6743467531|自动|我一点都不可口|雞寶小廚神：療癒系餐廳經營|雞寶小廚神：療癒系餐廳經營|雞寶小廚神：療癒系餐廳經營|Cluck 'n Serve: Chef Frenzy|Cluck 'n Serve: Chef Chaos|Frango Feliz: Chef de Cozinha|
 |1874|6760900452|自动|❌|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|紙鴿 - 藍牙離線通訊，斷網也能傳話|
 |1873|6759628841|自动|MeowList Todo List & Planner|MeowList 待辦清單甜點圖鑑|MeowList 待辦清單甜點圖鑑|MeowList 待辦清單甜點圖鑑|MeowList Todo List & Planner|MeowList Todo List & Planner|❌|
 |1872|1577498043|自动|14PX|14PX|14PX|14PX|14PX|14PX|14PX|
