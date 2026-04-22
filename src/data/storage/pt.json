@@ -564,6 +564,25 @@
     "history": [
       [
         {
+          "timestamp": 1776837902353,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 gold": "1,99 €",
+            "10,000 gold": "0,99 €",
+            "100,000 coins": "3,99 €",
+            "15000 eggs": "2,99 €",
+            "5000 eggs": "1,99 €",
+            "500 eggs": "0,99 €",
+            "10000 candies": "2,99 €",
+            "1000 candies": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776207189815,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -76871,7 +76890,8 @@
       "Swift": "0,99 €",
       "Junkers Ju 52": "0,99 €",
       "ASG29": "0,99 €",
-      "F4U Corsair": "0,99 €"
+      "F4U Corsair": "0,99 €",
+      "Extra 330": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -76908,9 +76928,29 @@
       "Swift": "0,99 €",
       "Junkers Ju 52": "0,99 €",
       "ASG29": "0,99 €",
-      "F4U Corsair": "0,99 €"
+      "F4U Corsair": "0,99 €",
+      "Extra 330": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776837902353,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A321": "1,99 €",
+            "CRJ900": "0,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Extra 330": "0,99 €",
+            "Concorde": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Airbus A319": "1,99 €",
+            "Boeing 777-300ER": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776742248783,
@@ -82116,6 +82156,25 @@
       "Kacper Pawlak": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776837902353,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Poland Character Bundle": "2,99 €",
+            "Kujawiak": "1,99 €",
+            "Polonaise": "1,99 €",
+            "The Copernicus": "1,99 €",
+            "Orbiting Greatness": "1,99 €",
+            "Regina Kamińska": "1,99 €",
+            "Kacper Pawlak": "1,99 €",
+            "Poland Map": "6,99 €",
+            "Poland Expansion": "7,99 €",
+            "Germany Expansion": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776482274394,
