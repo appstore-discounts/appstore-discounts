@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-04-22T18:35:15.306Z</updated>
+    <updated>2026-04-22T20:47:09.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-22T18:35:15.306Z</updated>
+        <updated>2026-04-22T20:47:09.247Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkWed, 22 Apr 2026 18:35:15 GMT</id>
+        <id>rankinghkWed, 22 Apr 2026 20:47:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-22T18:35:15.306Z</updated>
+        <updated>2026-04-22T20:47:09.248Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -1470,6 +1470,31 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>77</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6740698426">Empires Game</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>New Clan</i>：<b>1</b>
+              </li><li>
+                <i>New Hero</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2157,6 +2182,42 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empires Game]]></title>
+        <id>Empires Game-hk-1776885856050</id>
+        <link href="https://apps.apple.com/hk/app/empires-game/id6740698426?uo=4"/>
+        <updated>2026-04-22T19:24:16.050Z</updated>
+        <summary type="html"><![CDATA[New Clan: HK$ 148.00 → HK$ 38.00<br/>New Hero: HK$ 88.00 → HK$ 22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/empires-game/id6740698426?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/7e/13/9b7e13fc-deac-629c-3ac4-989a9f0e38d2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>New Clan：</strong><span>HK$ 148.00</span> → <b>
+  <strong>HK$ 38.00</strong>
+</b><span>[HK$ 38.00 ~ HK$ 148.00]</span>
+  </li><li>
+    <strong>New Hero：</strong><span>HK$ 88.00</span> → <b>
+  <strong>HK$ 22.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 88.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 22.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Privilege：<b>HK$ 8.00</b>
+  </li><li>
+    New Clan：<b>HK$ 38.00</b>
+  </li><li>
+    New Hero：<b>HK$ 22.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  This is a single-session, save-file turn-based strategy game inspired by the gameplay mechanics of Heroes of Might and Magic, featuring fast-paced auto-chess mode combat.
+
+The game is set in the Age of Empires universe and features multiple civilizations, each reflecting the unique characteristics of historical nations such as French, Chinese, Ancient Roman, and others。 The game adopts  Q-style pixel art aesthetic, blending cute character proportions with retro-inspired visual presentation.
+
+Within each session, players must strategically develop their homeland, train heroes, build armies, explore dynamic maps, and employ tactical combinations to outmaneuver opponents and achieve final victory
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ScoreMaster 萬用桌遊計分助手]]></title>
