@@ -2,6 +2,14 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6502953520,
+      "name": {
+        "us": "Control Ultimate Edition",
+        "pt": "Control Ultimate Edition"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6760682298,
       "name": {
         "pt": "Sneezy - Rastreador de Pólen"

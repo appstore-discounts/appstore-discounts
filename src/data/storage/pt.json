@@ -28602,6 +28602,20 @@
     "history": [
       [
         {
+          "timestamp": 1776898472224,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "700.000 ouro": "99,99 €",
+            "60,000 Gold": "9,99 €",
+            "325.000 ouro": "49,99 €",
+            "25.000 ouro": "3,99 €",
+            "125.000 ouro": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1774392005900,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -49907,6 +49921,14 @@
     "history": [
       [
         {
+          "timestamp": 1776898472224,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774392005900,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -54479,6 +54501,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776898472224,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774392005900,
@@ -62552,6 +62582,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776898472224,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776033791174,
@@ -75047,10 +75085,18 @@
       "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776898472224,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767580158024,
@@ -89045,6 +89091,14 @@
     "history": [
       [
         {
+          "timestamp": 1776898472224,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1773787282615,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -92595,6 +92649,27 @@
           "timestamp": 1776866427869,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6502953520": {
+    "name": "Control Ultimate Edition",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1776898472224,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
