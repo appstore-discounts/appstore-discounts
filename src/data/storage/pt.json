@@ -25348,6 +25348,31 @@
       ]
     ]
   },
+  "924438909": {
+    "name": "ProShot",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €",
+      "Donation": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €",
+      "Donation": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777050395660,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Donation": "5,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "924695435": {
     "name": "Pixelmator Classic iOS",
     "maxPriceInfo": {
@@ -92267,6 +92292,14 @@
     "history": [
       [
         {
+          "timestamp": 1777050395660,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Monthly subscription": "14,99 €"
+          }
+        },
+        {
           "timestamp": 1777001675344,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -92918,6 +92951,27 @@
           "timestamp": 1776898472224,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6743021613": {
+    "name": "电视直播-手机电视节目表、电视导航",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777050395660,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
           "inAppPurchases": {}
         }
       ]
