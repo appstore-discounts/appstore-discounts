@@ -37231,6 +37231,14 @@
     "history": [
       [
         {
+          "timestamp": 1776984944582,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774651254621,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -49910,6 +49918,14 @@
     "history": [
       [
         {
+          "timestamp": 1776984944582,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774651254621,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -56638,14 +56654,22 @@
   "1512838461": {
     "name": "DayCircle - Day counter",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776984944582,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776638644816,
@@ -61098,6 +61122,17 @@
       "Rallycross Circuits": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776984944582,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Conteúdos Pacote 1": "2,99 €",
+            "Rallycross Circuits": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766975134604,
@@ -92707,14 +92742,22 @@
   "6502634839": {
     "name": "Dungeon Tracer",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1776984944582,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776705257529,
