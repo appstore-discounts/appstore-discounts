@@ -34152,6 +34152,25 @@
     "history": [
       [
         {
+          "timestamp": 1777001675344,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Liberar Excelência": "5,99 €",
+            "Modo Dinheiro Dobrado": "21,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776828534047,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -46181,10 +46200,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777001675344,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -72875,6 +72902,14 @@
     "history": [
       [
         {
+          "timestamp": 1777001675344,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774564723175,
           "price": 4.59,
           "formattedPrice": "4,59 €",
@@ -92183,6 +92218,16 @@
       "Monthly subscription": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777001675344,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Monthly subscription": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776246153510,
