@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1948` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1950` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1950|1533473030|Automatic|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|
+|1949|6762740657|Automatic|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|
 |1948|924438909|Automatic|ProShot|ProShot|ProShot|ProShot|ProShot|ProShot|ProShot|
 |1947|6743021613|Automatic|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|
 |1946|6762764584|Automatic|韩ִ小ֹ圈：韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|❌|❌|❌|
