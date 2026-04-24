@@ -69075,12 +69075,23 @@
       "Monthly Subscription": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Yearly Subscription": "4,99 €",
       "Monthly Subscription": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777038898729,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Yearly Subscription": "7,99 €",
+            "Monthly Subscription": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774218830196,
