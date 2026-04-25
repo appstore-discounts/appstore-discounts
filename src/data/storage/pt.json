@@ -51084,6 +51084,18 @@
     "history": [
       [
         {
+          "timestamp": 1777123247350,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "300 Altitude Query Times": "3,99 €",
+            "100 Altitude Query Times": "2,99 €",
+            "Lifetime Premium": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773888745831,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -86918,6 +86930,25 @@
     "history": [
       [
         {
+          "timestamp": 1777123247350,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (D)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (C)": "6,99 €",
+            "Weapon Upgrade Ticket x1 (F)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (E)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (C)": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776026754960,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -88416,14 +88447,22 @@
   "6748850927": {
     "name": "PowerNFC",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777123247350,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764469234125,
@@ -93289,6 +93328,58 @@
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761328517": {
+    "name": "Dungeon Within",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "Ark of Eternity": "34,99 €",
+      "Pioneer of the Abyss": "9,99 €",
+      "Time Traveler": "6,99 €",
+      "Essence of Transcendence": "34,99 €",
+      "Underworld Expansion Pass": "6,99 €",
+      "Essence of the Abyss": "22,99 €",
+      "Essence of Beginning": "22,99 €",
+      "Beginning of the Abyss": "9,99 €",
+      "Beginning of Growth": "9,99 €",
+      "Moonveil Skin Set": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "Ark of Eternity": "34,99 €",
+      "Pioneer of the Abyss": "9,99 €",
+      "Time Traveler": "6,99 €",
+      "Essence of Transcendence": "34,99 €",
+      "Underworld Expansion Pass": "6,99 €",
+      "Essence of the Abyss": "22,99 €",
+      "Essence of Beginning": "22,99 €",
+      "Beginning of the Abyss": "9,99 €",
+      "Beginning of Growth": "9,99 €",
+      "Moonveil Skin Set": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777123247350,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Ark of Eternity": "34,99 €",
+            "Pioneer of the Abyss": "9,99 €",
+            "Time Traveler": "6,99 €",
+            "Essence of Transcendence": "34,99 €",
+            "Underworld Expansion Pass": "6,99 €",
+            "Essence of the Abyss": "22,99 €",
+            "Essence of Beginning": "22,99 €",
+            "Beginning of the Abyss": "9,99 €",
+            "Beginning of Growth": "9,99 €",
+            "Moonveil Skin Set": "6,99 €"
+          }
         }
       ]
     ]
