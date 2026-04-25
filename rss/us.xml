@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-04-24T18:31:09.295Z</updated>
+    <updated>2026-04-25T09:03:20.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-24T18:31:09.296Z</updated>
+        <updated>2026-04-25T09:03:20.499Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 24 Apr 2026 18:31:09 GMT</id>
+        <id>rankingusSat, 25 Apr 2026 09:03:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-04-24T18:31:09.296Z</updated>
+        <updated>2026-04-25T09:03:20.499Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1948</b>
+        <b>1950</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1747</b>
+        <b>1749</b>
       </td>
       <td>
         <b>83</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1803</b>
+        <b>1805</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1627</b>
+        <b>1629</b>
       </td>
       <td>
         <b>66</b>
@@ -95,6 +95,29 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1572719445">Hello Tower</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Airport Pack</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id6455495086">3D Pinball Space Cadet</a>
       </td>
       <td>
@@ -109,7 +132,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id807752194">Cello Tuner Professional</a>
@@ -134,7 +157,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -157,7 +180,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
@@ -168,29 +191,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1572719445">Hello Tower</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Airport Pack</i>：<b>2</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -2221,6 +2221,45 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hello Tower]]></title>
+        <id>Hello Tower-us-1777102768370</id>
+        <link href="https://apps.apple.com/us/app/hello-tower/id1572719445?uo=4"/>
+        <updated>2026-04-25T07:39:28.370Z</updated>
+        <summary type="html"><![CDATA[Airport Pack: $1.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hello-tower/id1572719445?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/6f/43/d16f433e-c24f-c04e-c513-5431a3183804/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Airport Pack：</strong><span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Airport Pack：<b>$0.99</b>
+  </li><li>
+    Sandbox test：<b>$0.99</b>
+  </li><li>
+    Hello Tower Test：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Airport ground maneuvering simulation of more than 40 different airports including 
+London Heathrow LHR, Philadelphia PHL, Miami Intl. MIA, Singapore, New York JFK, Las Vegas LAS, São Paulo GRU, Montreal YUL, Boston BOS,  and many more. 
+
+Different versions of airports included:
+- Play the simplified version, where the airport is scaled down to an easy playable experience.
+- Play the real thing. Here the whole airport is in real size displayed, where all your skills are required.
+
+Features
+- Give pushback, taxi, holding and take-off clearances. 
+- Handle emergencies and try to release all flights on time in order to release the next level.
+
+From an easy single-runway operation at the beginning to demanding hub airports with multiple active runways where all your skills are required.  
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/32/9f/ed329f2f-a199-df34-3fb4-a45553b5abc1/66a399fc-33dc-4e09-a0a0-aa8fa23a28f4_55_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/cb/f2/c7cbf235-5290-220a-db07-6c38ba10f345/3be44f81-2260-48de-9dec-9ddd365af3ca_55_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/fc/62/c9fc6249-9ab3-fad9-ac8e-3695f751fc7f/079121bb-f667-40a3-b38d-dbac70614ee3_55_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/c2/93/25c2935e-0dcd-bdb5-5e98-68f98b4da723/cee28945-ada3-443e-a41d-e019353c40c8_55_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/79/e8/2879e8ee-7d28-455c-95a5-d143f8af45af/94c18aad-95b8-44e0-be12-a51734e889ba_55_05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/6e/f1/f66ef13b-78af-d51a-3e3e-6dd15f3e721b/55_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/f6/17/cef617fb-af54-e31c-6f04-4fa9bbdbea4c/55_3.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ff/30/27ff3030-7828-09f6-3920-50d950ab7fc4/144318a4-3da7-4c2a-b150-c89079434998_129_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/6f/da/d86fda1a-0557-68f3-97ca-c3f64898a8ae/822bb84e-092a-4dcb-8367-62c8f6e423a0_129_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/68/68/b868683f-60b0-da97-bc7f-89c4f272d0e2/093c54ca-c4b8-4a6d-a6be-eb9a71b75b9f_129_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/9d/43/809d438f-6f52-7501-0a50-61de821617b5/09736231-9b16-4ec7-b28c-d959e5d4b080_129_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/22/52/cf22521c-2b12-1769-7f92-6c36c1c06fd3/f0c8dcd7-5e68-4db9-abbc-eecc9696f64a_129_05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/5c/85/eb5c8551-d679-295b-0bd9-8e56d5f4c1df/13_1png.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/6a/58/1c6a5866-f75e-0387-06e6-b3ed840c236c/13_2.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Notteka | AI Meeting Notes]]></title>
         <id>Notteka | AI Meeting Notes-us-1777050395660</id>
         <link href="https://apps.apple.com/us/app/notteka-ai-meeting-notes/id6751122124?uo=4"/>
@@ -2976,33 +3015,5 @@ Six Core Features:
 * Versus Timer (Chess Clock): Dedicated 2-player turn timer. Say goodbye to slow play and keep competitive matches fair.
 Download ScoreMaster today and make your next game night smoother and more professional!
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luck be a Landlord]]></title>
-        <id>Luck be a Landlord-us-1776828534047</id>
-        <link href="https://apps.apple.com/us/app/luck-be-a-landlord/id6450724928?uo=4"/>
-        <updated>2026-04-22T03:28:54.047Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/luck-be-a-landlord/id6450724928?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/c2/5d/c0c25dca-32fd-68db-ca65-bc8fe60fb5a6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$2.49 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$3.99</b>
-</p><h2>Application Description</h2><p>
-  Defeat your landlord in this slot machine roguelike deckbuilder!
-
-Your landlord is knocking on your door. You have one coin left to your name. You insert the coin into your slot machine...and...JACKPOT! Luck be a Landlord, tonight!
-
-Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.
-
-Features:
-152 Symbols
-227 Items
-186 Achievements
-20 Apartment Floors
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/24/4f/2a/244f2ae0-e550-2e8b-a957-72fd7b69c367/e2ab7fa9-f4d6-4443-b7f4-74a8e022aa15_en1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d1/ae/3f/d1ae3f3c-42d6-e5c7-ba9a-2fd3cfb7c247/e258fb8e-ac68-4185-9c0d-06c623609dfc_en2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6c/e1/48/6ce14827-9ceb-c97b-f55b-27b32153cac4/88bf629b-d97f-4b60-89ef-464d1605d870_en3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6f/a7/9f6fa72b-7b5a-9d18-9048-31aed223b528/eee2614f-3a61-4ea4-8031-4dac11c39fdb_en4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a1/00/10/a100105a-d00f-26d4-c055-05a9aacbfab4/bee2ba77-5699-4d8b-a4e5-aca7a85b4a4d_en5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3b/23/b5/3b23b54c-617e-f072-8999-51d981efb451/c8a17e0c-65b5-45d7-84e5-b93155d96ef9_en1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/91/08/1d/91081d33-d9ff-0005-14aa-00ef2485ee9f/236f504d-fc78-4c3e-a837-753b9a3c998e_en2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/92/7d/3e/927d3e7f-cb0f-7fe6-8d97-bb46817e328d/3f265dbb-fda9-4663-9393-6a208061128d_en3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3b/68/ee/3b68ee6f-0fd4-2abc-7884-43cafe4de340/cdeda961-40b4-4c3c-bbc4-b3eba265f11a_en4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7e/5d/df/7e5ddf40-9bca-825c-5ba6-a698cb4acb3f/b70087ef-15e3-4dea-a826-1946f7b3207c_en5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
