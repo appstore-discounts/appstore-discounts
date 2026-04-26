@@ -20006,14 +20006,22 @@
   "625334537": {
     "name": "Geometry Dash",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777174884063,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -77967,6 +77975,25 @@
       "Airbus A321 XLR": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777174884063,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Robinson R-22": "0,99 €",
+            "Airbus A321": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A321 XLR": "3,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777150168053,
