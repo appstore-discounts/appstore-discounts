@@ -618,7 +618,7 @@
 |1345|1661526326|自动|PediaTools|PediaTools|PediaTools|PediaTools|PediaTools|PediaTools|PediaTools|
 |1344|6748683190|自动|❌|Eco Power Towns （生態小鎮電力計畫）|Eco Power Towns （生態小鎮電力計畫）|Eco Power Towns （生態小鎮電力計畫）|Eco Power Towns|Eco Power Towns|Eco Power Towns|
 |1343|351058026|自动|通胜 300年版|通勝 300年版|通勝 300年版|通勝 300年版|通勝 300年版|通勝 300年版|通勝 300年版|
-|1342|1642139491|自动|❌|東京電車|東京電車|東京電車|Tokyo Dispatcher!|Tokyo Dispatcher!|Tokyo Dispatcher!|
+|1342|1642139491|自动|❌|東京電車|東京電車|東京電車|Tokyo Train!|Tokyo Train!|Tokyo Train!|
 |1341|402405770|自动|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|
 |1340|445270462|自动|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|❌|
 |1339|6469603539|自动|❌|All of You|All of You|All of You|All of You|All of You|All of You|

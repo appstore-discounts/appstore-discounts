@@ -618,7 +618,7 @@ So far, we've covered `7` `Countries or Regions` and  `1953` `Apps` <br />Push n
 |1345|1661526326|Automatic|PediaTools|PediaTools|PediaTools|PediaTools|PediaTools|PediaTools|PediaTools|
 |1344|6748683190|Automatic|❌|Eco Power Towns （生態小鎮電力計畫）|Eco Power Towns （生態小鎮電力計畫）|Eco Power Towns （生態小鎮電力計畫）|Eco Power Towns|Eco Power Towns|Eco Power Towns|
 |1343|351058026|Automatic|通胜 300年版|通勝 300年版|通勝 300年版|通勝 300年版|通勝 300年版|通勝 300年版|通勝 300年版|
-|1342|1642139491|Automatic|❌|東京電車|東京電車|東京電車|Tokyo Dispatcher!|Tokyo Dispatcher!|Tokyo Dispatcher!|
+|1342|1642139491|Automatic|❌|東京電車|東京電車|東京電車|Tokyo Train!|Tokyo Train!|Tokyo Train!|
 |1341|402405770|Automatic|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|
 |1340|445270462|Automatic|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|❌|
 |1339|6469603539|Automatic|❌|All of You|All of You|All of You|All of You|All of You|All of You|
