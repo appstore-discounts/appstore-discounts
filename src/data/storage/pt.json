@@ -20406,16 +20406,31 @@
     ]
   },
   "657016140": {
-    "name": "Good Maps - for Google Maps,with Offline Map,Directions,Street views",
+    "name": "Good Maps: Trails, Street View",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "GoodMaps(1 year)": "7,99 €",
+      "Monthly": "0,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "GoodMaps(1 year)": "7,99 €",
+      "Monthly": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777183990817,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "GoodMaps(1 year)": "7,99 €",
+            "Monthly": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

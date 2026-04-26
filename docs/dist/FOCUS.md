@@ -1464,7 +1464,7 @@ So far, we've covered `7` `Countries or Regions` and  `1952` `Apps` <br />Push n
 |498|634235735|Automatic|❌|Duet Game|Duet Game|Duet Game|Duet Game|Duet Game|Duet Game|
 |497|640364616|Automatic|❌|❌|❌|❌|Terraria|Terraria|Terraria|
 |496|646256209|Automatic|Photo Eraser|照片橡皮擦|照片橡皮擦|照片橡皮擦|Photo Eraser for iPhone|Photo Eraser for iPhone|Photo Eraser for iPhone|
-|495|657016140|Automatic|Good Maps - 谷歌地图,离线,街景,公交,地铁,导航|Good Maps - Google地圖,3D,離線,全球街景,公交,地鐵,導航|Good Maps - Google地圖,3D,離線,全球街景,公交,地鐵,導航|Good Maps - Google地圖,3D,離線,全球街景,公交,地鐵,導航|Good Maps - for Google Maps, with Offline Map, Directions, Street Views and More|Good Maps - for Google Maps, with Offline Map, Directions, Street Views and More|Good Maps - for Google Maps,with Offline Map,Directions,Street views|
+|495|657016140|Automatic|Good Maps: 徒步路线与街景地图|Good Maps - 登山路線與街景地圖|Good Maps - 登山路線與街景地圖|Good Maps - 登山路線與街景地圖|Good Maps: Trails,Street View|Good Maps: Trails,Street View|Good Maps: Trails, Street View|
 |494|679044544|Automatic|AndroMoney|理財幫手 AndroMoney|理財幫手 AndroMoney|理財幫手 AndroMoney|AndroMoney|AndroMoney|AndroMoney|
 |493|687236545|Automatic|Adv. Learner’s Dictionary (TC)|劍橋高階英漢雙解詞典：英語— 繁體中文|劍橋高階英漢雙解詞典：英語— 繁體中文|劍橋高階英漢雙解詞典：英語— 繁體中文|Adv. Learner’s Dictionary (TC)|Adv. Learner’s Dictionary (TC)|Adv. Learner’s Dictionary (TC)|
 |492|697885605|Automatic|❌|❌|❌|常春藤基礎英文字彙|常春藤基礎英文字彙|常春藤基礎英文字彙|常春藤基礎英文字彙|
