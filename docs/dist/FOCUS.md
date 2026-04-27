@@ -1667,7 +1667,7 @@ So far, we've covered `7` `Countries or Regions` and  `1955` `Apps` <br />Push n
 |298|1642601792|Automatic|❌|The Past Within|The Past Within|The Past Within|The Past Within|The Past Within|The Past Within|
 |297|1642733080|Automatic|❌|DungeonSquad|DungeonSquad|DungeonSquad|DungeonSquad|DungeonSquad|DungeonSquad|
 |296|1643199620|Automatic|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|Any Text · Widgets|
-|295|1659271912|Automatic|❌|東京電車２|東京電車２|東京電車２|Tokyo Dispatcher! 2|Tokyo Dispatcher! 2|Tokyo Dispatcher! 2|
+|295|1659271912|Automatic|❌|東京電車２|東京電車２|東京電車２|Tokyo Train! 2|Tokyo Train! 2|Tokyo Train! 2|
 |294| ~~1659316190~~ |Automatic| ~~钢铁战队(R)~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |293|1662217862|Automatic|Wipr 2|Wipr 2|Wipr 2|Wipr 2|Wipr 2|Wipr 2|Wipr 2|
 |292|1665706687|Automatic|❌|Underground Blossom|Underground Blossom|Underground Blossom|Underground Blossom|Underground Blossom|Underground Blossom|
