@@ -288,6 +288,27 @@
       ]
     ]
   },
+  "299216019": {
+    "name": "Translator with Voice",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777299185454,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "299342927": {
     "name": "PocketPhonics (basic edition)",
     "maxPriceInfo": {
@@ -23075,6 +23096,17 @@
       "Configurações": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777299185454,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Diapasão": "0,00 €",
+            "Configurações": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776742248783,
@@ -74732,6 +74764,25 @@
     "history": [
       [
         {
+          "timestamp": 1777299185454,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "0,99 €",
+            "Santa Claws Pack": "4,99 €",
+            "Under the Tree location": "1,99 €",
+            "Santa Claws Emoji Pack": "0,99 €",
+            "All Wrapped Up outfit": "1,99 €",
+            "Snow Globe Outfit": "1,99 €",
+            "Mystic Mayhem Location": "0,99 €",
+            "MysticMayhem Cauldron Creature": "1,99 €",
+            "Mystic Mayhem Emoji Pack": "1,99 €",
+            "Mystic Mayhem Card Back": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776200546637,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -93273,6 +93324,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777299185454,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776578624110,
