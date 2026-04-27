@@ -9946,6 +9946,14 @@
     "history": [
       [
         {
+          "timestamp": 1777285435278,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767688816852,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -20513,12 +20521,23 @@
       "Monthly": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "GoodMaps(1 year)": "7,99 €",
       "Monthly": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777285435278,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "GoodMaps(1 year)": "7,99 €",
+            "Monthly": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777183990817,
@@ -55841,6 +55860,14 @@
     "history": [
       [
         {
+          "timestamp": 1777285435278,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1766479103256,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -55878,6 +55905,14 @@
     "history": [
       [
         {
+          "timestamp": 1777285435278,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1766479103256,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -55913,6 +55948,14 @@
       "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777285435278,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1766479103256,
@@ -60827,6 +60870,14 @@
     "history": [
       [
         {
+          "timestamp": 1777285435278,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767688816852,
           "price": 22.99,
           "formattedPrice": "22,99 €",
@@ -62436,6 +62487,14 @@
       "formattedPrice": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777285435278,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767688816852,
