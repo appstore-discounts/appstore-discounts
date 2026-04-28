@@ -11198,6 +11198,25 @@
     "history": [
       [
         {
+          "timestamp": 1777371742983,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter N": "3,99 €",
+            "Chapter D": "5,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter 10": "5,99 €",
+            "Chapter 9": "5,99 €",
+            "Chapter S": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776937847571,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -68007,6 +68026,27 @@
           "timestamp": 1767185811544,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1604675493": {
+    "name": "Descenders",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777371742983,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]

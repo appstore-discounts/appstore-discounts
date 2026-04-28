@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1955` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1957` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1957|1604675493|Automatic|❌|Descenders|Descenders|Descenders|Descenders|Descenders|Descenders|
+|1956|6762970009|Automatic|❌|❌|❌|❌|❌|Otoparkçı|❌|
 |1955|480517945|Automatic|X-Anatomy Pro|X-Anatomy Pro|X-Anatomy Pro|X-Anatomy Pro|X-Anatomy Pro|X-Anatomy Pro|❌|
 |1954|299216019|Automatic|Translator with Voice|Translator with Voice|Translator with Voice|Translator with Voice|Translator with Voice|Translator with Voice|Translator with Voice|
 |1953|1387167006|Automatic|❌|Алфавит: азбука для детей 2+|Алфавит: азбука для детей 2+|Алфавит: азбука для детей 2+|Алфавит: азбука для детей 2+|Алфавит: азбука для детей 2+|Алфавит: азбука для детей 2+|
