@@ -859,7 +859,7 @@ So far, we've covered `7` `Countries or Regions` and  `1958` `Apps` <br />Push n
 |1109|6740190367|Automatic|Biu 空气手枪|Biu 空氣手槍|Biu 空氣手槍|Biu 空氣手槍|Biu Gun|Biu|Biu|
 |1108|6743826237|Automatic|墨转 - AI文档格式转换|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|MarkFlow: AI Format Engine|MarkFlow: AI Format Engine|MarkFlow: AI Format Engine|
 |1107|6742744417|Automatic|❌|魔窟-無盡的地下城|魔窟-無盡的地下城|魔窟-無盡的地下城|❌|❌|❌|
-|1106|1572719445|Automatic|❌|Hello Tower|Hello Tower|Hello Tower|Hello Tower|Hello Tower|Hello Tower|
+|1106| ~~1572719445~~ |Automatic| ~~❌~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ |
 |1105|6448971229|Automatic|❌|記算工資|記算工資|記算工資|Salary|Salary|❌|
 |1104|973113361|Automatic|❌|Rummikub®|Rummikub®|Rummikub®|Rummikub®|Rummikub®|Rummikub®|
 |1103|549027629|Automatic|❌|Super Hexagon|Super Hexagon|Super Hexagon|Super Hexagon|Super Hexagon|Super Hexagon|

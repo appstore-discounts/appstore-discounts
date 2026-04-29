@@ -859,7 +859,7 @@
 |1109|6740190367|自动|Biu 空气手枪|Biu 空氣手槍|Biu 空氣手槍|Biu 空氣手槍|Biu Gun|Biu|Biu|
 |1108|6743826237|自动|墨转 - AI文档格式转换|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|墨轉 - AI文檔格式轉換|MarkFlow: AI Format Engine|MarkFlow: AI Format Engine|MarkFlow: AI Format Engine|
 |1107|6742744417|自动|❌|魔窟-無盡的地下城|魔窟-無盡的地下城|魔窟-無盡的地下城|❌|❌|❌|
-|1106|1572719445|自动|❌|Hello Tower|Hello Tower|Hello Tower|Hello Tower|Hello Tower|Hello Tower|
+|1106| ~~1572719445~~ |自动| ~~❌~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ | ~~Hello Tower~~ |
 |1105|6448971229|自动|❌|記算工資|記算工資|記算工資|Salary|Salary|❌|
 |1104|973113361|自动|❌|Rummikub®|Rummikub®|Rummikub®|Rummikub®|Rummikub®|Rummikub®|
 |1103|549027629|自动|❌|Super Hexagon|Super Hexagon|Super Hexagon|Super Hexagon|Super Hexagon|Super Hexagon|
