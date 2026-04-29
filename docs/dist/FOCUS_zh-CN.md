@@ -236,7 +236,7 @@
 |1732|335454448|自动|❌|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|
 |1731|6744179489|自动|❌|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Soccer|Referee Simulator : Football|Referee Simulator : Football|
 |1730|6572290447|自动|❌|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|
-|1729|6455495086|自动|❌|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|
+|1729|6455495086|自动|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|
 |1728|6749826892|自动|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|自动|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|自动|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
@@ -629,7 +629,7 @@
 |1339|6469603539|自动|❌|All of You|All of You|All of You|All of You|All of You|All of You|
 |1338|1537782938|自动|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|
 |1337|446760220|自动|❌|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|
-|1336|1067575393|自动|照片橡皮擦 - 去除水印杂物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|Image Eraser - Inpaint & heal|Image Eraser - Inpaint & heal|Image Eraser - Inpaint & heal|
+|1336| ~~1067575393~~ |自动| ~~照片橡皮擦 - 去除水印杂物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ |
 |1335|311768443|自动|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
 |1334|453126527|自动|Flashnote Derby 识谱竞速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby|Flashnote Derby|Flashnote Derby|
 |1333|1236657805|自动|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|❌|
