@@ -308,11 +308,11 @@
   },
   "hk": {
     "327742738": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
-        "La Biblia": 2,
-        "日本聖書": 2,
+        "La Biblia": 3,
+        "日本聖書": 3,
         "La Bible": 1
       }
     },
@@ -2608,6 +2608,14 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1290687550": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "CAPSO": 1,
+        "Ilka": 1
+      }
+    },
     "1291429551": {
       "all": 1,
       "price": 1,
@@ -2700,6 +2708,11 @@
       "inAppPurchase": {}
     },
     "1492049794": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1499001662": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -2865,11 +2878,11 @@
       "inAppPurchase": {}
     },
     "6742472194": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Five Blooms": 1,
-        "Ground of No Return": 1
+        "Five Blooms": 2,
+        "Ground of No Return": 2
       }
     },
     "6444400410": {
@@ -3017,6 +3030,20 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6702013134": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6471947612": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "劇情模式": 1,
+        "自由模式": 1,
+        "故事模式+自由模式合集": 1
+      }
     }
   },
   "pt": {
@@ -3149,6 +3176,15 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1290687550": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "CAPSO": 1,
+        "Ilka": 1,
+        "Alice": 1
+      }
+    },
     "1291429551": {
       "all": 1,
       "price": 1,
@@ -3237,6 +3273,11 @@
       "inAppPurchase": {}
     },
     "1492049794": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1499001662": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -3397,11 +3438,11 @@
       "inAppPurchase": {}
     },
     "6742472194": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Five Blooms": 1,
-        "Ground of No Return": 1
+        "Five Blooms": 2,
+        "Ground of No Return": 2
       }
     },
     "6444400410": {
@@ -3538,6 +3579,20 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6702013134": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6471947612": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "劇情模式": 1,
+        "自由模式": 1,
+        "故事模式+自由模式合集": 1
+      }
     }
   }
 }
