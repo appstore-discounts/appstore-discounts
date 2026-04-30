@@ -5553,6 +5553,27 @@
       ]
     ]
   },
+  "392486160": {
+    "name": "Samurai 2: Vengeance",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777558450612,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "392531952": {
     "name": "倉頡解碼",
     "maxPriceInfo": {
@@ -59622,6 +59643,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1777558450612,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Clã do Lince": "2,99 €",
+            "Pacote de Escamas": "7,99 €",
+            "Clã do Dragão": "2,99 €",
+            "Clã do Cavalo": "2,99 €",
+            "Clã da Águia": "2,99 €",
+            "Pacote de Peles": "7,99 €",
+            "Clã do Kraken": "2,99 €",
+            "Clã do Boi": "2,99 €",
+            "Clã do Rato": "2,95 €",
+            "Clã da Cobra": "2,99 €"
+          }
+        },
         {
           "timestamp": 1777543998844,
           "price": 8.99,
