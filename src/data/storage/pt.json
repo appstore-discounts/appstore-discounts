@@ -68319,14 +68319,22 @@
   "1600925588": {
     "name": "GR Linker - Image Sync",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777530797367,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -95541,6 +95549,27 @@
             "MARY专属弹幕": "0,99 €",
             "对不起，我是警察": "5,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6760950124": {
+    "name": "Duty Court",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777530797367,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
