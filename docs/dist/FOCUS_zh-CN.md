@@ -236,7 +236,7 @@
 |1732|335454448|自动|❌|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|
 |1731|6744179489|自动|❌|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Soccer|Referee Simulator : Football|Referee Simulator : Football|
 |1730|6572290447|自动|❌|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|
-|1729|6455495086|自动|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|
+|1729| ~~6455495086~~ |自动| ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ |
 |1728|6749826892|自动|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|自动|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|自动|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|

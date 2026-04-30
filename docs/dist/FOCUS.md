@@ -236,7 +236,7 @@ So far, we've covered `7` `Countries or Regions` and  `1958` `Apps` <br />Push n
 |1732|335454448|Automatic|❌|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|
 |1731|6744179489|Automatic|❌|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Soccer|Referee Simulator : Football|Referee Simulator : Football|
 |1730|6572290447|Automatic|❌|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|
-|1729|6455495086|Automatic|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|3D Pinball Space Cadet|
+|1729| ~~6455495086~~ |Automatic| ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ |
 |1728|6749826892|Automatic|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|Automatic|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|Automatic|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
