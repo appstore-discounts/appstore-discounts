@@ -3914,6 +3914,25 @@
     "history": [
       [
         {
+          "timestamp": 1777608085578,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1777261603217,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -21554,6 +21573,25 @@
       "MILI collection Vol.3": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777608085578,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "3,99 €",
+            "Rayark Selection Vol.1": "3,99 €",
+            "V.K Collection": "3,99 €",
+            "Forgotten Hourglass": "9,99 €",
+            "MILI Collection": "3,99 €",
+            "M2U X NICODE Collection": "3,99 €",
+            "Sakuzyo Collection": "3,99 €",
+            "Knight Iris": "3,99 €",
+            "Cytus Selection Vol.1": "3,99 €",
+            "Brian Crain Collection": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777589932661,
@@ -53435,7 +53473,8 @@
       "Transylvania Prismatic Token Bundle": "11,99 €",
       "Wolf Prismatic Token": "3,49 €",
       "Throne Prismatic Token": "3,49 €",
-      "Goblet Prismatic Token": "3,49 €"
+      "Goblet Prismatic Token": "3,49 €",
+      "The Ultimate Edition Welcome Offer": "24,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -53575,9 +53614,29 @@
       "Transylvania Prismatic Token Bundle": "11,99 €",
       "Wolf Prismatic Token": "3,49 €",
       "Throne Prismatic Token": "3,49 €",
-      "Goblet Prismatic Token": "3,49 €"
+      "Goblet Prismatic Token": "3,49 €",
+      "The Ultimate Edition Welcome Offer": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777608085578,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777236598724,
@@ -65789,10 +65848,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777608085578,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
