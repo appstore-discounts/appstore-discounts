@@ -47395,6 +47395,25 @@
     "history": [
       [
         {
+          "timestamp": 1777655116769,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pic Say Poster Pack": "0,99 €",
+            "Insta Poster Pack": "0,99 €",
+            "Always Font Pack": "0,00 €",
+            "Unique Font Pack": "0,99 €",
+            "Reason Font Pack": "0,00 €",
+            "Path Font Pack": "0,00 €",
+            "Wisdom Font Pack": "0,00 €",
+            "Just Font Pack": "0,00 €",
+            "Future Font Pack": "0,00 €",
+            "Perfect Poster Pack": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776207189815,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -96115,6 +96134,27 @@
           "timestamp": 1777634035508,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6443700499": {
+    "name": "Colorir Halloween Crianças",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777655116769,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
