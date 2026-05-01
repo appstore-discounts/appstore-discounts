@@ -542,7 +542,7 @@ So far, we've covered `7` `Countries or Regions` and  `1963` `Apps` <br />Push n
 |1431|1563156209|Automatic|❌|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|
 |1430|6443875944|Automatic|❌|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|
 |1429|348553940|Automatic|Matthew Henry Commentary|Matthew Henry Commentary|Matthew Henry Commentary|Matthew Henry Commentary|Matthew Henry Commentary|❌|❌|
-|1428|6749698268|Automatic|小易决策-选择困难小救星|小易决策-选择困难小救星|小易决策-选择困难小救星|小易决策-选择困难小救星|乾坤易趣|乾坤易趣|小易决策-选择困难小救星|
+|1428|6749698268|Automatic|小易决策-选择困难小救星|小易决策-选择困难小救星|小易决策-选择困难小救星|小易决策-选择困难小救星|小易决策-选择困难小救星|小易决策-选择困难小救星|小易决策-选择困难小救星|
 |1427|1492041417|Automatic|❌|FINAL FANTASY IV|FINAL FANTASY IV|FINAL FANTASY IV|FINAL FANTASY IV|FINAL FANTASY IV|FINAL FANTASY IV|
 |1426|6504041194|Automatic|空调遥控器-格力空调遥控器|空调遥控器-格力空调遥控器|空调遥控器-格力空调遥控器|空调遥控器-格力空调遥控器|AirControl-Gel aircondition|AirControl-Gel aircondition|AirControl-Gel aircondition|
 |1425|911654012|Automatic|❌|Kanazawa Shogi 2|Kanazawa Shogi 2|Kanazawa Shogi 2|Kanazawa Shogi 2|Kanazawa Shogi 2|Kanazawa Shogi 2|
