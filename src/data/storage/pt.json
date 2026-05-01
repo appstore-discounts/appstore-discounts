@@ -12056,10 +12056,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777589932661,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -21548,6 +21556,25 @@
     "history": [
       [
         {
+          "timestamp": 1777589932661,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "3,99 €",
+            "Ayatsugu_Otowa Collection": "3,99 €",
+            "Sherwin Collection": "3,99 €",
+            "Capchii Collection": "3,99 €",
+            "VII Bundle 06": "14,99 €",
+            "VII Bundle 05": "11,99 €",
+            "VII Bundle 03": "7,99 €",
+            "VII Bundle 02": "5,99 €",
+            "VII Bundle 04": "9,99 €",
+            "VII Bundle 01": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776207189815,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -26500,6 +26527,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777589932661,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773009134766,
@@ -38173,6 +38208,14 @@
       "formattedPrice": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777589932661,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1769971615127,
@@ -70937,6 +70980,14 @@
     "history": [
       [
         {
+          "timestamp": 1777589932661,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1773527686130,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -71071,7 +71122,7 @@
       "price": 1.99,
       "formattedPrice": "1,99 €",
       "Yearly Subscription": "9,99 €",
-      "Monthly Subscription": "1,99 €"
+      "Monthly Subscription": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -71080,6 +71131,17 @@
       "Monthly Subscription": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777589932661,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Yearly Subscription": "9,99 €",
+            "Monthly Subscription": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777038898729,
@@ -77372,10 +77434,18 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777589932661,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
