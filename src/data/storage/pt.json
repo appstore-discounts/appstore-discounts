@@ -5486,10 +5486,18 @@
       "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777634035508,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -8045,6 +8053,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1777634035508,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Acoustic Guitars": "0,99 €",
+            "Brazil Bass": "1,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Voices": "0,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Sliced Beats": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "Drumaxx": "1,99 €",
+            "PsyTrance": "2,99 €"
+          }
+        },
         {
           "timestamp": 1777623705852,
           "price": 17.99,
@@ -13392,7 +13417,17 @@
       "Fast Response EMTs": "0,99 €",
       "Strategic Fundraiser": "0,99 €",
       "Surto": "3,99 €",
-      "Desbloquear gene Imitação Genética": "0,99 €"
+      "Desbloquear gene Imitação Genética": "0,99 €",
+      "Alien Chemistry": "0,99 €",
+      "Atmospheric Interference": "0,99 €",
+      "Void Signal": "0,99 €",
+      "Brittle Lattice": "0,99 €",
+      "Quantum Obfuscation": "0,99 €",
+      "Synaptic Pulse": "0,99 €",
+      "Lattice Shedding": "0,99 €",
+      "Crystal Overclock": "0,99 €",
+      "Magnetic Siphon": "0,99 €",
+      "Harmonic Vibrations": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -13419,9 +13454,38 @@
       "Fast Response EMTs": "0,99 €",
       "Strategic Fundraiser": "0,99 €",
       "Surto": "3,99 €",
-      "Desbloquear gene Imitação Genética": "0,99 €"
+      "Desbloquear gene Imitação Genética": "0,99 €",
+      "Alien Chemistry": "0,99 €",
+      "Atmospheric Interference": "0,99 €",
+      "Void Signal": "0,99 €",
+      "Brittle Lattice": "0,99 €",
+      "Quantum Obfuscation": "0,99 €",
+      "Synaptic Pulse": "0,99 €",
+      "Lattice Shedding": "0,99 €",
+      "Crystal Overclock": "0,99 €",
+      "Magnetic Siphon": "0,99 €",
+      "Harmonic Vibrations": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777634035508,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Alien Chemistry": "0,99 €",
+            "Atmospheric Interference": "0,99 €",
+            "Void Signal": "0,99 €",
+            "Brittle Lattice": "0,99 €",
+            "Quantum Obfuscation": "0,99 €",
+            "Synaptic Pulse": "0,99 €",
+            "Lattice Shedding": "0,99 €",
+            "Crystal Overclock": "0,99 €",
+            "Magnetic Siphon": "0,99 €",
+            "Harmonic Vibrations": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776261306798,
@@ -15004,6 +15068,25 @@
       "Mission 34 Gold": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777634035508,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mission 37 Gold": "2,99 €",
+            "Mission 36 Gold": "2,99 €",
+            "Mission 37 Demo": "0,99 €",
+            "Mission 36 Demo": "0,99 €",
+            "Mission 36 Skip": "1,99 €",
+            "Mission 35 Skip": "1,99 €",
+            "Mission 35 Gold": "2,99 €",
+            "Mission 35 Demo": "0,99 €",
+            "Mission 34 Skip": "1,99 €",
+            "Mission 34 Gold": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777405819418,
@@ -19648,6 +19731,25 @@
       "Friends": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777634035508,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Holiday Offer Spring 2026": "22,99 €",
+            "AAPI Music Deck": "1,99 €",
+            "AAPI Films Deck": "1,99 €",
+            "AAPI Month Bundle": "6,99 €",
+            "Heads Up! - BYO Free Deck": "0,00 €",
+            "DIY Bundle": "9,99 €",
+            "Heads Up! - BYO Free Deck B": "0,00 €",
+            "AAPI Month Bundle Sale": "5,99 €",
+            "Welcome Offer 50 Decks": "22,99 €",
+            "Holiday Offer St Patrick's Day": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777484635511,
@@ -35380,6 +35482,24 @@
     "history": [
       [
         {
+          "timestamp": 1777634035508,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Powers Pro Second Set Pack": "9,99 €",
+            "Frontier Legends": "14,99 €",
+            "Frontier Legends Sale": "6,99 €",
+            "Havoc Staff Booster Sale": "1,99 €",
+            "Skeletor Obyn Prestige Pack": "7,99 €",
+            "Havoc Staff Booster": "3,99 €",
+            "Powers Pro Launch Pack": "9,99 €",
+            "Desperado Unlock Pack": "8,99 €",
+            "She-Ra Prestige Pack Sale": "7,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1777521003026,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -39041,6 +39161,25 @@
       "A Large Bag of Gems": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777634035508,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Promoção Pack 5": "17,99 €",
+            "Promover Pack 4": "9,99 €",
+            "Promover Pack 3": "8,99 €",
+            "Promover Pack 2": "5,99 €",
+            "Promover Pacote 1": "2,99 €",
+            "Ranhura Mochila Dupla": "1,99 €",
+            "Genius Big Deal Pack": "1,99 €",
+            "Boxer Big Deal Pack": "1,99 €",
+            "Double Bonus": "1,99 €",
+            "A Large Bag of Gems": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776207189815,
@@ -65116,6 +65255,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1777634035508,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Lisa character": "0,00 €",
+            "Founders Pack": "0,99 €",
+            "Marco character": "0,99 €",
+            "Gloria skin": "0,99 €",
+            "Jorge skin": "0,99 €",
+            "Daniel skin": "0,99 €",
+            "Reyna skin": "0,99 €",
+            "Purple menu color": "3,99 €",
+            "Red menu color": "1,99 €",
+            "Yellow menu color": "0,99 €"
+          }
+        },
         {
           "timestamp": 1777623705852,
           "price": 1.99,
@@ -95853,6 +96009,27 @@
           "timestamp": 1777578180666,
           "price": 22.99,
           "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761730635": {
+    "name": "DNA Altering",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777634035508,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]
