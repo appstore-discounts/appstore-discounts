@@ -1407,7 +1407,8 @@
       "全能版": "22,99 €",
       "星平合参": "1,99 €",
       "五行能量趋势图": "22,99 €",
-      "易仙问道": "22,99 €"
+      "易仙问道": "22,99 €",
+      "七政四余分析": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -1415,9 +1416,24 @@
       "全能版": "0,99 €",
       "星平合参": "1,99 €",
       "五行能量趋势图": "22,99 €",
-      "易仙问道": "22,99 €"
+      "易仙问道": "22,99 €",
+      "七政四余分析": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777623705852,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "七政四余分析": "3,99 €",
+            "易仙问道": "22,99 €",
+            "五行能量趋势图": "22,99 €",
+            "星平合参": "1,99 €",
+            "全能版": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775023187788,
@@ -8028,6 +8044,25 @@
       "Groove Machine Synth": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777623705852,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Ferrous Mobile": "2,99 €",
+            "Hyper-Pop Mobile": "2,99 €",
+            "Chip-Tune Mobile": "2,99 €",
+            "Essential Winds": "1,99 €",
+            "Essential Strings": "1,99 €",
+            "DubTechno": "1,99 €",
+            "Chill-Lo-Fi Mobile": "1,99 €",
+            "Technocraft": "1,99 €",
+            "Brazil Bass": "1,99 €",
+            "PsyTrance": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776207189815,
@@ -65082,6 +65117,25 @@
     "history": [
       [
         {
+          "timestamp": 1777623705852,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Daniel skin": "0,99 €",
+            "Reyna skin": "0,99 €",
+            "Jorge skin": "0,99 €",
+            "Gloria skin": "0,99 €",
+            "Purple menu color": "3,99 €",
+            "Red menu color": "1,99 €",
+            "Yellow menu color": "0,99 €",
+            "James character": "0,99 €",
+            "Lisa character": "0,00 €",
+            "Elsa character": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776200546637,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -94814,13 +94868,28 @@
     "name": "DualShot Recorder",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Advanced Annual": "9,99 €",
+      "Advanced Mensal": "1,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "formattedPrice": "7,99 €",
+      "Advanced Annual": "9,99 €",
+      "Advanced Mensal": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777623705852,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Advanced Annual": "9,99 €",
+            "Advanced Mensal": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774942748833,
