@@ -72084,6 +72084,14 @@
     "history": [
       [
         {
+          "timestamp": 1777702498520,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1777310837567,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -96359,6 +96367,48 @@
           "timestamp": 1777676137234,
           "price": 34.99,
           "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747752407": {
+    "name": "Gambonanza",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777702498520,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6765511365": {
+    "name": "24 Hour Wish: Reach Wish Timer",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777702498520,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
