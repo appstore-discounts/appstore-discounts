@@ -3039,7 +3039,8 @@
       "Fisheye SnapPak": "0,99 €",
       "Multi-Exposure Kit": "0,99 €",
       "Tintype SnapPak": "0,99 €",
-      "Groupie SnapPak": "0,99 €"
+      "Groupie SnapPak": "0,99 €",
+      "Jimbocho HipstaPak": "1,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -3077,9 +3078,29 @@
       "Fisheye SnapPak": "0,99 €",
       "Multi-Exposure Kit": "0,99 €",
       "Tintype SnapPak": "0,99 €",
-      "Groupie SnapPak": "0,99 €"
+      "Groupie SnapPak": "0,99 €",
+      "Jimbocho HipstaPak": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777713247276,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Jimbocho HipstaPak": "1,99 €",
+            "Mers Sultan HipstaPak": "1,99 €",
+            "HipstaBoy SnapPak": "1,99 €",
+            "Príncipe Real HipstaPak": "1,99 €",
+            "Coyoacán HipstaPak": "1,99 €",
+            "Ohara HipstaPak": "1,99 €",
+            "RetroPak 2022": "7,99 €",
+            "RetroPak 2023": "9,99 €",
+            "RetroPak Twenty-One": "5,99 €",
+            "Highland Park HipstaPak": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776207189815,
@@ -95324,12 +95345,23 @@
       "Advanced Mensal": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Advanced Annual": "9,99 €",
       "Advanced Mensal": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1777713247276,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Advanced Annual": "9,99 €",
+            "Advanced Mensal": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777623705852,
