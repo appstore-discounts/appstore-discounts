@@ -22271,6 +22271,25 @@
     "history": [
       [
         {
+          "timestamp": 1777676137234,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "17,99 €",
+            "Racing Prodigy X30 Atlanta": "17,99 €",
+            "Racing Prodigy X30 Kart Dubai": "17,99 €",
+            "Racing Prodigy X30 B. Vegas": "17,99 €",
+            "Racing Prodigy 50 Quali Tyres": "5,99 €",
+            "10 Pack Qualifying Tyres": "0,99 €",
+            "Figo 100 Octane Fuel Pack - 20": "3,99 €",
+            "Le Cont Hards - 40 Tyre Pack": "3,99 €",
+            "Le Cont Mediums - 40 Tyre Pack": "3,99 €",
+            "Le Cont Softs - 40 Tyres Pack": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1776223598194,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -68008,6 +68027,14 @@
     "history": [
       [
         {
+          "timestamp": 1777676137234,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1777070968184,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -96218,6 +96245,27 @@
           "timestamp": 1777655116769,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760909640": {
+    "name": "MultiDraw - Predict Anything",
+    "maxPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "minPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1777676137234,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
           "inAppPurchases": {}
         }
       ]
