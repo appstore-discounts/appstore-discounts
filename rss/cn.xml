@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-05-03T00:16:09.342Z</updated>
+    <updated>2026-05-03T05:07:13.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-03T00:16:09.343Z</updated>
+        <updated>2026-05-03T05:07:13.542Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 03 May 2026 00:16:09 GMT</id>
+        <id>rankingcnSun, 03 May 2026 05:07:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-03T00:16:09.344Z</updated>
+        <updated>2026-05-03T05:07:13.543Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -129,14 +129,22 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1141282192">Advanced Comprehension Therapy</a>
+        <a href="https://apps.apple.com/cn/app/id966489322">生辰 — 桌面时间小组件</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>永久会员</i>：<b>1</b>
+              </li><li>
+                <i>生辰-季度会员</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -146,7 +154,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6738767315">便利店开业日记</a>
+        <a href="https://apps.apple.com/cn/app/id1141282192">Advanced Comprehension Therapy</a>
       </td>
       <td>
         <ul>
@@ -163,7 +171,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6738767322">森丘露营地</a>
+        <a href="https://apps.apple.com/cn/app/id6738767315">便利店开业日记</a>
       </td>
       <td>
         <ul>
@@ -178,6 +186,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6738767322">森丘露营地</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6761159805">DualShot Recorder</a>
@@ -654,6 +679,73 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
+        <id>生辰 — 桌面时间小组件-cn-1777780585478</id>
+        <link href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
+        <updated>2026-05-03T03:56:25.478Z</updated>
+        <summary type="html"><![CDATA[永久会员: ¥98.00 → ¥88.00<br/>生辰-季度会员: ¥88.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/22/b2/9c22b2da-69ae-ad21-7299-3ae40fcd7042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>永久会员：</strong><span>¥98.00</span> → <b>
+  <strong>¥88.00</strong>
+</b><span>[¥88.00 ~ ¥128.00]</span>
+  </li><li>
+    <strong>生辰-季度会员：</strong><span>¥88.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥22.00 ~ ¥88.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    生辰年度会员：<b>¥78.00</b>
+  </li><li>
+    月度会员：<b>¥15.00</b>
+  </li><li>
+    永久会员：<b>¥88.00</b>
+  </li><li>
+    生辰-季度会员：<b>¥22.00</b>
+  </li><li>
+    生辰-年度会员：<b>¥88.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  这是一款关于生、死、心愿与延续的App。
+
+小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
+时针转动，生命流逝，但每一次心跳都可以更加有力。
+
+有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
+而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+
+生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+
+- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
+- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
+- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+
+美国诗人纳·斯待尔在87岁那年写道：
+"如果我能够从头活过，我会试着犯更多的错。
+我会放松一点，我会灵活一点。
+我会爬更多的山，游更多的河，看更多的日落。"
+
+因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+
+【生辰 App 会员服务说明】
+
+1.会员包含几种订购类型
+订阅周期：1个月、3个月、12个月
+2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
+3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
+4.生辰App 会员协议
+生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
+5.生辰App 软件协议与隐私政策
+生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
+生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大提琴调音器专业版 - Cello Tuner Pro]]></title>
@@ -1198,43 +1290,5 @@ Q群：334233839
 
 若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络调试精灵]]></title>
-        <id>网络调试精灵-cn-1777521003026</id>
-        <link href="https://apps.apple.com/cn/app/%E7%BD%91%E7%BB%9C%E8%B0%83%E8%AF%95%E7%B2%BE%E7%81%B5/id1461652639?uo=4"/>
-        <updated>2026-04-30T03:50:03.026Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%BD%91%E7%BB%9C%E8%B0%83%E8%AF%95%E7%B2%BE%E7%81%B5/id1461652639?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/e9/b7/6be9b7e4-42b8-6ea1-7d68-607ac63cb14f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    捐赠可乐，支持我们：<b>¥6.00</b>
-  </li><li>
-    送上咖啡，支持开发者：<b>¥22.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  网络调试工具是一款TCP&UDP通信调试工具，工具功能丰富，界面清晰，简单易用。可以协助网络运维人员、程序开发工作者调试网络。主要功能包括：
-1. 集成TCP客户端、服务端；UDP客户端、服务端
-2. 支持Ping命令
-3. 支持Ping监控(定時自动Ping指定服务器)
-4. 支持组播
-5. 支持UDP广播
-6. 支持端口扫描(Port Scan)
-7. 支持Trace Route
-8. 支持局域网IP扫描
-9. 支持Whois功能
-10. 支持命令面板
-11. 多客户端链接同时管理
-12. 定时自动发送报文
-13. 支持16进制、UTF-8、Unicode、GBK字符编码切换
-14. 自动缓存上次发送报文
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/68/7d/5f/687d5f45-5b71-d7b5-34f7-66c0d9d52a23/0f11e7e5-01ea-4438-8714-359879509dd3_iPhone6_-_dark_-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/1a/33/ab1a33d2-3545-5b90-02af-6b71ebc94707/65740b3e-9389-4b29-93aa-3ded697cb704_iPhone6_-_dark_-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/af/f7/5a/aff75af1-4760-fe9f-4396-09b49be052d3/72cb35d5-eb22-4673-bc18-d0f90d8dfeca_iPhone6_-_dark_-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/81/4f/29814fd5-5c8c-ecba-08d4-dcf56110853d/495f0827-2d9c-4e27-980d-c1adedea49c9_iPhone6_-_dark_-4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/12/6d/eb126df6-fe35-5132-e856-261f0fcdfe55/7b7f2227-59b5-4970-8275-b3ff04501401_iPad1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c2/4b/be/c24bbe30-4f67-e55e-6006-47f0a0caf0df/cfc1605b-335d-4a0a-9ea9-bd45ea6a6249_iPad2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/47/78/e94778ae-7924-fd6e-7d44-18b0016accb8/9d87dd97-28a5-4a52-b479-681b4102e8f6_iPad3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/01/a5/73/01a5735e-306c-7b00-c2bf-e586cd4b5795/5449b976-3c41-49c1-b7ab-ca8bcdeb49a9_iPad4.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
