@@ -1162,7 +1162,7 @@ So far, we've covered `7` `Countries or Regions` and  `1968` `Apps` <br />Push n
 |816|1319618742|Automatic|❌|Getting Over It|Getting Over It|Getting Over It|Getting Over It|Getting Over It|Getting Over It|
 |815|1423115391|Automatic|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|
 |814|6474207287|Automatic|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
-|813|497880658|Automatic|J23 - 发布日期和补货|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Datas de Lançamento|
+|813|497880658|Automatic|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|
 |812|1108935309|Automatic|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
 |811|1410053842|Automatic|小渔排班 - 倒班工作者的专属日历|小漁輪班|小漁輪班|小漁輪班|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|
 |810|1519508653|Automatic|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
