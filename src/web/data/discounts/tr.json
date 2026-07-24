@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6748885060,
+    "region": "tr",
+    "timestamp": 1784900628957,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺19,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6748885060",
+    "trackName": "Acgbg~Anime Bg Wallpaper",
+    "firstRecordedAt": 1754936378013
+  },
+  {
     "trackId": 1330717186,
     "region": "tr",
     "timestamp": 1784844203152,
@@ -18209,7 +18229,7 @@
         "name": "Price",
         "from": "₺49,99",
         "to": "₺19,99",
-        "range": "[₺19,99 ~ ₺49,99]"
+        "range": "[Free ~ ₺49,99]"
       }
     ],
     "price": 19.99,

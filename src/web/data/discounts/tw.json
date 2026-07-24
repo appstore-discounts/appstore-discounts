@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6748885060,
+    "region": "tw",
+    "timestamp": 1784900628957,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6748885060",
+    "trackName": "Acgbg~動漫背景壁紙庫",
+    "firstRecordedAt": 1754936378013
+  },
+  {
     "trackId": 730712409,
     "region": "tw",
     "timestamp": 1784844203152,
@@ -17535,7 +17555,7 @@
         "name": "Price",
         "from": "$30.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $30.00]"
+        "range": "[免費 ~ $30.00]"
       }
     ],
     "price": 10,

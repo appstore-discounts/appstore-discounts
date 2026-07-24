@@ -60648,14 +60648,22 @@
   "1410053842": {
     "name": "小渔排班 - 倒班工作者的专属日历",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784900628957,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763491120102,
@@ -93464,11 +93472,19 @@
       "限時解鎖合集 - 惑星": "0,49 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "限時解鎖合集 - 惑星": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784900628957,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1769869893982,
