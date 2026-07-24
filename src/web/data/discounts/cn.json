@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1410053842,
+    "region": "cn",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥8.00]"
+      }
+    ],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1410053842",
+    "trackName": "小渔排班 - 倒班工作者的专属日历",
+    "firstRecordedAt": 1745453324134
+  },
+  {
+    "trackId": 1644917705,
+    "region": "cn",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥30.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥30.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1644917705",
+    "trackName": "无处遁形：全网公敌",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6748885060,
+    "region": "cn",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥3.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6748885060",
+    "trackName": "Acgbg~动漫背景壁纸库",
+    "firstRecordedAt": 1754936378013
+  },
+  {
     "trackId": 6550914957,
     "region": "cn",
     "timestamp": 1784860637377,
@@ -9928,7 +9988,7 @@
         "name": "Price",
         "from": "¥8.00",
         "to": "¥3.00",
-        "range": "[¥3.00 ~ ¥8.00]"
+        "range": "[免费 ~ ¥8.00]"
       }
     ],
     "price": 3,

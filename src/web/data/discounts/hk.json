@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "hk",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 2.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 1644917705,
+    "region": "hk",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1644917705",
+    "trackName": "無處遁形：全網公敵",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6748885060,
+    "region": "hk",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 3.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 6.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6748885060",
+    "trackName": "Acgbg~動漫背景壁紙庫",
+    "firstRecordedAt": 1754936378013
+  },
+  {
     "trackId": 730712409,
     "region": "hk",
     "timestamp": 1784844203152,
@@ -17448,7 +17508,7 @@
         "name": "Price",
         "from": "HK$ 6.00",
         "to": "HK$ 3.00",
-        "range": "[HK$ 3.00 ~ HK$ 6.00]"
+        "range": "[免費 ~ HK$ 6.00]"
       }
     ],
     "price": 3,

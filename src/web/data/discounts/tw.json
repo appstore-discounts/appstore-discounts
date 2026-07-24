@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "tw",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$10.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 1644917705,
+    "region": "tw",
+    "timestamp": 1784911300077,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1644917705",
+    "trackName": "無處遁形：全網公敵",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 6748885060,
     "region": "tw",
     "timestamp": 1784900628957,
