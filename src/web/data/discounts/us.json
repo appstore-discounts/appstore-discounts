@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 966489322,
+    "region": "us",
+    "timestamp": 1788638313964,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "永久会员",
+        "from": "$14.99",
+        "to": "$12.99",
+        "range": "[$12.99 ~ $19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id966489322",
+    "trackName": "生辰 — 桌面时间小组件",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 675049147,
     "region": "us",
     "timestamp": 1788628272448,

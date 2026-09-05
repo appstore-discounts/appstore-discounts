@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 966489322,
+    "region": "cn",
+    "timestamp": 1788638313964,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "永久会员",
+        "from": "¥98.00",
+        "to": "¥88.00",
+        "range": "[¥88.00 ~ ¥128.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "生辰-季度会员",
+        "from": "¥88.00",
+        "to": "¥22.00",
+        "range": "[¥22.00 ~ ¥88.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id966489322",
+    "trackName": "生辰 — 桌面时间小组件",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 6449003064,
     "region": "cn",
     "timestamp": 1788619201969,
