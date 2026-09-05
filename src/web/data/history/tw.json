@@ -59288,6 +59288,14 @@
     "history": [
       [
         {
+          "timestamp": 1788628272448,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786807169008,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -260270,6 +260278,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788628272448,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 12 months": "$690.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737-800": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788602462583,
