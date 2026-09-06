@@ -4788,14 +4788,22 @@
     "trackName": "通勝 300年版",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 69.99,
-      "formattedPrice": "69,99 €"
+      "price": 79.99,
+      "formattedPrice": "79,99 €"
     },
     "minPriceInfo": {
       "price": 69.99,
       "formattedPrice": "69,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 79.99,
+          "formattedPrice": "79,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -129820,13 +129828,52 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "PadLab Full App": "8,99 €",
+      "PadLab Worship Complete": "7,99 €",
+      "Worship Drum Collection": "3,99 €",
+      "Coleção Completa de Pads": "5,99 €",
+      "Worship EFX": "0,99 €",
+      "Worship 808": "0,99 €",
+      "Worship Cinematic": "0,99 €",
+      "Worship Drum Kit 3": "0,99 €",
+      "Worship Drum Kit 2": "0,99 €",
+      "Worship Drum Kit 1": "0,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "PadLab Full App": "8,99 €",
+      "PadLab Worship Complete": "7,99 €",
+      "Worship Drum Collection": "3,99 €",
+      "Coleção Completa de Pads": "5,99 €",
+      "Worship EFX": "0,99 €",
+      "Worship 808": "0,99 €",
+      "Worship Cinematic": "0,99 €",
+      "Worship Drum Kit 3": "0,99 €",
+      "Worship Drum Kit 2": "0,99 €",
+      "Worship Drum Kit 1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "PadLab Full App": "8,99 €",
+            "PadLab Worship Complete": "7,99 €",
+            "Worship Drum Collection": "3,99 €",
+            "Coleção Completa de Pads": "5,99 €",
+            "Worship EFX": "0,99 €",
+            "Worship 808": "0,99 €",
+            "Worship Cinematic": "0,99 €",
+            "Worship Drum Kit 3": "0,99 €",
+            "Worship Drum Kit 2": "0,99 €",
+            "Worship Drum Kit 1": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771737513147,

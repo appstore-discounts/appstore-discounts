@@ -9484,14 +9484,22 @@
   "351058026": {
     "name": "通勝 300年版",
     "maxPriceInfo": {
-      "price": 1990,
-      "formattedPrice": "$1,990.00"
+      "price": 2290,
+      "formattedPrice": "$2,290.00"
     },
     "minPriceInfo": {
       "price": 1990,
       "formattedPrice": "$1,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 2290,
+          "formattedPrice": "$2,290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756897828224,
@@ -177719,6 +177727,25 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Prime Gemma 1200": "$320.00",
+            "Tamer Kit": "$30.00",
+            "Starter Package": "$90.00",
+            "Prime Gemma 2500": "$690.00",
+            "Master Package": "$690.00",
+            "Hunter Package": "$320.00",
+            "Prime Gemma 5000": "$1,290.00",
+            "Evoker Package": "$320.00",
+            "Evoker Kit": "$30.00",
+            "Prime Gemma 500": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787838577561,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -217307,6 +217334,20 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Filtr": "$790.00",
+            "Tip": "$150.00",
+            "Yearly Recurring Tip": "$320.00",
+            "Monthly Recurring Tip": "$60.00",
+            "Mega Tip": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786701637597,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -238409,6 +238450,25 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "夜色微醺": "$30.00",
+            "星降之夜": "$30.00",
+            "萬聖派對": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "新年日出": "$30.00",
+            "花火大會": "$30.00",
+            "秘密教會": "$30.00",
+            "夏日庭院": "$20.00",
+            "紅葉漫步": "$30.00",
+            "2025春さくらスキン": "$20.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788619201969,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -257142,6 +257202,23 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 12 months": "$690.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Concorde": "$60.00"
+          }
+        },
+        {
           "timestamp": 1788628272448,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -270664,6 +270741,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788690009839,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "49.99美元商品": "$1,490.00",
+            "0.99美元商品": "$30.00",
+            "12.99美元商品2": "$390.00",
+            "12.99美元商品": "$390.00",
+            "19.99美元商品": "$690.00",
+            "99.99美元商品": "$2,990.00",
+            "8.99美元商品": "$290.00",
+            "3.99美元商品": "$120.00"
+          }
+        },
         {
           "timestamp": 1788664115804,
           "price": 10,
@@ -290630,13 +290723,52 @@
     "name": "PadLab - Live Pads",
     "maxPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "PadLab Full App": "$290.00",
+      "PadLab Worship Complete": "$220.00",
+      "Worship Drum Collection": "$120.00",
+      "Coleção Completa de Pads": "$150.00",
+      "Worship EFX": "$30.00",
+      "Worship 808": "$30.00",
+      "Worship Cinematic": "$30.00",
+      "Worship Drum Kit 3": "$30.00",
+      "Worship Drum Kit 2": "$30.00",
+      "Worship Drum Kit 1": "$30.00"
     },
     "minPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "PadLab Full App": "$290.00",
+      "PadLab Worship Complete": "$220.00",
+      "Worship Drum Collection": "$120.00",
+      "Coleção Completa de Pads": "$150.00",
+      "Worship EFX": "$30.00",
+      "Worship 808": "$30.00",
+      "Worship Cinematic": "$30.00",
+      "Worship Drum Kit 3": "$30.00",
+      "Worship Drum Kit 2": "$30.00",
+      "Worship Drum Kit 1": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "PadLab Full App": "$290.00",
+            "PadLab Worship Complete": "$220.00",
+            "Worship Drum Collection": "$120.00",
+            "Coleção Completa de Pads": "$150.00",
+            "Worship EFX": "$30.00",
+            "Worship 808": "$30.00",
+            "Worship Cinematic": "$30.00",
+            "Worship Drum Kit 3": "$30.00",
+            "Worship Drum Kit 2": "$30.00",
+            "Worship Drum Kit 1": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771737513147,

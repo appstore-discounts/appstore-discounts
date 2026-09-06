@@ -7670,14 +7670,22 @@
     "trackName": "通勝 300年版",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 59.99,
-      "formattedPrice": "USD 59.99"
+      "price": 69.99,
+      "formattedPrice": "USD 69.99"
     },
     "minPriceInfo": {
       "price": 59.99,
       "formattedPrice": "USD 59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 69.99,
+          "formattedPrice": "USD 69.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756897828224,
@@ -92945,7 +92953,8 @@
       "鳌拜的私房钱": "USD 8.99",
       "6元礼包": "USD 0.99",
       "168元礼包": "USD 24.99",
-      "秦王的宝藏": "USD 24.99"
+      "秦王的宝藏": "USD 24.99",
+      "一盒元宝": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -92959,9 +92968,29 @@
       "鳌拜的私房钱": "USD 8.99",
       "6元礼包": "USD 0.99",
       "168元礼包": "USD 24.99",
-      "秦王的宝藏": "USD 24.99"
+      "秦王的宝藏": "USD 24.99",
+      "一盒元宝": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "江湖名士": "USD 3.99",
+            "30元礼包": "USD 3.99",
+            "60元礼包二": "USD 8.99",
+            "30元礼包四": "USD 3.99",
+            "60元礼包": "USD 8.99",
+            "鳌拜的私房钱": "USD 8.99",
+            "6元礼包": "USD 0.99",
+            "秦王的宝藏": "USD 24.99",
+            "168元礼包": "USD 24.99",
+            "一盒元宝": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788088833295,
@@ -196528,13 +196557,52 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "PadLab Full App": "USD 7.99",
+      "PadLab Worship Complete": "USD 6.99",
+      "Worship Drum Collection": "USD 3.99",
+      "Coleção Completa de Pads": "USD 4.99",
+      "Worship EFX": "USD 0.99",
+      "Worship 808": "USD 0.99",
+      "Worship Cinematic": "USD 0.99",
+      "Worship Drum Kit 3": "USD 0.99",
+      "Worship Drum Kit 2": "USD 0.99",
+      "Worship Drum Kit 1": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "PadLab Full App": "USD 7.99",
+      "PadLab Worship Complete": "USD 6.99",
+      "Worship Drum Collection": "USD 3.99",
+      "Coleção Completa de Pads": "USD 4.99",
+      "Worship EFX": "USD 0.99",
+      "Worship 808": "USD 0.99",
+      "Worship Cinematic": "USD 0.99",
+      "Worship Drum Kit 3": "USD 0.99",
+      "Worship Drum Kit 2": "USD 0.99",
+      "Worship Drum Kit 1": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "USD 7.99",
+            "PadLab Worship Complete": "USD 6.99",
+            "Worship Drum Collection": "USD 3.99",
+            "Coleção Completa de Pads": "USD 4.99",
+            "Worship EFX": "USD 0.99",
+            "Worship 808": "USD 0.99",
+            "Worship Cinematic": "USD 0.99",
+            "Worship Drum Kit 3": "USD 0.99",
+            "Worship Drum Kit 2": "USD 0.99",
+            "Worship Drum Kit 1": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771737513147,

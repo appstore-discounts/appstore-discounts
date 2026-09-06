@@ -10230,14 +10230,22 @@
   "351058026": {
     "name": "通勝 300年版",
     "maxPriceInfo": {
-      "price": 2999.99,
-      "formattedPrice": "₺2.999,99"
+      "price": 3999.99,
+      "formattedPrice": "₺3.999,99"
     },
     "minPriceInfo": {
       "price": 2499.99,
       "formattedPrice": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 3999.99,
+          "formattedPrice": "₺3.999,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -21239,6 +21247,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788690009839,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synth Plucks": "₺99,99",
+            "Drumaxx": "₺99,99",
+            "PsyTrance": "₺149,99"
+          }
+        },
         {
           "timestamp": 1788664115804,
           "price": 399.99,
@@ -217388,6 +217413,20 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Filtr": "₺149,99",
+            "Tip": "₺249,99",
+            "Yearly Recurring Tip": "₺399,99",
+            "Monthly Recurring Tip": "₺79,99",
+            "Mega Tip": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787316261945,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -270963,13 +271002,52 @@
     "name": "PadLab - Live Pads",
     "maxPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "PadLab Full App": "₺399,99",
+      "PadLab Worship Complete": "₺399,99",
+      "Worship Drum Collection": "₺199,99",
+      "Coleção Completa de Pads": "₺249,99",
+      "Worship EFX": "₺49,99",
+      "Worship 808": "₺49,99",
+      "Worship Cinematic": "₺49,99",
+      "Worship Drum Kit 3": "₺49,99",
+      "Worship Drum Kit 2": "₺49,99",
+      "Worship Drum Kit 1": "₺49,99"
     },
     "minPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "PadLab Full App": "₺399,99",
+      "PadLab Worship Complete": "₺399,99",
+      "Worship Drum Collection": "₺199,99",
+      "Coleção Completa de Pads": "₺249,99",
+      "Worship EFX": "₺49,99",
+      "Worship 808": "₺49,99",
+      "Worship Cinematic": "₺49,99",
+      "Worship Drum Kit 3": "₺49,99",
+      "Worship Drum Kit 2": "₺49,99",
+      "Worship Drum Kit 1": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "PadLab Full App": "₺399,99",
+            "PadLab Worship Complete": "₺399,99",
+            "Worship Drum Collection": "₺199,99",
+            "Coleção Completa de Pads": "₺249,99",
+            "Worship EFX": "₺49,99",
+            "Worship 808": "₺49,99",
+            "Worship Cinematic": "₺49,99",
+            "Worship Drum Kit 3": "₺49,99",
+            "Worship Drum Kit 2": "₺49,99",
+            "Worship Drum Kit 1": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771737513147,

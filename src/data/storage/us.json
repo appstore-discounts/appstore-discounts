@@ -14092,14 +14092,22 @@
   "351058026": {
     "name": "通勝 300年版",
     "maxPriceInfo": {
-      "price": 59.99,
-      "formattedPrice": "$59.99"
+      "price": 69.99,
+      "formattedPrice": "$69.99"
     },
     "minPriceInfo": {
       "price": 59.99,
       "formattedPrice": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 69.99,
+          "formattedPrice": "$69.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756897828224,
@@ -184058,6 +184066,25 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "长期VIP权限": "$59.99",
+            "每日英语听力VIP订阅": "$3.99",
+            "一年VIP权限": "$19.99",
+            "《每日外刊》订阅": "$8.99",
+            "看美剧《小谢尔顿》学英语 第一辑": "$19.99",
+            "可乐新概念（二）语音语调及连读": "$9.99",
+            "《了不起的盖茨比》": "$5.99",
+            "赖世雄中级美语下（视频课）": "$14.99",
+            "赖世雄中级美语上（视频课）": "$14.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788664115804,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -215286,6 +215313,25 @@
       "Sports and Celebrity Bundle": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Welcome Offer": "$9.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788602462583,
@@ -289309,6 +289355,25 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788664115804,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -312268,6 +312333,25 @@
     "history": [
       [
         {
+          "timestamp": 1788690009839,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Beach Day Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Beach Day Card back": "$0.99",
+            "Sea Rat Outfit": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788664115804,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -328115,13 +328199,52 @@
     "name": "PadLab - Live Pads",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "PadLab Full App": "$7.99",
+      "PadLab Worship Complete": "$6.99",
+      "Worship Drum Collection": "$3.99",
+      "Coleção Completa de Pads": "$4.99",
+      "Worship EFX": "$0.99",
+      "Worship 808": "$0.99",
+      "Worship Cinematic": "$0.99",
+      "Worship Drum Kit 3": "$0.99",
+      "Worship Drum Kit 2": "$0.99",
+      "Worship Drum Kit 1": "$0.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "PadLab Full App": "$7.99",
+      "PadLab Worship Complete": "$6.99",
+      "Worship Drum Collection": "$3.99",
+      "Coleção Completa de Pads": "$4.99",
+      "Worship EFX": "$0.99",
+      "Worship 808": "$0.99",
+      "Worship Cinematic": "$0.99",
+      "Worship Drum Kit 3": "$0.99",
+      "Worship Drum Kit 2": "$0.99",
+      "Worship Drum Kit 1": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788690009839,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99",
+            "Worship EFX": "$0.99",
+            "Worship 808": "$0.99",
+            "Worship Cinematic": "$0.99",
+            "Worship Drum Kit 3": "$0.99",
+            "Worship Drum Kit 2": "$0.99",
+            "Worship Drum Kit 1": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771737513147,
