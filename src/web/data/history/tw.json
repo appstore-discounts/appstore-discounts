@@ -300623,14 +300623,22 @@
     "trackName": "月經紀錄：像素經期森林",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788647953625,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782397971993,
@@ -303165,6 +303173,29 @@
           "timestamp": 1788553195173,
           "price": 50,
           "formattedPrice": "$50.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6778029370": {
+    "trackId": 6778029370,
+    "trackName": "九格生死战",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 135,
+      "formattedPrice": "$135.00"
+    },
+    "minPriceInfo": {
+      "price": 135,
+      "formattedPrice": "$135.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788647953625,
+          "price": 135,
+          "formattedPrice": "$135.00",
           "inAppPurchases": {}
         }
       ]

@@ -342769,5 +342769,28 @@
         }
       ]
     ]
+  },
+  "6778029370": {
+    "trackId": 6778029370,
+    "trackName": "Order Automatica",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788647953625,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }
