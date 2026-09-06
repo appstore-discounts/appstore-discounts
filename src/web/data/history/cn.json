@@ -8529,14 +8529,22 @@
     "trackName": "通胜 300年版",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 398,
-      "formattedPrice": "¥398.00"
+      "price": 498,
+      "formattedPrice": "¥498.00"
     },
     "minPriceInfo": {
       "price": 398,
       "formattedPrice": "¥398.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788706749034,
+          "price": 498,
+          "formattedPrice": "¥498.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756897828224,
@@ -43152,6 +43160,14 @@
     "history": [
       [
         {
+          "timestamp": 1788706749034,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788450692170,
           "price": 0,
           "formattedPrice": "免费",
@@ -45558,6 +45574,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788706749034,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787650446455,
@@ -156992,6 +157016,17 @@
     "history": [
       [
         {
+          "timestamp": 1788706749034,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788106055024,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -176732,6 +176767,17 @@
       "Goblin Tools Pro - Monthly": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788706749034,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "¥298.00",
+            "Goblin Tools Pro - Monthly": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788619201969,

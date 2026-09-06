@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1577762239,
+    "region": "hk",
+    "timestamp": 1788706749034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1577762239",
+    "trackName": "Invading Horde - TD",
+    "firstRecordedAt": 1745481777335
+  },
+  {
+    "trackId": 1644917705,
+    "region": "hk",
+    "timestamp": 1788706749034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1644917705",
+    "trackName": "無處遁形：全網公敵",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6670469064,
+    "region": "hk",
+    "timestamp": 1788706749034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 28.00",
+        "to": "HK$ 20.00",
+        "range": "[HK$ 18.00 ~ HK$ 28.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "HK$ 20.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6670469064",
+    "trackName": "8號出口",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 675049147,
     "region": "hk",
     "timestamp": 1788638313964,

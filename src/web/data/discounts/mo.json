@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1577762239,
+    "region": "mo",
+    "timestamp": 1788706749034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1577762239",
+    "trackName": "Invading Horde - TD",
+    "firstRecordedAt": 1745481777335
+  },
+  {
+    "trackId": 1644917705,
+    "region": "mo",
+    "timestamp": 1788706749034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1644917705",
+    "trackName": "無處遁形：全網公敵",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 675049147,
     "region": "mo",
     "timestamp": 1788628272448,

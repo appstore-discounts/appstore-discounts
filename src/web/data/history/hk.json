@@ -10096,14 +10096,22 @@
     "trackName": "通勝 300年版",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 488,
-      "formattedPrice": "HK$ 488.00"
+      "price": 588,
+      "formattedPrice": "HK$ 588.00"
     },
     "minPriceInfo": {
       "price": 488,
       "formattedPrice": "HK$ 488.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788706749034,
+          "price": 588,
+          "formattedPrice": "HK$ 588.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756897828224,
@@ -73402,6 +73410,14 @@
     "history": [
       [
         {
+          "timestamp": 1788706749034,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788450692170,
           "price": 0,
           "formattedPrice": "免費",
@@ -77979,6 +77995,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788706749034,
+          "price": 149,
+          "formattedPrice": "HK$ 149.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787650446455,
@@ -188755,6 +188779,14 @@
     "history": [
       [
         {
+          "timestamp": 1788706749034,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787498460547,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -200374,6 +200406,22 @@
       "Gems pack 1": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788706749034,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Stars pack 3": "HK$ 22.00",
+            "Starter pack": "HK$ 38.00",
+            "Stars Pack 2": "HK$ 18.00",
+            "Stars Pack 1": "HK$ 8.00",
+            "Gems pack 3": "HK$ 22.00",
+            "Gems pack 2": "HK$ 18.00",
+            "Gems pack 1": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782051043626,
@@ -222195,6 +222243,17 @@
     "history": [
       [
         {
+          "timestamp": 1788706749034,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788106055024,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -243888,6 +243947,14 @@
     "history": [
       [
         {
+          "timestamp": 1788706749034,
+          "price": 20,
+          "formattedPrice": "HK$ 20.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778077953006,
           "price": 28,
           "formattedPrice": "HK$ 28.00",
@@ -248860,6 +248927,17 @@
       "Goblin Tools Pro - Monthly": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788706749034,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "HK$ 288.00",
+            "Goblin Tools Pro - Monthly": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788619201969,
