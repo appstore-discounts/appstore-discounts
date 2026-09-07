@@ -3712,6 +3712,29 @@
       ]
     ]
   },
+  "333195169": {
+    "trackId": 333195169,
+    "trackName": "MD on Call",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "333212604": {
     "trackId": 333212604,
     "trackName": "蒙恬名片王Mobile",
@@ -21594,6 +21617,42 @@
             "Pacote de expansão Gripe símia": "1,99 €",
             "Pacote de Praga das Sombras": "1,99 €",
             "Expansão Cura": "3,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "525956148": {
+    "trackId": 525956148,
+    "trackName": "Flight Tracker Pro | Fly Radar",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "Flight notifications - Gold": "4,99 €",
+      "Flight notifications - Bronze": "0,99 €",
+      "Aircraft Icons": "1,99 €",
+      "Flight notifications - Silver": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "Flight notifications - Gold": "4,99 €",
+      "Flight notifications - Bronze": "0,99 €",
+      "Aircraft Icons": "1,99 €",
+      "Flight notifications - Silver": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Flight notifications - Gold": "4,99 €",
+            "Flight notifications - Bronze": "0,99 €",
+            "Aircraft Icons": "1,99 €",
+            "Flight notifications - Silver": "2,99 €"
           }
         }
       ]
@@ -120070,6 +120129,17 @@
     "history": [
       [
         {
+          "timestamp": 1788781262725,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "39,99 €",
+            "Goblin Tools Pro - Monthly": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788734577170,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -120269,6 +120339,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Case IH Speed-Tiller": "1,19 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788222226853,

@@ -11328,6 +11328,29 @@
       ]
     ]
   },
+  "333195169": {
+    "trackId": 333195169,
+    "trackName": "MD on Call",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "333212604": {
     "trackId": 333212604,
     "trackName": "蒙恬名片王Mobile",
@@ -47552,6 +47575,42 @@
       ]
     ]
   },
+  "525956148": {
+    "trackId": 525956148,
+    "trackName": "Flight Tracker Pro Plane Radar",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "Flight notifications - Gold": "$4.49",
+      "Flight notifications - Bronze": "$0.99",
+      "Aircraft Icons": "$1.99",
+      "Flight notifications - Silver": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "Flight notifications - Gold": "$4.49",
+      "Flight notifications - Bronze": "$0.99",
+      "Aircraft Icons": "$1.99",
+      "Flight notifications - Silver": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Flight notifications - Gold": "$4.49",
+            "Flight notifications - Bronze": "$0.99",
+            "Aircraft Icons": "$1.99",
+            "Flight notifications - Silver": "$2.99"
+          }
+        }
+      ]
+    ]
+  },
   "527358348": {
     "trackId": 527358348,
     "trackName": "Fieldrunners 2",
@@ -60301,6 +60360,25 @@
       "Love Island USA Fan Deck": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Super Heroes": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788706749034,
@@ -247373,6 +247451,25 @@
     "history": [
       [
         {
+          "timestamp": 1788781262725,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Season 2 Pass": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Critical Mass": "$6.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Survival Guide": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788602462583,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -267802,6 +267899,25 @@
     "history": [
       [
         {
+          "timestamp": 1788781262725,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Double Combat Rewards": "$1.99",
+            "300 Gold": "$4.99",
+            "680 Gold": "$9.99",
+            "60 Gold": "$0.99",
+            "Monthly Card": "$4.99",
+            "Professional Training": "$14.99",
+            "980 Gold": "$14.99",
+            "120 Gold": "$1.99",
+            "Backpack Expansion": "$1.99",
+            "Special Training": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788602462583,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -270230,6 +270346,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "ネオンシティ": "$1.79",
+            "Night Chill": "$1.79",
+            "Wacky Halloween Set": "$2.39",
+            "Fireworks display": "$1.79",
+            "Sunset beach": "$1.19",
+            "New Year's Sunrise": "$1.79",
+            "Christmas night": "$1.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788734577170,
@@ -292676,6 +292811,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788750378321,
@@ -315883,6 +316037,25 @@
       "Yucky Buddy Outfit": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Beach Day Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Kitchen Chaos Card Back": "$0.99",
+            "Beach Day Card back": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,

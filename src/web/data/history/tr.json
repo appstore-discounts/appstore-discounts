@@ -7788,6 +7788,29 @@
       ]
     ]
   },
+  "333195169": {
+    "trackId": 333195169,
+    "trackName": "MD on Call",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "333212604": {
     "trackId": 333212604,
     "trackName": "蒙恬名片王Mobile",
@@ -17846,6 +17869,25 @@
       "My Pet Report": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Gold Level Free Trial": "₺0,00",
+            "Birth Chart Report - Full": "₺199,99",
+            "Predictive Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Lunar Return Report": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99",
+            "Child Report - Full": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788271031879,
@@ -47009,6 +47051,42 @@
             "Unlock Cheats": "₺449,99",
             "Plague Pack": "₺599,99",
             "Shadow Plague Expansion Pack": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
+  "525956148": {
+    "trackId": 525956148,
+    "trackName": "Flight tracker Pro Plane Radar",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "Flight notifications - Gold": "₺179,99",
+      "Aircraft Icons": "₺99,99",
+      "Flight notifications - Silver": "₺99,99",
+      "Flight notifications - Bronze": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "Flight notifications - Gold": "₺179,99",
+      "Aircraft Icons": "₺99,99",
+      "Flight notifications - Silver": "₺99,99",
+      "Flight notifications - Bronze": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Flight notifications - Gold": "₺179,99",
+            "Aircraft Icons": "₺99,99",
+            "Flight notifications - Silver": "₺99,99",
+            "Flight notifications - Bronze": "₺39,99"
           }
         }
       ]
@@ -159776,6 +159854,25 @@
     "history": [
       [
         {
+          "timestamp": 1788781262725,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "Golden Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "Monstropolis Board": "₺399,99",
+            "Speed Die": "₺799,99",
+            "Victorian London Board": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788664115804,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -220456,6 +220553,20 @@
     "history": [
       [
         {
+          "timestamp": 1788781262725,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Filtr": "₺29,99",
+            "Tip": "₺249,99",
+            "Yearly Recurring Tip": "₺399,99",
+            "Monthly Recurring Tip": "₺79,99",
+            "Mega Tip": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788690009839,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -239280,6 +239391,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788781262725,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "UH-60": "₺49,99",
+            "EC135": "₺49,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Global scenery - 12 months": "₺999,99"
+          }
+        },
         {
           "timestamp": 1788734577170,
           "price": 199.99,

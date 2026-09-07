@@ -7125,6 +7125,29 @@
       ]
     ]
   },
+  "333195169": {
+    "trackId": 333195169,
+    "trackName": "MD on Call",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "333212604": {
     "trackId": 333212604,
     "trackName": "蒙恬名片王Mobile",
@@ -10190,6 +10213,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788781262725,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$30.00",
+            "Rameau: The Mutopia Collection": "$0.00"
+          }
+        },
         {
           "timestamp": 1788724940602,
           "price": 790,
@@ -42539,6 +42579,42 @@
             "紅魔瘟疫擴展包": "$60.00",
             "場景包": "$90.00",
             "猿猴流感擴充包": "$60.00"
+          }
+        }
+      ]
+    ]
+  },
+  "525956148": {
+    "trackId": 525956148,
+    "trackName": "航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00",
+      "Aircraft Icons": "$60.00",
+      "Flight notifications - Gold": "$150.00",
+      "Flight notifications - Bronze": "$30.00",
+      "Flight notifications - Silver": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00",
+      "Aircraft Icons": "$60.00",
+      "Flight notifications - Gold": "$150.00",
+      "Flight notifications - Bronze": "$30.00",
+      "Flight notifications - Silver": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "Aircraft Icons": "$60.00",
+            "Flight notifications - Gold": "$150.00",
+            "Flight notifications - Bronze": "$30.00",
+            "Flight notifications - Silver": "$90.00"
           }
         }
       ]
@@ -153281,6 +153357,23 @@
     "history": [
       [
         {
+          "timestamp": 1788781262725,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "禮包5": "$170.00",
+            "328金玉": "$1,690.00",
+            "6元新手禮包​​": "$33.00"
+          }
+        },
+        {
           "timestamp": 1788750378321,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -190059,6 +190152,25 @@
       "純真回憶（金吉爾）": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "沙石探員": "$30.00",
+            "條紋正裝": "$30.00",
+            "休閒風度": "$30.00",
+            "田園風情": "$30.00",
+            "潮流前線": "$30.00",
+            "深藍魅影": "$30.00",
+            "未來光波": "$30.00",
+            "舒適暖心": "$30.00",
+            "駝咩咩睡衣": "$30.00",
+            "自由之風": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788148503316,
@@ -252436,6 +252548,25 @@
       "Krone BiG Pack 1290 HDP VC": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "200'000 Coins": "$30.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "ClaasLexion8900+ConvioFlex1380": "$90.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "500'000 Coins": "$60.00",
+            "Case IH Speed-Tiller": "$30.00",
+            "Claas Xerion 5000": "$60.00",
+            "KINZE 3665 Blue Drive": "$30.00",
+            "Krone BiG M 450": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788518474386,

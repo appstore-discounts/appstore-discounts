@@ -4922,6 +4922,27 @@
       ]
     ]
   },
+  "333195169": {
+    "name": "MD on Call",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "333212604": {
     "name": "蒙恬名片王Mobile",
     "maxPriceInfo": {
@@ -35209,6 +35230,40 @@
             "猿猴流感擴充包": "USD 1.99",
             "場景包": "USD 2.99",
             "紅魔瘟疫擴展包": "USD 1.99"
+          }
+        }
+      ]
+    ]
+  },
+  "525956148": {
+    "name": "航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "Flight notifications - Gold": "USD 4.49",
+      "Flight notifications - Silver": "USD 2.99",
+      "Flight notifications - Bronze": "USD 0.99",
+      "Aircraft Icons": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "Flight notifications - Gold": "USD 4.49",
+      "Flight notifications - Silver": "USD 2.99",
+      "Flight notifications - Bronze": "USD 0.99",
+      "Aircraft Icons": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Flight notifications - Gold": "USD 4.49",
+            "Flight notifications - Silver": "USD 2.99",
+            "Flight notifications - Bronze": "USD 0.99",
+            "Aircraft Icons": "USD 1.99"
           }
         }
       ]
@@ -86815,6 +86870,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788781262725,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "全部 DLC": "USD 0.00",
+            "高清材質": "USD 0.00",
+            "All DLC": "USD 0.00",
+            "HD Textures": "USD 0.00",
+            "道路與賽道套件": "USD 0.00",
+            "房車傳奇套件": "USD 0.00",
+            "衝刺套件": "USD 0.00",
+            "直線競速賽套件": "USD 0.00",
+            "英式精粹套件": "USD 0.00",
+            "黑色版本套件": "USD 0.00"
+          }
+        },
         {
           "timestamp": 1788750378321,
           "price": 9.99,
@@ -175363,6 +175435,25 @@
       "Airbus A321 XLR": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788781262725,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "USD 3.99",
+            "Boeing 787-9": "USD 3.99",
+            "Airbus A320neo": "USD 3.99",
+            "Me 262": "USD 1.99",
+            "Boeing 737-800": "USD 2.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787748612311,
