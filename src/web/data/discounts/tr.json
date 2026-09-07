@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 1290687550,
+    "region": "tr",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "CAPSO",
+        "from": "₺499,99",
+        "to": "₺249,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Featured Article Vol. 1",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1662217862,
     "region": "tr",
     "timestamp": 1788781262725,

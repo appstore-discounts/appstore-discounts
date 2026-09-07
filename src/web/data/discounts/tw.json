@@ -1,5 +1,180 @@
 [
   {
+    "trackId": 485246824,
+    "region": "tw",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "免費",
+        "range": "[免費 ~ $60.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id485246824",
+    "trackName": "Cytus",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 870322730,
+    "region": "tw",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id870322730",
+    "trackName": "Implosion 聚爆",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1290687550,
+    "region": "tw",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "免費",
+        "range": "[免費 ~ $60.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "CAPSO",
+        "from": "$320.00",
+        "to": "$150.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ConneR",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Xenon",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Cherry",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Battle CHAOS 2019",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1411823462,
+    "region": "tw",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $150.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 1586126746,
+    "region": "tw",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1586126746",
+    "trackName": "Labyrinth City",
+    "firstRecordedAt": 1772535071513
+  },
+  {
+    "trackId": 6449003064,
+    "region": "tw",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6449003064",
+    "trackName": "Goblin Tools",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tw",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $60.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6476342802",
+    "trackName": "Skel和Defense：地下城Roguelike防禦",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1577762239,
     "region": "tw",
     "timestamp": 1788706749034,

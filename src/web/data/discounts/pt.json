@@ -2,18 +2,18 @@
   {
     "trackId": 6449003064,
     "region": "pt",
-    "timestamp": 1788781262725,
+    "timestamp": 1788801558459,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
         "from": "1,99 €",
-        "to": "Gratuito",
+        "to": "0,99 €",
         "range": "[Gratuito ~ 2,99 €]"
       }
     ],
-    "price": 0,
-    "formattedPrice": "Gratuito",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6449003064",
     "trackName": "Goblin Tools",

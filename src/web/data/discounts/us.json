@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1290687550,
+    "region": "us",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "CAPSO",
+        "from": "$9.99",
+        "to": "$4.99",
+        "range": "[$3.99 ~ $9.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6449003064,
+    "region": "us",
+    "timestamp": 1788801558459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6449003064",
+    "trackName": "Goblin Tools",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1577762239,
     "region": "us",
     "timestamp": 1788750378321,

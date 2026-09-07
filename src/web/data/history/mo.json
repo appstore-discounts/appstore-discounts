@@ -25897,6 +25897,60 @@
       ]
     ]
   },
+  "480102733": {
+    "trackId": 480102733,
+    "trackName": "Awesome Calendar",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "Holidays Macao": "USD 0.99",
+      "Calendars - PL Football Men Senegal 2015-2016 edition": "USD 0.99",
+      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+      "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+      "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "USD 0.99",
+      "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "USD 0.99",
+      "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "USD 0.99",
+      "Calendars - CBA Basketball Men China 2015-2016 edition": "USD 0.99",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "USD 0.99",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "Holidays Macao": "USD 0.99",
+      "Calendars - PL Football Men Senegal 2015-2016 edition": "USD 0.99",
+      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+      "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+      "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "USD 0.99",
+      "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "USD 0.99",
+      "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "USD 0.99",
+      "Calendars - CBA Basketball Men China 2015-2016 edition": "USD 0.99",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "USD 0.99",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Holidays Macao": "USD 0.99",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "USD 0.99",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "USD 0.99",
+            "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "USD 0.99",
+            "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "USD 0.99",
+            "Calendars - CBA Basketball Men China 2015-2016 edition": "USD 0.99",
+            "Calendars - LFB Basketball Women France 2015-2016 edition": "USD 0.99",
+            "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "480517945": {
     "trackId": 480517945,
     "trackName": "X-Anatomy Pro",
@@ -26355,8 +26409,8 @@
       "Masquerade": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Chapter D": "USD 4.99",
       "Chapter 6": "USD 4.99",
       "Chapter 5": "USD 4.99",
@@ -26373,6 +26427,25 @@
       "Masquerade": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Chapter D": "USD 4.99",
+            "Chapter 6": "USD 4.99",
+            "Chapter 5": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 8": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter K": "USD 4.99",
+            "Chapter S": "USD 4.99",
+            "Chapter R": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784025938034,
@@ -47362,6 +47435,14 @@
     "history": [
       [
         {
+          "timestamp": 1788801558459,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788628272448,
           "price": 0,
           "formattedPrice": "免費",
@@ -48010,6 +48091,25 @@
       "Cranky Collection": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "USD 3.99",
+            "V.K Collection": "USD 3.99",
+            "Rayark Selection Vol.1": "USD 3.99",
+            "被遺忘的沙漏": "USD 6.99",
+            "Cytus Selection Vol.1": "USD 3.99",
+            "MILI Collection": "USD 3.99",
+            "Knight Iris": "USD 3.99",
+            "Cytus Selection Vol.2": "USD 3.99",
+            "Rayark Selection Vol.3": "USD 3.99",
+            "M2U X NICODE Collection": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786509981459,
@@ -55488,6 +55588,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757686286690,
@@ -66627,6 +66735,22 @@
       "雙倍積分包": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "積分包 Ⅱ": "USD 4.99",
+            "積分包 I": "USD 0.99",
+            "積分包 Ⅵ": "USD 99.99",
+            "積分包 Ⅴ": "USD 39.99",
+            "積分包 Ⅳ": "USD 19.99",
+            "積分包 Ⅲ": "USD 9.99",
+            "雙倍積分包": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788706749034,
@@ -97204,14 +97328,14 @@
       "price": 0,
       "formattedPrice": "免費",
       "Miku": "USD 9.99",
-      "ConneR": "USD 9.99",
-      "Xenon": "USD 9.99",
+      "ConneR": "USD 3.99",
+      "Xenon": "USD 3.99",
       "9 Characters": "USD 27.99",
       "CAPSO": "USD 3.99",
-      "Cherry": "USD 9.99",
-      "Nora": "USD 9.99",
+      "Cherry": "USD 3.99",
+      "Nora": "USD 3.99",
       "Emotion Samples 01": "USD 1.99",
-      "JOE": "USD 9.99",
+      "JOE": "USD 3.99",
       "Game Disc vol.1": "USD 1.99",
       "Box E 05": "USD 14.99",
       "HARDCORE TANO*C VOL.II": "USD 3.99",
@@ -97244,6 +97368,25 @@
       "Kizuna AI Extend 2026": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "USD 9.99",
+            "ConneR": "USD 3.99",
+            "Xenon": "USD 3.99",
+            "9 Characters": "USD 34.99",
+            "CAPSO": "USD 4.99",
+            "Cherry": "USD 3.99",
+            "Nora": "USD 3.99",
+            "Game Disc vol.1": "USD 1.99",
+            "Emotion Samples 01": "USD 1.99",
+            "JOE": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788467599321,
@@ -110212,6 +110355,14 @@
       "formattedPrice": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786202940203,
@@ -141890,6 +142041,25 @@
     "history": [
       [
         {
+          "timestamp": 1788801558459,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "潮流前線": "USD 0.99",
+            "未來光波": "USD 0.99",
+            "沙石探員": "USD 0.99",
+            "駝咩咩睡衣": "USD 0.99",
+            "舒適暖心": "USD 0.99",
+            "隨性而動": "USD 0.99",
+            "條紋正裝": "USD 0.99",
+            "純真回憶": "USD 0.99",
+            "深藍魅影": "USD 0.99",
+            "田園風情": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784476657988,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -148030,6 +148200,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785776916428,
@@ -161990,6 +162168,25 @@
       "婚禮禮包": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "護士禮包": "USD 4.99",
+            "解鎖旁觀者": "USD 2.99",
+            "解鎖九尾狐": "USD 2.99",
+            "賽季3戰鬥通行證": "USD 1.99",
+            "制服禮包": "USD 3.99",
+            "解鎖巴弗滅": "USD 2.99",
+            "賽季2戰鬥通行證": "USD 1.99",
+            "怪物禮包2": "USD 29.99",
+            "信息禮包": "USD 12.99",
+            "鍛造禮包": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786636713567,
@@ -176514,6 +176711,17 @@
     "history": [
       [
         {
+          "timestamp": 1788801558459,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "USD 39.99",
+            "Goblin Tools Pro - Monthly": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788706749034,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -178617,6 +178825,25 @@
       "Airbus A321 XLR": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 4.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Concorde": "USD 1.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Airbus A320neo": "USD 3.99",
+            "Boeing 777-300ER": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788781262725,
@@ -200645,6 +200872,19 @@
       "皮膚券 x8": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0.69,
+          "formattedPrice": "USD 0.69",
+          "inAppPurchases": {
+            "皮膚券 x3": "USD 0.99",
+            "經驗祝福": "USD 1.99",
+            "皮膚券 x1": "USD 0.29",
+            "皮膚券 x8": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786202940203,

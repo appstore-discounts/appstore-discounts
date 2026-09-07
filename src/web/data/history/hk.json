@@ -32044,6 +32044,60 @@
       ]
     ]
   },
+  "480102733": {
+    "trackId": 480102733,
+    "trackName": "Awesome Calendar",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
+      "Holidays Hong Kong": "HK$ 8.00",
+      "Moon Phases calendar": "HK$ 8.00",
+      "+800 Emoji Stickers": "HK$ 8.00",
+      "Religious holidays": "HK$ 8.00",
+      "Week Numbers": "HK$ 8.00",
+      "Weather calendars": "HK$ 18.00",
+      "Holidays China": "HK$ 8.00",
+      "Holidays Macao": "HK$ 8.00",
+      "Holidays United Kingdom": "HK$ 8.00",
+      "Calendars - PL Football Men Senegal 2015-2016 edition": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
+      "Holidays Hong Kong": "HK$ 8.00",
+      "Moon Phases calendar": "HK$ 8.00",
+      "+800 Emoji Stickers": "HK$ 8.00",
+      "Religious holidays": "HK$ 8.00",
+      "Week Numbers": "HK$ 8.00",
+      "Weather calendars": "HK$ 18.00",
+      "Holidays China": "HK$ 8.00",
+      "Holidays Macao": "HK$ 8.00",
+      "Holidays United Kingdom": "HK$ 8.00",
+      "Calendars - PL Football Men Senegal 2015-2016 edition": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Holidays Hong Kong": "HK$ 8.00",
+            "Moon Phases calendar": "HK$ 8.00",
+            "+800 Emoji Stickers": "HK$ 8.00",
+            "Religious holidays": "HK$ 8.00",
+            "Week Numbers": "HK$ 8.00",
+            "Weather calendars": "HK$ 18.00",
+            "Holidays China": "HK$ 8.00",
+            "Holidays Macao": "HK$ 8.00",
+            "Holidays United Kingdom": "HK$ 8.00",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "480517945": {
     "trackId": 480517945,
     "trackName": "X-Anatomy Pro",
@@ -32477,8 +32531,8 @@
       "Dragon Warrior": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Chapter D": "HK$ 38.00",
       "Chapter 0": "HK$ 38.00",
       "Chapter R": "HK$ 38.00",
@@ -32506,6 +32560,25 @@
       "Dragon Warrior": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Chapter D": "HK$ 38.00",
+            "Chapter R": "HK$ 38.00",
+            "Chapter 0": "HK$ 38.00",
+            "Chapter L": "HK$ 88.00",
+            "Chapter N": "HK$ 32.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter T": "HK$ 38.00",
+            "Chapter S": "HK$ 38.00",
+            "Chapter 8": "HK$ 38.00",
+            "Chapter 6": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785896869249,
@@ -58125,6 +58198,14 @@
     "history": [
       [
         {
+          "timestamp": 1788801558459,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788638313964,
           "price": 0,
           "formattedPrice": "免費",
@@ -58773,6 +58854,25 @@
       "N.M.S.T. Collection": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "HK$ 32.00",
+            "V.K Collection": "HK$ 32.00",
+            "Rayark Selection Vol.1": "HK$ 32.00",
+            "被遺忘的沙漏": "HK$ 58.00",
+            "Cytus Selection Vol.1": "HK$ 32.00",
+            "Cytus Selection Vol.2": "HK$ 32.00",
+            "Rayark Selection Vol.3": "HK$ 32.00",
+            "Knight Iris": "HK$ 32.00",
+            "MILI Collection": "HK$ 32.00",
+            "M2U X NICODE Collection": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781727143966,
@@ -70134,6 +70234,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757686286690,
@@ -123818,14 +123926,14 @@
       "price": 0,
       "formattedPrice": "免費",
       "Miku": "HK$ 88.00",
-      "ConneR": "HK$ 88.00",
+      "ConneR": "HK$ 32.00",
       "CAPSO": "HK$ 32.00",
-      "Xenon": "HK$ 88.00",
+      "Xenon": "HK$ 32.00",
       "9 Characters": "HK$ 228.00",
-      "Cherry": "HK$ 88.00",
+      "Cherry": "HK$ 32.00",
       "Kizuna AI": "HK$ 38.00",
       "Battle CHAOS 2019": "HK$ 18.00",
-      "Neko": "HK$ 88.00",
+      "Neko": "HK$ 32.00",
       "Alice": "HK$ 38.00",
       "Emotion Samples 01": "HK$ 18.00",
       "Nora": "HK$ 88.00",
@@ -123855,6 +123963,25 @@
       "COLORFUL STAGE!": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "HK$ 88.00",
+            "ConneR": "HK$ 32.00",
+            "CAPSO": "HK$ 38.00",
+            "Xenon": "HK$ 32.00",
+            "9 Characters": "HK$ 288.00",
+            "Cherry": "HK$ 32.00",
+            "Kizuna AI": "HK$ 88.00",
+            "Battle CHAOS 2019": "HK$ 18.00",
+            "Neko": "HK$ 32.00",
+            "Emotion Samples 01": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785822374637,
@@ -145919,6 +146046,14 @@
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786202940203,
@@ -201633,6 +201768,14 @@
     "history": [
       [
         {
+          "timestamp": 1788801558459,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785776916428,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -249165,6 +249308,17 @@
     "history": [
       [
         {
+          "timestamp": 1788801558459,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "HK$ 288.00",
+            "Goblin Tools Pro - Monthly": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788706749034,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -287280,6 +287434,24 @@
     "history": [
       [
         {
+          "timestamp": 1788801558459,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "黄金会员月度": "HK$ 18.00",
+            "黄金会员月": "HK$ 18.00",
+            "普通会员买断": "HK$ 188.00",
+            "黄金会员买断": "HK$ 288.00",
+            "黄金年会员": "HK$ 228.00",
+            "黄金月会员": "HK$ 32.00",
+            "基础月会员": "HK$ 8.00",
+            "黄金会员": "HK$ 32.00",
+            "普通": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787961173466,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -287990,6 +288162,19 @@
       "皮膚券 x3": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788801558459,
+          "price": 6,
+          "formattedPrice": "HK$ 6.00",
+          "inAppPurchases": {
+            "經驗祝福": "HK$ 18.00",
+            "皮膚券 x1": "HK$ 2.00",
+            "皮膚券 x3": "HK$ 8.00",
+            "皮膚券 x8": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786202940203,
