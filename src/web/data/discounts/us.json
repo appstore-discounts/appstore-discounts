@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1577762239,
+    "region": "us",
+    "timestamp": 1788750378321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1577762239",
+    "trackName": "Invading Horde - TD",
+    "firstRecordedAt": 1745481777335
+  },
+  {
+    "trackId": 1644917705,
+    "region": "us",
+    "timestamp": 1788750378321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1644917705",
+    "trackName": "Cyber Manhunt",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6670469064,
+    "region": "us",
+    "timestamp": 1788750378321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$2.89",
+        "range": "[$2.79 ~ $3.99]"
+      }
+    ],
+    "price": 2.89,
+    "formattedPrice": "$2.89",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6670469064",
+    "trackName": "The Exit 8",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 966489322,
     "region": "us",
     "timestamp": 1788638313964,
