@@ -264,7 +264,7 @@
 |2006|1434964023|自动|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
 |2005|1483947937|自动|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
 |2004|6757171842|自动|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|
-|2003|6756825085|自动|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao - Timer Mesa Elevável|
+|2003|6756825085|自动|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Lembrete Mesa de Pé|
 |2002|294236771|自动|ICOON 全球图解词典|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|Dicionário de imagens ICOON|
 |2001|6761413198|自动|❌|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|
 |2000|1558620021|自动|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|
