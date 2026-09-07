@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1577762239,
+    "region": "pt",
+    "timestamp": 1788734577170,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1577762239",
+    "trackName": "Invading Horde - TD",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1644917705,
+    "region": "pt",
+    "timestamp": 1788734577170,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1644917705",
+    "trackName": "Cyber Manhunt",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6670469064,
+    "region": "pt",
+    "timestamp": 1788734577170,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "2,89 €",
+        "range": "[2,89 € ~ 3,99 €]"
+      }
+    ],
+    "price": 2.89,
+    "formattedPrice": "2,89 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6670469064",
+    "trackName": "The Exit 8",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 675049147,
     "region": "pt",
     "timestamp": 1788628272448,
@@ -12759,7 +12819,7 @@
         "name": "Price",
         "from": "3,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 3,99 €]"
+        "range": "[2,89 € ~ 3,99 €]"
       }
     ],
     "price": 2.99,
