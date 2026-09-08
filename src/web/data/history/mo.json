@@ -166576,6 +166576,19 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "连续包月订阅": "USD 0.99",
+            "连续包年订阅": "USD 6.99",
+            "连续包年会员": "USD 6.99",
+            "拦截猫股东会员": "USD 19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1767033551816,
           "price": 0,
           "formattedPrice": "免費",
@@ -205127,13 +205140,31 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "formattedPrice": "USD 9.99",
+      "Koro已解鎖！": "USD 1.99",
+      "Akane已解鎖！": "USD 1.99",
+      "「Akane」與「Koro」已解鎖！": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "formattedPrice": "USD 9.99",
+      "Koro已解鎖！": "USD 1.99",
+      "Akane已解鎖！": "USD 1.99",
+      "「Akane」與「Koro」已解鎖！": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Koro已解鎖！": "USD 1.99",
+            "Akane已解鎖！": "USD 1.99",
+            "「Akane」與「Koro」已解鎖！": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -205411,6 +205442,29 @@
           "timestamp": 1788647953625,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753081257": {
+    "trackId": 6753081257,
+    "trackName": "TickTrackTock",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]

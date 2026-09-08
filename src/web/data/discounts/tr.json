@@ -1,5 +1,53 @@
 [
   {
+    "trackId": 1290687550,
+    "region": "tr",
+    "timestamp": 1788863997493,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ConneR",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Xenon",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Cherry",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Memory Unit [A1]",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 485246824,
     "region": "tr",
     "timestamp": 1788837333321,
@@ -100,54 +148,6 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id982457990",
     "trackName": "Cross Infinity: Eschaton Rifts",
     "firstRecordedAt": 1787737196607
-  },
-  {
-    "trackId": 1290687550,
-    "region": "tr",
-    "timestamp": 1788837333321,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "₺99,99",
-        "to": "Free",
-        "range": "[Free ~ ₺99,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Xenon",
-        "from": "₺499,99",
-        "to": "₺199,99",
-        "range": "[₺199,99 ~ ₺499,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "ConneR",
-        "from": "₺499,99",
-        "to": "₺199,99",
-        "range": "[₺199,99 ~ ₺499,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Cherry",
-        "from": "₺499,99",
-        "to": "₺199,99",
-        "range": "[₺199,99 ~ ₺499,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Memory Unit [A1]",
-        "from": "₺249,99",
-        "to": "₺99,99",
-        "range": "[₺99,99 ~ ₺249,99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id1290687550",
-    "trackName": "Cytus II",
-    "firstRecordedAt": 1745328692670
   },
   {
     "trackId": 1411823462,

@@ -244896,6 +244896,25 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Season 2 Pass": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Critical Mass": "$6.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Season 2 Pass (Discount)": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788837333321,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -255225,6 +255244,19 @@
       "连续包年会员": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包年订阅": "$6.99",
+            "连续包月订阅": "$0.99",
+            "拦截猫股东会员": "$19.99",
+            "连续包年会员": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767026109211,
@@ -290031,6 +290063,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788837333321,
@@ -339502,13 +339553,31 @@
     "name": "No More Slimes!!: Idle Action",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "Koro Unlocked!": "$1.99",
+      "Akane Unlocked!": "$1.99",
+      "Unlocked! “Akane” & “Koro”": "$2.99"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "Koro Unlocked!": "$1.99",
+      "Akane Unlocked!": "$1.99",
+      "Unlocked! “Akane” & “Koro”": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Koro Unlocked!": "$1.99",
+            "Akane Unlocked!": "$1.99",
+            "Unlocked! “Akane” & “Koro”": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -339764,6 +339833,27 @@
           "timestamp": 1788647953625,
           "price": 5.99,
           "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753081257": {
+    "name": "TickTrackTock",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

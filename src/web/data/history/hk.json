@@ -171971,6 +171971,25 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "City Break": "HK$ 22.00",
+            "Welcome Offer": "HK$ 148.00",
+            "Atlantis Obsidian Token Bundle": "HK$ 88.00",
+            "Diamond Bundle": "HK$ 98.00",
+            "Orient Express": "HK$ 32.00",
+            "The Ultimate Edition Sale": "HK$ 188.00",
+            "Speed Die": "HK$ 118.00",
+            "Cherry Blossom Tokyo Board": "HK$ 58.00",
+            "Theme Collection": "HK$ 148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788781262725,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -225130,6 +225149,19 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "连续包月订阅": "HK$ 8.00",
+            "连续包年订阅": "HK$ 58.00",
+            "拦截猫股东会员": "HK$ 148.00",
+            "连续包年会员": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1767033551816,
           "price": 0,
           "formattedPrice": "免費",
@@ -230676,6 +230708,25 @@
       "劇本存檔": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "無雙戰神": "HK$ 48.00",
+            "自創地圖": "HK$ 32.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "道法自然": "HK$ 22.00",
+            "鎮海神威": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788781262725,
@@ -254055,6 +254106,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788863997493,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Airbus A380": "HK$ 18.00",
+            "Concorde": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1788815378111,
           "price": 32,
@@ -292387,13 +292455,31 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "Koro已解鎖！": "HK$ 18.00",
+      "Akane已解鎖！": "HK$ 18.00",
+      "「Akane」與「Koro」已解鎖！": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "Koro已解鎖！": "HK$ 18.00",
+      "Akane已解鎖！": "HK$ 18.00",
+      "「Akane」與「Koro」已解鎖！": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Koro已解鎖！": "HK$ 18.00",
+            "Akane已解鎖！": "HK$ 18.00",
+            "「Akane」與「Koro」已解鎖！": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -292671,6 +292757,29 @@
           "timestamp": 1788647953625,
           "price": 36,
           "formattedPrice": "HK$ 36.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753081257": {
+    "trackId": 6753081257,
+    "trackName": "TickTrackTock",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]

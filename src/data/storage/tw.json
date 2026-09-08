@@ -28346,6 +28346,23 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 2": "$70.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        },
+        {
           "timestamp": 1788837333321,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -219016,6 +219033,19 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "连续包年订阅": "$220.00",
+            "连续包月订阅": "$30.00",
+            "拦截猫股东会员": "$690.00",
+            "连续包年会员": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1767026109211,
           "price": 0,
           "formattedPrice": "免費",
@@ -286902,6 +286932,17 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 1": "$120.00",
+            "Raider Mk. 2": "$390.00",
+            "Raider Mk. 3": "$690.00",
+            "Raider Weekly": "$50.00"
+          }
+        },
+        {
           "timestamp": 1788837333321,
           "price": 0,
           "formattedPrice": "免費",
@@ -299562,13 +299603,31 @@
     "name": "No More Slimes!!: Idle Action",
     "maxPriceInfo": {
       "price": 320,
-      "formattedPrice": "$320.00"
+      "formattedPrice": "$320.00",
+      "Koro已解鎖！": "$60.00",
+      "Akane已解鎖！": "$60.00",
+      "「Akane」與「Koro」已解鎖！": "$90.00"
     },
     "minPriceInfo": {
       "price": 320,
-      "formattedPrice": "$320.00"
+      "formattedPrice": "$320.00",
+      "Koro已解鎖！": "$60.00",
+      "Akane已解鎖！": "$60.00",
+      "「Akane」與「Koro」已解鎖！": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Koro已解鎖！": "$60.00",
+            "Akane已解鎖！": "$60.00",
+            "「Akane」與「Koro」已解鎖！": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -299824,6 +299883,27 @@
           "timestamp": 1788647953625,
           "price": 135,
           "formattedPrice": "$135.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753081257": {
+    "name": "TickTrackTock",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]

@@ -17272,6 +17272,23 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Chapter N": "1,99 €",
+            "Chapter D": "1,99 €",
+            "Chapter L": "3,99 €",
+            "Chapter T": "1,99 €",
+            "Chapter R": "1,99 €",
+            "Chapter 0": "1,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter 10": "5,99 €",
+            "Chapter 9": "5,99 €",
+            "Chapter S": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1788837333321,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -34488,6 +34505,25 @@
     "history": [
       [
         {
+          "timestamp": 1788863997493,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "12 Mo.Fongo Ultimate": "99,99 €",
+            "3 Mo.Fongo Ultimate": "34,99 €",
+            "6 Mo.Fongo Ultimate": "59,99 €",
+            "1 Mo.Fongo Ultimate": "14,99 €",
+            "12 Mo.Remover anúncios": "19,99 €",
+            "6 Mo.Remover anúncios": "9,99 €",
+            "3 Mo.Remover anúncios": "5,99 €",
+            "1 Mo.Remover anúncios": "2,99 €",
+            "12 Mo.Fongo Plus": "99,99 €",
+            "12 Mo.texto globais": "29,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786852048726,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -43907,6 +43943,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788863997493,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Sound of Reunion: Phase I": "5,99 €",
+            "PinocchioP Selection": "3,99 €",
+            "Project Tuning: Scattered Echoes 1": "3,99 €",
+            "Challenge Pass \"Fallen Resonance\"": "2,99 €",
+            "Challenge Pass \"Camellia Selection\"": "3,99 €",
+            "Challenge Pass": "2,99 €",
+            "Challenge Pass \"Retro Fantasia\"": "2,99 €",
+            "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+            "Expansion Ch. Z": "3,99 €",
+            "Challenge Pass \"Speedcore Overload\"": "2,99 €"
+          }
+        },
         {
           "timestamp": 1788837333321,
           "price": 1.99,
@@ -123458,12 +123511,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "拦截猫股东会员": "29,99 €",
+      "拦截猫股东会员": "22,99 €",
       "连续包年订阅": "7,99 €",
       "连续包月订阅": "0,99 €",
       "连续包年会员": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "连续包年会员": "7,99 €",
+            "拦截猫股东会员": "22,99 €",
+            "连续包年订阅": "7,99 €",
+            "连续包月订阅": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767026109211,
@@ -138217,13 +138283,31 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Koro Unlocked!": "1,99 €",
+      "Akane Unlocked!": "1,99 €",
+      "Unlocked! “Akane” & “Koro”": "2,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Koro Unlocked!": "1,99 €",
+      "Akane Unlocked!": "1,99 €",
+      "Unlocked! “Akane” & “Koro”": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Koro Unlocked!": "1,99 €",
+            "Akane Unlocked!": "1,99 €",
+            "Unlocked! “Akane” & “Koro”": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -138501,6 +138585,29 @@
           "timestamp": 1788647953625,
           "price": 4.99,
           "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753081257": {
+    "trackId": 6753081257,
+    "trackName": "TickTrackTock",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788863997493,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]

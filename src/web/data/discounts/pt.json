@@ -2,7 +2,7 @@
   {
     "trackId": 485246824,
     "region": "pt",
-    "timestamp": 1788837333321,
+    "timestamp": 1788863997493,
     "discounts": [
       {
         "type": "price",
@@ -13,17 +13,17 @@
       },
       {
         "type": "inAppPurchase",
-        "name": "Chapter D",
-        "from": "5,99 €",
-        "to": "1,99 €",
-        "range": "[1,99 € ~ 5,99 €]"
-      },
-      {
-        "type": "inAppPurchase",
         "name": "Chapter N",
         "from": "3,99 €",
         "to": "1,99 €",
         "range": "[1,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter D",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -59,6 +59,26 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id485246824",
     "trackName": "Cytus",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6476010032,
+    "region": "pt",
+    "timestamp": 1788863997493,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "拦截猫股东会员",
+        "from": "29,99 €",
+        "to": "22,99 €",
+        "range": "[22,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6476010032",
+    "trackName": "拦截猫 - 骚扰电话与垃圾短信拦截",
     "firstRecordedAt": 1761797674362
   },
   {
