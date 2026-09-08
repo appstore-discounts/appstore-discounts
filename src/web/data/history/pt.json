@@ -17255,21 +17255,40 @@
       "Chapter 9": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
-      "Chapter D": "5,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Chapter D": "1,99 €",
       "Chapter K": "5,99 €",
       "Chapter S": "5,99 €",
       "Chapter 7": "5,99 €",
-      "Chapter N": "3,99 €",
-      "Chapter L": "9,99 €",
-      "Chapter T": "5,99 €",
-      "Chapter R": "5,99 €",
-      "Chapter 0": "5,99 €",
+      "Chapter N": "1,99 €",
+      "Chapter L": "3,99 €",
+      "Chapter T": "1,99 €",
+      "Chapter R": "1,99 €",
+      "Chapter 0": "1,99 €",
       "Chapter 10": "5,99 €",
       "Chapter 9": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Chapter D": "1,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter S": "5,99 €",
+            "Chapter 7": "5,99 €",
+            "Chapter N": "1,99 €",
+            "Chapter L": "3,99 €",
+            "Chapter T": "1,99 €",
+            "Chapter R": "1,99 €",
+            "Chapter 0": "1,99 €",
+            "Chapter 10": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786626497675,
@@ -30483,6 +30502,14 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788628272448,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -31039,7 +31066,7 @@
       "Rayark Selection Vol.2": "3,99 €",
       "Rayark Selection Vol.1": "3,99 €",
       "V.K Collection": "3,99 €",
-      "Forgotten Hourglass": "9,99 €",
+      "Forgotten Hourglass": "7,99 €",
       "MILI Collection": "3,99 €",
       "M2U X NICODE Collection": "3,99 €",
       "Sakuzyo Collection": "3,99 €",
@@ -31060,6 +31087,25 @@
       "MILI collection Vol.3": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "3,99 €",
+            "Rayark Selection Vol.1": "3,99 €",
+            "V.K Collection": "3,99 €",
+            "Forgotten Hourglass": "7,99 €",
+            "MILI Collection": "3,99 €",
+            "M2U X NICODE Collection": "3,99 €",
+            "Sakuzyo Collection": "3,99 €",
+            "Knight Iris": "3,99 €",
+            "Cytus Selection Vol.1": "3,99 €",
+            "Brian Crain Collection": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785352482834,
@@ -35321,10 +35367,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -40876,6 +40930,22 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Package Ⅵ": "99,99 €",
+            "Package Ⅴ": "44,99 €",
+            "Package Ⅳ": "22,99 €",
+            "Package Ⅲ": "9,99 €",
+            "Package Ⅱ": "5,99 €",
+            "Package Ⅱ-other": "1,99 €",
+            "Package I": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788734577170,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -43791,7 +43861,17 @@
       "Challenge Pass \"Fallen Resonance\"": "2,99 €",
       "PinocchioP Selection": "3,99 €",
       "Project Tuning: Scattered Echoes 1": "3,99 €",
-      "Sound of Reunion: Phase I": "5,99 €"
+      "Sound of Reunion: Phase I": "5,99 €",
+      "Side Story Chapter 1": "3,99 €",
+      "Side Story Chapter 2": "3,99 €",
+      "Expansion Chapter B": "3,99 €",
+      "Expansion Chapter C": "3,99 €",
+      "Expansion Chapter D": "3,99 €",
+      "Expansion Chapter E": "3,99 €",
+      "Expansion Chapter F": "3,99 €",
+      "Expansion Chapter G": "3,99 €",
+      "Expansion Chapter H": "3,99 €",
+      "Expansion Chapter I": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -43813,9 +43893,38 @@
       "Challenge Pass \"Fallen Resonance\"": "2,99 €",
       "PinocchioP Selection": "3,99 €",
       "Project Tuning: Scattered Echoes 1": "3,99 €",
-      "Sound of Reunion: Phase I": "5,99 €"
+      "Sound of Reunion: Phase I": "5,99 €",
+      "Side Story Chapter 1": "3,99 €",
+      "Side Story Chapter 2": "3,99 €",
+      "Expansion Chapter B": "3,99 €",
+      "Expansion Chapter C": "3,99 €",
+      "Expansion Chapter D": "3,99 €",
+      "Expansion Chapter E": "3,99 €",
+      "Expansion Chapter F": "3,99 €",
+      "Expansion Chapter G": "3,99 €",
+      "Expansion Chapter H": "3,99 €",
+      "Expansion Chapter I": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Side Story Chapter 1": "3,99 €",
+            "Side Story Chapter 2": "3,99 €",
+            "Expansion Chapter B": "3,99 €",
+            "Expansion Chapter C": "3,99 €",
+            "Expansion Chapter D": "3,99 €",
+            "Expansion Chapter E": "3,99 €",
+            "Expansion Chapter F": "3,99 €",
+            "Expansion Chapter G": "3,99 €",
+            "Expansion Chapter H": "3,99 €",
+            "Expansion Chapter I": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786991874784,
@@ -49276,6 +49385,25 @@
       "Skywarden Unlock Pack": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "XP de Torre": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "Torre completa e Excelência": "9,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Ponto de Conhecimento": "1,19 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788815378111,
@@ -60593,13 +60721,13 @@
       "Miku": "9,99 €",
       "CAPSO": "3,99 €",
       "9 Characters": "29,99 €",
-      "Aroma": "9,99 €",
-      "ConneR": "9,99 €",
+      "Aroma": "3,99 €",
+      "ConneR": "3,99 €",
       "Ilka": "5,99 €",
-      "Xenon": "9,99 €",
+      "Xenon": "3,99 €",
       "Amiya": "9,99 €",
       "Alice": "5,99 €",
-      "Cherry": "9,99 €",
+      "Cherry": "3,99 €",
       "Rotaeno": "5,99 €",
       "AD:HOUSE Selection": "5,99 €",
       "Stream Palette Selection": "5,99 €",
@@ -60624,6 +60752,25 @@
       "COLORFUL STAGE!": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "9 Characters": "39,99 €",
+            "CAPSO": "5,99 €",
+            "ConneR": "3,99 €",
+            "Aroma": "3,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "3,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788801558459,
@@ -67792,6 +67939,14 @@
       "formattedPrice": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786239686703,
@@ -92428,6 +92583,14 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785794911690,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -116894,13 +117057,25 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Full Game Unlock": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Full Game Unlock": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Full Game Unlock": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -131603,11 +131778,21 @@
       "Monthly subscription": "14,99 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Monthly subscription": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Monthly subscription": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,
@@ -133889,6 +134074,19 @@
       "Skin Ticket x8": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Blessing of Experience": "1,99 €",
+            "Skin Ticket x1": "0,29 €",
+            "Skin Ticket x3": "0,99 €",
+            "Skin Ticket x8": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786239686703,

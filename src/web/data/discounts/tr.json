@@ -1,5 +1,235 @@
 [
   {
+    "trackId": 485246824,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter D",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter R",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter N",
+        "from": "₺199,99",
+        "to": "₺79,99",
+        "range": "[₺79,99 ~ ₺199,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter 0",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter T",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter L",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id485246824",
+    "trackName": "Cytus",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 870322730,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺39,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id870322730",
+    "trackName": "Implosion - Never Lose Hope",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 982457990,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺19,99",
+        "to": "Free",
+        "range": "[Free ~ ₺19,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id982457990",
+    "trackName": "Cross Infinity: Eschaton Rifts",
+    "firstRecordedAt": 1787737196607
+  },
+  {
+    "trackId": 1290687550,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Xenon",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ConneR",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Cherry",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Memory Unit [A1]",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1411823462,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺29,99",
+        "range": "[₺19,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 1586126746,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1586126746",
+    "trackName": "Labyrinth City",
+    "firstRecordedAt": 1772535071513
+  },
+  {
+    "trackId": 6751122124,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6751122124",
+    "trackName": "Notteka | AI Meeting Notes",
+    "firstRecordedAt": 1775335273950
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tr",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺39,99",
+        "range": "[₺29,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 39.99,
+    "formattedPrice": "₺39,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1290687550,
     "region": "tr",
     "timestamp": 1788801558459,

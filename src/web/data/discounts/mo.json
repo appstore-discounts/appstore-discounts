@@ -2,7 +2,7 @@
   {
     "trackId": 485246824,
     "region": "mo",
-    "timestamp": 1788801558459,
+    "timestamp": 1788837333321,
     "discounts": [
       {
         "type": "price",
@@ -10,6 +10,34 @@
         "from": "USD 1.99",
         "to": "免費",
         "range": "[免費 ~ USD 1.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter D",
+        "from": "USD 4.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter 0",
+        "from": "USD 4.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter L",
+        "from": "USD 9.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter R",
+        "from": "USD 4.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
       }
     ],
     "price": 0,
@@ -18,6 +46,26 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id485246824",
     "trackName": "Cytus",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6751122124,
+    "region": "mo",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.29",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6751122124",
+    "trackName": "Notteka | AI會議記錄助手",
+    "firstRecordedAt": 1775335273950
   },
   {
     "trackId": 870322730,
@@ -12200,7 +12248,7 @@
         "name": "Price",
         "from": "USD 0.99",
         "to": "USD 0.29",
-        "range": "[USD 0.29 ~ USD 0.99]"
+        "range": "[免費 ~ USD 0.99]"
       }
     ],
     "price": 0.29,
@@ -13084,7 +13132,7 @@
         "name": "Price",
         "from": "USD 0.99",
         "to": "USD 0.29",
-        "range": "[USD 0.29 ~ USD 0.99]"
+        "range": "[免費 ~ USD 0.99]"
       }
     ],
     "price": 0.29,

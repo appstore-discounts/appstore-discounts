@@ -25943,16 +25943,16 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Chapter D": "USD 4.99",
+      "Chapter D": "USD 1.99",
       "Chapter 6": "USD 4.99",
       "Chapter 5": "USD 4.99",
-      "Chapter 0": "USD 4.99",
+      "Chapter 0": "USD 1.99",
       "Chapter 10": "USD 4.99",
       "Chapter 8": "USD 4.99",
-      "Chapter L": "USD 9.99",
+      "Chapter L": "USD 3.99",
       "Chapter K": "USD 4.99",
       "Chapter S": "USD 4.99",
-      "Chapter R": "USD 4.99",
+      "Chapter R": "USD 1.99",
       "Chapter N": "USD 3.99",
       "Chapter T": "USD 4.99",
       "Chapter 9": "USD 4.99",
@@ -25960,6 +25960,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Chapter D": "USD 1.99",
+            "Chapter 6": "USD 4.99",
+            "Chapter 5": "USD 4.99",
+            "Chapter 0": "USD 1.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 8": "USD 4.99",
+            "Chapter L": "USD 3.99",
+            "Chapter K": "USD 4.99",
+            "Chapter S": "USD 4.99",
+            "Chapter R": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 0,
@@ -168606,13 +168623,25 @@
     "name": "黃金礦工 - 手錶遊戲 經典複刻",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Full Game Unlock": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.59,
-      "formattedPrice": "USD 0.59"
+      "formattedPrice": "USD 0.59",
+      "Full Game Unlock": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Full Game Unlock": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751973117115,
@@ -194723,11 +194752,21 @@
       "Monthly subscription": "USD 12.49"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "Monthly subscription": "USD 12.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly subscription": "USD 12.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,

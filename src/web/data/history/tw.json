@@ -10214,6 +10214,25 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Rameau: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788781262725,
           "price": 790,
           "formattedPrice": "$790.00",
@@ -28777,6 +28796,25 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 2": "$70.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788619201969,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -31246,14 +31284,14 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Chapter D": "$150.00",
-      "Chapter R": "$150.00",
-      "Chapter 0": "$150.00",
-      "Chapter L": "$320.00",
-      "Chapter N": "$120.00",
+      "Chapter D": "$60.00",
+      "Chapter R": "$60.00",
+      "Chapter 0": "$60.00",
+      "Chapter L": "$120.00",
+      "Chapter N": "$50.00",
       "Chapter K": "$150.00",
       "Chapter 6": "$150.00",
-      "Chapter T": "$150.00",
+      "Chapter T": "$60.00",
       "Chapter S": "$150.00",
       "Chapter 5": "$150.00",
       "Chapter 10": "$150.00",
@@ -31273,6 +31311,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Chapter D": "$60.00",
+            "Chapter R": "$60.00",
+            "Chapter 0": "$60.00",
+            "Chapter L": "$120.00",
+            "Chapter N": "$50.00",
+            "Chapter T": "$60.00",
+            "Chapter K": "$150.00",
+            "Chapter 6": "$150.00",
+            "Chapter S": "$150.00",
+            "Chapter 5": "$150.00"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 0,
@@ -100941,6 +100996,23 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "63,000 points": "$90.00",
+            "225,000 points": "$320.00",
+            "176,000 points": "$290.00",
+            "345,000 points": "$490.00",
+            "20,000 points": "$30.00",
+            "100,000 points": "$90.00",
+            "600,000 points": "$790.00",
+            "50 kilometers": "$60.00",
+            "500,000 points": "$320.00",
+            "25,000 points": "$30.00"
+          }
+        },
+        {
           "timestamp": 1788815378111,
           "price": 20,
           "formattedPrice": "$20.00",
@@ -113464,6 +113536,25 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "寶石180個": "$90.00",
+            "魔法禮包": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "寶石660個": "$290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788734577170,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -123496,6 +123587,25 @@
       "SF2SEPack9": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "寶石堆": "$90.00",
+            "寶石箱": "$320.00",
+            "金幣堆": "$30.00",
+            "金幣袋": "$150.00",
+            "寶石袋": "$690.00",
+            "宝石箱": "$1,490.00",
+            "金幣箱": "$690.00",
+            "SF2SEPack20": "$690.00",
+            "SF2SEPack3": "$90.00",
+            "SF2SEPack120": "$3,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788467599321,
@@ -238586,13 +238696,25 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "Full Game Unlock": "$30.00"
     },
     "minPriceInfo": {
       "price": 20,
-      "formattedPrice": "$20.00"
+      "formattedPrice": "$20.00",
+      "Full Game Unlock": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Full Game Unlock": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751973117115,
@@ -241943,6 +242065,25 @@
       "夜色微醺": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "2025春ネモフィラスキン": "$20.00",
+            "夜色微醺": "$30.00",
+            "星降之夜": "$30.00",
+            "萬聖派對": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "新年日出": "$30.00",
+            "花火大會": "$30.00",
+            "夏日庭院": "$20.00",
+            "紅葉漫步": "$30.00",
+            "秘密教會": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
@@ -290381,6 +290522,17 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 2": "$150.00",
+            "Raider Mk. 3": "$220.00",
+            "Raider Mk. 1": "$30.00",
+            "Raider Weekly": "$50.00"
+          }
+        },
+        {
           "timestamp": 1788815378111,
           "price": 0,
           "formattedPrice": "免費",
@@ -297007,11 +297159,21 @@
       "Monthly subscription": "$390.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Monthly subscription": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly subscription": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,

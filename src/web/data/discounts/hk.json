@@ -2,7 +2,7 @@
   {
     "trackId": 485246824,
     "region": "hk",
-    "timestamp": 1788801558459,
+    "timestamp": 1788837333321,
     "discounts": [
       {
         "type": "price",
@@ -10,6 +10,48 @@
         "from": "HK$ 18.00",
         "to": "免費",
         "range": "[免費 ~ HK$ 18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter D",
+        "from": "HK$ 38.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter R",
+        "from": "HK$ 38.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter 0",
+        "from": "HK$ 38.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter L",
+        "from": "HK$ 88.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 88.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter N",
+        "from": "HK$ 32.00",
+        "to": "HK$ 12.00",
+        "range": "[HK$ 12.00 ~ HK$ 32.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter T",
+        "from": "HK$ 38.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
       }
     ],
     "price": 0,
@@ -18,6 +60,26 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id485246824",
     "trackName": "Cytus",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6751122124,
+    "region": "hk",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 2.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6751122124",
+    "trackName": "Notteka | AI會議記錄助手",
+    "firstRecordedAt": 1775335273950
   },
   {
     "trackId": 700637744,
@@ -10024,7 +10086,7 @@
         "name": "Price",
         "from": "HK$ 3.00",
         "to": "HK$ 2.00",
-        "range": "[HK$ 2.00 ~ HK$ 8.00]"
+        "range": "[免費 ~ HK$ 8.00]"
       }
     ],
     "price": 2,
@@ -12171,7 +12233,7 @@
         "name": "Price",
         "from": "HK$ 8.00",
         "to": "HK$ 2.00",
-        "range": "[HK$ 2.00 ~ HK$ 8.00]"
+        "range": "[免費 ~ HK$ 8.00]"
       }
     ],
     "price": 2,
@@ -13103,7 +13165,7 @@
         "name": "Price",
         "from": "HK$ 8.00",
         "to": "HK$ 2.00",
-        "range": "[HK$ 2.00 ~ HK$ 8.00]"
+        "range": "[免費 ~ HK$ 8.00]"
       }
     ],
     "price": 2,

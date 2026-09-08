@@ -32533,14 +32533,14 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Chapter D": "HK$ 38.00",
-      "Chapter 0": "HK$ 38.00",
-      "Chapter R": "HK$ 38.00",
-      "Chapter L": "HK$ 88.00",
-      "Chapter N": "HK$ 32.00",
+      "Chapter D": "HK$ 18.00",
+      "Chapter 0": "HK$ 18.00",
+      "Chapter R": "HK$ 18.00",
+      "Chapter L": "HK$ 32.00",
+      "Chapter N": "HK$ 12.00",
       "Chapter K": "HK$ 38.00",
       "Chapter S": "HK$ 38.00",
-      "Chapter T": "HK$ 38.00",
+      "Chapter T": "HK$ 18.00",
       "Chapter 8": "HK$ 38.00",
       "Chapter 6": "HK$ 38.00",
       "Chapter 10": "HK$ 38.00",
@@ -32561,6 +32561,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Chapter D": "HK$ 18.00",
+            "Chapter R": "HK$ 18.00",
+            "Chapter 0": "HK$ 18.00",
+            "Chapter L": "HK$ 32.00",
+            "Chapter N": "HK$ 12.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter T": "HK$ 18.00",
+            "Chapter S": "HK$ 38.00",
+            "Chapter 8": "HK$ 38.00",
+            "Chapter 6": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 0,
@@ -142657,6 +142674,23 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 38.00",
+            "Reason Font Pack": "HK$ 0.00",
+            "Just Font Pack": "HK$ 0.00",
+            "All Filter Packs": "HK$ 18.00",
+            "Always Font Pack": "HK$ 0.00",
+            "Unique Font Pack": "HK$ 8.00",
+            "Rainbow Film Pack": "HK$ 8.00",
+            "All Poster Packs": "HK$ 22.00",
+            "Pic Say Poster Pack": "HK$ 8.00",
+            "Insta Poster Pack": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1788815378111,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -238434,13 +238468,25 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "Full Game Unlock": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 6,
-      "formattedPrice": "HK$ 6.00"
+      "formattedPrice": "HK$ 6.00",
+      "Full Game Unlock": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Full Game Unlock": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751973117115,
@@ -285734,11 +285780,21 @@
       "Monthly subscription": "HK$ 98.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Monthly subscription": "HK$ 98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly subscription": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779381692434,

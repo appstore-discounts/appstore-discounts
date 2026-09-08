@@ -1,5 +1,235 @@
 [
   {
+    "trackId": 485246824,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter D",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter N",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter L",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter T",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter R",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter 0",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id485246824",
+    "trackName": "Cytus",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 870322730,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id870322730",
+    "trackName": "Implosion - Never Lose Hope",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 982457990,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,29 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,29 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id982457990",
+    "trackName": "求生无限 - 单机经典无限流大冒险",
+    "firstRecordedAt": 1787737196607
+  },
+  {
+    "trackId": 1290687550,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ConneR",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Aroma",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Xenon",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Cherry",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1411823462,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1586126746,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1586126746",
+    "trackName": "Labyrinth City",
+    "firstRecordedAt": 1772535071513
+  },
+  {
+    "trackId": 6751122124,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6751122124",
+    "trackName": "Notteka ｜ 专业粤语会议助手",
+    "firstRecordedAt": 1775335273950
+  },
+  {
+    "trackId": 6476342802,
+    "region": "pt",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,49 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 6449003064,
     "region": "pt",
     "timestamp": 1788801558459,
@@ -12718,7 +12948,7 @@
         "name": "Price",
         "from": "0,99 €",
         "to": "0,29 €",
-        "range": "[0,29 € ~ 0,99 €]"
+        "range": "[Gratuito ~ 0,99 €]"
       }
     ],
     "price": 0.29,

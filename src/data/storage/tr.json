@@ -36576,16 +36576,16 @@
       "Chapter 7": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
-      "Chapter D": "₺229,99",
-      "Chapter R": "₺229,99",
-      "Chapter N": "₺179,99",
-      "Chapter 0": "₺229,99",
+      "price": 0,
+      "formattedPrice": "Free",
+      "Chapter D": "₺99,99",
+      "Chapter R": "₺99,99",
+      "Chapter N": "₺79,99",
+      "Chapter 0": "₺99,99",
       "Chapter K": "₺229,99",
-      "Chapter T": "₺229,99",
+      "Chapter T": "₺99,99",
       "Chapter S": "₺229,99",
-      "Chapter L": "₺449,99",
+      "Chapter L": "₺199,99",
       "Chapter 8": "₺229,99",
       "Chapter 10": "₺229,99",
       "Chapter 9": "₺229,99",
@@ -36602,6 +36602,25 @@
       "Chapter 7": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Chapter D": "₺99,99",
+            "Chapter R": "₺99,99",
+            "Chapter N": "₺79,99",
+            "Chapter 0": "₺99,99",
+            "Chapter K": "₺249,99",
+            "Chapter T": "₺99,99",
+            "Chapter S": "₺249,99",
+            "Chapter L": "₺199,99",
+            "Chapter 8": "₺249,99",
+            "Chapter 10": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785686417506,
@@ -61939,6 +61958,14 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788628272448,
           "price": 0,
           "formattedPrice": "Free",
@@ -62606,6 +62633,25 @@
       "L: The Upper Collection": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "₺199,99",
+            "V.K Collection": "₺199,99",
+            "Rayark Selection Vol.2": "₺199,99",
+            "Forgotten Hourglass": "₺399,99",
+            "Cytus Selection Vol.1": "₺199,99",
+            "Cytus Selection Vol.2": "₺199,99",
+            "Brian Crain Collection": "₺199,99",
+            "Knight Iris": "₺199,99",
+            "Knight Rosabell Collection": "₺199,99",
+            "MILI Collection": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786929139377,
@@ -71773,6 +71819,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757718639352,
@@ -84957,6 +85011,22 @@
       "Package I": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Package Ⅵ": "₺4.999,99",
+            "Package Ⅴ": "₺1.999,99",
+            "Package Ⅳ": "₺999,99",
+            "Package Ⅲ": "₺499,99",
+            "Package Ⅱ": "₺249,99",
+            "Package Ⅱ-other": "₺99,99",
+            "Package I": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788734577170,
@@ -125728,12 +125798,12 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Xenon": "₺449,99",
+      "Xenon": "₺199,99",
       "Miku": "₺449,99",
-      "ConneR": "₺449,99",
+      "ConneR": "₺199,99",
       "CAPSO": "₺199,99",
       "9 Characters": "₺1.499,99",
-      "Cherry": "₺449,99",
+      "Cherry": "₺199,99",
       "Memory Unit [A1]": "₺99,99",
       "JOE": "₺449,99",
       "Ilka": "₺229,99",
@@ -125776,6 +125846,25 @@
       "Featured Article Vol. 1": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Xenon": "₺199,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺249,99",
+            "COLORFUL STAGE!": "₺249,99",
+            "ConneR": "₺199,99",
+            "9 Characters": "₺1.999,99",
+            "Cherry": "₺199,99",
+            "Memory Unit [A1]": "₺99,99",
+            "Featured Article Vol. 1": "₺99,99",
+            "Ilka": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788801558459,
@@ -140203,6 +140292,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786239686703,
@@ -157779,6 +157876,25 @@
       "Lava Bundle": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "Monstropolis Board": "₺399,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788781262725,
@@ -199378,6 +199494,14 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785794911690,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -224141,13 +224265,25 @@
     "name": "Gold Miner - Watch Games",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Full Game Unlock": "₺49,99"
     },
     "minPriceInfo": {
       "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "formattedPrice": "₺29,99",
+      "Full Game Unlock": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Full Game Unlock": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -236320,6 +236456,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "UH-60": "₺49,99",
+            "Airbus A321": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 737-900": "₺99,99",
+            "EC135": "₺49,99",
+            "Global scenery - 12 months": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788781262725,
@@ -272806,11 +272961,21 @@
       "Monthly subscription": "₺599,99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Monthly subscription": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly subscription": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,
@@ -275004,6 +275169,19 @@
       "Skin Ticket x8": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Blessing of Experience": "₺99,99",
+            "Skin Ticket x1": "₺19,99",
+            "Skin Ticket x3": "₺49,99",
+            "Skin Ticket x8": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786239686703,

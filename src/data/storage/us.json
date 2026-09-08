@@ -36499,15 +36499,15 @@
       "Chapter 6": "$4.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
-      "Chapter D": "$4.99",
-      "Chapter R": "$4.99",
-      "Chapter 0": "$4.99",
-      "Chapter L": "$9.99",
-      "Chapter T": "$4.99",
+      "price": 0,
+      "formattedPrice": "Free",
+      "Chapter D": "$1.99",
+      "Chapter R": "$1.99",
+      "Chapter 0": "$1.99",
+      "Chapter L": "$3.99",
+      "Chapter T": "$1.99",
       "Chapter K": "$4.99",
-      "Chapter N": "$3.99",
+      "Chapter N": "$1.49",
       "Chapter S": "$4.99",
       "Chapter 8": "$4.99",
       "Chapter 10": "$4.99",
@@ -36527,6 +36527,25 @@
       "Chapter 6": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Chapter D": "$1.99",
+            "Chapter R": "$1.99",
+            "Chapter 0": "$1.99",
+            "Chapter L": "$3.99",
+            "Chapter T": "$1.99",
+            "Chapter K": "$4.99",
+            "Chapter N": "$1.49",
+            "Chapter S": "$4.99",
+            "Chapter 8": "$4.99",
+            "Chapter 10": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786025220529,
@@ -63547,6 +63566,14 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788628272448,
           "price": 0,
           "formattedPrice": "Free",
@@ -64132,6 +64159,25 @@
       "Eshen Chen Colleciton Vol.1": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "$3.99",
+            "Rayark Selection Vol.2": "$3.99",
+            "V.K Collection": "$3.99",
+            "Forgotten Hourglass": "$6.99",
+            "Cytus Selection Vol.1": "$3.99",
+            "Knight Iris": "$3.99",
+            "Cytus Selection Vol.2": "$3.99",
+            "M2U X NICODE Collection": "$3.99",
+            "MILI Collection": "$3.99",
+            "Rayark Selection Vol.3": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787596725792,
@@ -77910,6 +77956,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757733377846,
@@ -137296,13 +137350,13 @@
       "formattedPrice": "Free",
       "Miku": "$9.99",
       "CAPSO": "$3.99",
-      "ConneR": "$9.99",
-      "Xenon": "$9.99",
+      "ConneR": "$3.99",
+      "Xenon": "$3.99",
       "9 Characters": "$27.99",
-      "Cherry": "$9.99",
+      "Cherry": "$3.99",
       "Kizuna AI": "$4.99",
-      "Nora": "$9.99",
-      "Neko": "$9.99",
+      "Nora": "$3.99",
+      "Neko": "$3.99",
       "Marvelous Mix vol. 1": "$1.99",
       "HARDCORE TANO*C VOL.II": "$3.99",
       "HARDCORE TANO*C": "$3.99",
@@ -137331,6 +137385,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$4.99",
+            "ConneR": "$3.99",
+            "Xenon": "$3.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$3.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$3.99",
+            "Neko": "$3.99",
+            "Marvelous Mix vol. 1": "$1.99"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 1.99,
@@ -160168,6 +160239,14 @@
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786249047526,
@@ -215572,6 +215651,23 @@
     "history": [
       [
         {
+          "timestamp": 1788837333321,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Welcome Offer": "$9.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Mix Pack 1": "$2.99",
+            "Ready to Roast": "$6.49"
+          }
+        },
+        {
           "timestamp": 1788801558459,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -228372,6 +228468,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785810483430,
@@ -244791,6 +244895,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Season 2 Pass": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Critical Mass": "$6.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Survival Guide": "$2.99"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 1.99,
@@ -264957,13 +265078,25 @@
     "name": "Gold Miner - Watch Games",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Full Game Unlock": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.59,
-      "formattedPrice": "$0.59"
+      "formattedPrice": "$0.59",
+      "Full Game Unlock": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Full Game Unlock": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751969641637,
@@ -265038,6 +265171,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Double Combat Rewards": "$1.99",
+            "300 Gold": "$4.99",
+            "Monthly Card": "$4.99",
+            "60 Gold": "$0.99",
+            "Professional Training": "$14.99",
+            "680 Gold": "$9.99",
+            "980 Gold": "$14.99",
+            "120 Gold": "$1.99",
+            "Backpack Expansion": "$1.99",
+            "Special Training": "$9.99"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 0.29,
@@ -267486,6 +267636,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Wagashi Whispers": "$1.19",
+            "Night Chill": "$1.79",
+            "Wacky Halloween Set": "$2.39",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "Christmas night": "$1.79"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 2.99,
@@ -289865,6 +290032,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788837333321,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        },
         {
           "timestamp": 1788801558459,
           "price": 3.99,
@@ -332169,11 +332353,21 @@
       "Monthly subscription": "$12.49"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29",
+      "price": 0,
+      "formattedPrice": "Free",
       "Monthly subscription": "$12.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly subscription": "$12.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,
@@ -334851,6 +335045,19 @@
       "Skin Ticket x1": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788837333321,
+          "price": 0.69,
+          "formattedPrice": "$0.69",
+          "inAppPurchases": {
+            "Blessing of Experience": "$1.99",
+            "Skin Ticket x3": "$0.99",
+            "Skin Ticket x8": "$2.99",
+            "Skin Ticket x1": "$0.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786249047526,

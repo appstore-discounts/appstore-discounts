@@ -2,7 +2,7 @@
   {
     "trackId": 485246824,
     "region": "tw",
-    "timestamp": 1788801558459,
+    "timestamp": 1788837333321,
     "discounts": [
       {
         "type": "price",
@@ -18,6 +18,26 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id485246824",
     "trackName": "Cytus",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6751122124,
+    "region": "tw",
+    "timestamp": 1788837333321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6751122124",
+    "trackName": "Notteka | AI會議記錄助手",
+    "firstRecordedAt": 1775335273950
   },
   {
     "trackId": 870322730,
@@ -12454,7 +12474,7 @@
         "name": "Price",
         "from": "$30.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $30.00]"
+        "range": "[免費 ~ $30.00]"
       }
     ],
     "price": 10,
@@ -13385,7 +13405,7 @@
         "name": "Price",
         "from": "$30.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $30.00]"
+        "range": "[免費 ~ $30.00]"
       }
     ],
     "price": 10,
