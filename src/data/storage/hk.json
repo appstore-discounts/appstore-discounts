@@ -23611,6 +23611,34 @@
       ]
     ]
   },
+  "443646748": {
+    "name": "健身夥伴+：健身房鍛煉",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "Premium": "HK$ 388.00",
+      "Fitness Buddy Premium": "HK$ 238.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "Premium": "HK$ 388.00",
+      "Fitness Buddy Premium": "HK$ 238.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Premium": "HK$ 388.00",
+            "Fitness Buddy Premium": "HK$ 238.00"
+          }
+        }
+      ]
+    ]
+  },
   "445270462": {
     "name": "紫微斗數排盤",
     "maxPriceInfo": {
@@ -25460,13 +25488,25 @@
     "name": "Heart Murmurs Pro",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "Full Library": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "Full Library": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Full Library": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763735158536,
@@ -203696,6 +203736,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788900351663,
+          "price": 139,
+          "formattedPrice": "HK$ 139.00",
+          "inAppPurchases": {
+            "所有內容": "HK$ 0.00",
+            "《Opposing Fronts》火線對決": "HK$ 0.00",
+            "《Tales of Valor》": "HK$ 0.00",
+            "1 vs 1 獨立戰役地圖": "HK$ 0.00",
+            "戰役任務 2-5": "HK$ 0.00",
+            "2 vs 2 獨立戰役地圖": "HK$ 0.00",
+            "高畫質模型": "HK$ 0.00",
+            "4 vs 4 獨立戰役地圖": "HK$ 0.00",
+            "3 vs 3 獨立戰役地圖": "HK$ 0.00",
+            "戰役任務 6-10": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1788883424995,
           "price": 139,

@@ -28985,6 +28985,34 @@
       ]
     ]
   },
+  "443646748": {
+    "name": "Fitness Buddy+ Workout Trainer",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Premium": "$29.99",
+      "Fitness Buddy Premium": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Premium": "$29.99",
+      "Fitness Buddy Premium": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium": "$29.99",
+            "Fitness Buddy Premium": "$9.99"
+          }
+        }
+      ]
+    ]
+  },
   "445270462": {
     "name": "紫微斗數排盤",
     "maxPriceInfo": {
@@ -30899,13 +30927,25 @@
     "name": "Heart Murmurs Pro",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Full Library": "$4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Full Library": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Full Library": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763735158536,

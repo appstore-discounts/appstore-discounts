@@ -25501,6 +25501,34 @@
       ]
     ]
   },
+  "443646748": {
+    "name": "Fitness Buddy+ Gym Workout Log",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "Premium": "₺174,99",
+      "Fitness Buddy Premium": "₺26,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "Premium": "₺174,99",
+      "Fitness Buddy Premium": "₺26,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Premium": "₺174,99",
+            "Fitness Buddy Premium": "₺26,99"
+          }
+        }
+      ]
+    ]
+  },
   "445270462": {
     "name": "紫微斗數排盤",
     "maxPriceInfo": {
@@ -27525,13 +27553,25 @@
     "name": "Heart Murmurs Pro",
     "maxPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "Full Library": "₺249,99"
     },
     "minPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "Full Library": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Full Library": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763735158536,

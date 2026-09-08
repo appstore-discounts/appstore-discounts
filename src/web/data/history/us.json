@@ -29367,6 +29367,36 @@
       ]
     ]
   },
+  "443646748": {
+    "trackId": 443646748,
+    "trackName": "Fitness Buddy+ Workout Trainer",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Premium": "$29.99",
+      "Fitness Buddy Premium": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Premium": "$29.99",
+      "Fitness Buddy Premium": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium": "$29.99",
+            "Fitness Buddy Premium": "$9.99"
+          }
+        }
+      ]
+    ]
+  },
   "445270462": {
     "trackId": 445270462,
     "trackName": "紫微斗數排盤",
@@ -31291,13 +31321,25 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Full Library": "$4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Full Library": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Full Library": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763735158536,

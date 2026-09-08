@@ -22859,6 +22859,36 @@
       ]
     ]
   },
+  "443646748": {
+    "trackId": 443646748,
+    "trackName": "健身夥伴+：健身房鍛煉",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Premium": "$1,260.00",
+      "Fitness Buddy Premium": "$890.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Premium": "$1,260.00",
+      "Fitness Buddy Premium": "$890.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Premium": "$1,260.00",
+            "Fitness Buddy Premium": "$890.00"
+          }
+        }
+      ]
+    ]
+  },
   "445270462": {
     "trackId": 445270462,
     "trackName": "紫微斗數排盤",
@@ -24793,13 +24823,25 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "Full Library": "$150.00"
     },
     "minPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "Full Library": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Full Library": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763735158536,

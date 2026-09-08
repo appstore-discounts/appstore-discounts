@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2261` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2262` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2262|443646748|Automatic|健身伙伴+：健身房锻炼|健身夥伴+：健身房鍛煉|健身夥伴+：健身房鍛煉|健身夥伴+：健身房鍛煉|Fitness Buddy+ Workout Trainer|Fitness Buddy+ Gym Workout Log|Fitness Amigo+|
 |2261|6753081257|Automatic|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|
 |2260|480102733|Automatic|Awesome日历-日程管理/待办事项/日记本|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|
 |2259|333195169|Automatic|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|

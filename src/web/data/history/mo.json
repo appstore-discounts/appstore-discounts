@@ -17483,6 +17483,33 @@
       ]
     ]
   },
+  "443646748": {
+    "trackId": 443646748,
+    "trackName": "健身夥伴+：健身房鍛煉",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
+      "Premium": "USD 79.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
+      "Premium": "USD 79.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Premium": "USD 79.99"
+          }
+        }
+      ]
+    ]
+  },
   "445270462": {
     "trackId": 445270462,
     "trackName": "紫微斗數排盤",
@@ -17567,6 +17594,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788900351663,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "大頑固的故事": "USD 2.99",
+            "神秘鴨": "USD 2.99",
+            "愛麗的故事": "USD 0.99",
+            "鎖匠 - 一把鎖": "USD 0.99",
+            "鎖匠 - 全部的小頑皮鎖": "USD 4.99",
+            "假日優惠套裝": "USD 3.99",
+            "鎖匠 – 全部的神秘鎖": "USD 4.99",
+            "鎖匠 – 全部的大頑固鎖": "USD 1.99",
+            "鎖匠 － 全部愛麗鎖": "USD 1.99",
+            "神秘鴨優惠套裝": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1788883424995,
           "price": 1.99,
@@ -19516,13 +19560,25 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "Full Library": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "Full Library": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Full Library": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763735158536,
@@ -160075,6 +160131,23 @@
     "history": [
       [
         {
+          "timestamp": 1788900351663,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "終極套件": "USD 14.99",
+            "第1季套件": "USD 9.99",
+            "Custom Scenarios": "USD 6.99",
+            "Seeds of Hope": "USD 6.99",
+            "Season 2 Pass (Full)": "USD 19.99",
+            "Season 2 Pass (Discount)": "USD 6.99",
+            "Season 2 Pass": "USD 9.99",
+            "過去的陰影": "USD 6.99",
+            "超越掩體": "USD 6.99",
+            "第1季套件 (折扣)": "USD 6.99"
+          }
+        },
+        {
           "timestamp": 1788883424995,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -167897,6 +167970,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788900351663,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 59.99",
+            "逆命殊途": "USD 9.99",
+            "額外內容擴充包": "USD 19.99",
+            "武器專屬強化券 x5 (A)": "USD 9.99",
+            "武器專屬強化券 x3 (A)": "USD 6.99",
+            "綠色藥草吊飾": "USD 0.99",
+            "武器專屬強化券 x3 (D)": "USD 6.99",
+            "武器專屬強化券 x3 (C)": "USD 6.99",
+            "武器專屬強化券 x1 (F)": "USD 2.99",
+            "武器專屬強化券 x1 (E)": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1788883424995,
           "price": 0,

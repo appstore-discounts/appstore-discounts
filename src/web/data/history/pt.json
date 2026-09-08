@@ -12456,6 +12456,36 @@
       ]
     ]
   },
+  "443646748": {
+    "trackId": 443646748,
+    "trackName": "Fitness Amigo+",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Premium": "43,99 €",
+      "Fitness Buddy Premium": "29,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Premium": "43,99 €",
+      "Fitness Buddy Premium": "29,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Premium": "43,99 €",
+            "Fitness Buddy Premium": "29,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "446760220": {
     "trackId": 446760220,
     "trackName": "FINAL FANTASY TACTICS :WotL",
@@ -13145,13 +13175,25 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Full Library": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Full Library": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788900351663,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Full Library": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763735158536,
