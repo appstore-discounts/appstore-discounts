@@ -101585,7 +101585,7 @@
     ]
   },
   "1117998129": {
-    "name": "Human Anatomy Atlas 2026",
+    "name": "Human Anatomy Atlas 2027",
     "maxPriceInfo": {
       "price": 999.99,
       "formattedPrice": "₺999,99",
@@ -109651,6 +109651,18 @@
       "6 Months": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Month": "₺99,99",
+            "Year": "₺499,99",
+            "6 Months": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788536982894,
@@ -276318,14 +276330,22 @@
   "6759248276": {
     "name": "esimSubscription",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781193638928,

@@ -2,7 +2,7 @@
   {
     "trackId": 485246824,
     "region": "pt",
-    "timestamp": 1788863997493,
+    "timestamp": 1788883424995,
     "discounts": [
       {
         "type": "price",
@@ -13,17 +13,17 @@
       },
       {
         "type": "inAppPurchase",
-        "name": "Chapter N",
-        "from": "3,99 €",
-        "to": "1,99 €",
-        "range": "[1,99 € ~ 3,99 €]"
-      },
-      {
-        "type": "inAppPurchase",
         "name": "Chapter D",
         "from": "5,99 €",
         "to": "1,99 €",
         "range": "[1,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter N",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
       },
       {
         "type": "inAppPurchase",

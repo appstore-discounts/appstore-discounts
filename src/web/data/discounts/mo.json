@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 645797558,
+    "region": "mo",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id645797558",
+    "trackName": "Hero Emblems",
+    "firstRecordedAt": 1787261221081
+  },
+  {
+    "trackId": 1070462618,
+    "region": "mo",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 3.99",
+        "range": "[USD 2.99 ~ USD 6.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1070462618",
+    "trackName": "Hero Emblems II",
+    "firstRecordedAt": 1759028567061
+  },
+  {
+    "trackId": 1442035374,
+    "region": "mo",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1442035374",
+    "trackName": "圍棋師傅",
+    "firstRecordedAt": 1749697861787
+  },
+  {
     "trackId": 6476010032,
     "region": "mo",
     "timestamp": 1788863997493,
@@ -23792,7 +23852,7 @@
         "name": "Price",
         "from": "USD 9.99",
         "to": "USD 6.99",
-        "range": "[USD 6.99 ~ USD 9.99]"
+        "range": "[USD 3.99 ~ USD 9.99]"
       }
     ],
     "price": 6.99,

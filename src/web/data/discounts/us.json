@@ -1,5 +1,60 @@
 [
   {
+    "trackId": 1290687550,
+    "region": "us",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ConneR",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Xenon",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Cherry",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Nora",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Neko",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 6476010032,
     "region": "us",
     "timestamp": 1788863997493,

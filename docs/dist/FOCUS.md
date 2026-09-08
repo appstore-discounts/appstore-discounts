@@ -2176,7 +2176,7 @@ So far, we've covered `7` `Countries or Regions` and  `2261` `Apps` <br />Push n
 |95|1642364007|Manual|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|Altitude Compass|Altitude Compass|海拔指南针-经纬度水印相机|
 |94|1522215205|Manual|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|
 |93|1484181693|Manual|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|
-|92|1117998129|Manual|2026人体解剖学图谱|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|Human Anatomy Atlas 2026|
+|92|1117998129|Manual|2027人体解剖学图谱|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|
 |91|6444824570|Manual|ClashX - 服务监控面板|ClashX - 服务监控面板|ClashX - 服务监控面板|ClashX - 服务监控面板|ClashX - 服务监控面板|ClashX - 服务监控面板|ClashX - 服务监控面板|
 |90|469338840|Manual|飞常准PRO-全球航班查询机票酒店预订|飞常准PRO-全球航班查询机票酒店预订|飞常准PRO-全球航班查询机票酒店预订|飞常准PRO-全球航班查询机票酒店预订|飞常准PRO-全球航班查询机票酒店预订|飞常准PRO-全球航班查询机票酒店预订|飞常准PRO-全球航班查询机票酒店预订|
 |89|1197275827|Manual|金十数据专业版-为交易而生|金十数据专业版-为交易而生|金十数据专业版-为交易而生|金十数据专业版-为交易而生|金十数据专业版-为交易而生|金十数据专业版-为交易而生|金十数据专业版-为交易而生|

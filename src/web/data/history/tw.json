@@ -58800,10 +58800,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787261221081,
@@ -96535,6 +96543,14 @@
     "history": [
       [
         {
+          "timestamp": 1788883424995,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783693535219,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -102334,7 +102350,7 @@
   },
   "1117998129": {
     "trackId": 1117998129,
-    "trackName": "Human Anatomy Atlas 2026",
+    "trackName": "Human Anatomy Atlas 2027",
     "region": "tw",
     "maxPriceInfo": {
       "price": 690,
@@ -108500,6 +108516,18 @@
       "6 Months": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Month": "$50.00",
+            "Year": "$390.00",
+            "6 Months": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788536982894,
@@ -146043,6 +146071,14 @@
     "history": [
       [
         {
+          "timestamp": 1788883424995,
+          "price": 270,
+          "formattedPrice": "$270.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787761021464,
           "price": 55,
           "formattedPrice": "$55.00",
@@ -148478,7 +148514,7 @@
     "maxPriceInfo": {
       "price": 320,
       "formattedPrice": "$320.00",
-      "KataGo引擎": "$490.00",
+      "KataGo引擎": "$690.00",
       "人類模仿功能": "$190.00",
       "200個硬幣": "$20.00"
     },
@@ -148490,6 +148526,18 @@
       "200個硬幣": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "KataGo引擎": "$690.00",
+            "人類模仿功能": "$190.00",
+            "200個硬幣": "$20.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765371556444,
@@ -238806,6 +238854,25 @@
     "history": [
       [
         {
+          "timestamp": 1788883424995,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "戰鬥獎勵雙倍": "$60.00",
+            "300金磚": "$150.00",
+            "60金磚": "$30.00",
+            "680金磚": "$320.00",
+            "120金磚": "$60.00",
+            "深度高級特訓": "$490.00",
+            "月卡": "$150.00",
+            "980金磚": "$490.00",
+            "高級特訓": "$320.00",
+            "1280金磚": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788724940602,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -290552,6 +290619,19 @@
     "history": [
       [
         {
+          "timestamp": 1788883424995,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 2": "$150.00",
+            "Raider Mk. 3": "$220.00",
+            "Raider Mk. 1": "$30.00",
+            "Raider Weekly": "$50.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788863997493,
           "price": 0,
           "formattedPrice": "免費",
@@ -293368,6 +293448,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787773587954,
@@ -300948,14 +301036,22 @@
     "trackName": "esimSubscription",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781193638928,

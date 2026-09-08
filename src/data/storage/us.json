@@ -114444,7 +114444,7 @@
     ]
   },
   "1117998129": {
-    "name": "Human Anatomy Atlas 2026",
+    "name": "Human Anatomy Atlas 2027",
     "maxPriceInfo": {
       "price": 24.99,
       "formattedPrice": "$24.99",
@@ -120595,6 +120595,18 @@
       "6 Months": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Month": "$1.99",
+            "Year": "$11.99",
+            "6 Months": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788536982894,
@@ -137384,6 +137396,25 @@
       "Kizuna AI Extend 2026": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$4.99",
+            "ConneR": "$3.99",
+            "Xenon": "$3.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$3.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$3.99",
+            "Neko": "$3.99",
+            "Battle CHAOS 2019": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788837333321,
@@ -336721,14 +336752,22 @@
   "6759248276": {
     "name": "esimSubscription",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781193638928,

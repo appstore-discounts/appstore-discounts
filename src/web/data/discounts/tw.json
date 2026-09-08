@@ -1,5 +1,99 @@
 [
   {
+    "trackId": 645797558,
+    "region": "tw",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id645797558",
+    "trackName": "Hero Emblems",
+    "firstRecordedAt": 1787261221081
+  },
+  {
+    "trackId": 1070462618,
+    "region": "tw",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "$120.00",
+        "range": "[$90.00 ~ $220.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1070462618",
+    "trackName": "Hero Emblems II",
+    "firstRecordedAt": 1759028567061
+  },
+  {
+    "trackId": 1442035374,
+    "region": "tw",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "$120.00",
+        "range": "[$30.00 ~ $320.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1442035374",
+    "trackName": "圍棋師傅",
+    "firstRecordedAt": 1749697861787
+  },
+  {
+    "trackId": 6755290585,
+    "region": "tw",
+    "timestamp": 1788883424995,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 2",
+        "from": "$390.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $390.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 3",
+        "from": "$690.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $690.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 1",
+        "from": "$120.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6755290585",
+    "trackName": "Raiders Map",
+    "firstRecordedAt": 1763517683797
+  },
+  {
     "trackId": 6476010032,
     "region": "tw",
     "timestamp": 1788863997493,

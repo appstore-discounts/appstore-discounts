@@ -16852,6 +16852,23 @@
     "history": [
       [
         {
+          "timestamp": 1788883424995,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Chapter D": "1,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter S": "5,99 €",
+            "Chapter 7": "5,99 €",
+            "Chapter N": "1,99 €",
+            "Chapter L": "3,99 €",
+            "Chapter T": "1,99 €",
+            "Chapter R": "1,99 €",
+            "Chapter 0": "1,99 €",
+            "Chapter 10": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1788863997493,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -33659,6 +33676,23 @@
     "history": [
       [
         {
+          "timestamp": 1788883424995,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "$5 Crédito": "5,99 €",
+            "1 Mo.texto Canadá": "2,99 €",
+            "$10 Crédito": "9,99 €",
+            "6 Mo.Remover anúncios": "9,99 €",
+            "1 Mo. texto globais": "3,99 €",
+            "3 Mo.texto Canadá": "5,99 €",
+            "1 Mo.Fongo Plus": "9,99 €",
+            "6 Mo.texto Canadá": "9,99 €",
+            "12 Mo.texto globais": "29,99 €",
+            "12 Mo.texto Canadá": "19,99 €"
+          }
+        },
+        {
           "timestamp": 1788863997493,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -48001,7 +48035,7 @@
     ]
   },
   "1117998129": {
-    "name": "Human Anatomy Atlas 2026",
+    "name": "Human Anatomy Atlas 2027",
     "maxPriceInfo": {
       "price": 22.99,
       "formattedPrice": "22,99 €",
@@ -52868,6 +52902,18 @@
       "Month": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Year": "12,99 €",
+            "6 Months": "5,99 €",
+            "Month": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788536982894,
@@ -131662,14 +131708,22 @@
   "6759248276": {
     "name": "SIMHub",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788883424995,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781193638928,
