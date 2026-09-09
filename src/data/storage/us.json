@@ -62831,10 +62831,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788923896641,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787261221081,
@@ -107663,6 +107671,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788923896641,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783737335419,
@@ -161139,6 +161155,14 @@
     "history": [
       [
         {
+          "timestamp": 1788923896641,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787838577561,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -163813,18 +163837,30 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "$9.99",
-      "KataGo Engine": "$14.99",
+      "KataGo Engine": "$19.99",
       "KataGo Human Imitation": "$5.99",
       "200 coins": "$0.49"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99",
+      "price": 3.99,
+      "formattedPrice": "$3.99",
       "KataGo Engine": "$14.99",
       "KataGo Human Imitation": "$5.99",
       "200 coins": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788923896641,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "KataGo Engine": "$19.99",
+            "KataGo Human Imitation": "$5.99",
+            "200 coins": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765371556444,
@@ -327346,6 +327382,14 @@
       "formattedPrice": "$1.09"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788923896641,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,

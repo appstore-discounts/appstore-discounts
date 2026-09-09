@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 645797558,
+    "region": "us",
+    "timestamp": 1788923896641,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id645797558",
+    "trackName": "Hero Emblems",
+    "firstRecordedAt": 1787261221081
+  },
+  {
+    "trackId": 1070462618,
+    "region": "us",
+    "timestamp": 1788923896641,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$3.99",
+        "range": "[$2.99 ~ $6.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1070462618",
+    "trackName": "Hero Emblems II",
+    "firstRecordedAt": 1759028567061
+  },
+  {
+    "trackId": 1442035374,
+    "region": "us",
+    "timestamp": 1788923896641,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1442035374",
+    "trackName": "A Master of Go",
+    "firstRecordedAt": 1749697861787
+  },
+  {
     "trackId": 451697322,
     "region": "us",
     "timestamp": 1788909174789,
@@ -24403,7 +24463,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$6.99",
-        "range": "[$6.99 ~ $9.99]"
+        "range": "[$3.99 ~ $9.99]"
       }
     ],
     "price": 6.99,
