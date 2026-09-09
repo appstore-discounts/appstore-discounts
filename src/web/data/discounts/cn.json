@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 982227026,
+    "region": "cn",
+    "timestamp": 1788950979690,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥12.00]"
+      }
+    ],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id982227026",
+    "trackName": "聚爆Implosion",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 451697322,
     "region": "cn",
     "timestamp": 1788909174789,
@@ -17861,7 +17881,7 @@
         "name": "Price",
         "from": "¥12.00",
         "to": "¥8.00",
-        "range": "[¥8.00 ~ ¥12.00]"
+        "range": "[¥6.00 ~ ¥12.00]"
       }
     ],
     "price": 8,
