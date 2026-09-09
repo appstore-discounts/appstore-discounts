@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 443646748,
+    "region": "cn",
+    "timestamp": 1788969564190,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "¥283.00",
+        "to": "¥143.00",
+        "range": "[¥143.00 ~ ¥283.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id443646748",
+    "trackName": "健身伙伴+：健身房锻炼",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 6802565793,
+    "region": "cn",
+    "timestamp": 1788969564190,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥8.00",
+        "range": "[¥1.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6802565793",
+    "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
+    "firstRecordedAt": 1787761021464
+  },
+  {
     "trackId": 982227026,
     "region": "cn",
     "timestamp": 1788950979690,
@@ -10790,7 +10830,7 @@
     "formattedPrice": "¥15.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1354857517",
-    "trackName": "NotePad++ - Pro",
+    "trackName": "Notepad Pro - Color Memo Notes",
     "firstRecordedAt": 1745658131479
   },
   {
@@ -10877,7 +10917,7 @@
     "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1354857517",
-    "trackName": "NotePad++ - Pro",
+    "trackName": "Notepad Pro - Color Memo Notes",
     "firstRecordedAt": 1745658131479
   },
   {
@@ -11258,7 +11298,7 @@
     "formattedPrice": "¥15.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1354857517",
-    "trackName": "NotePad++ - Pro",
+    "trackName": "Notepad Pro - Color Memo Notes",
     "firstRecordedAt": 1745658131479
   },
   {

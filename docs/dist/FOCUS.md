@@ -1293,7 +1293,7 @@ So far, we've covered `7` `Countries or Regions` and  `2262` `Apps` <br />Push n
 |979|933113994|Automatic|❌|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|
 |978| ~~1056920931~~ |Automatic| ~~❌~~ | ~~Iron Marines~~ | ~~Iron Marines~~ | ~~Iron Marines~~ | ~~Iron Marines: RTS offline game~~ | ~~Iron Marines: RTS offline game~~ | ~~❌~~ |
 |977|1082806154|Automatic|❌|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|
-|976|1354857517|Automatic|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|
+|976|1354857517|Automatic|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|
 |975|1463331841|Automatic|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|
 |974|1476509317|Automatic|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|
 |973|1599005073|Automatic|❌|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|

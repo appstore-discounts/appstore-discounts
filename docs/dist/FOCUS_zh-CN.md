@@ -1293,7 +1293,7 @@
 |979|933113994|自动|❌|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|DRAGON QUEST V|
 |978| ~~1056920931~~ |自动| ~~❌~~ | ~~Iron Marines~~ | ~~Iron Marines~~ | ~~Iron Marines~~ | ~~Iron Marines: RTS offline game~~ | ~~Iron Marines: RTS offline game~~ | ~~❌~~ |
 |977|1082806154|自动|❌|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|Age of Rivals|
-|976|1354857517|自动|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|NotePad++ - Pro|
+|976|1354857517|自动|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|Notepad Pro - Color Memo Notes|
 |975|1463331841|自动|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|Oolimo Guitar Chords|
 |974|1476509317|自动|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|每日英语 听力学习版|
 |973|1599005073|自动|❌|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|KOF 2002 ACA NEOGEO|

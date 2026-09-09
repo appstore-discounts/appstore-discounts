@@ -23459,11 +23459,19 @@
     "minPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00",
-      "Premium": "¥283.00",
+      "Premium": "¥143.00",
       "Fitness Buddy Premium": "¥198.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1788969564190,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Premium": "¥143.00"
+          }
+        },
         {
           "timestamp": 1788900351663,
           "price": 28,
@@ -101406,7 +101414,7 @@
     ]
   },
   "1354857517": {
-    "name": "NotePad++ - Pro",
+    "name": "Notepad Pro - Color Memo Notes",
     "maxPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00",
@@ -178232,6 +178240,23 @@
     "history": [
       [
         {
+          "timestamp": 1788969564190,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "终身版": "¥45.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "无双战神": "¥36.00",
+            "虎啸凤鸣": "¥24.00",
+            "斜谷残阳": "¥36.00"
+          }
+        },
+        {
           "timestamp": 1788909174789,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -220330,6 +220355,14 @@
     "history": [
       [
         {
+          "timestamp": 1788969564190,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788837333321,
           "price": 0,
           "formattedPrice": "免费",
@@ -224451,6 +224484,14 @@
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788969564190,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788180556070,
