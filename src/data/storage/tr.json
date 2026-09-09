@@ -125968,7 +125968,7 @@
       "Lantis Selection": "₺249,99",
       "Chart Unlock Pass": "₺249,99",
       "Kizuna AI Extend 2026": "₺249,99",
-      "Emotion Samples 01": "₺249,99",
+      "Emotion Samples 01": "₺99,99",
       "Tairitsu": "₺499,99",
       "VOEZ Collection IV": "₺199,99",
       "COLORFUL STAGE!": "₺249,99",
@@ -125982,6 +125982,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788985797953,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ConneR": "₺199,99",
+            "Emotion Samples 02": "₺99,99",
+            "Emotion Samples 01": "₺99,99",
+            "Aroma": "₺199,99",
+            "PuNK EP 01": "₺99,99",
+            "Sagar": "₺199,99",
+            "Xenon": "₺199,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺249,99",
+            "COLORFUL STAGE!": "₺249,99"
+          }
+        },
         {
           "timestamp": 1788950979690,
           "price": 0,
@@ -231523,6 +231540,25 @@
     "history": [
       [
         {
+          "timestamp": 1788985797953,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "Versatile 4WD 620": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788577720920,
           "price": 229,
           "formattedPrice": "₺229,00",
@@ -252648,16 +252684,31 @@
       "formattedPrice": "₺99,99",
       "Poku Pack": "₺49,99",
       "Birbs 2 Pack": "₺49,99",
-      "Bread Pack 2": "₺49,99"
+      "Bread Pack 2": "₺49,99",
+      "KennysGifs Food Pack": "₺49,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
       "Poku Pack": "₺39,99",
       "Birbs 2 Pack": "₺39,99",
-      "Bread Pack 2": "₺49,99"
+      "Bread Pack 2": "₺49,99",
+      "KennysGifs Food Pack": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788985797953,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Birbs 2 Pack": "₺49,99",
+            "Bread Pack 2": "₺49,99",
+            "Poku Pack": "₺49,99",
+            "KennysGifs Food Pack": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777503718910,
@@ -276914,7 +276965,7 @@
     ]
   },
   "6762279908": {
-    "name": "DayGrid: Grid planner & Widget",
+    "name": "DayGrid: Hourly Daily Planner",
     "maxPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"

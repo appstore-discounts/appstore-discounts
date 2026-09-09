@@ -268577,16 +268577,31 @@
       "formattedPrice": "$60.00",
       "Poku Pack": "$30.00",
       "Birbs 2 Pack": "$30.00",
-      "Bread Pack 2": "$30.00"
+      "Bread Pack 2": "$30.00",
+      "KennysGifs Food Pack": "$30.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00",
       "Poku Pack": "$30.00",
       "Birbs 2 Pack": "$30.00",
-      "Bread Pack 2": "$30.00"
+      "Bread Pack 2": "$30.00",
+      "KennysGifs Food Pack": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788985797953,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Birbs 2 Pack": "$30.00",
+            "Poku Pack": "$30.00",
+            "KennysGifs Food Pack": "$30.00",
+            "Bread Pack 2": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777503718910,

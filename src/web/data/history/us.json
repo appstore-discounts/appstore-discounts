@@ -305174,16 +305174,31 @@
       "formattedPrice": "$1.99",
       "Poku Pack": "$0.99",
       "Birbs 2 Pack": "$0.99",
-      "Bread Pack 2": "$0.99"
+      "Bread Pack 2": "$0.99",
+      "KennysGifs Food Pack": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
       "Poku Pack": "$0.99",
       "Birbs 2 Pack": "$0.99",
-      "Bread Pack 2": "$0.99"
+      "Bread Pack 2": "$0.99",
+      "KennysGifs Food Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788985797953,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Birbs 2 Pack": "$0.99",
+            "Poku Pack": "$0.99",
+            "Bread Pack 2": "$0.99",
+            "KennysGifs Food Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777503718910,
@@ -341340,7 +341355,7 @@
   },
   "6762279908": {
     "trackId": 6762279908,
-    "trackName": "DayGrid: Grid planner & Widget",
+    "trackName": "DayGrid: Hourly Daily Planner",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.49,

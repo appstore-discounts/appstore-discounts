@@ -263108,16 +263108,31 @@
       "formattedPrice": "HK$ 18.00",
       "Poku Pack": "HK$ 8.00",
       "Birbs 2 Pack": "HK$ 8.00",
-      "Bread Pack 2": "HK$ 8.00"
+      "Bread Pack 2": "HK$ 8.00",
+      "KennysGifs Food Pack": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00",
       "Poku Pack": "HK$ 8.00",
       "Birbs 2 Pack": "HK$ 8.00",
-      "Bread Pack 2": "HK$ 8.00"
+      "Bread Pack 2": "HK$ 8.00",
+      "KennysGifs Food Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788985797953,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Birbs 2 Pack": "HK$ 8.00",
+            "Bread Pack 2": "HK$ 8.00",
+            "Poku Pack": "HK$ 8.00",
+            "KennysGifs Food Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777503718910,
