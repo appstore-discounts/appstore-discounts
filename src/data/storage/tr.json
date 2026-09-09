@@ -27557,11 +27557,21 @@
       "Full Library": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Full Library": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788909174789,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Library": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788900351663,
@@ -61113,10 +61123,18 @@
       "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788909174789,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787261221081,
@@ -95162,6 +95180,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788909174789,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783737335419,
@@ -141255,6 +141281,14 @@
     "history": [
       [
         {
+          "timestamp": 1788909174789,
+          "price": 139.99,
+          "formattedPrice": "₺139,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787790526948,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -144380,18 +144414,30 @@
     "maxPriceInfo": {
       "price": 499.99,
       "formattedPrice": "₺499,99",
-      "KataGo Engine": "₺799,99",
+      "KataGo Engine": "₺999,99",
       "200 coins": "₺29,99",
       "KataGo Human Imitation": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99",
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
       "KataGo Engine": "₺699,99",
       "200 coins": "₺19,99",
       "KataGo Human Imitation": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788909174789,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "KataGo Engine": "₺999,99",
+            "200 coins": "₺29,99",
+            "KataGo Human Imitation": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765371556444,
@@ -270090,6 +270136,14 @@
       "formattedPrice": "₺59,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788909174789,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787790526948,

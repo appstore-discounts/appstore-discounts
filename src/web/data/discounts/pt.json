@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 451697322,
+    "region": "pt",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id451697322",
+    "trackName": "Heart Murmurs Pro",
+    "firstRecordedAt": 1763735158536
+  },
+  {
+    "trackId": 645797558,
+    "region": "pt",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id645797558",
+    "trackName": "Hero Emblems",
+    "firstRecordedAt": 1787261221081
+  },
+  {
+    "trackId": 1070462618,
+    "region": "pt",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1070462618",
+    "trackName": "Hero Emblems II",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1442035374,
+    "region": "pt",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1442035374",
+    "trackName": "A Master of Go",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 485246824,
     "region": "pt",
     "timestamp": 1788883424995,
@@ -23163,7 +23243,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "7,99 €",
-        "range": "[7,99 € ~ 9,99 €]"
+        "range": "[3,99 € ~ 9,99 €]"
       }
     ],
     "price": 7.99,

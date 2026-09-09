@@ -31325,12 +31325,20 @@
       "Full Library": "$4.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Full Library": "$4.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1788909174789,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Library": "$4.99"
+          }
+        },
         {
           "timestamp": 1788900351663,
           "price": 2.99,
@@ -247772,6 +247780,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788909174789,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Season 2 Pass": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Critical Mass": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Survival Guide": "$2.99"
+          }
+        },
         {
           "timestamp": 1788863997493,
           "price": 1.99,

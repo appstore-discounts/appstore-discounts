@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 451697322,
+    "region": "tr",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "Free",
+        "range": "[Free ~ ₺149,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id451697322",
+    "trackName": "Heart Murmurs Pro",
+    "firstRecordedAt": 1763735158536
+  },
+  {
+    "trackId": 645797558,
+    "region": "tr",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id645797558",
+    "trackName": "Hero Emblems",
+    "firstRecordedAt": 1787261221081
+  },
+  {
+    "trackId": 1070462618,
+    "region": "tr",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺199,99",
+        "range": "[₺129,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1070462618",
+    "trackName": "Hero Emblems II",
+    "firstRecordedAt": 1759028567061
+  },
+  {
+    "trackId": 1442035374,
+    "region": "tr",
+    "timestamp": 1788909174789,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1442035374",
+    "trackName": "A Master of Go",
+    "firstRecordedAt": 1749697861787
+  },
+  {
     "trackId": 1290687550,
     "region": "tr",
     "timestamp": 1788863997493,
@@ -24831,7 +24911,7 @@
         "name": "Price",
         "from": "₺499,99",
         "to": "₺399,99",
-        "range": "[₺399,99 ~ ₺499,99]"
+        "range": "[₺199,99 ~ ₺499,99]"
       }
     ],
     "price": 399.99,

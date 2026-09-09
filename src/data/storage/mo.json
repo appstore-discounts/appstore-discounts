@@ -19176,12 +19176,20 @@
       "Full Library": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Full Library": "USD 4.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1788909174789,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full Library": "USD 4.99"
+          }
+        },
         {
           "timestamp": 1788900351663,
           "price": 2.99,
@@ -90233,7 +90241,7 @@
     ]
   },
   "1208145167": {
-    "name": "Picsew - 滾動截圖 & 長圖拼接",
+    "name": "Picsew - 捲動截圖 & 長圖拼接",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",

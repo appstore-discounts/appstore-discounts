@@ -24827,12 +24827,20 @@
       "Full Library": "$150.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Full Library": "$150.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1788909174789,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full Library": "$150.00"
+          }
+        },
         {
           "timestamp": 1788900351663,
           "price": 90,
@@ -117410,7 +117418,7 @@
   },
   "1208145167": {
     "trackId": 1208145167,
-    "trackName": "Picsew - 滾動截圖 & 長圖拼接",
+    "trackName": "Picsew - 捲動截圖 & 長圖拼接",
     "region": "tw",
     "maxPriceInfo": {
       "price": 0,
@@ -235844,6 +235852,22 @@
     "history": [
       [
         {
+          "timestamp": 1788909174789,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "39.99美元商品": "$1,290.00",
+            "12.99美元商品": "$390.00",
+            "89.99美元商品": "$2,990.00",
+            "3.99美元商品": "$120.00",
+            "99.99美元商品": "$2,990.00",
+            "49.99美元商品": "$1,490.00",
+            "19.99美元商品": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788664115804,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -261150,6 +261174,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788909174789,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737-800": "$90.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
