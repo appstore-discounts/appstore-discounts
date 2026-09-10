@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "mo",
+    "timestamp": 1789055621758,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.39 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6480058345,
+    "region": "mo",
+    "timestamp": 1789055621758,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6480058345",
+    "trackName": "怪獸大進擊 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
     "trackId": 994157520,
     "region": "mo",
     "timestamp": 1788969564190,
