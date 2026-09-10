@@ -204,7 +204,7 @@
 |2068|6443677513|自动|Keka •|Keka •|Keka •|Keka •|Keka|Keka|Keka|
 |2067|6759284932|自动|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
 |2066|1182217891|自动|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|
-|2065|6762279908|自动|DayGrid: 하루 계획표, 데일리스케줄|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: Hourly Daily Planner|DayGrid: Hourly Daily Planner|DayGrid: 데일리스케줄·시간표·플래너·일정관리|
+|2065|6762279908|自动|DayGrid: 데일리스케줄·시간표·플래너·일정관리|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid: Hourly Daily Planner|DayGrid: Hourly Daily Planner|DayGrid: 데일리스케줄·시간표·플래너·일정관리|
 |2064|6778099993|自动|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|
 |2063|1671507777|自动|❌|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|
 |2062|6777748394|自动|38-0|38-0|38-0|38-0|38-0|38-0|38-0|
