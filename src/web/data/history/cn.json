@@ -147119,6 +147119,29 @@
       ]
     ]
   },
+  "1614666556": {
+    "trackId": 1614666556,
+    "trackName": "CNC VMC Simulator",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1614740269": {
     "trackId": 1614740269,
     "trackName": "答题王 - 百科知识问答题库",
@@ -180245,6 +180268,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789036952061,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "终身版": "¥45.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "虎啸凤鸣": "¥24.00",
+            "重振汉室": "¥18.00"
+          }
+        },
         {
           "timestamp": 1789010266489,
           "price": 35,
@@ -223262,6 +223302,14 @@
     "history": [
       [
         {
+          "timestamp": 1789036952061,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787370034929,
           "price": 148,
           "formattedPrice": "¥148.00",
@@ -227284,6 +227332,52 @@
           "timestamp": 1788863997493,
           "price": 38,
           "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742741980": {
+    "trackId": 6742741980,
+    "trackName": "十二时辰-顺时养生小组件×运动健康提醒",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "¥3.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6806721202": {
+    "trackId": 6806721202,
+    "trackName": "M8 Music Tracker",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 198,
+      "formattedPrice": "¥198.00"
+    },
+    "minPriceInfo": {
+      "price": 198,
+      "formattedPrice": "¥198.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 198,
+          "formattedPrice": "¥198.00",
           "inAppPurchases": {}
         }
       ]

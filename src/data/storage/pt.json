@@ -78546,6 +78546,25 @@
     "history": [
       [
         {
+          "timestamp": 1789036952061,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Evoker Package": "9,99 €",
+            "Master Package": "19,99 €",
+            "Prime Gemma 1200": "9,99 €",
+            "Prime Gemma 2500": "22,99 €",
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 500": "5,99 €",
+            "Hunter Package": "9,99 €",
+            "Prime gemma 100": "0,99 €",
+            "Evoker Kit": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788950979690,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -129544,6 +129563,14 @@
     "history": [
       [
         {
+          "timestamp": 1789036952061,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787370034929,
           "price": 22.99,
           "formattedPrice": "22,99 €",
@@ -135064,6 +135091,69 @@
           "timestamp": 1788863997493,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742741980": {
+    "name": "十二时辰-顺时养生小组件×运动健康提醒",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6806721202": {
+    "name": "M8 Music Tracker",
+    "maxPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "minPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807992874": {
+    "name": "Galeri: Kurtuluş",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

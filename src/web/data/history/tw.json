@@ -221006,6 +221006,18 @@
     "history": [
       [
         {
+          "timestamp": 1789036952061,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Filtr": "$790.00",
+            "Tip": "$150.00",
+            "Yearly Recurring Tip": "$320.00",
+            "Monthly Recurring Tip": "$60.00",
+            "Mega Tip": "$690.00"
+          }
+        },
+        {
           "timestamp": 1789010266489,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -250255,6 +250267,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764813946720,
@@ -304661,6 +304681,75 @@
           "timestamp": 1788863997493,
           "price": 150,
           "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742741980": {
+    "trackId": 6742741980,
+    "trackName": "12 時辰-順時養生小工具&運動健康提醒",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6806721202": {
+    "trackId": 6806721202,
+    "trackName": "M8 Music Tracker",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00"
+    },
+    "minPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807992874": {
+    "trackId": 6807992874,
+    "trackName": "Galeri: Kurtuluş",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

@@ -1,12 +1,15 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2262` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2265` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2265|6742741980|自动|十二时辰-顺时养生小组件×运动健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 Hour Health - Energy Widget|12 Hour Health - Energy Widget|十二时辰-顺时养生小组件×运动健康提醒|
+|2264|6806721202|自动|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|
+|2263|6807992874|自动|❌|Galeri: Kurtuluş|Galeri: Kurtuluş|Galeri: Kurtuluş|Galeri: Kurtuluş|Galeri: Kurtuluş|Galeri: Kurtuluş|
 |2262|443646748|自动|健身伙伴+：健身房锻炼|健身夥伴+：健身房鍛煉|健身夥伴+：健身房鍛煉|健身夥伴+：健身房鍛煉|Fitness Buddy+ Workout Trainer|Fitness Buddy+ Gym Workout Log|Fitness Amigo+|
 |2261|6753081257|自动|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|
 |2260|480102733|自动|Awesome日历-日程管理/待办事项/日记本|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|
@@ -1470,7 +1473,7 @@
 |802|1573482724|自动|❌|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|
 |801|1602772289|自动|❌|7 Days to End with You|7 Days to End with You|7 Days to End with You|7 Days to End with You|7 Days to End with You|❌|
 |800|1613295180|自动|❌|青春敘曲|青春敘曲|青春敘曲|Growing Up: Life of the '90s|Growing Up: Life of the '90s|Growing Up: Life of the '90s|
-|799|1614666556|自动|❌|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|
+|799|1614666556|自动|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|
 |798|1624777523|自动|❌|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|
 |797|413943804|自动|Real Piano™|Real Piano™|Real Piano™|Real Piano™|Real Piano™|Real Piano™|Real Piano™|
 |796|508064644|自动|地震讯息|地震訊息|地震訊息|地震訊息|Earthquakes Pro|Earthquakes Pro|Earthquakes Pro|

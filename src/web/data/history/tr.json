@@ -278266,6 +278266,14 @@
     "history": [
       [
         {
+          "timestamp": 1789036952061,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787370034929,
           "price": 999.99,
           "formattedPrice": "₺999,99",
@@ -284138,6 +284146,75 @@
           "timestamp": 1788863997493,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742741980": {
+    "trackId": 6742741980,
+    "trackName": "12 Hour Health - Energy Widget",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6806721202": {
+    "trackId": 6806721202,
+    "trackName": "M8 Music Tracker",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 1499.99,
+      "formattedPrice": "₺1.499,99"
+    },
+    "minPriceInfo": {
+      "price": 1499.99,
+      "formattedPrice": "₺1.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 1499.99,
+          "formattedPrice": "₺1.499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807992874": {
+    "trackId": 6807992874,
+    "trackName": "Galeri: Kurtuluş",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789036952061,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]
