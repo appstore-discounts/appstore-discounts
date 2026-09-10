@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-09-09T17:34:17.128Z</updated>
+    <updated>2026-09-10T04:51:13.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-09T17:34:17.128Z</updated>
+        <updated>2026-09-10T04:51:13.767Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwWed, 09 Sep 2026 17:34:17 GMT</id>
+        <id>rankingtwThu, 10 Sep 2026 04:51:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-09T17:34:17.128Z</updated>
+        <updated>2026-09-10T04:51:13.767Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -757,14 +757,20 @@ feedId:157008546980077568+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/1662217862?lang=zh-CN">Wipr 2</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App內購買</span><ol>
+              <li>
+                <i>Filtr</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -774,7 +780,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
       </td>
       <td>
         <ul>
@@ -791,7 +797,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
       </td>
       <td>
         <ul>
@@ -808,7 +814,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
       </td>
       <td>
         <ul>
@@ -823,6 +829,23 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>
         <b>41</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tw/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6467822375?lang=zh-CN">Auto Redial - 自動重撥</a>
@@ -847,7 +870,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6670469064?lang=zh-CN">8號出口</a>
@@ -864,7 +887,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6476342802?lang=zh-CN">Skel和Defense：地下城Roguelike防禦</a>
@@ -881,7 +904,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6751122124?lang=zh-CN">Notteka | AI會議記錄助手</a>
@@ -898,7 +921,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6476010032?lang=zh-CN">拦截猫 - 骚扰电话与垃圾短信拦截</a>
@@ -921,7 +944,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6504453094?lang=zh-CN">Black Border 2</a>
@@ -938,7 +961,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6444435974?lang=zh-CN">VARIOUS DAYLIFE Mobile</a>
@@ -955,7 +978,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6504323939?lang=zh-CN">勇者鬥惡龍X　覺醒的五種族　OFFLINE</a>
@@ -978,7 +1001,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6802565793?lang=zh-CN">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -995,7 +1018,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6757846100?lang=zh-CN">This Aint Even Poker, Ya Joker</a>
@@ -1886,6 +1909,57 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wipr 2]]></title>
+        <id>Wipr 2-tw-1789010266489</id>
+        <link href="https://appstore-discounts.eyelly.me/tw/1662217862?lang=zh-CN"/>
+        <updated>2026-09-10T03:17:46.489Z</updated>
+        <summary type="html"><![CDATA[Filtr: $790.00 → $150.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/1662217862?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/30/b6/5f30b66c-abfa-70bb-315e-bd09cc17fda6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
+  <li>
+    <strong>Filtr：</strong><span>$790.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $790.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>$150.00</b>
+</p><h3>App內購買</h3><ul>
+  <li>
+    Filtr：<b>$150.00</b>
+  </li><li>
+    Tip：<b>$150.00</b>
+  </li><li>
+    Yearly Recurring Tip：<b>$320.00</b>
+  </li><li>
+    Monthly Recurring Tip：<b>$60.00</b>
+  </li><li>
+    Mega Tip：<b>$690.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.
+
+Websites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap.
+
+The Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.
+
+Wipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.
+
+Wipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.
+
+Because it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.
+
+This app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.
+
+– Kaylee
+
+
+
+Terms & Conditions: https://kaylees.site/terms-and-conditions.html
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/72/4b/f0724bfa-e305-914c-499e-ca0da0860a1c/iphone-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/fd/ec/17fdec6e-18b8-7289-c075-4463b3da3279/iphone-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/7d/67/2a7d6792-90ec-e2c7-a43c-855079e74ab6/iphone-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/fe/14/d9fe1498-26e9-ddca-d26d-85a3fd2166eb/iphone-4.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/ef/63/a9ef63b9-7c94-2bdb-c50e-f3cbdfbb6a83/ipad-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/d1/09/40d1098a-4f9b-117c-90b3-1b290fbf328a/ipad-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/c6/bc/50c6bc94-81a4-ef34-ec2e-254621595472/ipad-3.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我不想当班主任-班主任工作台&教师工作台&班级管理]]></title>

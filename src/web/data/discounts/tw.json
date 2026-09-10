@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1662217862,
+    "region": "tw",
+    "timestamp": 1789010266489,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Filtr",
+        "from": "$790.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $790.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1662217862",
+    "trackName": "Wipr 2",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 994157520,
     "region": "tw",
     "timestamp": 1788969564190,
