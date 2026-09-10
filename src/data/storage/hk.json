@@ -262228,13 +262228,29 @@
       "Pro – Lifetime": "HK$ 0.00",
       "每週訂閱": "HK$ 6.00",
       "年度訂閱": "HK$ 38.00",
-      "高級終身會員": "HK$ 58.00",
+      "高級終身會員": "HK$ 48.00",
       "7-Day Pass": "HK$ 18.00",
       "3-Day Pass": "HK$ 8.00",
       "24h Pass": "HK$ 2.00",
       "24小時通行證": "HK$ 6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每週訂閱": "HK$ 12.00",
+            "高級終身會員": "HK$ 48.00",
+            "7-Day Pass": "HK$ 22.00",
+            "3-Day Pass": "HK$ 8.00",
+            "24小時通行證": "HK$ 6.00",
+            "Pro – Lifetime": "HK$ 0.00",
+            "年度訂閱": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788491191696,
@@ -277545,8 +277561,8 @@
   "6754894237": {
     "name": "CloverPit",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 58,
+      "formattedPrice": "HK$ 58.00",
       "Unholy Fusion": "HK$ 18.00"
     },
     "minPriceInfo": {
@@ -277555,6 +277571,16 @@
       "Unholy Fusion": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Unholy Fusion": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775056459177,

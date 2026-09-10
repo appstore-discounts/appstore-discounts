@@ -271003,13 +271003,29 @@
       "Pro – Lifetime": "$0.00",
       "每週訂閱": "$20.00",
       "年度訂閱": "$150.00",
-      "高級終身會員": "$290.00",
+      "高級終身會員": "$190.00",
       "7-Day Pass": "$90.00",
       "3-Day Pass": "$30.00",
       "24h Pass": "$20.00",
       "24小時通行證": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每週訂閱": "$50.00",
+            "7-Day Pass": "$90.00",
+            "3-Day Pass": "$30.00",
+            "高級終身會員": "$190.00",
+            "24小時通行證": "$20.00",
+            "Pro – Lifetime": "$0.00",
+            "年度訂閱": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788476366977,
@@ -288597,8 +288613,8 @@
   "6754894237": {
     "name": "CloverPit",
     "maxPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00",
+      "price": 220,
+      "formattedPrice": "$220.00",
       "Unholy Fusion": "$60.00"
     },
     "minPriceInfo": {
@@ -288607,6 +288623,16 @@
       "Unholy Fusion": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Unholy Fusion": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775056459177,

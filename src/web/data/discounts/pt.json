@@ -1,5 +1,46 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "pt",
+    "timestamp": 1789072077262,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "3-Day Pass",
+        "from": "1,49 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,49 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Passe de 24 horas",
+        "from": "0,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 0,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Lifetime",
+        "from": "19,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 34,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
+    "trackName": "Auto Redial - Rechamada Auto",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6480058345,
     "region": "pt",
     "timestamp": 1789055621758,
@@ -880,7 +921,7 @@
         "name": "Premium Lifetime",
         "from": "24,99 €",
         "to": "17,99 €",
-        "range": "[8,99 € ~ 34,99 €]"
+        "range": "[6,99 € ~ 34,99 €]"
       }
     ],
     "price": 0,
@@ -5342,7 +5383,7 @@
         "name": "Premium Lifetime",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[8,99 € ~ 34,99 €]"
+        "range": "[6,99 € ~ 34,99 €]"
       }
     ],
     "price": 0,
@@ -5804,7 +5845,7 @@
         "name": "Premium Lifetime",
         "from": "19,99 €",
         "to": "14,99 €",
-        "range": "[8,99 € ~ 34,99 €]"
+        "range": "[6,99 € ~ 34,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -14638,7 +14679,7 @@
         "name": "Premium Lifetime",
         "from": "9,99 €",
         "to": "8,99 €",
-        "range": "[8,99 € ~ 34,99 €]"
+        "range": "[6,99 € ~ 34,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -15150,7 +15191,7 @@
         "name": "Premium Lifetime",
         "from": "34,99 €",
         "to": "9,99 €",
-        "range": "[8,99 € ~ 34,99 €]"
+        "range": "[6,99 € ~ 34,99 €]"
       },
       {
         "type": "inAppPurchase",

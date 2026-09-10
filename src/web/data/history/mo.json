@@ -5420,6 +5420,25 @@
     "history": [
       [
         {
+          "timestamp": 1789072077262,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Saint-Germain HipstaPak": "USD 1.99",
+            "Jimbocho HipstaPak": "USD 1.99",
+            "Mers Sultan HipstaPak": "USD 1.99",
+            "HipstaBoy SnapPak": "USD 1.99",
+            "Príncipe Real HipstaPak": "USD 1.99",
+            "Coyoacán HipstaPak": "USD 1.99",
+            "Ohara HipstaPak": "USD 1.99",
+            "RetroPak 2022": "USD 6.99",
+            "RetroPak 2023": "USD 9.99",
+            "RetroPak Twenty-One": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786336645189,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -179312,6 +179331,25 @@
     "history": [
       [
         {
+          "timestamp": 1789072077262,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "USD 3.99",
+            "Boeing 787-9": "USD 3.99",
+            "Airbus A320neo": "USD 3.99",
+            "Me 262": "USD 1.99",
+            "Boeing 737-800": "USD 2.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788950979690,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -183610,13 +183648,29 @@
       "Pro – Lifetime": "USD 0.00",
       "每週訂閱": "USD 0.69",
       "年度訂閱": "USD 4.99",
-      "高級終身會員": "USD 7.99",
+      "高級終身會員": "USD 5.99",
       "7-Day Pass": "USD 2.49",
       "3-Day Pass": "USD 0.99",
       "24h Pass": "USD 0.49",
       "24小時通行證": "USD 0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7-Day Pass": "USD 2.99",
+            "3-Day Pass": "USD 0.99",
+            "24小時通行證": "USD 0.59",
+            "高級終身會員": "USD 5.99",
+            "Pro – Lifetime": "USD 0.00",
+            "每週訂閱": "USD 1.49",
+            "年度訂閱": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788491191696,
@@ -194442,8 +194496,8 @@
     "trackName": "CloverPit",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
       "Unholy Fusion": "USD 1.99"
     },
     "minPriceInfo": {
@@ -194452,6 +194506,16 @@
       "Unholy Fusion": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Unholy Fusion": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775056459177,

@@ -106198,13 +106198,29 @@
       "Pro – Lifetime": "0,00 €",
       "Assinatura semanal": "0,99 €",
       "Assinatura anual": "5,99 €",
-      "Premium Lifetime": "8,99 €",
+      "Premium Lifetime": "6,99 €",
       "7-Day Pass": "2,99 €",
       "3-Day Pass": "0,99 €",
       "24h Pass": "0,49 €",
       "Passe de 24 horas": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Assinatura semanal": "1,99 €",
+            "7-Day Pass": "2,99 €",
+            "3-Day Pass": "0,99 €",
+            "Passe de 24 horas": "0,49 €",
+            "Premium Lifetime": "6,99 €",
+            "Pro – Lifetime": "0,00 €",
+            "Assinatura anual": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788476366977,
@@ -124332,8 +124348,8 @@
   "6754894237": {
     "name": "CloverPit",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €",
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
       "Unholy Fusion": "1,99 €"
     },
     "minPriceInfo": {
@@ -124342,6 +124358,16 @@
       "Unholy Fusion": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Unholy Fusion": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775051617083,
@@ -127329,7 +127355,8 @@
       "Worship Cinematic": "0,99 €",
       "Worship Drum Kit 3": "0,99 €",
       "Worship Drum Kit 2": "0,99 €",
-      "Worship Drum Kit 1": "0,99 €"
+      "Worship Drum Kit 1": "0,99 €",
+      "Pad Mix Pro": "1,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -127343,9 +127370,29 @@
       "Worship Cinematic": "0,99 €",
       "Worship Drum Kit 3": "0,99 €",
       "Worship Drum Kit 2": "0,99 €",
-      "Worship Drum Kit 1": "0,99 €"
+      "Worship Drum Kit 1": "0,99 €",
+      "Pad Mix Pro": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789072077262,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "PadLab Full App": "8,99 €",
+            "Pad Mix Pro": "1,99 €",
+            "PadLab Worship Complete": "7,99 €",
+            "Worship Drum Collection": "3,99 €",
+            "Coleção Completa de Pads": "5,99 €",
+            "Worship EFX": "0,99 €",
+            "Worship 808": "0,99 €",
+            "Worship Cinematic": "0,99 €",
+            "Worship Drum Kit 3": "0,99 €",
+            "Worship Drum Kit 2": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,

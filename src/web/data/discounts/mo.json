@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "mo",
+    "timestamp": 1789072077262,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "高級終身會員",
+        "from": "USD 12.99",
+        "to": "USD 5.99",
+        "range": "[USD 5.99 ~ USD 29.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6467822375",
+    "trackName": "Auto Redial - 自動重撥",
+    "firstRecordedAt": 1745593334191
+  },
+  {
     "trackId": 1580067723,
     "region": "mo",
     "timestamp": 1789055621758,
@@ -5437,7 +5457,7 @@
         "name": "高級終身會員",
         "from": "USD 24.99",
         "to": "USD 12.99",
-        "range": "[USD 7.99 ~ USD 29.99]"
+        "range": "[USD 5.99 ~ USD 29.99]"
       },
       {
         "type": "inAppPurchase",
@@ -6094,7 +6114,7 @@
         "name": "高級終身會員",
         "from": "USD 17.99",
         "to": "USD 9.99",
-        "range": "[USD 7.99 ~ USD 29.99]"
+        "range": "[USD 5.99 ~ USD 29.99]"
       },
       {
         "type": "inAppPurchase",
@@ -14929,7 +14949,7 @@
         "name": "高級終身會員",
         "from": "USD 29.99",
         "to": "USD 7.99",
-        "range": "[USD 7.99 ~ USD 29.99]"
+        "range": "[USD 5.99 ~ USD 29.99]"
       },
       {
         "type": "inAppPurchase",
