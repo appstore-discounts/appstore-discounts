@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "tw",
+    "timestamp": 1789142168876,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "高級終身會員",
+        "from": "$390.00",
+        "to": "$190.00",
+        "range": "[$190.00 ~ $990.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
+    "trackName": "Auto Redial - 自動重撥",
+    "firstRecordedAt": 1745593334191
+  },
+  {
     "trackId": 1410053842,
     "region": "tw",
     "timestamp": 1789123271061,
@@ -38,26 +58,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1359652100",
     "trackName": "DungeonMaker",
     "firstRecordedAt": 1745328692670
-  },
-  {
-    "trackId": 6467822375,
-    "region": "tw",
-    "timestamp": 1789072077262,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "高級終身會員",
-        "from": "$390.00",
-        "to": "$190.00",
-        "range": "[$190.00 ~ $990.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免費",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
-    "trackName": "Auto Redial - 自動重撥",
-    "firstRecordedAt": 1745593334191
   },
   {
     "trackId": 1580067723,

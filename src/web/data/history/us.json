@@ -36974,11 +36974,12 @@
       "11,250 Geniz": "$0.99",
       "115,000 Geniz (58,750 FREE)": "$4.99",
       "30,000 Geniz (7,500 FREE)": "$1.99",
-      "Pack 15 credits": "$0.99",
+      "Pack 15 credits": "$1.99",
       "50,000 Geniz (16,250 FREE)": "$2.99",
       "Pack 10 credits": "$0.99",
       "80,000 Geniz (35,000 FREE)": "$3.99",
-      "Pack 65 credits": "$5.99"
+      "Pack 65 credits": "$5.99",
+      "Pack 40 credits": "$1.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -36990,9 +36991,27 @@
       "50,000 Geniz (16,250 FREE)": "$2.99",
       "Pack 10 credits": "$0.99",
       "80,000 Geniz (35,000 FREE)": "$3.99",
-      "Pack 65 credits": "$5.99"
+      "Pack 65 credits": "$2.99",
+      "Pack 40 credits": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789142168876,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "115,000 Geniz (58,750 FREE)": "$4.99",
+            "80,000 Geniz (35,000 FREE)": "$3.99",
+            "50,000 Geniz (16,250 FREE)": "$2.99",
+            "30,000 Geniz (7,500 FREE)": "$1.99",
+            "11,250 Geniz": "$0.99",
+            "Pack 65 credits": "$2.99",
+            "Pack 40 credits": "$1.99",
+            "Pack 15 credits": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -67669,6 +67688,25 @@
       "Racing Prodigy X30 Kart Miami": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789142168876,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$14.99",
+            "Racing Prodigy X30 Atlanta": "$14.99",
+            "Racing Prodigy X30 Kart Dubai": "$14.99",
+            "Racing Prodigy X30 B. Vegas": "$14.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "10 Pack Qualifying Tyres": "$0.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Le Cont Hards - 40 Tyre Pack": "$3.99",
+            "Le Cont Mediums - 40 Tyre Pack": "$3.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787982522265,
@@ -139323,6 +139361,25 @@
       "Kizuna AI Extend 2026": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789142168876,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$4.99",
+            "ConneR": "$3.99",
+            "Xenon": "$3.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$3.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$3.99",
+            "Battle CHAOS 2019": "$1.99",
+            "Marvelous Mix vol. 1": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788883424995,
@@ -338942,6 +338999,24 @@
       "普通": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789142168876,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "基础月会员": "$0.99",
+            "黄金会员月度": "$1.99",
+            "解锁报告": "$2.99",
+            "黄金会员月": "$1.99",
+            "普通会员买断": "$22.99",
+            "黄金会员买断": "$39.99",
+            "黄金年会员": "$29.99",
+            "黄金月会员": "$3.99",
+            "黄金会员": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787534044681,

@@ -108399,8 +108399,8 @@
       "price": 18,
       "formattedPrice": "HK$ 18.00",
       "Year": "HK$ 88.00",
-      "6 Months": "HK$ 38.00",
-      "Month": "HK$ 12.00"
+      "6 Months": "HK$ 68.00",
+      "Month": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -108410,6 +108410,18 @@
       "Month": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789142168876,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Year": "HK$ 88.00",
+            "6 Months": "HK$ 68.00",
+            "Month": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788883424995,
@@ -209418,6 +209430,25 @@
     "history": [
       [
         {
+          "timestamp": 1789142168876,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "pack 21": "HK$ 58.00",
+            "Special Daily Pack20": "HK$ 22.00",
+            "Special Daily Pack19": "HK$ 18.00",
+            "Special Daily Pack18": "HK$ 32.00",
+            "Special Daily Pack17": "HK$ 32.00",
+            "Special Daily Pack16": "HK$ 22.00",
+            "Special Daily Pack15": "HK$ 18.00",
+            "Special Daily Pack14": "HK$ 22.00",
+            "Special Daily Pack12": "HK$ 22.00",
+            "Special Daily Pack11": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789036952061,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -262379,6 +262410,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789142168876,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每週訂閱": "HK$ 18.00",
+            "高級終身會員": "HK$ 48.00",
+            "7-Day Pass": "HK$ 22.00",
+            "3-Day Pass": "HK$ 8.00",
+            "24小時通行證": "HK$ 6.00",
+            "Pro – Lifetime": "HK$ 0.00",
+            "年度訂閱": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1789072077262,
           "price": 0,

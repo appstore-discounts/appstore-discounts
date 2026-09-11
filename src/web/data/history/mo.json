@@ -86676,8 +86676,8 @@
       "price": 1.99,
       "formattedPrice": "USD 1.99",
       "Year": "USD 11.99",
-      "6 Months": "USD 4.99",
-      "Month": "USD 1.49"
+      "6 Months": "USD 8.99",
+      "Month": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -86687,6 +86687,18 @@
       "Month": "USD 1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789142168876,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 8.99",
+            "Month": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788883424995,
@@ -183816,6 +183828,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789142168876,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7-Day Pass": "USD 2.99",
+            "3-Day Pass": "USD 0.99",
+            "24小時通行證": "USD 0.59",
+            "高級終身會員": "USD 5.99",
+            "Pro – Lifetime": "USD 0.00",
+            "每週訂閱": "USD 1.99",
+            "年度訂閱": "USD 8.99"
+          }
+        },
         {
           "timestamp": 1789072077262,
           "price": 0,

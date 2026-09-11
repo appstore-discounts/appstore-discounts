@@ -73679,8 +73679,8 @@
       "price": 15,
       "formattedPrice": "¥15.00",
       "Year": "¥88.00",
-      "6 Months": "¥38.00",
-      "Month": "¥12.00"
+      "6 Months": "¥58.00",
+      "Month": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -73690,6 +73690,18 @@
       "Month": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789142168876,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Year": "¥88.00",
+            "6 Months": "¥58.00",
+            "Month": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788883424995,
