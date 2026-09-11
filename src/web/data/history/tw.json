@@ -66929,6 +66929,25 @@
     "history": [
       [
         {
+          "timestamp": 1789096391072,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "$90.00",
+            "$5 Credit": "$190.00",
+            "1 Mo. Global Texting": "$120.00",
+            "1 Mo. Remove Ads": "$90.00",
+            "12 Mo. CAN Texting": "$590.00",
+            "3 Mo. CAN Texting": "$190.00",
+            "6 Mo. Global Texting": "$490.00",
+            "6 Mo. CAN Texting": "$320.00",
+            "$10 Credit": "$320.00",
+            "$20 Credit": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788518474386,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -134421,6 +134440,25 @@
     "history": [
       [
         {
+          "timestamp": 1789096391072,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "原版怪獸繼承卡牌包": "$590.00",
+            "怪獸繼承": "$150.00",
+            "原版魔王權能卡牌包": "$590.00",
+            "原版魔王完整卡牌包": "$890.00",
+            "覺醒魔王完整卡牌包": "$890.00",
+            "原版設施卡牌包": "$290.00",
+            "原版魔王加速卡牌包": "$290.00",
+            "覺醒魔王卡牌包": "$590.00",
+            "原版地宮卡牌包": "$590.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788602462583,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -169157,8 +169195,8 @@
       "《每日外刊》订阅": "$310.00",
       "《英语四级真题精品课》": "$290.00",
       "听口直通自由—语音基础": "$190.00",
-      "听口直通自由—中高级英语精听": "$1,290.00",
-      "听口直通自由—口语输出课": "$990.00",
+      "听口直通自由—中高级英语精听": "$1,990.00",
+      "听口直通自由—口语输出课": "$1,290.00",
       "On Writing Well 英语原版书精读课": "$2,290.00",
       "大学英语_外刊精读 | 2025年度TOP100精选": "$990.00",
       "赖世雄中级美语下（视频课）": "$490.00",
@@ -169198,6 +169236,25 @@
       "赖世雄中级美语上（视频课）": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "$120.00",
+            "国家地理百科精读（第一期）": "$190.00",
+            "赖世雄中级美语下（视频课）": "$490.00",
+            "赖世雄中级美语上（视频课）": "$490.00",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$990.00",
+            "On Writing Well 英语原版书精读课": "$2,290.00",
+            "听口直通自由—中高级英语精听": "$1,990.00",
+            "听口直通自由—口语输出课": "$1,290.00",
+            "听口直通自由—语音基础": "$190.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785908741192,
@@ -300045,7 +300102,9 @@
       "ERC Barum Czech Rally Zlin 2026": "$90.00",
       "WRC Ueno Rally del Paraguay 2026": "$90.00",
       "ERC Rali Ceredigion 2026": "$90.00",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00",
+      "Türi rahvaralli 2026": "$90.00",
+      "WRC Rally Chile Bio Bio 2026": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -300079,9 +300138,30 @@
       "ERC Barum Czech Rally Zlin 2026": "$90.00",
       "WRC Ueno Rally del Paraguay 2026": "$90.00",
       "ERC Rali Ceredigion 2026": "$90.00",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00",
+      "Türi rahvaralli 2026": "$90.00",
+      "WRC Rally Chile Bio Bio 2026": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Türi rahvaralli 2026": "$90.00",
+            "WRC Rally Chile Bio Bio 2026": "$90.00",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00",
+            "ERC Rali Ceredigion 2026": "$90.00",
+            "WRC Ueno Rally del Paraguay 2026": "$90.00",
+            "Paide Rally 2026": "$90.00",
+            "ERC Barum Czech Rally Zlin 2026": "$90.00",
+            "SM Ralli Kitee 2026": "$90.00",
+            "Kihelkonna Rahvaralli 2026": "$60.00",
+            "WRC Secto Rally Finland 2026": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788467599321,
@@ -304847,6 +304927,45 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6798221075": {
+    "trackId": 6798221075,
+    "trackName": "Oto Galerici",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00",
+      "Case of Gold": "$290.00",
+      "Pouch of Gold": "$120.00",
+      "Chest of Gold": "$320.00",
+      "Moneychanger's Hoard": "$390.00",
+      "Handful of Gold": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00",
+      "Case of Gold": "$290.00",
+      "Pouch of Gold": "$120.00",
+      "Chest of Gold": "$320.00",
+      "Moneychanger's Hoard": "$390.00",
+      "Handful of Gold": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Case of Gold": "$290.00",
+            "Pouch of Gold": "$120.00",
+            "Chest of Gold": "$320.00",
+            "Moneychanger's Hoard": "$390.00",
+            "Handful of Gold": "$30.00"
+          }
         }
       ]
     ]

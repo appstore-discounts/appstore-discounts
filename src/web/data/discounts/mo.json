@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1359652100,
+    "region": "mo",
+    "timestamp": 1789096391072,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1359652100",
+    "trackName": "DungeonMaker",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 6467822375,
     "region": "mo",
     "timestamp": 1789072077262,

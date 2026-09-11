@@ -104915,6 +104915,25 @@
     "history": [
       [
         {
+          "timestamp": 1789096391072,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "黑暗的魔王皮膚卡牌包": "USD 7.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788432282964,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -127048,8 +127067,8 @@
       "《每日外刊》订阅": "USD 8.99",
       "《英语四级真题精品课》": "USD 8.99",
       "听口直通自由—语音基础": "USD 5.99",
-      "听口直通自由—中高级英语精听": "USD 39.99",
-      "听口直通自由—口语输出课": "USD 29.99",
+      "听口直通自由—中高级英语精听": "USD 59.99",
+      "听口直通自由—口语输出课": "USD 39.99",
       "On Writing Well 英语原版书精读课": "USD 69.99",
       "大学英语_外刊精读 | 2025年度TOP100精选": "USD 29.99",
       "赖世雄中级美语下（视频课）": "USD 14.99",
@@ -127087,6 +127106,25 @@
       "赖世雄中级美语上（视频课）": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "赖世雄中级美语下（视频课）": "USD 14.99",
+            "赖世雄中级美语上（视频课）": "USD 14.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "USD 29.99",
+            "On Writing Well 英语原版书精读课": "USD 69.99",
+            "听口直通自由—中高级英语精听": "USD 59.99",
+            "听口直通自由—口语输出课": "USD 39.99",
+            "听口直通自由—语音基础": "USD 5.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "USD 29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "USD 29.99",
+            "Albert：不走弯路学英语": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780566948389,
@@ -201137,7 +201175,9 @@
       "ERC Barum Czech Rally Zlin 2026": "USD 2.99",
       "WRC Ueno Rally del Paraguay 2026": "USD 2.99",
       "ERC Rali Ceredigion 2026": "USD 2.99",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "USD 2.99"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "USD 2.99",
+      "Türi rahvaralli 2026": "USD 2.99",
+      "WRC Rally Chile Bio Bio 2026": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -201177,9 +201217,30 @@
       "ERC Barum Czech Rally Zlin 2026": "USD 2.99",
       "WRC Ueno Rally del Paraguay 2026": "USD 2.99",
       "ERC Rali Ceredigion 2026": "USD 2.99",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "USD 2.99"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "USD 2.99",
+      "Türi rahvaralli 2026": "USD 2.99",
+      "WRC Rally Chile Bio Bio 2026": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Türi rahvaralli 2026": "USD 2.99",
+            "WRC Rally Chile Bio Bio 2026": "USD 2.99",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "USD 2.99",
+            "ERC Rali Ceredigion 2026": "USD 2.99",
+            "WRC Ueno Rally del Paraguay 2026": "USD 2.99",
+            "Paide Rally 2026": "USD 2.99",
+            "ERC Barum Czech Rally Zlin 2026": "USD 2.99",
+            "SM Ralli Kitee 2026": "USD 2.99",
+            "Kihelkonna Rahvaralli 2026": "USD 1.99",
+            "WRC Secto Rally Finland 2026": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788467599321,
@@ -206159,6 +206220,45 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6798221075": {
+    "trackId": 6798221075,
+    "trackName": "Oto Galerici",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "Case of Gold": "USD 7.99",
+      "Pouch of Gold": "USD 3.99",
+      "Chest of Gold": "USD 9.99",
+      "Moneychanger's Hoard": "USD 12.99",
+      "Handful of Gold": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "Case of Gold": "USD 7.99",
+      "Pouch of Gold": "USD 3.99",
+      "Chest of Gold": "USD 9.99",
+      "Moneychanger's Hoard": "USD 12.99",
+      "Handful of Gold": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Case of Gold": "USD 7.99",
+            "Pouch of Gold": "USD 3.99",
+            "Chest of Gold": "USD 9.99",
+            "Moneychanger's Hoard": "USD 12.99",
+            "Handful of Gold": "USD 0.99"
+          }
         }
       ]
     ]

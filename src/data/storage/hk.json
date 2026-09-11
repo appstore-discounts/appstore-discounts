@@ -132294,6 +132294,25 @@
     "history": [
       [
         {
+          "timestamp": 1789096391072,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "HK$ 32.00",
+            "原版怪獸繼承卡牌包": "HK$ 148.00",
+            "怪獸繼承": "HK$ 38.00",
+            "覺醒魔王完整卡牌包": "HK$ 228.00",
+            "原版設施卡牌包": "HK$ 68.00",
+            "原版魔王完整卡牌包": "HK$ 228.00",
+            "原版地宮卡牌包": "HK$ 148.00",
+            "原版魔王權能卡牌包": "HK$ 148.00",
+            "原版魔王加速卡牌包": "HK$ 68.00",
+            "原版怪獸卡牌包": "HK$ 68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787294633281,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -166865,8 +166884,8 @@
       "地道美式发音课": "HK$ 288.00",
       "顾悦：20天脱口而出地道英语口语": "HK$ 118.00",
       "听口直通自由—语音基础": "HK$ 48.00",
-      "听口直通自由—中高级英语精听": "HK$ 288.00",
-      "听口直通自由—口语输出课": "HK$ 228.00",
+      "听口直通自由—中高级英语精听": "HK$ 488.00",
+      "听口直通自由—口语输出课": "HK$ 288.00",
       "On Writing Well 英语原版书精读课": "HK$ 588.00",
       "大学英语_外刊精读 | 2025年度TOP100精选": "HK$ 228.00",
       "赖世雄中级美语下（视频课）": "HK$ 118.00",
@@ -166897,6 +166916,25 @@
       "赖世雄中级美语上（视频课）": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "《每日外刊》订阅": "HK$ 68.00",
+            "长期VIP权限": "HK$ 488.00",
+            "一年VIP权限": "HK$ 148.00",
+            "赖世雄中级美语下（视频课）": "HK$ 118.00",
+            "赖世雄中级美语上（视频课）": "HK$ 118.00",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "HK$ 228.00",
+            "On Writing Well 英语原版书精读课": "HK$ 588.00",
+            "听口直通自由—中高级英语精听": "HK$ 488.00",
+            "听口直通自由—口语输出课": "HK$ 288.00",
+            "听口直通自由—语音基础": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787423346326,
@@ -284657,7 +284695,9 @@
       "ERC Barum Czech Rally Zlin 2026": "HK$ 22.00",
       "WRC Ueno Rally del Paraguay 2026": "HK$ 22.00",
       "ERC Rali Ceredigion 2026": "HK$ 22.00",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "HK$ 22.00"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "HK$ 22.00",
+      "Türi rahvaralli 2026": "HK$ 22.00",
+      "WRC Rally Chile Bio Bio 2026": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -284691,9 +284731,30 @@
       "ERC Barum Czech Rally Zlin 2026": "HK$ 22.00",
       "WRC Ueno Rally del Paraguay 2026": "HK$ 22.00",
       "ERC Rali Ceredigion 2026": "HK$ 22.00",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "HK$ 22.00"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "HK$ 22.00",
+      "Türi rahvaralli 2026": "HK$ 22.00",
+      "WRC Rally Chile Bio Bio 2026": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Türi rahvaralli 2026": "HK$ 22.00",
+            "WRC Rally Chile Bio Bio 2026": "HK$ 22.00",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "HK$ 22.00",
+            "ERC Rali Ceredigion 2026": "HK$ 22.00",
+            "WRC Ueno Rally del Paraguay 2026": "HK$ 22.00",
+            "Paide Rally 2026": "HK$ 22.00",
+            "ERC Barum Czech Rally Zlin 2026": "HK$ 22.00",
+            "SM Ralli Kitee 2026": "HK$ 22.00",
+            "Kihelkonna Rahvaralli 2026": "HK$ 18.00",
+            "WRC Secto Rally Finland 2026": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788467599321,
@@ -289255,6 +289316,43 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6798221075": {
+    "name": "Oto Galerici",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Case of Gold": "HK$ 58.00",
+      "Pouch of Gold": "HK$ 32.00",
+      "Chest of Gold": "HK$ 88.00",
+      "Moneychanger's Hoard": "HK$ 98.00",
+      "Handful of Gold": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Case of Gold": "HK$ 58.00",
+      "Pouch of Gold": "HK$ 32.00",
+      "Chest of Gold": "HK$ 88.00",
+      "Moneychanger's Hoard": "HK$ 98.00",
+      "Handful of Gold": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Case of Gold": "HK$ 58.00",
+            "Pouch of Gold": "HK$ 32.00",
+            "Chest of Gold": "HK$ 88.00",
+            "Moneychanger's Hoard": "HK$ 98.00",
+            "Handful of Gold": "HK$ 8.00"
+          }
         }
       ]
     ]

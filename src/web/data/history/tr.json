@@ -136340,6 +136340,25 @@
     "history": [
       [
         {
+          "timestamp": 1789096391072,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "₺199,99",
+            "TeaSet DarkLord Skin Package C": "₺249,99",
+            "Teaset Dark Lord Skin PackageB": "₺249,99",
+            "Teaset DarkLord Skin Package A": "₺249,99",
+            "Little Corr. Hero costume Pack": "₺1.499,99",
+            "Little Hero Costume Package": "₺1.499,99",
+            "Black Dark Lord Skin Package": "₺399,99",
+            "White Dark Lord Skin Package": "₺399,99",
+            "Awakening Viper Package": "₺249,99",
+            "Myth full pack": "₺1.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786060670333,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -157419,8 +157438,8 @@
       "《每日外刊》订阅": "₺58,99",
       "《英语四级真题精品课》": "₺499,99",
       "听口直通自由—语音基础": "₺299,99",
-      "听口直通自由—中高级英语精听": "₺1.999,99",
-      "听口直通自由—口语输出课": "₺1.499,99",
+      "听口直通自由—中高级英语精听": "₺2.999,99",
+      "听口直通自由—口语输出课": "₺1.999,99",
       "On Writing Well 英语原版书精读课": "₺3.999,99",
       "大学英语_外刊精读 | 2025年度TOP100精选": "₺1.499,99",
       "赖世雄中级美语下（视频课）": "₺799,99",
@@ -157459,6 +157478,24 @@
       "赖世雄中级美语上（视频课）": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "₺149,99",
+            "赖世雄中级美语下（视频课）": "₺799,99",
+            "赖世雄中级美语上（视频课）": "₺799,99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "₺1.499,99",
+            "On Writing Well 英语原版书精读课": "₺3.999,99",
+            "听口直通自由—中高级英语精听": "₺2.999,99",
+            "听口直通自由—口语输出课": "₺1.999,99",
+            "听口直通自由—语音基础": "₺299,99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787188251891,
@@ -279399,7 +279436,9 @@
       "ERC Barum Czech Rally Zlin 2026": "₺149,99",
       "WRC Ueno Rally del Paraguay 2026": "₺149,99",
       "ERC Rali Ceredigion 2026": "₺149,99",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "₺149,99"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "₺149,99",
+      "Türi rahvaralli 2026": "₺149,99",
+      "WRC Rally Chile Bio Bio 2026": "₺149,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -279433,9 +279472,30 @@
       "ERC Barum Czech Rally Zlin 2026": "₺149,99",
       "WRC Ueno Rally del Paraguay 2026": "₺149,99",
       "ERC Rali Ceredigion 2026": "₺149,99",
-      "D1+D2 A&D Omloop van Vlaanderen '26": "₺149,99"
+      "D1+D2 A&D Omloop van Vlaanderen '26": "₺149,99",
+      "Türi rahvaralli 2026": "₺149,99",
+      "WRC Rally Chile Bio Bio 2026": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Türi rahvaralli 2026": "₺149,99",
+            "WRC Rally Chile Bio Bio 2026": "₺149,99",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "₺149,99",
+            "ERC Rali Ceredigion 2026": "₺149,99",
+            "WRC Ueno Rally del Paraguay 2026": "₺149,99",
+            "Paide Rally 2026": "₺149,99",
+            "ERC Barum Czech Rally Zlin 2026": "₺149,99",
+            "SM Ralli Kitee 2026": "₺149,99",
+            "Kihelkonna Rahvaralli 2026": "₺99,99",
+            "WRC Secto Rally Finland 2026": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788467599321,
@@ -284409,6 +284469,45 @@
           "price": 9.99,
           "formattedPrice": "₺9,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6798221075": {
+    "trackId": 6798221075,
+    "trackName": "One Owner",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "₺2,99",
+      "Handful of Gold": "₺4,99",
+      "Pouch of Gold": "₺19,99",
+      "Chest of Gold": "₺49,99",
+      "Moneychanger's Hoard": "₺74,99",
+      "Case of Gold": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "₺2,99",
+      "Handful of Gold": "₺4,99",
+      "Pouch of Gold": "₺19,99",
+      "Chest of Gold": "₺49,99",
+      "Moneychanger's Hoard": "₺74,99",
+      "Case of Gold": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789096391072,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Handful of Gold": "₺4,99",
+            "Pouch of Gold": "₺19,99",
+            "Chest of Gold": "₺49,99",
+            "Moneychanger's Hoard": "₺74,99",
+            "Case of Gold": "₺39,99"
+          }
         }
       ]
     ]
