@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2266` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2268` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2268|1334253650|Automatic|❌|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|
+|2267|6805543429|Automatic|❌|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|
 |2266|6798221075|Automatic|❌|Oto Galerici|Oto Galerici|Oto Galerici|One Owner|One Owner|Oto Galerici|
 |2265|6742741980|Automatic|十二时辰-顺时养生小组件×运动健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 Hour Health - Energy Widget|12 Hour Health - Energy Widget|十二时辰-顺时养生小组件×运动健康提醒|
 |2264|6806721202|Automatic|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|
@@ -1255,7 +1257,7 @@ So far, we've covered `7` `Countries or Regions` and  `2266` `Apps` <br />Push n
 |1021|1611723264|Automatic|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|❌|
 |1020|409818349|Automatic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
 |1019|1141282192|Automatic|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|
-|1018|6737434503|Automatic|❌|將星三國|將星三國|將星三國|將星三國|將星三國|將星三國|
+|1018|6737434503|Automatic|❌|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|
 |1017|478289911|Automatic|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|
 |1016|1269488509|Automatic|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|
 |1015|426860241|Automatic|❌|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|

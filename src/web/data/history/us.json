@@ -75772,6 +75772,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. CAN Texting": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "1 Mo. Fongo Ultimate": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789010266489,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -149542,6 +149561,29 @@
       ]
     ]
   },
+  "1334253650": {
+    "trackId": 1334253650,
+    "trackName": "AC2PHONE",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "$29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1335318686": {
     "trackId": 1335318686,
     "trackName": "IPSW Go",
@@ -162287,6 +162329,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787982522265,
@@ -251151,6 +251201,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Corrupted Pack": "$6.99",
+            "Monster Pack": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788345787844,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -271157,6 +271226,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Crimson Walk": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "Christmas night": "$1.79",
+            "Wagashi Whispers": "$1.19",
+            "Wacky Halloween Set": "$2.39"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788837333321,
@@ -293707,6 +293795,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -313493,7 +313600,7 @@
   },
   "6737434503": {
     "trackId": 6737434503,
-    "trackName": "將星三國",
+    "trackName": "將星三國 - 單機開放劇情三國遊戲",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.29,
@@ -337912,6 +338019,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "$5.99",
+            "Neo Behemoth": "$1.99",
+            "Moonveil Skin Set": "$9.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Essence of Transcendence": "$29.99",
+            "Underworld Pass 1": "$2.99",
+            "Time Traveler": "$5.99",
+            "Ark of Eternity": "$29.99",
+            "Memory of Training": "$17.99",
+            "Beginning of the Abyss": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788664115804,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -344867,6 +344993,29 @@
             "Moneychanger's Hoard": "$12.99",
             "Handful of Gold": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6805543429": {
+    "trackId": 6805543429,
+    "trackName": "護士投考全攻略 NurseReady",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "$22.99"
+    },
+    "minPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "$22.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 22.99,
+          "formattedPrice": "$22.99",
+          "inAppPurchases": {}
         }
       ]
     ]

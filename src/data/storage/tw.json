@@ -10068,6 +10068,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Rameau: The Mutopia Collection": "$0.00",
+            "Händel: The Mutopia Collection": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788837333321,
           "price": 790,
           "formattedPrice": "$790.00",
@@ -131855,6 +131874,27 @@
       ]
     ]
   },
+  "1334253650": {
+    "name": "AC2PHONE",
+    "maxPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00"
+    },
+    "minPriceInfo": {
+      "price": 990,
+      "formattedPrice": "$990.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1335318686": {
     "name": "IPSW Go",
     "maxPriceInfo": {
@@ -143480,10 +143520,18 @@
       "formattedPrice": "$100.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787982522265,
@@ -218179,6 +218227,20 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Filtr": "$150.00",
+            "Tip": "$150.00",
+            "Yearly Recurring Tip": "$320.00",
+            "Monthly Recurring Tip": "$60.00",
+            "Mega Tip": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789036952061,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -258355,6 +258417,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "UH-60": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788909174789,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -271917,7 +271998,7 @@
     ]
   },
   "6737434503": {
-    "name": "將星三國",
+    "name": "將星三國 - 單機開放劇情三國遊戲",
     "maxPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
@@ -292326,7 +292407,8 @@
       "LOW POLY GRAY": "$60.00",
       "GHOST LUMINOUS": "$60.00",
       "RED CAP ORANDA": "$60.00",
-      "PANDA TELESCOPE": "$60.00"
+      "PANDA TELESCOPE": "$60.00",
+      "GRAY WHITE KITTY FISH": "$60.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -292353,9 +292435,29 @@
       "LOW POLY GRAY": "$60.00",
       "GHOST LUMINOUS": "$60.00",
       "RED CAP ORANDA": "$60.00",
-      "PANDA TELESCOPE": "$60.00"
+      "PANDA TELESCOPE": "$60.00",
+      "GRAY WHITE KITTY FISH": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "GRAY WHITE KITTY FISH": "$60.00",
+            "RED-WHITE RYUKIN": "$60.00",
+            "RED RYUKIN": "$60.00",
+            "WHITE KITTY FISH": "$60.00",
+            "BLACK KITTY FISH": "$60.00",
+            "ROBO FISH 02": "$60.00",
+            "GHOST": "$60.00",
+            "ORANGE/WHITE": "$60.00",
+            "GHOST TRANSLUCENT": "$60.00",
+            "PANDA TELESCOPE": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787928940020,
@@ -300692,6 +300794,27 @@
             "Moneychanger's Hoard": "$390.00",
             "Handful of Gold": "$30.00"
           }
+        }
+      ]
+    ]
+  },
+  "6805543429": {
+    "name": "護士投考全攻略 NurseReady",
+    "maxPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "minPriceInfo": {
+      "price": 790,
+      "formattedPrice": "$790.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
         }
       ]
     ]

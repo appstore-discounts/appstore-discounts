@@ -47465,6 +47465,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "USD 3.99",
+            "V.K Collection": "USD 3.99",
+            "Rayark Selection Vol.1": "USD 3.99",
+            "被遺忘的沙漏": "USD 6.99",
+            "Cytus Selection Vol.1": "USD 3.99",
+            "MILI Collection": "USD 3.99",
+            "Knight Iris": "USD 3.99",
+            "Cytus Selection Vol.2": "USD 3.99",
+            "Rayark Selection Vol.3": "USD 3.99",
+            "M2U X NICODE Collection": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788923896641,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -91886,7 +91905,8 @@
       "6元礼包": "USD 0.99",
       "168元礼包": "USD 24.99",
       "秦王的宝藏": "USD 24.99",
-      "一盒元宝": "USD 2.99"
+      "一盒元宝": "USD 2.99",
+      "一袋元宝": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -91901,9 +91921,29 @@
       "6元礼包": "USD 0.99",
       "168元礼包": "USD 24.99",
       "秦王的宝藏": "USD 24.99",
-      "一盒元宝": "USD 2.99"
+      "一盒元宝": "USD 2.99",
+      "一袋元宝": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "江湖名士": "USD 3.99",
+            "鳌拜的私房钱": "USD 8.99",
+            "30元礼包": "USD 3.99",
+            "30元礼包四": "USD 3.99",
+            "60元礼包": "USD 8.99",
+            "6元礼包": "USD 0.99",
+            "秦王的宝藏": "USD 24.99",
+            "168元礼包": "USD 24.99",
+            "一盒元宝": "USD 2.99",
+            "一袋元宝": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
@@ -102359,6 +102399,27 @@
       ]
     ]
   },
+  "1334253650": {
+    "name": "AC2PHONE",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1335318686": {
     "name": "IPSW Go",
     "maxPriceInfo": {
@@ -108669,6 +108730,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787982522265,
@@ -176200,6 +176269,23 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 4.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "Concorde": "USD 1.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Airbus A320neo": "USD 3.99",
+            "Boeing 777-300ER": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1789081003914,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -181294,7 +181380,7 @@
     ]
   },
   "6737434503": {
-    "name": "將星三國",
+    "name": "將星三國 - 單機開放劇情三國遊戲",
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29",
@@ -202013,6 +202099,27 @@
             "Moneychanger's Hoard": "USD 12.99",
             "Handful of Gold": "USD 0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6805543429": {
+    "name": "護士投考全攻略 NurseReady",
+    "maxPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "USD 22.99"
+    },
+    "minPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "USD 22.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 22.99,
+          "formattedPrice": "USD 22.99",
+          "inAppPurchases": {}
         }
       ]
     ]

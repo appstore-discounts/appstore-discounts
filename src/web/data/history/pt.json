@@ -48990,11 +48990,23 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "All Access Yearly": "34,99 €",
+      "All Access Yearly": "17,99 €",
       "All Access Weekly": "5,99 €",
       "Early Access Weekly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Early Access Weekly": "1,99 €",
+            "All Access Weekly": "5,99 €",
+            "All Access Yearly": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786571006662,
@@ -59656,6 +59668,25 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pilha de Gemas": "2,99 €",
+            "SF2SEPack2": "1,99 €",
+            "Baú de Gemas": "9,99 €",
+            "Pilha de Moedas": "0,99 €",
+            "Bolsa de Moedas": "5,99 €",
+            "Bolsa de Gemas": "22,99 €",
+            "Bau de Moedas": "22,99 €",
+            "SF2SEPack120": "129,99 €",
+            "SF2SEPack100": "99,99 €",
+            "SF2SEPack90": "99,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786412471476,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -65081,6 +65112,29 @@
       ]
     ]
   },
+  "1334253650": {
+    "trackId": 1334253650,
+    "trackName": "AC2PHONE",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "minPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1335318686": {
     "trackId": 1335318686,
     "trackName": "IPSW Go",
@@ -68160,6 +68214,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787982522265,
@@ -108909,7 +108971,7 @@
   },
   "6737434503": {
     "trackId": 6737434503,
-    "trackName": "將星三國",
+    "trackName": "將星三國 - 單機開放劇情三國遊戲",
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.29,
@@ -139329,6 +139391,29 @@
             "Moneychanger's Hoard": "14,99 €",
             "Handful of Gold": "0,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6805543429": {
+    "trackId": 6805543429,
+    "trackName": "護士投考全攻略 NurseReady",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "24,99 €"
+    },
+    "minPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "24,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 24.99,
+          "formattedPrice": "24,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

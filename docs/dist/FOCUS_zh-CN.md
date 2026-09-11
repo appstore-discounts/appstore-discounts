@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2266` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2268` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2268|1334253650|自动|❌|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|
+|2267|6805543429|自动|❌|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|
 |2266|6798221075|自动|❌|Oto Galerici|Oto Galerici|Oto Galerici|One Owner|One Owner|Oto Galerici|
 |2265|6742741980|自动|十二时辰-顺时养生小组件×运动健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 時辰-順時養生小工具&運動健康提醒|12 Hour Health - Energy Widget|12 Hour Health - Energy Widget|十二时辰-顺时养生小组件×运动健康提醒|
 |2264|6806721202|自动|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|M8 Music Tracker|
@@ -1255,7 +1257,7 @@
 |1021|1611723264|自动|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|❌|
 |1020|409818349|自动|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
 |1019|1141282192|自动|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|
-|1018|6737434503|自动|❌|將星三國|將星三國|將星三國|將星三國|將星三國|將星三國|
+|1018|6737434503|自动|❌|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|
 |1017|478289911|自动|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|
 |1016|1269488509|自动|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|
 |1015|426860241|自动|❌|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|

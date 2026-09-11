@@ -119358,7 +119358,8 @@
       "60元礼包": "HK$ 68.00",
       "30元礼包四": "HK$ 32.00",
       "6元礼包二": "HK$ 8.00",
-      "168元礼包": "HK$ 188.00"
+      "168元礼包": "HK$ 188.00",
+      "18元礼包四": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -119373,9 +119374,29 @@
       "60元礼包": "HK$ 68.00",
       "30元礼包四": "HK$ 32.00",
       "6元礼包二": "HK$ 8.00",
-      "168元礼包": "HK$ 188.00"
+      "168元礼包": "HK$ 188.00",
+      "18元礼包四": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "江湖名士": "HK$ 32.00",
+            "秦王的宝藏": "HK$ 188.00",
+            "一盒元宝": "HK$ 22.00",
+            "鳌拜的私房钱": "HK$ 68.00",
+            "一袋元宝": "HK$ 8.00",
+            "30元礼包": "HK$ 32.00",
+            "6元礼包": "HK$ 8.00",
+            "60元礼包": "HK$ 68.00",
+            "6元礼包二": "HK$ 8.00",
+            "18元礼包四": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788950979690,
@@ -133300,6 +133321,29 @@
       ]
     ]
   },
+  "1334253650": {
+    "trackId": 1334253650,
+    "trackName": "AC2PHONE",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00"
+    },
+    "minPriceInfo": {
+      "price": 228,
+      "formattedPrice": "HK$ 228.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 228,
+          "formattedPrice": "HK$ 228.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1335318686": {
     "trackId": 1335318686,
     "trackName": "IPSW Go",
@@ -146293,10 +146337,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787982522265,
@@ -254671,6 +254723,23 @@
     "history": [
       [
         {
+          "timestamp": 1789123271061,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A380": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Concorde": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1789081003914,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -266501,7 +266570,7 @@
   },
   "6737434503": {
     "trackId": 6737434503,
-    "trackName": "將星三國",
+    "trackName": "將星三國 - 單機開放劇情三國遊戲",
     "region": "hk",
     "maxPriceInfo": {
       "price": 2,
@@ -293619,6 +293688,29 @@
             "Moneychanger's Hoard": "HK$ 98.00",
             "Handful of Gold": "HK$ 8.00"
           }
+        }
+      ]
+    ]
+  },
+  "6805543429": {
+    "trackId": 6805543429,
+    "trackName": "護士投考全攻略 NurseReady",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 188,
+      "formattedPrice": "HK$ 188.00"
+    },
+    "minPriceInfo": {
+      "price": 188,
+      "formattedPrice": "HK$ 188.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789123271061,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {}
         }
       ]
     ]

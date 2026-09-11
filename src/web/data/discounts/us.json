@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1410053842,
+    "region": "us",
+    "timestamp": 1789123271061,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1410053842",
+    "trackName": "Selene: Shift Calendar",
+    "firstRecordedAt": 1745453324134
+  },
+  {
     "trackId": 1359652100,
     "region": "us",
     "timestamp": 1789096391072,
