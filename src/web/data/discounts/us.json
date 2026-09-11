@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 484090401,
+    "trackId": 1160943124,
     "region": "us",
-    "timestamp": 1789142168876,
+    "timestamp": 1789158680954,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Pack 65 credits",
-        "from": "$5.99",
-        "to": "$2.99",
-        "range": "[$2.99 ~ $5.99]"
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
       }
     ],
-    "price": 3.99,
-    "formattedPrice": "$3.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id484090401",
-    "trackName": "Akinator VIP",
-    "firstRecordedAt": 1787838577561
+    "trackViewUrl": "https://apps.apple.com/us/app/id1160943124",
+    "trackName": "Speech to Text : Voice to Text",
+    "firstRecordedAt": 1752329477829
   },
   {
     "trackId": 1410053842,

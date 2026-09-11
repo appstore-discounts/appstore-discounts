@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-09-11T17:31:15.539Z</updated>
+    <updated>2026-09-11T22:09:04.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T17:31:15.541Z</updated>
+        <updated>2026-09-11T22:09:04.793Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 11 Sep 2026 17:31:15 GMT</id>
+        <id>rankingusFri, 11 Sep 2026 22:09:04 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T17:31:15.541Z</updated>
+        <updated>2026-09-11T22:09:04.793Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -97,6 +97,48 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/us/484090401?lang=en">Akinator VIP</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Pack 65 credits</i>：<b>1</b>
+              </li><li>
+                <i>Pack 15 credits</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1160943124?lang=en">Speech to Text : Voice to Text</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/us/1290687550?lang=en">Cytus II</a>
       </td>
       <td>
@@ -129,7 +171,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6467822375?lang=en">Auto Redial - Phone Call Retry</a>
@@ -156,7 +198,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6449003064?lang=en">Goblin Tools</a>
@@ -173,7 +215,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/424591347?lang=en">FINAL FANTASY III (3D REMAKE)</a>
@@ -190,7 +232,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/451697322?lang=en">Heart Murmurs Pro</a>
@@ -207,7 +249,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/479431697?lang=en">CHRONO TRIGGER (Upgrade Ver.)</a>
@@ -224,30 +266,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/484090401?lang=en">Akinator VIP</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Pack 65 credits</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/485246824?lang=en">Cytus</a>
@@ -280,7 +299,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/549432607?lang=en">Townsmen Premium</a>
@@ -297,7 +316,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/645797558?lang=en">Hero Emblems</a>
@@ -314,7 +333,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/675049147?lang=en">SmallFish Chess for Stockfish</a>
@@ -331,7 +350,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/700637744?lang=en">DEEMO</a>
@@ -354,7 +373,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/870322730?lang=en">Implosion - Never Lose Hope</a>
@@ -371,7 +390,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/931188326?lang=en">DayCost Pro - Personal Finance</a>
@@ -388,7 +407,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/966489322?lang=en">生辰 — 桌面时间小组件</a>
@@ -411,7 +430,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/982457990?lang=en">Cross Infinity: Eschaton Rifts</a>
@@ -428,7 +447,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/994157520?lang=en">1942 Pacific Front Premium</a>
@@ -445,7 +464,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1020541183?lang=en">MovieSpirit - Movie Maker Pro</a>
@@ -462,7 +481,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1021566244?lang=en">FINAL FANTASY VII</a>
@@ -479,7 +498,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1041260001?lang=en">FINAL FANTASY Ⅸ</a>
@@ -496,27 +515,10 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1070462618?lang=en">Hero Emblems II</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>22</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1160943124?lang=en">Speech to Text : Voice to Text</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1070462618?lang=en">Hero Emblems II</a>
       </td>
       <td>
         <ul>
@@ -2010,6 +2012,191 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akinator VIP]]></title>
+        <id>Akinator VIP-us-1789158680954</id>
+        <link href="https://appstore-discounts.eyelly.me/us/484090401?lang=en"/>
+        <updated>2026-09-11T20:31:20.954Z</updated>
+        <summary type="html"><![CDATA[Pack 15 credits: $1.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/484090401?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/01/d6/f601d684-ab21-5c79-f4cc-b683d2a6fc60/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Pack 15 credits：</strong><span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$3.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    11,250 Geniz：<b>$0.99</b>
+  </li><li>
+    115,000 Geniz (58,750 FREE)：<b>$4.99</b>
+  </li><li>
+    30,000 Geniz (7,500 FREE)：<b>$1.99</b>
+  </li><li>
+    Pack 15 credits：<b>$0.99</b>
+  </li><li>
+    50,000 Geniz (16,250 FREE)：<b>$2.99</b>
+  </li><li>
+    Pack 10 credits：<b>$0.99</b>
+  </li><li>
+    80,000 Geniz (35,000 FREE)：<b>$3.99</b>
+  </li><li>
+    Pack 65 credits：<b>$5.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Akinator can read your mind just like magic and tell you what character you are thinking of, just by asking a few questions. Think of a real or fictional character and Akinator will try to guess who it is.
+Will you dare challenge the genie? And what about other themes like movies, animals…?
+ 
+###NEW###
+ENJOY A NEW EXPERIENCE!
+Discover a redesigned genie with new emotions and fully animated.
+
+3 ADDITIONAL THEMES BESIDES THE CHARACTERS
+Akinator is getting stronger and stronger... The genie has increased his knowledge, and now you have the opportunity to also challenge him on movies, animals and objects!
+Will you manage to defeat Akinator?
+ 
+GO IN SEARCH FOR AKI AWARDS
+The blue Genie invites you to think outside the box. As you know, he likes to guess characters and to take on difficult challenges. To do that, make him guess forgotten characters who have not been played for a very long time and you may win the best Aki Awards.
+ 
+BE THE BEST PLAYER
+Challenge the other players on the leaderboards to prove who the best is. You may write your name on the Last Super Awards board or on the Hall of Fame.
+ 
+KEEP ON GUESSING
+Each day, try to find the 5 mysterious characters and win some additional and specific Aki Awards. Complete the full Daily Challenge and earn the Gold Daily Challenge Aki Award, one of the most prestigious Aki Awards.
+
+KEEP TRACK OF YOUR ACHIEVEMENTS
+Akinator lets you create your own user account. It will record the Aki Awards you've won and your Genizs' balance. They will follow you everywhere now, even if you change your mobile device. 
+
+Main features:
+-17 languages (French, English, Spanish, Portuguese, German, Japanese, Arabic, Russian, Italian, Chinese, Turkish, Korean, Hebrew, Polish, Indonesian, Vietnamese and Dutch)
+-Get 3 additional themes: Movies, Animals and Objects
+-Aki Awards Board to get an overview of your collection
+-Hall of Fame with both current and previous ranking
+-Last super awards for Black, Platinum and Gold Aki Awards
+-Daily Challenges Board
+-Add magic by proposing a photo or some questions
+-The sensitive content filter 
+ 
+---------------------------
+Follow Akinator on:
+Facebook @officialakinator
+Twitter @akinator_team
+Instagram @akinatorgenieapp
+---------------------------
+ 
+Genie’s tips:
+-Akinator requires an Internet connection to use his magic lamp. Turn on Wifi or be sure to have a data plan.
+-Don’t forget to scroll down the list to find and select your language
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/61/33/35613388-4fd3-bb5e-8aec-ea8ecf07af30/001_Akin000_Ator_V9_EN_iPhone6_U002c9_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/92/a6/b792a668-4ddc-0b34-45d9-f5e12dd3d9f8/002_Akin000_Ator_V9_EN_iPhone6_U002c9_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b8/93/14b89313-f3e1-623f-8155-4e82a2b11dbe/003_Akin000_Ator_V9_EN_iPhone6_U002c9_03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/5c/71/055c71bc-61f3-b992-f597-7440465ce8be/004_Akin000_Ator_V9_EN_iPhone6_U002c9_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/79/fd/e079fdc2-3f06-23c4-0166-58ee57e086a6/006_Akin000_Ator_V9_EN_iPhone6_U002c9_06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/b1/c6/84b1c6dc-8590-08d3-770a-6bae4c39ab05/005_Akin000_Ator_V9_EN_iPhone6_U002c9_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/c7/72/43c77260-cc60-2942-8c26-4bd0587fe31d/007_Akin000_Ator_V9_EN_iPhone6_U002c9_07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/70/9b/bb709b75-e8da-a18c-ce2c-0e67ad3d6311/009_Akin000_Ator_V9_EN_iPhone6_U002c9_09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/96/77/d696774f-2aff-4312-27ac-e4ff68d71b76/010_Akin000_Ator_V9_EN_iPhone6_U002c9_010.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/7d/d8/dd7dd808-6dfd-b835-e9e3-0cfde156368b/008_Akin000_Ator_V9_EN_iPhone6_U002c9_08.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/3b/5f/953b5f05-9482-41d2-58e3-42ba525fe4ac/Akinator_V9_EN_iPad13_U0027_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/4d/7a/ee4d7a2d-81ad-05e3-5be6-27a4c4d5fc62/Akinator_V9_EN_iPad13_U0027_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/ff/76/3eff76da-9bd4-c754-48fe-ea87aa59355d/Akinator_V9_EN_iPad13_U0027_03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/34/ae/1734aed6-12b9-e06e-706f-3b5e9a04cfd4/Akinator_V9_EN_iPad13_U0027_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/5b/9c/a45b9c62-0bdb-d715-c9b0-5f609c19c0a6/Akinator_V9_EN_iPad13_U0027_06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/2c/6c/ad2c6c92-17eb-aae5-49fe-85253a7a2d34/Akinator_V9_EN_iPad13_U0027_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/9e/20/969e2033-29f4-e2b2-23c5-394eb06c3a6c/Akinator_V9_EN_iPad13_U0027_07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/2e/f4/6b2ef47d-2118-79fd-447f-165a42f5f4ee/Akinator_V9_EN_iPad13_U0027_09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/65/d1/bc65d1d4-5035-25da-e467-b8391cfb077d/Akinator_V9_EN_iPad13_U0027_08.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/e0/18/b2e018cc-d517-7e49-a298-62e920205e60/Akinator_V9_EN_iPad13_U0027_010.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speech to Text : Voice to Text]]></title>
+        <id>Speech to Text : Voice to Text-us-1789158680954</id>
+        <link href="https://appstore-discounts.eyelly.me/us/1160943124?lang=en"/>
+        <updated>2026-09-11T20:31:20.954Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1160943124?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/40/18/17401875-3655-6e84-3a1e-48cf124dc74a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $1.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Month：<b>$1.99</b>
+  </li><li>
+    Year：<b>$11.99</b>
+  </li><li>
+    6 Months：<b>$4.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Speech to text : Voice to text  is the powerful, real-time dictation solution. Based on the latest artificial intelligence and using a powerful speech recognition engine, This Dictation app accurately transcribes your speech to text in real time. 
+
+The clean elegant design, along with the non-stop voice recognition and other features means you can relax and focus on your thoughts and content.
+
+Using our app , your words will be magically transcribed into text without your ever needing to touch a keyboard. Now you can use the power of your voice to create your words!
+
+Easily share your text and files later! (Works with Evernote, Dropbox, Google Drive, OneDrive, Facebook, Twitter, Snapchat, WhatsApp and other iOS supported sharing apps.)
+
+
+Whether you’re a professional writer, doctor, lawyer, disabled or somehow prevented from traditional typing, Speech to text : Voice to text app will swiftly solve your transcription problems and help you achieve your writing goals today!
+
+
+
+This fantastic speech-to-text app will allow you to do more with your iPhone/ iPad :
+
+・Longer Record time:
+ -DICTATE CONTINUOUSLY up-to 1 HOUR.
+
+・Unlimited save & edits
+
+・Transcribed text can be edited directly.
+・Ideal for both individual and group transcription
+・Background support for voice recognition.
+・On-device Speech Recognition.
+
+• Voice recognition support for 59 languages and accents.
+• Share your text on social networks.
+• Copy your text to other apps.
+• Send your text as an email or text message.
+
+• Create PDF instantly with single click.
+• Convert text your notes, reports, letters into PDF instantly
+• Text Analysis using AI.
+
+►  Currently Supported Speech Recognition Languages: Arabic, Cantonese, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Bokmål, Polish, Portuguese, Romanian, Russian, Shanghainese, Slovak, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnamese.
+
+Technology:
+New iOS 14 Speech framework having state of the art accuracy,
+Faster ,Automatically adapts to the user
+
+Super easy: Simply click the microphone and start dictating. No need to login or register
+
+You can add new paragraphs, punctuation marks, smileys and other special characters using simple voice commands.
+
+Who Should Use Speech to Text : Voice to Text ?
+
+1. Reporters: Interviews, conversations and more are easily recorded and transcribed, preserving the original audio.
+
+2. Writers: Novelists, Authors, can all write in their true voice, capturing their moments of inspiration anytime, anywhere.
+
+3. Professionals: Doctors, lawyers, managers, etc. Easily transcribe your daily tasks, notes, conference calls, letters and more! Your voice makes it happen!
+
+4. Elderly or Disabled: Eliminates slow typing, commonly misspelled words or embarrassing composition mistakes. This app makes it convenient and easy to send and share your words with those you love.
+
+5. Language Students: Text analysis using AI , Easily learn and master new words and languages by practicing dictation with speech to text app !
+
+SUBSCRIPTION PRICING & TERMS
+
+We offer three auto-renewing subscription options:
+
+$1.99 / month
+$9.49 / 6 months - Save 20%
+$14.49 / 1 year - Save 40%
+
+The price corresponds to the same price segment , which are set in the “Apple App Store Matrix” for other currencies
+
+You can cancel a subscription anytime by turning off auto renewal though your iTunes account settings.This must be done 24 hours before the end of subscription period to avoid being charged.
+The cancellation will take effect the day after the last day of the current subscription.
+
+Terms of Service :
+https://voiceovermaker.com/termsofuse
+
+Privacy Policy:
+https://voiceovermaker.com/privacypolicy
+
+
+
+Support:
+Please email for any suggestions/feedback
+voiceovermakerz@gmail.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/25/9c/a2259cd3-bd59-1ebe-94c5-5d0466ed69e0/mzl.vmygkyjz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/75/0d/bc750d10-602f-4205-6297-6a2b32a884b6/f9ecb161-b28d-46a0-9a25-00809fc51d99_SpeechText1@z2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3d/ec/f4/3decf434-9544-7c87-b72b-facdfe595127/af36c918-b65f-4d95-b6ec-8a5d95f3a491_SpeechText_iphone5pt5_3@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/fa/15/d4fa1546-8b5a-b688-abd7-3d7d9f28305e/52b0a797-e88d-417a-a69d-a3afae3d7c01_SpeechText5@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/99/54/8d9954ed-3074-ff5e-cce5-f128a342560d/97a05ad0-b470-4890-b048-a8a5e4240987_Speechtext2@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/ec/a8/43eca89e-58da-c527-ee7a-33114291f379/756f491f-13c7-47e8-85ea-8a28b9548484_SpeechText8@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/bc/d0/3dbcd094-b683-377c-aa2a-c90cad921927/bb6d4598-81ef-4e64-86f5-d3a7d7c89b7a_SpeechText9@2x.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/f6/90/daf690d6-07db-431b-51cd-dd23af8e8216/ff96eba5-6233-423d-94b2-4de07ed6c814_SpeechtextiPad1@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/5a/43/375a43c9-7c1e-e0dc-eebd-86d9593a0856/38618a72-0ca3-450f-9024-86c3f9b0df05_SpeechtextiPad4@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/4f/93/404f937c-f31c-3aa2-96f5-33c673156463/d953665e-2a03-4615-9de8-2b019db242d5_SpeechtextiPad5@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/e2/ac/bae2aca4-d671-e4bd-5070-a38099520477/7265fb5a-c6fd-43f0-be8b-ecca4cd897cc_SpeechtextiPad7@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/e4/7d/59e47d7c-849f-efd9-8b06-f9598bb88804/947b0610-f965-4baf-af99-92fb0049fb33_SpeechtextiPad10@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/2c/a2/b42ca2c1-be22-9e73-199b-ab6b71a0d51f/8a293e78-3a88-41ae-bd2e-4ff9ed3e6227_SpeechtextiPadold2.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Akinator VIP]]></title>
