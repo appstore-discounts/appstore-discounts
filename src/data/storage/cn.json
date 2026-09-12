@@ -206388,6 +206388,25 @@
     "history": [
       [
         {
+          "timestamp": 1789183143080,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "限时挑战书 Paradigm: Reboot 限时活动": "¥21.00",
+            "里莫的秘密书房: 白金方案": "¥28.80",
+            "扩充章节 U": "¥28.00",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "调律计划：PinocchioP精选辑": "¥28.00",
+            "调律计划：虚拟歌手精选辑": "¥28.00",
+            "扩充章节 H": "¥28.00",
+            "十周年纪念章节 重逢之音 Phase I": "¥35.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788950979690,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -220599,18 +220618,39 @@
     ]
   },
   "6751122124": {
-    "name": "Notteka ｜ 专业粤语会议助手",
+    "name": "Notteka - AI 工作台",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00",
-      "Monthly subscription": "¥88.00"
+      "Monthly subscription": "¥88.00",
+      "Pro": "¥198.00",
+      "Lite": "¥68.00",
+      "Pro Max": "¥698.00",
+      "Pro Ultra": "¥1,298.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Monthly subscription": "¥88.00"
+      "Monthly subscription": "¥88.00",
+      "Pro": "¥198.00",
+      "Lite": "¥68.00",
+      "Pro Max": "¥698.00",
+      "Pro Ultra": "¥1,298.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789183143080,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Pro": "¥198.00",
+            "Lite": "¥68.00",
+            "Pro Max": "¥698.00",
+            "Pro Ultra": "¥1,298.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788969564190,

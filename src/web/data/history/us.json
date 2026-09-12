@@ -75842,6 +75842,23 @@
     "history": [
       [
         {
+          "timestamp": 1789183143080,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. CAN Texting": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "1 Mo. Fongo Ultimate": "$12.99"
+          }
+        },
+        {
           "timestamp": 1789158680954,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -122362,9 +122379,9 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "Month": "$1.99",
+      "Month": "$2.99",
       "Year": "$11.99",
-      "6 Months": "$4.99"
+      "6 Months": "$8.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -122375,6 +122392,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789183143080,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "$2.99",
+            "Year": "$11.99",
+            "6 Months": "$8.99"
+          }
+        },
         {
           "timestamp": 1789158680954,
           "price": 0,
@@ -212589,6 +212616,14 @@
     "history": [
       [
         {
+          "timestamp": 1789183143080,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788318324161,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -293913,6 +293948,23 @@
     "history": [
       [
         {
+          "timestamp": 1789183143080,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 747-400": "$1.99",
+            "Concorde": "$1.99"
+          }
+        },
+        {
           "timestamp": 1789123271061,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -312774,6 +312826,22 @@
       "24h Pass": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789183143080,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Weekly Subscription": "$1.99",
+            "Premium Lifetime": "$5.99",
+            "3-Day Pass": "$0.99",
+            "7-Day Pass": "$2.99",
+            "24h Pass": "$0.59",
+            "Yearly Subscription": "$8.99",
+            "Pro – Lifetime": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789072077262,
@@ -339082,6 +339150,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789183143080,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "基础月会员": "$0.99",
+            "黄金会员月度": "$1.99",
+            "解锁报告": "$2.99",
+            "黄金会员月": "$1.99",
+            "普通会员买断": "$22.99",
+            "黄金会员买断": "$39.99",
+            "黄金年会员": "$29.99",
+            "黄金月会员": "$3.99",
+            "黄金会员": "$3.99"
+          }
+        },
         {
           "timestamp": 1789142168876,
           "price": 0,

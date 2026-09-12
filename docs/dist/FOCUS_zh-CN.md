@@ -301,7 +301,7 @@
 |1977|6476567182|自动|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|
 |1976|687236846|自动|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
 |1975|463994203|自动|八字紫微斗|八字紫微斗|八字紫微斗|八字紫微斗|❌|❌|❌|
-|1974|6757943661|自动|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|
+|1974|6757943661|自动|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|
 |1973|1672852887|自动|绝对音高 Pro：音符 间隔 和弦 音阶|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|Ear training Pro: piano guitar|Ear training Pro: piano guitar|Ouvido absoluto Pro: Solfejo|
 |1972|6596729064|自动|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|
 |1971|6741470807|自动|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|
@@ -376,7 +376,7 @@
 |1902|6758863302|自动|❌|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|
 |1901|6758862862|自动|❌|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|
 |1900|1536711520|自动|小熊数日子|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|
-|1899|6751122124|自动|Notteka ｜ 专业粤语会议助手|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI Meeting Notes|Notteka | AI Meeting Notes|Notteka ｜ 专业粤语会议助手|
+|1899|6751122124|自动|Notteka - AI 工作台|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI Meeting Notes|Notteka | AI Meeting Notes|Notteka - AI 工作台|
 |1898|6760331891|自动|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|
 |1897|6756783688|自动|❌|❌|❌|寶寶接種小幫手|❌|❌|❌|
 |1896|374098312|自动|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|
