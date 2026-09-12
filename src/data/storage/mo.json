@@ -66044,6 +66044,22 @@
     "history": [
       [
         {
+          "timestamp": 1789225426600,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "1 Gem": "USD 0.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "48 Gems": "USD 28.99",
+            "150 Gems": "USD 79.99",
+            "28 Gems": "USD 14.99",
+            "74 Gems": "USD 40.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788027077652,
           "price": 0,
           "formattedPrice": "免費",
@@ -99905,6 +99921,25 @@
     "history": [
       [
         {
+          "timestamp": 1789225426600,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788619201969,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -120147,6 +120182,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789225426600,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787928940020,
@@ -187607,6 +187650,19 @@
     "history": [
       [
         {
+          "timestamp": 1789225426600,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "200,000 x Coins": "USD 9.99",
+            "80,000 x Coins": "USD 4.99",
+            "40,000 x Coins": "USD 2.99",
+            "10,000 x Coins": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788250806888,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -202323,6 +202379,48 @@
           "timestamp": 1789123271061,
           "price": 22.99,
           "formattedPrice": "USD 22.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749684876": {
+    "name": "阿爾基奧涅：化學拼圖",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789225426600,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6799335271": {
+    "name": "奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789225426600,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

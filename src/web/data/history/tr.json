@@ -240557,6 +240557,23 @@
     "history": [
       [
         {
+          "timestamp": 1789225426600,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A321": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1789207811514,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -285061,6 +285078,52 @@
           "timestamp": 1789123271061,
           "price": 1199.99,
           "formattedPrice": "₺1.199,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749684876": {
+    "trackId": 6749684876,
+    "trackName": "Alcyone: Chemistry Puzzle",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789225426600,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6799335271": {
+    "trackId": 6799335271,
+    "trackName": "Funny Doctor: Kids Habit Scan",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789225426600,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
           "inAppPurchases": {}
         }
       ]

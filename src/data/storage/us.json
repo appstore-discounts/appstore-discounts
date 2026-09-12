@@ -280662,6 +280662,25 @@
     "history": [
       [
         {
+          "timestamp": 1789225426600,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Europe Map": "$8.99",
+            "Nordic Expansion": "$7.99",
+            "Legendary Asia Expansion": "$7.99",
+            "San Francisco City Expansion": "$7.99",
+            "Nordic Map": "$6.99",
+            "India Expansion": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789096391072,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -341221,6 +341240,48 @@
           "timestamp": 1789123271061,
           "price": 22.99,
           "formattedPrice": "$22.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749684876": {
+    "name": "Alcyone: Chemistry Puzzle",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789225426600,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6799335271": {
+    "name": "Funny Doctor: Kids Habit Scan",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789225426600,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]
