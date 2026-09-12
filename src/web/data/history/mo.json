@@ -22885,6 +22885,25 @@
     "history": [
       [
         {
+          "timestamp": 1789207811514,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 8": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788664115804,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -46509,6 +46528,14 @@
     "history": [
       [
         {
+          "timestamp": 1789207811514,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -46945,6 +46972,60 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "655607914": {
+    "trackId": 655607914,
+    "trackName": "Drumtune PRO | Drum Tuner",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99",
+      "STANDARD ROCK KIT": "USD 0.00",
+      "DEEP BLUE": "USD 0.00",
+      "BEEPING BOBBIE": "USD 0.00",
+      "ISAAC'S NEW TONES": "USD 0.99",
+      "GROOVY GUT SHAKER": "USD 1.99",
+      "DARK DUNGEON OF DESPAIR": "USD 0.99",
+      "CAMPBELL'S CANS": "USD 0.99",
+      "FUSION FLIPPO": "USD 0.99",
+      "BLADE OF JUSTICE": "USD 0.99",
+      "HIGH FIVE": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99",
+      "STANDARD ROCK KIT": "USD 0.00",
+      "DEEP BLUE": "USD 0.00",
+      "BEEPING BOBBIE": "USD 0.00",
+      "ISAAC'S NEW TONES": "USD 0.99",
+      "GROOVY GUT SHAKER": "USD 1.99",
+      "DARK DUNGEON OF DESPAIR": "USD 0.99",
+      "CAMPBELL'S CANS": "USD 0.99",
+      "FUSION FLIPPO": "USD 0.99",
+      "BLADE OF JUSTICE": "USD 0.99",
+      "HIGH FIVE": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "USD 0.00",
+            "DEEP BLUE": "USD 0.00",
+            "BEEPING BOBBIE": "USD 0.00",
+            "ISAAC'S NEW TONES": "USD 0.99",
+            "GROOVY GUT SHAKER": "USD 1.99",
+            "DARK DUNGEON OF DESPAIR": "USD 0.99",
+            "CAMPBELL'S CANS": "USD 0.99",
+            "FUSION FLIPPO": "USD 0.99",
+            "BLADE OF JUSTICE": "USD 0.99",
+            "HIGH FIVE": "USD 0.99"
+          }
         }
       ]
     ]
@@ -105000,6 +105081,25 @@
       "魔王覺醒伊利亞卡牌包": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99",
+            "原版魔王加速卡牌包": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,
@@ -176634,6 +176734,14 @@
     "history": [
       [
         {
+          "timestamp": 1789207811514,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789036952061,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -179445,7 +179553,8 @@
       "Boeing 787-9": "USD 3.99",
       "Airbus A320neo": "USD 3.99",
       "Boeing 747-400": "USD 1.99",
-      "Airbus A321 XLR": "USD 3.99"
+      "Airbus A321 XLR": "USD 3.99",
+      "EC135": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -179476,9 +179585,29 @@
       "Boeing 787-9": "USD 3.99",
       "Airbus A320neo": "USD 3.99",
       "Boeing 747-400": "USD 1.99",
-      "Airbus A321 XLR": "USD 3.99"
+      "Airbus A321 XLR": "USD 3.99",
+      "EC135": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "EC135": "USD 0.99",
+            "Global scenery - 1 month": "USD 4.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "Concorde": "USD 1.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Airbus A320neo": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789123271061,
@@ -201075,7 +201204,7 @@
   },
   "6757943661": {
     "trackId": 6757943661,
-    "trackName": "阿福出境管家（原签证大师）",
+    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,

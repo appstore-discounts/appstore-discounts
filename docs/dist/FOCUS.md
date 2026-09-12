@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2268` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2269` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2269|655607914|Automatic|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|
 |2268|1334253650|Automatic|❌|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|
 |2267|6805543429|Automatic|❌|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|
 |2266|6798221075|Automatic|❌|Oto Galerici|Oto Galerici|Oto Galerici|One Owner|One Owner|Oto Galerici|
@@ -301,7 +302,7 @@ So far, we've covered `7` `Countries or Regions` and  `2268` `Apps` <br />Push n
 |1977|6476567182|Automatic|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|
 |1976|687236846|Automatic|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
 |1975|463994203|Automatic|八字紫微斗|八字紫微斗|八字紫微斗|八字紫微斗|❌|❌|❌|
-|1974|6757943661|Automatic|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|
+|1974|6757943661|Automatic|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|
 |1973|1672852887|Automatic|绝对音高 Pro：音符 间隔 和弦 音阶|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|Ear training Pro: piano guitar|Ear training Pro: piano guitar|Ouvido absoluto Pro: Solfejo|
 |1972|6596729064|Automatic|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|
 |1971|6741470807|Automatic|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|

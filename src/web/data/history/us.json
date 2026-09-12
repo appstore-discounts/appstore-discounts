@@ -63417,6 +63417,14 @@
     "history": [
       [
         {
+          "timestamp": 1789207811514,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745328692670,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -63839,6 +63847,60 @@
           "price": 1.99,
           "formattedPrice": "$1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "655607914": {
+    "trackId": 655607914,
+    "trackName": "Drumtune PRO | Drum Tuner",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99",
+      "STANDARD ROCK KIT": "$0.00",
+      "BEAST OF SHADOWS": "$0.00",
+      "A MAJOR'S LOW BLOW": "$0.00",
+      "BEEPING BOBBIE": "$0.00",
+      "DEEP BLUE": "$0.00",
+      "CAMPBELL'S CANS": "$0.99",
+      "GROOVY GUT SHAKER": "$1.99",
+      "LOW RIDER": "$0.99",
+      "ISAAC'S NEW TONES": "$0.99",
+      "HIGH FIVE": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99",
+      "STANDARD ROCK KIT": "$0.00",
+      "BEAST OF SHADOWS": "$0.00",
+      "A MAJOR'S LOW BLOW": "$0.00",
+      "BEEPING BOBBIE": "$0.00",
+      "DEEP BLUE": "$0.00",
+      "CAMPBELL'S CANS": "$0.99",
+      "GROOVY GUT SHAKER": "$1.99",
+      "LOW RIDER": "$0.99",
+      "ISAAC'S NEW TONES": "$0.99",
+      "HIGH FIVE": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "$0.00",
+            "BEAST OF SHADOWS": "$0.00",
+            "A MAJOR'S LOW BLOW": "$0.00",
+            "BEEPING BOBBIE": "$0.00",
+            "DEEP BLUE": "$0.00",
+            "CAMPBELL'S CANS": "$0.99",
+            "GROOVY GUT SHAKER": "$1.99",
+            "LOW RIDER": "$0.99",
+            "ISAAC'S NEW TONES": "$0.99",
+            "HIGH FIVE": "$0.99"
+          }
         }
       ]
     ]
@@ -139449,6 +139511,25 @@
       "Kizuna AI Extend 2026": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$4.99",
+            "ConneR": "$3.99",
+            "Xenon": "$3.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$3.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$3.99",
+            "Battle CHAOS 2019": "$1.99",
+            "Neko": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789142168876,
@@ -271381,6 +271462,25 @@
     "history": [
       [
         {
+          "timestamp": 1789207811514,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "2025春さくらスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Crimson Walk": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "Christmas night": "$1.79",
+            "Moonlight and Lanterns": "$1.19",
+            "Wacky Halloween Set": "$2.39"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789123271061,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -283457,6 +283557,14 @@
     "history": [
       [
         {
+          "timestamp": 1789207811514,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789010266489,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -293946,6 +294054,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "Concorde": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789183143080,
@@ -333695,7 +333822,8 @@
       "Worship Cinematic": "$0.99",
       "Worship Drum Kit 3": "$0.99",
       "Worship Drum Kit 2": "$0.99",
-      "Worship Drum Kit 1": "$0.99"
+      "Worship Drum Kit 1": "$0.99",
+      "Pad Mix Pro": "$1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -333709,9 +333837,29 @@
       "Worship Cinematic": "$0.99",
       "Worship Drum Kit 3": "$0.99",
       "Worship Drum Kit 2": "$0.99",
-      "Worship Drum Kit 1": "$0.99"
+      "Worship Drum Kit 1": "$0.99",
+      "Pad Mix Pro": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "Pad Mix Pro": "$1.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99",
+            "Worship EFX": "$0.99",
+            "Worship 808": "$0.99",
+            "Worship Cinematic": "$0.99",
+            "Worship Drum Kit 3": "$0.99",
+            "Worship Drum Kit 2": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
@@ -334069,6 +334217,25 @@
       "ROBO FISH 06": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "RED RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "ROBO FISH 01": "$1.99",
+            "SKELETON FISH": "$1.99",
+            "ROBO FISH 02": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "ORANGE & WHITE KITTY FISH": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788318324161,
@@ -339118,7 +339285,7 @@
   },
   "6757943661": {
     "trackId": 6757943661,
-    "trackName": "阿福出境管家（原签证大师）",
+    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,
@@ -339149,6 +339316,24 @@
       "普通": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789207811514,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "基础月会员": "$0.99",
+            "黄金会员月度": "$1.99",
+            "解锁报告": "$2.99",
+            "黄金会员月": "$1.99",
+            "普通会员买断": "$22.99",
+            "黄金会员买断": "$39.99",
+            "黄金年会员": "$29.99",
+            "黄金月会员": "$3.99",
+            "黄金会员": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789183143080,
