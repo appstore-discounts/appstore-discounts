@@ -161738,6 +161738,25 @@
     "history": [
       [
         {
+          "timestamp": 1789167579875,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "HK$ 148.00",
+            "Dynasty Pet": "HK$ 118.00",
+            "Ultimate Amulet": "HK$ 48.00",
+            "Ultimate Ring": "HK$ 48.00",
+            "Ultimate Pet": "HK$ 48.00",
+            "Ultimate Ancient": "HK$ 98.00",
+            "Royal Rune": "HK$ 22.00",
+            "Norths Warden Pet Pack": "HK$ 118.00",
+            "Norths Warden Set": "HK$ 148.00",
+            "Black Friday Combo Items": "HK$ 228.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787509693774,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -286665,14 +286684,35 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "Monthly subscription": "HK$ 98.00"
+      "Monthly subscription": "HK$ 98.00",
+      "Pro": "HK$ 228.00",
+      "Lite": "HK$ 88.00",
+      "Pro Max": "HK$ 788.00",
+      "Pro Ultra": "HK$ 1,488.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Monthly subscription": "HK$ 98.00"
+      "Monthly subscription": "HK$ 98.00",
+      "Pro": "HK$ 228.00",
+      "Lite": "HK$ 88.00",
+      "Pro Max": "HK$ 788.00",
+      "Pro Ultra": "HK$ 1,488.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "HK$ 228.00",
+            "Lite": "HK$ 88.00",
+            "Pro Max": "HK$ 788.00",
+            "Pro Ultra": "HK$ 1,488.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788969564190,

@@ -195495,14 +195495,35 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "Monthly subscription": "USD 12.49"
+      "Monthly subscription": "USD 12.49",
+      "Pro": "USD 29.99",
+      "Lite": "USD 9.99",
+      "Pro Max": "USD 99.99",
+      "Pro Ultra": "USD 199.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Monthly subscription": "USD 12.49"
+      "Monthly subscription": "USD 12.49",
+      "Pro": "USD 29.99",
+      "Lite": "USD 9.99",
+      "Pro Max": "USD 99.99",
+      "Pro Ultra": "USD 199.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "USD 29.99",
+            "Lite": "USD 9.99",
+            "Pro Max": "USD 99.99",
+            "Pro Ultra": "USD 199.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788969564190,

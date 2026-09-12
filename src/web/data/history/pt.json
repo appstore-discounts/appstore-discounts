@@ -4058,6 +4058,25 @@
     "history": [
       [
         {
+          "timestamp": 1789167579875,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Saint-Germain HipstaPak": "1,99 €",
+            "Jimbocho HipstaPak": "1,99 €",
+            "Mers Sultan HipstaPak": "1,99 €",
+            "HipstaBoy SnapPak": "1,99 €",
+            "Príncipe Real HipstaPak": "1,99 €",
+            "Coyoacán HipstaPak": "1,99 €",
+            "Ohara HipstaPak": "1,99 €",
+            "RetroPak 2022": "7,99 €",
+            "RetroPak 2023": "9,99 €",
+            "RetroPak Twenty-One": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785428765959,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -54497,8 +54516,8 @@
       "price": 1.99,
       "formattedPrice": "1,99 €",
       "Year": "12,99 €",
-      "6 Months": "5,99 €",
-      "Month": "1,99 €"
+      "6 Months": "9,99 €",
+      "Month": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -54509,6 +54528,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Year": "12,99 €",
+            "6 Months": "9,99 €",
+            "Month": "2,99 €"
+          }
+        },
         {
           "timestamp": 1789142168876,
           "price": 0,
@@ -66143,6 +66172,25 @@
       "Perfect Poster Pack": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789167579875,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pic Say Poster Pack": "0,99 €",
+            "Insta Poster Pack": "0,99 €",
+            "Always Font Pack": "0,00 €",
+            "Unique Font Pack": "0,99 €",
+            "Reason Font Pack": "0,00 €",
+            "Path Font Pack": "0,00 €",
+            "Wisdom Font Pack": "0,00 €",
+            "Just Font Pack": "0,00 €",
+            "Future Font Pack": "0,00 €",
+            "Perfect Poster Pack": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784169186411,
@@ -132483,14 +132531,35 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Monthly subscription": "14,99 €"
+      "Monthly subscription": "14,99 €",
+      "Pro": "34,99 €",
+      "Lite": "9,99 €",
+      "Pro Max": "99,99 €",
+      "Pro Ultra": "229,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Monthly subscription": "14,99 €"
+      "Monthly subscription": "14,99 €",
+      "Pro": "34,99 €",
+      "Lite": "9,99 €",
+      "Pro Max": "99,99 €",
+      "Pro Ultra": "229,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro": "34,99 €",
+            "Lite": "9,99 €",
+            "Pro Max": "99,99 €",
+            "Pro Ultra": "229,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788969564190,

@@ -294163,14 +294163,35 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Monthly subscription": "$390.00"
+      "Monthly subscription": "$390.00",
+      "Pro": "$990.00",
+      "Lite": "$320.00",
+      "Pro Max": "$2,990.00",
+      "Pro Ultra": "$6,990.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Monthly subscription": "$390.00"
+      "Monthly subscription": "$390.00",
+      "Pro": "$990.00",
+      "Lite": "$320.00",
+      "Pro Max": "$2,990.00",
+      "Pro Ultra": "$6,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "$990.00",
+            "Lite": "$320.00",
+            "Pro Max": "$2,990.00",
+            "Pro Ultra": "$6,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788969564190,

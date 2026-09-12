@@ -109859,9 +109859,9 @@
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
-      "Month": "₺99,99",
-      "Year": "₺499,99",
-      "6 Months": "₺229,99"
+      "Month": "₺149,99",
+      "Year": "₺599,99",
+      "6 Months": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -109871,6 +109871,18 @@
       "6 Months": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "₺149,99",
+            "Year": "₺599,99",
+            "6 Months": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789142168876,
@@ -202161,6 +202173,25 @@
     "history": [
       [
         {
+          "timestamp": 1789167579875,
+          "price": 17.99,
+          "formattedPrice": "₺17,99",
+          "inAppPurchases": {
+            "Content Bundle 2": "₺399,99",
+            "Reckless Car Pack": "₺149,99",
+            "Off-Road Car Pack": "₺149,99",
+            "Racing Heroes Car Pack": "₺149,99",
+            "Steel & Wheels Pack": "₺99,99",
+            "Goofy Roofs Pack": "₺49,99",
+            "Getaway Car Pack": "₺149,99",
+            "American All-Stars Car Pack": "₺149,99",
+            "Rusty Rats Car Pack": "₺149,99",
+            "Modified Monsters Car Pack": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788389988743,
           "price": 17.99,
           "formattedPrice": "₺17,99",
@@ -255452,6 +255483,22 @@
     "history": [
       [
         {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-Day Pass": "₺49,99",
+            "Weekly Subscription": "₺99,99",
+            "Premium Lifetime": "₺299,99",
+            "7-Day Pass": "₺149,99",
+            "24h Pass": "₺29,99",
+            "Pro – Lifetime": "₺0,00",
+            "Yearly Subscription": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789072077262,
           "price": 0,
           "formattedPrice": "Free",
@@ -273835,14 +273882,35 @@
     "maxPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99",
-      "Monthly subscription": "₺599,99"
+      "Monthly subscription": "₺599,99",
+      "Pro": "₺1.499,99",
+      "Lite": "₺499,99",
+      "Pro Max": "₺4.999,99",
+      "Pro Ultra": "₺9.999,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Monthly subscription": "₺599,99"
+      "Monthly subscription": "₺599,99",
+      "Pro": "₺1.499,99",
+      "Lite": "₺499,99",
+      "Pro Max": "₺4.999,99",
+      "Pro Ultra": "₺9.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789167579875,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro": "₺1.499,99",
+            "Lite": "₺499,99",
+            "Pro Max": "₺4.999,99",
+            "Pro Ultra": "₺9.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788969564190,
