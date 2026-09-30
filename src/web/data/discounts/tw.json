@@ -1,5 +1,473 @@
 [
   {
+    "trackId": 385902072,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$33.00",
+        "range": "[$15.00 ~ $90.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 451697322,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "Free",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id451697322",
+    "trackName": "Heart Murmurs Pro",
+    "firstRecordedAt": 1763735158536
+  },
+  {
+    "trackId": 1044671796,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1044671796",
+    "trackName": "Le Havre: The Inland Port",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1199912736,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1199912736",
+    "trackName": "Carcassonne – Tiles & Tactics",
+    "firstRecordedAt": 1771239364796
+  },
+  {
+    "trackId": 1291429551,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1291429551",
+    "trackName": "60 Parsecs!",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1353471030,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $290.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1353471030",
+    "trackName": "Terraforming Mars",
+    "firstRecordedAt": 1775668406656
+  },
+  {
+    "trackId": 1410742242,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Map Pack 1",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $90.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Map Pack 2",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1410742242",
+    "trackName": "The Castles of Burgundy",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1439262206,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$90.00 ~ $320.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1439262206",
+    "trackName": "Root Board Game",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1467248737,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Tuscany Essential Edition",
+        "from": "$290.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $290.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1467248737",
+    "trackName": "Viticulture",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1474716211,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1474716211",
+    "trackName": "60 Seconds! Reatomized",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1491530147,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $320.00]"
+      }
+    ],
+    "price": 220,
+    "formattedPrice": "$220.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1491530147",
+    "trackName": "Slay the Spire",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1511788295,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$190.00",
+        "range": "[$190.00 ~ $290.00]"
+      }
+    ],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1511788295",
+    "trackName": "Crying Suns",
+    "firstRecordedAt": 1757700886286
+  },
+  {
+    "trackId": 1522215205,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "Free",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1522215205",
+    "trackName": "拒之-骚扰电话批量拦截助手",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1575414319,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $390.00]"
+      }
+    ],
+    "price": 220,
+    "formattedPrice": "$220.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1575414319",
+    "trackName": "Dune: Imperium",
+    "firstRecordedAt": 1751551965928
+  },
+  {
+    "trackId": 1580629864,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$320.00",
+        "range": "[$220.00 ~ $390.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580629864",
+    "trackName": "Clank!",
+    "firstRecordedAt": 1773162085626
+  },
+  {
+    "trackId": 1622341132,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "Free",
+        "range": "[免費 ~ $290.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1622341132",
+    "trackName": "iSleeper - 夢話鼾聲記錄與睡眠監測",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6449233549,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$290.00",
+        "range": "[$290.00 ~ $390.00]"
+      }
+    ],
+    "price": 290,
+    "formattedPrice": "$290.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6449233549",
+    "trackName": "Ark Nova",
+    "firstRecordedAt": 1750417857625
+  },
+  {
+    "trackId": 6747814605,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$190.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $290.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6747814605",
+    "trackName": "這位子形不形？",
+    "firstRecordedAt": 1755612763648
+  },
+  {
+    "trackId": 6497948575,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$330.00",
+        "to": "$230.00",
+        "range": "[$150.00 ~ $330.00]"
+      }
+    ],
+    "price": 230,
+    "formattedPrice": "$230.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6497948575",
+    "trackName": "Way of the Hunter Wild America",
+    "firstRecordedAt": 1764095974561
+  },
+  {
+    "trackId": 6499431452,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $290.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6499431452",
+    "trackName": "Blasphemous",
+    "firstRecordedAt": 1764167326995
+  },
+  {
+    "trackId": 6751122124,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pro",
+        "from": "$990.00",
+        "to": "$690.00",
+        "range": "[$690.00 ~ $990.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Lite",
+        "from": "$320.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $320.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6751122124",
+    "trackName": "Notteka | AI工作台",
+    "firstRecordedAt": 1775335273950
+  },
+  {
+    "trackId": 6786115854,
+    "region": "tw",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $320.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
     "trackId": 6749132733,
     "region": "tw",
     "timestamp": 1790726691370,
@@ -9391,7 +9859,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$50.00",
-        "range": "[$50.00 ~ $150.00]"
+        "range": "[$30.00 ~ $150.00]"
       },
       {
         "type": "inAppPurchase",
@@ -9459,7 +9927,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$60.00 ~ $290.00]"
       },
       {
         "type": "inAppPurchase",
@@ -9947,7 +10415,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$190.00",
-        "range": "[$190.00 ~ $290.00]"
+        "range": "[$150.00 ~ $290.00]"
       }
     ],
     "price": 190,
@@ -18240,7 +18708,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$50.00",
-        "range": "[$50.00 ~ $150.00]"
+        "range": "[$30.00 ~ $150.00]"
       },
       {
         "type": "inAppPurchase",

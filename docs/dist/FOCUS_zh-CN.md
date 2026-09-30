@@ -1504,7 +1504,7 @@
 |810|1519508653|自动|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|自动|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|自动|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|
-|807|430388524|自动|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|
+|807|430388524|自动|Do! Spring Mint – 简洁待办清单|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|
 |806|592155900|自动|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|
 |805|625274950|自动|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|
 |804|998834675|自动|❌|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|

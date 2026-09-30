@@ -1,5 +1,172 @@
 [
   {
+    "trackId": 1027403357,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "¥5.00",
+        "range": "[¥5.00 ~ ¥15.00]"
+      }
+    ],
+    "price": 5,
+    "formattedPrice": "¥5.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1027403357",
+    "trackName": "一路",
+    "firstRecordedAt": 1748552546748
+  },
+  {
+    "trackId": 1436481293,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "购买游戏",
+        "from": "¥12.00",
+        "to": "¥5.00",
+        "range": "[¥3.00 ~ ¥12.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1436481293",
+    "trackName": "迷失岛3宇宙的尘埃",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1523446532,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "解锁《王后与海》DLC",
+        "from": "¥8.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥8.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "¥30.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1523446532",
+    "trackName": "重生细胞",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1544722749,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥8.80",
+        "range": "[¥8.80 ~ ¥12.00]"
+      }
+    ],
+    "price": 8.8,
+    "formattedPrice": "¥8.80",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1544722749",
+    "trackName": "拣爱",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6738767315,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6738767315",
+    "trackName": "便利店开业日记",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6738767322,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥6.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6738767322",
+    "trackName": "森丘露营地",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6473332700,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥35.00",
+        "to": "¥25.00",
+        "range": "[免费 ~ ¥45.00]"
+      }
+    ],
+    "price": 25,
+    "formattedPrice": "¥25.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6473332700",
+    "trackName": "逐鹿 - 历史沙盘战棋",
+    "firstRecordedAt": 1745665323137
+  },
+  {
+    "trackId": 6751122124,
+    "region": "cn",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pro",
+        "from": "¥198.00",
+        "to": "¥148.00",
+        "range": "[¥148.00 ~ ¥198.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Lite",
+        "from": "¥68.00",
+        "to": "¥38.00",
+        "range": "[¥38.00 ~ ¥68.00]"
+      }
+    ],
+    "price": 3,
+    "formattedPrice": "¥3.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6751122124",
+    "trackName": "Notteka - AI 工作台",
+    "firstRecordedAt": 1775335273950
+  },
+  {
     "trackId": 6444508254,
     "region": "cn",
     "timestamp": 1790760074035,

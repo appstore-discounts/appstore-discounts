@@ -1504,7 +1504,7 @@ So far, we've covered `7` `Countries or Regions` and  `2304` `Apps` <br />Push n
 |810|1519508653|Automatic|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|Automatic|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|Automatic|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|
-|807|430388524|Automatic|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|
+|807|430388524|Automatic|Do! Spring Mint – 简洁待办清单|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|Do! Spring Mint – To Do List|
 |806|592155900|Automatic|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|
 |805|625274950|Automatic|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|
 |804|998834675|Automatic|❌|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|

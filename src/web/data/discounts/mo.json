@@ -1,5 +1,460 @@
 [
   {
+    "trackId": 385902072,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.49",
+        "to": "USD 0.79",
+        "range": "[USD 0.39 ~ USD 2.49]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 451697322,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "Free",
+        "range": "[免費 ~ USD 2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id451697322",
+    "trackName": "Heart Murmurs Pro",
+    "firstRecordedAt": 1763735158536
+  },
+  {
+    "trackId": 1044671796,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 3.99]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1044671796",
+    "trackName": "Le Havre: The Inland Port",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1199912736,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 1.09",
+        "range": "[USD 1.09 ~ USD 4.99]"
+      }
+    ],
+    "price": 1.09,
+    "formattedPrice": "USD 1.09",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1199912736",
+    "trackName": "Carcassonne – Tiles & Tactics",
+    "firstRecordedAt": 1771239364796
+  },
+  {
+    "trackId": 1291429551,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1291429551",
+    "trackName": "60 Parsecs!",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1353471030,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 2.19",
+        "range": "[USD 2.19 ~ USD 8.99]"
+      }
+    ],
+    "price": 2.19,
+    "formattedPrice": "USD 2.19",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1353471030",
+    "trackName": "Terraforming Mars",
+    "firstRecordedAt": 1775668406656
+  },
+  {
+    "trackId": 1410742242,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 8.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Map Pack 2",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Map Pack 1",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1410742242",
+    "trackName": "The Castles of Burgundy",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1439262206,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 3.99",
+        "range": "[USD 2.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1439262206",
+    "trackName": "Root Board Game",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1467248737,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 8.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Tuscany Essential Edition",
+        "from": "USD 8.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1467248737",
+    "trackName": "Viticulture",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1474716211,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1474716211",
+    "trackName": "60 Seconds! Reatomized",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1511788295,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 5.99",
+        "range": "[USD 5.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1511788295",
+    "trackName": "Crying Suns",
+    "firstRecordedAt": 1757700886286
+  },
+  {
+    "trackId": 1522215205,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "Free",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1522215205",
+    "trackName": "拒之-骚扰电话批量拦截助手",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1575414319,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 10.99",
+        "to": "USD 6.99",
+        "range": "[USD 6.99 ~ USD 10.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "USD 6.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1575414319",
+    "trackName": "Dune: Imperium",
+    "firstRecordedAt": 1751551965928
+  },
+  {
+    "trackId": 1580629864,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 10.99",
+        "to": "USD 9.99",
+        "range": "[USD 6.99 ~ USD 10.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1580629864",
+    "trackName": "Clank!",
+    "firstRecordedAt": 1773162085626
+  },
+  {
+    "trackId": 6451376191,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "USD 39.99",
+        "to": "USD 35.99",
+        "range": "[USD 7.59 ~ USD 59.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.19 ~ USD 7.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6449233549,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 10.99",
+        "to": "USD 7.99",
+        "range": "[USD 7.99 ~ USD 10.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "USD 7.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6449233549",
+    "trackName": "Ark Nova",
+    "firstRecordedAt": 1750417857625
+  },
+  {
+    "trackId": 6747814605,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 5.99",
+        "range": "[USD 4.99 ~ USD 7.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6747814605",
+    "trackName": "這位子形不形？",
+    "firstRecordedAt": 1755612763648
+  },
+  {
+    "trackId": 6497948575,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 5.99",
+        "range": "[USD 3.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6497948575",
+    "trackName": "Way of the Hunter Wild America",
+    "firstRecordedAt": 1764095974561
+  },
+  {
+    "trackId": 6499431452,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 4.99",
+        "range": "[USD 4.99 ~ USD 7.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6499431452",
+    "trackName": "Blasphemous",
+    "firstRecordedAt": 1764167326995
+  },
+  {
+    "trackId": 6751122124,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pro",
+        "from": "USD 29.99",
+        "to": "USD 19.99",
+        "range": "[USD 19.99 ~ USD 29.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Lite",
+        "from": "USD 9.99",
+        "to": "USD 4.99",
+        "range": "[USD 4.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "USD 0.29",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6751122124",
+    "trackName": "Notteka | AI工作台",
+    "firstRecordedAt": 1775335273950
+  },
+  {
+    "trackId": 6786115854,
+    "region": "mo",
+    "timestamp": 1790790015131,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 4.99",
+        "range": "[USD 4.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
     "trackId": 6743115658,
     "region": "mo",
     "timestamp": 1790711274462,
@@ -9035,7 +9490,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 1.49",
-        "range": "[USD 1.49 ~ USD 4.99]"
+        "range": "[USD 1.09 ~ USD 4.99]"
       },
       {
         "type": "inAppPurchase",
@@ -9103,7 +9558,7 @@
         "name": "Price",
         "from": "USD 8.99",
         "to": "USD 3.19",
-        "range": "[USD 3.19 ~ USD 8.99]"
+        "range": "[USD 2.19 ~ USD 8.99]"
       },
       {
         "type": "inAppPurchase",
@@ -9591,7 +10046,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 5.99",
-        "range": "[USD 5.99 ~ USD 7.99]"
+        "range": "[USD 4.99 ~ USD 7.99]"
       }
     ],
     "price": 5.99,
@@ -17769,7 +18224,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 1.49",
-        "range": "[USD 1.49 ~ USD 4.99]"
+        "range": "[USD 1.09 ~ USD 4.99]"
       },
       {
         "type": "inAppPurchase",
