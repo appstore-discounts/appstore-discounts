@@ -1,5 +1,426 @@
 [
   {
+    "trackId": 385902072,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "₺19,99",
+        "range": "[₺5,00 ~ ₺49,99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "₺19,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 1044671796,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺39,99",
+        "range": "[₺39,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 39.99,
+    "formattedPrice": "₺39,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1044671796",
+    "trackName": "Le Havre: The Inland Port",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1199912736,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺59,99",
+        "range": "[₺59,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 59.99,
+    "formattedPrice": "₺59,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1199912736",
+    "trackName": "Carcassonne – Tiles & Tactics",
+    "firstRecordedAt": 1771239364796
+  },
+  {
+    "trackId": 1291429551,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1291429551",
+    "trackName": "60 Parsecs!",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1353471030,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺119,99",
+        "range": "[₺119,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 119.99,
+    "formattedPrice": "₺119,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1353471030",
+    "trackName": "Terraforming Mars",
+    "firstRecordedAt": 1775668406656
+  },
+  {
+    "trackId": 1410742242,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Map Pack 1",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Map Pack 2",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1410742242",
+    "trackName": "The Castles of Burgundy",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1439262206,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺149,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1439262206",
+    "trackName": "Root Board Game",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1467248737,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Tuscany Essential Edition",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1467248737",
+    "trackName": "Viticulture",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1474716211,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1474716211",
+    "trackName": "60 Seconds! Reatomized",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1491530147,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺399,99",
+        "range": "[₺299,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1491530147",
+    "trackName": "Slay the Spire",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1511788295,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺299,99",
+        "range": "[₺249,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 299.99,
+    "formattedPrice": "₺299,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1511788295",
+    "trackName": "Crying Suns",
+    "firstRecordedAt": 1757700886286
+  },
+  {
+    "trackId": 1575414319,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺599,99",
+        "to": "₺399,99",
+        "range": "[₺299,99 ~ ₺599,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1575414319",
+    "trackName": "Dune: Imperium",
+    "firstRecordedAt": 1751551965928
+  },
+  {
+    "trackId": 1580629864,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺599,99",
+        "to": "₺499,99",
+        "range": "[₺399,99 ~ ₺599,99]"
+      }
+    ],
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1580629864",
+    "trackName": "Clank!",
+    "firstRecordedAt": 1773162085626
+  },
+  {
+    "trackId": 6449233549,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺599,99",
+        "to": "₺399,99",
+        "range": "[₺399,99 ~ ₺599,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6449233549",
+    "trackName": "Ark Nova",
+    "firstRecordedAt": 1750417857625
+  },
+  {
+    "trackId": 6747814605,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺149,99",
+        "range": "[₺99,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6747814605",
+    "trackName": "Is This Seat Taken?",
+    "firstRecordedAt": 1755612763648
+  },
+  {
+    "trackId": 6497948575,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺169,99",
+        "to": "₺119,99",
+        "range": "[₺29,99 ~ ₺169,99]"
+      }
+    ],
+    "price": 119.99,
+    "formattedPrice": "₺119,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6497948575",
+    "trackName": "Way of the Hunter Wild America",
+    "firstRecordedAt": 1764095974561
+  },
+  {
+    "trackId": 6499431452,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺249,99",
+        "range": "[₺209,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6499431452",
+    "trackName": "Blasphemous",
+    "firstRecordedAt": 1764167326995
+  },
+  {
+    "trackId": 6751122124,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lite",
+        "from": "₺499,99",
+        "to": "₺249,99",
+        "range": "[₺249,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "₺19,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6751122124",
+    "trackName": "Notteka | AI Assistant",
+    "firstRecordedAt": 1775335273950
+  },
+  {
+    "trackId": 6786115854,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺249,99",
+        "range": "[₺249,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
+    "trackId": 6786557574,
+    "region": "tr",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6786557574",
+    "trackName": "MPG Petrol Mileage Tracker Log",
+    "firstRecordedAt": 1789935798032
+  },
+  {
     "trackId": 6743115658,
     "region": "tr",
     "timestamp": 1790726691370,
@@ -9453,7 +9874,7 @@
         "name": "Price",
         "from": "₺249,99",
         "to": "₺79,99",
-        "range": "[₺79,99 ~ ₺249,99]"
+        "range": "[₺59,99 ~ ₺249,99]"
       },
       {
         "type": "inAppPurchase",
@@ -9521,7 +9942,7 @@
         "name": "Price",
         "from": "₺499,99",
         "to": "₺179,99",
-        "range": "[₺179,99 ~ ₺499,99]"
+        "range": "[₺119,99 ~ ₺499,99]"
       },
       {
         "type": "inAppPurchase",
@@ -18549,7 +18970,7 @@
         "name": "Price",
         "from": "₺249,99",
         "to": "₺79,99",
-        "range": "[₺79,99 ~ ₺249,99]"
+        "range": "[₺59,99 ~ ₺249,99]"
       },
       {
         "type": "inAppPurchase",

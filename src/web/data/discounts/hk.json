@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1522215205,
+    "region": "hk",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1522215205",
+    "trackName": "拒之-骚扰电话批量拦截助手",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6451376191,
+    "region": "hk",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "HK$ 38.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 31.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6786557574,
+    "region": "hk",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6786557574",
+    "trackName": "油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版",
+    "firstRecordedAt": 1789935798032
+  },
+  {
     "trackId": 385902072,
     "region": "hk",
     "timestamp": 1790790015131,
@@ -219,26 +279,6 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id1511788295",
     "trackName": "Crying Suns",
     "firstRecordedAt": 1757700886286
-  },
-  {
-    "trackId": 1522215205,
-    "region": "hk",
-    "timestamp": 1790790015131,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "HK$ 8.00",
-        "to": "Free",
-        "range": "[免費 ~ HK$ 8.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1522215205",
-    "trackName": "拒之-骚扰电话批量拦截助手",
-    "firstRecordedAt": 1721960142187
   },
   {
     "trackId": 1575414319,

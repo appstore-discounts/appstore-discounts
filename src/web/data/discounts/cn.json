@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 966489322,
+    "region": "cn",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "永久会员",
+        "from": "¥98.00",
+        "to": "¥88.00",
+        "range": "[¥88.00 ~ ¥128.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "生辰-季度会员",
+        "from": "¥88.00",
+        "to": "¥22.00",
+        "range": "[¥22.00 ~ ¥88.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id966489322",
+    "trackName": "生辰 — 桌面时间小组件",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1436481293,
+    "region": "cn",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "购买游戏",
+        "from": "¥12.00",
+        "to": "¥5.00",
+        "range": "[¥3.00 ~ ¥12.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1436481293",
+    "trackName": "迷失岛3宇宙的尘埃",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1522215205,
+    "region": "cn",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "Free",
+        "range": "[免费 ~ ¥8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1522215205",
+    "trackName": "拒之-骚扰电话批量拦截助手",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6451376191,
+    "region": "cn",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "¥298.00",
+        "to": "¥268.00",
+        "range": "[¥68.00 ~ ¥398.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6786557574,
+    "region": "cn",
+    "timestamp": 1790805284947,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥15.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6786557574",
+    "trackName": "油耗管家-加油记录省油统计车辆里程费用记账工具专用版",
+    "firstRecordedAt": 1789935798032
+  },
+  {
     "trackId": 1027403357,
     "region": "cn",
     "timestamp": 1790790015131,
@@ -18,26 +132,6 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id1027403357",
     "trackName": "一路",
     "firstRecordedAt": 1748552546748
-  },
-  {
-    "trackId": 1436481293,
-    "region": "cn",
-    "timestamp": 1790790015131,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "购买游戏",
-        "from": "¥12.00",
-        "to": "¥5.00",
-        "range": "[¥3.00 ~ ¥12.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免费",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id1436481293",
-    "trackName": "迷失岛3宇宙的尘埃",
-    "firstRecordedAt": 1722784406759
   },
   {
     "trackId": 1523446532,
