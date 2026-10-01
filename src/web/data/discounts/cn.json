@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 931188326,
+    "region": "cn",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id931188326",
+    "trackName": "DayCost",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1523446532,
+    "region": "cn",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥30.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥30.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1523446532",
+    "trackName": "重生细胞",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 966489322,
     "region": "cn",
     "timestamp": 1790828594798,

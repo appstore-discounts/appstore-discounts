@@ -33052,6 +33052,23 @@
     "history": [
       [
         {
+          "timestamp": 1790885290521,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "220 Diamonds": "1,99 €",
+            "5000 Coins": "1,99 €",
+            "14000 Coins": "5,99 €",
+            "1210 Diamonds": "9,99 €",
+            "580 Diamonds": "5,99 €",
+            "6600 Diamonds": "59,99 €",
+            "180000 Coins": "59,99 €",
+            "15500 Diamonds": "99,99 €",
+            "3200 Diamonds": "29,99 €",
+            "450000 Coins": "99,99 €"
+          }
+        },
+        {
           "timestamp": 1790857883196,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -89479,6 +89496,37 @@
       ]
     ]
   },
+  "1556643698": {
+    "name": "Tales of the Mirror",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "50张银票礼包": "5,99 €",
+      "18张银票礼包": "1,99 €",
+      "8 Silver Notes": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "50张银票礼包": "5,99 €",
+      "18张银票礼包": "1,99 €",
+      "8 Silver Notes": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "50张银票礼包": "5,99 €",
+            "18张银票礼包": "1,99 €",
+            "8 Silver Notes": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1556671822": {
     "name": "Merge Watermelon for watch",
     "maxPriceInfo": {
@@ -94890,7 +94938,10 @@
       "Rusty Rats Car Pack": "2,99 €",
       "Off-Road Car Pack": "2,99 €",
       "Goofy Roofs Pack": "0,99 €",
-      "American All-Stars Car Pack": "2,99 €"
+      "American All-Stars Car Pack": "2,99 €",
+      "Banger Racing Car Pack": "2,99 €",
+      "Backwoods Bangers Car Pack": "2,99 €",
+      "Retro Rammers Car Pack": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.49,
@@ -94905,9 +94956,31 @@
       "Rusty Rats Car Pack": "2,99 €",
       "Off-Road Car Pack": "2,99 €",
       "Goofy Roofs Pack": "0,99 €",
-      "American All-Stars Car Pack": "2,99 €"
+      "American All-Stars Car Pack": "2,99 €",
+      "Banger Racing Car Pack": "2,99 €",
+      "Backwoods Bangers Car Pack": "2,99 €",
+      "Retro Rammers Car Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Banger Racing Car Pack": "2,99 €",
+            "Content Bundle 1": "9,99 €",
+            "Backwoods Bangers Car Pack": "2,99 €",
+            "Retro Rammers Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "American All-Stars Car Pack": "2,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "Goofy Roofs Pack": "0,99 €",
+            "Steel & Wheels Pack": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789642962261,
@@ -100279,7 +100352,7 @@
     ]
   },
   "1625289361": {
-    "name": "AirBasketball - AuditoryAR",
+    "name": "AirBasket",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -103811,14 +103884,22 @@
   "1664728315": {
     "name": "Mutropolis mobile",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -110366,14 +110447,22 @@
   "6478398981": {
     "name": "IPTV Smart Pro - TV AO VIVO",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768615666187,
@@ -130762,6 +130851,14 @@
     "history": [
       [
         {
+          "timestamp": 1790885290521,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782730750438,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -137924,6 +138021,14 @@
     "history": [
       [
         {
+          "timestamp": 1790885290521,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782730750438,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -141592,6 +141697,14 @@
     "history": [
       [
         {
+          "timestamp": 1790885290521,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -141626,13 +141739,25 @@
     "name": "Keeps",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "Keeps Pro": "6,49 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Keeps Pro": "6,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Keeps Pro": "6,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790629496108,
@@ -142042,6 +142167,27 @@
           "timestamp": 1790805284947,
           "price": 7.99,
           "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6480435107": {
+    "name": "PylonCam Pro",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
           "inAppPurchases": {}
         }
       ]

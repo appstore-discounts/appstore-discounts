@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2305` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2307` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2307|1556643698|Automatic|❌|古鏡記（Tales of the Mirror）|古鏡記（Tales of the Mirror）|❌|Tales of the Mirror|Tales of the Mirror|Tales of the Mirror|
+|2306|6480435107|Automatic|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|
 |2305|6786246807|Automatic|❌|時尚購物中心物語|時尚購物中心物語|時尚購物中心物語|Fashion Mall Story|Fashion Mall Story|Fashion Mall Story|
 |2304|6747479523|Automatic|❌|Gothic Classic|Gothic Classic|Gothic Classic|Gothic Classic|Gothic Classic|Gothic Classic|
 |2303|6787034553|Automatic|UnionApp|UnionApp|UnionApp|UnionApp|UnionApp|UnionApp|UnionApp|
@@ -2248,7 +2250,7 @@ So far, we've covered `7` `Countries or Regions` and  `2305` `Apps` <br />Push n
 |67| ~~373454750~~ |Manual| ~~随手记Pro–个人家庭生意记账~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~随手记Pro~~ | ~~随手记Pro–记账财务管理软件~~ | ~~❌~~ |
 |66|916366645|Manual|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|
 |65|1164801111|Manual|AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep: Watch Sleep Tracker|AutoSleep: Watch Sleep Tracker|AutoSleep – Rastreador de sono|
-|64|1625289361|Manual|空气投篮|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|
+|64|1625289361|Manual|空气投篮|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasket|
 |63|1261944766|Manual|Alook浏览器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook Browser - 8x Speed|Alook Browser - 8x Speed|Navegador Alook - Veloc. 8x|
 |62| ~~866450515~~ |Manual| ~~Forest 专注森林 - 番茄钟学习计时器~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest: Focus for Productivity~~ | ~~Forest: Focus for Productivity~~ | ~~❌~~ |
 |61|1600873673|Manual|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|❌|❌|❌|❌|

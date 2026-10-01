@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6811795155,
+    "region": "us",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6811795155",
+    "trackName": "Keeps: Asset & Cost Tracker",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 385902072,
     "region": "us",
     "timestamp": 1790828594798,
@@ -25413,7 +25433,7 @@
         "name": "Price",
         "from": "$3.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $4.99]"
+        "range": "[$2.99 ~ $5.99]"
       }
     ],
     "price": 2.99,
@@ -35137,7 +35157,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$2.99 ~ $4.99]"
+        "range": "[$2.99 ~ $5.99]"
       }
     ],
     "price": 3.99,

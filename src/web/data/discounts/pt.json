@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6811795155,
+    "region": "pt",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6811795155",
+    "trackName": "Keeps",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 6480501528,
     "region": "pt",
     "timestamp": 1790828594798,
@@ -24512,7 +24532,7 @@
         "name": "Price",
         "from": "3,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 5,99 €]"
+        "range": "[2,99 € ~ 6,99 €]"
       }
     ],
     "price": 2.99,

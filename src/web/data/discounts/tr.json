@@ -1,23 +1,43 @@
 [
   {
-    "trackId": 576443892,
+    "trackId": 6808669044,
     "region": "tr",
-    "timestamp": 1790857883196,
+    "timestamp": 1790885290521,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Object Pack",
-        "from": "₺49,99",
-        "to": "₺0,00",
-        "range": "[₺0,00 ~ ₺49,99]"
+        "type": "price",
+        "name": "Price",
+        "from": "₺9,99",
+        "to": "₺2,99",
+        "range": "[₺2,99 ~ ₺9,99]"
       }
     ],
-    "price": 19.99,
-    "formattedPrice": "₺19,99",
+    "price": 2.99,
+    "formattedPrice": "₺2,99",
     "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id576443892",
-    "trackName": "Logo Creator & Maker",
-    "firstRecordedAt": 1751368278031
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6808669044",
+    "trackName": "Oto Ekspertiz Simülatör",
+    "firstRecordedAt": 1789421572923
+  },
+  {
+    "trackId": 6811795155,
+    "region": "tr",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6811795155",
+    "trackName": "Keeps: Asset & Cost Tracker",
+    "firstRecordedAt": 1790094096914
   },
   {
     "trackId": 6480501528,
@@ -459,26 +479,6 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6786115854",
     "trackName": "No More Slimes!!: Idle Action",
     "firstRecordedAt": 1787838577561
-  },
-  {
-    "trackId": 6786557574,
-    "region": "tr",
-    "timestamp": 1790805284947,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "₺99,99",
-        "to": "Free",
-        "range": "[Free ~ ₺99,99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id6786557574",
-    "trackName": "MPG Petrol Mileage Tracker Log",
-    "firstRecordedAt": 1789935798032
   },
   {
     "trackId": 6743115658,
@@ -26261,7 +26261,7 @@
         "name": "Price",
         "from": "₺199,99",
         "to": "₺149,99",
-        "range": "[₺129,99 ~ ₺249,99]"
+        "range": "[₺129,99 ~ ₺299,99]"
       }
     ],
     "price": 149.99,
@@ -36550,7 +36550,7 @@
         "name": "Price",
         "from": "₺229,99",
         "to": "₺179,99",
-        "range": "[₺129,99 ~ ₺249,99]"
+        "range": "[₺129,99 ~ ₺299,99]"
       }
     ],
     "price": 179.99,

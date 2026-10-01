@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2305` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2307` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2307|1556643698|自动|❌|古鏡記（Tales of the Mirror）|古鏡記（Tales of the Mirror）|❌|Tales of the Mirror|Tales of the Mirror|Tales of the Mirror|
+|2306|6480435107|自动|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|PylonCam Pro|
 |2305|6786246807|自动|❌|時尚購物中心物語|時尚購物中心物語|時尚購物中心物語|Fashion Mall Story|Fashion Mall Story|Fashion Mall Story|
 |2304|6747479523|自动|❌|Gothic Classic|Gothic Classic|Gothic Classic|Gothic Classic|Gothic Classic|Gothic Classic|
 |2303|6787034553|自动|UnionApp|UnionApp|UnionApp|UnionApp|UnionApp|UnionApp|UnionApp|
@@ -2248,7 +2250,7 @@
 |67| ~~373454750~~ |手动| ~~随手记Pro–个人家庭生意记账~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~随手记Pro~~ | ~~随手记Pro–记账财务管理软件~~ | ~~❌~~ |
 |66|916366645|手动|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|
 |65|1164801111|手动|AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep: Watch Sleep Tracker|AutoSleep: Watch Sleep Tracker|AutoSleep – Rastreador de sono|
-|64|1625289361|手动|空气投篮|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|
+|64|1625289361|手动|空气投篮|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasket|
 |63|1261944766|手动|Alook浏览器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook Browser - 8x Speed|Alook Browser - 8x Speed|Navegador Alook - Veloc. 8x|
 |62| ~~866450515~~ |手动| ~~Forest 专注森林 - 番茄钟学习计时器~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest: Focus for Productivity~~ | ~~Forest: Focus for Productivity~~ | ~~❌~~ |
 |61|1600873673|手动|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|❌|❌|❌|❌|

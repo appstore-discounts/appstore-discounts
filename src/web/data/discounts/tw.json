@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 931188326,
+    "region": "tw",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6761328517,
+    "region": "tw",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$190.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $190.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6761328517",
+    "trackName": "地牢深處",
+    "firstRecordedAt": 1777123247350
+  },
+  {
+    "trackId": 6811795155,
+    "region": "tw",
+    "timestamp": 1790885290521,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "免費",
+        "range": "[免費 ~ $60.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6811795155",
+    "trackName": "Keeps",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 451697322,
     "region": "tw",
     "timestamp": 1790828594798,
@@ -30194,7 +30254,7 @@
         "name": "Price",
         "from": "$120.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $150.00]"
+        "range": "[$60.00 ~ $190.00]"
       }
     ],
     "price": 60,
@@ -35443,7 +35503,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$120.00",
-        "range": "[$60.00 ~ $150.00]"
+        "range": "[$60.00 ~ $190.00]"
       }
     ],
     "price": 120,

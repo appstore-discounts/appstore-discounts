@@ -218100,6 +218100,37 @@
       ]
     ]
   },
+  "1556643698": {
+    "name": "Tales of the Mirror",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "50张银票礼包": "$4.99",
+      "18张银票礼包": "$1.99",
+      "8 Silver Notes": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "50张银票礼包": "$4.99",
+      "18张银票礼包": "$1.99",
+      "8 Silver Notes": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "50张银票礼包": "$4.99",
+            "18张银票礼包": "$1.99",
+            "8 Silver Notes": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "1556671822": {
     "name": "Merge Watermelon for watch",
     "maxPriceInfo": {
@@ -259164,14 +259195,22 @@
   "1664728315": {
     "name": "Mutropolis mobile",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754269969797,
@@ -266036,6 +266075,25 @@
       "五子良將": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "戰國七雄": "$5.99",
+            "公路霸業": "$2.99",
+            "群雄爭霸": "$2.99",
+            "楚漢爭霸": "$5.99",
+            "無雙戰神": "$5.99",
+            "自創武將朝代服裝發飾素材補丁": "$3.99",
+            "巾幗綻芳華": "$3.99",
+            "北境狂人": "$2.99",
+            "自創地圖": "$3.99",
+            "鎮海神威": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -315826,14 +315884,22 @@
   "6478398981": {
     "name": "IPTV Smart Pro - Live TV",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 5.99,
+      "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768615666187,
@@ -333701,6 +333767,14 @@
     "history": [
       [
         {
+          "timestamp": 1790885290521,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782730750438,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -344378,6 +344452,14 @@
     "history": [
       [
         {
+          "timestamp": 1790885290521,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782705242702,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -348226,13 +348308,25 @@
     "name": "Keeps: Asset & Cost Tracker",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "$1.99"
+      "formattedPrice": "$1.99",
+      "Keeps Pro": "$9.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Keeps Pro": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Keeps Pro": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790629496108,
@@ -348644,6 +348738,27 @@
           "timestamp": 1790805284947,
           "price": 6.99,
           "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6480435107": {
+    "name": "PylonCam Pro",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790885290521,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
           "inAppPurchases": {}
         }
       ]
