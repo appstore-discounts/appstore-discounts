@@ -1,5 +1,112 @@
 [
   {
+    "trackId": 451697322,
+    "region": "mo",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id451697322",
+    "trackName": "Heart Murmurs Pro",
+    "firstRecordedAt": 1763735158536
+  },
+  {
+    "trackId": 6480501528,
+    "region": "mo",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.29",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.29]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6480501528",
+    "trackName": "Cat Todo - 備忘錄 & 待辦事項 & 記事本",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6451376191,
+    "region": "mo",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "USD 39.99",
+        "to": "USD 35.99",
+        "range": "[USD 7.59 ~ USD 59.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.19 ~ USD 7.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6760948683,
+    "region": "mo",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6760948683",
+    "trackName": "Digline：療癒挖礦",
+    "firstRecordedAt": 1781276299651
+  },
+  {
+    "trackId": 6786557574,
+    "region": "mo",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6786557574",
+    "trackName": "油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版",
+    "firstRecordedAt": 1789935798032
+  },
+  {
     "trackId": 1522215205,
     "region": "mo",
     "timestamp": 1790805284947,
@@ -20,26 +127,6 @@
     "firstRecordedAt": 1721960142187
   },
   {
-    "trackId": 6786557574,
-    "region": "mo",
-    "timestamp": 1790805284947,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "USD 1.99",
-        "to": "Free",
-        "range": "[免費 ~ USD 1.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id6786557574",
-    "trackName": "油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版",
-    "firstRecordedAt": 1789935798032
-  },
-  {
     "trackId": 385902072,
     "region": "mo",
     "timestamp": 1790790015131,
@@ -58,26 +145,6 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id385902072",
     "trackName": "Guns'n'Glory Premium",
     "firstRecordedAt": 1779638471104
-  },
-  {
-    "trackId": 451697322,
-    "region": "mo",
-    "timestamp": 1790790015131,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "USD 2.99",
-        "to": "Free",
-        "range": "[免費 ~ USD 2.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id451697322",
-    "trackName": "Heart Murmurs Pro",
-    "firstRecordedAt": 1763735158536
   },
   {
     "trackId": 1044671796,
@@ -319,33 +386,6 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id1580629864",
     "trackName": "Clank!",
     "firstRecordedAt": 1773162085626
-  },
-  {
-    "trackId": 6451376191,
-    "region": "mo",
-    "timestamp": 1790790015131,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Yearly",
-        "from": "USD 39.99",
-        "to": "USD 35.99",
-        "range": "[USD 7.59 ~ USD 59.99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Monthly",
-        "from": "USD 4.99",
-        "to": "USD 3.99",
-        "range": "[USD 3.19 ~ USD 7.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id6451376191",
-    "trackName": "Dumb Phone",
-    "firstRecordedAt": 1746457348888
   },
   {
     "trackId": 6449233549,

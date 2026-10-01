@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6480501528,
+    "region": "tr",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺19,99",
+        "to": "Free",
+        "range": "[Free ~ ₺19,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6480501528",
+    "trackName": "Cat Todo：AI & Tasks & Reminder",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6760948683,
+    "region": "tr",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺29,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6760948683",
+    "trackName": "Digline: Cosy Mining",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 385902072,
     "region": "tr",
     "timestamp": 1790805284947,
@@ -1295,7 +1335,7 @@
         "name": "Price",
         "from": "₺49,99",
         "to": "Free",
-        "range": "[Free ~ ₺149,99]"
+        "range": "[Free ~ ₺249,99]"
       }
     ],
     "price": 0,
@@ -11792,7 +11832,7 @@
         "name": "Price",
         "from": "₺49,99",
         "to": "₺45,00",
-        "range": "[Free ~ ₺149,99]"
+        "range": "[Free ~ ₺249,99]"
       }
     ],
     "price": 45,
@@ -14642,7 +14682,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺45,00",
-        "range": "[Free ~ ₺149,99]"
+        "range": "[Free ~ ₺249,99]"
       }
     ],
     "price": 45,

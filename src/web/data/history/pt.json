@@ -123976,6 +123976,25 @@
     "history": [
       [
         {
+          "timestamp": 1790828594798,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jingle": "2,99 €",
+            "2025 Spring Forest Theme": "1,99 €",
+            "2025 Spring Lawn Theme": "2,99 €",
+            "2025 Spring Flower Theme": "1,99 €",
+            "Lawn Theme": "1,99 €",
+            "Toby": "1,99 €",
+            "Gizmo": "1,99 €",
+            "Lucky": "1,99 €",
+            "Loki": "1,99 €",
+            "Civet Theme": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1772333804667,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -138541,8 +138560,8 @@
     "trackName": "Dungeon Tracer",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "Todas as classes": "9,99 €"
     },
     "minPriceInfo": {
@@ -138551,6 +138570,16 @@
       "Todas as classes": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790828594798,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Todas as classes": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,

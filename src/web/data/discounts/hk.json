@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1662217862,
+    "region": "hk",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Filtr",
+        "from": "HK$ 188.00",
+        "to": "HK$ 38.00",
+        "range": "[HK$ 38.00 ~ HK$ 188.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1662217862",
+    "trackName": "Wipr 2",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6480501528,
+    "region": "hk",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 2.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 2.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6480501528",
+    "trackName": "Cat Todo - 備忘錄 & 待辦事項 & 記事本",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6451376191,
+    "region": "hk",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "HK$ 38.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 31.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6760948683,
+    "region": "hk",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6760948683",
+    "trackName": "Digline：療癒挖礦",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 1522215205,
     "region": "hk",
     "timestamp": 1790805284947,
@@ -18,26 +98,6 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id1522215205",
     "trackName": "拒之-骚扰电话批量拦截助手",
     "firstRecordedAt": 1721960142187
-  },
-  {
-    "trackId": 6451376191,
-    "region": "hk",
-    "timestamp": 1790805284947,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Monthly",
-        "from": "HK$ 38.00",
-        "to": "HK$ 32.00",
-        "range": "[HK$ 31.00 ~ HK$ 58.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id6451376191",
-    "trackName": "Dumb Phone",
-    "firstRecordedAt": 1746457348888
   },
   {
     "trackId": 6786557574,

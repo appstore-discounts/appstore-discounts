@@ -2,7 +2,7 @@
   {
     "trackId": 966489322,
     "region": "cn",
-    "timestamp": 1790805284947,
+    "timestamp": 1790828594798,
     "discounts": [
       {
         "type": "inAppPurchase",
@@ -20,7 +20,7 @@
       }
     ],
     "price": 0,
-    "formattedPrice": "Free",
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id966489322",
     "trackName": "生辰 — 桌面时间小组件",
@@ -29,7 +29,7 @@
   {
     "trackId": 1436481293,
     "region": "cn",
-    "timestamp": 1790805284947,
+    "timestamp": 1790828594798,
     "discounts": [
       {
         "type": "inAppPurchase",
@@ -40,7 +40,7 @@
       }
     ],
     "price": 0,
-    "formattedPrice": "Free",
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1436481293",
     "trackName": "迷失岛3宇宙的尘埃",
@@ -49,27 +49,47 @@
   {
     "trackId": 1522215205,
     "region": "cn",
-    "timestamp": 1790805284947,
+    "timestamp": 1790828594798,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
         "from": "¥8.00",
-        "to": "Free",
+        "to": "免费",
         "range": "[免费 ~ ¥8.00]"
       }
     ],
     "price": 0,
-    "formattedPrice": "Free",
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1522215205",
     "trackName": "拒之-骚扰电话批量拦截助手",
     "firstRecordedAt": 1721960142187
   },
   {
+    "trackId": 6473332700,
+    "region": "cn",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥35.00",
+        "to": "¥25.00",
+        "range": "[免费 ~ ¥45.00]"
+      }
+    ],
+    "price": 25,
+    "formattedPrice": "¥25.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6473332700",
+    "trackName": "逐鹿 - 历史沙盘战棋",
+    "firstRecordedAt": 1745665323137
+  },
+  {
     "trackId": 6451376191,
     "region": "cn",
-    "timestamp": 1790805284947,
+    "timestamp": 1790828594798,
     "discounts": [
       {
         "type": "inAppPurchase",
@@ -87,7 +107,7 @@
       }
     ],
     "price": 0,
-    "formattedPrice": "Free",
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6451376191",
     "trackName": "Dumb Phone",
@@ -212,26 +232,6 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6738767322",
     "trackName": "森丘露营地",
     "firstRecordedAt": 1745328692670
-  },
-  {
-    "trackId": 6473332700,
-    "region": "cn",
-    "timestamp": 1790790015131,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "¥35.00",
-        "to": "¥25.00",
-        "range": "[免费 ~ ¥45.00]"
-      }
-    ],
-    "price": 25,
-    "formattedPrice": "¥25.00",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id6473332700",
-    "trackName": "逐鹿 - 历史沙盘战棋",
-    "firstRecordedAt": 1745665323137
   },
   {
     "trackId": 6751122124,

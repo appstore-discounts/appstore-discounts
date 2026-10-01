@@ -1,23 +1,83 @@
 [
   {
+    "trackId": 451697322,
+    "region": "tw",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id451697322",
+    "trackName": "Heart Murmurs Pro",
+    "firstRecordedAt": 1763735158536
+  },
+  {
     "trackId": 1074661768,
     "region": "tw",
-    "timestamp": 1790805284947,
+    "timestamp": 1790828594798,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
         "from": "$390.00",
-        "to": "Free",
+        "to": "免費",
         "range": "[免費 ~ $390.00]"
       }
     ],
     "price": 0,
-    "formattedPrice": "Free",
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1074661768",
     "trackName": "出行訣飛星萬年曆",
     "firstRecordedAt": 1769951154203
+  },
+  {
+    "trackId": 6480501528,
+    "region": "tw",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.00",
+        "to": "免費",
+        "range": "[免費 ~ $10.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6480501528",
+    "trackName": "Cat Todo - 備忘錄 & 待辦事項 & 記事本",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6760948683,
+    "region": "tw",
+    "timestamp": 1790828594798,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6760948683",
+    "trackName": "Digline：療癒挖礦",
+    "firstRecordedAt": 1781276299651
   },
   {
     "trackId": 1522215205,
@@ -98,26 +158,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id385902072",
     "trackName": "Guns'n'Glory Premium",
     "firstRecordedAt": 1779638471104
-  },
-  {
-    "trackId": 451697322,
-    "region": "tw",
-    "timestamp": 1790790015131,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$90.00",
-        "to": "Free",
-        "range": "[免費 ~ $90.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id451697322",
-    "trackName": "Heart Murmurs Pro",
-    "firstRecordedAt": 1763735158536
   },
   {
     "trackId": 1044671796,
@@ -1252,7 +1292,7 @@
         "name": "Price",
         "from": "$30.00",
         "to": "免費",
-        "range": "[免費 ~ $90.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 0,
@@ -11229,7 +11269,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[免費 ~ $90.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -12272,7 +12312,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[免費 ~ $90.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 30,
