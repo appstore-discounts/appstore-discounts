@@ -160690,7 +160690,7 @@
     ]
   },
   "1625289361": {
-    "name": "AirBasketball - AuditoryAR",
+    "name": "空氣投籃",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
@@ -178906,6 +178906,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790901150979,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "USD 1.99",
+            "Vervaet Hydro Trike 5x5": "USD 1.99",
+            "Kubota RTV-XG850 SIDEKICK": "USD 1.99",
+            "Case IH Austoft 8800 Multi-Row": "USD 1.99",
+            "Krone BiG Pack 1290 HDP VC": "USD 0.99",
+            "Kotte PQ 32000": "USD 0.99",
+            "KINZE 3665 Blue Drive": "USD 0.99",
+            "Versatile 4WD 620": "USD 1.99",
+            "Amazone CITAN 15001-C": "USD 0.99",
+            "Claas Xerion 5000": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1790885290521,
           "price": 5.99,
@@ -208321,6 +208338,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790901150979,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,

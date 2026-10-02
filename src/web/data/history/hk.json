@@ -74696,9 +74696,19 @@
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00",
-      "捐款": "HK$ 38.00"
+      "捐款": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790901150979,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "捐款": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,
@@ -221776,7 +221786,7 @@
   },
   "1625289361": {
     "trackId": 1625289361,
-    "trackName": "AirBasketball - AuditoryAR",
+    "trackName": "空氣投籃",
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
@@ -301760,6 +301770,14 @@
     "history": [
       [
         {
+          "timestamp": 1790901150979,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -301802,12 +301820,20 @@
       "Keeps Pro": "HK$ 44.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Keeps Pro": "HK$ 44.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1790901150979,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro": "HK$ 44.00"
+          }
+        },
         {
           "timestamp": 1790885290521,
           "price": 18,

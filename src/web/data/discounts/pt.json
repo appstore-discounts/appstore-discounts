@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 931188326,
+    "region": "pt",
+    "timestamp": 1790901150979,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6761328517,
+    "region": "pt",
+    "timestamp": 1790901150979,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6761328517",
+    "trackName": "Dungeon Within",
+    "firstRecordedAt": 1777123247350
+  },
+  {
     "trackId": 6811795155,
     "region": "pt",
     "timestamp": 1790885290521,

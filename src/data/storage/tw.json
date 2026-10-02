@@ -215513,7 +215513,7 @@
     ]
   },
   "1625289361": {
-    "name": "AirBasketball - AuditoryAR",
+    "name": "空氣投籃",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
@@ -264554,6 +264554,25 @@
     "history": [
       [
         {
+          "timestamp": 1790901150979,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A350-1000": "$120.00",
+            "Airbus A380": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 747-400": "$60.00",
+            "Global scenery - 3 months": "$290.00",
+            "Airbus A321": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -309270,6 +309289,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790901150979,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,

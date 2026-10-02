@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 931188326,
+    "region": "tr",
+    "timestamp": 1790901150979,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "Free",
+        "range": "[Free ~ ₺149,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6761328517,
+    "region": "tr",
+    "timestamp": 1790901150979,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6761328517",
+    "trackName": "Dungeon Within",
+    "firstRecordedAt": 1777123247350
+  },
+  {
     "trackId": 6808669044,
     "region": "tr",
     "timestamp": 1790885290521,

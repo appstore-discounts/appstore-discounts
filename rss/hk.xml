@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-10-01T21:48:13.714Z</updated>
+    <updated>2026-10-02T02:11:14.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-01T21:48:13.714Z</updated>
+        <updated>2026-10-02T02:11:14.916Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkThu, 01 Oct 2026 21:48:13 GMT</id>
+        <id>rankinghkFri, 02 Oct 2026 02:11:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-01T21:48:13.714Z</updated>
+        <updated>2026-10-02T02:11:14.916Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -97,6 +97,29 @@ feedId:157008141708743680+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/924438909?lang=zh-CN">ProShot</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>捐款</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/hk/931188326?lang=zh-CN">DayCost Pro - Personal Finance</a>
       </td>
       <td>
@@ -111,7 +134,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1662217862?lang=zh-CN">Wipr 2</a>
@@ -134,7 +157,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6760948683?lang=zh-CN">Digline：療癒挖礦</a>
@@ -151,7 +174,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6480501528?lang=zh-CN">Cat Todo - 備忘錄 & 待辦事項 & 記事本</a>
@@ -168,10 +191,27 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6761328517?lang=zh-CN">地牢深處</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6811795155?lang=zh-CN">Keeps</a>
       </td>
       <td>
         <ul>
@@ -1077,6 +1117,152 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeps]]></title>
+        <id>Keeps-hk-1790901150979</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6811795155?lang=zh-CN"/>
+        <updated>2026-10-02T00:32:30.979Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 18.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6811795155?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/a2/a4/09a2a49d-968a-6096-cdff-82bbf589e093/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 18.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ HK$ 18.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Keeps Pro：<b>HK$ 44.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Keeps 是你所有物品的家，也是一個誠實的答案：每件東西究竟花了你多少。
+
+加入物品時記錄照片、價格和購買日期。Keeps 會用價格除以擁有天數，讓每週都穿的外套和被遺忘在抽屜裡的小東西不再看起來一樣。看著每日成本隨時間下降，並知道它何時會再次減半。
+
+你的所有物品，盡在一處
+• 每件物品的照片、購買資訊、保固日期、備註和標籤
+• 自訂類別，配上你自己的圖示和順序
+• 可搜尋、篩選並依成本排序的收藏
+
+真實成本
+• 每日成本：由價格和擁有天數計算
+• 每次使用成本：告訴 Keeps 你多久用一次，或自己記錄使用
+• 賣出或退役的物品會計入你收回的金額
+• 依月份和類別檢視支出概覽
+
+輕鬆加入
+• 匯入 Amazon 訂單、收據 PDF 或試算表，連同照片和價格
+• 貼上任意商品頁面，Keeps 自動讀取名稱、價格和照片
+• 每筆購買記錄在進入收藏前都會經過你的確認，退貨和重複項會另外列出
+
+讓它看起來像你的
+• 舞台: 原圖保持不變。你可以隨時更改它的展示方式或重設編輯。
+• 在 Keeps 內直接搜尋更合適的網路圖片
+
+智慧，且在你的裝置上
+• 描述一件物品，即可獲得建議的名稱、類別和標籤（在支援的裝置上由 Apple Intelligence 提供）
+• 就你的收藏提問，答案來自你自己的資料
+
+隱私優先
+• 你的收藏只保存在你的裝置和你自己的 iCloud 中
+• 沒有帳號、廣告或分析，不會向我們傳送任何內容
+• 可將整個收藏備份為檔案並還原
+
+捷徑與 Siri：無需開啟 App 即可記錄使用、查詢物品成本、搜尋或加入物品。keeps:// 連結可開啟任意物品。
+
+回饋會開啟可編輯的電子郵件，包含裝置型號、系統版本以及 Keeps 版本號和建置號，不附加診斷記錄或收藏資料。
+
+Keeps Pro
+Keeps 免費版最多可儲存 30 件物品。Keeps Pro 不限數量。 匯入購買記錄是 Keeps Pro 的功能。你可以先查看檔案包含的內容。 無論是否擁有 Pro，你新增的所有內容都會保留。在 Keeps 免費前就已購買？Pro 已包含在內。
+Keeps Pro · 一次性購買
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/23/48/8a234888-24a0-28a2-335e-72f418d234b1/01_zh-Hant_display_69_01.jpg.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/3a/4c/223a4c01-77fe-049e-2452-8046047d81c6/02_zh-Hant_display_69_02.jpg.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/0d/31/6e0d3114-c40b-2882-d4b3-5003ccb0b03d/03_zh-Hant_display_69_03.jpg.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ed/46/4aed464e-eaac-36f7-24d0-d8c3ce4ac643/04_zh-Hant_display_69_04.jpg.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/e6/3f/0be63fd7-5faf-4ec8-71d9-9b01fdfc6804/05_zh-Hant_display_69_05.jpg.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/e7/e8/67e7e866-137b-08a6-92ad-b956dc92ba16/06_zh-Hant_display_69_06.jpg.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/00/d1/2f00d1a2-ece6-1c52-a9ed-e20fa0415ceb/07_zh-Hant_display_69_07.jpg.jpeg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/8e/ae/028eaedd-a7c6-9f46-0168-07a732aed736/01_zh-Hant_display_13_01.jpg.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/43/16/9f431662-99e3-f317-e567-d76179edff31/02_zh-Hant_display_13_02.jpg.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/2e/27/f92e2720-009e-4498-e9b6-52cdacad1c98/03_zh-Hant_display_13_03.jpg.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/a6/ec/f1a6ec37-03b1-ecd8-6fb9-429dd4e3eace/04_zh-Hant_display_13_04.jpg.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/c9/11/3fc91110-a258-f359-1beb-a6d0145eb089/05_zh-Hant_display_13_05.jpg.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/c1/e0/e8c1e0f1-1a22-6ebb-a572-b25ea69d696f/06_zh-Hant_display_13_06.jpg.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/93/fd/1193fdc1-09b3-765e-cf65-70ddcd3362f3/07_zh-Hant_display_13_07.jpg.jpeg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProShot]]></title>
+        <id>ProShot-hk-1790901150979</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/924438909?lang=zh-CN"/>
+        <updated>2026-10-02T00:32:30.979Z</updated>
+        <summary type="html"><![CDATA[捐款: HK$ 38.00 → HK$ 8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/924438909?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/d3/d5/48d3d535-398e-e342-9ba0-d024c66b99d2/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>捐款：</strong><span>HK$ 38.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 38.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 58.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    捐款：<b>HK$ 8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  “世界級攝影應用” - iMore
+“螢幕布局出色。DSLR 可以學到一二。” - Engadget
+“如果你能命名它, ProShot 很可能有它” - Gizmodo
+
+► 受到超過 100 萬攝影師的喜愛！
+
+歡迎來到 ProShot, iPhone 和 iPad 的終極手動相機應用。
+
+ProShot 將 ProRAW, ProRes 和 DSLR 控制的威力放在你的口袋裡, 讓你在任何情況捕捉驚豔的照片和視頻。無論你是資深專業人士還是剛剛起步, ProShot 都有適合你的東西。
+
+► 手動控制
+解鎖 DSLR 般的精度, 用於水晶般清晰的照片和視頻。全手動, 半自動或智能自動模式讓你調整曝光, ISO, 白平衡等, 而自動 ISO & 快門速度限值讓你微調運動模糊和噪聲, 就像大相機一樣。
+
+► 專業工具
+ProShot 適應你變化世界。用其獨特雙撥盤系統飛速瀏覽相機設置。按下按鈕即刻錄製視頻。用光軌繪畫或通過 Bulb 模式觀星。用可重映射控制, 直方圖, 焦點峰值, 指南針, 夜間 UI 以保護視力等微調你的體驗, 還有更多。
+
+► 內置隱私
+零數據收集 - 你的圖像和信息保持安全, 因為這才是應該的方式。
+
+ProShot 還有更多。下面是許多等待你的功能列表的一部分。ProShot 正在不斷開發, 所以偉大的新事物總是出現在地平線上！
+
+► 照片功能
+• 自動, 程序, 手動和兩個自定義模式, 就像 DSLR
+• 快門優先, ISO 優先, 自動和全手動控制
+• 調整曝光, ISO, 快門速度, 閃光, 焦點, 手電筒強度, 白平衡等
+• 設置最大 ISO 和最大快門速度選項
+• ProRAW, RAW (DNG), HEIC 和 JPEG 格式
+• 零處理選項, 用於無 AI 過濾的純圖像
+• Live Photo 支持
+• 無限快門速度 (Bulb), 帶有 Live Photo 支持, 用於華麗的夜間視頻
+• 肖像模式
+• 黑白模式
+• 16:9, 3:2, 4:3 和 1:1 縱橫比
+• 光繪, 帶有捕捉水和光軌的特殊模式
+• 時間間隔 (間隔計時器和視頻), 帶有全手動控制
+• 零滯後包圍曝光高達 ±3 EV
+• 手動焦點輔助和焦點峰值, 帶有可自定義顏色
+• 前置相機支持, 帶有全手動控制
+• 使用一個手指放大高達 15X
+• 網格, 直方圖, 指南針, 噪聲減少和更多選項
+• 可自定義強調顏色和 UI 布局, 以適合你的風格
+• 專用夜間 UI 以保護你的夜視
+• 相機卷無縫集成到取景器
+• 鎖屏小部件
+
+► 視頻功能
+• 所有照片模式控制在視頻模式中也可用
+• 4K 視頻, 帶有極致比特率選項
+• 可調整幀率, 從 24 FPS 到 240 FPS
+• 支持 H.264, H.265 和 ProRES 格式
+• 時間間隔視頻高達 4K
+• 行業標準 180 度規則選項
+• 支持外部麥克風
+• 實時監測音頻水平和視頻文件大小
+• 甚至在視頻錄製期間改變任何相機參數
+• 在視頻錄製期間捕捉全分辨率靜止幀
+• 支持同時音頻播放 (如 Spotify) 同時錄製
+• 視頻燈, 帶有可調整強度
+
+將沉重的 DSLR 留在家裡, ProShot 保護你。
+用戶指南: https://www.riseupgames.com/proshot/ios
+視頻教程: https://www.youtube.com/watch?v=OMKtcX5ufjw
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/01/1f/99011f53-dff2-1fb4-2647-89f13ca01a11/238f82c5-3cf3-44b8-bb6a-84c1233c92e2_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/83/dd/1183ddce-c6de-df45-cf92-a505e5141198/e9dc42d2-41c7-46e7-8cea-aea116d3e2b7_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3a/d7/5c3ad7e6-7b4c-5185-169a-6d831e071936/65fb2105-9e11-49c7-aaf1-ebdc07a5352b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/36/51/d63651c8-1aea-173e-7617-1abcfd8a320c/0baeef01-478b-4a69-ad09-0bb99b4cb4f5_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/d1/8b/3fd18bb8-0262-14ef-9bb9-1250eb0b1a26/c4203f30-59ae-417c-a432-3e36b0b8e714_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c2/1e/5cc21e14-0376-ffde-084d-2366f9f4238a/819d018f-8ebe-430a-bf6e-fe46b3785288_iPad_Pro_12.9_-_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/11/10/101110ea-b023-9876-de8b-21014bcc9303/349f0ec4-8155-45a2-ad93-df27117c96c3_iPad_Pro_12.9_-_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/dc/cd/6edccd0f-3032-d2cf-7762-5e9658d79a74/091a4596-708a-4986-8ef3-1caa2fbc589b_iPad_Pro_12.9_-_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/01/83/fb018386-35c5-284c-5a80-2b71c448068c/35a3bfad-28d5-48e2-847c-4125b5b86216_iPad_Pro_12.9_-_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/43/79/714379db-3958-e6b0-e6d1-c64489a43be2/82392f64-ad09-4cc4-9ec9-273ee67a3c7c_iPad_Pro_12.9_-_5.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[地牢深處]]></title>
