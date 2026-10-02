@@ -23,7 +23,7 @@
 |2295|6812603412|自动|牛来了！|牛來！|牛來！|牛來！|The Long Graze|The Long Graze|The Long Graze|
 |2294|6753594612|自动|❌|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|
 |2293|6801866888|自动|啥时候做的|上次是什麼時候|上次是什麼時候|上次是什麼時候|When'd I|When'd I|Quando foi? - O último dia|
-|2292|6787350789|自动|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|DRAGON BaZi Chart|DRAGON BaZi Chart|龍躍八字 - 八字排盤命理工具|
+|2292|6787350789|自动|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|DRAGON BaZi Chart|DRAGON BaZi 龍躍八字排盤|龍躍八字 - 八字排盤命理工具|
 |2291|6759664029|自动|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|自动|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
 |2289|6801980968|自动|❌|塔與傭兵團|塔與傭兵團|塔與傭兵團|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
@@ -312,7 +312,7 @@
 |2006|1434964023|自动|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
 |2005|1483947937|自动|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
 |2004|6757171842|自动|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|
-|2003|6756825085|自动|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao - Timer Mesa Elevável|
+|2003|6756825085|自动|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Lembrete Mesa de Pé|
 |2002|294236771|自动|ICOON 全球图解词典|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|Dicionário de imagens ICOON|
 |2001|6761413198|自动|❌|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|
 |2000|1558620021|自动|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|
