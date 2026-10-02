@@ -85735,6 +85735,29 @@
       ]
     ]
   },
+  "926603602": {
+    "trackId": 926603602,
+    "trackName": "Pro Altimeter - Barometric+GPS",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790933058173,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "927098908": {
     "trackId": 927098908,
     "trackName": "Pro Camera by Moment",
@@ -85905,6 +85928,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790933058173,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788750378321,
@@ -174299,6 +174330,25 @@
       "1980玉符": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790933058173,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "30金玉": "$4.99",
+            "648金玉": "$99.99",
+            "198金玉": "$29.99",
+            "禮包5": "$4.99",
+            "禮包6": "$9.99",
+            "尊享月俸": "$4.99",
+            "6金玉": "$0.99",
+            "328金玉": "$49.99",
+            "禮包7": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790857883196,
@@ -269102,6 +269152,25 @@
     "history": [
       [
         {
+          "timestamp": 1790933058173,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "戰國七雄": "$5.99",
+            "群雄爭霸": "$2.99",
+            "楚漢爭霸": "$5.99",
+            "重振漢室": "$2.99",
+            "無雙戰神": "$5.99",
+            "虎嘯鳳鳴": "$3.99",
+            "巾幗綻芳華": "$3.99",
+            "冠絕天下": "$5.99",
+            "鎮海神威": "$2.99",
+            "北境狂人": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790901150979,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -275789,6 +275858,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790933058173,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Crimson Walk": "$1.79",
+            "Fireworks display": "$1.79",
+            "Sunset beach": "$1.19",
+            "Moonlight and Lanterns": "$1.19",
+            "Christmas night": "$1.79",
+            "2025春ネモフィラスキン": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -336049,6 +336137,25 @@
     "history": [
       [
         {
+          "timestamp": 1790933058173,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 gold": "$0.29",
+            "orta paket": "$0.99",
+            "5 ticket": "$0.29",
+            "75000 money": "$0.59",
+            "30000 money": "$0.29",
+            "30 gold": "$0.99",
+            "10 gold": "$0.49",
+            "25 gold": "$0.89",
+            "30 ticket": "$0.99",
+            "500000 money": "$1.90"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790134270308,
           "price": 0,
           "formattedPrice": "Free",
@@ -340287,6 +340394,25 @@
       "ROBO FISH 06": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790933058173,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "GHOST LUMINOUS": "$1.99",
+            "ZOMBIE FISH": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "CALICO RED/GRAY/BLACK": "$1.99",
+            "ROBO FISH 01": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -344716,6 +344842,25 @@
       "Memory of Training": "$17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790933058173,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "$5.99",
+            "Moonveil Skin Set": "$9.99",
+            "Neo Behemoth": "$1.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Essence of Transcendence": "$29.99",
+            "Underworld Pass 1": "$2.99",
+            "Ark of Eternity": "$29.99",
+            "Time Traveler": "$5.99",
+            "Memory of Training": "$17.99",
+            "Beginning of Growth": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790857883196,
@@ -352719,6 +352864,25 @@
       "Tower Alchemist": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790933058173,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$29.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Tower Sniper": "$5.99",
+            "Hero Oni": "$4.99",
+            "Tower Wildcat": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Spell Aspect of Sol": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790901150979,
