@@ -59,7 +59,7 @@
 |2261|6753081257|自动|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|
 |2260|480102733|自动|Awesome日历-日程管理/待办事项/日记本|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|
 |2259|333195169|自动|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|
-|2258|525956148|自动|航班追踪器专业版 - 航班 管家, 实时 航班, 飞行 雷达|航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達|航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達|航班追蹤專業版航班雷達飛行器|Flight Tracker Pro Plane Radar|Flight Tracker Pro Plane Radar|Flight Tracker Pro - Radar 24|
+|2258|525956148|自动|航班追踪专业版航班雷达飞行器|航班追蹤專業版航班雷達飛行器|航班追蹤專業版航班雷達飛行器|航班追蹤專業版航班雷達飛行器|Flight Tracker Pro Plane Radar|Flight Tracker Pro Plane Radar|Flight Tracker Pro - Radar 24|
 |2257|6778029370|自动|❌|九格生死战|九格生死战|九格生死战|Order Automatica|Order Automatica|Order Automatica|
 |2256|882362024|自动|❌|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|
 |2255|6755822636|自动|GIKA - 老旧手机复古相机|GIKA - 老舊手機復古質感相機|GIKA - 老舊手機復古質感相機|GIKA - 老舊手機復古質感相機|GIKA - Vintage Phone Cam|GIKA - Vintage Phone Cam|GIKA - Vintage Phone Cam|
@@ -252,7 +252,7 @@
 |2068|6443677513|自动|Keka •|Keka •|Keka •|Keka •|Keka|Keka|Keka|
 |2067|6759284932|自动|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
 |2066|1182217891|自动|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|
-|2065|6762279908|自动|DayGrid: 데일리스케줄·시간표·플래너·일정관리|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid: Hourly Daily Planner|DayGrid: Hourly Daily Planner|DayGrid: 데일리스케줄·시간표·플래너·일정관리|
+|2065|6762279908|自动|DayGrid: 데일리스케줄·시간표·플래너·일정관리|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid: Hourly Daily Planner|DayGrid: Hourly Daily Planner|DayGrid: 데일리스케줄, 하루 계획표|
 |2064|6778099993|自动|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|
 |2063|1671507777|自动|❌|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|
 |2062|6777748394|自动|38-0|38-0|38-0|38-0|38-0|38-0|38-0|
@@ -1252,7 +1252,7 @@
 |1068|1534488108|自动|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|
 |1067|1561849298|自动|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|
 |1066|1261698956|自动|Accurate钢琴调音器|Accurate鋼琴調音器|Accurate鋼琴調音器|Accurate鋼琴調音器|Accurate Piano Tuner|Accurate Piano Tuner|Sintonizador de Piano|
-|1065|926177061|自动|Hipstamatic的TinType|TinType - Hipstamatic|TinType - Hipstamatic|TinType - Hipstamatic|TinType by Hipstamatic|TinType by Hipstamatic|TinType por Hipstamatic|
+|1065|926177061|自动|Hipstamatic的TinType|TinType - Hipstamatic|TinType - 錫版相機|TinType - 錫版相機|TinType - Wet Plate Camera|TinType - Wet Plate Camera|TinType - Câmera de ferrótipo|
 |1064|6743422824|自动|❌|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|
 |1063|885792725|自动|❌|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|
 |1062|1577752006|自动|Soccer Plus: 足球数据与热图追踪|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: Football Tracker|Soccer Plus: Football Tracker|Soccer Plus: Rastreador Futbol|

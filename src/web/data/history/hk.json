@@ -43142,7 +43142,7 @@
   },
   "525956148": {
     "trackId": 525956148,
-    "trackName": "航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達",
+    "trackName": "航班追蹤專業版航班雷達飛行器",
     "region": "hk",
     "maxPriceInfo": {
       "price": 48,
@@ -74977,13 +74977,25 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "TinType 無限版": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "TinType 無限版": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "TinType 無限版": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747688536436,
@@ -186252,6 +186264,19 @@
     "history": [
       [
         {
+          "timestamp": 1791059903104,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Full scenarios": "HK$ 8.00",
+            "+100 boosters ECO-Initiative!": "HK$ 10.00",
+            "+2026 boosters ECO-Initiative!": "HK$ 32.00",
+            "+444! Triple-Four Booster Pack": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791042403719,
           "price": 0,
           "formattedPrice": "免費",
@@ -229880,6 +229905,20 @@
       "Filtr": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Filtr": "HK$ 188.00",
+            "Yearly Recurring Tip": "HK$ 88.00",
+            "Monthly Recurring Tip": "HK$ 18.00",
+            "Mega Tip": "HK$ 148.00",
+            "Tip": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,

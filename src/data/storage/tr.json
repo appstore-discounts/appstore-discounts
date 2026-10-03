@@ -31904,7 +31904,7 @@
       "Minecraft Store Item 4": "₺219,00",
       "Minecraft Store Item 10": "₺569,00",
       "Minecraft Store Item 1": "₺53,99",
-      "Minecraft Store Item 5": "₺229,99",
+      "Minecraft Store Item 5": "₺269,99",
       "Vehicles pack": "₺449,99",
       "Tools Pack": "₺249,99",
       "Scary Pack": "₺499,99",
@@ -31967,6 +31967,25 @@
       "Cuddly Starter Pack": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 2": "₺109,00",
+            "Minecraft Store Item 6": "₺329,00",
+            "Marketplace Pass Trial": "₺129,99",
+            "Minecraft Store Item 4": "₺219,00",
+            "Minecraft Store Item 3": "₺164,99",
+            "Minecraft Store Item 10": "₺559,99",
+            "Minecraft Store Item 5": "₺269,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789529534995,
@@ -77591,16 +77610,28 @@
     ]
   },
   "926177061": {
-    "name": "TinType by Hipstamatic",
+    "name": "TinType - Wet Plate Camera",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "TinType Unlimited": "₺499,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "TinType Unlimited": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "TinType Unlimited": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -181557,6 +181588,19 @@
     "history": [
       [
         {
+          "timestamp": 1791059903104,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "₺10,00",
+            "Full scenarios": "₺49,99",
+            "+444! Triple-Four Booster Pack": "₺99,99",
+            "+2026 boosters ECO-Initiative!": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1771144950749,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -242143,6 +242187,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791059903104,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 787-10": "₺99,99",
+            "UH-60": "₺49,99",
+            "EC135": "₺49,99",
+            "Boeing 737-900": "₺99,99"
+          }
+        },
         {
           "timestamp": 1790999952664,
           "price": 199.99,

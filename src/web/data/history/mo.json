@@ -13324,6 +13324,25 @@
     "history": [
       [
         {
+          "timestamp": 1791059903104,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "USD 6.99",
+            "Extreme Map Pack": "USD 1.99",
+            "Rank Up +2 Ranks": "USD 0.99",
+            "Double Cash": "USD 2.99",
+            "Healthy Bananas": "USD 1.99",
+            "Explosive Darts": "USD 1.99",
+            "Double Ranga": "USD 1.99",
+            "Monkey Tycoon": "USD 0.99",
+            "Frag Bombs": "USD 0.99",
+            "Digital Amplification": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791042403719,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -36633,7 +36652,7 @@
   },
   "525956148": {
     "trackId": 525956148,
-    "trackName": "航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達",
+    "trackName": "航班追蹤專業版航班雷達飛行器",
     "region": "mo",
     "maxPriceInfo": {
       "price": 5.99,
@@ -59840,17 +59859,29 @@
   },
   "926177061": {
     "trackId": 926177061,
-    "trackName": "TinType - Hipstamatic",
+    "trackName": "TinType - 錫版相機",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "TinType 無限版": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "TinType 無限版": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "TinType 無限版": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747688536436,
@@ -137093,6 +137124,19 @@
       "Full scenarios": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Full scenarios": "USD 0.99",
+            "+2026 boosters ECO-Initiative!": "USD 4.29",
+            "+444! Triple-Four Booster Pack": "USD 2.00",
+            "+100 boosters ECO-Initiative!": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,

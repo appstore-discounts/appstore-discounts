@@ -15039,6 +15039,23 @@
     "history": [
       [
         {
+          "timestamp": 1791059903104,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Händel: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99"
+          }
+        },
+        {
           "timestamp": 1791042403719,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -25884,6 +25901,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791059903104,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
         {
           "timestamp": 1791042403719,
           "price": 14.99,
@@ -85825,17 +85859,29 @@
   },
   "926177061": {
     "trackId": 926177061,
-    "trackName": "TinType by Hipstamatic",
+    "trackName": "TinType - Wet Plate Camera",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "TinType Unlimited": "$9.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "TinType Unlimited": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "TinType Unlimited": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747688536436,
@@ -202664,6 +202710,19 @@
     "history": [
       [
         {
+          "timestamp": 1791059903104,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$1.00",
+            "+2026 boosters ECO-Initiative!": "$4.29",
+            "+444! Triple-Four Booster Pack": "$2.00",
+            "Full scenarios": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1771144950749,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -230953,6 +231012,23 @@
     "history": [
       [
         {
+          "timestamp": 1791059903104,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Founders Pack": "$0.99",
+            "Lisa character": "$0.00",
+            "Gloria skin": "$0.99",
+            "Elsa character": "$0.99",
+            "Jorge skin": "$0.99",
+            "Daniel skin": "$0.99",
+            "James character": "$0.99",
+            "Marco character": "$0.99",
+            "Manuel character": "$0.99",
+            "Yellow menu color": "$0.99"
+          }
+        },
+        {
           "timestamp": 1791042403719,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -245972,7 +246048,11 @@
       "HeroBounty Hunter": "$4.99",
       "Unit Group Jaegers On Sale": "$4.99",
       "Unit Group Cathros": "$4.99",
-      "Unit Group Planterras": "$2.99"
+      "Unit Group Planterras": "$2.99",
+      "Hero Bounty Hunter On Sale": "$2.99",
+      "Hero Gauntlet On Sale": "$2.99",
+      "Hero Bomett": "$2.99",
+      "Hero Bomett On Sale": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -246003,9 +246083,32 @@
       "HeroBounty Hunter": "$4.99",
       "Unit Group Jaegers On Sale": "$4.99",
       "Unit Group Cathros": "$4.99",
-      "Unit Group Planterras": "$2.99"
+      "Unit Group Planterras": "$2.99",
+      "Hero Bounty Hunter On Sale": "$2.99",
+      "Hero Gauntlet On Sale": "$2.99",
+      "Hero Bomett": "$2.99",
+      "Hero Bomett On Sale": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Hero Red Dragon": "$5.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "HeroBounty Hunter": "$4.99",
+            "Hero Bounty Hunter On Sale": "$2.99",
+            "Hero Gauntlet On Sale": "$2.99",
+            "Hero Gauntlet": "$4.99",
+            "Hero Bomett": "$2.99",
+            "Hero Bomett On Sale": "$0.99",
+            "Hero Dragon Kosmos On Sale": "$4.99",
+            "Hero Dragon Kosmos": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -347600,6 +347703,25 @@
       "Clone Sensi – 3 Clonagens": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791059903104,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "10 Tokens Coach IA": "$4.99",
+            "1 Token Coach IA": "$0.99",
+            "3 Tokens Coach IA": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "Clone Sensi – 3 Clonagens": "$1.99",
+            "SENSI APOSTADO/X1 iPhone 3 a 8 Plus": "$1.99",
+            "SENSI iPhone X a 12 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790656083068,
