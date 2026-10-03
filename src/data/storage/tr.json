@@ -103500,6 +103500,25 @@
     "history": [
       [
         {
+          "timestamp": 1790999952664,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺149,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺249,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Pile O Monkey Money": "₺249,99",
+            "Double Cash Mode": "₺399,99",
+            "Paragon Unlock": "₺249,99",
+            "Extra Monkey Money": "₺99,99",
+            "Tower and Paragon Unlock": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790901150979,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -161425,6 +161444,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790999952664,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Speed Die": "₺799,99",
+            "Welcome Offer": "₺999,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "Golden Dice": "₺249,99"
+          }
+        },
         {
           "timestamp": 1790977922515,
           "price": 249.99,
@@ -236530,10 +236566,10 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99",
-      "Standard Pack": "₺49,99",
-      "Elite Pack": "₺199,99",
-      "Advanced Pack": "₺129,99",
-      "Premium Pack": "₺149,99"
+      "Standard Pack": "₺99,99",
+      "Elite Pack": "₺299,99",
+      "Advanced Pack": "₺149,99",
+      "Premium Pack": "₺199,99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -236544,6 +236580,19 @@
       "Premium Pack": "₺34,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790999952664,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Standard Pack": "₺99,99",
+            "Elite Pack": "₺299,99",
+            "Advanced Pack": "₺149,99",
+            "Premium Pack": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790074896267,
@@ -242080,6 +242129,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790999952664,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 787-10": "₺99,99",
+            "UH-60": "₺49,99",
+            "EC135": "₺49,99",
+            "The Aircraft Bundle": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790933058173,
@@ -288377,6 +288445,27 @@
           "timestamp": 1790885290521,
           "price": 699.99,
           "formattedPrice": "₺699,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804636118": {
+    "name": "Oto Galerici Simülatörü",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790999952664,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]
