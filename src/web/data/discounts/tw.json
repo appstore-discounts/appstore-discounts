@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1504760106,
+    "region": "tw",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.00",
+        "to": "免費",
+        "range": "[免費 ~ $250.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1504760106",
+    "trackName": "Eco Inc. 拯救地球",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1632719015,
+    "region": "tw",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$50.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $190.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1632719015",
+    "trackName": "守護者 OL2",
+    "firstRecordedAt": 1787620330936
+  },
+  {
+    "trackId": 6760764479,
+    "region": "tw",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Saha Ekip Modu",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6760764479",
+    "trackName": "Alpin Quest PRO – Outdoor GPS",
+    "firstRecordedAt": 1786025220529
+  },
+  {
+    "trackId": 6752662508,
+    "region": "tw",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6752662508",
+    "trackName": "時光軌跡 · GPS足跡路線記錄儀",
+    "firstRecordedAt": 1788345787844
+  },
+  {
     "trackId": 1662217862,
     "region": "tw",
     "timestamp": 1790933058173,
@@ -20688,7 +20768,7 @@
         "name": "Price",
         "from": "$20.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $250.00]"
+        "range": "[免費 ~ $250.00]"
       }
     ],
     "price": 10,
@@ -35986,7 +36066,7 @@
         "name": "Price",
         "from": "$250.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $250.00]"
+        "range": "[免費 ~ $250.00]"
       }
     ],
     "price": 10,
@@ -38493,7 +38573,7 @@
         "name": "Price",
         "from": "$39.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $250.00]"
+        "range": "[免費 ~ $250.00]"
       }
     ],
     "price": 10,
@@ -38722,7 +38802,7 @@
         "name": "Price",
         "from": "$39.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $250.00]"
+        "range": "[免費 ~ $250.00]"
       },
       {
         "type": "inAppPurchase",

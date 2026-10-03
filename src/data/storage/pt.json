@@ -18655,7 +18655,16 @@
       "Richman 4 Fun Water map package": "0,99 €",
       "Richman 4 Fun  PARIS & LONDON": "0,99 €",
       "Richman 4 Fun  Hawaii & South Pole Island": "0,99 €",
-      "Taisho Daynight Package": "0,99 €"
+      "Taisho Daynight Package": "0,99 €",
+      "Richman 4 Fun US Adventure": "0,99 €",
+      "「Japan & Hong Kong Package」": "0,99 €",
+      "Richman 4 Fun Chinese Paladin package": "0,99 €",
+      "Richman 4 fun korea package": "0,99 €",
+      "Richman 4 fun SWD package": "0,99 €",
+      "300,000 Yuanbao": "1,99 €",
+      "900,000 Yuanbao": "5,99 €",
+      "Richman 4 Fun ChinesePaladin5 package": "0,99 €",
+      "Richman 4 fun Paradise & Dinosaur Island": "0,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -18670,9 +18679,37 @@
       "Richman 4 Fun Water map package": "0,99 €",
       "Richman 4 Fun  PARIS & LONDON": "0,99 €",
       "Richman 4 Fun  Hawaii & South Pole Island": "0,99 €",
-      "Taisho Daynight Package": "0,99 €"
+      "Taisho Daynight Package": "0,99 €",
+      "Richman 4 Fun US Adventure": "0,99 €",
+      "「Japan & Hong Kong Package」": "0,99 €",
+      "Richman 4 Fun Chinese Paladin package": "0,99 €",
+      "Richman 4 fun korea package": "0,99 €",
+      "Richman 4 fun SWD package": "0,99 €",
+      "300,000 Yuanbao": "1,99 €",
+      "900,000 Yuanbao": "5,99 €",
+      "Richman 4 Fun ChinesePaladin5 package": "0,99 €",
+      "Richman 4 fun Paradise & Dinosaur Island": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Richman 4 Fun US Adventure": "0,99 €",
+            "「Japan & Hong Kong Package」": "0,99 €",
+            "Richman 4 Fun Chinese Paladin package": "0,99 €",
+            "Richman 4 fun korea package": "0,99 €",
+            "Richman 4 fun SWD package": "0,99 €",
+            "300,000 Yuanbao": "1,99 €",
+            "900,000 Yuanbao": "5,99 €",
+            "Richman 4 Fun ChinesePaladin5 package": "0,99 €",
+            "Richman 4 fun Paradise & Dinosaur Island": "0,99 €",
+            "Richman 4 Fun  Hawaii & South Pole Island": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779826154618,
@@ -22313,7 +22350,7 @@
     ]
   },
   "525956148": {
-    "name": "Flight Tracker Pro | Fly Radar",
+    "name": "Flight Tracker Pro - Radar 24",
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
@@ -135675,6 +135712,14 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -136417,6 +136462,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791042403719,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Gold 6-Month": "17,99 €",
+            "黄金会员月度": "1,99 €",
+            "黄金会员月": "1,99 €",
+            "普通会员买断": "24,99 €",
+            "黄金会员买断": "44,99 €",
+            "黄金年会员": "34,99 €",
+            "黄金月会员": "3,99 €",
+            "基础月会员": "0,99 €",
+            "黄金会员": "3,99 €"
+          }
+        },
         {
           "timestamp": 1791025831979,
           "price": 2.99,
@@ -141619,10 +141680,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788345787844,
@@ -142706,6 +142775,27 @@
           "timestamp": 1790999952664,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758677190": {
+    "name": "ReefLens: Reef & Scuba Camera",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -14851,6 +14851,25 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro + Family Sharing": "$24.99",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Haydn: String Quartets": "$1.99",
+            "Christmas Carol Collection": "$1.99",
+            "Bach: Cello Suites": "$1.99",
+            "Vivaldi: The Four Seasons": "$1.99",
+            "Mozart: Twelve Duets": "$1.99",
+            "The Mutopia Piano Collection": "$4.99",
+            "forScore Pro": "$14.99",
+            "Voluntary Upgrade": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785725049859,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -25467,7 +25486,8 @@
       "Brazil Bass": "$1.99",
       "PsyTrance": "$2.99",
       "Drumaxx": "$1.99",
-      "SFX": "$0.00"
+      "SFX": "$0.00",
+      "FL Cloud Mobile": "$4.99"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -25493,9 +25513,28 @@
       "Brazil Bass": "$1.99",
       "PsyTrance": "$2.99",
       "Drumaxx": "$1.99",
-      "SFX": "$0.00"
+      "SFX": "$0.00",
+      "FL Cloud Mobile": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "$4.99",
+            "Ferrous Mobile": "$2.99",
+            "Hyper-Pop Mobile": "$2.99",
+            "Chip-Tune Mobile": "$2.99",
+            "Essential Winds": "$1.99",
+            "Essential Strings": "$1.99",
+            "DubTechno": "$1.99",
+            "Chill-Lo-Fi Mobile": "$1.99",
+            "Technocraft": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784547878072,
@@ -228330,6 +228369,25 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Daniel skin": "$0.99",
+            "Reyna skin": "$0.99",
+            "Jorge skin": "$0.99",
+            "Gloria skin": "$0.99",
+            "Purple menu color": "$3.99",
+            "Red menu color": "$1.99",
+            "Yellow menu color": "$0.99",
+            "James character": "$0.99",
+            "Lisa character": "$0.00",
+            "Elsa character": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790307530124,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -341141,6 +341199,14 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -348280,10 +348346,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788345787844,
@@ -349401,6 +349475,27 @@
           "timestamp": 1790999952664,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758677190": {
+    "name": "ReefLens: Reef & Scuba Camera",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
           "inAppPurchases": {}
         }
       ]

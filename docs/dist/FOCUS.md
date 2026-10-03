@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2309` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2310` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2310|6758677190|Automatic|ReefLens: Reef & Scuba Camera|ReefLens: Reef & Scuba Camera|ReefLens: Reef & Scuba Camera|ReefLens: Reef & Scuba Camera|ReefLens: Reef & Scuba Camera|ReefLens: Reef & Scuba Camera|ReefLens: Reef & Scuba Camera|
 |2309|6804636118|Automatic|❌|Oto Galerici Simülatörü|Oto Galerici Simülatörü|Oto Galerici Simülatörü|Oto Galerici Simülatörü|Oto Galerici Simülatörü|Oto Galerici Simülatörü|
 |2308|926603602|Automatic|Pro Altimeter - Barometric+GPS|Pro Altimeter - Barometric+GPS|Pro Altimeter - Barometric+GPS|Pro Altimeter - Barometric+GPS|Pro Altimeter - Barometric+GPS|Pro Altimeter - Barometric+GPS|Pro Altimeter - Barometric+GPS|
 |2307|1556643698|Automatic|❌|古鏡記（Tales of the Mirror）|古鏡記（Tales of the Mirror）|❌|Tales of the Mirror|Tales of the Mirror|Tales of the Mirror|
@@ -58,7 +59,7 @@ So far, we've covered `7` `Countries or Regions` and  `2309` `Apps` <br />Push n
 |2261|6753081257|Automatic|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|TickTrackTock|
 |2260|480102733|Automatic|Awesome日历-日程管理/待办事项/日记本|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|Awesome Calendar|
 |2259|333195169|Automatic|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|MD on Call|
-|2258|525956148|Automatic|航班追踪器专业版 - 航班 管家, 实时 航班, 飞行 雷达|航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達|航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達|航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達|Flight Tracker Pro Plane Radar|Flight tracker Pro Plane Radar|Flight Tracker Pro | Fly Radar|
+|2258|525956148|Automatic|航班追踪器专业版 - 航班 管家, 实时 航班, 飞行 雷达|航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達|航班追蹤器專業版 - 航班 管家, 即時 航班, 飛行 雷達|航班追蹤專業版航班雷達飛行器|Flight Tracker Pro Plane Radar|Flight Tracker Pro Plane Radar|Flight Tracker Pro - Radar 24|
 |2257|6778029370|Automatic|❌|九格生死战|九格生死战|九格生死战|Order Automatica|Order Automatica|Order Automatica|
 |2256|882362024|Automatic|❌|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|Ace Attorney: Dual Destinies|
 |2255|6755822636|Automatic|GIKA - 老旧手机复古相机|GIKA - 老舊手機復古質感相機|GIKA - 老舊手機復古質感相機|GIKA - 老舊手機復古質感相機|GIKA - Vintage Phone Cam|GIKA - Vintage Phone Cam|GIKA - Vintage Phone Cam|

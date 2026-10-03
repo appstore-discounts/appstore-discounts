@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1504760106,
+    "region": "mo",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.29",
+        "to": "免費",
+        "range": "[免費 ~ USD 7.49]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1504760106",
+    "trackName": "Eco Inc. 拯救地球",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1632719015,
+    "region": "mo",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.49",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 5.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1632719015",
+    "trackName": "守護者 OL2",
+    "firstRecordedAt": 1787620330936
+  },
+  {
+    "trackId": 6760764479,
+    "region": "mo",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Saha Ekip Modu",
+        "from": "USD 4.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6760764479",
+    "trackName": "Alpin Quest PRO – Outdoor GPS",
+    "firstRecordedAt": 1786025220529
+  },
+  {
+    "trackId": 6752662508,
+    "region": "mo",
+    "timestamp": 1791042403719,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6752662508",
+    "trackName": "時光軌跡 · GPS足跡路線記錄儀",
+    "firstRecordedAt": 1788345787844
+  },
+  {
     "trackId": 931188326,
     "region": "mo",
     "timestamp": 1790885290521,
@@ -20262,7 +20342,7 @@
         "name": "Price",
         "from": "USD 0.69",
         "to": "USD 0.29",
-        "range": "[USD 0.29 ~ USD 7.49]"
+        "range": "[免費 ~ USD 7.49]"
       }
     ],
     "price": 0.29,
@@ -34587,7 +34667,7 @@
         "name": "Price",
         "from": "USD 7.49",
         "to": "USD 0.29",
-        "range": "[USD 0.29 ~ USD 7.49]"
+        "range": "[免費 ~ USD 7.49]"
       }
     ],
     "price": 0.29,
@@ -36747,7 +36827,7 @@
         "name": "Price",
         "from": "USD 0.59",
         "to": "USD 0.29",
-        "range": "[USD 0.29 ~ USD 7.49]"
+        "range": "[免費 ~ USD 7.49]"
       }
     ],
     "price": 0.29,
@@ -36948,7 +37028,7 @@
         "name": "Price",
         "from": "USD 0.59",
         "to": "USD 0.29",
-        "range": "[USD 0.29 ~ USD 7.49]"
+        "range": "[免費 ~ USD 7.49]"
       },
       {
         "type": "inAppPurchase",

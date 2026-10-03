@@ -47566,7 +47566,7 @@
     ]
   },
   "525956148": {
-    "name": "Flight tracker Pro Plane Radar",
+    "name": "Flight Tracker Pro Plane Radar",
     "maxPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",
@@ -281188,6 +281188,14 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -287071,10 +287079,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788345787844,
@@ -288514,6 +288530,27 @@
           "timestamp": 1790999952664,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758677190": {
+    "name": "ReefLens: Reef & Scuba Camera",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
           "inAppPurchases": {}
         }
       ]

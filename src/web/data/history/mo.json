@@ -13324,6 +13324,25 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Rank Up +2 Ranks": "USD 0.99",
+            "Double Cash": "USD 2.99",
+            "Healthy Bananas": "USD 1.99",
+            "Explosive Darts": "USD 1.99",
+            "Double Ranga": "USD 1.99",
+            "Monkey Tycoon": "USD 0.99",
+            "Frag Bombs": "USD 0.99",
+            "Digital Amplification": "USD 0.99",
+            "Dreadnought": "USD 0.99",
+            "Crystal Ball": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788122280956,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -103600,6 +103619,25 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790437951279,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -137044,8 +137082,8 @@
       "Full scenarios": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "Big pack": "USD 4.99",
       "Medium pack": "USD 2.29",
       "Small Pack": "USD 0.49",
@@ -137055,6 +137093,19 @@
       "Full scenarios": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full scenarios": "USD 0.99",
+            "+2026 boosters ECO-Initiative!": "USD 4.29",
+            "+444! Triple-Four Booster Pack": "USD 2.00",
+            "+100 boosters ECO-Initiative!": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771144950749,
@@ -151283,6 +151334,14 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790267673376,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -164588,6 +164647,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791042403719,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "一屋子寶石": "USD 99.99",
+            "一礦車寶石": "USD 49.99",
+            "一大箱寶石": "USD 19.99",
+            "一小箱寶石": "USD 9.99",
+            "一小袋寶石": "USD 4.99",
+            "一把寶石": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1790977922515,
           "price": 5.99,
@@ -211178,9 +211250,19 @@
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99",
-      "Saha Ekip Modu": "USD 4.99"
+      "Saha Ekip Modu": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Saha Ekip Modu": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -212287,10 +212369,18 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788345787844,
@@ -213370,6 +213460,29 @@
           "timestamp": 1790999952664,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758677190": {
+    "trackId": 6758677190,
+    "trackName": "ReefLens: Reef & Scuba Camera",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
         }
       ]

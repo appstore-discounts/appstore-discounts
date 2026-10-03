@@ -33894,6 +33894,25 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "ISAAC'S NEW TONES": "¥8.00",
+            "GROOVY GUT SHAKER": "¥15.00",
+            "DARK DUNGEON OF DESPAIR": "¥8.00",
+            "CAMPBELL'S CANS": "¥8.00",
+            "BEEPING BOBBIE": "¥0.00",
+            "FUSION FLIPPO": "¥8.00",
+            "BLADE OF JUSTICE": "¥8.00",
+            "DEEP BLUE": "¥0.00",
+            "HIGH FIVE": "¥8.00",
+            "LOW RIDER": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789386910265,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -87185,6 +87204,25 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790437951279,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -139643,6 +139681,25 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "战斗奖励双倍": "¥12.00",
+            "60金砖": "¥6.00",
+            "300金砖": "¥30.00",
+            "120金砖": "¥12.00",
+            "680金砖": "¥68.00",
+            "深度高级特训": "¥98.00",
+            "月卡": "¥30.00",
+            "高级特训": "¥68.00",
+            "980金砖": "¥98.00",
+            "1280金砖": "¥128.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790857883196,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -169615,6 +169672,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791042403719,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥6.00",
+            "DLC：怪物联盟": "¥9.00",
+            "DLC：龙之神庙": "¥7.00",
+            "DLC：贪婪洞窟": "¥4.00",
+            "DLC：外星入侵": "¥6.00",
+            "DLC：异界": "¥6.00",
+            "DLC：魔法之镜": "¥2.00",
+            "DLC：邪恶之心": "¥9.00",
+            "奇境森林": "¥13.00"
+          }
+        },
         {
           "timestamp": 1791025831979,
           "price": 12,
@@ -229012,6 +229086,14 @@
     "history": [
       [
         {
+          "timestamp": 1791042403719,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -232882,9 +232964,19 @@
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "¥68.00",
-      "Saha Ekip Modu": "¥38.00"
+      "Saha Ekip Modu": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Saha Ekip Modu": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790267673376,
@@ -233323,10 +233415,18 @@
       "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788345787844,
@@ -233991,6 +234091,29 @@
           "timestamp": 1790885290521,
           "price": 88,
           "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758677190": {
+    "trackId": 6758677190,
+    "trackName": "ReefLens: Reef & Scuba Camera",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791042403719,
+          "price": 48,
+          "formattedPrice": "¥48.00",
           "inAppPurchases": {}
         }
       ]
