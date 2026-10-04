@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 6469419567,
+    "region": "tr",
+    "timestamp": 1791114629972,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Standard Pack",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺4,99 ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "₺299,99",
+        "to": "₺249,99",
+        "range": "[₺59,99 ~ ₺299,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Advanced Pack",
+        "from": "₺149,99",
+        "to": "₺99,99",
+        "range": "[₺19,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "₺4,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 6760764479,
     "region": "tr",
     "timestamp": 1791070314470,

@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 6469419567,
+    "region": "tw",
+    "timestamp": 1791114629972,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "$190.00",
+        "to": "$150.00",
+        "range": "[$120.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Advanced Pack",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Standard Pack",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$20.00 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 926177061,
     "region": "tw",
     "timestamp": 1791059903104,

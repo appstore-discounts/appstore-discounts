@@ -10975,6 +10975,25 @@
     "history": [
       [
         {
+          "timestamp": 1791114629972,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00",
+            "Verdi: The Mutopia Collection": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789727937882,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -48296,6 +48315,29 @@
       ]
     ]
   },
+  "553145544": {
+    "trackId": 553145544,
+    "trackName": "FlashFace Full",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791114629972,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "554937499": {
     "trackId": 554937499,
     "trackName": "Earn to Die",
@@ -48435,6 +48477,29 @@
       [
         {
           "timestamp": 1789642962261,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "560913934": {
+    "trackId": 560913934,
+    "trackName": "FlashFace Woman",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791114629972,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
@@ -256763,6 +256828,19 @@
       "Standard Pack": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791114629972,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Elite Pack": "HK$ 38.00",
+            "Premium Pack": "HK$ 32.00",
+            "Advanced Pack": "HK$ 18.00",
+            "Standard Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791025831979,

@@ -29162,6 +29162,23 @@
     "history": [
       [
         {
+          "timestamp": 1791114629972,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        },
+        {
           "timestamp": 1791088289653,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -49701,6 +49718,27 @@
       ]
     ]
   },
+  "553145544": {
+    "name": "FlashFace Full",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791114629972,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "554937499": {
     "name": "Earn to Die",
     "maxPriceInfo": {
@@ -49828,6 +49866,27 @@
       [
         {
           "timestamp": 1789642962261,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "560913934": {
+    "name": "FlashFace Woman",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791114629972,
           "price": 120,
           "formattedPrice": "$120.00",
           "inAppPurchases": {}
@@ -103682,6 +103741,25 @@
       "第5級即時猴子包": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791114629972,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄推動器": "$60.00",
+            "全塔解鎖": "$150.00",
+            "猴幣": "$60.00",
+            "一堆猴幣": "$150.00",
+            "一保險庫的猴幣": "$690.00",
+            "猴幣山": "$1,490.00",
+            "塔XP": "$30.00",
+            "雙現金模式": "$590.00",
+            "知識已解鎖": "$320.00",
+            "知識點": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789356898180,
@@ -256709,6 +256787,19 @@
       "Standard Pack": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791114629972,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Elite Pack": "$150.00",
+            "Premium Pack": "$120.00",
+            "Advanced Pack": "$60.00",
+            "Standard Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790999952664,

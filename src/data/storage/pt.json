@@ -26306,6 +26306,27 @@
       ]
     ]
   },
+  "553145544": {
+    "name": "FlashFace Full",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791114629972,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "554937499": {
     "name": "Earn to Die",
     "maxPriceInfo": {
@@ -26425,6 +26446,27 @@
       [
         {
           "timestamp": 1789642962261,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "560913934": {
+    "name": "FlashFace Woman",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791114629972,
           "price": 3.99,
           "formattedPrice": "3,99 €",
           "inAppPurchases": {}
@@ -123274,6 +123316,19 @@
     "history": [
       [
         {
+          "timestamp": 1791114629972,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Premium Pack": "3,99 €",
+            "Standard Pack": "0,99 €",
+            "Elite Pack": "5,99 €",
+            "Advanced Pack": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790999952664,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -123393,6 +123448,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791114629972,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "John Deere 8R 410": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "Claas Xerion 5000": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Mack Trucks Black Anthem 6x4": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Versatile 4WD 620": "2,49 €"
+          }
+        },
         {
           "timestamp": 1791088289653,
           "price": 5.99,
