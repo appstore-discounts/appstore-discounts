@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "us",
+    "timestamp": 1791147283290,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[Free ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
     "trackId": 6469419567,
     "region": "us",
     "timestamp": 1791114629972,
@@ -90,7 +110,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752662508",
-    "trackName": "TimeTrails: GPS Route Tracker",
+    "trackName": "Footprint|TimeTrails·GPS Route",
     "firstRecordedAt": 1788345787844
   },
   {

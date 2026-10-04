@@ -70,7 +70,7 @@ So far, we've covered `7` `Countries or Regions` and  `2312` `Apps` <br />Push n
 |2252|6748895212|Automatic|蓝牙调试工具箱 - 蓝牙调试助手、蓝牙助手、蓝牙调试、BLE|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|Bluetooth Toolbox-BLE Debugger|Bluetooth Toolbox-BLE Debugger|Caixa Bluetooth-Depurador BLE|
 |2251|6794812402|Automatic|❌|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|
 |2250|6760777178|Automatic|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|
-|2249|6752662508|Automatic|时光轨迹 · GPS足迹路线记录仪|時光軌跡 · GPS足跡路線記錄儀|時光軌跡 · GPS足跡路線記錄儀|時光軌跡 · GPS足跡路線記錄儀|TimeTrails: GPS Route Tracker|TimeTrails: GPS Route Tracker|TimeTrails: Rastreador GPS|
+|2249|6752662508|Automatic|足迹|TimeTrails·每日轨迹·记录一生轨迹·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprint|TimeTrails·GPS Route|Footprint|TimeTrails·GPS Route|Pegadas|TimeTrails·GPS|
 |2248|6804442508|Automatic|❌|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|
 |2247|1162580001|Automatic|❌|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|
 |2246|6478526459|Automatic|❌|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|
@@ -930,7 +930,7 @@ So far, we've covered `7` `Countries or Regions` and  `2312` `Apps` <br />Push n
 |1392|1551546168|Automatic|❌|中文認字遊戲(無廣告版）|中文認字遊戲(無廣告版）|中文認字遊戲(無廣告版）|Find Chinese Word - Full Ver|Find Chinese Word - Full Ver|Find Chinese Word - Full Ver|
 |1391|6474672665|Automatic|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|Automatic|MyScoreTracker – 计分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – Score Counter|MyScoreTracker – Score Counter|MyScoreTracker – Marcador|
-|1389|513370441|Automatic|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|
+|1389|513370441|Automatic|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|
 |1388|6752503669|Automatic|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
 |1387|1148617550|Automatic|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|Automatic|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
@@ -1079,7 +1079,7 @@ So far, we've covered `7` `Countries or Regions` and  `2312` `Apps` <br />Push n
 |1243|727466621|Automatic|❌|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|
 |1242|1578669842|Automatic|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|
 |1241|1640679491|Automatic|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
-|1240|6569254072|Automatic|Watch闪卡|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|
+|1240|6569254072|Automatic|Watch闪卡|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|
 |1239| ~~6748376912~~ |Automatic| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ | ~~❌~~ |
 |1238| ~~1533979882~~ |Automatic| ~~❌~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ |
 |1237|1466088186|Automatic|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|
