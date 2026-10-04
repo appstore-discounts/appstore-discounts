@@ -26992,7 +26992,10 @@
       "11,250 Geniz": "USD 0.99",
       "礼包65币": "USD 2.99",
       "礼包40币": "USD 1.99",
-      "礼包15币": "USD 1.99"
+      "礼包15币": "USD 1.99",
+      "礼包5币": "USD 0.99",
+      "礼包25币": "USD 5.99",
+      "礼包50币": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -27004,9 +27007,25 @@
       "11,250 Geniz": "USD 0.99",
       "礼包65币": "USD 2.99",
       "礼包40币": "USD 1.99",
-      "礼包15币": "USD 1.99"
+      "礼包15币": "USD 1.99",
+      "礼包5币": "USD 0.99",
+      "礼包25币": "USD 5.99",
+      "礼包50币": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791088289653,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "礼包5币": "USD 0.99",
+            "礼包15币": "USD 1.99",
+            "礼包25币": "USD 5.99",
+            "礼包50币": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -105326,6 +105345,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791088289653,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Crop": "USD 0.00",
+            "Sticker": "USD 0.00",
+            "Splice": "USD 0.00",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00",
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Paint": "USD 0.00",
+            "Rotate": "USD 0.00",
+            "Chromakey": "USD 0.00"
+          }
+        },
         {
           "timestamp": 1791070314470,
           "price": 0.99,
