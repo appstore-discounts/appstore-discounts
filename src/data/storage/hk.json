@@ -73952,19 +73952,27 @@
     ]
   },
   "926177061": {
-    "name": "TinType - Hipstamatic",
+    "name": "TinType - 錫版相機",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
       "TinType 無限版": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "TinType 無限版": "HK$ 88.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1791070314470,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "TinType 無限版": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1791059903104,
           "price": 8,
@@ -298071,6 +298079,25 @@
       "塔 鍊金術師小屋": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791070314470,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "全英雄禮包": "HK$ 228.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "塔 哨兵瞭望塔": "HK$ 48.00",
+            "塔 鍊金術師小屋": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,

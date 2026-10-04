@@ -58845,12 +58845,20 @@
       "TinType 無限版": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "TinType 無限版": "USD 9.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1791070314470,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "TinType 無限版": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1791059903104,
           "price": 0.99,
@@ -103543,6 +103551,25 @@
       "Collage": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791070314470,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Remove the Ad": "USD 0.99",
+            "Crop": "USD 0.00",
+            "Dub and Audio": "USD 0.99",
+            "Pixelate": "USD 0.99",
+            "Filter": "USD 0.99",
+            "Add Text": "USD 0.99",
+            "Convert into Gif": "USD 0.99",
+            "Splice": "USD 0.00",
+            "Border": "USD 0.99",
+            "Sticker": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785667244351,

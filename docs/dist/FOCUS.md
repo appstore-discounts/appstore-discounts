@@ -252,7 +252,7 @@ So far, we've covered `7` `Countries or Regions` and  `2310` `Apps` <br />Push n
 |2068|6443677513|Automatic|Keka •|Keka •|Keka •|Keka •|Keka|Keka|Keka|
 |2067|6759284932|Automatic|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
 |2066|1182217891|Automatic|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|
-|2065|6762279908|Automatic|DayGrid: 데일리스케줄·시간표·플래너·일정관리|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid: Hourly Daily Planner|DayGrid: Hourly Daily Planner|DayGrid: 데일리스케줄, 하루 계획표|
+|2065|6762279908|Automatic|DayGrid: 데일리스케줄, 하루 계획표|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid：每日計畫表・時間表・時間管理・行程管理|DayGrid: Hourly Daily Planner|DayGrid: Hourly Daily Planner|DayGrid: 데일리스케줄, 하루 계획표|
 |2064|6778099993|Automatic|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|Manager for Scooters|
 |2063|1671507777|Automatic|❌|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|
 |2062|6777748394|Automatic|38-0|38-0|38-0|38-0|38-0|38-0|38-0|
@@ -1252,7 +1252,7 @@ So far, we've covered `7` `Countries or Regions` and  `2310` `Apps` <br />Push n
 |1068|1534488108|Automatic|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|SessionBand Jazz 4|
 |1067|1561849298|Automatic|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|SessionBand Soul Jazz Funk 3|
 |1066|1261698956|Automatic|Accurate钢琴调音器|Accurate鋼琴調音器|Accurate鋼琴調音器|Accurate鋼琴調音器|Accurate Piano Tuner|Accurate Piano Tuner|Sintonizador de Piano|
-|1065|926177061|Automatic|Hipstamatic的TinType|TinType - Hipstamatic|TinType - 錫版相機|TinType - 錫版相機|TinType - Wet Plate Camera|TinType - Wet Plate Camera|TinType - Câmera de ferrótipo|
+|1065|926177061|Automatic|TinType - 锡版相机|TinType - 錫版相機|TinType - 錫版相機|TinType - 錫版相機|TinType - Wet Plate Camera|TinType - Wet Plate Camera|TinType - Câmera de ferrótipo|
 |1064|6743422824|Automatic|❌|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|Pixel Paws - Virtual Pet Toy|
 |1063|885792725|Automatic|❌|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|THE KING OF FIGHTERS '98|
 |1062|1577752006|Automatic|Soccer Plus: 足球数据与热图追踪|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: 足球數據與熱圖追蹤|Soccer Plus: Football Tracker|Soccer Plus: Football Tracker|Soccer Plus: Rastreador Futbol|
