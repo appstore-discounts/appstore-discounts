@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1630541373,
+    "region": "us",
+    "timestamp": 1791237018351,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1630541373",
+    "trackName": "Private Album - PRAM",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 1437211990,
     "region": "us",
     "timestamp": 1791207805972,
@@ -18,33 +38,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1437211990",
     "trackName": "Raid Manager",
     "firstRecordedAt": 1751072431721
-  },
-  {
-    "trackId": 1630541373,
-    "region": "us",
-    "timestamp": 1791207805972,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$0.99",
-        "to": "Free",
-        "range": "[Free ~ $0.99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Buy Pro Version",
-        "from": "$1.99",
-        "to": "$0.00",
-        "range": "[$0.00 ~ $2.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id1630541373",
-    "trackName": "Private Album - PRAM",
-    "firstRecordedAt": 1722784406759
   },
   {
     "trackId": 1287138671,

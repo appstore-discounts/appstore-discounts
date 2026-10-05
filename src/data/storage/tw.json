@@ -198846,6 +198846,25 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Founders Pack": "$30.00",
+            "Marco character": "$30.00",
+            "Manuel character": "$30.00",
+            "Stephan character": "$30.00",
+            "Jack character": "$30.00",
+            "Elsa character": "$30.00",
+            "Lisa character": "$0.00",
+            "James character": "$30.00",
+            "Yellow menu color": "$30.00",
+            "Red menu color": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787423346326,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -216455,6 +216474,16 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791207805972,
           "price": 0,
           "formattedPrice": "免費",
@@ -217969,6 +217998,21 @@
       "一礦車寶石": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "一小箱寶石": "$320.00",
+            "一把寶石": "$30.00",
+            "一小袋寶石": "$150.00",
+            "一屋子寶石": "$2,990.00",
+            "一大箱寶石": "$690.00",
+            "一礦車寶石": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -291528,6 +291572,22 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "盛世全集": "$390.00",
+            "女帝篇": "$270.00",
+            "媚娘篇": "$165.00",
+            "648000破蛋": "$2,750.00",
+            "328000破蛋": "$1,400.00",
+            "68000破蛋": "$300.00",
+            "128000破蛋": "$550.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791173827832,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -303778,6 +303838,25 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "深淵開拓者": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "尼奧貝希摩斯": "$60.00",
+            "超越精華": "$990.00",
+            "隱月造型套裝": "$320.00",
+            "永恆方舟": "$990.00",
+            "訓練記憶": "$590.00",
+            "魔界通行證1": "$90.00",
+            "時間旅行者": "$190.00",
+            "深淵精華": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790999952664,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -311237,6 +311316,27 @@
           "timestamp": 1791042403719,
           "price": 220,
           "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6811858851": {
+    "name": "麻將16張",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

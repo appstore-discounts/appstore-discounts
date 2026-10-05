@@ -160988,6 +160988,25 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "自建武将皮肤4": "USD 3.99",
+            "自建武将皮肤3": "USD 9.99",
+            "自建武将皮肤2": "USD 3.99",
+            "自创武将皮肤1": "USD 9.99",
+            "一袋碎片": "USD 49.99",
+            "一堆碎片": "USD 3.99",
+            "自定义武将席位6": "USD 3.99",
+            "自定义武将席位4": "USD 3.99",
+            "自定义武将席位5": "USD 3.99",
+            "自定义武将席位3": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791207805972,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -161420,6 +161439,16 @@
       "Buy Pro Version": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -162120,6 +162149,21 @@
       "一把寶石": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "一屋子寶石": "USD 99.99",
+            "一礦車寶石": "USD 49.99",
+            "一大箱寶石": "USD 19.99",
+            "一小箱寶石": "USD 9.99",
+            "一小袋寶石": "USD 4.99",
+            "一把寶石": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -209582,6 +209626,27 @@
           "timestamp": 1791042403719,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6811858851": {
+    "name": "麻將16張",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

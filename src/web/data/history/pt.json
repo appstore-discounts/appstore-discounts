@@ -2552,6 +2552,25 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "34,99 €",
+            "LUFS Meter": "9,99 €",
+            "HAA CinemaTools with HAA Link": "179,99 €",
+            "HAA Link": "9,99 €",
+            "HAA Pro Module": "22,99 €",
+            "SPL Enhance": "44,99 €",
+            "All-In Module Access": "9,99 €",
+            "HAA Upgrade to Pro": "449,99 €",
+            "HAA Pro Installer Calibration": "599,99 €",
+            "HAA Home Theater": "99,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788950979690,
           "price": 22.99,
           "formattedPrice": "22,99 €",
@@ -49644,7 +49663,10 @@
       "Skip the turn disc puzzle": "0,99 €",
       "Skip the Tetris puzzle": "0,99 €",
       "Skip the doors maze": "0,99 €",
-      "Skip the fill color puzzle": "0,99 €"
+      "Skip the fill color puzzle": "0,99 €",
+      "Skip the 24 point math problem": "0,99 €",
+      "Skip the engine puzzle": "0,99 €",
+      "Skip the algebra problem": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -49658,9 +49680,31 @@
       "Skip the turn disc puzzle": "0,99 €",
       "Skip the Tetris puzzle": "0,99 €",
       "Skip the doors maze": "0,99 €",
-      "Skip the fill color puzzle": "0,99 €"
+      "Skip the fill color puzzle": "0,99 €",
+      "Skip the 24 point math problem": "0,99 €",
+      "Skip the engine puzzle": "0,99 €",
+      "Skip the algebra problem": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Skip the 24 point math problem": "0,99 €",
+            "Skip the engine puzzle": "0,99 €",
+            "Skip the algebra problem": "0,99 €",
+            "Skip the fill color puzzle": "0,99 €",
+            "Skip the doors maze": "0,99 €",
+            "Skip the Tetris puzzle": "0,99 €",
+            "Skip the turn disc puzzle": "0,99 €",
+            "Skip the microscope puzzle": "0,99 €",
+            "Skip the last puzzle": "0,99 €",
+            "Skip the halma puzzle": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -57197,6 +57241,25 @@
       "A Large Bag of Gems": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Promoção Pack 5": "17,99 €",
+            "Promover Pack 4": "9,99 €",
+            "Promover Pack 3": "8,99 €",
+            "Promover Pack 2": "5,99 €",
+            "Promover Pacote 1": "2,99 €",
+            "Ranhura Mochila Dupla": "1,99 €",
+            "Genius Big Deal Pack": "1,99 €",
+            "Boxer Big Deal Pack": "1,99 €",
+            "Double Bonus": "1,99 €",
+            "A Large Bag of Gems": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787672459010,
@@ -103714,6 +103777,14 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Buy Pro Version": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1791207805972,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -126868,6 +126939,25 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "John Deere 8R 410": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Claas Xerion 5000": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Mack Trucks Black Anthem 6x4": "2,49 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791114629972,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -146086,6 +146176,14 @@
     "history": [
       [
         {
+          "timestamp": 1791237018351,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791042403719,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -147295,6 +147393,29 @@
           "timestamp": 1791042403719,
           "price": 7.99,
           "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6811858851": {
+    "trackId": 6811858851,
+    "trackName": "麻將16張",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791237018351,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
