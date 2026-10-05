@@ -101456,8 +101456,8 @@
   "1632719015": {
     "name": "Guardian OL2",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
       "One house gem": "99,99 €",
       "A mine car gem": "59,99 €",
       "A large box of gemstones": "22,99 €",
@@ -101476,6 +101476,21 @@
       "a small handful of gem": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791173827832,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "One house gem": "99,99 €",
+            "A mine car gem": "59,99 €",
+            "A large box of gemstones": "22,99 €",
+            "A small box of gemstones": "9,99 €",
+            "A small bag of precious stones": "5,99 €",
+            "a small handful of gem": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791025831979,
