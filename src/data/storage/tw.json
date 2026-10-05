@@ -59850,6 +59850,58 @@
       ]
     ]
   },
+  "650684932": {
+    "name": "OBD Fusion",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "Toyota 2021 Enhanced": "$490.00",
+      "Mazda 2017 Enhanced": "$490.00",
+      "Mazda 2024 Enhanced": "$490.00",
+      "Nissan 2012 Enhanced": "$490.00",
+      "Ford 2017 Enhanced": "$490.00",
+      "Mazda 2016 Enhanced Diagnostics": "$490.00",
+      "Ford 2013 Enhanced Diagnostics": "$490.00",
+      "Ford 2026 Enhanced": "$490.00",
+      "Mazda 2026 Enhanced": "$490.00",
+      "Mazda 2025 Enhanced": "$490.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "Toyota 2021 Enhanced": "$490.00",
+      "Mazda 2017 Enhanced": "$490.00",
+      "Mazda 2024 Enhanced": "$490.00",
+      "Nissan 2012 Enhanced": "$490.00",
+      "Ford 2017 Enhanced": "$490.00",
+      "Mazda 2016 Enhanced Diagnostics": "$490.00",
+      "Ford 2013 Enhanced Diagnostics": "$490.00",
+      "Ford 2026 Enhanced": "$490.00",
+      "Mazda 2026 Enhanced": "$490.00",
+      "Mazda 2025 Enhanced": "$490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791207805972,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Toyota 2021 Enhanced": "$490.00",
+            "Mazda 2017 Enhanced": "$490.00",
+            "Mazda 2024 Enhanced": "$490.00",
+            "Nissan 2012 Enhanced": "$490.00",
+            "Ford 2017 Enhanced": "$490.00",
+            "Mazda 2016 Enhanced Diagnostics": "$490.00",
+            "Ford 2013 Enhanced Diagnostics": "$490.00",
+            "Ford 2026 Enhanced": "$490.00",
+            "Mazda 2026 Enhanced": "$490.00",
+            "Mazda 2025 Enhanced": "$490.00"
+          }
+        }
+      ]
+    ]
+  },
   "655607914": {
     "name": "Drumtune PRO | Drum Tuner",
     "maxPriceInfo": {
@@ -63242,6 +63294,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791207805972,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Race Pass": "$160.00",
+            "700 Aces": "$320.00",
+            "300 Aces": "$190.00",
+            "5000 Aces": "$1,290.00",
+            "15000 Aces": "$2,990.00",
+            "700 Aces Limited Time Offer": "$150.00",
+            "10 Pack Qualifying Tyres": "$30.00",
+            "Racing Prodigy X30 Kart Miami": "$490.00",
+            "RP Value Tyre Pack - Mediums": "$150.00",
+            "Racing Prodigy X30 La Conca L4": "$490.00"
+          }
+        },
         {
           "timestamp": 1791173827832,
           "price": 90,
@@ -148597,6 +148666,18 @@
     "history": [
       [
         {
+          "timestamp": 1791207805972,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "30,000鑽石": "$790.00",
+            "5,000鑽石": "$150.00",
+            "15,000鑽石": "$390.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790419954498,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -184335,6 +184416,12 @@
     "history": [
       [
         {
+          "timestamp": 1791207805972,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1791147283290,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -216368,6 +216455,16 @@
     "history": [
       [
         {
+          "timestamp": 1791207805972,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1736348537474,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -217852,8 +217949,8 @@
   "1632719015": {
     "name": "守護者 OL2",
     "maxPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00",
+      "price": 220,
+      "formattedPrice": "$220.00",
       "一小箱寶石": "$320.00",
       "一小袋寶石": "$150.00",
       "一大箱寶石": "$690.00",
@@ -217872,6 +217969,21 @@
       "一礦車寶石": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791207805972,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "一小箱寶石": "$320.00",
+            "一把寶石": "$30.00",
+            "一小袋寶石": "$150.00",
+            "一屋子寶石": "$2,990.00",
+            "一大箱寶石": "$690.00",
+            "一礦車寶石": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,
@@ -309817,6 +309929,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791207805972,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,

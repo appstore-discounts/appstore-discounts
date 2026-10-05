@@ -1,23 +1,50 @@
 [
   {
-    "trackId": 1500126852,
+    "trackId": 1437211990,
     "region": "mo",
-    "timestamp": 1791147283290,
+    "timestamp": 1791207805972,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
-        "from": "USD 2.99",
-        "to": "USD 0.99",
-        "range": "[免費 ~ USD 2.99]"
+        "from": "USD 5.99",
+        "to": "USD 2.99",
+        "range": "[USD 1.99 ~ USD 5.99]"
       }
     ],
-    "price": 0.99,
-    "formattedPrice": "USD 0.99",
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
     "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id1500126852",
-    "trackName": "Chord",
-    "firstRecordedAt": 1763541298729
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1437211990",
+    "trackName": "地下城與治療者 : Raid Manager",
+    "firstRecordedAt": 1751072431721
+  },
+  {
+    "trackId": 1630541373,
+    "region": "mo",
+    "timestamp": 1791207805972,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Buy Pro Version",
+        "from": "USD 1.99",
+        "to": "USD 0.00",
+        "range": "[USD 0.00 ~ USD 2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1630541373",
+    "trackName": "Private Album - PRAM",
+    "firstRecordedAt": 1722784406759
   },
   {
     "trackId": 1287138671,
@@ -123,7 +150,7 @@
         "name": "Price",
         "from": "USD 1.49",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 5.99]"
+        "range": "[USD 0.99 ~ USD 6.99]"
       }
     ],
     "price": 0.99,
@@ -1265,7 +1292,7 @@
         "name": "Price",
         "from": "USD 5.99",
         "to": "USD 1.49",
-        "range": "[USD 0.99 ~ USD 5.99]"
+        "range": "[USD 0.99 ~ USD 6.99]"
       }
     ],
     "price": 1.49,

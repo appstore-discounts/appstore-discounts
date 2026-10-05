@@ -1,23 +1,70 @@
 [
   {
-    "trackId": 1500126852,
+    "trackId": 1437211990,
     "region": "hk",
-    "timestamp": 1791147283290,
+    "timestamp": 1791207805972,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
-        "from": "HK$ 22.00",
-        "to": "HK$ 8.00",
-        "range": "[免費 ~ HK$ 22.00]"
+        "from": "HK$ 48.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 18.00 ~ HK$ 48.00]"
       }
     ],
-    "price": 8,
-    "formattedPrice": "HK$ 8.00",
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
     "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1500126852",
-    "trackName": "Chord",
-    "firstRecordedAt": 1763541298729
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1437211990",
+    "trackName": "地下城與治療者 : Raid Manager",
+    "firstRecordedAt": 1751072431721
+  },
+  {
+    "trackId": 1630541373,
+    "region": "hk",
+    "timestamp": 1791207805972,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Buy Pro Version",
+        "from": "HK$ 18.00",
+        "to": "HK$ 0.00",
+        "range": "[HK$ 0.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1630541373",
+    "trackName": "Private Album - PRAM",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1662217862,
+    "region": "hk",
+    "timestamp": 1791207805972,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Filtr",
+        "from": "HK$ 188.00",
+        "to": "HK$ 38.00",
+        "range": "[HK$ 38.00 ~ HK$ 188.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1662217862",
+    "trackName": "Wipr 2",
+    "firstRecordedAt": 1745328692670
   },
   {
     "trackId": 1287138671,
@@ -109,7 +156,7 @@
         "name": "Price",
         "from": "HK$ 12.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 8,
@@ -1271,7 +1318,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 12,

@@ -31405,6 +31405,60 @@
       ]
     ]
   },
+  "650684932": {
+    "trackId": 650684932,
+    "trackName": "OBD Fusion",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Toyota 2018 Enhanced": "17,99 €",
+      "Toyota 2014 Enhanced Diagnostics": "17,99 €",
+      "Toyota 2010 Enhanced Diagnostics": "17,99 €",
+      "Mazda 2016 Enhanced Diagnostics": "17,99 €",
+      "Mazda 2015 Enhanced Diagnostics": "17,99 €",
+      "Ford 2026 Enhanced": "17,99 €",
+      "Mazda 2026 Enhanced": "17,99 €",
+      "Mazda 2025 Enhanced": "17,99 €",
+      "FCA 2026": "17,99 €",
+      "Ford 2025 Enhanced": "17,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Toyota 2018 Enhanced": "17,99 €",
+      "Toyota 2014 Enhanced Diagnostics": "17,99 €",
+      "Toyota 2010 Enhanced Diagnostics": "17,99 €",
+      "Mazda 2016 Enhanced Diagnostics": "17,99 €",
+      "Mazda 2015 Enhanced Diagnostics": "17,99 €",
+      "Ford 2026 Enhanced": "17,99 €",
+      "Mazda 2026 Enhanced": "17,99 €",
+      "Mazda 2025 Enhanced": "17,99 €",
+      "FCA 2026": "17,99 €",
+      "Ford 2025 Enhanced": "17,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791207805972,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Toyota 2018 Enhanced": "17,99 €",
+            "Toyota 2014 Enhanced Diagnostics": "17,99 €",
+            "Toyota 2010 Enhanced Diagnostics": "17,99 €",
+            "Mazda 2016 Enhanced Diagnostics": "17,99 €",
+            "Mazda 2015 Enhanced Diagnostics": "17,99 €",
+            "Ford 2026 Enhanced": "17,99 €",
+            "Mazda 2026 Enhanced": "17,99 €",
+            "Mazda 2025 Enhanced": "17,99 €",
+            "FCA 2026": "17,99 €",
+            "Ford 2025 Enhanced": "17,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "655607914": {
     "trackId": 655607914,
     "trackName": "Drumtune PRO | Drum Tuner",
@@ -72164,6 +72218,18 @@
     "history": [
       [
         {
+          "timestamp": 1791207805972,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "5,000 diamonds": "5,99 €",
+            "15,000 diamonds": "12,99 €",
+            "30,000 diamonds": "24,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790419954498,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -85458,6 +85524,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791207805972,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791147283290,
@@ -103633,11 +103707,21 @@
       "Buy Pro Version": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
-      "Buy Pro Version": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Buy Pro Version": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791207805972,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Buy Pro Version": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -104127,6 +104211,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791207805972,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "One house gem": "99,99 €",
+            "A mine car gem": "59,99 €",
+            "A large box of gemstones": "22,99 €",
+            "A small box of gemstones": "9,99 €",
+            "A small bag of precious stones": "5,99 €",
+            "a small handful of gem": "0,99 €"
+          }
+        },
         {
           "timestamp": 1791173827832,
           "price": 7.99,

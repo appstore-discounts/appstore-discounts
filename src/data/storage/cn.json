@@ -33416,6 +33416,58 @@
       ]
     ]
   },
+  "650684932": {
+    "name": "OBD Fusion",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00",
+      "Toyota 2019 Enhanced": "¥98.00",
+      "FCA 2017": "¥98.00",
+      "Toyota 2014 Enhanced Diagnostics": "¥98.00",
+      "Ford 2026 Enhanced": "¥98.00",
+      "Mazda 2026 Enhanced": "¥98.00",
+      "Mazda 2025 Enhanced": "¥98.00",
+      "FCA 2026": "¥98.00",
+      "Ford 2025 Enhanced": "¥98.00",
+      "Mitsubishi 2024": "¥98.00",
+      "Mitsubishi 2023": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00",
+      "Toyota 2019 Enhanced": "¥98.00",
+      "FCA 2017": "¥98.00",
+      "Toyota 2014 Enhanced Diagnostics": "¥98.00",
+      "Ford 2026 Enhanced": "¥98.00",
+      "Mazda 2026 Enhanced": "¥98.00",
+      "Mazda 2025 Enhanced": "¥98.00",
+      "FCA 2026": "¥98.00",
+      "Ford 2025 Enhanced": "¥98.00",
+      "Mitsubishi 2024": "¥98.00",
+      "Mitsubishi 2023": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791207805972,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Toyota 2019 Enhanced": "¥98.00",
+            "FCA 2017": "¥98.00",
+            "Toyota 2014 Enhanced Diagnostics": "¥98.00",
+            "Ford 2026 Enhanced": "¥98.00",
+            "Mazda 2026 Enhanced": "¥98.00",
+            "Mazda 2025 Enhanced": "¥98.00",
+            "FCA 2026": "¥98.00",
+            "Ford 2025 Enhanced": "¥98.00",
+            "Mitsubishi 2024": "¥98.00",
+            "Mitsubishi 2023": "¥98.00"
+          }
+        }
+      ]
+    ]
+  },
   "655607914": {
     "name": "Drumtune PRO | Drum Tuner",
     "maxPriceInfo": {
@@ -124552,6 +124604,12 @@
     "history": [
       [
         {
+          "timestamp": 1791207805972,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1791147283290,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -158193,6 +158251,16 @@
     "history": [
       [
         {
+          "timestamp": 1791207805972,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁专业版(Pro)": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760941181671,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -168039,6 +168107,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791207805972,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥6.00",
+            "DLC：怪物联盟": "¥9.00",
+            "DLC：龙之神庙": "¥7.00",
+            "DLC：贪婪洞窟": "¥4.00",
+            "DLC：外星入侵": "¥6.00",
+            "DLC：异界": "¥6.00",
+            "DLC：魔法之镜": "¥2.00",
+            "新世界启程礼": "¥68.00",
+            "DLC：邪恶之心": "¥9.00"
+          }
+        },
         {
           "timestamp": 1791173827832,
           "price": 12,

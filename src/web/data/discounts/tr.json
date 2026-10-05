@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 1437211990,
+    "region": "tr",
+    "timestamp": 1791207805972,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺149,99",
+        "range": "[₺99,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1437211990",
+    "trackName": "Raid Manager",
+    "firstRecordedAt": 1751072431721
+  },
+  {
+    "trackId": 1630541373,
+    "region": "tr",
+    "timestamp": 1791207805972,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Buy Pro Version",
+        "from": "₺99,99",
+        "to": "₺0,00",
+        "range": "[₺0,00 ~ ₺129,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1630541373",
+    "trackName": "Private Album - PRAM",
+    "firstRecordedAt": 1730693617795
+  },
+  {
     "trackId": 6807873317,
     "region": "tr",
     "timestamp": 1791173827832,
@@ -163,7 +210,7 @@
         "name": "Price",
         "from": "₺79,99",
         "to": "₺49,99",
-        "range": "[₺49,99 ~ ₺299,99]"
+        "range": "[₺49,99 ~ ₺399,99]"
       }
     ],
     "price": 49.99,
@@ -1406,7 +1453,7 @@
         "name": "Price",
         "from": "₺299,99",
         "to": "₺79,99",
-        "range": "[₺49,99 ~ ₺299,99]"
+        "range": "[₺49,99 ~ ₺399,99]"
       }
     ],
     "price": 79.99,
