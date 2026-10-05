@@ -1508,7 +1508,7 @@ So far, we've covered `7` `Countries or Regions` and  `2312` `Apps` <br />Push n
 |814|6474207287|Automatic|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|Automatic|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|
 |812|1108935309|Automatic|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
-|811|1410053842|Automatic|小渔排班: 排班日历与轮班闹钟|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|Selene: Shift Calendar|Selene: Shift Calendar|Selene: Shift Calendar|
+|811|1410053842|Automatic|小渔排班: 倒班日历与轮班闹钟|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|Selene: Shift Calendar|Selene: Shift Calendar|Selene: Shift Calendar|
 |810|1519508653|Automatic|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|Automatic|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|Automatic|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|

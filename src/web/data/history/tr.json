@@ -63245,7 +63245,10 @@
       "CAMPBELL'S CANS": "₺49,99",
       "ISAAC'S NEW TONES": "₺49,99",
       "HIGH FIVE": "₺49,99",
-      "GROOVY GUT SHAKER": "₺99,99"
+      "GROOVY GUT SHAKER": "₺99,99",
+      "DARK DUNGEON OF DESPAIR": "₺49,99",
+      "BLADE OF JUSTICE": "₺49,99",
+      "LOW RIDER": "₺49,99"
     },
     "minPriceInfo": {
       "price": 599.99,
@@ -63259,9 +63262,31 @@
       "CAMPBELL'S CANS": "₺49,99",
       "ISAAC'S NEW TONES": "₺49,99",
       "HIGH FIVE": "₺49,99",
-      "GROOVY GUT SHAKER": "₺99,99"
+      "GROOVY GUT SHAKER": "₺99,99",
+      "DARK DUNGEON OF DESPAIR": "₺49,99",
+      "BLADE OF JUSTICE": "₺49,99",
+      "LOW RIDER": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791157842787,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "ISAAC'S NEW TONES": "₺49,99",
+            "GROOVY GUT SHAKER": "₺99,99",
+            "DARK DUNGEON OF DESPAIR": "₺49,99",
+            "CAMPBELL'S CANS": "₺49,99",
+            "BEEPING BOBBIE": "₺0,00",
+            "FUSION FLIPPO": "₺49,99",
+            "BLADE OF JUSTICE": "₺49,99",
+            "DEEP BLUE": "₺0,00",
+            "HIGH FIVE": "₺49,99",
+            "LOW RIDER": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789207811514,
@@ -78962,6 +78987,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791157842787,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790901150979,
@@ -129718,6 +129751,14 @@
     "history": [
       [
         {
+          "timestamp": 1791157842787,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786412471476,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -143047,6 +143088,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791157842787,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,

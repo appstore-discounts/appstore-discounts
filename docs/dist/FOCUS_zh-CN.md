@@ -1508,7 +1508,7 @@
 |814|6474207287|自动|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|自动|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|
 |812|1108935309|自动|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
-|811|1410053842|自动|小渔排班: 排班日历与轮班闹钟|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|Selene: Shift Calendar|Selene: Shift Calendar|Selene: Shift Calendar|
+|811|1410053842|自动|小渔排班: 倒班日历与轮班闹钟|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|小漁輪班：排班表與工作行事曆|Selene: Shift Calendar|Selene: Shift Calendar|Selene: Shift Calendar|
 |810|1519508653|自动|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|自动|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|自动|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|
