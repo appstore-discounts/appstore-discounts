@@ -28972,7 +28972,8 @@
       "LifeTime Pass 30": "34,99 €",
       "Love Island USA Fan Deck": "0,00 €",
       "Holiday Offer 4th of July 2026": "22,99 €",
-      "DIY Bundle Sale": "7,99 €"
+      "DIY Bundle Sale": "7,99 €",
+      "Holiday Offer Halloween 2026": "22,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -29046,9 +29047,29 @@
       "LifeTime Pass 30": "34,99 €",
       "Love Island USA Fan Deck": "0,00 €",
       "Holiday Offer 4th of July 2026": "22,99 €",
-      "DIY Bundle Sale": "7,99 €"
+      "DIY Bundle Sale": "7,99 €",
+      "Holiday Offer Halloween 2026": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791290979408,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Holiday Offer Halloween 2026": "22,99 €",
+            "LifeTime Pass 50": "59,99 €",
+            "LifeTime Pass 30": "34,99 €",
+            "Love Island USA Fan Deck": "0,00 €",
+            "Holiday Offer 4th of July 2026": "22,99 €",
+            "DIY Bundle Sale": "7,99 €",
+            "Holiday Offer Spring 2026": "22,99 €",
+            "AAPI Music Deck": "1,99 €",
+            "AAPI Films Deck": "1,99 €",
+            "AAPI Month Bundle": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786852048726,
@@ -69344,7 +69365,7 @@
     ]
   },
   "1410053842": {
-    "name": "Selene: Shift Calendar",
+    "name": "Selene: Calendário de Turnos",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
@@ -101194,6 +101215,14 @@
     "history": [
       [
         {
+          "timestamp": 1791290979408,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Buy Pro Version": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1791263120623,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -119659,7 +119688,9 @@
       "3.99美元商品": "3,99 €",
       "99.99美元商品": "99,99 €",
       "49.99美元商品": "59,99 €",
-      "19.99美元商品": "22,99 €"
+      "19.99美元商品": "22,99 €",
+      "9.99美元商品": "9,99 €",
+      "0.99美元商品": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -119670,9 +119701,28 @@
       "3.99美元商品": "3,99 €",
       "99.99美元商品": "99,99 €",
       "49.99美元商品": "59,99 €",
-      "19.99美元商品": "22,99 €"
+      "19.99美元商品": "22,99 €",
+      "9.99美元商品": "9,99 €",
+      "0.99美元商品": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791290979408,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "9.99美元商品": "9,99 €",
+            "0.99美元商品": "0,99 €",
+            "3.99美元商品": "3,99 €",
+            "19.99美元商品": "22,99 €",
+            "49.99美元商品": "59,99 €",
+            "99.99美元商品": "99,99 €",
+            "39.99美元商品": "44,99 €",
+            "12.99美元商品": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

@@ -64143,7 +64143,8 @@
       "Toyota 2010 Enhanced Diagnostics": "$14.99",
       "Toyota 2005 Enhanced Diagnostics": "$14.99",
       "Ford 2005 Enhanced Diagnostics": "$14.99",
-      "Toyota 2015 Enhanced Diagnostics": "$14.99"
+      "Toyota 2015 Enhanced Diagnostics": "$14.99",
+      "Toyota 2017 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -64157,9 +64158,29 @@
       "Toyota 2010 Enhanced Diagnostics": "$14.99",
       "Toyota 2005 Enhanced Diagnostics": "$14.99",
       "Ford 2005 Enhanced Diagnostics": "$14.99",
-      "Toyota 2015 Enhanced Diagnostics": "$14.99"
+      "Toyota 2015 Enhanced Diagnostics": "$14.99",
+      "Toyota 2017 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791290979408,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2010 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -198397,6 +198418,23 @@
     "history": [
       [
         {
+          "timestamp": 1791290979408,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Master Package": "$19.99",
+            "Tamer Kit": "$0.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Zenith Islands DLC": "$4.99"
+          }
+        },
+        {
           "timestamp": 1791263120623,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -250133,6 +250171,14 @@
     "history": [
       [
         {
+          "timestamp": 1791290979408,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "$0.99"
+          }
+        },
+        {
           "timestamp": 1791263120623,
           "price": 0,
           "formattedPrice": "Free",
@@ -253600,6 +253646,25 @@
       "Mecha Jormungand": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791290979408,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Monster Pack": "$19.99",
+            "Corrupted Pack": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791114629972,
