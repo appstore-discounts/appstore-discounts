@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2315` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2317` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2317|664972496|自动|❌|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|
+|2316|6761963228|自动|国学日历|国学日历|国学日历|国学日历|国学日历|国学日历|❌|
 |2315|6762788059|自动|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|
 |2314|6811858851|自动|❌|麻將16張|麻將16張|麻將16張|MahJong 16|MahJong 16|麻將16張|
 |2313|650684932|自动|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|
@@ -34,7 +36,7 @@
 |2291|6759664029|自动|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|自动|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
 |2289|6801980968|自动|❌|塔與傭兵團|塔與傭兵團|塔與傭兵團|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
-|2288|6811795155|自动|Keeps|Keeps|Keeps|Keeps|Keeps: Asset & Cost Tracker|Keeps: Asset & Cost Tracker|Keeps|
+|2288|6811795155|自动|Keeps|Keeps|Keeps|Keeps|Keeps: Cost Per Use Tracker|Keeps: Cost Per Use Tracker|Keeps|
 |2287|6786557574|自动|油耗管家-加油记录省油统计车辆里程费用记账工具专用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|Fuel MPG Mileage Tracker Log|MPG Petrol Mileage Tracker Log|Combustível Consumo Abaste Log|
 |2286|1660373266|自动|Habanos 雪茄验证器|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|
 |2285|6795595036|自动|爱兵法 - 孙子兵法、三十六计、武经七书|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|

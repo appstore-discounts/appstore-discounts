@@ -29705,6 +29705,23 @@
     "history": [
       [
         {
+          "timestamp": 1791316756993,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mix It Up": "0,00 €",
+            "The Ellen Show": "0,00 €",
+            "Happy Holidays": "1,99 €",
+            "Just For Kids": "0,00 €",
+            "Ellen Premiere Week in NYC": "1,99 €",
+            "Build Your Own Deck": "2,99 €",
+            "Good News!": "2,99 €",
+            "Ocean Vacation": "0,00 €",
+            "Wish You Were Here": "1,99 €",
+            "Express Yourself": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1791290979408,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -31712,6 +31729,33 @@
             "Guardian Rocket Skin": "0,99 €",
             "Cartoon Rocket Skin": "0,99 €",
             "Angel Rocket Skin": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "664972496": {
+    "trackId": 664972496,
+    "trackName": "Tilt to Live 2: Redonkulous",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Brimstone Pinball": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Brimstone Pinball": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Brimstone Pinball": "0,99 €"
           }
         }
       ]
@@ -35108,12 +35152,12 @@
     "trackName": "GoodReader PDF Editor & Viewer",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
       "Pro Pack (monthly)": "3,49 €",
       "Pro Pack (annual)": "19,99 €",
-      "Pro Pack": "89,99 €",
-      "Auto Sync": "9,99 €"
+      "Pro Pack": "99,99 €",
+      "Auto Sync": "69,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -35124,6 +35168,19 @@
       "Auto Sync": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "19,99 €",
+            "Pro Pack (monthly)": "3,49 €",
+            "Pro Pack": "99,99 €",
+            "Auto Sync": "69,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -56681,6 +56738,18 @@
       "Month": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Year": "12,99 €",
+            "6 Months": "9,99 €",
+            "Month": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790481229445,
@@ -122820,6 +122889,20 @@
     "history": [
       [
         {
+          "timestamp": 1791316756993,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "39.99美元商品": "44,99 €",
+            "12.99美元商品": "14,99 €",
+            "89.99美元商品": "99,99 €",
+            "3.99美元商品": "3,99 €",
+            "99.99美元商品": "99,99 €",
+            "49.99美元商品": "59,99 €",
+            "19.99美元商品": "22,99 €"
+          }
+        },
+        {
           "timestamp": 1791290979408,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -129516,6 +129599,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784661653349,

@@ -62880,6 +62880,31 @@
       ]
     ]
   },
+  "664972496": {
+    "name": "Tilt to Live 2: Redonkulous",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Brimstone Pinball": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Brimstone Pinball": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Brimstone Pinball": "₺49,99"
+          }
+        }
+      ]
+    ]
+  },
   "665745944": {
     "name": "Bone Age",
     "maxPriceInfo": {
@@ -66522,6 +66547,25 @@
     "history": [
       [
         {
+          "timestamp": 1791316756993,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "₺799,99",
+            "Racing Prodigy X30 Atlanta": "₺799,99",
+            "Racing Prodigy X30 Kart Dubai": "₺799,99",
+            "Racing Prodigy X30 B. Vegas": "₺799,99",
+            "Racing Prodigy 50 Quali Tyres": "₺249,99",
+            "10 Pack Qualifying Tyres": "₺49,99",
+            "Figo 100 Octane Fuel Pack - 20": "₺199,99",
+            "Le Cont Hards - 40 Tyre Pack": "₺199,99",
+            "Le Cont Mediums - 40 Tyre Pack": "₺199,99",
+            "Le Cont Softs - 40 Tyres Pack": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -69528,12 +69572,12 @@
   "777310222": {
     "name": "GoodReader PDF Editor & Viewer",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
       "Pro Pack (annual)": "₺129,99",
       "Pro Pack (monthly)": "₺21,99",
-      "Pro Pack": "₺3.999,99",
-      "Auto Sync": "₺499,99"
+      "Pro Pack": "₺4.999,99",
+      "Auto Sync": "₺2.999,99"
     },
     "minPriceInfo": {
       "price": 249.99,
@@ -69544,6 +69588,19 @@
       "Auto Sync": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "₺129,99",
+            "Pro Pack (monthly)": "₺21,99",
+            "Pro Pack": "₺4.999,99",
+            "Auto Sync": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -112002,6 +112059,18 @@
       "6 Months": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "₺149,99",
+            "Year": "₺599,99",
+            "6 Months": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790481229445,
@@ -206639,12 +206708,29 @@
       "Rusty Rats Car Pack": "₺49,99",
       "Goofy Roofs Pack": "₺19,99",
       "Reckless Car Pack": "₺49,99",
-      "Backwoods Bangers Car Pack": "₺129,99",
+      "Backwoods Bangers Car Pack": "₺49,99",
       "Retro Rammers Car Pack": "₺129,99",
-      "Banger Racing Car Pack": "₺149,99"
+      "Banger Racing Car Pack": "₺49,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1791316756993,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Getaway Car Pack": "₺49,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "American All-Stars Car Pack": "₺49,99",
+            "Backwoods Bangers Car Pack": "₺49,99",
+            "Banger Racing Car Pack": "₺49,99",
+            "Content Bundle 2": "₺139,99",
+            "Goofy Roofs Pack": "₺19,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "Off-Road Car Pack": "₺49,99"
+          }
+        },
         {
           "timestamp": 1791290979408,
           "price": 169.99,
@@ -241093,6 +241179,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784671382142,
@@ -288595,7 +288689,7 @@
     ]
   },
   "6811795155": {
-    "name": "Keeps: Asset & Cost Tracker",
+    "name": "Keeps: Cost Per Use Tracker",
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
@@ -289540,6 +289634,27 @@
           "timestamp": 1791263120623,
           "price": 499.99,
           "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761963228": {
+    "name": "国学日历",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791316756993,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
           "inAppPurchases": {}
         }
       ]
