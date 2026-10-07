@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 640364616,
+    "region": "us",
+    "timestamp": 1791366760269,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id640364616",
+    "trackName": "Terraria",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 983143183,
+    "region": "us",
+    "timestamp": 1791366760269,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id983143183",
+    "trackName": "Neo Monsters",
+    "firstRecordedAt": 1746847016133
+  },
+  {
+    "trackId": 6778029370,
+    "region": "us",
+    "timestamp": 1791366760269,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$4.49",
+        "range": "[$4.49 ~ $5.99]"
+      }
+    ],
+    "price": 4.49,
+    "formattedPrice": "$4.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6778029370",
+    "trackName": "Order Automatica",
+    "firstRecordedAt": 1788647953625
+  },
+  {
     "trackId": 1481100296,
     "region": "us",
     "timestamp": 1791332575449,

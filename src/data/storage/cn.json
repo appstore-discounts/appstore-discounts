@@ -15708,6 +15708,27 @@
       ]
     ]
   },
+  "396351547": {
+    "name": "Where's my MBTA Bus?",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "400666114": {
     "name": "Guitar Pro",
     "maxPriceInfo": {
@@ -136049,6 +136070,27 @@
       ]
     ]
   },
+  "1549615527": {
+    "name": "咪莫-打破次元壁密室解谜",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1549693927": {
     "name": "Star Stacker",
     "maxPriceInfo": {
@@ -232372,6 +232414,71 @@
           "price": 6,
           "formattedPrice": "¥6.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6737783441": {
+    "name": "(Not Boring) Camera",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "!Camera Plus Yearly": "¥98.00",
+      "!Camera Plus Lifetime": "¥398.00",
+      "Super !Boring Yearly": "¥198.00",
+      "Super !Boring Monthly": "¥58.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "!Camera Plus Yearly": "¥98.00",
+      "!Camera Plus Lifetime": "¥398.00",
+      "Super !Boring Yearly": "¥198.00",
+      "Super !Boring Monthly": "¥58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "!Camera Plus Yearly": "¥98.00",
+            "!Camera Plus Lifetime": "¥398.00",
+            "Super !Boring Yearly": "¥198.00",
+            "Super !Boring Monthly": "¥58.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6757261839": {
+    "name": "CapWorld 单词相机",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "月度会员": "¥18.00",
+      "终身会员": "¥98.00",
+      "年卡会员": "¥58.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "月度会员": "¥18.00",
+      "终身会员": "¥98.00",
+      "年卡会员": "¥58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "月度会员": "¥18.00",
+            "终身会员": "¥98.00",
+            "年卡会员": "¥58.00"
+          }
         }
       ]
     ]

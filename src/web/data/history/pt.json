@@ -116456,9 +116456,9 @@
       "Coco": "1,99 €",
       "Lucky": "1,99 €",
       "Simba": "1,99 €",
-      "Toby": "0,99 €",
-      "Bella": "0,99 €",
-      "Gizmo": "0,99 €",
+      "Toby": "1,99 €",
+      "Bella": "1,99 €",
+      "Gizmo": "1,99 €",
       "Jingle": "2,99 €"
     },
     "minPriceInfo": {
@@ -116479,6 +116479,25 @@
       "Jingle": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Bella": "1,99 €",
+            "Gizmo": "1,99 €",
+            "Toby": "1,99 €",
+            "Simba": "1,99 €",
+            "Lucky": "1,99 €",
+            "Coco": "1,99 €",
+            "Loki": "1,99 €",
+            "Forest": "2,99 €",
+            "Sky": "2,99 €",
+            "Moonnight": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777417274531,
@@ -146840,7 +146859,11 @@
       "Pouch of Gold": "3,99 €",
       "Chest of Gold": "9,99 €",
       "Moneychanger's Hoard": "14,99 €",
-      "Handful of Gold": "0,99 €"
+      "Handful of Gold": "0,99 €",
+      "Gold Vault": "8,99 €",
+      "Gold Pouch": "3,99 €",
+      "Gold Chest": "9,99 €",
+      "Gold Hoard": "14,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -146849,9 +146872,27 @@
       "Pouch of Gold": "3,99 €",
       "Chest of Gold": "9,99 €",
       "Moneychanger's Hoard": "14,99 €",
-      "Handful of Gold": "0,99 €"
+      "Handful of Gold": "0,99 €",
+      "Gold Vault": "8,99 €",
+      "Gold Pouch": "3,99 €",
+      "Gold Chest": "9,99 €",
+      "Gold Hoard": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Gold Vault": "8,99 €",
+            "Gold Pouch": "3,99 €",
+            "Gold Chest": "9,99 €",
+            "Gold Hoard": "14,99 €",
+            "Handful of Gold": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,
@@ -147833,6 +147874,75 @@
           "price": 9.99,
           "formattedPrice": "9,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6737783441": {
+    "trackId": 6737783441,
+    "trackName": "(Not Boring) Camera",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "!Camera Plus Yearly": "17,99 €",
+      "Super !Boring Monthly": "8,99 €",
+      "!Camera Plus Lifetime": "69,99 €",
+      "Super !Boring Yearly": "34,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "!Camera Plus Yearly": "17,99 €",
+      "Super !Boring Monthly": "8,99 €",
+      "!Camera Plus Lifetime": "69,99 €",
+      "Super !Boring Yearly": "34,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "!Camera Plus Yearly": "17,99 €",
+            "Super !Boring Monthly": "8,99 €",
+            "!Camera Plus Lifetime": "69,99 €",
+            "Super !Boring Yearly": "34,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6757261839": {
+    "trackId": 6757261839,
+    "trackName": "CapWorld 单词相机",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "月度会员": "2,99 €",
+      "年卡会员": "8,99 €",
+      "终身会员": "17,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "月度会员": "2,99 €",
+      "年卡会员": "8,99 €",
+      "终身会员": "17,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "月度会员": "2,99 €",
+            "年卡会员": "8,99 €",
+            "终身会员": "17,99 €"
+          }
         }
       ]
     ]

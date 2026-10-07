@@ -14874,6 +14874,27 @@
       ]
     ]
   },
+  "396351547": {
+    "name": "Where's my MBTA Bus?",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "397553707": {
     "name": "Texas Poker: Pokerist Pro",
     "maxPriceInfo": {
@@ -52156,6 +52177,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791366760269,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "5,000 Coins": "₺49,99",
+            "25,000 Coins": "₺249,99",
+            "10,000 Coins": "₺99,99",
+            "15,000 Coins": "₺149,99",
+            "85,000 Coins": "₺799,99",
+            "55,000 Coins": "₺499,99",
+            "2.000 coins": "₺49,99",
+            "120.000 coins": "₺2.499,99",
+            "45.000 coins": "₺999,99",
+            "22.000 coins": "₺499,99"
+          }
+        },
         {
           "timestamp": 1791332575449,
           "price": 49.99,
@@ -288458,7 +288496,11 @@
       "Pouch of Gold": "₺19,99",
       "Chest of Gold": "₺49,99",
       "Moneychanger's Hoard": "₺74,99",
-      "Case of Gold": "₺39,99"
+      "Case of Gold": "₺39,99",
+      "Gold Pouch": "₺19,99",
+      "Gold Hoard": "₺74,99",
+      "Gold Chest": "₺49,99",
+      "Gold Vault": "₺39,99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -288467,9 +288509,27 @@
       "Pouch of Gold": "₺19,99",
       "Chest of Gold": "₺49,99",
       "Moneychanger's Hoard": "₺74,99",
-      "Case of Gold": "₺39,99"
+      "Case of Gold": "₺39,99",
+      "Gold Pouch": "₺19,99",
+      "Gold Hoard": "₺74,99",
+      "Gold Chest": "₺49,99",
+      "Gold Vault": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Handful of Gold": "₺4,99",
+            "Gold Pouch": "₺19,99",
+            "Gold Hoard": "₺74,99",
+            "Gold Chest": "₺49,99",
+            "Gold Vault": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789746868566,
@@ -289850,6 +289910,71 @@
           "price": 39.99,
           "formattedPrice": "₺39,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6737783441": {
+    "name": "(Not Boring) Camera",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "!Camera Plus Yearly": "₺699,99",
+      "Super !Boring Monthly": "₺349,99",
+      "!Camera Plus Lifetime": "₺2.999,99",
+      "Super !Boring Yearly": "₺1.499,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "!Camera Plus Yearly": "₺699,99",
+      "Super !Boring Monthly": "₺349,99",
+      "!Camera Plus Lifetime": "₺2.999,99",
+      "Super !Boring Yearly": "₺1.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "!Camera Plus Yearly": "₺699,99",
+            "Super !Boring Monthly": "₺349,99",
+            "!Camera Plus Lifetime": "₺2.999,99",
+            "Super !Boring Yearly": "₺1.499,99"
+          }
+        }
+      ]
+    ]
+  },
+  "6757261839": {
+    "name": "CapWorld 单词相机",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "月度会员": "₺149,99",
+      "年卡会员": "₺399,99",
+      "终身会员": "₺799,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "月度会员": "₺149,99",
+      "年卡会员": "₺399,99",
+      "终身会员": "₺799,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "月度会员": "₺149,99",
+            "年卡会员": "₺399,99",
+            "终身会员": "₺799,99"
+          }
         }
       ]
     ]

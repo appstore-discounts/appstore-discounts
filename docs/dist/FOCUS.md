@@ -1,12 +1,16 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2317` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2321` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2321|396351547|Automatic|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|❌|
+|2320|6737783441|Manual|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|
+|2319|1549615527|Manual|咪莫-打破次元壁密室解谜|❌|❌|❌|❌|❌|❌|
+|2318|6757261839|Manual|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|
 |2317|664972496|Automatic|❌|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|
 |2316|6761963228|Automatic|国学日历|国学日历|国学日历|国学日历|国学日历|国学日历|❌|
 |2315|6762788059|Automatic|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|

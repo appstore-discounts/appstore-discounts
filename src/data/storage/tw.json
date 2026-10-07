@@ -15842,6 +15842,27 @@
       ]
     ]
   },
+  "396351547": {
+    "name": "Where's my MBTA Bus?",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "397553707": {
     "name": "德州撲克 - Pokerist Pro",
     "maxPriceInfo": {
@@ -100325,6 +100346,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791366760269,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "60根火柴": "$30.00",
+            "月度礼包": "$120.00",
+            "180根火柴": "$90.00",
+            "980根火柴": "$490.00",
+            "6480根火柴": "$2,990.00",
+            "500根火柴": "$220.00",
+            "1680根火柴": "$790.00",
+            "1元礼包": "$30.00",
+            "3元礼包": "$30.00",
+            "超值礼包-1": "$90.00"
+          }
+        },
         {
           "timestamp": 1791332575449,
           "price": 30,
@@ -303113,14 +303151,22 @@
   "6756783688": {
     "name": "寶寶接種小幫手",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784112540568,
@@ -311871,6 +311917,71 @@
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6737783441": {
+    "name": "(Not Boring) Camera",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "!Camera Plus Lifetime": "$1,990.00",
+      "!Camera Plus Yearly": "$490.00",
+      "Super !Boring Yearly": "$990.00",
+      "Super !Boring Monthly": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "!Camera Plus Lifetime": "$1,990.00",
+      "!Camera Plus Yearly": "$490.00",
+      "Super !Boring Yearly": "$990.00",
+      "Super !Boring Monthly": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "!Camera Plus Lifetime": "$1,990.00",
+            "!Camera Plus Yearly": "$490.00",
+            "Super !Boring Yearly": "$990.00",
+            "Super !Boring Monthly": "$290.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6757261839": {
+    "name": "CapWorld 单词相机",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "$90.00",
+      "年卡会员": "$290.00",
+      "终身会员": "$490.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "$90.00",
+      "年卡会员": "$290.00",
+      "终身会员": "$490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度会员": "$90.00",
+            "年卡会员": "$290.00",
+            "终身会员": "$490.00"
+          }
         }
       ]
     ]

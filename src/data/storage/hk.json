@@ -16511,6 +16511,27 @@
       ]
     ]
   },
+  "396351547": {
+    "name": "Where's my MBTA Bus?",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "397553707": {
     "name": "德州撲克 - Pokerist Pro",
     "maxPriceInfo": {
@@ -227852,6 +227873,18 @@
     "history": [
       [
         {
+          "timestamp": 1791366760269,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Filtr": "HK$ 38.00",
+            "Yearly Recurring Tip": "HK$ 88.00",
+            "Monthly Recurring Tip": "HK$ 18.00",
+            "Mega Tip": "HK$ 148.00",
+            "Tip": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1791332575449,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -300063,6 +300096,71 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6737783441": {
+    "name": "(Not Boring) Camera",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Super !Boring Yearly": "HK$ 228.00",
+      "!Camera Plus Yearly": "HK$ 118.00",
+      "!Camera Plus Lifetime": "HK$ 488.00",
+      "Super !Boring Monthly": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Super !Boring Yearly": "HK$ 228.00",
+      "!Camera Plus Yearly": "HK$ 118.00",
+      "!Camera Plus Lifetime": "HK$ 488.00",
+      "Super !Boring Monthly": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Super !Boring Yearly": "HK$ 228.00",
+            "!Camera Plus Yearly": "HK$ 118.00",
+            "!Camera Plus Lifetime": "HK$ 488.00",
+            "Super !Boring Monthly": "HK$ 58.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6757261839": {
+    "name": "CapWorld 单词相机",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "HK$ 22.00",
+      "年卡会员": "HK$ 58.00",
+      "终身会员": "HK$ 118.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "HK$ 22.00",
+      "年卡会员": "HK$ 58.00",
+      "终身会员": "HK$ 118.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度会员": "HK$ 22.00",
+            "年卡会员": "HK$ 58.00",
+            "终身会员": "HK$ 118.00"
+          }
         }
       ]
     ]

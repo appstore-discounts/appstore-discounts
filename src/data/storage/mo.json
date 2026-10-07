@@ -12467,6 +12467,27 @@
       ]
     ]
   },
+  "396351547": {
+    "name": "Where's my MBTA Bus?",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "397553707": {
     "name": "德州撲克 - Pokerist Pro",
     "maxPriceInfo": {
@@ -26209,6 +26230,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791366760269,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "USD 0.99",
+            "Unlock All Vehicles": "USD 9.99",
+            "Unlock All": "USD 14.99",
+            "Hot Chrome paint job for all vehicles": "USD 2.99",
+            "The Met paint job for all vehicles": "USD 0.99",
+            "East Side paint job for all vehicles": "USD 0.99",
+            "Seoul Rider paint job for all vehicles": "USD 0.99",
+            "Autobahn paint job for all vehicles": "USD 0.99",
+            "Donut Finder": "USD 2.99",
+            "Pack of 50 Super Cops": "USD 12.99"
+          }
+        },
         {
           "timestamp": 1791332575449,
           "price": 4.99,
@@ -58547,6 +58585,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791366760269,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "USD 8.99",
+            "第12課教學影片": "USD 0.99",
+            "第11課教學影片": "USD 0.99",
+            "第10課教學影片": "USD 0.99",
+            "第09課教學影片": "USD 0.99",
+            "第08課教學影片": "USD 0.99",
+            "第07課教學影片": "USD 0.99",
+            "第06課教學影片": "USD 0.99",
+            "第05課教學影片": "USD 0.99",
+            "第04課教學影片": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1791332575449,
           "price": 5.99,
@@ -210059,6 +210114,71 @@
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6737783441": {
+    "name": "(Not Boring) Camera",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "!Camera Plus Yearly": "USD 14.99",
+      "Super !Boring Monthly": "USD 7.99",
+      "!Camera Plus Lifetime": "USD 59.99",
+      "Super !Boring Yearly": "USD 29.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "!Camera Plus Yearly": "USD 14.99",
+      "Super !Boring Monthly": "USD 7.99",
+      "!Camera Plus Lifetime": "USD 59.99",
+      "Super !Boring Yearly": "USD 29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "!Camera Plus Yearly": "USD 14.99",
+            "Super !Boring Monthly": "USD 7.99",
+            "!Camera Plus Lifetime": "USD 59.99",
+            "Super !Boring Yearly": "USD 29.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6757261839": {
+    "name": "CapWorld 单词相机",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "USD 2.99",
+      "年卡会员": "USD 7.99",
+      "终身会员": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "USD 2.99",
+      "年卡会员": "USD 7.99",
+      "终身会员": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度会员": "USD 2.99",
+            "年卡会员": "USD 7.99",
+            "终身会员": "USD 14.99"
+          }
         }
       ]
     ]
