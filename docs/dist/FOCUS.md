@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2315` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2317` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2317|664972496|Automatic|❌|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|
+|2316|6761963228|Automatic|国学日历|国学日历|国学日历|国学日历|国学日历|国学日历|❌|
 |2315|6762788059|Automatic|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|
 |2314|6811858851|Automatic|❌|麻將16張|麻將16張|麻將16張|MahJong 16|MahJong 16|麻將16張|
 |2313|650684932|Automatic|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|
@@ -34,7 +36,7 @@ So far, we've covered `7` `Countries or Regions` and  `2315` `Apps` <br />Push n
 |2291|6759664029|Automatic|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|Automatic|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
 |2289|6801980968|Automatic|❌|塔與傭兵團|塔與傭兵團|塔與傭兵團|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
-|2288|6811795155|Automatic|Keeps|Keeps|Keeps|Keeps|Keeps: Asset & Cost Tracker|Keeps: Asset & Cost Tracker|Keeps|
+|2288|6811795155|Automatic|Keeps|Keeps|Keeps|Keeps|Keeps: Cost Per Use Tracker|Keeps: Cost Per Use Tracker|Keeps|
 |2287|6786557574|Automatic|油耗管家-加油记录省油统计车辆里程费用记账工具专用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|Fuel MPG Mileage Tracker Log|MPG Petrol Mileage Tracker Log|Combustível Consumo Abaste Log|
 |2286|1660373266|Automatic|Habanos 雪茄验证器|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|
 |2285|6795595036|Automatic|爱兵法 - 孙子兵法、三十六计、武经七书|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|

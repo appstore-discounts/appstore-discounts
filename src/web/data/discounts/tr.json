@@ -1,5 +1,125 @@
 [
   {
+    "trackId": 640364616,
+    "region": "tr",
+    "timestamp": 1791332575449,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id640364616",
+    "trackName": "Terraria",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 983143183,
+    "region": "tr",
+    "timestamp": 1791332575449,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id983143183",
+    "trackName": "Neo Monsters",
+    "firstRecordedAt": 1746847016133
+  },
+  {
+    "trackId": 1481100296,
+    "region": "tr",
+    "timestamp": 1791332575449,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺49,99",
+        "range": "[Free ~ ₺399,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1481100296",
+    "trackName": "BreatheIn: Calm Breathing",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6778029370,
+    "region": "tr",
+    "timestamp": 1791332575449,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺224,99",
+        "range": "[₺224,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 224.99,
+    "formattedPrice": "₺224,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6778029370",
+    "trackName": "Order Automatica",
+    "firstRecordedAt": 1788647953625
+  },
+  {
+    "trackId": 777310222,
+    "region": "tr",
+    "timestamp": 1791316756993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Auto Sync",
+        "from": "₺499,99",
+        "to": "₺2.999,99",
+        "range": "[₺449,99 ~ ₺2.999,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id777310222",
+    "trackName": "GoodReader PDF Editor & Viewer",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1160943124,
+    "region": "tr",
+    "timestamp": 1791316756993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1160943124",
+    "trackName": "Speech to Text : Voice to Text",
+    "firstRecordedAt": 1752329477829
+  },
+  {
     "trackId": 1632719015,
     "region": "tr",
     "timestamp": 1791237018351,
@@ -317,7 +437,7 @@
     "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6811795155",
-    "trackName": "Keeps: Asset & Cost Tracker",
+    "trackName": "Keeps: Cost Per Use Tracker",
     "firstRecordedAt": 1790094096914
   },
   {
