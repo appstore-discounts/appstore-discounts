@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 857607006,
+    "region": "cn",
+    "timestamp": 1791397748865,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥28.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥28.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id857607006",
+    "trackName": "Triple A HD - Touch Visualizer",
+    "firstRecordedAt": 1772103313387
+  },
+  {
+    "trackId": 1344655035,
+    "region": "cn",
+    "timestamp": 1791397748865,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥16.80",
+        "to": "免费",
+        "range": "[免费 ~ ¥30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1344655035",
+    "trackName": "蜡烛人",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 1481100296,
     "region": "cn",
     "timestamp": 1791332575449,
@@ -599,7 +639,7 @@
         "name": "双人份完整版",
         "from": "¥58.00",
         "to": "¥57.00",
-        "range": "[¥57.00 ~ ¥58.00]"
+        "range": "[¥57.00 ~ ¥72.00]"
       }
     ],
     "price": 1,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-10-07T11:32:25.962Z</updated>
+    <updated>2026-10-07T19:59:17.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-07T11:32:25.964Z</updated>
+        <updated>2026-10-07T19:59:17.380Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkWed, 07 Oct 2026 11:32:25 GMT</id>
+        <id>rankinghkWed, 07 Oct 2026 19:59:17 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-07T11:32:25.964Z</updated>
+        <updated>2026-10-07T19:59:17.380Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2321</b>
+        <b>2322</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2117</b>
+        <b>2118</b>
       </td>
       <td>
         <b>107</b>
@@ -160,6 +160,23 @@ feedId:157008141708743680+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/857607006?lang=zh-CN">Triple A HD - Touch Visualizer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/hk/924438909?lang=zh-CN">ProShot</a>
       </td>
       <td>
@@ -180,7 +197,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/926177061?lang=zh-CN">TinType - 錫版相機</a>
@@ -197,7 +214,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/931188326?lang=zh-CN">DayCost Pro - Personal Finance</a>
@@ -214,7 +231,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/983143183?lang=zh-CN">夢幻怪獸</a>
@@ -231,7 +248,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1160943124?lang=zh-CN">Speech to Text : Voice to Text</a>
@@ -248,7 +265,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1287138671?lang=zh-CN">Thumper：便攜版</a>
@@ -265,27 +282,10 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1437211990?lang=zh-CN">地下城與治療者 : Raid Manager</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1481100296?lang=zh-CN">BreatheIn: Calm Breathing</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1435461053?lang=zh-CN">This Is the Police</a>
       </td>
       <td>
         <ul>
@@ -302,7 +302,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1500126852?lang=zh-CN">Chord</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1437211990?lang=zh-CN">地下城與治療者 : Raid Manager</a>
       </td>
       <td>
         <ul>
@@ -319,7 +319,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1504760106?lang=zh-CN">Eco Inc. 拯救地球</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1481100296?lang=zh-CN">BreatheIn: Calm Breathing</a>
       </td>
       <td>
         <ul>
@@ -336,7 +336,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6760948683?lang=zh-CN">Digline：療癒挖礦</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1500126852?lang=zh-CN">Chord</a>
       </td>
       <td>
         <ul>
@@ -353,7 +353,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6480501528?lang=zh-CN">Cat Todo - 備忘錄 & 待辦事項 & 記事本</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1504760106?lang=zh-CN">Eco Inc. 拯救地球</a>
       </td>
       <td>
         <ul>
@@ -370,7 +370,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6761328517?lang=zh-CN">地牢深處</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1537060891?lang=zh-CN">Titan Quest: Legendary Edition</a>
       </td>
       <td>
         <ul>
@@ -387,7 +387,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6811795155?lang=zh-CN">Keeps</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/6760948683?lang=zh-CN">Digline：療癒挖礦</a>
       </td>
       <td>
         <ul>
@@ -404,7 +404,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6752662508?lang=zh-CN">足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/6480501528?lang=zh-CN">Cat Todo - 備忘錄 & 待辦事項 & 記事本</a>
       </td>
       <td>
         <ul>
@@ -419,6 +419,57 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>
         <b>19</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6761328517?lang=zh-CN">地牢深處</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6811795155?lang=zh-CN">Keeps</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>21</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6752662508?lang=zh-CN">足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6760764479?lang=zh-CN">Alpin Quest PRO – Outdoor GPS</a>
@@ -441,7 +492,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6762582312?lang=zh-CN">破軍：三國 - RTS+MOBA策略手遊</a>
@@ -458,7 +509,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6469419567?lang=zh-CN">Overwinter Survival</a>
@@ -485,10 +536,44 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6778029370?lang=zh-CN">九格生死战</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>26</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6762803589?lang=zh-CN">Slots & Daggers</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>27</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6754894237?lang=zh-CN">CloverPit</a>
       </td>
       <td>
         <ul>
@@ -1396,6 +1481,250 @@ feedId:157008141708743680+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Slots & Daggers]]></title>
+        <id>Slots &amp; Daggers-hk-1791397748865</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6762803589?lang=zh-CN"/>
+        <updated>2026-10-07T18:29:08.865Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 32.00 → HK$ 18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6762803589?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/7c/85a27cac-3117-0225-bb77-9a5940865e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 32.00</span> → <b>
+  <strong>HK$ 18.00</strong>
+</b><span>[HK$ 18.00 ~ HK$ 32.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 18.00</b>
+</p><h2>应用描述</h2><p>
+  SLOTS & DAGGERS is a roguelike in a slot machine.
+
+Spin the reels, chain symbols into combos, and turn every pull into damage, gold and upgrades. Build your machine run by run, then take it into the dungeon and fight your way through a weird little fantasy world full of goblins, monsters and strange little guys.
+Every spin matters. Every symbol you add changes the odds. And every run ends with the same question: one more?
+
+FEATURES
+- A slot machine that fights back – build synergies, break the reels, beat the odds
+- A weird fantasy world drawn by hand, in all its crude glory
+- 4–8 hour campaign with escalating challenges
+- Egg Arena – an endless high-score mode for the truly determined
+- Retro visuals with a hand-drawn, lo-fi charm
+- Crunchy old-school hip hop drum machine soundtrack
+- Quick runs, deep builds – perfect for a session on the go
+- No ads, no in-app purchases, no real money involved – just the game
+
+Numbers! Fights! Goblins! And a lot of PLING.
+
+----
+
+A NOTE FROM THE DEVELOPER
+
+After my last game SUMMERHOUSE, I wanted to make something radically different. Still small, but faster, with numbers, fights and goblins! The result is SLOTS & DAGGERS.
+To make this game I combined a lot of things I deeply love – weird fantasy worlds, crude drawings of strange little guys, old school crunchy hip hop drum machines and addictive arcade games that go "PLING PLING PLING" as they spit out little coins – with classic roguelike mechanics.
+As with SUMMERHOUSE, please keep in mind this game is a solo project – small, focused, and made with care. It's meant to be short and sweet and doesn't have the amount of content as games built by bigger teams over years, but I think it's a fair deal!
+I hope you have a good time with SLOTS & DAGGERS!
+
+Cheers,
+Friedemann
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/17/26/4f17263b-c0eb-053f-deb8-1378979403f5/en_sd_spin_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/ae/cb/68aecb75-0a99-eb22-48cb-aa4831d68a13/en_sd_criticalhit_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/2b/10/b02b103f-1988-06a6-0a15-eeafe493439e/en_sd_shop_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/93/85/899385c9-7af1-c0fc-f9bb-5d166475f6ad/en_sd_shield_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/a3/fb/73a3fb9a-4685-1d00-1607-059d181dbcc9/en_sd_bandits_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/4e/b3/2e4eb3bd-c0cb-cd89-8d8c-bb76b9fb4dca/en_sd_modify_iPhone.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/7e/e3/dc7ee3b9-813d-512e-2a9d-6a2935d50c55/en_sd_spin_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/34/f5/c034f5cb-5361-4deb-2268-cfd80d89187e/en_sd_criticalhit_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/0f/86/7a0f866e-bbe3-77ef-2de2-8358f8863749/en_sd_shop_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/5b/e0/325be054-31e9-306b-8454-5558f9a911a2/en_sd_shield_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/75/de/3575debf-eeb3-3d0f-bce6-1dad48bdb2bd/en_sd_bandit_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/7b/58/5c7b5831-e818-77d4-cb63-d7984fd69a80/en_sd_modify_iPad-13.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triple A HD - Touch Visualizer]]></title>
+        <id>Triple A HD - Touch Visualizer-hk-1791397748865</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/857607006?lang=zh-CN"/>
+        <updated>2026-10-07T18:29:08.865Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 32.00 → HK$ 18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/857607006?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/56/cc/6756cc92-b358-447f-1260-8afa36451a22/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 32.00</span> → <b>
+  <strong>HK$ 18.00</strong>
+</b><span>[HK$ 18.00 ~ HK$ 32.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 18.00</b>
+</p><h2>应用描述</h2><p>
+  # Triple A HD — Une expérience premium de particules et de lumière
+
+Plus profonde, plus riche, plus immersive.
+
+Triple A HD est la version premium de Triple A, conçue pour celles et ceux qui recherchent une expérience visuelle encore plus complète, avec davantage de particules, une sensation de mouvement plus riche et une immersion renforcée.
+
+Chaque geste crée des flux lumineux évolutifs et des formes en mouvement qui transforment l’écran en un espace apaisant pour la relaxation, la concentration et les moments calmes.
+
+## Une immersion visuelle premium
+
+La version HD offre une densité visuelle supérieure et une fluidité renforcée, idéale pour :
+
+• relaxation
+• méditation
+• concentration
+• recentrage émotionnel
+• exploration sensorielle calme
+
+## 5 univers visuels
+
+• Particle
+• Wave
+• Gravity
+• Linear
+• Lightning
+
+Inspirés des galaxies, vortex, fleurs, arcs-en-ciel et flux lumineux.
+
+## Performance HD
+
+• Jusqu’à 100 000 particules en temps réel
+• 60 FPS fluides
+• Multi-touch 5 doigts / 2 mains
+• Taille, quantité et longueur réglables
+• Musiques intégrées par Aden (optionnelles)
+
+## Pourquoi choisir HD
+
+• Sans publicité
+• 3× plus de particules
+• Une richesse visuelle supérieure
+• Une immersion premium continue
+
+## Idéal sur grand écran
+
+Sur tablette et grand écran, Triple A HD révèle encore davantage sa profondeur visuelle et son pouvoir immersif.
+
+## Support
+
+Si vous avez des idées, questions ou remarques, je serais ravi de vous lire.
+
+sunglab@gmail.com
+http://www.sunglab.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/3e/b2/a83eb2ef-d22e-b452-29bb-e6d79544bbcc/mzl.gsdomtva.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/ce/e2/4bcee2ea-dadc-820f-c947-5c21f68ba6c3/mzl.igqtslqp.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/88/df/f988df91-f51a-06d0-a79f-43664db5340e/mzl.qzmuavos.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/1c/1f/7e1c1fc6-ce46-8beb-5e29-dfacfeaff30d/mzl.ebrbouyi.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/4f/0e/9e4f0e8b-a824-213c-3bed-58830498c830/mzl.ymzujgij.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/13/dc/4513dcd4-1fda-82f5-24b5-281f6d5f2ea7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/57/f1/d257f1b7-2c79-efcb-6a6e-6c5a5b30feae/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9e/63/509e635c-c64f-b199-2332-82c91a1a1fe1/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/3c/12/0d3c12c2-bbbc-4887-d20b-fe8cb0334423/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/7a/b7/eb7ab728-61ea-e9a0-c0ad-1650aae49e46/pr_source.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloverPit]]></title>
+        <id>CloverPit-hk-1791397748865</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6754894237?lang=zh-CN"/>
+        <updated>2026-10-07T18:29:08.865Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6754894237?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/83/4f/3d834fff-7e41-dbe7-06ff-e91fd0422963/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 58.00</span> → <b>
+  <strong>HK$ 22.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 58.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 22.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Unholy Fusion：<b>HK$ 18.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  A rogue-lite slot machine nightmare. Gamble for your life in a debt simulator!
+
+Clover Pit is a demonic rogue-lite that traps players in a hell of their own creation. Locked in a rusty cell with a slot machine and an ATM, you must pay off your debt at the end of each round, or fall to ruin – literally!
+
+Manipulate the slot machine to earn extra coins. Turn the odds in your favor with various prizes and charms that trigger big big combos, snowballing into a dazzling lucky run. Bend the rules, break the game, and pay off your captor long enough to earn a shot at freedom.
+
+Features:
+- A gripping rogue-lite where every round could be your last!
+- Meta-progression, multiple endings and unlockable power-ups!
+- Push your score to new heights in Endless Mode!
+- A hellish escape room atmosphere!
+- 150 + items and synergies to boost your luck!
+- A sinister tale of addiction and escape!
+
+Note on Save Data: This game currently stores progress locally on your device. Please be aware that uninstalling the app (or clearing app data) will delete your save file. Cloud Save & Cross-Device Sync are in development for a future update.
+
+P.S. IS THIS GAMBLING?
+No! CloverPit is a rogue-lite horror game, and not a slot machine simulator. Our slot machine is designed to be broken and ultimately overcome, and will never ask you for real money!
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/12/1a/d7121a39-05b0-02fa-11e5-7ccdae271d01/Iphone_Gallery_Store_Screenshots_2778x1284_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/8b/36/4e8b364c-41e4-830f-753e-5e4f9eb17375/Iphone_Gallery_Store_Screenshots_2778x1284_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/49/86/704986b6-6232-37e5-d470-21ceb01eb71d/Iphone_Gallery_Store_Screenshots_2778x1284_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/28/25/5a2825bd-8941-1e91-8f99-e4a2cb8b5dd5/Iphone_Gallery_Store_Screenshots_2778x1284_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/7b/e7/8a7be73b-eee8-94eb-d345-4830d3394324/Iphone_Gallery_Store_Screenshots_2778x1284_03.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ae/ab/4aaeab75-8041-490b-e7cc-d1c0cb63c083/Ipad_Gallery_Store_Screenshots_2752x2064_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/46/7e/01467e37-25ed-2997-0038-235029571410/Ipad_Gallery_Store_Screenshots_2752x2064_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/5d/45/a85d45d7-77ea-6dd8-0f2d-a677cfbb2457/Ipad_Gallery_Store_Screenshots_2752x2064_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/6e/d9/2b6ed9da-1f44-16f3-4769-7cf5d8029783/Ipad_Gallery_Store_Screenshots_2752x2064_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/78/61/e67861ec-9251-c118-d998-e3194a5f38f5/Ipad_Gallery_Store_Screenshots_2752x2064_03.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titan Quest: Legendary Edition]]></title>
+        <id>Titan Quest: Legendary Edition-hk-1791397748865</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/1537060891?lang=zh-CN"/>
+        <updated>2026-10-07T18:29:08.865Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 158.00 → HK$ 68.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1537060891?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/98/08/059808ab-9d5d-493f-f7e8-569ed89b159d/AppIcon_FullEdition-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 158.00</span> → <b>
+  <strong>HK$ 68.00</strong>
+</b><span>[HK$ 55.00 ~ HK$ 158.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 68.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Ragnarök for free download：<b>HK$ 0.00</b>
+  </li><li>
+    Atlantis for free download：<b>HK$ 0.00</b>
+  </li><li>
+    Eternal Embers DLC：<b>HK$ 38.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  自2006年首次亮相以來，《泰坦之旅》吸引了眾多玩家。在《泰坦之旅》世界中，你將在無拘無束的英雄之旅中獲得全方位的體驗！
+
+你的光榮任務是拯救世界！
+
+單靠諸神無法打敗泰坦，所以需要真正的英雄 - 那就是你！你的成功或失敗將決定人類和奧林匹斯山諸神的命運！與你的定制英雄一起，探索希臘、埃及、巴比倫和中國的神秘、遠古世界。征服成群的傳奇生物，掌握各種武器和武術：射箭、劍術或使用強大的魔法！
+
+遊歷古代和北歐神話世界！
+
+當你旅行前往派特農神廟、大金字塔、巴比倫空中花園、長城、塔耳塔洛斯競技場和其他著名景點時，與神話中的野獸戰鬥。遭遇希臘神話中的最大惡棍，探索北歐未知的土地，尋找神話中的亞特蘭蒂斯王國，然後踏上穿越地中海西部的旅程。
+
+在你的光榮道路上，要麼全部得到，要麼一無所有！
+
+每一個挑戰等待著你，你必須擊敗更大更強的敵人，直到達到目標並迫使泰坦屈服！與勇敢的寵物同伴一起投入戰鬥！尋找具有特殊力量的非凡物品，這些物品將增強你的能力，幫助你前進。傳奇之劍、強大的閃電咒語、魔法、弓箭以及力量超乎想像的無數其他寶藏等待著你 - 它們全都可以在你的戰鬥中使用，在可怕的生物中散佈驚駭和恐懼！
+
+你在等什麼？
+
+不同於其他動作角色扮演遊戲，《泰坦之旅：傳奇版》將迷人的神話世界與無盡而刺激的動作融合在一起，正如你對如此引人入勝的遊戲所期待的！
+
+主要特點：
+
+- 在不朽王座下載包的世界中，你將遇到希臘神話中的最大惡棍，勇敢面對地獄犬的攻擊，危害冥河的河岸。你需要解釋盲人提爾西亞斯的預言，與阿伽門農和阿喀琉斯並肩作戰，用奧德修斯的計策征服這個黑暗的新冒險。
+
+- 在諸神黃昏下載包的北歐未知土地上，你將勇敢面對凱爾特人、諾斯曼人和阿斯加迪神靈的領地！
+
+- 在亞特蘭蒂斯下載包，與探險家會面，尋找神話中的亞特蘭蒂斯王國。據說有一把鑰匙藏在伊拉克利翁的日記中，該日記據傳位於腓尼基城市加迪爾。踏上穿越地中海西部的旅程，包括塔耳塔洛斯競技場，進行史詩般的戰鬥！
+
++ 經過全面技術修改的《泰坦之旅》實施了所有的重要更新，以賦予這部經典之作最佳的遊戲體驗！
+
+在永恆餘燼DLC可在應用內購買的 中殺死巨巫泰肯之後，英雄受到傳說中的堯帝召喚，回到東方著手對付一直肆虐 這片大陸的邪魔威脅。 在追查過程中，英雄和他的同伴們發現，遠古兇獸窮奇的現身並非只是巧合，必定有兇險萬分的陰謀正在醞釀…
+
++ 擁有《泰坦之旅》基本版的所有玩家請注意：這裡提到的下載包還將作為附加內容發佈以供購買，以便所有粉絲可以升級他們的遊戲以充分享受所有擴展！
+
+© www.handy-games.com GmbH
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/a6/3d/f4a63d74-cd10-1b21-7383-3d26cbbaab18/tns.jqtlismj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/6a/bf/3e6abfa6-2dce-3c1e-4438-3fd6ded2a0cf/tns.qrehcxdn.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/f4/77/2ff47728-e131-1335-3ad0-d134828cde39/tns.epqjwkbe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a9/e2/46/a9e2467f-8503-6894-f5e1-43a224503f82/2294f474-2946-4d97-b598-4133bcda87f8_titan_quest_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/a3/8f/dea38fc3-9834-273a-896e-a1efb8c48207/tns.vmjtwrfp.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/25/5d/63255d29-939d-2f3e-d6ad-219d8992db5a/tns.xbkhamfm.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c4/40/1cc440fd-0ff3-e1e8-cded-5636ec501e8b/tns.mwtufhqs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/b1/d4/b8b1d415-8efc-0b9a-18fc-5bacf38a8baf/tns.fdlxhrvk.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/f5/1e/e1f51e0d-56b0-5836-5ae1-266529df34f9/tns.qroiijmf.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/c5/db/59c5dbf1-9792-7df1-1761-bdecb3e87f97/tns.keeipsgi.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f4/f0/f2/f4f0f26e-3dc9-40dc-457e-8602817689b1/85361d23-df0b-4e70-89b7-7f08e5b3ca62_TQHD_Screenshot_05.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2d/95/4e/2d954eb0-d464-f5e7-b388-936d22a20a18/85931cf9-63d2-4dff-a5d4-bef981d99da5_TQHD_Screenshot_02.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1f/cf/a8/1fcfa8bf-7f86-d13e-6b5c-d2d2082a56f5/a35d2498-6b1f-4d80-80e1-f1cc42a5a7e3_TQHD_Screenshot_01.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/6f/25/b56f2502-391e-1832-4cfd-b3ab8940c441/cd81d136-5f26-47fc-8ec9-0b4df020a800_TQHD_Screenshot_06.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/d5/88/31d588e9-f035-8bcb-f661-1939055cd582/306ddbf5-fdab-4917-a9bd-cf1b8ea09601_TQHD_Screenshot_04.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/8a/02/8a8a023e-23b8-371b-6e95-e8b813067aa3/293d81b6-7e82-42c5-be99-305c1355b27a_TQHD_Screenshot_03.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/66/19/5d/66195dd2-5368-3371-057c-a5d56743fd5f/522fa786-c2b5-47c0-8511-e8276172281f_TQHD_Screenshot_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/47/05/04/470504fb-ffed-7342-1897-d55a0e1dc794/850457c1-d749-4237-bcb9-03e89f7d30ef_TQHD_Screenshot_07.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9d/ac/b9/9dacb966-6946-b5af-e89a-e0aba1037342/a11e4e3e-09b7-40a4-81ca-d636859ec606_TQHD_Screenshot_08.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/c9/b8/6dc9b87f-1595-8b6b-3fae-93d33c503f5e/c0112da5-1d84-4972-b08d-29ff8afb18b5_TQHD_Screenshot_09.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is the Police]]></title>
+        <id>This Is the Police-hk-1791397748865</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/1435461053?lang=zh-CN"/>
+        <updated>2026-10-07T18:29:08.865Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 68.00 → HK$ 15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1435461053?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8f/f1/a48ff181-b0ac-2c9a-9b80-e686482a6636/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 68.00</span> → <b>
+  <strong>HK$ 15.00</strong>
+</b><span>[HK$ 8.00 ~ HK$ 68.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 15.00</b>
+</p><h2>应用描述</h2><p>
+  《身為警察》（This Is the Police）是一個策略/冒險遊戲，故事背景設定在一個螺旋式圍繞排水系統的城市。在遊戲中你將擔任堅韌不拔的警察局長傑克·博伊德的角色，你將潛入一個關於犯罪和陰謀的深刻故事。傑克會不會拿到一大筆錢安心地退休，亦或是最終會破產...還是更糟？
+
+ - 你的任務很明確：在傑克·博伊德退休之前的180天內賺到50萬美元。怎麼賺？一切由你決定！
+
+ - 決定，決定！《身為警察》（This Is the Police）的故事核心是一個黑暗的故事，以及你該如何破解它。無論你決定什麼，你的選擇都會影響比賽 - 以及傑克博伊德的命運。
+
+- 《黃昏三鏢客》？弗里堡警察局局長能夠應付各種人。遊戲全看你的本事，找到壞人並決定如何處理他們。
+
+ - 履行你的職責。作為弗里堡警察局的負責人，傑克每天都要處理各種各樣的挑戰：應對緊急情況，管理他的警員，保衛部門對抗市政廳和腐敗的市長等等。
+
+ - 執行調查並收集針對弗里堡犯罪團伙的證據。
+
+ - 處理城市中的競爭力量。每個人都可向你提供服務，但每一個都是有代價的。
+
+ - 豐富而完整的配音故事：由《毀滅公爵》的配音演員Jon St. John為傑克·博伊德配音。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/a3/57/bba35765-9216-3b27-c1d8-d9178a046ee8/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/65/f9/3a65f9db-06d2-10f0-9fe3-b4392f5ab012/mzl.owhrtvfj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/67/f7/1f67f77d-eee1-4c04-bd23-6da61df6f7ca/mzl.malnrgyb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/88/99/a288999f-7512-345a-bbaa-acf8337b6f4c/mzl.fdsdnvif.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/c8/88/42c88883-e500-9439-65e0-8d1c39cafd43/mzl.qmbbguta.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/8b/78c58b85-c852-8c68-e77f-f37efd2cf51e/mzl.lhgcezcl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/5c/76/ff5c766e-1d26-33e1-2342-1bf1e85dd23d/mzl.ttuhjyzo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/46/f6/5c/46f65c47-81df-13c6-c639-dc3538837c4c/mzl.hiyhsscb.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/07/51/fc/0751fcf8-31c6-69bf-7aaa-86aa97e0e92a/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/11/3d/22113d2d-8ba6-671b-1f2e-3c27445644f0/mzl.pqavucuh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/65/0b/a8650bd8-0ea4-d541-5225-6a7c28dfb972/mzl.ayavwplr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/39/ca/3d/39ca3dd7-5226-7cb2-4d70-a926b5f2fbb0/mzl.imaxoons.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/88/29/c9/8829c9a1-3092-1b70-95a9-f202667db7be/mzl.xpwkesve.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/c0/c6/abc0c697-bed3-a89d-cfaf-2a5240e28ac0/mzl.hfehkdnh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3b/5a/4d/3b5a4d76-0bc5-2e3a-7717-371e3deb4c6d/mzl.vbogzhqd.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/92/dd/2e92dd9d-f021-0a29-6f55-2f28e82233df/mzl.fdywcbvd.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wipr 2]]></title>
         <id>Wipr 2-hk-1791366760269</id>
         <link href="https://appstore-discounts.eyelly.me/hk/1662217862?lang=zh-CN"/>
@@ -1978,86 +2307,5 @@ A comprehensive set of tools for any musician:
 
 Plus, enjoy the macOS version included with your purchase!
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/b6/49/c8b64938-5014-179a-d8d0-9a3d809d5c7f/1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/68/f2/3e68f276-b0b6-9f21-f30c-f1d3331c85ae/2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/e6/c8/dce6c84d-745e-a70d-348b-ad48dd2b7e21/3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/e0/56/3be056b6-18db-fea7-f6da-7e6f5a95c9b8/4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/17/7a/2c177aa4-62d9-fe24-41b5-bfd38ae76879/5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/86/68/e0866888-95a3-424b-8cbb-2c2000d6264b/6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/c2/e3/e3c2e34d-b554-bca8-642f-a63e8ec08420/7.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/da/e5/2edae53e-7051-b856-3ef5-6d9f410a31ed/8.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/76/36/a67636e9-18d9-1750-9b9a-8074e59c7ef7/9.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a0/32/02a03202-eb1a-b2e6-9d70-855656270eff/10.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/87/7a/95877aee-eb40-c673-5edd-379ca82492d4/61db3b65-ee5c-47ae-bdf3-b16a8dff946a_ipad_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/dc/69/79dc69c9-4d9e-a785-ebdf-85bace35709d/c70baaaa-8bf3-4578-9604-591f6b1550fb_ipad_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/06/36/bf06364f-e13c-ac6c-bce2-d2300e167eb8/2c7bd1f6-1164-44b1-9a9e-66ba4727ba1f_ipad_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/4d/1b/dc4d1bc5-8b51-896d-db47-0b131e42f63e/5f09d52c-d38a-4f75-97f5-b268b07d91f5_ipad_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/59/f1/1259f1b8-b838-0968-9d9b-7f819a816a5e/02b1aac8-36a0-4b63-a063-465c91504b59_ipad_5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumper：便攜版]]></title>
-        <id>Thumper：便攜版-hk-1791131403610</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/1287138671?lang=zh-CN"/>
-        <updated>2026-10-04T16:30:03.610Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1287138671?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/75/d0/ee/75d0eeaf-51e1-48a0-db14-c95aa86e7a2e/AppIcon-1x_U007emarketing-0-5-0-GLES2_U002c0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 38.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h2>应用描述</h2><p>
-  Thumper是一款節奏暴力遊戲：經典動作、猛烈的速度和野蠻的肉體衝撞。你是一隻太空甲蟲，勇敢闖入虛無空間，對抗巨大的首腦。
-
-藉由特別的便攜版，讓你一手掌握九個史詩級別。
-
-向前邁進，掌握新動作，並在可怕的魔王戰中倖存下來。被衝擊原聲推動，你會感受到每一個破碎的影響。要達到共鳴，你必須征服節奏地獄。
-
-■特點■
-·氣密一觸式控制
-·肖像和風景皆為流暢的60 FPS
-·九個史詩級別
-·刺激的魔王戰
-·迷幻視覺效果和原創配樂
-·PLAY+模式（增加挑戰難度和速度）
-·在iPhone X上以全螢幕顯示
-·iCloud 同步
-
-■請注意■
-無線耳機會造成顯著的音頻延遲。為了獲得最佳體驗，強烈建議使用有線耳機或音響。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/88/e6/ba/88e6bad2-6a49-eb7a-78ea-ab89f48fff35/0be0a605-a1b8-4e92-9cea-69e08e589e88_Thumper_iPhone12_Portrait__U00281_U0029.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/2c/ba/56/2cba5699-b0cd-52ad-145d-d7db45988ec2/139ebec2-3063-4ded-a8db-cf97f9616e18_Thumper_iPhone12_Portrait__U00282_U0029.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/74/a2/77/74a277ec-0f09-624e-6c2e-a12675af0d23/3cb19f14-e163-4f6d-94e4-3508f641b9bd_Thumper_iPhone12_Portrait__U00283_U0029.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c9/28/0d/c9280d50-d6ec-6f62-72fa-6702c2a419b1/7498a4e5-bfa7-4d96-8e2e-a2702d8f4d2c_Thumper_iPhone12_Portrait__U00285_U0029.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/11/bf/a1/11bfa13a-f314-901b-9e69-5ee47ee08729/6ffb7abe-dd9b-4b1c-bc32-31f44db6e596_Thumper_iPhone12_Portrait__U00286_U0029.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/bb/53/0b/bb530ba8-8dbb-97eb-af28-055ba4e2d090/e569a883-e376-4737-93d9-66fa4a3aaa7c_Thumper_iPhone12_Landscape__U00281_U0029.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/55/96/53/5596538f-23fb-5463-7d63-3fcde12addb3/9441bad2-e2d6-45c7-a15c-4ab3e8e71394_Thumper_iPhone12_Landscape__U00282_U0029.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/49/4c/ee/494cee2d-6a60-e6fe-02f3-dfc5a786a2fe/a2db0686-b70a-4862-9d41-a2cd35ae8403_Thumper_iPhone12_Landscape__U00284_U0029.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e2/ca/5a/e2ca5a49-97ef-1a37-5bb6-c4a1941dc5b9/6ea8d442-de95-43f3-bb83-5332628366a1_Thumper_iPhone12_Landscape__U00285_U0029.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ff/c6/f4/ffc6f4ba-6f9c-6e8e-7133-2678838d50dd/dc536e2c-a09d-4225-b483-cea06d306c5a_Thumper_iPhone12_Landscape__U00286_U0029.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e9/eb/d0/e9ebd082-41b8-66f1-ab75-80188211d610/37cdf09c-c820-40b9-be29-9038b5e74c47_Thumper_iPad12.9_Landscape__U00281_U0029.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9f/16/1b/9f161bee-50bf-3318-9fa6-beef2a338ffc/5e3877db-8509-400c-be09-bda18601718a_Thumper_iPad12.9_Landscape__U00284_U0029.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/72/b0/d1/72b0d140-e58c-1a94-badb-62364f9938db/070a9d11-22d5-4c87-b968-f077c51d2da9_Thumper_iPad12.9_Landscape__U00285_U0029.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/27/9e/9c/279e9c18-a87c-e2db-621a-8debe8d98f9f/666051de-5315-4064-9c9a-01a68733d9bb_Thumper_iPad12.9_Landscape__U00286_U0029.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ef/ec/75/efec7574-0eac-0167-40f3-18fadac0b645/c5fe34ec-5c8a-4b0b-b82d-1cc58966467f_Thumper_iPad12.9_Landscape__U00287_U0029.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/16/97/ec/1697ec0e-fcfc-cc2a-7637-2bb8bbc891db/b54fafb2-dbac-41e0-9e63-917fee17445d_Thumper_iPad12.9_Portrait__U00281_U0029.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b3/63/2b/b3632b9d-108b-fc2a-767a-e6ffb30eac45/f6454ba4-8b40-4cfa-a170-0b6d2fd444ae_Thumper_iPad12.9_Portrait__U00284_U0029.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c2/54/9e/c2549e09-5c47-ab92-6d83-0115507c3634/fdadc289-cd46-48b5-8f05-c822f54ad638_Thumper_iPad12.9_Portrait__U00285_U0029.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c2/7c/3b/c27c3b89-266c-1b54-067c-405a77d6d77b/6d216c7f-7599-4912-8c3c-78fb0bfd027d_Thumper_iPad12.9_Portrait__U00286_U0029.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9f/e1/fc/9fe1fc53-3af7-92d8-d9a8-9ede539435da/5b41f625-e41e-46b6-a53e-314a27b8a420_Thumper_iPad12.9_Portrait__U00287_U0029.PNG/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwinter Survival]]></title>
-        <id>Overwinter Survival-hk-1791114629972</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/6469419567?lang=zh-CN"/>
-        <updated>2026-10-04T11:50:29.972Z</updated>
-        <summary type="html"><![CDATA[Elite Pack: HK$ 48.00 → HK$ 38.00<br/>Advanced Pack: HK$ 22.00 → HK$ 18.00<br/>Standard Pack: HK$ 18.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6469419567?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/a8/94/65a8943a-b281-1fbe-bd7e-f51f50fdaede/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Elite Pack：</strong><span>HK$ 48.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 32.00 ~ HK$ 58.00]</span>
-  </li><li>
-    <strong>Advanced Pack：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 22.00]</span>
-  </li><li>
-    <strong>Standard Pack：</strong><span>HK$ 18.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 2.00 ~ HK$ 18.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 8.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Elite Pack：<b>HK$ 38.00</b>
-  </li><li>
-    Premium Pack：<b>HK$ 32.00</b>
-  </li><li>
-    Advanced Pack：<b>HK$ 18.00</b>
-  </li><li>
-    Standard Pack：<b>HK$ 8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.
-
-The cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.
-
-In Overwinter Survival, you must use the cards you're dealt to stay alive. You can only use one card per round. With Lady Luck at the helm, no two journeys will be the same.
-
-Fish in the glaciers, hunt with your spear and craft an axe at your workshop to become a lumberjack. To get out of this frozen hell and see your family once again, you must stay alive and repair your plane. 
-
-Experience a unique journey each time you play with randomly generated card decks and test your survival skills while pushing your luck amidst the frozen glaciers.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/06/68/7b/06687b60-8128-79a2-23a3-7af92d34cbbd/daafa34f-4ae8-45f7-9a74-0d2d92708f0d_111.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/55/36/ec5536e8-ceba-c687-0eb1-b55af7b4533b/5afa3020-620c-47c9-bdfa-e2f537b35b1e_222.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/40/73/8c4073ad-d02f-ea2f-4353-2b80e4fd2eef/62567886-a9d4-4d5a-b16a-1b689d1f12e8_333.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3e/7a/1e/3e7a1e43-68ff-a980-7472-83cebc15637a/3d78518e-8059-473f-8e7f-0a0c7f7dfd1d_444.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d5/e9/52/d5e95225-5fdc-6f6e-e05a-98f26d4a5606/32a50892-2052-40a8-8acd-995989240587_555.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fb/02/ed/fb02edd1-4170-b289-d192-040190ed422f/062ff617-573c-4b4c-9300-bbe1dd60b199_666.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b0/3d/71/b03d7165-57cb-94ae-6264-d80fd65c8fd7/cdbb0737-aec4-45af-a57e-e7cd7dba201d_888.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5d/f0/85/5df085b8-ba92-6dd2-0fbb-16fa1f78b3cc/a5aa16d3-849b-458f-bb97-0043f91e531e_777.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

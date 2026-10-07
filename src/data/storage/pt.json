@@ -76506,6 +76506,25 @@
     "history": [
       [
         {
+          "timestamp": 1791397748865,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Arcade Dice Sale": "3,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "The Sports Car": "3,49 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Kraken Token": "2,99 €",
+            "The Trophy Tycoon Sale": "2,99 €",
+            "Welcome Offer": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791088289653,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -83943,7 +83962,7 @@
       "+100 boosters ECO-Initiative!": "1,00 €",
       "+2026 boosters ECO-Initiative!": "5,99 €",
       "+444! Triple-Four Booster Pack": "2,99 €",
-      "Full scenarios": "0,99 €"
+      "Full scenarios": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -83954,6 +83973,19 @@
       "Full scenarios": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791397748865,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "1,00 €",
+            "+2026 boosters ECO-Initiative!": "4,99 €",
+            "Full scenarios": "1,99 €",
+            "+444! Triple-Four Booster Pack": "2,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791059903104,
@@ -113417,6 +113449,23 @@
     "history": [
       [
         {
+          "timestamp": 1791397748865,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jingle": "2,99 €",
+            "Yearly": "12,99 €",
+            "Monthly": "1,99 €",
+            "Moonnight": "2,99 €",
+            "Sky": "2,99 €",
+            "Forest": "2,99 €",
+            "Loki": "1,99 €",
+            "Coco": "1,99 €",
+            "Lucky": "1,99 €",
+            "Simba": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1791366760269,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -124062,6 +124111,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791397748865,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "John Deere 8R 410": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Claas Xerion 5000": "2,49 €",
+            "Versatile 4WD 620": "2,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791237018351,
@@ -143912,6 +143980,31 @@
             "月度会员": "2,99 €",
             "年卡会员": "8,99 €",
             "终身会员": "17,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6780967766": {
+    "name": "Comprato",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Comprato Plus": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Comprato Plus": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791397748865,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Comprato Plus": "1,99 €"
           }
         }
       ]
