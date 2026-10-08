@@ -1,5 +1,133 @@
 [
   {
+    "trackId": 882362024,
+    "region": "tr",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺21,99",
+        "to": "₺20,00",
+        "range": "[₺20,00 ~ ₺21,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Main Story Set",
+        "from": "₺329,99",
+        "to": "₺319,99",
+        "range": "[₺319,99 ~ ₺329,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Special Episode",
+        "from": "₺69,99",
+        "to": "₺63,99",
+        "range": "[₺63,99 ~ ₺69,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Costume Set",
+        "from": "₺21,99",
+        "to": "₺20,00",
+        "range": "[₺20,00 ~ ₺21,99]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "₺20,00",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id882362024",
+    "trackName": "Ace Attorney: Dual Destinies",
+    "firstRecordedAt": 1788602462583
+  },
+  {
+    "trackId": 1136993233,
+    "region": "tr",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺21,99",
+        "to": "₺20,00",
+        "range": "[₺20,00 ~ ₺21,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "All Episodes Set",
+        "from": "₺329,99",
+        "to": "₺299,99",
+        "range": "[₺299,99 ~ ₺329,99]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "₺20,00",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1136993233",
+    "trackName": "Apollo Justice Ace Attorney",
+    "firstRecordedAt": 1761304267230
+  },
+  {
+    "trackId": 1239299402,
+    "region": "tr",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺129,99",
+        "to": "₺25,99",
+        "range": "[₺19,99 ~ ₺129,99]"
+      }
+    ],
+    "price": 25.99,
+    "formattedPrice": "₺25,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1239299402",
+    "trackName": "Street Fighter IV CE",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1621065119,
+    "region": "tr",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺699,99",
+        "to": "₺419,00",
+        "range": "[₺299,99 ~ ₺699,99]"
+      }
+    ],
+    "price": 419,
+    "formattedPrice": "₺419,00",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1621065119",
+    "trackName": "Ace Attorney Trilogy",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 6446021269,
+    "region": "tr",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺799,99",
+        "to": "₺61,99",
+        "range": "[₺37,99 ~ ₺799,99]"
+      }
+    ],
+    "price": 61.99,
+    "formattedPrice": "₺61,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6446021269",
+    "trackName": "MEGA MAN X DiVE Offline",
+    "firstRecordedAt": 1745481777335
+  },
+  {
     "trackId": 777310222,
     "region": "tr",
     "timestamp": 1791420216639,

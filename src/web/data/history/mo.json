@@ -22595,6 +22595,21 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Complete Set": "USD 3.99",
+            "Full Armor": "USD 1.99",
+            "All Health Boosts": "USD 0.99",
+            "Arranged BGMs": "USD 2.99",
+            "All Weapons": "USD 1.99",
+            "All Subtanks": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -57084,17 +57099,33 @@
       "Episode 3": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
-      "Main Story Set": "USD 14.99",
-      "Special Episode": "USD 2.99",
-      "Costume Set": "USD 0.99",
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "Main Story Set": "USD 9.49",
+      "Special Episode": "USD 1.49",
+      "Costume Set": "USD 0.49",
       "Episode 2": "USD 4.99",
       "Episode 5": "USD 4.99",
       "Episode 4": "USD 4.99",
       "Episode 3": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "Main Story Set": "USD 9.49",
+            "Special Episode": "USD 1.49",
+            "Costume Set": "USD 0.49",
+            "Episode 2": "USD 4.99",
+            "Episode 5": "USD 4.99",
+            "Episode 4": "USD 4.99",
+            "Episode 3": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788602462583,
@@ -87284,15 +87315,29 @@
       "Turnabout Corner": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
-      "All Episodes Set": "USD 14.99",
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "All Episodes Set": "USD 9.49",
       "Turnabout Trump, Part 2": "USD 1.99",
       "Turnabout Succession": "USD 4.99",
       "Turnabout Serenade": "USD 4.99",
       "Turnabout Corner": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "All Episodes Set": "USD 9.49",
+            "Turnabout Trump, Part 2": "USD 1.99",
+            "Turnabout Succession": "USD 4.99",
+            "Turnabout Serenade": "USD 4.99",
+            "Turnabout Corner": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -95393,6 +95438,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -163754,10 +163807,18 @@
       "formattedPrice": "USD 24.99"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99"
+      "price": 9.89,
+      "formattedPrice": "USD 9.89"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 9.89,
+          "formattedPrice": "USD 9.89",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -179749,6 +179810,25 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "賞燈月夜": "USD 0.49",
+            "紅葉漫步": "USD 0.99",
+            "悠閒和菓子": "USD 0.49",
+            "花火大會": "USD 0.99",
+            "萬聖派對": "USD 0.99",
+            "夏日庭院": "USD 0.49",
+            "夏威夷海灘": "USD 0.49",
+            "夏日野餐": "USD 0.49",
+            "秋日旋律": "USD 0.49",
+            "新年日出": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775762349274,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -188412,6 +188492,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,

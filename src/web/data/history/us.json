@@ -64973,7 +64973,8 @@
       "Toyota 2005 Enhanced Diagnostics": "$14.99",
       "Ford 2005 Enhanced Diagnostics": "$14.99",
       "Toyota 2015 Enhanced Diagnostics": "$14.99",
-      "Toyota 2017 Enhanced Diagnostics": "$14.99"
+      "Toyota 2017 Enhanced Diagnostics": "$14.99",
+      "Ford 2013 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -64988,9 +64989,29 @@
       "Toyota 2005 Enhanced Diagnostics": "$14.99",
       "Ford 2005 Enhanced Diagnostics": "$14.99",
       "Toyota 2015 Enhanced Diagnostics": "$14.99",
-      "Toyota 2017 Enhanced Diagnostics": "$14.99"
+      "Toyota 2017 Enhanced Diagnostics": "$14.99",
+      "Ford 2013 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -75921,8 +75942,8 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99",
-      "Pro Pack (annual)": "$17.99",
-      "Pro Pack (monthly)": "$2.99",
+      "Pro Pack (annual)": "$24.99",
+      "Pro Pack (monthly)": "$3.99",
       "Pro Pack": "$89.99",
       "Auto Sync": "$59.99"
     },
@@ -75935,6 +75956,19 @@
       "Auto Sync": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "$24.99",
+            "Pro Pack (monthly)": "$3.99",
+            "Pro Pack": "$89.99",
+            "Auto Sync": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -77305,10 +77339,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774897835870,
@@ -80916,17 +80958,33 @@
       "Episode 4": "$4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
-      "Main Story Set": "$14.99",
-      "Special Episode": "$2.99",
-      "Costume Set": "$0.99",
+      "price": 0.49,
+      "formattedPrice": "$0.49",
+      "Main Story Set": "$9.49",
+      "Special Episode": "$1.49",
+      "Costume Set": "$0.49",
       "Episode 2": "$4.99",
       "Episode 3": "$4.99",
       "Episode 5": "$4.99",
       "Episode 4": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "Main Story Set": "$9.49",
+            "Special Episode": "$1.49",
+            "Costume Set": "$0.49",
+            "Episode 2": "$4.99",
+            "Episode 3": "$4.99",
+            "Episode 5": "$4.99",
+            "Episode 4": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788602462583,
@@ -102479,6 +102537,14 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0.79,
           "formattedPrice": "$0.79",
@@ -114615,6 +114681,25 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "20,000 points": "$0.99",
+            "63,000 points": "$2.99",
+            "225,000 points": "$9.99",
+            "176,000 points": "$7.99",
+            "345,000 points": "$14.99",
+            "100,000 points": "$2.99",
+            "25,000 points": "$0.99",
+            "600,000 points": "$24.99",
+            "500,000 points": "$9.99",
+            "300,000 points": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -123413,15 +123498,29 @@
       "Turnabout Succession": "$4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
-      "All Episodes Set": "$14.99",
+      "price": 0.49,
+      "formattedPrice": "$0.49",
+      "All Episodes Set": "$9.49",
       "Turnabout Trump, Part 2": "$1.99",
       "Turnabout Corner": "$4.99",
       "Turnabout Serenade": "$4.99",
       "Turnabout Succession": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "All Episodes Set": "$9.49",
+            "Turnabout Trump, Part 2": "$1.99",
+            "Turnabout Corner": "$4.99",
+            "Turnabout Serenade": "$4.99",
+            "Turnabout Succession": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761304267230,
@@ -133646,6 +133745,20 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The River": "$1.99",
+            "Inns & Cathedrals Expansion": "$2.99",
+            "Traders and Builders": "$2.99",
+            "The Princess and the Dragon": "$2.99",
+            "Winter and Gingerbread Man": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 1.09,
           "formattedPrice": "$1.09",
@@ -135472,6 +135585,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -141591,6 +141712,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -153281,6 +153410,21 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "Terraforming Mars - Prelude": "$3.99",
+            "Hellas & Elysium": "$3.99",
+            "Venus Next": "$3.99",
+            "Original Promo Pack": "$2.99",
+            "Big Box Promo Pack": "$4.99",
+            "Colonies": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 2.19,
           "formattedPrice": "$2.19",
@@ -153637,6 +153781,25 @@
       "Original Dark Lord Package": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Monster Succession": "$4.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakening Viper Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Torture Master Package": "$22.99",
+            "Awakening Skill Package": "$17.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789701814822,
@@ -163987,6 +164150,14 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -165788,6 +165959,17 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "Map Pack 1": "$2.99",
+            "Map Pack 2": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -166722,6 +166904,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788923896641,
@@ -168351,6 +168541,21 @@
       "Hirelings & Landmarks": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "$9.99",
+            "Root: The Underworld Expansion": "$9.99",
+            "Exiles & Partisans & Vagabonds": "$7.99",
+            "Root: The Marauder Expansion": "$9.99",
+            "The Clockwork Expansion": "$5.99",
+            "Hirelings & Landmarks": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -186216,6 +186421,14 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -190036,6 +190249,16 @@
       "Tuscany Essential Edition": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "Tuscany Essential Edition": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -199769,6 +199992,14 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -200982,6 +201213,25 @@
       "Ascensio Kit": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Master Package": "$19.99",
+            "Tamer Kit": "$0.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,
@@ -212028,6 +212278,18 @@
       "Eternal Embers DLC": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "Ragnarök for free download": "$0.00",
+            "Atlantis for free download": "$0.00",
+            "Eternal Embers DLC": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788491191696,
@@ -234607,6 +234869,18 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "$9.99",
+            "Dune: Imperium - Uprising": "$10.99",
+            "Dune: Imperium - Immortality": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -236322,6 +236596,17 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Sunken Treasures": "$8.99",
+            "Mummy's Curse": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -237201,6 +237486,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -246242,6 +246535,14 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -248928,10 +249229,18 @@
       "formattedPrice": "$24.99"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "$14.99"
+      "price": 9.89,
+      "formattedPrice": "$9.89"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 9.89,
+          "formattedPrice": "$9.89",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -256889,6 +257198,25 @@
       "Mecha Jormungand": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Character Pass": "$11.99",
+            "Mecha Pack": "$4.99",
+            "Monster Pack": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -270643,6 +270971,25 @@
       "五子良將": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "戰國七雄": "$5.99",
+            "群雄爭霸": "$2.99",
+            "楚漢爭霸": "$5.99",
+            "自創武將": "$2.99",
+            "自創寶物": "$1.99",
+            "自創武將朝代特色兵種補丁": "$7.99",
+            "重振漢室": "$2.99",
+            "無雙戰神": "$5.99",
+            "虎嘯鳳鳴": "$3.99",
+            "巾幗綻芳華": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790933058173,
@@ -313701,6 +314048,14 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 29.99,
           "formattedPrice": "$29.99",
@@ -323613,6 +323968,14 @@
       "formattedPrice": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -334984,6 +335347,18 @@
     "history": [
       [
         {
+          "timestamp": 1791453869385,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC - The Tournament": "$1.99",
+            "DLC - The Ember Saga": "$1.99",
+            "DLC - Land of the Eclipse": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -338404,11 +338779,21 @@
       "Unholy Fusion": "$1.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Unholy Fusion": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Unholy Fusion": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789072077262,
@@ -341169,6 +341554,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789787996372,
@@ -353486,10 +353879,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,
@@ -353878,6 +354279,14 @@
       "Unlocked! “Akane” & “Koro”": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,

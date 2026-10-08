@@ -1,5 +1,153 @@
 [
   {
+    "trackId": 469343554,
+    "region": "hk",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 39.00",
+        "to": "HK$ 7.00",
+        "range": "[HK$ 7.00 ~ HK$ 39.00]"
+      }
+    ],
+    "price": 7,
+    "formattedPrice": "HK$ 7.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id469343554",
+    "trackName": "洛克人X",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 882362024,
+    "region": "hk",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "HK$ 3.00",
+        "range": "[HK$ 3.00 ~ HK$ 8.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Main Story Set",
+        "from": "HK$ 118.00",
+        "to": "HK$ 68.00",
+        "range": "[HK$ 68.00 ~ HK$ 118.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Special Episode",
+        "from": "HK$ 23.00",
+        "to": "HK$ 11.00",
+        "range": "[HK$ 11.00 ~ HK$ 23.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Costume Set",
+        "from": "HK$ 8.00",
+        "to": "HK$ 3.00",
+        "range": "[HK$ 3.00 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 3,
+    "formattedPrice": "HK$ 3.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id882362024",
+    "trackName": "Ace Attorney: Dual Destinies",
+    "firstRecordedAt": 1788602462583
+  },
+  {
+    "trackId": 1136993233,
+    "region": "hk",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "HK$ 3.00",
+        "range": "[HK$ 3.00 ~ HK$ 8.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "All Episodes Set",
+        "from": "HK$ 118.00",
+        "to": "HK$ 68.00",
+        "range": "[HK$ 68.00 ~ HK$ 118.00]"
+      }
+    ],
+    "price": 3,
+    "formattedPrice": "HK$ 3.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1136993233",
+    "trackName": "Apollo Justice Ace Attorney",
+    "firstRecordedAt": 1761304267230
+  },
+  {
+    "trackId": 1239299402,
+    "region": "hk",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 40.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 7.00 ~ HK$ 40.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1239299402",
+    "trackName": "Street Fighter IV CE",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1621065119,
+    "region": "hk",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 188.00",
+        "to": "HK$ 68.00",
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
+      }
+    ],
+    "price": 68,
+    "formattedPrice": "HK$ 68.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1621065119",
+    "trackName": "逆轉裁判123成步堂精選集",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 6446021269,
+    "region": "hk",
+    "timestamp": 1791453869385,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 228.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 8.00 ~ HK$ 228.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6446021269",
+    "trackName": "ROCKMAN X DiVE Offline",
+    "firstRecordedAt": 1745481777335
+  },
+  {
     "trackId": 857607006,
     "region": "hk",
     "timestamp": 1791397748865,
@@ -2416,7 +2564,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -4436,7 +4584,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -8103,7 +8251,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -12164,7 +12312,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -16726,7 +16874,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -21724,7 +21872,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -26786,7 +26934,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -33334,7 +33482,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -36042,7 +36190,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
@@ -39840,7 +39988,7 @@
         "name": "Price",
         "from": "HK$ 188.00",
         "to": "HK$ 94.00",
-        "range": "[HK$ 94.00 ~ HK$ 188.00]"
+        "range": "[HK$ 68.00 ~ HK$ 188.00]"
       }
     ],
     "price": 94,
