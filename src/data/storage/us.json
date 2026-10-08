@@ -89889,6 +89889,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -107375,13 +107383,25 @@
     "name": "Codenames",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "$4.99"
+      "formattedPrice": "$4.99",
+      "Krycí jména: Duet": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Krycí jména: Duet": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767156201270,
@@ -347012,6 +347032,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790419954498,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -351563,6 +351591,27 @@
             "年卡会员": "$7.99",
             "终身会员": "$14.99"
           }
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "name": "Preserve: Complete Edition",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -83046,6 +83046,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -95777,13 +95785,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Krycí jména: Duet": "₺249,99"
     },
     "minPriceInfo": {
       "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "formattedPrice": "₺39,99",
+      "Krycí jména: Duet": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767147072737,
@@ -289639,6 +289659,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -293547,6 +293575,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791173827832,
           "price": 2.99,
           "formattedPrice": "₺2,99",
@@ -294827,6 +294863,29 @@
             "年卡会员": "₺399,99",
             "终身会员": "₺799,99"
           }
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "trackId": 6775430354,
+    "trackName": "Preserve: Complete Edition",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
         }
       ]
     ]

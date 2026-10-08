@@ -79879,6 +79879,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -95181,13 +95189,25 @@
     "name": "Codenames",
     "maxPriceInfo": {
       "price": 150,
-      "formattedPrice": "$150.00"
+      "formattedPrice": "$150.00",
+      "Krycí jména: Duet": "$150.00"
     },
     "minPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "Krycí jména: Duet": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767112568849,
@@ -186027,6 +186047,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -202151,6 +202179,14 @@
       "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,
@@ -225188,6 +225224,14 @@
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,
@@ -290510,6 +290554,16 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787153393547,
           "price": 290,
           "formattedPrice": "$290.00",
@@ -304969,6 +305023,25 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "深淵開拓者": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "尼奧貝希摩斯": "$60.00",
+            "隱月造型套裝": "$320.00",
+            "超越精華": "$990.00",
+            "時間旅行者": "$190.00",
+            "永恆方舟": "$990.00",
+            "魔界通行證1": "$90.00",
+            "訓練記憶": "$590.00",
+            "成長之始": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -308193,6 +308266,14 @@
       "20 fuel to storage": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -312649,6 +312730,27 @@
             "年卡会员": "$290.00",
             "终身会员": "$490.00"
           }
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "name": "Preserve: Complete Edition",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
         }
       ]
     ]

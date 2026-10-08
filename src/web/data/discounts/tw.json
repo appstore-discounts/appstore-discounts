@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "tw",
+    "timestamp": 1791484107175,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$10.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 1664728315,
+    "region": "tw",
+    "timestamp": 1791484107175,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1664728315",
+    "trackName": "Mutropolis mobile",
+    "firstRecordedAt": 1754269969797
+  },
+  {
+    "trackId": 6459581344,
+    "region": "tw",
+    "timestamp": 1791484107175,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $290.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6459581344",
+    "trackName": "Art of Rally",
+    "firstRecordedAt": 1754604817740
+  },
+  {
     "trackId": 469343554,
     "region": "tw",
     "timestamp": 1791453869385,

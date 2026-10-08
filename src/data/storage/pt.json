@@ -1266,7 +1266,9 @@
       "Steel Guitar Sweeteners": "17,99 €",
       "Harp Sweeteners": "6,99 €",
       "Harmonica Sweeteners": "9,99 €",
-      "Buzz Feiten Pack": "6,99 €"
+      "Buzz Feiten Pack": "6,99 €",
+      "All Sweeteners": "44,99 €",
+      "Bluegrass Sweeteners": "6,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -1284,9 +1286,30 @@
       "Steel Guitar Sweeteners": "17,99 €",
       "Harp Sweeteners": "6,99 €",
       "Harmonica Sweeteners": "9,99 €",
-      "Buzz Feiten Pack": "6,99 €"
+      "Buzz Feiten Pack": "6,99 €",
+      "All Sweeteners": "44,99 €",
+      "Bluegrass Sweeteners": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Accordion Sweetener Pack": "9,99 €",
+            "All Sweeteners": "44,99 €",
+            "Full Discounted Upgrade Pack": "69,99 €",
+            "Bluegrass Sweeteners": "6,99 €",
+            "Tuning Tools": "9,99 €",
+            "Harmonic Tuning": "22,99 €",
+            "Extended Frequency Modes": "5,99 €",
+            "Buzz Feiten Pack": "6,99 €",
+            "Guitar & Bass Sweeteners": "6,99 €",
+            "Harmonica Sweeteners": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789616262482,
@@ -7422,14 +7445,33 @@
     "maxPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €",
-      "Annual Upgrade Pass (Mobile)": "4,99 €"
+      "Annual Upgrade Pass (Mobile)": "4,99 €",
+      "Gorjeta maravilhosa": "6,00 €",
+      "Gorjeta generosa": "3,00 €",
+      "Gorjeta gentil": "2,00 €"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €",
-      "Annual Upgrade Pass (Mobile)": "4,99 €"
+      "Annual Upgrade Pass (Mobile)": "4,99 €",
+      "Gorjeta maravilhosa": "6,00 €",
+      "Gorjeta generosa": "3,00 €",
+      "Gorjeta gentil": "2,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Annual Upgrade Pass (Mobile)": "4,99 €",
+            "Gorjeta maravilhosa": "6,00 €",
+            "Gorjeta generosa": "3,00 €",
+            "Gorjeta gentil": "2,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -40241,6 +40283,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -45875,13 +45925,25 @@
     "name": "Codenames",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Krycí jména: Duet": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Krycí jména: Duet": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767147072737,
@@ -56085,6 +56147,25 @@
       "A Large Bag of Gems": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Promoção Pack 5": "17,99 €",
+            "Promover Pack 4": "9,99 €",
+            "Promover Pack 3": "8,99 €",
+            "Promover Pack 2": "5,99 €",
+            "Promover Pacote 1": "2,99 €",
+            "Ranhura Mochila Dupla": "1,99 €",
+            "Genius Big Deal Pack": "1,99 €",
+            "Boxer Big Deal Pack": "1,99 €",
+            "Double Bonus": "1,99 €",
+            "A Large Bag of Gems": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -140032,6 +140113,14 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790419954498,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -144375,6 +144464,27 @@
           "inAppPurchases": {
             "Comprato Plus": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "name": "Preserve: Complete Edition",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791484107175,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
