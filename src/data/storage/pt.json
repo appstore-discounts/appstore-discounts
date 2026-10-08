@@ -12729,15 +12729,26 @@
       "price": 3.99,
       "formattedPrice": "3,99 €",
       "Premium": "43,99 €",
-      "Fitness Buddy Premium": "29,99 €"
+      "Fitness Buddy Premium": "46,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €",
-      "Premium": "22,99 €",
+      "Premium": "9,99 €",
       "Fitness Buddy Premium": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Fitness Buddy Premium": "46,99 €",
+            "Premium": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790629496108,
@@ -34352,8 +34363,8 @@
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €",
-      "Pro Pack (monthly)": "3,49 €",
-      "Pro Pack (annual)": "19,99 €",
+      "Pro Pack (monthly)": "3,99 €",
+      "Pro Pack (annual)": "29,99 €",
       "Pro Pack": "99,99 €",
       "Auto Sync": "69,99 €"
     },
@@ -34366,6 +34377,19 @@
       "Auto Sync": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "29,99 €",
+            "Pro Pack (monthly)": "3,99 €",
+            "Pro Pack": "99,99 €",
+            "Auto Sync": "69,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -35201,10 +35225,18 @@
       "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774897835870,
@@ -44649,6 +44681,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -55235,6 +55275,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -57553,6 +57601,20 @@
       "Winter and Gingerbread Man": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Traders and Builders": "2,99 €",
+            "The River": "1,99 €",
+            "Inns & Cathedrals Expansion": "2,99 €",
+            "The Princess and the Dragon": "2,99 €",
+            "Winter and Gingerbread Man": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -61660,6 +61722,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -66688,6 +66758,21 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Terraforming Mars - Prelude": "3,99 €",
+            "Hellas & Elysium": "3,99 €",
+            "Venus Next": "3,99 €",
+            "Colonies": "3,99 €",
+            "Original Promo Pack": "2,99 €",
+            "Big Box Promo Pack": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -68501,6 +68586,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -69589,6 +69682,17 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Map Pack 1": "2,99 €",
+            "Map Pack 2": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -70367,6 +70471,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788909174789,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -71085,6 +71197,21 @@
       "Hirelings & Landmarks": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "9,99 €",
+            "Root: The Underworld Expansion": "9,99 €",
+            "Exiles & Partisans & Vagabonds": "8,99 €",
+            "The Clockwork Expansion": "6,99 €",
+            "Root: The Marauder Expansion": "9,99 €",
+            "Hirelings & Landmarks": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -73363,6 +73490,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -75325,6 +75460,16 @@
       "Tuscany Essential Edition": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Tuscany Essential Edition": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -81535,6 +81680,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -87187,6 +87340,18 @@
       "Eternal Embers DLC": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Ragnarök for free download": "0,00 €",
+            "Atlantis for free download": "0,00 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788476366977,
@@ -93883,6 +94048,18 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 11.99,
+          "formattedPrice": "11,99 €",
+          "inAppPurchases": {
+            "Dune: Imperium - Uprising": "11,99 €",
+            "Dune: Imperium - Rise of Ix": "9,99 €",
+            "Dune: Imperium - Immortality": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -94757,6 +94934,17 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 11.99,
+          "formattedPrice": "11,99 €",
+          "inAppPurchases": {
+            "Sunken Treasures": "9,99 €",
+            "Mummy's Curse": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -95442,6 +95630,14 @@
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -99502,6 +99698,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -105943,6 +106147,18 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "1,99 €",
+            "DLC - The Ember Saga": "1,99 €",
+            "DLC - The Tournament": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -110142,6 +110358,14 @@
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 11.99,
+          "formattedPrice": "11,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -122077,6 +122301,25 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Jingle": "2,99 €",
+            "2025 Spring Forest Theme": "1,99 €",
+            "2025 Spring Lawn Theme": "2,99 €",
+            "2025 Spring Flower Theme": "1,99 €",
+            "Lawn Theme": "1,99 €",
+            "Toby": "1,99 €",
+            "Gizmo": "1,99 €",
+            "Lucky": "1,99 €",
+            "Loki": "1,99 €",
+            "Civet Theme": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -131128,11 +131371,21 @@
       "Unholy Fusion": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €",
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
       "Unholy Fusion": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Unholy Fusion": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789072077262,
@@ -133818,6 +134071,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789772536425,
@@ -142170,10 +142431,18 @@
       "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,
@@ -142538,6 +142807,14 @@
       "Unlocked! “Akane” & “Koro”": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,

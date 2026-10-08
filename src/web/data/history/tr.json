@@ -32480,6 +32480,25 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 2": "₺109,00",
+            "Minecraft Store Item 6": "₺329,00",
+            "Marketplace Pass Trial": "₺129,99",
+            "Minecraft Store Item 4": "₺219,00",
+            "Minecraft Store Item 3": "₺164,99",
+            "Minecraft Store Item 10": "₺559,99",
+            "Minecraft Store Item 5": "₺269,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -70561,8 +70580,8 @@
     "maxPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99",
-      "Pro Pack (annual)": "₺129,99",
-      "Pro Pack (monthly)": "₺21,99",
+      "Pro Pack (annual)": "₺1.299,99",
+      "Pro Pack (monthly)": "₺199,99",
       "Pro Pack": "₺4.999,99",
       "Auto Sync": "₺2.999,99"
     },
@@ -70575,6 +70594,19 @@
       "Auto Sync": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "₺1.299,99",
+            "Pro Pack (monthly)": "₺199,99",
+            "Pro Pack": "₺4.999,99",
+            "Auto Sync": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -71920,10 +71952,18 @@
       "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774897835870,
@@ -93549,6 +93589,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -113356,6 +113404,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -119784,6 +119840,20 @@
       "Winter and Gingerbread Man": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Inns & Cathedrals Expansion": "₺149,99",
+            "The River": "₺99,99",
+            "Traders and Builders": "₺149,99",
+            "The Princess and the Dragon": "₺149,99",
+            "Winter and Gingerbread Man": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -129741,6 +129811,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -139279,6 +139357,21 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Venus Next": "₺199,99",
+            "Terraforming Mars - Prelude": "₺199,99",
+            "Hellas & Elysium": "₺199,99",
+            "Colonies": "₺199,99",
+            "Original Promo Pack": "₺149,99",
+            "Big Box Promo Pack": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 119.99,
           "formattedPrice": "₺119,99",
@@ -144112,6 +144205,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -145957,6 +146058,17 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Map Pack 1": "₺149,99",
+            "Map Pack 2": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -146962,6 +147074,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788909174789,
@@ -149069,6 +149189,21 @@
       "Hirelings & Landmarks": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "₺499,99",
+            "Root: The Underworld Expansion": "₺499,99",
+            "The Clockwork Expansion": "₺299,99",
+            "Root: The Marauder Expansion": "₺499,99",
+            "Exiles & Partisans & Vagabonds": "₺399,99",
+            "Hirelings & Landmarks": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -155815,6 +155950,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -160582,6 +160725,16 @@
       "Tuscany Essential Edition": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Tuscany Essential Edition": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -181595,6 +181748,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -190010,6 +190171,18 @@
       "Eternal Embers DLC": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 139.99,
+          "formattedPrice": "₺139,99",
+          "inAppPurchases": {
+            "Eternal Embers DLC": "₺89,99",
+            "Ragnarök for free download": "₺0,00",
+            "Atlantis for free download": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788476366977,
@@ -205387,6 +205560,18 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "₺499,99",
+            "Dune: Imperium - Immortality": "₺499,99",
+            "Dune: Imperium - Uprising": "₺599,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -207148,6 +207333,17 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "Mummy's Curse": "₺499,99",
+            "Sunken Treasures": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -208117,6 +208313,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -216452,6 +216656,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -237345,6 +237557,25 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Jingle": "₺149,99",
+            "2025 Forest Theme": "₺99,99",
+            "2025 Lawn Theme": "₺129,99",
+            "2025 Flower Theme": "₺99,99",
+            "Lawn Theme": "₺99,99",
+            "Toby": "₺99,99",
+            "Gizmo": "₺99,99",
+            "Lucky": "₺99,99",
+            "Loki": "₺99,99",
+            "Civet Theme": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "Free",
@@ -246334,6 +246565,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Concorde": "₺99,99",
+            "UH-60": "₺49,99",
+            "Global scenery - 3 months": "₺399,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Global scenery - 12 months": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -268665,6 +268915,14 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -275717,6 +275975,18 @@
     "history": [
       [
         {
+          "timestamp": 1791420216639,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "DLC - The Tournament": "₺99,99",
+            "DLC - The Ember Saga": "₺99,99",
+            "DLC - Land of the Eclipse": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -280376,11 +280646,21 @@
       "Unholy Fusion": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
       "Unholy Fusion": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Unholy Fusion": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789072077262,
@@ -283265,6 +283545,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789772536425,
@@ -291941,10 +292229,18 @@
       "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,
@@ -292349,6 +292645,14 @@
       "Unlocked! “Akane” & “Koro”": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,

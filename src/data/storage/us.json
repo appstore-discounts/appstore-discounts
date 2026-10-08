@@ -113166,7 +113166,9 @@
       "50 kilometers": "$1.99",
       "540 kilometers": "$17.99",
       "275 kilometers": "$9.99",
-      "1,000,000 points": "$39.99"
+      "1,000,000 points": "$39.99",
+      "1,300,000 points": "$49.99",
+      "2,160,000 points": "$79.99"
     },
     "minPriceInfo": {
       "price": 0.49,
@@ -113190,9 +113192,30 @@
       "50 kilometers": "$1.99",
       "540 kilometers": "$17.99",
       "275 kilometers": "$9.99",
-      "1,000,000 points": "$39.99"
+      "1,000,000 points": "$39.99",
+      "1,300,000 points": "$49.99",
+      "2,160,000 points": "$79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "20,000 points": "$0.99",
+            "50 kilometers": "$1.99",
+            "63,000 points": "$2.99",
+            "176,000 points": "$7.99",
+            "225,000 points": "$9.99",
+            "345,000 points": "$14.99",
+            "600,000 points": "$24.99",
+            "1,000,000 points": "$39.99",
+            "1,300,000 points": "$49.99",
+            "2,160,000 points": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787274850915,
@@ -198688,6 +198711,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791420216639,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Zenith Islands DLC": "$4.99"
+          }
+        },
         {
           "timestamp": 1791397748865,
           "price": 4.99,
@@ -350509,6 +350549,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791420216639,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "ALL HEROES BUNDLE": "$29.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Ignus": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "Gems Handful": "$2.99",
+            "Hero Oni": "$4.99"
+          }
+        },
         {
           "timestamp": 1791397748865,
           "price": 6.99,

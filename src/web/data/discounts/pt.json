@@ -1,5 +1,125 @@
 [
   {
+    "trackId": 443646748,
+    "region": "pt",
+    "timestamp": 1791420216639,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "22,99 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 43,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id443646748",
+    "trackName": "Fitness Amigo+",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 857607006,
+    "region": "pt",
+    "timestamp": 1791420216639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id857607006",
+    "trackName": "Triple A HD - Touch Visualizer",
+    "firstRecordedAt": 1772103313387
+  },
+  {
+    "trackId": 1435461053,
+    "region": "pt",
+    "timestamp": 1791420216639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1435461053",
+    "trackName": "This is the Police",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1537060891,
+    "region": "pt",
+    "timestamp": 1791420216639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "19,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 19,99 €]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 6754894237,
+    "region": "pt",
+    "timestamp": 1791420216639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6754894237",
+    "trackName": "CloverPit",
+    "firstRecordedAt": 1766023548883
+  },
+  {
+    "trackId": 6762803589,
+    "region": "pt",
+    "timestamp": 1791420216639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6762803589",
+    "trackName": "Slots & Daggers",
+    "firstRecordedAt": 1787131983558
+  },
+  {
     "trackId": 640364616,
     "region": "pt",
     "timestamp": 1791332575449,
