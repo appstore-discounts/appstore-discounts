@@ -68253,7 +68253,8 @@
       "6 Mo. Remove Ads": "HK$ 88.00",
       "3 Mo. Remove Ads": "HK$ 42.00",
       "12 Mo. Fongo Plus": "HK$ 688.00",
-      "6 Mo. Global Texting": "HK$ 118.00"
+      "6 Mo. Global Texting": "HK$ 118.00",
+      "$50 Credit": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -68278,9 +68279,29 @@
       "6 Mo. Remove Ads": "HK$ 88.00",
       "3 Mo. Remove Ads": "HK$ 42.00",
       "12 Mo. Fongo Plus": "HK$ 688.00",
-      "6 Mo. Global Texting": "HK$ 118.00"
+      "6 Mo. Global Texting": "HK$ 118.00",
+      "$50 Credit": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "$20 Credit": "HK$ 148.00",
+            "$5 Credit": "HK$ 42.00",
+            "$50 Credit": "HK$ 388.00",
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "6 Mo. Global Texting": "HK$ 118.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790999952664,
@@ -122401,7 +122422,7 @@
   },
   "1236657805": {
     "trackId": 1236657805,
-    "trackName": "Cube CFOP",
+    "trackName": "Cube CFOP: F2L, OLL & PLL",
     "region": "hk",
     "maxPriceInfo": {
       "price": 18,
@@ -133492,6 +133513,25 @@
       "Geometric Frame Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,
@@ -177359,6 +177399,25 @@
     "history": [
       [
         {
+          "timestamp": 1791568819448,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "City Break": "HK$ 22.00",
+            "New York 2121 Board": "HK$ 58.00",
+            "Welcome Offer": "HK$ 148.00",
+            "The Atlantis Board": "HK$ 58.00",
+            "The Ultimate Edition Sale": "HK$ 188.00",
+            "Diamond Bundle": "HK$ 98.00",
+            "Speed Die": "HK$ 118.00",
+            "Cosy Dice Sale": "HK$ 32.00",
+            "Theme Collection": "HK$ 148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -185431,6 +185490,25 @@
     "history": [
       [
         {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3880元宝": "HK$ 488.00",
+            "月卡VIP": "HK$ 32.00",
+            "880元宝": "HK$ 98.00",
+            "250元宝": "HK$ 32.00",
+            "60元宝": "HK$ 8.00",
+            "2980元宝": "HK$ 288.00",
+            "1680元宝": "HK$ 188.00",
+            "终身卡VIP": "HK$ 488.00",
+            "终身VIP": "HK$ 488.00",
+            "年卡VIP": "HK$ 288.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787620330936,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -190043,6 +190121,25 @@
       "Remove AD": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Remove AD": "HK$ 8.00",
+            "Starter Package B": "HK$ 228.00",
+            "Daily Jewel Package": "HK$ 148.00",
+            "Lite Daily Jewel Package": "HK$ 58.00",
+            "Starter Package A": "HK$ 188.00",
+            "Jewel Package D": "HK$ 288.00",
+            "Jewel Package A": "HK$ 38.00",
+            "Jewel Package F": "HK$ 588.00",
+            "Jewel Package C": "HK$ 148.00",
+            "Jewel Package B": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -293392,7 +293489,7 @@
   },
   "6758324604": {
     "trackId": 6758324604,
-    "trackName": "兒科考一考（香港中醫考牌）",
+    "trackName": "兒科考一考",
     "region": "hk",
     "maxPriceInfo": {
       "price": 38,
@@ -296969,7 +297066,7 @@
   },
   "6758929719": {
     "trackId": 6758929719,
-    "trackName": "婦科考一考（香港中醫考牌）",
+    "trackName": "婦科考一考",
     "region": "hk",
     "maxPriceInfo": {
       "price": 38,
@@ -303520,10 +303617,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -303743,7 +303848,7 @@
   },
   "6752662508": {
     "trackId": 6752662508,
-    "trackName": "足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "trackName": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
@@ -305650,6 +305755,29 @@
           "timestamp": 1791540411692,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819276809": {
+    "trackId": 6819276809,
+    "trackName": "構造大飯店",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
         }
       ]

@@ -36662,6 +36662,23 @@
     "history": [
       [
         {
+          "timestamp": 1791568819448,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Moon Phases calendar": "$0.99",
+            "Holidays United States": "$0.99",
+            "+800 Emoji Stickers": "$0.99",
+            "Religious holidays": "$0.99",
+            "TV Schedules": "$0.99",
+            "Week Numbers": "$0.99",
+            "Weather calendars": "$1.99",
+            "Calendars - Pro Baseball USA 2015 edition": "$0.99",
+            "Calendars - Pro Football USA 2014-2015 edition": "$0.99",
+            "Calendars - Rio Games 2016 edition": "$0.99"
+          }
+        },
+        {
           "timestamp": 1791540411692,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -133974,16 +133991,24 @@
     ]
   },
   "1236657805": {
-    "name": "Cube CFOP",
+    "name": "Cube CFOP: F2L, OLL & PLL",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -198418,6 +198443,25 @@
       "年卡VIP": "$34.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3880元宝": "$59.99",
+            "月卡VIP": "$3.99",
+            "880元宝": "$12.99",
+            "终身卡VIP": "$59.99",
+            "1680元宝": "$24.99",
+            "2980元宝": "$39.99",
+            "250元宝": "$3.99",
+            "60元宝": "$0.99",
+            "年卡VIP": "$34.99",
+            "终身VIP": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787620330936,
@@ -337712,7 +337756,7 @@
     ]
   },
   "6758324604": {
-    "name": "兒科考一考（香港中醫考牌）",
+    "name": "兒科考一考",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
@@ -343036,7 +343080,7 @@
     ]
   },
   "6758929719": {
-    "name": "婦科考一考（香港中醫考牌）",
+    "name": "婦科考一考",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
@@ -348985,7 +349029,7 @@
     ]
   },
   "6785090016": {
-    "name": "Alpine Quest Nav PRO",
+    "name": "Alpin Quest PRO: Outdoor GPS",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "$7.99"
@@ -350371,10 +350415,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -350583,7 +350635,7 @@
     ]
   },
   "6752662508": {
-    "name": "Footprint|TimeTrails·GPS Route",
+    "name": "Footprints·TimeTrails·GPS Log",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
@@ -351340,6 +351392,25 @@
     "history": [
       [
         {
+          "timestamp": 1791568819448,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Gems Handful": "$2.99",
+            "Hero Ignus": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Oni": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -352025,6 +352096,27 @@
           "timestamp": 1791540411692,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819276809": {
+    "name": "構造大飯店",
+    "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99"
+    },
+    "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
           "inAppPurchases": {}
         }
       ]

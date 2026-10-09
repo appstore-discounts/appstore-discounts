@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2326` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2327` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2327|6819276809|自动|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
 |2326|1057703608|自动|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
 |2325|6762412284|自动|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
 |2324|6812927976|自动|❌|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: Magic RPG|Enchanted Survival: Magic RPG|Enchanted Survival: RPG Loot|
@@ -84,7 +85,7 @@
 |2252|6748895212|自动|蓝牙调试工具箱 - 蓝牙调试助手、蓝牙助手、蓝牙调试、BLE|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|Bluetooth Toolbox-BLE Debugger|Bluetooth Toolbox-BLE Debugger|Caixa Bluetooth-Depurador BLE|
 |2251|6794812402|自动|❌|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|
 |2250|6760777178|自动|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|
-|2249|6752662508|自动|足迹|TimeTrails·每日轨迹·记录一生轨迹·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprint|TimeTrails·GPS Route|Footprint|TimeTrails·GPS Route|Pegadas|TimeTrails·GPS|
+|2249|6752662508|自动|时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprints·TimeTrails·GPS Log|Footprints·TimeTrails·GPS Log|Pegadas·TimeTrails·GPS|
 |2248|6804442508|自动|❌|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|
 |2247|1162580001|自动|❌|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|
 |2246|6478526459|自动|❌|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|
@@ -174,7 +175,7 @@
 |2162|967376861|自动|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
 |2161|6792072690|自动|班主任工作台|❌|❌|❌|班主任工作台|❌|❌|
 |2160|6787737491|自动|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
-|2159|6785090016|自动|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|
+|2159|6785090016|自动|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|
 |2158|625477515|自动|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|
 |2157|6785550835|自动|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|自动|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|
@@ -184,7 +185,7 @@
 |2152|1625083646|自动|❌|Endling|Endling|Endling|Endling|Endling|Endling|
 |2151|6759556305|自动|轻松省钱 - 记账预算|輕鬆省錢 - 記帳預算|輕鬆省錢 - 記帳預算|輕鬆省錢 - 記帳預算|Spend Gently - Mindful Budget|Spend Gently - Mindful Budget|Gaste Leve - Orçamento|
 |2150|6754986970|自动|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|
-|2149|6747655400|自动|RPGEmu - RPG Maker视觉小说们|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
+|2149|6747655400|自动|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
 |2148|6779676299|自动|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|
 |2147|6474194438|自动|❌|饑荒聯機版|饑荒聯機版|饑荒聯機版|Don't Starve Together|Don't Starve Together|Don't Starve Together|
 |2146|6789323764|自动|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
@@ -393,7 +394,7 @@
 |1943|6761575159|自动|退休倒數|退休倒數|退休倒數|退休倒數|退休倒數|退休倒數|退休倒數|
 |1942|6755577839|自动|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|
 |1941|6502634839|自动|❌|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|
-|1940|6758929719|自动|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|
+|1940|6758929719|自动|婦科考一考|婦科考一考|婦科考一考|婦科考一考|婦科考一考|婦科考一考|婦科考一考|
 |1939|1005658093|自动|❌|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|
 |1938|1176797391|自动|❌|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|
 |1937|1458419589|自动|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|
@@ -607,7 +608,7 @@
 |1729| ~~6455495086~~ |自动| ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ |
 |1728|6749826892|自动|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|自动|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
-|1726|6758324604|自动|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
+|1726|6758324604|自动|兒科考一考|兒科考一考|兒科考一考|兒科考一考|兒科考一考|兒科考一考|兒科考一考|
 |1725| ~~6451352949~~ |自动| ~~鱼影 - 体感钓鱼，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ |
 |1724|1074661768|自动|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
 |1723|938409051|自动|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
@@ -1000,7 +1001,7 @@
 |1336| ~~1067575393~~ |自动| ~~照片橡皮擦 - 去除水印杂物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ |
 |1335|311768443|自动|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
 |1334|453126527|自动|Flashnote Derby 识谱竞速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby|Flashnote Derby|Flashnote Derby|
-|1333|1236657805|自动|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|
+|1333|1236657805|自动|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|
 |1332|657638474|自动|❌|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot|
 |1331|465810912|自动|计算器HD+专业版|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculadora HD+ PRO|
 |1330|6443943397|自动|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|❌|❌|❌|

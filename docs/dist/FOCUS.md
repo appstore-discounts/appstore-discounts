@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2327` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2327|6819276809|Automatic|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
 |2326|1057703608|Automatic|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
 |2325|6762412284|Automatic|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
 |2324|6812927976|Automatic|❌|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: Magic RPG|Enchanted Survival: Magic RPG|Enchanted Survival: RPG Loot|
@@ -84,7 +85,7 @@ So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push n
 |2252|6748895212|Automatic|蓝牙调试工具箱 - 蓝牙调试助手、蓝牙助手、蓝牙调试、BLE|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|Bluetooth Toolbox-BLE Debugger|Bluetooth Toolbox-BLE Debugger|Caixa Bluetooth-Depurador BLE|
 |2251|6794812402|Automatic|❌|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|
 |2250|6760777178|Automatic|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|
-|2249|6752662508|Automatic|足迹|TimeTrails·每日轨迹·记录一生轨迹·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprint|TimeTrails·GPS Route|Footprint|TimeTrails·GPS Route|Pegadas|TimeTrails·GPS|
+|2249|6752662508|Automatic|时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprints·TimeTrails·GPS Log|Footprints·TimeTrails·GPS Log|Pegadas·TimeTrails·GPS|
 |2248|6804442508|Automatic|❌|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|
 |2247|1162580001|Automatic|❌|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|
 |2246|6478526459|Automatic|❌|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|
@@ -174,7 +175,7 @@ So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push n
 |2162|967376861|Automatic|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
 |2161|6792072690|Automatic|班主任工作台|❌|❌|❌|班主任工作台|❌|❌|
 |2160|6787737491|Automatic|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
-|2159|6785090016|Automatic|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|
+|2159|6785090016|Automatic|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|
 |2158|625477515|Automatic|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|
 |2157|6785550835|Automatic|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|Automatic|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|
@@ -184,7 +185,7 @@ So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push n
 |2152|1625083646|Automatic|❌|Endling|Endling|Endling|Endling|Endling|Endling|
 |2151|6759556305|Automatic|轻松省钱 - 记账预算|輕鬆省錢 - 記帳預算|輕鬆省錢 - 記帳預算|輕鬆省錢 - 記帳預算|Spend Gently - Mindful Budget|Spend Gently - Mindful Budget|Gaste Leve - Orçamento|
 |2150|6754986970|Automatic|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|
-|2149|6747655400|Automatic|RPGEmu - RPG Maker视觉小说们|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
+|2149|6747655400|Automatic|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
 |2148|6779676299|Automatic|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|
 |2147|6474194438|Automatic|❌|饑荒聯機版|饑荒聯機版|饑荒聯機版|Don't Starve Together|Don't Starve Together|Don't Starve Together|
 |2146|6789323764|Automatic|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
@@ -393,7 +394,7 @@ So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push n
 |1943|6761575159|Automatic|退休倒數|退休倒數|退休倒數|退休倒數|退休倒數|退休倒數|退休倒數|
 |1942|6755577839|Automatic|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|Voice Memos - Merge|
 |1941|6502634839|Automatic|❌|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|Dungeon Tracer|
-|1940|6758929719|Automatic|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|婦科考一考（香港中醫考牌）|
+|1940|6758929719|Automatic|婦科考一考|婦科考一考|婦科考一考|婦科考一考|婦科考一考|婦科考一考|婦科考一考|
 |1939|1005658093|Automatic|❌|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|The Escapists: Prison Escape|
 |1938|1176797391|Automatic|❌|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|Carrier Landing HD|
 |1937|1458419589|Automatic|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|Hondata Complete|
@@ -607,7 +608,7 @@ So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push n
 |1729| ~~6455495086~~ |Automatic| ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ | ~~3D Pinball Space Cadet~~ |
 |1728|6749826892|Automatic|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|Automatic|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
-|1726|6758324604|Automatic|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
+|1726|6758324604|Automatic|兒科考一考|兒科考一考|兒科考一考|兒科考一考|兒科考一考|兒科考一考|兒科考一考|
 |1725| ~~6451352949~~ |Automatic| ~~鱼影 - 体感钓鱼，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ |
 |1724|1074661768|Automatic|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
 |1723|938409051|Automatic|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
@@ -1000,7 +1001,7 @@ So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push n
 |1336| ~~1067575393~~ |Automatic| ~~照片橡皮擦 - 去除水印杂物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ |
 |1335|311768443|Automatic|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
 |1334|453126527|Automatic|Flashnote Derby 识谱竞速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby|Flashnote Derby|Flashnote Derby|
-|1333|1236657805|Automatic|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|
+|1333|1236657805|Automatic|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|
 |1332|657638474|Automatic|❌|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot|
 |1331|465810912|Automatic|计算器HD+专业版|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculadora HD+ PRO|
 |1330|6443943397|Automatic|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|❌|❌|❌|

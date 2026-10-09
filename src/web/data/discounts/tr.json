@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1492049794,
+    "region": "tr",
+    "timestamp": 1791568819448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺4,99",
+        "to": "Free",
+        "range": "[Free ~ ₺4,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1492049794",
+    "trackName": "宗师-武林风云传",
+    "firstRecordedAt": 1774723994994
+  },
+  {
+    "trackId": 6802565793,
+    "region": "tr",
+    "timestamp": 1791568819448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "Free",
+        "range": "[Free ~ ₺249,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6802565793",
+    "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
+    "firstRecordedAt": 1787761021464
+  },
+  {
     "trackId": 1524418421,
     "region": "tr",
     "timestamp": 1791540411692,
@@ -705,7 +745,7 @@
     "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6752662508",
-    "trackName": "Footprint|TimeTrails·GPS Route",
+    "trackName": "Footprints·TimeTrails·GPS Log",
     "firstRecordedAt": 1788345787844
   },
   {
@@ -3410,7 +3450,7 @@
         "name": "Price",
         "from": "₺249,99",
         "to": "₺49,99",
-        "range": "[₺4,99 ~ ₺249,99]"
+        "range": "[Free ~ ₺249,99]"
       }
     ],
     "price": 49.99,
@@ -5664,7 +5704,7 @@
     "formattedPrice": "₺199,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6785090016",
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "firstRecordedAt": 1784860637377
   },
   {

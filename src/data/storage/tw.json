@@ -10287,7 +10287,8 @@
       "Gottschalk: The Mutopia Collection": "$0.00",
       "Verdi: The Mutopia Collection": "$0.00",
       "Sousa: The Mutopia Collection": "$0.00",
-      "Beethoven: The Mutopia Collection": "$30.00"
+      "Beethoven: The Mutopia Collection": "$30.00",
+      "Chopin: The Mutopia Collection": "$30.00"
     },
     "minPriceInfo": {
       "price": 790,
@@ -10315,9 +10316,29 @@
       "Gottschalk: The Mutopia Collection": "$0.00",
       "Verdi: The Mutopia Collection": "$0.00",
       "Sousa: The Mutopia Collection": "$0.00",
-      "Beethoven: The Mutopia Collection": "$30.00"
+      "Beethoven: The Mutopia Collection": "$30.00",
+      "Chopin: The Mutopia Collection": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$90.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Chopin: The Mutopia Collection": "$30.00",
+            "Haydn: The Mutopia Collection": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791025831979,
@@ -121231,16 +121252,24 @@
     ]
   },
   "1236657805": {
-    "name": "Cube CFOP",
+    "name": "Cube CFOP: F2L, OLL & PLL",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -132165,6 +132194,25 @@
       "Geometric Frame Pack": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,
@@ -183050,6 +183098,25 @@
     "history": [
       [
         {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月卡VIP": "$120.00",
+            "3880元宝": "$1,990.00",
+            "880元宝": "$390.00",
+            "250元宝": "$120.00",
+            "60元宝": "$30.00",
+            "1680元宝": "$790.00",
+            "终身卡VIP": "$1,990.00",
+            "2980元宝": "$1,290.00",
+            "终身VIP": "$1,990.00",
+            "年卡VIP": "$1,190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787620330936,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -227415,6 +227482,25 @@
       "綠色藥草吊飾": "$29.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$1,700.00",
+            "逆命殊途": "$280.00",
+            "額外內容擴充包": "$560.00",
+            "武器專屬強化券 x5 (A)": "$280.00",
+            "武器專屬強化券 x3 (A)": "$199.00",
+            "武器專屬強化券 x1 (A)": "$85.00",
+            "手槍彈藥吊飾": "$29.00",
+            "金色公事包": "$29.00",
+            "武器專屬強化券 x1 (B)": "$85.00",
+            "綠色藥草吊飾": "$29.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791157842787,
@@ -301155,7 +301241,7 @@
     ]
   },
   "6758324604": {
-    "name": "兒科考一考（香港中醫考牌）",
+    "name": "兒科考一考",
     "maxPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00"
@@ -304910,7 +304996,7 @@
     ]
   },
   "6758929719": {
-    "name": "婦科考一考（香港中醫考牌）",
+    "name": "婦科考一考",
     "maxPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00"
@@ -311269,10 +311355,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -311481,7 +311575,7 @@
     ]
   },
   "6752662508": {
-    "name": "足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "name": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
@@ -313005,14 +313099,22 @@
   "6812927976": {
     "name": "Enchanted Survival: 刷寶RPG",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -313039,6 +313141,27 @@
           "timestamp": 1791540411692,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819276809": {
+    "name": "構造大飯店",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 390,
+          "formattedPrice": "$390.00",
           "inAppPurchases": {}
         }
       ]

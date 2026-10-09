@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1309638846,
+    "region": "mo",
+    "timestamp": 1791568819448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 0.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1309638846",
+    "trackName": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1492049794,
+    "region": "mo",
+    "timestamp": 1791568819448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1492049794",
+    "trackName": "宗師-武林群俠風雲傳",
+    "firstRecordedAt": 1774723994994
+  },
+  {
+    "trackId": 6802565793,
+    "region": "mo",
+    "timestamp": 1791568819448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6802565793",
+    "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
+    "firstRecordedAt": 1787761021464
+  },
+  {
     "trackId": 1524418421,
     "region": "mo",
     "timestamp": 1791540411692,
@@ -665,7 +725,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6752662508",
-    "trackName": "足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "trackName": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
     "firstRecordedAt": 1788345787844
   },
   {
@@ -3001,7 +3061,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 4.99]"
+        "range": "[免費 ~ USD 4.99]"
       }
     ],
     "price": 0.99,

@@ -58821,16 +58821,24 @@
     ]
   },
   "1236657805": {
-    "name": "Cube CFOP",
+    "name": "Cube CFOP: F2L, OLL & PLL",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787251071801,
@@ -82321,6 +82329,25 @@
       "60元宝": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "终身卡VIP": "69,99 €",
+            "终身VIP": "69,99 €",
+            "年卡VIP": "39,99 €",
+            "月卡VIP": "3,99 €",
+            "880元宝": "14,99 €",
+            "250元宝": "3,99 €",
+            "3880元宝": "69,99 €",
+            "2980元宝": "44,99 €",
+            "1680元宝": "29,99 €",
+            "60元宝": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787620330936,
@@ -133999,7 +134026,7 @@
     ]
   },
   "6758324604": {
-    "name": "兒科考一考（香港中醫考牌）",
+    "name": "兒科考一考",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
@@ -137087,7 +137114,7 @@
     ]
   },
   "6758929719": {
-    "name": "婦科考一考（香港中醫考牌）",
+    "name": "婦科考一考",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
@@ -141820,7 +141847,7 @@
     ]
   },
   "6785090016": {
-    "name": "Alpine Quest Nav PRO",
+    "name": "Alpin Quest PRO: Outdoor GPS",
     "maxPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €"
@@ -143152,10 +143179,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -143364,7 +143399,7 @@
     ]
   },
   "6752662508": {
-    "name": "Pegadas|TimeTrails·GPS",
+    "name": "Pegadas·TimeTrails·GPS",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -144773,6 +144808,27 @@
           "timestamp": 1791540411692,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819276809": {
+    "name": "構造大飯店",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791568819448,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
           "inAppPurchases": {}
         }
       ]

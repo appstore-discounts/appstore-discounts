@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1492049794,
+    "region": "pt",
+    "timestamp": 1791568819448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
+    "trackName": "宗师-武林风云传",
+    "firstRecordedAt": 1774723994994
+  },
+  {
+    "trackId": 6802565793,
+    "region": "pt",
+    "timestamp": 1791568819448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 5,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6802565793",
+    "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
+    "firstRecordedAt": 1787761021464
+  },
+  {
     "trackId": 1524418421,
     "region": "pt",
     "timestamp": 1791540411692,
@@ -638,7 +678,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752662508",
-    "trackName": "Pegadas|TimeTrails·GPS",
+    "trackName": "Pegadas·TimeTrails·GPS",
     "firstRecordedAt": 1788345787844
   },
   {
@@ -3180,7 +3220,7 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 5,99 €]"
+        "range": "[Gratuito ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -5327,7 +5367,7 @@
     "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6785090016",
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "firstRecordedAt": 1784860637377
   },
   {
