@@ -329,14 +329,22 @@
     "trackName": "Airports",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "HK$ 68.00"
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -16156,7 +16164,7 @@
   },
   "390017969": {
     "trackId": 390017969,
-    "trackName": "Due - Reminders & Timers",
+    "trackName": "Due - 快速提醒與定時器",
     "region": "hk",
     "maxPriceInfo": {
       "price": 58,
@@ -76212,6 +76220,25 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Mia": "HK$ 8.00",
+            "Free Checkpoints": "HK$ 8.00",
+            "Small Coin Pack": "HK$ 8.00",
+            "Large Coin Pack": "HK$ 22.00",
+            "Unlock all stages": "HK$ 8.00",
+            "Medium Coin Pack": "HK$ 18.00",
+            "Atom": "HK$ 8.00",
+            "Dragon": "HK$ 8.00",
+            "Pig": "HK$ 8.00",
+            "Snake": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788250806888,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -80756,6 +80783,25 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "HK$ 10.00",
+            "金牛会员连续包月": "HK$ 8.00",
+            "机构探测器连续包月": "HK$ 133.00",
+            "分时顶底连续包季": "HK$ 148.00",
+            "主力密码连续包月": "HK$ 138.00",
+            "手机超级Level-2连续包半年": "HK$ 53.00",
+            "手机高级诊股连续包月": "HK$ 10.00",
+            "神奇电波连续包季": "HK$ 218.00",
+            "手机Level-2包年服务": "HK$ 98.00",
+            "金牛会员尊享版连续包年": "HK$ 118.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791290979408,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -83845,6 +83891,20 @@
       "永久会员": "HK$ 98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生辰-年度会员": "HK$ 98.00",
+            "生辰年度会员": "HK$ 88.00",
+            "永久会员": "HK$ 98.00",
+            "月度会员": "HK$ 18.00",
+            "生辰-季度会员": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -96180,6 +96240,29 @@
             "英雄命運女俠": "HK$ 22.00",
             "英雄風刃": "HK$ 22.00"
           }
+        }
+      ]
+    ]
+  },
+  "1057703608": {
+    "trackId": 1057703608,
+    "trackName": "Gyn Cancer Staging Atlas",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -189045,6 +189128,14 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -189954,6 +190045,25 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Jewel Package E": "HK$ 488.00",
+            "Jewel Package B": "HK$ 88.00",
+            "Jewel Package C": "HK$ 148.00",
+            "Jewel Package F": "HK$ 588.00",
+            "Jewel Package A": "HK$ 38.00",
+            "Jewel Package D": "HK$ 288.00",
+            "Remove AD": "HK$ 8.00",
+            "Starter Package A": "HK$ 188.00",
+            "Lite Daily Jewel Package": "HK$ 58.00",
+            "Daily Jewel Package": "HK$ 148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -190735,6 +190845,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -193668,6 +193786,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -201411,6 +201537,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -223545,6 +223679,16 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791290979408,
           "price": 0,
           "formattedPrice": "免費",
@@ -238555,6 +238699,23 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "群雄爭霸": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "終身版": "HK$ 58.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "無雙戰神": "HK$ 48.00",
+            "自創地圖": "HK$ 32.00",
+            "鎮海神威": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1791507612931,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -250113,6 +250274,25 @@
       "秋日旋律": "HK$ 6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "2025春さくらスキン": "HK$ 2.00",
+            "星降之夜": "HK$ 9.00",
+            "新年日出": "HK$ 9.00",
+            "花火大會": "HK$ 9.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "夏日庭院": "HK$ 6.00",
+            "萬聖派對": "HK$ 9.00",
+            "夏色クリームソーダ": "HK$ 6.00",
+            "ネオンシティ": "HK$ 9.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790656083068,
@@ -275326,6 +275506,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791540411692,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "19.99美元商品": "HK$ 148.00",
+            "3.99美元商品2": "HK$ 32.00",
+            "0.99美元商品": "HK$ 8.00",
+            "8.99美元商品": "HK$ 68.00",
+            "3.99美元商品": "HK$ 32.00",
+            "12.99美元商品2": "HK$ 98.00",
+            "12.99美元商品": "HK$ 98.00",
+            "49.99美元商品": "HK$ 388.00",
+            "99.99美元商品": "HK$ 788.00",
+            "14.99美元商品": "HK$ 118.00"
+          }
+        },
         {
           "timestamp": 1791507612931,
           "price": 2,
@@ -304349,6 +304546,23 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全英雄禮包": "HK$ 228.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "展示 禮包 1": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1791507612931,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -305413,6 +305627,29 @@
           "timestamp": 1791507612931,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762412284": {
+    "trackId": 6762412284,
+    "trackName": "Days Anchor - Countdown Events",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]

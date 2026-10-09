@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2324` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2326` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2326|1057703608|Automatic|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
+|2325|6762412284|Automatic|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
 |2324|6812927976|Automatic|❌|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: Magic RPG|Enchanted Survival: Magic RPG|Enchanted Survival: RPG Loot|
 |2323|6775430354|Automatic|❌|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|
 |2322|6780967766|Automatic|❌|❌|❌|❌|❌|❌|Comprato|
@@ -846,7 +848,7 @@ So far, we've covered `7` `Countries or Regions` and  `2324` `Apps` <br />Push n
 |1488|1512939054|Automatic|❌|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|
 |1487|6744589266|Automatic|❌|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|
 |1486|6739813869|Automatic|❌|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike Game|❌|❌|
-|1485|390017969|Automatic|Due - 快速提醒、定时器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
+|1485|390017969|Automatic|Due - 快速提醒、定时器|Due - 快速提醒與定時器|Due - 快速提醒與定時器|Due - 快速提醒與定時器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
 |1484|6742044212|Automatic|简记快捷记账 - AI自动记账|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|
 |1483|1637377410|Automatic|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|
 |1482|1449383466|Automatic|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|

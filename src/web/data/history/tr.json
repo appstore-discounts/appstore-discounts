@@ -524,14 +524,22 @@
     "trackName": "Airports",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -96317,6 +96325,29 @@
       ]
     ]
   },
+  "1057703608": {
+    "trackId": 1057703608,
+    "trackName": "Gyn Cancer Staging Atlas",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "minPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1059218666": {
     "trackId": 1059218666,
     "trackName": "Litchi for DJI Drones",
@@ -186642,6 +186673,14 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1779220780927,
           "price": 0,
           "formattedPrice": "Free",
@@ -188113,6 +188152,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -189931,6 +189978,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -196813,6 +196868,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -220475,6 +220538,16 @@
       "Buy Pro Version": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -286823,6 +286896,14 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791042403719,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -295082,6 +295163,29 @@
       [
         {
           "timestamp": 1791507612931,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762412284": {
+    "trackId": 6762412284,
+    "trackName": "Days Anchor - Countdown Events",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
           "price": 49.99,
           "formattedPrice": "₺49,99",
           "inAppPurchases": {}

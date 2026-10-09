@@ -333,14 +333,22 @@
   "299117180": {
     "name": "Airports",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -46010,6 +46018,27 @@
       ]
     ]
   },
+  "1057703608": {
+    "name": "Gyn Cancer Staging Atlas",
+    "maxPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "minPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1059218666": {
     "name": "Litchi for DJI Drones",
     "maxPriceInfo": {
@@ -50523,6 +50552,25 @@
       "Skywarden Unlock Pack": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "XP de Torre": "1,19 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "10 Pontos de Conhecimento": "8,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Ponto de Conhecimento": "1,19 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -76827,6 +76875,25 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Arcade Dice Sale": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "The Sports Car": "3,49 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -85181,6 +85248,14 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1779220780927,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -85903,6 +85978,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -87216,6 +87299,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -91375,6 +91466,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -101810,6 +101909,16 @@
       "Buy Pro Version": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Buy Pro Version": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -137206,6 +137315,14 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791042403719,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -144635,6 +144752,27 @@
           "timestamp": 1791507612931,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762412284": {
+    "name": "Days Anchor - Countdown Events",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

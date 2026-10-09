@@ -305,14 +305,22 @@
   "299117180": {
     "name": "Airports",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -11871,7 +11879,7 @@
     ]
   },
   "390017969": {
-    "name": "Due - Reminders & Timers",
+    "name": "Due - 快速提醒與定時器",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99",
@@ -74622,6 +74630,27 @@
       ]
     ]
   },
+  "1057703608": {
+    "name": "Gyn Cancer Staging Atlas",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1059218666": {
     "name": "Litchi for DJI Drones",
     "maxPriceInfo": {
@@ -137180,6 +137209,14 @@
     "history": [
       [
         {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1779220780927,
           "price": 0,
           "formattedPrice": "免費",
@@ -138740,6 +138777,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -141056,6 +141101,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -146224,6 +146277,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -162176,6 +162237,16 @@
       "Buy Pro Version": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791540411692,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -210855,6 +210926,27 @@
       [
         {
           "timestamp": 1791507612931,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762412284": {
+    "name": "Days Anchor - Countdown Events",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791540411692,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
