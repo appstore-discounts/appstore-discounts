@@ -16161,14 +16161,33 @@
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00",
-      "年度升級通行證（移動設備）": "HK$ 38.00"
+      "年度升級通行證（移動設備）": "HK$ 38.00",
+      "超讚打賞": "HK$ 88.00",
+      "慷慨打賞": "HK$ 38.00",
+      "暖心打賞": "HK$ 28.00"
     },
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00",
-      "年度升級通行證（移動設備）": "HK$ 38.00"
+      "年度升級通行證（移動設備）": "HK$ 38.00",
+      "超讚打賞": "HK$ 88.00",
+      "慷慨打賞": "HK$ 38.00",
+      "暖心打賞": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "年度升級通行證（移動設備）": "HK$ 38.00",
+            "超讚打賞": "HK$ 88.00",
+            "慷慨打賞": "HK$ 38.00",
+            "暖心打賞": "HK$ 28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -30890,6 +30909,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791507612931,
+          "price": 56,
+          "formattedPrice": "HK$ 56.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "HK$ 58.00",
+            "Minecraft Store Item 2": "HK$ 16.00",
+            "Realms Monthly Subscription: You + 2 Friends": "HK$ 28.00",
+            "Minecraft Store Item 6": "HK$ 48.00",
+            "Minecraft Store Item 3": "HK$ 22.00",
+            "Realms Plus: You + 10 Friends": "HK$ 58.00",
+            "Minecraft Store Item 4": "HK$ 32.00",
+            "Minecraft Store Item 5": "HK$ 38.00",
+            "Minecraft Store Item 10": "HK$ 82.00",
+            "Minecraft Store Item 1": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1791484107175,
           "price": 56,
@@ -56512,6 +56548,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791507612931,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Just For Kids": "HK$ 0.00",
+            "Happy Holidays": "HK$ 18.00",
+            "Mix It Up": "HK$ 0.00",
+            "The Ellen Show": "HK$ 0.00",
+            "Build Your Own Deck": "HK$ 22.00",
+            "Adult Supervision": "HK$ 18.00",
+            "Super Heroes": "HK$ 18.00",
+            "Food Fight": "HK$ 18.00",
+            "Wish You Were Here": "HK$ 18.00",
+            "Branded": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1791484107175,
           "price": 18,
@@ -151103,8 +151156,8 @@
     "trackName": "Notes Writer Pro: 不止 PDF, 筆記",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
+      "price": 118,
+      "formattedPrice": "HK$ 118.00",
       "Notes Writer Pro AI Assistant": "HK$ 32.00"
     },
     "minPriceInfo": {
@@ -151113,6 +151166,16 @@
       "Notes Writer Pro AI Assistant": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "HK$ 31.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -238492,6 +238555,23 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "群雄爭霸": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "終身版": "HK$ 58.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "五子良將": "HK$ 48.00",
+            "無雙戰神": "HK$ 48.00",
+            "自創地圖": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1791484107175,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -262859,6 +262939,25 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Concorde": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -275226,6 +275325,25 @@
       "3.99美元商品": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "12.99美元商品2": "HK$ 98.00",
+            "19.99美元商品": "HK$ 148.00",
+            "39.99美元商品": "HK$ 288.00",
+            "12.99美元商品": "HK$ 98.00",
+            "49.99美元商品": "HK$ 388.00",
+            "3.99美元商品2": "HK$ 32.00",
+            "14.99美元商品": "HK$ 118.00",
+            "99.99美元商品": "HK$ 788.00",
+            "29.99美元商品": "HK$ 228.00",
+            "8.99美元商品": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784266941236,
@@ -303314,13 +303432,31 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "终身护持": "HK$ 118.00",
+      "年度护持": "HK$ 22.00",
+      "月度护持": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "formattedPrice": "HK$ 18.00",
+      "终身护持": "HK$ 118.00",
+      "年度护持": "HK$ 22.00",
+      "月度护持": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "终身护持": "HK$ 118.00",
+            "年度护持": "HK$ 22.00",
+            "月度护持": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -304211,6 +304347,25 @@
       "塔 鍊金術師小屋": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "全英雄禮包": "HK$ 228.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 野貓女獵手": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -305235,6 +305390,29 @@
           "timestamp": 1791484107175,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "trackId": 6812927976,
+    "trackName": "Enchanted Survival: 刷寶RPG",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]

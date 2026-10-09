@@ -1293,6 +1293,25 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Tuning Tools": "9,99 €",
+            "Guitar & Bass Sweeteners": "6,99 €",
+            "Harmonic Tuning": "22,99 €",
+            "Extended Frequency Modes": "5,99 €",
+            "Accordion Sweetener Pack": "9,99 €",
+            "Full Discounted Upgrade Pack": "69,99 €",
+            "Orchestral Sweeteners": "6,99 €",
+            "Misc Stringed Sweeteners": "3,99 €",
+            "Keyboard Sweeteners": "22,99 €",
+            "World Sweetener Pack": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -56149,6 +56168,25 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Genius Big Deal Pack": "1,99 €",
+            "Boxer Big Deal Pack": "1,99 €",
+            "Double Bonus": "1,99 €",
+            "Fistful of Gems": "5,99 €",
+            "Buy 100 Gems": "0,99 €",
+            "Promoção Pack 5": "17,99 €",
+            "Promover Pack 4": "9,99 €",
+            "Promover Pack 3": "8,99 €",
+            "Promover Pack 2": "5,99 €",
+            "Promover Pacote 1": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -70053,8 +70091,8 @@
   "1422480068": {
     "name": "Notes Writer Pro: além dos PDF",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
+      "price": 12.99,
+      "formattedPrice": "12,99 €",
       "Notes Writer Pro AI Assistant": "3,99 €"
     },
     "minPriceInfo": {
@@ -70063,6 +70101,16 @@
       "Notes Writer Pro AI Assistant": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -84691,6 +84739,14 @@
       "formattedPrice": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -105230,6 +105286,14 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -108592,6 +108656,16 @@
       "Australia DLC": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Australia DLC": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787188251891,
@@ -114509,6 +114583,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "CRJ900": "0,99 €",
+            "The Aircraft Bundle": "24,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A321": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -137235,6 +137328,25 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Memory of Training": "19,99 €",
+            "Neo Behemoth": "1,99 €",
+            "Underworld Pass 1": "2,99 €",
+            "Ark of Eternity": "34,99 €",
+            "Pioneer of the Abyss": "9,99 €",
+            "Time Traveler": "6,99 €",
+            "Essence of Transcendence": "34,99 €",
+            "Underworld Expansion Pass": "6,99 €",
+            "Essence of the Abyss": "22,99 €",
+            "Essence of Beginning": "22,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790901150979,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -143028,13 +143140,31 @@
     "name": "般若心灯",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "终身护持": "17,99 €",
+      "年度护持": "2,99 €",
+      "月度护持": "0,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "终身护持": "17,99 €",
+      "年度护持": "2,99 €",
+      "月度护持": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "终身护持": "17,99 €",
+            "年度护持": "2,99 €",
+            "月度护持": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -144484,6 +144614,27 @@
           "timestamp": 1791484107175,
           "price": 6.99,
           "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "name": "Enchanted Survival: RPG Loot",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

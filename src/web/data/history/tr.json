@@ -14545,14 +14545,33 @@
     "maxPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99",
-      "Annual Upgrade Pass (Mobile)": "₺29,99"
+      "Annual Upgrade Pass (Mobile)": "₺29,99",
+      "Wonderful Tip": "₺300,00",
+      "Generous Tip": "₺150,00",
+      "Kind Tip": "₺80,00"
     },
     "minPriceInfo": {
       "price": 349.99,
       "formattedPrice": "₺349,99",
-      "Annual Upgrade Pass (Mobile)": "₺29,99"
+      "Annual Upgrade Pass (Mobile)": "₺29,99",
+      "Wonderful Tip": "₺300,00",
+      "Generous Tip": "₺150,00",
+      "Kind Tip": "₺80,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Annual Upgrade Pass (Mobile)": "₺29,99",
+            "Wonderful Tip": "₺300,00",
+            "Generous Tip": "₺150,00",
+            "Kind Tip": "₺80,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -146443,8 +146462,8 @@
     "trackName": "Notes Writer Pro: Beyond PDFs",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 390,
+      "formattedPrice": "₺390,00",
       "Notes Writer Pro AI Assistant": "₺179,99"
     },
     "minPriceInfo": {
@@ -146453,6 +146472,16 @@
       "Notes Writer Pro AI Assistant": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 390,
+          "formattedPrice": "₺390,00",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "₺149,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -164488,6 +164517,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Atlantis Board": "₺399,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -185614,6 +185662,14 @@
       "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -206924,6 +206980,14 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791070314470,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -227545,6 +227609,14 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -246686,6 +246758,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Concorde": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 747-400": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -273224,6 +273315,16 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787188251891,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -279298,6 +279399,25 @@
       "200000 money": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "sonsuz paket": "₺149,99",
+            "passatb8": "₺49,99",
+            "15 gold": "₺29,99",
+            "10 gold": "₺29,99",
+            "10 ticket": "₺29,99",
+            "30000 money": "₺19,99",
+            "15 ticket": "₺29,99",
+            "porches": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,
@@ -286823,6 +286943,25 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pioneer of the Abyss": "₺499,99",
+            "Underworld Expansion Pass": "₺299,99",
+            "Neo Behemoth": "₺99,99",
+            "Essence of Transcendence": "₺1.499,99",
+            "Underworld Pass 1": "₺149,99",
+            "Time Traveler": "₺299,99",
+            "Memory of Training": "₺999,99",
+            "Ark of Eternity": "₺1.499,99",
+            "Essence of the Abyss": "₺999,99",
+            "Essence of Beginning": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790901150979,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -292851,13 +292990,31 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "终身护持": "₺799,99",
+      "年度护持": "₺149,99",
+      "月度护持": "₺19,99"
     },
     "minPriceInfo": {
       "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "formattedPrice": "₺99,99",
+      "终身护持": "₺799,99",
+      "年度护持": "₺149,99",
+      "月度护持": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "终身护持": "₺799,99",
+            "年度护持": "₺149,99",
+            "月度护持": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -293910,6 +294067,25 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Gems Handful": "₺149,99",
+            "Tower Forger": "₺249,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "Spell Aspect of Sol": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -294885,6 +295061,29 @@
           "timestamp": 1791484107175,
           "price": 199.99,
           "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "trackId": 6812927976,
+    "trackName": "Enchanted Survival: Magic RPG",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]

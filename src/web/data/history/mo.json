@@ -12125,14 +12125,33 @@
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99",
-      "年度升級通行證（移動設備）": "USD 4.99"
+      "年度升級通行證（移動設備）": "USD 4.99",
+      "超讚打賞": "USD 8.00",
+      "慷慨打賞": "USD 4.00",
+      "暖心打賞": "USD 2.00"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99",
-      "年度升級通行證（移動設備）": "USD 4.99"
+      "年度升級通行證（移動設備）": "USD 4.99",
+      "超讚打賞": "USD 8.00",
+      "慷慨打賞": "USD 4.00",
+      "暖心打賞": "USD 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "超讚打賞": "USD 8.00",
+            "慷慨打賞": "USD 4.00",
+            "暖心打賞": "USD 2.00",
+            "年度升級通行證（移動設備）": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -80320,6 +80339,23 @@
     "history": [
       [
         {
+          "timestamp": 1791507612931,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "助飞战令-3000积分": "USD 0.99",
+            "助飞战令-初级精英战令": "USD 3.99",
+            "助飞战令-6000积分": "USD 4.99",
+            "助飞战令-15000积分": "USD 9.99",
+            "助飞战令-高级精英战令": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1791484107175,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -114192,8 +114228,8 @@
     "trackName": "Notes Writer Pro: 不止 PDF, 筆記",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
+      "price": 12.99,
+      "formattedPrice": "USD 12.99",
       "Notes Writer Pro AI Assistant": "USD 3.99"
     },
     "minPriceInfo": {
@@ -114202,6 +114238,16 @@
       "Notes Writer Pro AI Assistant": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "USD 3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -213645,13 +213691,31 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "终身护持": "USD 14.99",
+      "年度护持": "USD 2.99",
+      "月度护持": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "终身护持": "USD 14.99",
+      "年度护持": "USD 2.99",
+      "月度护持": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "终身护持": "USD 14.99",
+            "年度护持": "USD 2.99",
+            "月度护持": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -215118,6 +215182,29 @@
           "timestamp": 1791484107175,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "trackId": 6812927976,
+    "trackName": "Enchanted Survival: 刷寶RPG",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

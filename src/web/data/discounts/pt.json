@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1664728315,
+    "region": "pt",
+    "timestamp": 1791507612931,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1664728315",
+    "trackName": "Mutropolis mobile",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6459581344,
+    "region": "pt",
+    "timestamp": 1791507612931,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "8,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6459581344",
+    "trackName": "Art of Rally",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6760948683,
     "region": "pt",
     "timestamp": 1791484107175,
