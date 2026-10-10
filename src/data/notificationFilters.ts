@@ -8,6 +8,22 @@ export type NotificationFilters = {
   appIds?: number[]
 }
 
+const errorMessages = {
+  NOTIFICATION_CONFIG_INVALID_FORMAT:
+    'Invalid notification configuration format.',
+  NOTIFICATION_CONFIG_INVALID_FIELD:
+    'Invalid notification configuration field name.',
+  NOTIFICATION_CONFIG_UNSUPPORTED_REGION: 'Unsupported notification region.',
+  NOTIFICATION_CONFIG_UNTRACKED_APP_ID: 'App ID is not tracked.',
+} as const
+
+export class NotificationConfigError extends Error {
+  constructor(public readonly code: keyof typeof errorMessages) {
+    super(errorMessages[code])
+    this.name = 'NotificationConfigError'
+  }
+}
+
 export function validateNotificationFilters(
   value: unknown,
   trackedAppIds: readonly number[] = (appConfig as AppConfig[])
@@ -15,25 +31,25 @@ export function validateNotificationFilters(
     .map((app) => app.id),
 ): NotificationFilters {
   if (!value || typeof value !== 'object' || Array.isArray(value)) {
-    throw new Error('格式错误')
+    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
   }
 
   const config = value as Record<string, unknown>
   for (const key of Object.keys(config)) {
     if (key !== 'regions' && key !== 'appIds') {
-      throw new Error('字段名不合法')
+      throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FIELD')
     }
   }
 
   if (config.regions !== undefined && !Array.isArray(config.regions)) {
-    throw new Error('格式错误')
+    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
   }
 
   if (
     Array.isArray(config.regions) &&
     !config.regions.every((region) => supportedRegions.includes(region))
   ) {
-    throw new Error('regions未收录')
+    throw new NotificationConfigError('NOTIFICATION_CONFIG_UNSUPPORTED_REGION')
   }
 
   if (
@@ -41,7 +57,7 @@ export function validateNotificationFilters(
     (!Array.isArray(config.appIds) ||
       !config.appIds.every((id) => Number.isSafeInteger(id) && id > 0))
   ) {
-    throw new Error('格式错误')
+    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
   }
 
   const trackedIds = new Set(trackedAppIds)
@@ -49,7 +65,7 @@ export function validateNotificationFilters(
     Array.isArray(config.appIds) &&
     !config.appIds.every((id) => trackedIds.has(id))
   ) {
-    throw new Error('AppID未收录')
+    throw new NotificationConfigError('NOTIFICATION_CONFIG_UNTRACKED_APP_ID')
   }
 
   return config as NotificationFilters
@@ -63,7 +79,7 @@ export function parseNotificationFilters(
   try {
     value = JSON.parse(content)
   } catch {
-    throw new Error('格式错误')
+    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
   }
   return validateNotificationFilters(value, trackedAppIds)
 }

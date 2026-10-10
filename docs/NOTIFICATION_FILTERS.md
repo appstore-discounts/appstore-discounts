@@ -29,12 +29,14 @@
 
 ### 配置错误提示
 
-| 情况                                                                               | 提示            |
-| ---------------------------------------------------------------------------------- | --------------- |
-| JSON 格式错误、最外层不是对象，或字段类型不正确（列表不是数组、App ID 不是正整数） | `格式错误`      |
-| 字段名拼错，或存在 `regions`、`appIds` 以外的字段                                  | `字段名不合法`  |
-| 国家代码不支持                                                                     | `regions未收录` |
-| App ID 未追踪，包括已禁止追踪的 App                                                | `AppID未收录`   |
+错误对象类型为 `NotificationConfigError`，`code` 是稳定的错误码，`message` 是对应的英文提示。中文含义如下：
+
+| 情况 / 中文含义                                           | 错误码                                   | 英文提示                                       |
+| --------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
+| 格式错误：JSON 格式错误、最外层不是对象，或字段类型不正确 | `NOTIFICATION_CONFIG_INVALID_FORMAT`     | Invalid notification configuration format.     |
+| 字段名不合法：存在 `regions`、`appIds` 以外的字段         | `NOTIFICATION_CONFIG_INVALID_FIELD`      | Invalid notification configuration field name. |
+| regions 未收录：国家代码不支持                            | `NOTIFICATION_CONFIG_UNSUPPORTED_REGION` | Unsupported notification region.               |
+| AppID 未收录：App ID 未追踪，包括已禁止追踪的 App         | `NOTIFICATION_CONFIG_UNTRACKED_APP_ID`   | App ID is not tracked.                         |
 
 ## English
 
@@ -51,4 +53,13 @@ The default `{}` preserves existing notifications. The example above selects thr
 
 The configuration is separate from the automatically rewritten `apps.json`. Run `npm run test:notifications` to check the filtering logic without scraping or sending messages.
 
-Error messages are: `格式错误` for invalid JSON, non-object configuration, or invalid field types; `字段名不合法` for unknown field names; `regions未收录` for unsupported region codes; and `AppID未收录` for untracked App IDs.
+### Configuration errors
+
+Errors use the `NotificationConfigError` type with a stable `code` and an English `message`.
+
+| Error code                               | Message                                        | Cause                                                          |
+| ---------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------- |
+| `NOTIFICATION_CONFIG_INVALID_FORMAT`     | Invalid notification configuration format.     | Invalid JSON, non-object configuration, or invalid field types |
+| `NOTIFICATION_CONFIG_INVALID_FIELD`      | Invalid notification configuration field name. | Unknown field names                                            |
+| `NOTIFICATION_CONFIG_UNSUPPORTED_REGION` | Unsupported notification region.               | Unsupported region codes                                       |
+| `NOTIFICATION_CONFIG_UNTRACKED_APP_ID`   | App ID is not tracked.                         | Untracked or disabled App IDs                                  |
