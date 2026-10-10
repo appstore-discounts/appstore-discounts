@@ -21857,6 +21857,23 @@
     "history": [
       [
         {
+          "timestamp": 1791633510449,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Ferrous Mobile": "₺149,99",
+            "Oldschool Breakbeats": "₺99,99",
+            "Synth Plucks": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1791606695944,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -119707,10 +119724,18 @@
       "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787230045740,
@@ -162412,6 +162437,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Atlantis Board": "₺399,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,
@@ -215041,6 +215085,25 @@
       "Starter Pack": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "All Unit Groups": "₺699,99",
+            "All Heroes": "₺799,99",
+            "Hero Dragon Kosmos": "₺399,99",
+            "Hero Red Dragon On Sale": "₺199,99",
+            "Special Daily Pack16": "₺149,99",
+            "Unit Group Rebooted Ascendii": "₺149,99",
+            "Unit Group Jaegers": "₺399,99",
+            "Starter Pack": "₺249,99",
+            "Hero Dragon Kosmos On Sale": "₺249,99",
+            "Hero Red Dragon": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790933058173,

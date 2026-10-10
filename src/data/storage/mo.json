@@ -47220,6 +47220,23 @@
     "history": [
       [
         {
+          "timestamp": 1791633510449,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Ford 2026 Enhanced": "USD 14.99",
+            "Mazda 2026 Enhanced": "USD 14.99",
+            "Mazda 2025 Enhanced": "USD 14.99",
+            "FCA 2026": "USD 14.99",
+            "Ford 2025 Enhanced": "USD 14.99",
+            "Mitsubishi 2024": "USD 14.99",
+            "Mitsubishi 2023": "USD 14.99",
+            "FCA 2025": "USD 14.99",
+            "Ford 2024 Enhanced": "USD 14.99",
+            "Mazda 2024 Enhanced": "USD 14.99"
+          }
+        },
+        {
           "timestamp": 1791606695944,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -93272,10 +93289,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787230045740,

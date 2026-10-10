@@ -10198,7 +10198,10 @@
       "Gold Level lifetime": "79,99 €",
       "Lunar Return Report": "3,99 €",
       "Astrolocality Maps": "29,99 €",
-      "The Big Three Report": "3,99 €"
+      "The Big Three Report": "3,99 €",
+      "Birth Chart Report - Untimed": "2,99 €",
+      "Child Report - Untimed": "2,99 €",
+      "My Pet Report": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10217,9 +10220,31 @@
       "Gold Level lifetime": "79,99 €",
       "Lunar Return Report": "3,99 €",
       "Astrolocality Maps": "29,99 €",
-      "The Big Three Report": "3,99 €"
+      "The Big Three Report": "3,99 €",
+      "Birth Chart Report - Untimed": "2,99 €",
+      "Child Report - Untimed": "2,99 €",
+      "My Pet Report": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "3,99 €",
+            "Birth Chart Report - Untimed": "2,99 €",
+            "Birthday Report": "3,99 €",
+            "Child Report - Full": "3,99 €",
+            "Child Report - Untimed": "2,99 €",
+            "My Pet Report": "1,99 €",
+            "Predictive Report - Full": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "Predictive Report - Untimed": "2,99 €",
+            "Relationship Report": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,
@@ -11256,6 +11281,25 @@
       "FL Cloud Mobile": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Acoustic Guitars": "0,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Synth Lead": "1,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Chill-Lo-Fi Mobile": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Drumaxx": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791088289653,
@@ -60089,10 +60133,18 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787230045740,
@@ -85056,6 +85108,25 @@
       "Intro Offer (low)": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Master Package": "10,99 €",
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 500": "2,99 €",
+            "Hunter Package": "4,99 €",
+            "Prime Gemma 1200": "4,99 €",
+            "Prime gemma 100": "0,99 €",
+            "Prime Dimension DLC": "3,99 €",
+            "Evoker Kit": "0,99 €",
+            "Elite Offer": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791070314470,
@@ -148171,7 +148242,8 @@
       "Torre FORJADOR": "5,99 €",
       "BOLSA de Gemas": "5,99 €",
       "Torre CAÇADORAS": "5,99 €",
-      "PACOTE TODAS AS TORRES": "22,99 €"
+      "PACOTE TODAS AS TORRES": "22,99 €",
+      "FEITIÇOS OFERTA 1": "5,99 €"
     },
     "minPriceInfo": {
       "VITRINE OFERTA 6": "5,99 €",
@@ -148194,9 +148266,29 @@
       "Torre FORJADOR": "5,99 €",
       "BOLSA de Gemas": "5,99 €",
       "Torre CAÇADORAS": "5,99 €",
-      "PACOTE TODAS AS TORRES": "22,99 €"
+      "PACOTE TODAS AS TORRES": "22,99 €",
+      "FEITIÇOS OFERTA 1": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791633510449,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "PUNHADO de Gemas": "2,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "FEITIÇOS OFERTA 1": "5,99 €",
+            "Torre CAÇADORAS": "5,99 €",
+            "Torre FORJADOR": "5,99 €",
+            "Herói ASHBITE": "7,99 €",
+            "Herói DRAKKAN": "7,99 €",
+            "Herói IGNUS": "2,99 €",
+            "PACOTE TODAS AS TORRES": "22,99 €",
+            "Herói ONI": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
