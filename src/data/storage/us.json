@@ -29397,15 +29397,26 @@
       "price": 3.99,
       "formattedPrice": "$3.99",
       "Premium": "$29.99",
-      "Fitness Buddy Premium": "$9.99"
+      "Fitness Buddy Premium": "$46.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "Premium": "$29.99",
+      "Premium": "$9.99",
       "Fitness Buddy Premium": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791666779192,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Fitness Buddy Premium": "$46.99",
+            "Premium": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788900351663,
@@ -123687,6 +123698,18 @@
     "history": [
       [
         {
+          "timestamp": 1791666779192,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Month": "$2.99",
+            "Year": "$11.99",
+            "6 Months": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 0,
           "formattedPrice": "Free",
@@ -199333,6 +199356,25 @@
       "Ascensio Kit": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791666779192,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Kit": "$0.99",
+            "Zenith Islands DLC": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
