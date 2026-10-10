@@ -68285,6 +68285,23 @@
     "history": [
       [
         {
+          "timestamp": 1791585205739,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00",
+            "$20 Credit": "HK$ 148.00"
+          }
+        },
+        {
           "timestamp": 1791568819448,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -122425,14 +122442,22 @@
     "trackName": "Cube CFOP: F2L, OLL & PLL",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791585205739,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -279900,6 +279925,25 @@
     "history": [
       [
         {
+          "timestamp": 1791585205739,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "1元礼包": "HK$ 8.00",
+            "12元礼包": "HK$ 18.00",
+            "3元礼包": "HK$ 8.00",
+            "6元礼包": "HK$ 8.00",
+            "18元礼包": "HK$ 22.00",
+            "30元礼包": "HK$ 32.00",
+            "60元礼包": "HK$ 68.00",
+            "68元礼包": "HK$ 88.00",
+            "198元礼包": "HK$ 228.00",
+            "98元礼包": "HK$ 118.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775646414015,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -302237,7 +302281,7 @@
   },
   "6785090016": {
     "trackId": 6785090016,
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "region": "hk",
     "maxPriceInfo": {
       "price": 58,
@@ -304552,7 +304596,8 @@
       "贊助第三階・傭兵團恩人": "HK$ 58.00",
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
-      "贊助第二階・監護人": "HK$ 18.00"
+      "贊助第二階・監護人": "HK$ 18.00",
+      "付費角色・伊蕾娜": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -304562,9 +304607,26 @@
       "贊助第三階・傭兵團恩人": "HK$ 58.00",
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
-      "贊助第二階・監護人": "HK$ 18.00"
+      "贊助第二階・監護人": "HK$ 18.00",
+      "付費角色・伊蕾娜": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791585205739,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "贊助第三階・傭兵團恩人": "HK$ 58.00",
+            "贊助第二階・監護人": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790977922515,

@@ -175,7 +175,7 @@ So far, we've covered `7` `Countries or Regions` and  `2327` `Apps` <br />Push n
 |2162|967376861|Automatic|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
 |2161|6792072690|Automatic|班主任工作台|❌|❌|❌|班主任工作台|❌|❌|
 |2160|6787737491|Automatic|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
-|2159|6785090016|Automatic|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|
+|2159|6785090016|Automatic|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|
 |2158|625477515|Automatic|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|
 |2157|6785550835|Automatic|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|Automatic|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|

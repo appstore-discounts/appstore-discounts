@@ -9349,6 +9349,25 @@
     "history": [
       [
         {
+          "timestamp": 1791585205739,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "forScore Pro 30-Day Pass": "¥22.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788781262725,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -78565,6 +78584,24 @@
     "history": [
       [
         {
+          "timestamp": 1791585205739,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "周卡": "¥12.00",
+            "少量信用点": "¥6.00",
+            "大月卡": "¥45.00",
+            "小月卡": "¥25.00",
+            "中等信用点": "¥12.00",
+            "福利升级": "¥6.00",
+            "超多信用点": "¥50.00",
+            "大量信用点": "¥25.00",
+            "超级多信用点": "¥258.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -86155,14 +86192,22 @@
     "trackName": "Cube CFOP: F2L, OLL & PLL",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791585205739,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -234332,7 +234377,7 @@
   },
   "6785090016": {
     "trackId": 6785090016,
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "region": "cn",
     "maxPriceInfo": {
       "price": 58,
