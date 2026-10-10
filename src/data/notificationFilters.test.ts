@@ -4,7 +4,6 @@ import { regions } from '../../appinfo.config'
 import {
   filterNotificationDiscounts,
   loadNotificationFilters,
-  NotificationConfigError,
   parseNotificationFilters,
   validateNotificationFilters,
 } from './notificationFilters'
@@ -100,63 +99,51 @@ test('duplicate selections do not duplicate notifications', () => {
   assert.deepEqual(output.us, [])
 })
 
-test('invalid JSON or object structure reports NOTIFICATION_CONFIG_INVALID_FORMAT', () => {
+test('invalid JSON or object structure reports a format error', () => {
   for (const content of ['', '{', '{"regions":["cn"],}', 'null', '[]', '1']) {
     assert.throws(() => parseNotificationFilters(content), {
-      name: 'NotificationConfigError',
-      code: 'NOTIFICATION_CONFIG_INVALID_FORMAT',
       message: 'Invalid notification configuration format.',
     })
   }
   for (const regions of ['cn', null]) {
     assert.throws(() => validateNotificationFilters({ regions }), {
-      name: 'NotificationConfigError',
-      code: 'NOTIFICATION_CONFIG_INVALID_FORMAT',
       message: 'Invalid notification configuration format.',
     })
   }
   for (const appIds of ['101', null, ['101'], [0], [-1], [1.5], [Infinity]]) {
     assert.throws(() => validateNotificationFilters({ appIds }), {
-      name: 'NotificationConfigError',
-      code: 'NOTIFICATION_CONFIG_INVALID_FORMAT',
       message: 'Invalid notification configuration format.',
     })
   }
 })
 
-test('unknown field names report NOTIFICATION_CONFIG_INVALID_FIELD', () => {
+test('unknown field names report an invalid field name', () => {
   for (const config of [
     { region: ['cn'] },
     { appsIds: [101] },
     { enabled: false },
   ]) {
     assert.throws(() => validateNotificationFilters(config), {
-      name: 'NotificationConfigError',
-      code: 'NOTIFICATION_CONFIG_INVALID_FIELD',
       message: 'Invalid notification configuration field name.',
     })
   }
 })
 
-test('unsupported region codes report NOTIFICATION_CONFIG_UNSUPPORTED_REGION', () => {
+test('unsupported region codes report an unsupported region', () => {
   for (const regions of [['CN'], ['cn', 'unknown'], [1]]) {
     assert.throws(() => validateNotificationFilters({ regions }), {
-      name: 'NotificationConfigError',
-      code: 'NOTIFICATION_CONFIG_UNSUPPORTED_REGION',
       message: 'Unsupported notification region.',
     })
   }
 })
 
-test('untracked App IDs report NOTIFICATION_CONFIG_UNTRACKED_APP_ID even with empty region selection', () => {
+test('untracked App IDs report an untracked App ID even with empty region selection', () => {
   for (const config of [
     { appIds: [999] },
     { appIds: [202, 999] },
     { regions: [], appIds: [999] },
   ]) {
     assert.throws(() => validateNotificationFilters(config, [101, 202]), {
-      name: 'NotificationConfigError',
-      code: 'NOTIFICATION_CONFIG_UNTRACKED_APP_ID',
       message: 'App ID is not tracked.',
     })
   }
@@ -164,14 +151,4 @@ test('untracked App IDs report NOTIFICATION_CONFIG_UNTRACKED_APP_ID even with em
     parseNotificationFilters('{"regions":[],"appIds":[202]}', [101, 202]),
     { regions: [], appIds: [202] },
   )
-})
-
-test('configuration errors remain Error instances with a stable code', () => {
-  const error = new NotificationConfigError(
-    'NOTIFICATION_CONFIG_INVALID_FORMAT',
-  )
-  assert.ok(error instanceof Error)
-  assert.ok(error instanceof NotificationConfigError)
-  assert.equal(error.code, 'NOTIFICATION_CONFIG_INVALID_FORMAT')
-  assert.equal(error.message, 'Invalid notification configuration format.')
 })

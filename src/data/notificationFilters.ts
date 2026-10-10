@@ -8,22 +8,6 @@ export type NotificationFilters = {
   appIds?: number[]
 }
 
-const errorMessages = {
-  NOTIFICATION_CONFIG_INVALID_FORMAT:
-    'Invalid notification configuration format.',
-  NOTIFICATION_CONFIG_INVALID_FIELD:
-    'Invalid notification configuration field name.',
-  NOTIFICATION_CONFIG_UNSUPPORTED_REGION: 'Unsupported notification region.',
-  NOTIFICATION_CONFIG_UNTRACKED_APP_ID: 'App ID is not tracked.',
-} as const
-
-export class NotificationConfigError extends Error {
-  constructor(public readonly code: keyof typeof errorMessages) {
-    super(errorMessages[code])
-    this.name = 'NotificationConfigError'
-  }
-}
-
 export function validateNotificationFilters(
   value: unknown,
   trackedAppIds: readonly number[] = (appConfig as AppConfig[])
@@ -31,25 +15,25 @@ export function validateNotificationFilters(
     .map((app) => app.id),
 ): NotificationFilters {
   if (!value || typeof value !== 'object' || Array.isArray(value)) {
-    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
+    throw new Error('Invalid notification configuration format.')
   }
 
   const config = value as Record<string, unknown>
   for (const key of Object.keys(config)) {
     if (key !== 'regions' && key !== 'appIds') {
-      throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FIELD')
+      throw new Error('Invalid notification configuration field name.')
     }
   }
 
   if (config.regions !== undefined && !Array.isArray(config.regions)) {
-    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
+    throw new Error('Invalid notification configuration format.')
   }
 
   if (
     Array.isArray(config.regions) &&
     !config.regions.every((region) => supportedRegions.includes(region))
   ) {
-    throw new NotificationConfigError('NOTIFICATION_CONFIG_UNSUPPORTED_REGION')
+    throw new Error('Unsupported notification region.')
   }
 
   if (
@@ -57,7 +41,7 @@ export function validateNotificationFilters(
     (!Array.isArray(config.appIds) ||
       !config.appIds.every((id) => Number.isSafeInteger(id) && id > 0))
   ) {
-    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
+    throw new Error('Invalid notification configuration format.')
   }
 
   const trackedIds = new Set(trackedAppIds)
@@ -65,7 +49,7 @@ export function validateNotificationFilters(
     Array.isArray(config.appIds) &&
     !config.appIds.every((id) => trackedIds.has(id))
   ) {
-    throw new NotificationConfigError('NOTIFICATION_CONFIG_UNTRACKED_APP_ID')
+    throw new Error('App ID is not tracked.')
   }
 
   return config as NotificationFilters
@@ -79,7 +63,7 @@ export function parseNotificationFilters(
   try {
     value = JSON.parse(content)
   } catch {
-    throw new NotificationConfigError('NOTIFICATION_CONFIG_INVALID_FORMAT')
+    throw new Error('Invalid notification configuration format.')
   }
   return validateNotificationFilters(value, trackedAppIds)
 }
