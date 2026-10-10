@@ -4,6 +4,7 @@ import { regions } from '../../appinfo.config'
 import {
   filterNotificationDiscounts,
   loadNotificationFilters,
+  parseNotificationFilters,
   validateNotificationFilters,
 } from './notificationFilters'
 
@@ -66,35 +67,88 @@ test('region and app filters use intersection without modifying source data', ()
   assert.equal(input.cn.length, 2)
 })
 
-test('explicit empty lists disable notifications', () => {
-  for (const config of [{ regions: [] }, { appIds: [] }]) {
-    const output = filterNotificationDiscounts(fixture(), config)
-    assert.ok(Object.values(output).every((apps) => apps.length === 0))
+test('empty lists impose no restrictions', () => {
+  const input = fixture()
+  for (const config of [
+    { regions: [] },
+    { appIds: [] },
+    { regions: [], appIds: [] },
+  ]) {
+    assert.deepEqual(filterNotificationDiscounts(input, config), input)
   }
+  assert.deepEqual(
+    filterNotificationDiscounts(input, { regions: [], appIds: [202] }),
+    filterNotificationDiscounts(input, { appIds: [202] }),
+  )
+  assert.deepEqual(
+    filterNotificationDiscounts(input, { regions: ['cn'], appIds: [] }),
+    filterNotificationDiscounts(input, { regions: ['cn'] }),
+  )
 })
 
-test('unknown app IDs do not create notifications or duplicate entries', () => {
-  const output = filterNotificationDiscounts(fixture(), {
-    appIds: [999, 202, 202],
-    regions: ['cn', 'cn'],
-  })
+test('duplicate selections do not duplicate notifications', () => {
+  const config = validateNotificationFilters(
+    { appIds: [202, 202], regions: ['cn', 'cn'] },
+    [101, 202],
+  )
+  const output = filterNotificationDiscounts(fixture(), config)
   assert.deepEqual(
     output.cn.map((app) => app.trackId),
     [202],
   )
   assert.deepEqual(output.us, [])
-  const empty = filterNotificationDiscounts(fixture(), { appIds: [999] })
-  assert.ok(Object.values(empty).every((apps) => apps.length === 0))
 })
 
-test('invalid configuration fails instead of silently sending all notifications', () => {
-  for (const value of [null, [], 'cn', 1, { region: ['cn'] }]) {
-    assert.throws(() => validateNotificationFilters(value))
+test('invalid JSON or object structure reports 格式错误', () => {
+  for (const content of ['', '{', '{"regions":["cn"],}', 'null', '[]', '1']) {
+    assert.throws(() => parseNotificationFilters(content), {
+      message: '格式错误',
+    })
   }
-  for (const regions of ['cn', null, ['CN'], ['unknown'], [1]]) {
-    assert.throws(() => validateNotificationFilters({ regions }))
+  for (const regions of ['cn', null]) {
+    assert.throws(() => validateNotificationFilters({ regions }), {
+      message: '格式错误',
+    })
   }
   for (const appIds of ['101', null, ['101'], [0], [-1], [1.5], [Infinity]]) {
-    assert.throws(() => validateNotificationFilters({ appIds }))
+    assert.throws(() => validateNotificationFilters({ appIds }), {
+      message: '格式错误',
+    })
   }
+})
+
+test('unknown field names report 字段名不合法', () => {
+  for (const config of [
+    { region: ['cn'] },
+    { appsIds: [101] },
+    { enabled: false },
+  ]) {
+    assert.throws(() => validateNotificationFilters(config), {
+      message: '字段名不合法',
+    })
+  }
+})
+
+test('unsupported region codes report regions未收录', () => {
+  for (const regions of [['CN'], ['cn', 'unknown'], [1]]) {
+    assert.throws(() => validateNotificationFilters({ regions }), {
+      message: 'regions未收录',
+    })
+  }
+})
+
+test('untracked App IDs report AppID未收录 even with empty region selection', () => {
+  for (const config of [
+    { appIds: [999] },
+    { appIds: [202, 999] },
+    { regions: [], appIds: [999] },
+  ]) {
+    assert.throws(() => validateNotificationFilters(config, [101, 202]), {
+      message: 'AppID未收录',
+    })
+  }
+  assert.deepEqual(
+    parseNotificationFilters('{"regions":[],"appIds":[202]}', [101, 202]),
+    { regions: [], appIds: [202] },
+  )
 })

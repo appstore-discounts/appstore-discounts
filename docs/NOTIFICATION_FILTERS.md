@@ -18,14 +18,23 @@
 | `regions` | 可选的国家或地区白名单：`cn`、`hk`、`mo`、`tw`、`us`、`tr`、`pt`                       |
 | `appIds`  | 可选的 App ID 白名单，使用正整数；可从 `apps.json` 或 App Store 链接中的 `id数字` 获取 |
 
-- 未填写某字段：该维度不限制。例如 `{"regions":["cn"]}` 发送中国大陆所有已追踪 App 的优惠。
-- 两项都填写：同时满足国家和 App 条件才发送。
-- 任意字段设为 `[]`：不发送通知。
-- 配置会在每次运行开始时读取；JSON 格式错误、未知字段、无效国家或 App ID 会让任务在抓取前失败，以免误发通知。
-- 筛选仅作用于消息推送，不改变抓取、价格历史、RSS、网站数据或自动应用管理。未追踪的 App 不会因为加入 `appIds` 而自动收录；仍需加入 `apps.json`，且应用须允许追踪。
+- 未填写某字段或设为 `[]`：没有筛选条件，该维度不限。例如 `{"regions":["cn"],"appIds":[]}` 发送中国大陆所有已追踪 App 的优惠。
+- 填具体国家或 App：缩小通知范围。
+- 两项都有值：同时满足国家和 App 条件才发送。
+- 配置错误：报错并在抓取前停止，不能悄悄按“不限”处理。
+- 筛选仅作用于消息推送，不改变抓取、价格历史、RSS、网站数据或自动应用管理。`appIds` 中的 App 必须已在 `apps.json` 收录且 `allowNotification` 不为 `false`；未追踪的 App 需要先加入追踪列表。
 - 提交配置后，在下一次工作流执行时生效。不要将机器人凭证写入此文件，继续使用环境变量或仓库 Secrets。
 
 该文件独立于自动更新的 `apps.json`，不会被应用列表更新覆盖。验证筛选逻辑可以运行 `npm run test:notifications`，不会访问 App Store 或发送消息。
+
+### 配置错误提示
+
+| 情况                                                                               | 提示            |
+| ---------------------------------------------------------------------------------- | --------------- |
+| JSON 格式错误、最外层不是对象，或字段类型不正确（列表不是数组、App ID 不是正整数） | `格式错误`      |
+| 字段名拼错，或存在 `regions`、`appIds` 以外的字段                                  | `字段名不合法`  |
+| 国家代码不支持                                                                     | `regions未收录` |
+| App ID 未追踪，包括已禁止追踪的 App                                                | `AppID未收录`   |
 
 ## English
 
@@ -35,9 +44,11 @@ The default `{}` preserves existing notifications. The example above selects thr
 
 - `regions`: optional allowlist of `cn`, `hk`, `mo`, `tw`, `us`, `tr`, and `pt`.
 - `appIds`: optional allowlist of positive integer App IDs, available in `apps.json` or the `id` portion of an App Store URL.
-- An omitted field imposes no restriction on that dimension. Both fields together select their intersection. An empty array disables notifications.
-- Configuration is read at the start of every run. Invalid JSON, unknown fields, or invalid values fail before scraping, preventing accidental unfiltered notifications.
-- Scraping, price history, RSS, website data, and automatic app management retain their existing behavior. Selecting an untracked App ID does not start tracking it; add it to `apps.json` and ensure tracking is allowed.
+- An omitted field or an empty array imposes no restriction on that dimension. A nonempty list narrows the notification scope. Two nonempty lists select their intersection.
+- Configuration is read at the start of every run. Invalid configuration fails before scraping rather than silently removing restrictions.
+- Scraping, price history, RSS, website data, and automatic app management retain their existing behavior. Selected App IDs must already be in `apps.json` with `allowNotification` not set to `false`; add untracked apps to the tracking list first.
 - Changes take effect on the next workflow run. Keep bot credentials in environment variables or repository Secrets.
 
 The configuration is separate from the automatically rewritten `apps.json`. Run `npm run test:notifications` to check the filtering logic without scraping or sending messages.
+
+Error messages are: `格式错误` for invalid JSON, non-object configuration, or invalid field types; `字段名不合法` for unknown field names; `regions未收录` for unsupported region codes; and `AppID未收录` for untracked App IDs.
