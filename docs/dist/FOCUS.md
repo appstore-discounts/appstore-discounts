@@ -1975,7 +1975,7 @@ So far, we've covered `7` `Countries or Regions` and  `2327` `Apps` <br />Push n
 |362| ~~1484622401~~ |Automatic| ~~❌~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc. God Simulator~~ | ~~Religion inc. God Simulator~~ | ~~❌~~ |
 |361|1485875855|Automatic|❌|❌|❌|❌|❌|Başkanlar|❌|
 |360|1491530147|Automatic|❌|❌|❌|Slay the Spire|Slay the Spire|Slay the Spire|Slay the Spire|
-|359|1497120981|Automatic|LUCH: Photo Effects & Filters|LUCH: 電影感底片濾鏡相機|LUCH: 電影感底片濾鏡相機|LUCH: 電影感底片濾鏡相機|LUCH: Photo Effects & Filters|LUCH: Glitch Effect, Y2K, VHS|LUCH: Photo Effects & Filters|
+|359|1497120981|Automatic|LUCH: Photo Effects & Filters|LUCH: 電影感底片濾鏡相機|LUCH: 電影感底片濾鏡相機|LUCH: 電影感底片濾鏡相機|LUCH: Photo Effects & Filters|LUCH: Glitch Effect, Y2K, VHS|LUCH: Editor de Fotos Retrô|
 |358|1499849161|Automatic|❌|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|
 |357|1500098830|Automatic|❌|視頻大師 Pro|視頻大師 Pro|視頻大師 Pro|❌|Video Master Pro|Video Master Pro|
 |356|1503486239|Automatic|❌|大富翁10|大富翁10|大富翁10|Richman10|Richman10|大富翁10|

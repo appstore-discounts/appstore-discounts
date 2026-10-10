@@ -26273,6 +26273,23 @@
     "history": [
       [
         {
+          "timestamp": 1791606695944,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "USD 0.99",
+            "Unlock All Vehicles": "USD 9.99",
+            "Unlock All": "USD 14.99",
+            "Hot Chrome paint job for all vehicles": "USD 2.99",
+            "The Met paint job for all vehicles": "USD 0.99",
+            "East Side paint job for all vehicles": "USD 0.99",
+            "Seoul Rider paint job for all vehicles": "USD 0.99",
+            "Autobahn paint job for all vehicles": "USD 0.99",
+            "Donut Finder": "USD 2.99",
+            "Pack of 50 Super Cops": "USD 12.99"
+          }
+        },
+        {
           "timestamp": 1791585205739,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -47164,7 +47181,17 @@
       "Mitsubishi 2023": "USD 14.99",
       "FCA 2025": "USD 14.99",
       "Ford 2024 Enhanced": "USD 14.99",
-      "Mazda 2024 Enhanced": "USD 14.99"
+      "Mazda 2024 Enhanced": "USD 14.99",
+      "Ford 1996 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1997 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1998 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1999 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2000 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2001 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2002 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2003 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2004 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2005 Enhanced Diagnostics": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -47178,9 +47205,38 @@
       "Mitsubishi 2023": "USD 14.99",
       "FCA 2025": "USD 14.99",
       "Ford 2024 Enhanced": "USD 14.99",
-      "Mazda 2024 Enhanced": "USD 14.99"
+      "Mazda 2024 Enhanced": "USD 14.99",
+      "Ford 1996 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1997 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1998 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1999 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2000 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2001 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2002 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2003 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2004 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2005 Enhanced Diagnostics": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791606695944,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Ford 1996 Enhanced Diagnostics": "USD 14.99",
+            "Ford 1997 Enhanced Diagnostics": "USD 14.99",
+            "Ford 1998 Enhanced Diagnostics": "USD 14.99",
+            "Ford 1999 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2000 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2001 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2002 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2003 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2004 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2005 Enhanced Diagnostics": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -179626,7 +179682,8 @@
       "Winter Wonderland Purple Colour": "USD 4.99",
       "Winter Wonderland Teal Colour": "USD 4.99",
       "Christmas Sleigh Carriage": "USD 2.99",
-      "Tree-livery Carriage": "USD 2.99"
+      "Tree-livery Carriage": "USD 2.99",
+      "The Ultimate Bundle": "USD 79.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -179684,9 +179741,28 @@
       "Winter Wonderland Purple Colour": "USD 4.99",
       "Winter Wonderland Teal Colour": "USD 4.99",
       "Christmas Sleigh Carriage": "USD 2.99",
-      "Tree-livery Carriage": "USD 2.99"
+      "Tree-livery Carriage": "USD 2.99",
+      "The Ultimate Bundle": "USD 79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791606695944,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Welcome Offer": "USD 29.99",
+            "The Ultimate Bundle": "USD 79.99",
+            "Christmas Sleigh Carriage": "USD 2.99",
+            "Tree-livery Carriage": "USD 2.99",
+            "Winter Wonderland Purple Colour": "USD 4.99",
+            "Winter Wonderland Teal Colour": "USD 4.99",
+            "Spooktacular Pumpkin Carriage": "USD 1.99",
+            "Spooktacular Vampire Character": "USD 1.99",
+            "Spooktacular Orange Player Colour": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,

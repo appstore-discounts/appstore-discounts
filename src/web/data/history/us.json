@@ -65054,7 +65054,8 @@
       "Toyota 2015 Enhanced Diagnostics": "$14.99",
       "Toyota 2017 Enhanced Diagnostics": "$14.99",
       "Ford 2013 Enhanced Diagnostics": "$14.99",
-      "Toyota 2013 Enhanced Diagnostics": "$14.99"
+      "Toyota 2013 Enhanced Diagnostics": "$14.99",
+      "Ford 2016 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -65071,9 +65072,29 @@
       "Toyota 2015 Enhanced Diagnostics": "$14.99",
       "Toyota 2017 Enhanced Diagnostics": "$14.99",
       "Ford 2013 Enhanced Diagnostics": "$14.99",
-      "Toyota 2013 Enhanced Diagnostics": "$14.99"
+      "Toyota 2013 Enhanced Diagnostics": "$14.99",
+      "Ford 2016 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791606695944,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -149331,6 +149352,25 @@
       "Geometric Frame Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791606695944,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791088289653,
