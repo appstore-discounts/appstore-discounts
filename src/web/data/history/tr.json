@@ -31371,6 +31371,14 @@
     "history": [
       [
         {
+          "timestamp": 1791652541695,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -272418,13 +272426,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "formattedPrice": "₺129,99",
+      "Bother Bin Pro": "₺199,99"
     },
     "minPriceInfo": {
       "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "formattedPrice": "₺39,99",
+      "Bother Bin Pro": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Bother Bin Pro": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -293257,13 +293277,25 @@
       "月度护持": "₺19,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "终身护持": "₺799,99",
       "年度护持": "₺149,99",
       "月度护持": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "终身护持": "₺799,99",
+            "年度护持": "₺149,99",
+            "月度护持": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,

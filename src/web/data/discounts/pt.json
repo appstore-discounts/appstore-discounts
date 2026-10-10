@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 459189186,
+    "region": "pt",
+    "timestamp": 1791652541695,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id459189186",
+    "trackName": "Machinarium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1490100895,
+    "region": "pt",
+    "timestamp": 1791652541695,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1490100895",
+    "trackName": "Happy Game :)",
+    "firstRecordedAt": 1769480796092
+  },
+  {
+    "trackId": 6760446039,
+    "region": "pt",
+    "timestamp": 1791652541695,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6760446039",
+    "trackName": "般若心灯",
+    "firstRecordedAt": 1787961173466
+  },
+  {
     "trackId": 1225490847,
     "region": "pt",
     "timestamp": 1791633510449,

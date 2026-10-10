@@ -33815,6 +33815,14 @@
     "history": [
       [
         {
+          "timestamp": 1791652541695,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789096391072,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -115552,6 +115560,23 @@
     "history": [
       [
         {
+          "timestamp": 1791652541695,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6480钻石": "$99.99",
+            "3280钻石": "$49.99",
+            "每日特权礼包": "$0.99",
+            "高级商会签约": "$34.99",
+            "60钻石": "$0.99",
+            "每日特惠礼包一": "$2.99",
+            "每日招财礼包": "$1.99",
+            "980钻石": "$14.99",
+            "商会支援计划五": "$3.99",
+            "1980钻石": "$29.99"
+          }
+        },
+        {
           "timestamp": 1791633510449,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -179546,6 +179571,23 @@
     "history": [
       [
         {
+          "timestamp": 1791652541695,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99",
+            "Flash Sale Star Rune 1": "$2.99"
+          }
+        },
+        {
           "timestamp": 1791633510449,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -197921,6 +197963,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,
@@ -328110,13 +328160,25 @@
     "name": "Bother Bin: Stop Overthinking",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Bother Bin Pro": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Bother Bin Pro": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bother Bin Pro": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753567948857,
@@ -350721,13 +350783,25 @@
       "月度护持": "$0.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "终身护持": "$14.99",
       "年度护持": "$2.99",
       "月度护持": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "终身护持": "$14.99",
+            "年度护持": "$2.99",
+            "月度护持": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,

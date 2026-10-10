@@ -27923,6 +27923,14 @@
     "history": [
       [
         {
+          "timestamp": 1791652541695,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789055621758,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -29721,6 +29729,25 @@
       "Cuddly Starter Pack": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791633510449,
@@ -32496,6 +32523,25 @@
       "Pack of 50 Super Cops": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "$30.00",
+            "Unlock All Vehicles": "$320.00",
+            "Unlock All": "$490.00",
+            "East Side paint job for all vehicles": "$30.00",
+            "Pack of 10 Super Cops": "$90.00",
+            "The Met paint job for all vehicles": "$30.00",
+            "Hot Chrome paint job for all vehicles": "$90.00",
+            "Donut Finder": "$90.00",
+            "Seoul Rider paint job for all vehicles": "$30.00",
+            "Autobahn paint job for all vehicles": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791633510449,
@@ -184767,6 +184813,14 @@
     "history": [
       [
         {
+          "timestamp": 1791652541695,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789055621758,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -293503,13 +293557,25 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "Bother Bin Pro": "$120.00"
     },
     "minPriceInfo": {
       "price": 15,
-      "formattedPrice": "$15.00"
+      "formattedPrice": "$15.00",
+      "Bother Bin Pro": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Bother Bin Pro": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753567948857,
@@ -315864,13 +315930,25 @@
       "月度护持": "$30.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "终身护持": "$490.00",
       "年度护持": "$90.00",
       "月度护持": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "终身护持": "$490.00",
+            "年度护持": "$90.00",
+            "月度护持": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,

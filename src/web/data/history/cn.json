@@ -137590,6 +137590,14 @@
     "history": [
       [
         {
+          "timestamp": 1791652541695,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 8.8,
           "formattedPrice": "¥8.80",
@@ -206698,13 +206706,25 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 6,
-      "formattedPrice": "¥6.00"
+      "formattedPrice": "¥6.00",
+      "问题盒子 Pro": "¥28.00"
     },
     "minPriceInfo": {
       "price": 3,
-      "formattedPrice": "¥3.00"
+      "formattedPrice": "¥3.00",
+      "问题盒子 Pro": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "问题盒子 Pro": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766731313261,
@@ -235242,13 +235262,25 @@
       "月度护持": "¥3.00"
     },
     "minPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "终身护持": "¥99.00",
       "年度护持": "¥20.00",
       "月度护持": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791652541695,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身护持": "¥99.00",
+            "年度护持": "¥20.00",
+            "月度护持": "¥3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
