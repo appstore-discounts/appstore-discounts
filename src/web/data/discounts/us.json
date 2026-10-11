@@ -2,6 +2,26 @@
   {
     "trackId": 443646748,
     "region": "us",
+    "timestamp": 1791692106771,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Fitness Buddy Premium",
+        "from": "$46.99",
+        "to": "$9.99",
+        "range": "[$9.99 ~ $46.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id443646748",
+    "trackName": "Fitness Buddy+ Workout Trainer",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 443646748,
+    "region": "us",
     "timestamp": 1791666779192,
     "discounts": [
       {

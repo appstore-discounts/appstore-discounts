@@ -88245,14 +88245,22 @@
   "1164801111": {
     "name": "AutoSleep – 在手錶上追蹤睡眠",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791692106771,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783394439862,
