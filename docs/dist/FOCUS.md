@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2329` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2331` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2331|1620745523|Automatic|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|
+|2330|6762813110|Automatic|❌|Sifu|Sifu|Sifu|Sifu|Sifu|Sifu|
 |2329|6814210373|Automatic|Auday - Watch全天AI录音|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|
 |2328|6817352467|Automatic|❌|❌|❌|❌|❌|Karakol Amiri|❌|
 |2327|6819276809|Automatic|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
@@ -2164,7 +2166,7 @@ So far, we've covered `7` `Countries or Regions` and  `2329` `Apps` <br />Push n
 |175|6504433140|Manual|LaxtTime - 日常记录/循环提醒/习惯养成/倒计时|LaxtTime|LaxtTime|LaxtTime|LaxtTime - Remember Last Time|LaxtTime - Remember Last Time|LaxtTime - Remember Last Time|
 |174|920133658|Manual|解剖和生理学|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|
 |173|6463851696|Manual|功德++ : 锁屏，Standby，桌面小组件都可以敲的木鱼|Zen++|Zen++|Zen++|Zen++|❌|❌|
-|172|1358237203|Manual|时间胶囊-寄往未来的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|时间胶囊-寄往未来的信|时间胶囊-寄往未来的信|时间胶囊-寄往未来的信|
+|172|1358237203|Manual|时间胶囊-寄往未来的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|Time Capsule - Future Letters|Time Capsule - Future Letters|时间胶囊-寄往未来的信|
 |171|1316883372|Manual|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|Manual|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|Manual|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|

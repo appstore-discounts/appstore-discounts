@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2329` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2331` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2331|1620745523|自动|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|
+|2330|6762813110|自动|❌|Sifu|Sifu|Sifu|Sifu|Sifu|Sifu|
 |2329|6814210373|自动|Auday - Watch全天AI录音|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|
 |2328|6817352467|自动|❌|❌|❌|❌|❌|Karakol Amiri|❌|
 |2327|6819276809|自动|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
@@ -2164,7 +2166,7 @@
 |175|6504433140|手动|LaxtTime - 日常记录/循环提醒/习惯养成/倒计时|LaxtTime|LaxtTime|LaxtTime|LaxtTime - Remember Last Time|LaxtTime - Remember Last Time|LaxtTime - Remember Last Time|
 |174|920133658|手动|解剖和生理学|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|
 |173|6463851696|手动|功德++ : 锁屏，Standby，桌面小组件都可以敲的木鱼|Zen++|Zen++|Zen++|Zen++|❌|❌|
-|172|1358237203|手动|时间胶囊-寄往未来的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|时间胶囊-寄往未来的信|时间胶囊-寄往未来的信|时间胶囊-寄往未来的信|
+|172|1358237203|手动|时间胶囊-寄往未来的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|Time Capsule - Future Letters|Time Capsule - Future Letters|时间胶囊-寄往未来的信|
 |171|1316883372|手动|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|手动|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|手动|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|

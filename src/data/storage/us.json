@@ -76720,6 +76720,25 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "$10 Credit": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791332575449,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -82849,6 +82868,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791746494646,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Grottoes Add-on": "$0.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Heroes Add-on": "$3.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Wonderwood Add-on": "$8.99",
+            "Heart of Evil Add-on": "$6.99",
+            "Lonely Mountain Add-on": "$6.99"
+          }
+        },
         {
           "timestamp": 1791720642119,
           "price": 4.99,
@@ -152126,7 +152162,7 @@
     ]
   },
   "1358237203": {
-    "name": "时间胶囊-寄往未来的信",
+    "name": "Time Capsule - Future Letters",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -246871,6 +246907,27 @@
       ]
     ]
   },
+  "1620745523": {
+    "name": "aRDP Pro - RDP Remote Desktop",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1620883955": {
     "name": "Little Nightmares",
     "maxPriceInfo": {
@@ -338989,6 +339046,25 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99",
+            "Worship EFX": "$0.99",
+            "Worship 808": "$0.99",
+            "Worship Cinematic": "$0.99",
+            "Worship Drum Kit 3": "$0.99",
+            "Worship Drum Kit 2": "$0.99",
+            "Worship Drum Kit 1": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -346231,6 +346307,25 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Elite Annual": "$7.99",
+            "Pro Mensal": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "10 Tokens Coach IA": "$4.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI RANKED iPhone X a 12 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -352609,6 +352704,19 @@
           "timestamp": 1791720642119,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762813110": {
+    "name": "Sifu",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
           "inAppPurchases": {}
         }
       ]

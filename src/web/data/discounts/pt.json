@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1621267448,
+    "region": "pt",
+    "timestamp": 1791746494646,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "weekly pro",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1621267448",
+    "trackName": "FormCheck AI: 表格检查",
+    "firstRecordedAt": 1772046909953
+  },
+  {
     "trackId": 1662217862,
     "region": "pt",
     "timestamp": 1791720642119,

@@ -29750,6 +29750,25 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791692106771,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -217472,6 +217491,29 @@
       ]
     ]
   },
+  "1620745523": {
+    "trackId": 1620745523,
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1620883955": {
     "trackId": 1620883955,
     "trackName": "Little Nightmares",
@@ -227059,6 +227101,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788706749034,
@@ -307911,6 +307964,16 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "$50.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790526512684,
           "price": 70,
           "formattedPrice": "$70.00",
@@ -317122,6 +317185,25 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "全法術禮包": "$390.00",
+            "全英雄禮包": "$990.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包_B": "$790.00",
+            "英雄 鬼侍": "$150.00",
+            "英雄 伊格納斯": "$90.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 奧術鍛造匠": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791720642119,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -318087,6 +318169,29 @@
           "timestamp": 1791720642119,
           "price": 320,
           "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762813110": {
+    "trackId": 6762813110,
+    "trackName": "Sifu",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 190,
+          "formattedPrice": "$190.00",
           "inAppPurchases": {}
         }
       ]

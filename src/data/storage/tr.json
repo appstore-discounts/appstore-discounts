@@ -71225,6 +71225,25 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "$20 Credit": "₺999,99",
+            "$5 Credit": "₺299,99",
+            "$50 Credit": "₺2.499,99",
+            "1 Mo. CAN Texting": "₺149,99",
+            "3 Mo. CAN Texting": "₺299,99",
+            "6 Mo. CAN Texting": "₺499,99",
+            "1 Mo. Global Texting": "₺199,99",
+            "3 Mo. Global Texting": "₺499,99",
+            "6 Mo. Global Texting": "₺799,99",
+            "1 Mo. Fongo Plus": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790977922515,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -78802,6 +78821,25 @@
       "Daddy": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Unlock all stages": "₺49,99",
+            "Chloe": "₺49,99",
+            "Shaw": "₺49,99",
+            "Kid": "₺49,99",
+            "Rob-o": "₺49,99",
+            "Emo": "₺49,99",
+            "Joshua": "₺49,99",
+            "Lucy": "₺49,99",
+            "Atom": "₺49,99",
+            "Mia": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -116339,7 +116377,15 @@
       "250 Hell Stones": "₺2.299,99",
       "120 Hell Stones": "₺1.299,99",
       "30 Hell Stones": "₺499,99",
-      "500 Hell Stones": "₺2.299,99"
+      "500 Hell Stones": "₺2.299,99",
+      "Total Package": "₺899,99",
+      "Magic Package": "₺499,99",
+      "Awakening Package": "₺2.299,99",
+      "Ring Package": "₺1.299,99",
+      "18000 Rebirth Stones": "₺2.299,99",
+      "8400 Rebirth Stones": "₺1.299,99",
+      "2400 Rebirth Stones": "₺499,99",
+      "1100 Rebirth Stones": "₺199,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -116355,9 +116401,36 @@
       "250 Hell Stones": "₺1.999,99",
       "120 Hell Stones": "₺999,99",
       "30 Hell Stones": "₺399,99",
-      "500 Hell Stones": "₺1.999,99"
+      "500 Hell Stones": "₺1.999,99",
+      "Total Package": "₺899,99",
+      "Magic Package": "₺499,99",
+      "Awakening Package": "₺2.299,99",
+      "Ring Package": "₺1.299,99",
+      "18000 Rebirth Stones": "₺2.299,99",
+      "8400 Rebirth Stones": "₺1.299,99",
+      "2400 Rebirth Stones": "₺499,99",
+      "1100 Rebirth Stones": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Total Package": "₺899,99",
+            "Magic Package": "₺499,99",
+            "Feature Package": "₺199,99",
+            "Awakening Package": "₺2.299,99",
+            "Automatic Package": "₺899,99",
+            "Ring Package": "₺1.299,99",
+            "18000 Rebirth Stones": "₺2.299,99",
+            "8400 Rebirth Stones": "₺1.299,99",
+            "2400 Rebirth Stones": "₺499,99",
+            "1100 Rebirth Stones": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783444419793,
@@ -135736,7 +135809,14 @@
       "Tuner": "₺0,00",
       "Unlock All": "₺399,99",
       "Erase": "₺39,99",
-      "Blend": "₺39,99"
+      "Blend": "₺39,99",
+      "Remove the Ad": "₺39,99",
+      "Dub and Audio": "₺39,99",
+      "Pixelate": "₺39,99",
+      "Filter": "₺39,99",
+      "Add Text": "₺39,99",
+      "Convert into Gif": "₺39,99",
+      "Border": "₺39,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -135754,9 +135834,35 @@
       "Tuner": "₺0,00",
       "Unlock All": "₺349,99",
       "Erase": "₺39,99",
-      "Blend": "₺39,99"
+      "Blend": "₺39,99",
+      "Remove the Ad": "₺39,99",
+      "Dub and Audio": "₺39,99",
+      "Pixelate": "₺39,99",
+      "Filter": "₺39,99",
+      "Add Text": "₺39,99",
+      "Convert into Gif": "₺39,99",
+      "Border": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Remove the Ad": "₺39,99",
+            "Crop": "₺0,00",
+            "Dub and Audio": "₺39,99",
+            "Pixelate": "₺39,99",
+            "Filter": "₺39,99",
+            "Add Text": "₺39,99",
+            "Convert into Gif": "₺39,99",
+            "Splice": "₺0,00",
+            "Border": "₺39,99",
+            "Sticker": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790552524601,
@@ -137953,7 +138059,7 @@
     ]
   },
   "1358237203": {
-    "name": "时间胶囊-寄往未来的信",
+    "name": "Time Capsule - Future Letters",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -162023,7 +162129,7 @@
       "Transylvania Wolf Token": "₺149,99",
       "Euro Trip": "₺199,99",
       "VIP Offer": "₺999,99",
-      "Snowdrop Valley": "₺349,99",
+      "Snowdrop Valley": "₺799,99",
       "Fantasy Beach Bundle": "₺499,99",
       "Starseeker Token": "₺449,99",
       "The Werewolf": "₺199,99",
@@ -162067,11 +162173,11 @@
       "Tokyo Obsidian Tokens Bundle": "₺499,99",
       "Kaiju": "₺199,99",
       "New Premium+ Cthulhu Token": "₺449,99",
-      "Snowdrop Valley Token Bundle": "₺299,99",
-      "Reindeer": "₺129,99",
-      "Snowman": "₺129,99",
-      "Snowmobile Token": "₺129,99",
-      "Tree Token": "₺129,99",
+      "Snowdrop Valley Token Bundle": "₺499,99",
+      "Reindeer": "₺149,99",
+      "Snowman": "₺149,99",
+      "Snowmobile Token": "₺149,99",
+      "Tree Token": "₺149,99",
       "Paris, La Belle Epoque": "₺399,99",
       "Lion Token": "₺129,99",
       "Steampunk Dragon Bundle": "₺999,99",
@@ -162477,6 +162583,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791746494646,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "The Complete Collection": "₺1.999,99",
+            "Snowdrop Valley": "₺799,99",
+            "Snowdrop Valley Board": "₺399,99",
+            "Explorer Pack": "₺599,99",
+            "Snowdrop Valley Token Bundle": "₺499,99",
+            "Reindeer": "₺149,99",
+            "Snowman": "₺149,99",
+            "Snowmobile Token": "₺149,99",
+            "Tree Token": "₺149,99",
+            "1935 Atlantic City Board": "₺399,99"
+          }
+        },
         {
           "timestamp": 1791720642119,
           "price": 249.99,
@@ -216243,6 +216366,27 @@
       ]
     ]
   },
+  "1620745523": {
+    "name": "aRDP Pro - RDP Remote Desktop",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1620883955": {
     "name": "Little Nightmares",
     "maxPriceInfo": {
@@ -235732,6 +235876,23 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Round the World Ticket": "₺2.499,99",
+            "Europe Expansion": "₺799,99",
+            "Europe Map": "₺699,99",
+            "1910 Ticket Pack": "₺199,99",
+            "Japan Expansion": "₺699,99",
+            "Legendary Asia Map": "₺499,99",
+            "Ticket to Ride ChristmasBundle": "₺499,99",
+            "Germany Expansion": "₺699,99",
+            "Legendary Asia Expansion": "₺699,99",
+            "Welcome Offer": "₺1.499,99"
+          }
+        },
+        {
           "timestamp": 1791720642119,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -243896,6 +244057,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791746494646,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Airbus A321": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "UH-60": "₺49,99",
+            "Airbus A350-1000": "₺199,99"
+          }
+        },
         {
           "timestamp": 1791692106771,
           "price": 199.99,
@@ -290258,6 +290436,23 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Alchemist": "₺149,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Forger": "₺249,99",
+            "Gems Handful": "₺149,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Ignus": "₺149,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "SHOWCASE OFFER 08": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Oni": "₺249,99"
+          }
+        },
+        {
           "timestamp": 1791692106771,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -291383,6 +291578,19 @@
           "timestamp": 1791720642119,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762813110": {
+    "name": "Sifu",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
           "inAppPurchases": {}
         }
       ]

@@ -18055,6 +18055,23 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Fases da Lua calendário": "0,99 €",
+            "Feriados Portugal": "0,99 €",
+            "Tempo calendário": "1,99 €",
+            "Calendars - Primeira Liga Football Men Portugal 2014-2015 edition": "0,99 €",
+            "Números de semana": "0,99 €",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "0,99 €",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "0,99 €",
+            "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1791720642119,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -18187,6 +18204,25 @@
       "Seoul Rider paint job for all vehicles": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Unlock All": "17,99 €",
+            "Unlock All Vehicles": "9,99 €",
+            "Pack of 3 Super Cops": "0,99 €",
+            "Pack of 10 Super Cops": "2,99 €",
+            "Pack of 50 Super Cops": "14,99 €",
+            "Donut Finder": "2,99 €",
+            "East Side paint job for all vehicles": "0,99 €",
+            "The Met paint job for all vehicles": "0,99 €",
+            "Autobahn paint job for all vehicles": "0,99 €",
+            "Seoul Rider paint job for all vehicles": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786529003459,
@@ -67845,6 +67881,25 @@
     "history": [
       [
         {
+          "timestamp": 1791746494646,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Rate": "0,00 €",
+            "Info": "0,00 €",
+            "Tuner": "0,00 €",
+            "Chromakey": "0,00 €",
+            "Unlock All": "8,99 €",
+            "Paint": "0,00 €",
+            "Erase": "0,99 €",
+            "Blend": "0,99 €",
+            "Distortion": "0,00 €",
+            "Magnifier": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783871980856,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -104212,6 +104267,29 @@
       ]
     ]
   },
+  "1620745523": {
+    "trackId": 1620745523,
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1620883955": {
     "trackId": 1620883955,
     "trackName": "Little Nightmares",
@@ -104482,13 +104560,27 @@
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "weekly pro": "9,99 €",
+      "weekly pro": "1,99 €",
       "Discounted Monthly Sub": "5,99 €",
       "Yearly Subscription": "22,99 €",
       "Discounted Yearly Subscription": "99,99 €",
       "Monthly Subscription": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791746494646,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Monthly Subscription": "22,99 €",
+            "Discounted Yearly Subscription": "99,99 €",
+            "Yearly Subscription": "22,99 €",
+            "Discounted Monthly Sub": "5,99 €",
+            "weekly pro": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772046909953,
@@ -149418,6 +149510,21 @@
           "timestamp": 1791720642119,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762813110": {
+    "trackId": 6762813110,
+    "trackName": "Sifu",
+    "region": "pt",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1791746494646,
           "inAppPurchases": {}
         }
       ]
