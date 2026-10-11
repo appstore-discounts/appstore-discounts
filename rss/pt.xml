@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-10T18:53:21.067Z</updated>
+    <updated>2026-10-11T13:50:25.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-10T18:53:21.067Z</updated>
+        <updated>2026-10-11T13:50:25.400Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptSat, 10 Oct 2026 18:53:21 GMT</id>
+        <id>rankingptSun, 11 Oct 2026 13:50:25 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-10T18:53:21.067Z</updated>
+        <updated>2026-10-11T13:50:25.400Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2327</b>
+        <b>2329</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2123</b>
+        <b>2125</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2021</b>
+        <b>2022</b>
       </td>
       <td>
         <b>146</b>
       </td>
       <td>
-        <b>1875</b>
+        <b>1876</b>
       </td>
       <td>
         <b>33</b>
@@ -586,14 +586,20 @@ feedId:206907475259680768+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">Mutropolis mobile</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1662217862?lang=en">Wipr 2</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Filtr</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -603,7 +609,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6480501528?lang=en">Cat Todo - Lista de tarefas</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">Mutropolis mobile</a>
       </td>
       <td>
         <ul>
@@ -620,7 +626,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6811795155?lang=en">Keeps</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/6480501528?lang=en">Cat Todo - Lista de tarefas</a>
       </td>
       <td>
         <ul>
@@ -637,7 +643,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6761328517?lang=en">Dungeon Within</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/6811795155?lang=en">Keeps</a>
       </td>
       <td>
         <ul>
@@ -652,6 +658,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>32</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6761328517?lang=en">Dungeon Within</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">Empires Game</a>
@@ -676,7 +699,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6752662508?lang=en">Pegadas·TimeTrails·GPS</a>
@@ -693,7 +716,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760764479?lang=en">Alpin Quest PRO – Outdoor GPS</a>
@@ -716,7 +739,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6469419567?lang=en">Overwinter Survival</a>
@@ -743,7 +766,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6778029370?lang=en">Order Automatica</a>
@@ -760,7 +783,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en">Slots & Daggers</a>
@@ -777,7 +800,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en">CloverPit</a>
@@ -794,7 +817,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en">Comprato</a>
@@ -811,7 +834,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -828,7 +851,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en">Digline: Mineração Relaxante</a>
@@ -845,7 +868,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6459581344?lang=en">Art of Rally</a>
@@ -862,7 +885,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6802565793?lang=en">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -879,7 +902,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760446039?lang=en">般若心灯</a>
@@ -1203,6 +1226,57 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wipr 2]]></title>
+        <id>Wipr 2-pt-1791720642119</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1662217862?lang=en"/>
+        <updated>2026-10-11T12:10:42.119Z</updated>
+        <summary type="html"><![CDATA[Filtr: 29,99 € → 5,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1662217862?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e5/d1/2ee5d1c1-846b-f3a3-03ae-2bdb8198e910/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Filtr：</strong><span>29,99 €</span> → <b>
+  <strong>5,99 €</strong>
+</b><span>[5,99 € ~ 29,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>5,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Filtr：<b>5,99 €</b>
+  </li><li>
+    Yearly Recurring Tip：<b>9,99 €</b>
+  </li><li>
+    Monthly Recurring Tip：<b>1,99 €</b>
+  </li><li>
+    Mega Tip：<b>22,99 €</b>
+  </li><li>
+    Tip：<b>5,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.
+
+Websites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap.
+
+The Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.
+
+Wipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.
+
+Wipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.
+
+Because it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.
+
+This app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.
+
+– Kaylee
+
+
+
+Terms & Conditions: https://kaylees.site/terms-and-conditions.html
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/72/4b/f0724bfa-e305-914c-499e-ca0da0860a1c/iphone-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/fd/ec/17fdec6e-18b8-7289-c075-4463b3da3279/iphone-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/7d/67/2a7d6792-90ec-e2c7-a43c-855079e74ab6/iphone-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/fe/14/d9fe1498-26e9-ddca-d26d-85a3fd2166eb/iphone-4.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/ef/63/a9ef63b9-7c94-2bdb-c50e-f3cbdfbb6a83/ipad-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/d1/09/40d1098a-4f9b-117c-90b3-1b290fbf328a/ipad-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/c6/bc/50c6bc94-81a4-ef34-ec2e-254621595472/ipad-3.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[般若心灯]]></title>
@@ -1949,769 +2023,5 @@ Recursos:
 
 Quanto mais fundo você vai, mais a mina revela.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/9c/90/fd9c9062-0145-e3d5-d67b-bc40a5c1c1c4/pt-pt-1-Introduction.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/4d/e3/e64de30c-88da-ae5c-e36a-f4b38db2abfe/pt-pt-2-Feature_A.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/cd/6d/ebcd6dff-5d96-0884-5261-fc67cf054519/pt-pt-3-Feature_B.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/af/bd/b5afbde1-9b68-0375-a42e-e490183a5842/pt-pt-4-Feature_C.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/9f/43/a69f4335-a17a-5282-7a53-57e5a3c74952/pt-pt-5-Feature_D.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/4c/ff/7f4cffd3-ec50-6207-7652-68d22627e153/pt-pt-6-Feature_E.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/6d/4f/146d4f36-0686-e041-4f75-809defb1492c/pt-pt-7-Feature_F.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/aa/33/d8aa339a-96a5-e144-8599-4a8f9c136142/pt-pt-1-Introduction_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/ba/18/d4ba185e-078b-bede-7e05-71d7b7c2da40/pt-pt-2-Feature_A_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/51/d5/5751d544-00af-3684-73d0-78a3a1955ecf/pt-pt-3-Feature_B_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/01/e2/1401e26c-4a6b-7ed6-14e6-4d4862daa7da/pt-pt-4-Feature_C_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/33/d7/4533d76f-56de-ce51-648d-02af323fbd65/pt-pt-6-Feature_E_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/2e/a3/422ea3f6-5c56-bacf-6b6f-31f20c65a641/pt-pt-7-Feature_F_iPad.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comprato]]></title>
-        <id>Comprato-pt-1791453869385</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en"/>
-        <updated>2026-10-08T10:04:29.385Z</updated>
-        <summary type="html"><![CDATA[Price: 1,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/38/51/b93851b8-2b31-7acd-e438-7993e56f63e6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>1,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 1,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Comprato Plus：<b>1,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Comprato é a app onde os portugueses partilham as ofertas que vão encontrando nas suas compras — e onde organizas a
-  tua lista para tirar partido delas.
-
-  LISTA DE COMPRAS QUE PENSA POR TI
-  Adiciona o que precisas e a Comprato sugere onde comprar com melhor combinação de preços. Categoriza automaticamente,
-  agrupa por loja, ordena por corredor. Partilha com pessoas do agregado familiar — qualquer alteração sincroniza em
-  tempo real.
-
-  OFERTAS DA COMUNIDADE
-  Os melhores preços não estão num folheto qualquer — estão a ser observados, neste momento, por quem está em loja. Comprato é o sítio onde essas observações se juntam. Vê o que outros utilizadores apanharam recentemente nos supermercados e nos pequenos comércios locais. Filtra por categoria, loja, distrito, ou data. Inclui filtro Vegano que cruza todas as categorias.
-
-  DESPENSA — O QUE TENS EM CASA
-  A app guarda o que já tens em stock e usa essa lista para te mostrar receitas que podes cozinhar sem ir ao
-  supermercado. As validades aproximam-se? A despensa avisa-te antes de estragar. Ao marcares um item da lista como
-  comprado, vai direto para a despensa com data de validade sugerida pela categoria.
-
-  COMO É QUE ISTO FUNCIONA NA PRÁTICA
-  • Adicionas leite, arroz e detergente à lista.
-  • A app mostra-te os preços que a comunidade viu nestes produtos nas últimas semanas, por loja.
-  • Se vires uma boa oferta no terreno, partilhas em 10 segundos. Outros utilizadores validam.
-  • Recebes notificação quando alguém partilha uma oferta numa marca que andas a seguir.
-
-  MAIS FUNCIONALIDADES
-  • Alertas de preço: define um valor-alvo e a app avisa quando uma marca chega a esse preço.
-  • Receitas com cálculo de custo automático, baseado nos preços actuais da tua área.
-  • Importa receitas a partir de qualquer site ou de uma fotografia — a app extrai ingredientes, passos e medidas
-  automaticamente.
-  • Modo de cozinhar mãos-livres: passos grandes, ecrã sempre ligado, ideal para o tablet em cima da bancada.
-  • Planeamento de refeições semanal, com lista de compras gerada à medida e orçamento configurável.
-  • Filtros alimentares (vegano, sem glúten, etc.) — vê só ofertas e receitas adequadas a quem cozinha em casa.
-  • Cashback de fidelização: regista os teus cartões Continente/Pingo Doce e a app integra o desconto no custo total
-  mostrado.
-  • Mapa de lojas próximas, incluindo o mercado de bairro e o pequeno comércio local.
-  • Mini-comércio: pequenas lojas locais podem listar os seus produtos gratuitamente, dando visibilidade fora das
-  grandes superfícies.
-
-  COMPRATO PLUS — €1,99 / ano
-  3 meses gratuitos para experimentar. Plus desbloqueia planeamento de refeições ilimitado, receitas personalizadas
-  baseadas no histórico, temas premium e acesso antecipado a novas funcionalidades. A versão gratuita continua a cobrir
-  o essencial: lista de compras, ofertas da comunidade, alertas de preço e receitas básicas.
-
-  PRIVACIDADE
-  Não vendemos dados a terceiros. A localização só é usada se autorizares, para te mostrar as lojas mais próximas, e
-  podes desligá-la a qualquer momento. Tens controlo total: exportas ou apagas a tua conta sempre que quiseres, sem ter
-  que mandar email.
-
-  100% PORTUGUÊS
-  App desenhada em Portugal, em português europeu, para a realidade dos supermercados portugueses. Sem traduções
-  automáticas, sem produtos brasileiros, sem moedas estrangeiras. Os utilizadores que partilham ofertas são pessoas que
-  vivem cá e fazem compras como tu.
-
-  Descarrega gratuitamente. Sem registo obrigatório para começar.
-
-  Termos de Utilização (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-  Política de Privacidade: https://comprato.pt/privacy-policy
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/52/ef/eb52ef3a-8d4c-6906-ae47-05707e301233/IP_Lista_Main.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/5c/69/3b5c697f-bf81-1b7e-492b-43500b08d37c/IP_Lista_Item.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/9b/37/f19b3754-7652-502a-25d8-5545ea96d366/IP_Despensa.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/e7/67/98e76714-40ff-a716-17ec-48443d341eb0/IP_Posso_Coz_Estraga.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/5f/e7/6e5fe702-d32c-b29e-fd71-430f5b97a013/IP_Receitas.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/62/d2/7b62d215-4144-68be-5656-d3637aeff6e6/Listas-IPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/2a/55/c52a5599-0025-2782-6852-6c8e97d22ef7/Plano_Savings-Ipad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/6c/b5/ce6cb5c0-3221-bd46-5bfa-efe9cb531381/Plano_Preenchido-Ipad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/f5/1f/d2f51f4c-7074-eb32-d047-2d14f76c8731/Receitas-Ipad.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitness Amigo+]]></title>
-        <id>Fitness Amigo+-pt-1791453869385</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en"/>
-        <updated>2026-10-08T10:04:29.385Z</updated>
-        <summary type="html"><![CDATA[Fitness Buddy Premium: 46,99 € → 29,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6e/b1/236eb1c6-d105-0fd1-aa5e-b70fd54213a0/AppIcon-FB-Pro-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
-  <li>
-    <strong>Fitness Buddy Premium：</strong><span>46,99 €</span> → <b>
-  <strong>29,99 €</strong>
-</b><span>[29,99 € ~ 46,99 €]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>3,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Premium：<b>43,99 €</b>
-  </li><li>
-    Fitness Buddy Premium：<b>29,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  75% desconto !!! 12 HORAS venda! Acaba de atualizar e agora tem 1700 + exercícios e mais de 1000 vídeos em HD!
-
-Descobrir o porquê ginásio frequentadores estão migrando para Fitness Amigo! Com 1700 + exercícios únicos à sua disposição, que vai revolucionar o seu regime de treinamento. Com este aplicativo, você vai encontrar o processo de acompanhamento de exercícios simples e fácil, a fim de sustentar a sua motivação e fazer cumprir o seu compromisso com suas metas de fitness.
-
-- Características principais ---
-
-- 1700 + exercícios únicos!
-- 1000 vídeos em HD
-- Exercícios abrangentes para todos os principais equipamentos, incluindo barra, ez curl bar, halteres, kettlebells, bandas de resistência, e bolas de estabilidade
-- Exercício categorização (core, parte inferior do corpo, peito, ombros, costas, braços, cardio, trechos)
-- 4000+ fotos de exercícios e animações (resolução de tela retina)
-- Instruções do exercício detalhada e categorizações musculares
-- Capacidades para adicionar seus próprios exercícios personalizados e exercícios favoritos
-
-Interface amigável
-- Acompanhamento de exercícios simples e rápida
-- Barra de pesquisa para encontrar rapidamente os seus exercícios favoritos
-
-75+ rotinas de treino
-- Repertório diverso de rotinas de exercícios, incluindo exercícios para mulheres
-- Rotinas específicas para seus objetivos (construir peito grande, bumbum tom, perder peso, e mais!)
-- rotinas específicas para o seu equipamento (bandas de resistência, kettlebells, peso corporal única, etc.)
-- Construa suas próprias rotinas de treino
-
-acompanhamento de métricas de corpo
-- Acompanhe o seu peso corporal e métricas (tórax, braços, coxas, etc)
-- Graph seu progresso corpo
-
-Sharing App Saúde da Apple
-- Integra-se com a Apple App Saúde (Configurações -> Planos de Apple Saúde App Sharing)
-
-Upgrade para premium para acesso ilimitado a programas Premium e exercícios Playpen Freeplay, vídeos HD, áudio dinâmico e motivacional, resumos de treino e-mail com dicas e conselhos sobre uma vida saudável, apoio prioritário com subscrição iTunes renovável.
-
-E muitos outros recursos para que você possa melhorar a sua experiência de treino. Você não vai se decepcionar quando você treinar duro com Fitness Amigo.
-
-We offer auto-renewing subscriptions with the following specifications:
-- Subscriptions are 1 month or 12 months long
-- Subscriptions are $9.99 USD per month or $29.99 USD per year.
-- Payment will be charged to iTunes Account at confirmation of purchase
-- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
-- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
-- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-- No cancellation of the current subscription is allowed during active subscription period
-- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
-- our Privacy Policy and terms of use: https://www.azumio.com/page/privacypolicy
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/96/12/75/961275af-e0e2-cf7f-a9b1-4319723854dc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/e0/3d/42/e03d421f-8061-02c9-8bf3-5ede07dd2a8e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple20/v4/0d/ec/b0/0decb030-ce04-8c00-bcb7-0ea3e6f2c81f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/88/87/61/8887611b-e9a1-8a25-41e4-471eb27e3078/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/5a/3e/fa/5a3efa38-a6ea-1ae2-be22-35442da07b18/pr_source.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace Attorney: Dual Destinies]]></title>
-        <id>Ace Attorney: Dual Destinies-pt-1791453869385</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/882362024?lang=en"/>
-        <updated>2026-10-08T10:04:29.385Z</updated>
-        <summary type="html"><![CDATA[Price: 1,19 € → 0,49 €<br/>Main Story Set: 17,99 € → 9,49 €<br/>Special Episode: 3,49 € → 1,49 €<br/>Costume Set: 1,19 € → 0,49 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/882362024?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/08/e3/c808e3b9-1899-7a06-517b-8ebb1c802ff5/iOSAppIconEng-0-0-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>1,19 €</span> → <b>
-  <strong>0,49 €</strong>
-</b><span>[0,49 € ~ 1,19 €]</span>）
-</h2><h3>Compras integradas</h3><ul>
-  <li>
-    <strong>Main Story Set：</strong><span>17,99 €</span> → <b>
-  <strong>9,49 €</strong>
-</b><span>[9,49 € ~ 17,99 €]</span>
-  </li><li>
-    <strong>Special Episode：</strong><span>3,49 €</span> → <b>
-  <strong>1,49 €</strong>
-</b><span>[1,49 € ~ 3,49 €]</span>
-  </li><li>
-    <strong>Costume Set：</strong><span>1,19 €</span> → <b>
-  <strong>0,49 €</strong>
-</b><span>[0,49 € ~ 1,19 €]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>0,49 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Main Story Set：<b>9,49 €</b>
-  </li><li>
-    Special Episode：<b>1,49 €</b>
-  </li><li>
-    Costume Set：<b>0,49 €</b>
-  </li><li>
-    Episode 5：<b>5,99 €</b>
-  </li><li>
-    Episode 4：<b>5,99 €</b>
-  </li><li>
-    Episode 2：<b>5,99 €</b>
-  </li><li>
-    Episode 3：<b>5,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  ※NOTICE※
-This game does not support devices running iOS 11 (including beta versions) or later. Please be aware of this when changing devices and/or updating your device's iOS as the game may not run properly under an unsupported version of iOS.
-
-※IMPORTANT※
-・Please read "Supported iOS and Devices" before purchasing or playing.
-
-In cases where the game unexpectedly crashes:
-Please try re-downloading your purchase data (Title Screen -> Purchase Content -> Restore).
-
-If the above steps do not resolve the issue, please contact us at mobilesupport@capcom.com.
-
-== Game Intro ==
-
-There are no "Objections!" to this exciting entry of the Ace Attorney series! Become a lawyer and solve the case. Your client's life is in your hands!
-Clear you client in Episode 1, then purchase Episodes 2 through 5 of the main story individually or as a set.
-
-◆Point Your Way to Victory◆
-Simply tap the screen to play. The intuitive interface includes useful features such as a backlog for you to re-read testimony and story dialogue.
-
-◆Immersive Investigations◆
-Freely explore 3D crime scenes for evidence and speak with witnesses for information that you can use in court.
-
-◆Fast-Paced, Entertaining Trials◆
-Dismantle lies and resolve contradictions between witnesses' words and the evidence. Solve the case and save your client from trumped-up charges!
-
-◆Colorful Cast of Characters◆
-Join Phoenix Wright and his junior lawyers as they confront an all new cast of interesting, amusing, and sometimes outrageous characters. Fan favorites also make their return under some unexpected and unusual circumstances!
-
-◆Surprising Twists◆
-Delight in solving the mysteries and smile at the characters' amusing and often ridiculous shenanigans. The drama and dialogue will keep you laughing, crying, and guessing until the very end!
-
-◆Lighthearted Additional Content◆
-Dress the three lawyer protagonists up in costumes and use them in the main game for some unintentionally humorous trials!
-
-In addition, try your hand at the extra Special Episode "Turnabout Reclaimed"! Can you successfully defend a wrongfully accused killer killer whale and bring this aquatic punk pirate show to a happy end?
-
-◆iCloud Support◆
-Transfer your save data between multiple iOS devices to play wherever and whenever you want!
-
-※The story in this game is the same as in previous releases.
-
-
-*When Purchasing Content*
-・Episodes 2 through 5 can be purchased separately or together as a pack (Main Story Set). In the event that the content of your purchases overlap, please be aware that we cannot refund you the difference.
-
-
-*Supported iOS and Devices*
-Please check if your iOS and/or device is supported here:
-
-http://www.us.capcommobile.com/pw5-device-compatibility
-
-※We cannot guarantee that this app will work on any iOS or devices not listed on the site above.*Supported iOS and Devices*
-
-
-Learn More About "Ace Attorney"
-https://www.facebook.com/aceattorney
-
-More Capcom Games:
-https://itunes.apple.com/us/developer/capcom/id308807391
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/26/40/03/2640038e-89d3-44c0-5db4-1b93f7abd993/mzl.ynnjggig.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bc/18/bc/bc18bc93-9713-5d40-8374-dc63543fff6f/mzl.bjcjiuxq.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5a/02/58/5a02583f-7fec-2a97-573d-74e217ce8913/mzl.rjkmwlur.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/76/de/81/76de81a1-3e52-7994-574e-aef90ce7b612/mzl.dfmaewsr.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/23/05/71/230571d7-579e-393c-9c86-08eb7c9b8d5f/mzl.higgbrlf.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a0/e1/25/a0e1259e-21d5-437b-2a64-fcc1c313af81/mzl.uployhky.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f6/51/84/f65184a5-58ed-f67c-90bf-80e9f5ecd7b4/mzl.wvupnidn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0a/41/b1/0a41b1b6-7f19-d935-5b0a-8ee23e4fc3aa/mzl.hbmsultn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a7/a7/a2/a7a7a24a-77f6-9e1f-27e2-8e216e4412d1/mzl.zmdlaepw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d0/42/5d/d0425d18-1e2c-4d45-6a1e-d62a61eff898/mzl.ucymfvhq.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apollo Justice Ace Attorney]]></title>
-        <id>Apollo Justice Ace Attorney-pt-1791453869385</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1136993233?lang=en"/>
-        <updated>2026-10-08T10:04:29.385Z</updated>
-        <summary type="html"><![CDATA[Price: 1,19 € → 0,49 €<br/>All Episodes Set: 17,99 € → 9,49 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1136993233?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f2/73/f5f273bd-7158-fb53-d288-b148b9963fcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>1,19 €</span> → <b>
-  <strong>0,49 €</strong>
-</b><span>[0,49 € ~ 1,19 €]</span>）
-</h2><h3>Compras integradas</h3><ul>
-  <li>
-    <strong>All Episodes Set：</strong><span>17,99 €</span> → <b>
-  <strong>9,49 €</strong>
-</b><span>[9,49 € ~ 17,99 €]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>0,49 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    All Episodes Set：<b>9,49 €</b>
-  </li><li>
-    Turnabout Trump, Part 2：<b>2,49 €</b>
-  </li><li>
-    Turnabout Serenade：<b>5,99 €</b>
-  </li><li>
-    Turnabout Corner：<b>5,99 €</b>
-  </li><li>
-    Turnabout Succession：<b>5,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Court Is Back In Session
-
-Star as rookie defense attorney, Apollo Justice, as he visits crime scenes, questions key witnesses and collects vital evidence before stepping into the courtroom to prove his clients’ innocence.
-
-Features:
-· All-new high-resolution graphics
-· A new touch screen interface
-· Interactive forensic testing mini-games that allow players to reveal hidden clues by dusting for prints, testing for traces of blood, and other exciting techniques.
-· Two distinct gameplay segments:
-o Investigation phase – survey crime scenes, interview witnesses and gather forensic evidence that will be used in court
-o Trial phase – present findings from the investigation to support your case, listen to testimonies and examine witnesses
-· An eclectic cast of characters:
-o Apollo Justice: Stepping into the shoes of Phoenix Wright, the new rookie attorney leads the series into an exciting next chapter
-o Klavier Gavin: Lead prosecutor, Apollo’s nemesis and rock star legend
-o Kristoph Gavin: the coolest defense attorney on the judicial circuit, and Apollo’s mentor.
-o Trucy: A mysterious magician and Apollo’s assistant
-
-The initial purchase price includes half of episode one. The remaining episodes can be acquired through in-app purchases
-
-Recommended Devices:
-Please check the following URL for a list of operating environments (devices/OSs) supported by this app.
-https://www.capcom-games.com/product/en-us/apollojustice-aceattorney-app/?t=openv
-
-Note: Although you can purchase this app using devices and OSs not listed as supported, the app may not function properly.
-Please be aware that we can neither guarantee the app's performance nor offer refunds if you use a device or OS not supported by the app.
-
-PLEASE NOTE: “Apollo Justice: Ace Attorney” offers some optional in game content that requires payment. You can turn off the payment feature by disabling in-app purchases in your device’s settings.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a9/98/9ca99893-c189-3b05-75eb-e06f7760168f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/bb/40/63bb40c4-84cb-e3c5-8299-dac0b35adfa2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/0f/8e/aa0f8e77-a3b8-67cd-9526-2343960e17bf/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/a1/04/8ca104c0-fdf5-5bcb-fc75-989c226c4671/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/97/63/6e976329-df34-2db3-6b68-d687a47b120c/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/70/92/847092ec-4999-ad7f-364a-2c6ba44d7024/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/f0/ab/6ff0ab95-5353-f21c-2d8a-d6ab16f9b114/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/be/ad6dbe35-bca8-f4ee-0777-5ea82c27c120/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/7e/d3/377ed3de-542d-a7e9-20ba-f8e7c00beb02/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/55/f7/9455f74b-79c5-cbda-fbc6-60bd382a67da/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEGA MAN X DiVE Offline]]></title>
-        <id>MEGA MAN X DiVE Offline-pt-1791453869385</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en"/>
-        <updated>2026-10-08T10:04:29.385Z</updated>
-        <summary type="html"><![CDATA[Price: 29,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/a8/cb/d1a8cb78-8bdd-04dc-4f2b-6573d1e52d33/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>29,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[0,99 € ~ 29,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h2>Application Description</h2><p>
-  ■■ Atenção ■■
-Verifique os avisos "Sobre compras" e "Dispositivos compatíveis" abaixo antes de comprar ou usar o aplicativo.
-
---- Introdução ao jogo ---
-
-Mega Man X DiVE reimaginou o mundo da série Mega Man X e agora está ganhando uma versão offline!
-Experimente a emocionante ação de rolagem lateral que todos conhecemos e amamos sob uma luz totalmente nova!
-
-Entre no Registro Profundo, um mundo digital onde os dados do jogo da série Mega Man X foram arquivados. Devido a um bug de origem desconhecida, os dados do jogo no Registro Profundo ficaram fragmentados. Com a ajuda de RiCO, um navegador misterioso, o jogador mergulha neste mundo digital para acertar as coisas.
-Assuma o controle dos Programas Caçadores, recriações de personagens lendários como X e Zero, derrote várias formas de Dados Irregulares e restaure os dados do jogo fraturados!
-
-- Ação Clássica do Mega Man
-Salte, corra, dispare seu buster e branda seu sabre. Todas as ações que você esperaria da série Mega Man X estão aqui!
-Além disso, este jogo apresenta mira de 360 graus e uma função de bloqueio automático!
-Você também pode dimensionar e posicionar os controles da tela táctil para adequá-la ao seu estilo de jogo particular.
-
-- Apresentando mais de 100 personagens da série Mega Man
-Adquira seus personagens favoritos de todo o universo Mega Man para adicionar à sua coleção e aumente seu nível para que sejam mais fortes!
-Com uma mistura de novos personagens originais e novos designs para os favoritos dos fãs, há muito para descobrir!
-
-- Uma história original totalmente nova com centenas de estágios para desfrutar
-Mergulhe em uma nova história de de Mega Man que só pode ser experimentada em Mega Man X DiVE. Exploda e abra seu caminho através de centenas de estágios abrangendo vários níveis de dificuldade!
-
-- Faça que seus personagens fiquem mais fortes com armas, chips e cartas
-Os personagens podem equipar todos os tipos de armas para se tornarem mais fortes.
-Aprimore a classificação de uma arma para aumentar seu poder e desbloquear novas habilidades.
-As cartas com ilustrações clássicas também fornecem reforços, tornando-os itens divertidos de colecionar enquanto você cria seu Programa Caçador perfeito!
-
-【Sobre compras】
-Independentemente do motivo, não podemos oferecer reembolsos (ou troca por outro produto ou serviço) após a compra do aplicativo.
-
-【Dispositivos compatíveis】
-Verifique o URL a seguir para obter uma lista de ambientes operacionais (dispositivos/SOs) suportados por este aplicativo.
-https://www.capcom-games.com/megaman/xdive-offline/pt-br/
-
-Observação: Embora você consiga comprar este aplicativo usando dispositivos e sistemas operacionais não listados como compatíveis, o aplicativo pode não funcionar corretamente.
-Esteja ciente de que não podemos garantir o desempenho do aplicativo nem oferecer reembolso se você usar um dispositivo ou sistema operacional não compatível com o aplicativo.
-
-【Aproveite mais títulos da Capcom!】
-Pesquise "Capcom" na App Store, ou o nome de um de nossos aplicativos, para mais jogos divertidos!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6b/4c/60/6b4c607a-e7c5-460c-089a-75e00178f06d/49e9f509-db7e-4e61-9b79-1c982549781e_SS01.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3c/4d/ad/3c4dadf4-cf83-3daa-4567-fffd4f8cd62b/dc126bc5-c0b3-417c-8804-b3637df774a5_SS02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d3/09/26/d3092690-da48-d6e0-8eb9-fc3279241ae5/8903e3ce-2281-4e84-ae43-bcea5d8e3c29_SS03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/09/07/cf0907ae-56ba-27b6-cfea-c00f77a1c741/ace682b6-aa0c-437f-9728-2a02ca3eebc4_SS04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/27/d2/ff/27d2fffb-e8dd-9b8d-a490-a84ce07fc885/8ac33f02-88b0-4a44-86aa-84ac6e15e2a4_SS05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/65/7e/da/657eda7c-e4b5-c6cf-110b-78b870a1b6e7/0700f331-556d-401c-9cf9-72ac06673f83_SS06.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/36/53/12/365312ee-8e6d-4800-eac4-9acdff4211c0/81f89606-0377-4253-83a7-b1a2dfb6cbc6_SS01.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/01/78/46017898-fc2a-3c88-4c8d-9c96795cdcd4/6b2cb525-e8b4-4cc7-97d0-cae83c459215_SS02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/ba/0c/caba0cb3-67e4-2418-c1a4-590fc80c453f/66071024-36c3-4a8e-9a12-19a02d284e7a_SS03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c7/02/0a/c7020a5e-9f84-4fcf-73fd-45a2dc1f53fb/443b9a7e-9308-492e-b42b-d91f2af37679_SS04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/ee/5a/c2ee5a72-d3e2-1da7-5ca8-904413c52639/b60dff86-f934-4ccf-9e63-2985c8050872_SS05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/42/49/424249af-4857-fc95-befe-a9df3d881e80/65280b9a-cd9c-410a-89b0-618bd011ddfa_SS06.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace Attorney Trilogy]]></title>
-        <id>Ace Attorney Trilogy-pt-1791453869385</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en"/>
-        <updated>2026-10-08T10:04:29.385Z</updated>
-        <summary type="html"><![CDATA[Price: 29,99 € → 9,89 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>29,99 €</span> → <b>
-  <strong>9,89 €</strong>
-</b><span>[9,89 € ~ 29,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>9,89 €</b>
-</p><h2>Application Description</h2><p>
-  ■■ Caution ■■
-Please check the "Regarding Purchases" and "Supported Devices" notices below before purchasing or using the app.
-
---- Game Introduction ---
-
-Become a lawyer and take the stand to prove your client’s innocence in a court of law!
-
-Enjoy rookie attorney Phoenix Wright's first three games in the popular series, all in one package!
-All 14 thrilling episodes of Phoenix Wright: Ace Attorney, Phoenix Wright: Ace Attorney – Justice for All, and Phoenix Wright: Ace Attorney – Trials and Tribulations are included!F6
-
-With high-resolution graphics, courtroom battles never looked this beautiful!
-
-On top of Japanese and English, you can experience the world of Ace Attorney in French, German, Chinese (simplified and traditional), and Korean as well! Just swap to your preferred language in the Options menu!
-
-The number of save slots has increased to ten! There are now ten save slots per language available across all three games!
-
-【Game Overview】
-There's been a murder! Uncover the truth to save your innocent client!
-
-- Investigation
-Gather information and evidence related to the case!
-
-- Courtroom
-Outwit cunning prosecutors and call out witnesses to discover what really happened by finding inconsistencies in their statements!
-
-Solve the intriguing mysteries behind each case and witness the final truth for yourself!
-
-Note: During normal conversation, you can fast-forward the dialogue by holding the text skip button.
-Note: This collection is the same as the one previously released on home gaming platforms.
-
-【Regarding Purchases】
-Regardless of the reason, we cannot offer refunds (or an exchange for another product or service) once the app is purchased.
-
-【Supported Devices】
-Please check the following URL for a list of operating environments (devices/OSs) supported by this app.
-https://www.capcom-games.com/product/en-us/aceattorney-trilogy-app/?t=openv
-
-Note: Although you can purchase this app using devices and OSs not listed as supported, the app may not function properly.
-Please be aware that we can neither guarantee the app's performance nor offer refunds if you use a device or OS not supported by the app.
-
-【Enjoy More Capcom Titles!】
-Search for "Capcom" in the App Store, or the name of one of our apps, for more fun games to play!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/32/2f/e9/322fe901-70cb-ceba-235b-8daed42bf6a5/5c3bc12d-2467-40dc-98d8-43e01aed323b_SS01.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2f/cb/ac/2fcbac03-688d-3733-316d-cc4e40aaab36/4bbdb650-f813-41e3-9e14-b2e44ee40006_SS02.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0c/a4/a7/0ca4a73f-9206-2514-e193-cafa9d76b9c5/297eadb8-3dc4-49b2-846e-ece29f68aa3c_SS03.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/51/c0/9c/51c09ceb-74d1-9c12-8533-ecd540a98e8c/136f92e2-40c7-439b-bb21-653d283f295e_SS04.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/19/44/19/19441913-a0e5-137a-ab88-29d7c3fb87dd/f0462111-c0fe-44ba-9953-3ceb3d78a4bc_SS05.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9f/c5/30/9fc530b7-2df5-2bcb-0469-746cf0e89367/b44b7e05-6ed7-445b-b9b8-fd3afb50d8af_SS01.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/db/d6/32/dbd6328a-66e5-bad2-8f3a-71b3c3254767/04c85ea3-23d3-4691-bdbd-e079f61d80d5_SS02.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/39/23/bf/3923bf37-603c-fcbc-1ad5-0cd3e49e640b/2f91fdd7-bd38-4884-a696-4609485ff592_SS03.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/23/61/ea/2361ea6e-f8c7-099c-997c-2544f6297ae4/243bda9b-7bb0-40ad-9a1e-0dbe4ac66654_SS04.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0e/ee/64/0eee6471-c43e-0bfd-8437-154eb1b07143/9f2a4d0d-3cf3-49a1-9328-ae1b5a47d6cc_SS05.PNG/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Street Fighter IV CE]]></title>
-        <id>Street Fighter IV CE-pt-1791453869385</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1239299402?lang=en"/>
-        <updated>2026-10-08T10:04:29.385Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1239299402?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/b7/9d/37b79d48-f250-0a7a-b93e-e840975c4694/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h2>Application Description</h2><p>
-  A new warrior has entered the ring!
-
-Take control of 32 world warriors and test your mettle against players from around the world. Street Fighter IV: Champion Edition perfects the winning gameplay formula by offering higher resolution graphics, three new characters (Rose, Juri and Elena) wide screen support for newer iOS devices and a host of updates and refinements. Long time Street Fighter fans can jump into the action and have an instant familiarity with the controls. For more casual players Street Fighter IV features numerous settings and tutorials that put you on the path to victory.
-• Fight as 32 Street Fighter characters 
-• Higher resolution graphics and wide screen support
-• Intuitive virtual pad controls allow players to execute full move sets including Unique Attacks, Special Moves, Focus Attacks, Super Combos and Ultra Combos 
-• Take your game to the next level with a MFi controller like the Gamevice (MFi controllers do not work in menus, they fully function in multiplayer and single-player gameplay.)
-• Battle head-to-head against players from around the world via Wifi
-• Single player “arcade” and multiplayer modes.
-• Unleash super moves with a tap of the “SP” button.
-• Four levels of difficulty.
-
-
-Please check [Supported OS and Devices] in the lower part of HP.
-https://www.capcom-games.com/product/en-us/streetfighter4-championedition/?t=openv
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/04/83/6b04836b-e4fe-74b7-7c2d-3364625d98f7/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/3b/36/2c3b36a6-b27f-7889-1915-7b3740df12c4/mzl.xjkrlvzs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/23/a3/4623a392-ff43-61a0-4815-084db7c3a63b/mzl.xglmdoax.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/0f/04/d10f0408-095e-1abb-e161-0f81ddb54954/mzl.hnmfgpne.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/4e/02/c74e0202-b5c3-ca8d-23bf-21367d47406b/mzl.eovkzjwo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/24/e0/ca24e086-83a4-a0ae-90e3-0ddd11396c9d/mzl.fxihgwzz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/df/6d/bddf6d9c-a6fd-2842-3aaf-ed9b14fbf754/mzl.xjoyihym.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/a0/bd/52a0bd9d-05b0-88c6-ac8a-b54fefe54131/mzl.okbdgrto.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/53/21/f153212a-d2d0-c05f-2152-323a8c167a6e/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/8f/96/e98f966f-6b7a-ad9a-fb9c-27e9b926e3a6/mzl.bcxnwxpc.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/36/17/cc361784-d541-8681-f601-df20ca2ac7b1/mzl.ekyoymvf.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/fe/d6/a8fed67d-05dc-5469-0463-c04fdef2c15b/mzl.errenflt.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/4b/36/b04b3672-9bd8-4931-df04-0426e2c665c5/mzl.yfyqsfev.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/22/0d/31220dd9-605d-8f12-5aa0-b04f5d3477df/mzl.cnvhdpqf.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/ec/f8/e3ecf8a6-f2ee-5221-6d0d-cf2a9842356d/mzl.stuslswi.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/0d/62/dc0d6241-f8e6-90fe-95d5-2bcca4e770fa/mzl.mtochplp.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitness Amigo+]]></title>
-        <id>Fitness Amigo+-pt-1791420216639</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en"/>
-        <updated>2026-10-08T00:43:36.639Z</updated>
-        <summary type="html"><![CDATA[Premium: 43,99 € → 9,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6e/b1/236eb1c6-d105-0fd1-aa5e-b70fd54213a0/AppIcon-FB-Pro-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>43,99 €</span> → <b>
-  <strong>9,99 €</strong>
-</b><span>[9,99 € ~ 43,99 €]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>3,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Fitness Buddy Premium：<b>46,99 €</b>
-  </li><li>
-    Premium：<b>9,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  75% desconto !!! 12 HORAS venda! Acaba de atualizar e agora tem 1700 + exercícios e mais de 1000 vídeos em HD!
-
-Descobrir o porquê ginásio frequentadores estão migrando para Fitness Amigo! Com 1700 + exercícios únicos à sua disposição, que vai revolucionar o seu regime de treinamento. Com este aplicativo, você vai encontrar o processo de acompanhamento de exercícios simples e fácil, a fim de sustentar a sua motivação e fazer cumprir o seu compromisso com suas metas de fitness.
-
-- Características principais ---
-
-- 1700 + exercícios únicos!
-- 1000 vídeos em HD
-- Exercícios abrangentes para todos os principais equipamentos, incluindo barra, ez curl bar, halteres, kettlebells, bandas de resistência, e bolas de estabilidade
-- Exercício categorização (core, parte inferior do corpo, peito, ombros, costas, braços, cardio, trechos)
-- 4000+ fotos de exercícios e animações (resolução de tela retina)
-- Instruções do exercício detalhada e categorizações musculares
-- Capacidades para adicionar seus próprios exercícios personalizados e exercícios favoritos
-
-Interface amigável
-- Acompanhamento de exercícios simples e rápida
-- Barra de pesquisa para encontrar rapidamente os seus exercícios favoritos
-
-75+ rotinas de treino
-- Repertório diverso de rotinas de exercícios, incluindo exercícios para mulheres
-- Rotinas específicas para seus objetivos (construir peito grande, bumbum tom, perder peso, e mais!)
-- rotinas específicas para o seu equipamento (bandas de resistência, kettlebells, peso corporal única, etc.)
-- Construa suas próprias rotinas de treino
-
-acompanhamento de métricas de corpo
-- Acompanhe o seu peso corporal e métricas (tórax, braços, coxas, etc)
-- Graph seu progresso corpo
-
-Sharing App Saúde da Apple
-- Integra-se com a Apple App Saúde (Configurações -> Planos de Apple Saúde App Sharing)
-
-Upgrade para premium para acesso ilimitado a programas Premium e exercícios Playpen Freeplay, vídeos HD, áudio dinâmico e motivacional, resumos de treino e-mail com dicas e conselhos sobre uma vida saudável, apoio prioritário com subscrição iTunes renovável.
-
-E muitos outros recursos para que você possa melhorar a sua experiência de treino. Você não vai se decepcionar quando você treinar duro com Fitness Amigo.
-
-We offer auto-renewing subscriptions with the following specifications:
-- Subscriptions are 1 month or 12 months long
-- Subscriptions are $9.99 USD per month or $29.99 USD per year.
-- Payment will be charged to iTunes Account at confirmation of purchase
-- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
-- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
-- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-- No cancellation of the current subscription is allowed during active subscription period
-- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
-- our Privacy Policy and terms of use: https://www.azumio.com/page/privacypolicy
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/96/12/75/961275af-e0e2-cf7f-a9b1-4319723854dc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/e0/3d/42/e03d421f-8061-02c9-8bf3-5ede07dd2a8e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple20/v4/0d/ec/b0/0decb030-ce04-8c00-bcb7-0ea3e6f2c81f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/88/87/61/8887611b-e9a1-8a25-41e4-471eb27e3078/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/5a/3e/fa/5a3efa38-a6ea-1ae2-be22-35442da07b18/pr_source.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slots & Daggers]]></title>
-        <id>Slots &amp; Daggers-pt-1791420216639</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en"/>
-        <updated>2026-10-08T00:43:36.639Z</updated>
-        <summary type="html"><![CDATA[Price: 3,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/7c/85a27cac-3117-0225-bb77-9a5940865e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>3,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 3,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  SLOTS & DAGGERS é um roguelike dentro de um caça-níqueis.
-
-Gire os rolos, encadeie símbolos em combos e transforme cada puxada em dano, ouro e upgrades. Construa sua máquina partida após partida, depois leve para a masmorra e lute para atravessar um mundo esquisito de fantasia cheio de goblins, monstros e carinhas estranhos.
-Cada giro importa. Cada símbolo que você adiciona muda as chances. E cada partida termina com a mesma pergunta: mais uma?
-
-RECURSOS
-- Um caça-níqueis que revida - crie sinergias, quebre os rolos, vença as chances
-- Um mundo esquisito de fantasia desenhado à mão, em toda sua glória tosca
-- Campanha de 4 a 8 horas com desafios crescentes
-- Arena do Ovo - um modo de recorde infinito para os bem determinados
-- Visuais retrô com charme lo-fi feito à mão
-- Trilha sonora crocante de bateria eletrônica de hip hop old school
-- Partidas rápidas, builds profundas - perfeito para uma sessão rápida
-- Sem anúncios, sem compras no aplicativo, sem dinheiro real envolvido - só o jogo
-
-Números! Lutas! Goblins! E muito PLIM.
-
-----
-
-UM RECADO DO DESENVOLVEDOR
-
-Depois do meu último jogo, SUMMERHOUSE, eu queria fazer algo radicalmente diferente. Ainda pequeno, só que mais rápido, com números, lutas e goblins! O resultado é SLOTS & DAGGERS.
-Para fazer este jogo, combinei uma porção de coisas que amo demais - mundos esquisitos de fantasia, desenhos brutos de carinhas estranhos, bateria eletrônica suja de hip hop da velha guarda e jogos de arcade viciantes que fazem "PLIM PLIM PLIM" quando cospem moedinhas - com mecânicas clássicas de roguelike.
-Como em SUMMERHOUSE, tenha em mente que este jogo é um projeto solo, pequeno, focado e feito com cuidado. A intenção é ser curto e legal, e ele não tem o tanto de conteúdo de jogos feitos por equipes maiores ao longo de anos, mas acho que é bem justo!
-Tomara que você se divirta com SLOTS & DAGGERS!
-
-Abraços,
-Friedemann
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ae/8d/4aae8dad-df33-4be5-0f14-37a34d0adfb4/pt_sd_spin_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/31/90/eb319050-52ff-8cb6-85d6-17248ef503fd/pt_sd_criticalhit_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/4c/27/244c27c3-ba1d-82aa-154a-435b45c118ad/pt_sd_shop_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/b5/53/e7b553d0-25b6-1c26-0027-613b6e9222d8/pt_sd_shield_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/3b/7a/0e3b7a74-1299-7d82-a8f1-d29ea42460d4/pt_sd_bandit_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/1e/f1/911ef1bf-7b54-0277-8ad4-99377a483c9b/pt_sd_modify_iPhone.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/d8/6a/3ed86a89-66dc-1379-d20a-40a4617beaab/pt_sd_spin_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/d3/74/28d3744e-ca1e-3193-64ee-7d1d609fa135/pt_sd_criticalhit_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/bd/8e/3bbd8eed-a9f5-88cf-58f3-d1d33d0f6d72/pt_sd_shop_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/60/25/8960255e-11bc-eec5-410a-948c0f22ce30/pt_sd_shield_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/62/69/966269b0-43d8-3a61-7364-ffed958f0005/pt_sd_bandit_iPad-13.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/d3/36/59d336fe-2332-97f4-1970-fa1063cfd2c7/pt_sd_modifyiPad-13.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triple A HD - Touch Visualizer]]></title>
-        <id>Triple A HD - Touch Visualizer-pt-1791420216639</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/857607006?lang=en"/>
-        <updated>2026-10-08T00:43:36.639Z</updated>
-        <summary type="html"><![CDATA[Price: 3,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/857607006?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/56/cc/6756cc92-b358-447f-1260-8afa36451a22/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>3,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 3,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  ::: O que é o Triple A HD? :::
-
-- O Triple A é uma aplicação de visualização inovadora e interactiva que combina o melhor de cinco outras aplicações de arte digital também criadas pela SungLab: Art Wave, Art Particle, Art Gravity, Art Linear e Art Lightning. Proporciona uma experiência única para quem procura meditação concentrada, pensamento criativo, relaxamento ou mesmo um brinquedo digital divertido para crianças e animais de estimação.
-
-- O Triple A foi concebido para indivíduos que desejam uma experiência estética de apreciação de arte dos novos media e é adequado para todas as idades, oferecendo uma pausa relaxante e agradável para todos.
-
-- Com faixas de música incorporadas, a Triple A incentiva o relaxamento e o alívio do stress, o que a torna uma excelente escolha para pessoas que sofrem de esgotamento, distúrbios do sono, TDAH ou que simplesmente procuram actividades calmantes.
-
-- A aplicação inclui 5 modos de arte, cada um com 6 efeitos únicos, resultando num total de 25 efeitos hipnotizantes. 
-
-- Para além dos 25 efeitos principais, o Triple A possui inúmeras outras características cativantes que evocam imagens de vórtices, flores e folhas, borboletas, arco-íris e muito mais.
-
-- Experimente a espantosa explosão de 100.000 partículas directamente no seu dispositivo móvel!
-
-Triple A combina o poder dos visualizadores interactivos com os benefícios da meditação concentrada e do pensamento criativo para proporcionar uma experiência envolvente, relaxante e agradável para utilizadores de todas as idades.
-
-::: Características :::
-
-- Utiliza a funcionalidade multi-toque com 5 dedos e 2 mãos
-- Oferece 10 selecções de música de Aden (com a opção de ligar/desligar a música)
-- Inclui 5 modos de arte distintos (Art Particle, Art Wave, Art Gravity, Art Linear, Art Lightning)
-- Atinge a velocidade mais rápida (60 FPS), emitindo 100.000 partículas
-- Permite a personalização do comprimento, quantidade e tamanho das partículas
-
-::: Diferenças na versão HD ::::
-
-- Experiência sem anúncios
-- Desempenho melhorado com 3 vezes mais quantidade de partículas através de cálculos optimizados
-
-
-::: Suporte :::
-
-Se tiver quaisquer problemas, questões, preocupações ou ideias relacionadas com esta aplicação, não hesite em contactar-me. Eu realmente gostaria de ouvir o que você pensa. 
-sunglab@gmail.com
-www.facebook.com/sunglabcom
-www.twitter.com/sunglabcom
-www.sunglab.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/3e/b2/a83eb2ef-d22e-b452-29bb-e6d79544bbcc/mzl.gsdomtva.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/ce/e2/4bcee2ea-dadc-820f-c947-5c21f68ba6c3/mzl.igqtslqp.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/88/df/f988df91-f51a-06d0-a79f-43664db5340e/mzl.qzmuavos.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/1c/1f/7e1c1fc6-ce46-8beb-5e29-dfacfeaff30d/mzl.ebrbouyi.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/4f/0e/9e4f0e8b-a824-213c-3bed-58830498c830/mzl.ymzujgij.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/13/dc/4513dcd4-1fda-82f5-24b5-281f6d5f2ea7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/57/f1/d257f1b7-2c79-efcb-6a6e-6c5a5b30feae/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9e/63/509e635c-c64f-b199-2332-82c91a1a1fe1/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/3c/12/0d3c12c2-bbbc-4887-d20b-fe8cb0334423/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/7a/b7/eb7ab728-61ea-e9a0-c0ad-1650aae49e46/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloverPit]]></title>
-        <id>CloverPit-pt-1791420216639</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en"/>
-        <updated>2026-10-08T00:43:36.639Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/83/4f/3d834fff-7e41-dbe7-06ff-e91fd0422963/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Unholy Fusion：<b>1,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Um roguelite de caça-níqueis que mais parece um pesadelo. Prepare-se para apostar tudo neste simulador de dívidas infinito!
-
-CloverPit que prende os jogadores num inferno que eles mesmos criaram. Trancado numa cela caindo aos pedaços com uma máquina caça-níqueis e um caixa eletrônico, você precisa pagar sua dívida no fim de cada rodada ou, literalmente, desmoronar.
-
-Manipule a máquina caça-níqueis para ganhar moedas extras e faça o possível para se dar bem com vários prêmios e amuletos que desencadeiam combos gigantescos e ainda se acumulam, resultando numa partida de sucesso. Quebre as regras, leve vantagem e pague seu sequestrador pelo máximo de tempo que conseguir para tentar se livrar do cativeiro.
-
-Características do jogo:
- - Um roguelite cativante em que cada rodada pode ser a última!
- - Rejogabilidade, diversos finais e potencializadores desbloqueáveis!
- - Eleve sua pontuação ao infinito e além no Modo Infinito!
- - Atmosfera sufocante semelhante a de um escape room!
- - Mais de 150 itens e sinergias para aumentar sua sorte!
- - Uma história assustadora sobre vício e fuga!
-
-Observação sobre dados salvos: o jogo armazena o progresso localmente no seu dispositivo. Note que desinstalar o aplicativo (ou limpar os dados de aplicativo) vai excluir seu jogo salvo. Salvamentos em nuvem e sincronização entre dispositivos estão em desenvolvimento para uma atualização futura.
-
-DÚVIDA: É UM JOGO DE APOSTAS?
-Não mesmo! CloverPit é roguelite de terror, e não um simulador de caça-níqueis. Nossa máquina caça-níqueis é feita para ser quebrada e derrotada e nunca vai pedir dinheiro de verdade!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/96/9e/8c969e31-11df-4d59-d0af-6986e787d493/PR-BR_Iphone_Gallery_Store_Screenshots_2778x1284_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/07/ae/a907aeaa-4ef4-2ca9-0930-5e086ff83a31/PR-BR_Iphone_Gallery_Store_Screenshots_2778x1284_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/35/8f/fd358f6c-b630-3f1e-00d0-d416881557ad/PR-BR_Iphone_Gallery_Store_Screenshots_2778x1284_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/07/6c/f9076c2e-1186-5e51-85f0-6a50113e4b87/PR-BR_Iphone_Gallery_Store_Screenshots_2778x1284_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/78/03/49780391-82da-2f55-b0e6-a7ec69867860/PR-BR_Iphone_Gallery_Store_Screenshots_2778x1284_03.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/35/fb/fa35fbf6-f230-42f7-7c94-01e2e2971343/PR-BR_Ipad_Gallery_Store_Screenshots_2752x2064_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/17/da/2617da52-adba-91f2-c091-ce8f90f1cd6d/PR-BR_Ipad_Gallery_Store_Screenshots_2752x2064_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/fd/6d/23fd6d4c-8889-10ca-3b12-3106de856ea6/PR-BR_Ipad_Gallery_Store_Screenshots_2752x2064_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/66/12/aa6612c9-8bb4-1cf3-8777-8c1578612049/PR-BR_Ipad_Gallery_Store_Screenshots_2752x2064_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/f9/cc/c4f9ccc9-c209-2619-2ef4-f64ec2f04af7/PR-BR_Ipad_Gallery_Store_Screenshots_2752x2064_03.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Titan Quest: Legendary Edition]]></title>
-        <id>Titan Quest: Legendary Edition-pt-1791420216639</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1537060891?lang=en"/>
-        <updated>2026-10-08T00:43:36.639Z</updated>
-        <summary type="html"><![CDATA[Price: 19,99 € → 7,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1537060891?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/98/08/059808ab-9d5d-493f-f7e8-569ed89b159d/AppIcon_FullEdition-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>19,99 €</span> → <b>
-  <strong>7,99 €</strong>
-</b><span>[7,99 € ~ 19,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>7,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Ragnarök for free download：<b>0,00 €</b>
-  </li><li>
-    Atlantis for free download：<b>0,00 €</b>
-  </li><li>
-    Eternal Embers DLC：<b>4,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  O Titan Quest cativou legiões de jogadores desde a sua estreia em 2006. Tu recebes a experiência abrangente de uma jornada desenfreada e verdadeiramente heróica pelos mundos de Titan Quest!
-
-A tua honrosa missão é salvar o mundo!
-
-Sozinhos, os deuses sozinhos não conseguem derrotar os Titãs. Por isso, são necessários heróis reais - e só podes ser tu! O teu sucesso ou fracasso decidirá o destino do povo e dos Olympians! Percorre os mundos místicos e antigos da Grécia, Egito, Babilónia e China com o teu herói personalizado. Conquista as hordas de criaturas lendárias e domina várias armas e artes marciais: tiro com arco, luta de espadas ou o uso de magia poderosa!
-
-Viaja por um mundo de antiguidade e mitologia nórdica!
-
-Luta contra as feras da mitologia enquanto viajas para o Partenon, as Grandes Pirâmides, os Jardins Suspensos da Babilónia, a Grande Muralha, a Arena do Tártaro e outros lugares famosos. Encontra os maiores vilões da mitologia grega, descobre as terras desconhecidas do norte da Europa, procura o reino mítico da Atlântida e faz uma jornada pelo Mediterrâneo Ocidental.
-
-É tudo ou nada no teu caminho glorioso!
-
-A cada desafio que te espera, terás que derrotar inimigos maiores e mais fortes até atingires o teu objetivo e forçar os Titãs a ajoelharem! Corre para a batalha ao lado de bravos companheiros de estimação! Encontra itens extraordinários com poderes especiais que irão melhorar as tuas capacidades e ajudar-te no teu caminho. Espadas lendárias, feitiços de relâmpagos poderosos, magia, arcos e vários outros tesouros com poderes inimagináveis esperam por ti - todos eles estão à tua disposição nas tuas batalhas e espalham medo e terror entre as criaturas horríveis!
-
-De que estás à espera?
-
-Como nenhum outro jogo no género RPG de ação, o Titan Quest: Edição Lendária combina o fascinante mundo da mitologia com a ação interminável e emocionante que esperas de um jogo tão atraente!
-
-Características principais:
-
-- No DLC do Trono Imortal, encontrarás os maiores vilões da mitologia grega, enfrentarás os ataques de Cerberus e arriscarás as margens do Rio Styx. Deves interpretar as profecias do vidente cego Tirésias, lutar ao lado de Agamenon e Aquiles e usar os ardis de Odisseu para conquistar esta nova aventura sombria.
-
-- Nas terras desconhecidas do norte da Europa no Ragnarök DLC, enfrentarás os reinos dos celtas, dos homens do norte e dos deuses Asgardianos!
-
-- Conhece um explorador no DLC Atlantis, em busca do reino mítico da Atlântida. Uma chave está supostamente escondida no diário de Hércules, que dizem estar localizado na cidade fenícia de Gadir. Começa uma jornada pelo Mediterrâneo Ocidental, incluindo a Arena do Tártaro para batalhas épicas!
-
-+ Todas as atualizações importantes foram implementadas no Titan Quest revisto tecnicamente para garantir a melhor experiência de jogo deste clássico de todos os tempos!
-
-+ ETERNAL EMBERS DLCs disponíveis como compra in-app - Invocado pelo lendário Imperador Yao, o Herói é chamado de volta ao Leste para lidar com uma ameaça demoníaca que está devastando a terra depois que o Telkine foi morto.
-
-+ Uma nota para todos os jogadores que possuem a versão básica do Titan Quest: Os DLCs mencionados aqui também serão lançados para compra como conteúdo adicional para que todos os fãs possam atualizar os seus jogos para desfrutarem todas as expansões!
-
-© www.handy-games.com GmbH
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/a6/3d/f4a63d74-cd10-1b21-7383-3d26cbbaab18/tns.jqtlismj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/6a/bf/3e6abfa6-2dce-3c1e-4438-3fd6ded2a0cf/tns.qrehcxdn.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/f4/77/2ff47728-e131-1335-3ad0-d134828cde39/tns.epqjwkbe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a9/e2/46/a9e2467f-8503-6894-f5e1-43a224503f82/2294f474-2946-4d97-b598-4133bcda87f8_titan_quest_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/a3/8f/dea38fc3-9834-273a-896e-a1efb8c48207/tns.vmjtwrfp.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/25/5d/63255d29-939d-2f3e-d6ad-219d8992db5a/tns.xbkhamfm.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/c4/40/1cc440fd-0ff3-e1e8-cded-5636ec501e8b/tns.mwtufhqs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/b1/d4/b8b1d415-8efc-0b9a-18fc-5bacf38a8baf/tns.fdlxhrvk.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/f5/1e/e1f51e0d-56b0-5836-5ae1-266529df34f9/tns.qroiijmf.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/c5/db/59c5dbf1-9792-7df1-1761-bdecb3e87f97/tns.keeipsgi.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f4/f0/f2/f4f0f26e-3dc9-40dc-457e-8602817689b1/85361d23-df0b-4e70-89b7-7f08e5b3ca62_TQHD_Screenshot_05.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2d/95/4e/2d954eb0-d464-f5e7-b388-936d22a20a18/85931cf9-63d2-4dff-a5d4-bef981d99da5_TQHD_Screenshot_02.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1f/cf/a8/1fcfa8bf-7f86-d13e-6b5c-d2d2082a56f5/a35d2498-6b1f-4d80-80e1-f1cc42a5a7e3_TQHD_Screenshot_01.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/6f/25/b56f2502-391e-1832-4cfd-b3ab8940c441/cd81d136-5f26-47fc-8ec9-0b4df020a800_TQHD_Screenshot_06.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/d5/88/31d588e9-f035-8bcb-f661-1939055cd582/306ddbf5-fdab-4917-a9bd-cf1b8ea09601_TQHD_Screenshot_04.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/8a/02/8a8a023e-23b8-371b-6e95-e8b813067aa3/293d81b6-7e82-42c5-be99-305c1355b27a_TQHD_Screenshot_03.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/66/19/5d/66195dd2-5368-3371-057c-a5d56743fd5f/522fa786-c2b5-47c0-8511-e8276172281f_TQHD_Screenshot_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/47/05/04/470504fb-ffed-7342-1897-d55a0e1dc794/850457c1-d749-4237-bcb9-03e89f7d30ef_TQHD_Screenshot_07.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9d/ac/b9/9dacb966-6946-b5af-e89a-e0aba1037342/a11e4e3e-09b7-40a4-81ca-d636859ec606_TQHD_Screenshot_08.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/c9/b8/6dc9b87f-1595-8b6b-3fae-93d33c503f5e/c0112da5-1d84-4972-b08d-29ff8afb18b5_TQHD_Screenshot_09.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the Police]]></title>
-        <id>This is the Police-pt-1791420216639</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1435461053?lang=en"/>
-        <updated>2026-10-08T00:43:36.639Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1435461053?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8f/f1/a48ff181-b0ac-2c9a-9b80-e686482a6636/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[0,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  "Mergulhe numa história intensa de corrupção, crimes e intrigas. Encarne o rígido Chefe de Polícia Jack Boyd e fique cara a cara com a escória de Freeburg, uma cidade em queda livre. Será que Jack vai chegar à aposentadoria com uma bolada, esperando para ser gasta, ou vai acabar durango… ou pior ainda?
-
-Seja tragado por este polêmico conto de corrupção, crime e intriga policial. Gerencie sua equipe, atende às emergências e investigue os crimes numa cidade à beira do caos. O submundo da máfia trama por trás dos panos, fincando suas garras cada vez mais fundo na cidade, mesmo o prefeito estando pronto para explorar cada situação para levar vantagem política.
-
-Escolha sua abordagem a cada situação à medida que ela se desenrola. Você às vezes vai reagir a uma crise se desdobrando numa cena de crime, ou negociar com os chefões do crime de Freeburg. Outras vezes, você vai se deparar se esquivando de perguntas feitas numa coletiva de imprensa, ou até mesmo num eventual interrogatório no rol de testemunhas. Será que você consegue evitar que este vulcão entre em erupção, pelo menos até conseguir um bom pé de meia para a aposentadoria? Ou será que você vai acabar atrás das grades — ou pior?"
-
-- Sua missão é simples: Conseguir $ 500.000 em 180 dias, antes de Jack Boyd se aposentar. Como? Aí é com você!
-
-- Decisões, decisões e mais decisões: em miúdos, “This Is the Police” é uma história sombria e como você reage a ela. Qualquer que seja a sua decisão, ela influenciará o jogo — e, portanto, o destino de Jack Boyd.
-
-- O bem, o mal… a escória? O Chefe do Departamento de Polícia de Freeburg lida com todos os tipos de pessoas. Vai de você separar os bons dos maus.
-
-- Cumpra com suas obrigações: Como chefe do DP de Freeburg, Jack deve cuidar das atividades cotidianas: atender às emergências, gerenciar seus policiais, brigar pelo orçamento…
-
-- Comece resolvendo as Investigações e consiga evidências contra as gangues criminosas de Freeburg.
-
-- Negocie com os diferentes poderes da cidade: o prefeito, a máfia, a igreja, o sindicato dos trabalhadores. Todos oferecem favores, mas tudo tem seu preço.
-
-- Dublagem feita totalmente pelo glorioso Jon St. John (vulgo: a voz do Duke Nukem).
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/a3/57/bba35765-9216-3b27-c1d8-d9178a046ee8/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/65/f9/3a65f9db-06d2-10f0-9fe3-b4392f5ab012/mzl.owhrtvfj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/67/f7/1f67f77d-eee1-4c04-bd23-6da61df6f7ca/mzl.malnrgyb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/88/99/a288999f-7512-345a-bbaa-acf8337b6f4c/mzl.fdsdnvif.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/c8/88/42c88883-e500-9439-65e0-8d1c39cafd43/mzl.qmbbguta.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/8b/78c58b85-c852-8c68-e77f-f37efd2cf51e/mzl.lhgcezcl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/5c/76/ff5c766e-1d26-33e1-2342-1bf1e85dd23d/mzl.ttuhjyzo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/46/f6/5c/46f65c47-81df-13c6-c639-dc3538837c4c/mzl.hiyhsscb.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/07/51/fc/0751fcf8-31c6-69bf-7aaa-86aa97e0e92a/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/11/3d/22113d2d-8ba6-671b-1f2e-3c27445644f0/mzl.pqavucuh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/65/0b/a8650bd8-0ea4-d541-5225-6a7c28dfb972/mzl.ayavwplr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/39/ca/3d/39ca3dd7-5226-7cb2-4d70-a926b5f2fbb0/mzl.imaxoons.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/88/29/c9/8829c9a1-3092-1b70-95a9-f202667db7be/mzl.xpwkesve.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/c0/c6/abc0c697-bed3-a89d-cfaf-2a5240e28ac0/mzl.hfehkdnh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3b/5a/4d/3b5a4d76-0bc5-2e3a-7717-371e3deb4c6d/mzl.vbogzhqd.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/92/dd/2e92dd9d-f021-0a29-6f55-2f28e82233df/mzl.fdywcbvd.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

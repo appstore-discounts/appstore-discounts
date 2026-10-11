@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1662217862,
+    "region": "pt",
+    "timestamp": 1791720642119,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Filtr",
+        "from": "29,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1662217862",
+    "trackName": "Wipr 2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 459189186,
     "region": "pt",
     "timestamp": 1791652541695,

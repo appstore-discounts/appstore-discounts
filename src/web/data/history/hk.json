@@ -296498,6 +296498,19 @@
     "history": [
       [
         {
+          "timestamp": 1791720642119,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lite": "HK$ 38.00",
+            "Pro": "HK$ 148.00",
+            "Pro Max": "HK$ 788.00",
+            "Pro Ultra": "HK$ 1,488.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -306193,6 +306206,29 @@
       [
         {
           "timestamp": 1791568819448,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814210373": {
+    "trackId": 6814210373,
+    "trackName": "Auday - All-Day Watch Recorder",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791720642119,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}

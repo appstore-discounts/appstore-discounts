@@ -206675,6 +206675,19 @@
     "history": [
       [
         {
+          "timestamp": 1791720642119,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "USD 19.99",
+            "Lite": "USD 4.99",
+            "Pro Max": "USD 99.99",
+            "Pro Ultra": "USD 199.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -215584,6 +215597,29 @@
           "timestamp": 1791568819448,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814210373": {
+    "trackId": 6814210373,
+    "trackName": "Auday - All-Day Watch Recorder",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791720642119,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
         }
       ]
