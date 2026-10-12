@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6748287593,
+    "region": "us",
+    "timestamp": 1791764075164,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6748287593",
+    "trackName": "Bother Bin: Stop Overthinking",
+    "firstRecordedAt": 1752982819338
+  },
+  {
     "trackId": 443646748,
     "region": "us",
     "timestamp": 1791692106771,
@@ -38560,7 +38580,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $2.99]"
+        "range": "[Free ~ $2.99]"
       }
     ],
     "price": 0.99,

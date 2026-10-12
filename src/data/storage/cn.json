@@ -204848,11 +204848,21 @@
       "问题盒子 Pro": "¥28.00"
     },
     "minPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "问题盒子 Pro": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791764075164,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "问题盒子 Pro": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -233536,7 +233546,7 @@
     ]
   },
   "6801866888": {
-    "name": "啥时候做的",
+    "name": "上次是什么时候 - 家务·保养记录",
     "maxPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"

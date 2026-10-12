@@ -45,7 +45,7 @@ So far, we've covered `7` `Countries or Regions` and  `2331` `Apps` <br />Push n
 |2296|1245988397|Automatic|❌|PUZZLE BOBBLE JOURNEY|PUZZLE BOBBLE JOURNEY|PUZZLE BOBBLE JOURNEY|❌|PUZZLE BOBBLE JOURNEY|PUZZLE BOBBLE JOURNEY|
 |2295|6812603412|Automatic|牛来了！|牛來！|牛來！|牛來！|The Long Graze|The Long Graze|The Long Graze|
 |2294|6753594612|Automatic|❌|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|PTE Practice | Test | Ace|
-|2293|6801866888|Automatic|啥时候做的|上次是什麼時候|上次是什麼時候|上次是什麼時候|When'd I|When'd I|Quando foi? - O último dia|
+|2293|6801866888|Automatic|上次是什么时候 - 家务·保养记录|上次是什麼時候 - 家事·保養紀錄|上次是什麼時候 - 家事·保養紀錄|上次是什麼時候 - 家事·保養紀錄|When'd I|When'd I|Quando foi? - O último dia|
 |2292|6787350789|Automatic|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|DRAGON BaZi Chart|DRAGON BaZi 龍躍八字排盤|龍躍八字 - 八字排盤命理工具|
 |2291|6759664029|Automatic|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|Automatic|新世界：暗影成双|❌|❌|❌|❌|❌|❌|

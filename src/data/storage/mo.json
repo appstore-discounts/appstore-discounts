@@ -26187,6 +26187,23 @@
     "history": [
       [
         {
+          "timestamp": 1791764075164,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Holidays Macao": "USD 0.99",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "USD 0.99",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "USD 0.99",
+            "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "USD 0.99",
+            "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "USD 0.99",
+            "Calendars - CBA Basketball Men China 2015-2016 edition": "USD 0.99",
+            "Calendars - LFB Basketball Women France 2015-2016 edition": "USD 0.99",
+            "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1791746494646,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -31962,6 +31979,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791764075164,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Airbus A380 EDF": "USD 2.99",
+            "Bell 47": "USD 2.99",
+            "Boeing 747 Jumbo Jet": "USD 2.99",
+            "RC Transformer": "USD 2.99",
+            "Race Car": "USD 2.99",
+            "Lego Car": "USD 2.99",
+            "XB-70 Valkirie": "USD 2.99",
+            "BVM King Cat": "USD 2.99",
+            "B17 Flying Fortress": "USD 2.99",
+            "A6M Zero": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1791746494646,
           "price": 2.99,
@@ -139575,6 +139609,25 @@
     "history": [
       [
         {
+          "timestamp": 1791764075164,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "600贝壳购买": "USD 0.99",
+            "3000贝壳购买": "USD 3.99",
+            "1200贝壳购买": "USD 1.99",
+            "6800贝壳购买": "USD 9.99",
+            "购买6个海星": "USD 0.99",
+            "购买30个海星": "USD 3.99",
+            "购买68个海星": "USD 9.99",
+            "购买128个海星": "USD 19.99",
+            "购买12个海星": "USD 1.99",
+            "心岛日记心礼会员VIP（1个月）": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789408041891,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -191178,11 +191231,21 @@
       "Bother Bin Pro": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Bother Bin Pro": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791764075164,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Bother Bin Pro": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -210857,7 +210920,7 @@
     ]
   },
   "6801866888": {
-    "name": "上次是什麼時候",
+    "name": "上次是什麼時候 - 家事·保養紀錄",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"

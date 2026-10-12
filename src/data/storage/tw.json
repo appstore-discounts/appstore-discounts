@@ -213318,7 +213318,11 @@
       "Unit Group Jaegers On Sale": "$150.00",
       "HeroBounty Hunter": "$150.00",
       "Unit Group Planterras": "$90.00",
-      "Special Daily Pack13": "$90.00"
+      "Special Daily Pack13": "$90.00",
+      "Hero Bounty Hunter On Sale": "$90.00",
+      "Hero Gauntlet On Sale": "$90.00",
+      "Hero Gauntlet": "$150.00",
+      "Hero Bomett": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -213351,9 +213355,32 @@
       "Unit Group Jaegers On Sale": "$150.00",
       "HeroBounty Hunter": "$150.00",
       "Unit Group Planterras": "$90.00",
-      "Special Daily Pack13": "$90.00"
+      "Special Daily Pack13": "$90.00",
+      "Hero Bounty Hunter On Sale": "$90.00",
+      "Hero Gauntlet On Sale": "$90.00",
+      "Hero Gauntlet": "$150.00",
+      "Hero Bomett": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791764075164,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Hero Red Dragon": "$190.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "HeroBounty Hunter": "$150.00",
+            "Hero Bounty Hunter On Sale": "$90.00",
+            "Hero Gauntlet On Sale": "$90.00",
+            "Hero Gauntlet": "$150.00",
+            "Hero Bomett": "$90.00",
+            "Hero Bomett On Sale": "$30.00",
+            "Hero Dragon Kosmos On Sale": "$150.00",
+            "Hero Dragon Kosmos": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -290394,11 +290421,21 @@
       "Bother Bin Pro": "$120.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "$15.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Bother Bin Pro": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791764075164,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Bother Bin Pro": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -313288,7 +313325,7 @@
     ]
   },
   "6801866888": {
-    "name": "上次是什麼時候",
+    "name": "上次是什麼時候 - 家事·保養紀錄",
     "maxPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"

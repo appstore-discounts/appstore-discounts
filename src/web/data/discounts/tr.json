@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6748287593,
+    "region": "tr",
+    "timestamp": 1791764075164,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺129,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6748287593",
+    "trackName": "Bother Bin: Stop Overthinking",
+    "firstRecordedAt": 1752982819338
+  },
+  {
     "trackId": 459189186,
     "region": "tr",
     "timestamp": 1791652541695,
@@ -39931,7 +39951,7 @@
         "name": "Price",
         "from": "₺129,99",
         "to": "₺39,99",
-        "range": "[₺39,99 ~ ₺129,99]"
+        "range": "[Free ~ ₺129,99]"
       }
     ],
     "price": 39.99,

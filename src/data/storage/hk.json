@@ -136763,6 +136763,25 @@
     "history": [
       [
         {
+          "timestamp": 1791764075164,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "怪獸繼承": "HK$ 38.00",
+            "原版魔王加速卡牌包": "HK$ 68.00",
+            "魔王 艾瑪": "HK$ 22.00",
+            "魔王 弗洛裡亞": "HK$ 22.00",
+            "魔王 穆裡爾": "HK$ 22.00",
+            "魔王 麗貝卡": "HK$ 22.00",
+            "魔王 塔尼亞": "HK$ 22.00",
+            "原版地宮卡牌包": "HK$ 148.00",
+            "原版怪獸卡牌包": "HK$ 68.00",
+            "原版魔王權能卡牌包": "HK$ 148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789661990052,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -145628,6 +145647,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791764075164,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 38.00",
+            "Reason Font Pack": "HK$ 0.00",
+            "Just Font Pack": "HK$ 0.00",
+            "All Filter Packs": "HK$ 18.00",
+            "Always Font Pack": "HK$ 0.00",
+            "Unique Font Pack": "HK$ 8.00",
+            "Rainbow Film Pack": "HK$ 8.00",
+            "All Poster Packs": "HK$ 22.00",
+            "Pic Say Poster Pack": "HK$ 8.00",
+            "Insta Poster Pack": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1791746494646,
           "price": 8,
@@ -279108,11 +279144,21 @@
       "Bother Bin Pro": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 3,
-      "formattedPrice": "HK$ 3.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Bother Bin Pro": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791764075164,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Bother Bin Pro": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -301438,7 +301484,7 @@
     ]
   },
   "6801866888": {
-    "name": "上次是什麼時候",
+    "name": "上次是什麼時候 - 家事·保養紀錄",
     "maxPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"

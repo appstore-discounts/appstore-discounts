@@ -73589,6 +73589,25 @@
     "history": [
       [
         {
+          "timestamp": 1791764075164,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "5000 Coins": "$1.99",
+            "14000 Coins": "$4.99",
+            "30000 Coins": "$9.99",
+            "82000 Coins": "$24.99",
+            "180000 Coins": "$49.99",
+            "450000 Coins": "$99.99",
+            "220 Diamonds": "$1.99",
+            "580 Diamonds": "$4.99",
+            "1210 Diamonds": "$9.99",
+            "3200 Diamonds": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790567609577,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -102998,6 +103017,25 @@
       "Challenge Pass \"Virtual Campus\"": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791764075164,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Side Story Chapter 1": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter C": "$3.99",
+            "Expansion Chapter D": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Expansion Chapter F": "$3.99",
+            "Expansion Chapter G": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Expansion Chapter I": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790857883196,
@@ -331816,11 +331854,21 @@
       "Bother Bin Pro": "$3.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Bother Bin Pro": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791764075164,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Bother Bin Pro": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -342825,6 +342873,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791764075164,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "Pad Mix Pro": "$1.99",
+            "Pad Pulse Pro": "$1.99",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "StageLab": "$5.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99",
+            "Worship EFX": "$0.99"
+          }
+        },
         {
           "timestamp": 1791746494646,
           "price": 2.99,
