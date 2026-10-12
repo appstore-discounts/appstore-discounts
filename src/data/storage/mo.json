@@ -88396,6 +88396,25 @@
     "history": [
       [
         {
+          "timestamp": 1791800239201,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "100鑽石": "USD 0.99",
+            "一筆鑽石": "USD 4.99",
+            "一小袋鑽石": "USD 9.99",
+            "一箱鑽石": "USD 49.99",
+            "一大车钻石": "USD 99.99",
+            "一大袋鑽石": "USD 19.99",
+            "雙倍獎勵": "USD 1.99",
+            "1代套裝(3星)": "USD 1.99",
+            "僱傭超能少年": "USD 1.99",
+            "雙倍背包": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -139608,6 +139627,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791800239201,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "600贝壳购买": "USD 0.99",
+            "心岛日记心礼会员VIP（3个月）": "USD 6.99",
+            "心岛日记心礼会员VIP（12个月）": "USD 29.99",
+            "心岛日记心礼会员VIP（1个月）": "USD 2.99",
+            "购买12个海星": "USD 1.99",
+            "购买128个海星": "USD 19.99",
+            "购买68个海星": "USD 9.99",
+            "购买30个海星": "USD 3.99",
+            "购买6个海星": "USD 0.99",
+            "6800贝壳购买": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1791764075164,
           "price": 0.99,
@@ -202928,6 +202964,19 @@
     "history": [
       [
         {
+          "timestamp": 1791800239201,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Pro": "USD 19.99",
+            "Lite": "USD 4.99",
+            "Pro Max": "USD 99.99",
+            "Pro Ultra": "USD 199.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791720642119,
           "price": 0,
           "formattedPrice": "免費",
@@ -211430,6 +211479,27 @@
           "timestamp": 1791746494646,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749456796": {
+    "name": "Vampire Crawlers",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791800239201,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
         }
       ]

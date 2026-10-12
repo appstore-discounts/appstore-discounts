@@ -10972,6 +10972,25 @@
     "history": [
       [
         {
+          "timestamp": 1791800239201,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Brazil Bass": "1,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Synth Lead": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Chill-Lo-Fi Mobile": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791633510449,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -145568,6 +145587,27 @@
       [
         {
           "timestamp": 1791746494646,
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749456796": {
+    "name": "Vampire Crawlers",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791800239201,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]
