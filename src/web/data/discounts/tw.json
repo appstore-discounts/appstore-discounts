@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6748572801,
+    "region": "tw",
+    "timestamp": 1791838643666,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $190.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6748572801",
+    "trackName": "首爾驅魔人1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6742044212,
+    "region": "tw",
+    "timestamp": 1791838643666,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "月订阅",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6742044212",
+    "trackName": "簡記 - AI記帳&自動記帳",
+    "firstRecordedAt": 1761660771755
+  },
+  {
     "trackId": 6748287593,
     "region": "tw",
     "timestamp": 1791764075164,

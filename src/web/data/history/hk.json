@@ -33096,14 +33096,22 @@
     "trackName": "iZip專業版 - Zip RAR 壓縮、解壓縮工具",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791838643666,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761380057726,
@@ -287261,6 +287269,19 @@
     "history": [
       [
         {
+          "timestamp": 1791838643666,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "200,000 x Coins": "HK$ 88.00",
+            "80,000 x Coins": "HK$ 38.00",
+            "40,000 x Coins": "HK$ 22.00",
+            "10,000 x Coins": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789225426600,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -288374,11 +288395,11 @@
     "maxPriceInfo": {
       "price": 15,
       "formattedPrice": "HK$ 15.00",
-      "年订阅": "HK$ 58.00",
+      "年订阅": "HK$ 98.00",
       "月订阅": "HK$ 38.00",
       "终身会员": "HK$ 99.00",
-      "Liftetime": "HK$ 99.00",
-      "Lifetime": "HK$ 68.00"
+      "Liftetime": "HK$ 148.00",
+      "Lifetime": "HK$ 128.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -288390,6 +288411,19 @@
       "Lifetime": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791838643666,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Liftetime": "HK$ 148.00",
+            "年订阅": "HK$ 98.00",
+            "Lifetime": "HK$ 128.00",
+            "月订阅": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -289951,6 +289985,19 @@
       "Raider Weekly": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791838643666,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 1": "HK$ 28.00",
+            "Raider Mk. 2": "HK$ 32.00",
+            "Raider Mk. 3": "HK$ 58.00",
+            "Raider Weekly": "HK$ 12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791800239201,
@@ -305211,7 +305258,8 @@
       "塔 奧術鍛造匠": "HK$ 38.00",
       "英雄 伊莉安娜": "HK$ 38.00",
       "塔 鍊金術師小屋": "HK$ 22.00",
-      "英雄 禮包 3": "HK$ 88.00"
+      "英雄 禮包 3": "HK$ 88.00",
+      "全英雄禮包_B": "HK$ 188.00"
     },
     "minPriceInfo": {
       "price": 58,
@@ -305239,9 +305287,29 @@
       "塔 奧術鍛造匠": "HK$ 38.00",
       "英雄 伊莉安娜": "HK$ 38.00",
       "塔 鍊金術師小屋": "HK$ 22.00",
-      "英雄 禮包 3": "HK$ 88.00"
+      "英雄 禮包 3": "HK$ 88.00",
+      "全英雄禮包_B": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791838643666,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全英雄禮包": "HK$ 228.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "全英雄禮包_B": "HK$ 188.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "英雄 禮包 3": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791800239201,
@@ -306520,6 +306588,29 @@
       [
         {
           "timestamp": 1791800239201,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817843628": {
+    "trackId": 6817843628,
+    "trackName": "五行仙途‧香江修仙錄",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791838643666,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
