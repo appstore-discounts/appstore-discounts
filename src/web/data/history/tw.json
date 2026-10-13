@@ -29768,6 +29768,23 @@
     "history": [
       [
         {
+          "timestamp": 1791886095337,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        },
+        {
           "timestamp": 1791838643666,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -60650,14 +60667,32 @@
     "maxPriceInfo": {
       "price": 190,
       "formattedPrice": "$190.00",
-      "432 Player Full Features": "$290.00"
+      "432 Player Full Features": "$290.00",
+      "Lifetime Membership": "$2,490.00",
+      "Yearly Membership": "$990.00",
+      "Monthly Membership": "$150.00"
     },
     "minPriceInfo": {
       "price": 190,
       "formattedPrice": "$190.00",
-      "432 Player Full Features": "$290.00"
+      "432 Player Full Features": "$290.00",
+      "Lifetime Membership": "$2,490.00",
+      "Yearly Membership": "$990.00",
+      "Monthly Membership": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "Lifetime Membership": "$2,490.00",
+            "Yearly Membership": "$990.00",
+            "Monthly Membership": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789207811514,
@@ -102224,7 +102259,10 @@
       "跳過旋轉盤小遊戲": "$30.00",
       "跳過拼圖小遊戲": "$30.00",
       "跳過開門迷宮小遊戲": "$30.00",
-      "跳過填色小遊戲": "$30.00"
+      "跳過填色小遊戲": "$30.00",
+      "跳過24點小遊戲": "$30.00",
+      "跳過發動機旋轉小遊戲": "$30.00",
+      "跳過填數字小遊戲": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -102238,9 +102276,31 @@
       "跳過旋轉盤小遊戲": "$30.00",
       "跳過拼圖小遊戲": "$30.00",
       "跳過開門迷宮小遊戲": "$30.00",
-      "跳過填色小遊戲": "$30.00"
+      "跳過填色小遊戲": "$30.00",
+      "跳過24點小遊戲": "$30.00",
+      "跳過發動機旋轉小遊戲": "$30.00",
+      "跳過填數字小遊戲": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "跳過24點小遊戲": "$30.00",
+            "跳過發動機旋轉小遊戲": "$30.00",
+            "跳過填數字小遊戲": "$30.00",
+            "跳過填色小遊戲": "$30.00",
+            "跳過開門迷宮小遊戲": "$30.00",
+            "跳過拼圖小遊戲": "$30.00",
+            "跳過旋轉盤小遊戲": "$30.00",
+            "跳過顯微鏡小遊戲": "$30.00",
+            "跳過種花小遊戲": "$30.00",
+            "跳過踩圓點小遊戲": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758539436975,
@@ -270578,6 +270638,23 @@
     "history": [
       [
         {
+          "timestamp": 1791886095337,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "UH-60": "$30.00",
+            "Airbus A350-1000": "$120.00",
+            "Airbus A380": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A321": "$60.00",
+            "Boeing 747-400": "$60.00"
+          }
+        },
+        {
           "timestamp": 1791858533377,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -306548,6 +306625,25 @@
       "StageLab": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "PadLab Full App": "$290.00",
+            "PadLab Worship Complete": "$220.00",
+            "Worship Drum Collection": "$120.00",
+            "Coleção Completa de Pads": "$150.00",
+            "Worship EFX": "$30.00",
+            "Worship 808": "$30.00",
+            "Worship Cinematic": "$30.00",
+            "Worship Drum Kit 3": "$30.00",
+            "Worship Drum Kit 2": "$30.00",
+            "Worship Drum Kit 1": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,

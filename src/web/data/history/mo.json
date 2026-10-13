@@ -11405,13 +11405,31 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "formattedPrice": "USD 5.99",
+      "環月軌道": "USD 14.99",
+      "地球靜止軌道": "USD 4.99",
+      "近地軌道": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "formattedPrice": "USD 3.99",
+      "環月軌道": "USD 14.99",
+      "地球靜止軌道": "USD 4.99",
+      "近地軌道": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "環月軌道": "USD 14.99",
+            "地球靜止軌道": "USD 4.99",
+            "近地軌道": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -47545,14 +47563,32 @@
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
-      "432 Player Full Features": "USD 7.99"
+      "432 Player Full Features": "USD 7.99",
+      "Lifetime Membership": "USD 81.99",
+      "Yearly Membership": "USD 29.99",
+      "Monthly Membership": "USD 4.29"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
-      "432 Player Full Features": "USD 7.99"
+      "432 Player Full Features": "USD 7.99",
+      "Lifetime Membership": "USD 81.99",
+      "Yearly Membership": "USD 29.99",
+      "Monthly Membership": "USD 4.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Lifetime Membership": "USD 81.99",
+            "Yearly Membership": "USD 29.99",
+            "Monthly Membership": "USD 4.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789207811514,
@@ -214436,10 +214472,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 1.79,
+      "formattedPrice": "USD 1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 1.79,
+          "formattedPrice": "USD 1.79",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,

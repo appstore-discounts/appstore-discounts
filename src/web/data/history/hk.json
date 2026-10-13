@@ -15280,13 +15280,31 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "formattedPrice": "HK$ 48.00",
+      "環月軌道": "HK$ 118.00",
+      "地球靜止軌道": "HK$ 38.00",
+      "近地軌道": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "formattedPrice": "HK$ 32.00",
+      "環月軌道": "HK$ 118.00",
+      "地球靜止軌道": "HK$ 38.00",
+      "近地軌道": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "環月軌道": "HK$ 118.00",
+            "地球靜止軌道": "HK$ 38.00",
+            "近地軌道": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -25646,6 +25664,25 @@
       "Unlock \"Ant Hill\" level pack": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Superpower 10": "HK$ 18.00",
+            "Superpower 20": "HK$ 32.00",
+            "Superpower 50": "HK$ 58.00",
+            "Superpower 500": "HK$ 148.00",
+            "Unlock all level packs including future updates": "HK$ 32.00",
+            "Superpower Unlimited": "HK$ 188.00",
+            "Unlock \"Sticky Steps\" level pack": "HK$ 18.00",
+            "Unlock \"Shooting the candy\" level pack": "HK$ 18.00",
+            "Unlock \"Rocket Science\" level pack": "HK$ 18.00",
+            "Unlock \"Handy сandy\" level pack": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787045539992,
@@ -58838,14 +58875,32 @@
     "maxPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
-      "432 Player Full Features": "HK$ 58.00"
+      "432 Player Full Features": "HK$ 58.00",
+      "Lifetime Membership": "HK$ 688.00",
+      "Yearly Membership": "HK$ 228.00",
+      "Monthly Membership": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
-      "432 Player Full Features": "HK$ 58.00"
+      "432 Player Full Features": "HK$ 58.00",
+      "Lifetime Membership": "HK$ 688.00",
+      "Yearly Membership": "HK$ 228.00",
+      "Monthly Membership": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Lifetime Membership": "HK$ 688.00",
+            "Yearly Membership": "HK$ 228.00",
+            "Monthly Membership": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789207811514,
@@ -304522,10 +304577,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 12,
+      "formattedPrice": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,

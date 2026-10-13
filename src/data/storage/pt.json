@@ -30771,14 +30771,32 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
-      "432 Player Full Features": "8,99 €"
+      "432 Player Full Features": "8,99 €",
+      "Lifetime Membership": "99,99 €",
+      "Yearly Membership": "34,99 €",
+      "Monthly Membership": "4,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
-      "432 Player Full Features": "8,99 €"
+      "432 Player Full Features": "8,99 €",
+      "Lifetime Membership": "99,99 €",
+      "Yearly Membership": "34,99 €",
+      "Monthly Membership": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791886095337,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Lifetime Membership": "99,99 €",
+            "Yearly Membership": "34,99 €",
+            "Monthly Membership": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789207811514,
