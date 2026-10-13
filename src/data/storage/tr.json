@@ -13477,13 +13477,31 @@
     "name": "Living Earth - Clock & Weather",
     "maxPriceInfo": {
       "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "formattedPrice": "₺299,99",
+      "Lunar Orbit": "₺799,99",
+      "Geostationary Orbit": "₺249,99",
+      "Low Earth Orbit": "₺99,99"
     },
     "minPriceInfo": {
       "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "formattedPrice": "₺199,99",
+      "Lunar Orbit": "₺799,99",
+      "Geostationary Orbit": "₺249,99",
+      "Low Earth Orbit": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Lunar Orbit": "₺799,99",
+            "Geostationary Orbit": "₺249,99",
+            "Low Earth Orbit": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -238853,6 +238871,25 @@
     "history": [
       [
         {
+          "timestamp": 1791858533377,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "200'000 Coins": "₺49,99",
+            "1'000'000 Coins": "₺149,99",
+            "Mack Trucks Black Anthem 6x4": "₺99,99",
+            "500'000 Coins": "₺99,99",
+            "Farmet Fantom 1250 Pro": "₺49,99",
+            "JCB 541-70 AGRI PRO": "₺99,99",
+            "Krone BiG M 450": "₺99,99",
+            "John Deere 8R 410": "₺99,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Case IH Speed-Tiller": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790857883196,
           "price": 229,
           "formattedPrice": "₺229,00",
@@ -272958,6 +272995,19 @@
     "history": [
       [
         {
+          "timestamp": 1791858533377,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "200,000 x Coins": "₺499,99",
+            "80,000 x Coins": "₺249,99",
+            "40,000 x Coins": "₺149,99",
+            "10,000 x Coins": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789253463981,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -274252,7 +274302,7 @@
       "formattedPrice": "₺199,99",
       "终身会员": "₺999,99",
       "Liftetime": "₺999,99",
-      "年订阅": "₺499,99",
+      "年订阅": "₺799,99",
       "月订阅": "₺299,99",
       "Lifetime": "₺999,99"
     },
@@ -274262,10 +274312,23 @@
       "终身会员": "₺999,99",
       "Liftetime": "₺899,99",
       "年订阅": "₺249,99",
-      "月订阅": "₺299,99",
+      "月订阅": "₺199,99",
       "Lifetime": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺999,99",
+            "Liftetime": "₺999,99",
+            "年订阅": "₺799,99",
+            "月订阅": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791838643666,
@@ -289840,6 +289903,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,

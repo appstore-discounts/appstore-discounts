@@ -19394,13 +19394,31 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "$5.99"
+      "formattedPrice": "$5.99",
+      "Lunar Orbit": "$14.99",
+      "Geostationary Orbit": "$4.99",
+      "Low Earth Orbit": "$1.99"
     },
     "minPriceInfo": {
       "price": 3.99,
-      "formattedPrice": "$3.99"
+      "formattedPrice": "$3.99",
+      "Lunar Orbit": "$14.99",
+      "Geostationary Orbit": "$4.99",
+      "Low Earth Orbit": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Lunar Orbit": "$14.99",
+            "Geostationary Orbit": "$4.99",
+            "Low Earth Orbit": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -65148,7 +65166,8 @@
       "Toyota 2017 Enhanced Diagnostics": "$14.99",
       "Ford 2013 Enhanced Diagnostics": "$14.99",
       "Toyota 2013 Enhanced Diagnostics": "$14.99",
-      "Ford 2016 Enhanced Diagnostics": "$14.99"
+      "Ford 2016 Enhanced Diagnostics": "$14.99",
+      "Toyota 2016 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -65166,9 +65185,29 @@
       "Toyota 2017 Enhanced Diagnostics": "$14.99",
       "Ford 2013 Enhanced Diagnostics": "$14.99",
       "Toyota 2013 Enhanced Diagnostics": "$14.99",
-      "Ford 2016 Enhanced Diagnostics": "$14.99"
+      "Ford 2016 Enhanced Diagnostics": "$14.99",
+      "Toyota 2016 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791633510449,
@@ -119194,7 +119233,11 @@
       "He-Man Booster Pack": "$3.99",
       "He-Man Prestige Pack": "$16.99",
       "Portable Lake Pro": "$3.99",
-      "Skywarden Unlock Pack": "$7.99"
+      "Skywarden Unlock Pack": "$7.99",
+      "Hero Booster": "$1.99",
+      "Mountain O Monkey Money": "$49.99",
+      "Double Cash Mode": "$17.99",
+      "Knowledge Unlocked": "$9.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -119233,9 +119276,32 @@
       "He-Man Booster Pack": "$3.99",
       "He-Man Prestige Pack": "$16.99",
       "Portable Lake Pro": "$3.99",
-      "Skywarden Unlock Pack": "$7.99"
+      "Skywarden Unlock Pack": "$7.99",
+      "Hero Booster": "$1.99",
+      "Mountain O Monkey Money": "$49.99",
+      "Double Cash Mode": "$17.99",
+      "Knowledge Unlocked": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Booster": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Monkey Money": "$1.99",
+            "Pile O Monkey Money": "$4.99",
+            "Vault O Monkey Money": "$19.99",
+            "Mountain O Monkey Money": "$49.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Double Cash Mode": "$17.99",
+            "Knowledge Unlocked": "$9.99",
+            "Knowledge Point": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787284187290,
@@ -335917,6 +335983,19 @@
     "history": [
       [
         {
+          "timestamp": 1791858533377,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "200,000 x Coins": "$9.99",
+            "80,000 x Coins": "$4.99",
+            "40,000 x Coins": "$2.99",
+            "10,000 x Coins": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789269826669,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -337074,7 +337153,7 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "年订阅": "$9.99",
+      "年订阅": "$14.99",
       "月订阅": "$5.99",
       "终身会员": "$19.99",
       "Liftetime": "$19.99",
@@ -337090,6 +337169,19 @@
       "Lifetime": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$12.99",
+            "年订阅": "$14.99",
+            "Liftetime": "$15.99",
+            "月订阅": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784844203152,
@@ -352253,6 +352345,14 @@
     "history": [
       [
         {
+          "timestamp": 1791858533377,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -355742,10 +355842,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 1.79,
+      "formattedPrice": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 1.79,
+          "formattedPrice": "$1.79",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,

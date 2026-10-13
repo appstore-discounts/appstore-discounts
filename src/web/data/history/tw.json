@@ -14785,13 +14785,31 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 190,
-      "formattedPrice": "$190.00"
+      "formattedPrice": "$190.00",
+      "環月軌道": "$490.00",
+      "地球靜止軌道": "$150.00",
+      "近地軌道": "$60.00"
     },
     "minPriceInfo": {
       "price": 120,
-      "formattedPrice": "$120.00"
+      "formattedPrice": "$120.00",
+      "環月軌道": "$490.00",
+      "地球靜止軌道": "$150.00",
+      "近地軌道": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "環月軌道": "$490.00",
+            "地球靜止軌道": "$150.00",
+            "近地軌道": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -270560,6 +270578,25 @@
     "history": [
       [
         {
+          "timestamp": 1791858533377,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Airbus A380": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A321": "$60.00",
+            "Global scenery - 3 months": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -308664,7 +308701,7 @@
   },
   "6751122124": {
     "trackId": 6751122124,
-    "trackName": "Notteka | AI工作台",
+    "trackName": "Notteka | 香港AI Bot",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -313277,6 +313314,14 @@
     "history": [
       [
         {
+          "timestamp": 1791858533377,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -316559,6 +316604,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791858533377,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,

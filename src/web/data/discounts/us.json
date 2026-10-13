@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 6748572801,
+    "region": "us",
+    "timestamp": 1791858533377,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6748572801",
+    "trackName": "Seoul Exorcist 1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6742044212,
+    "region": "us",
+    "timestamp": 1791858533377,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "月订阅",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6742044212",
+    "trackName": "SnapKoin - Expense Tracker",
+    "firstRecordedAt": 1761660771755
+  },
+  {
+    "trackId": 6760777178,
+    "region": "us",
+    "timestamp": 1791858533377,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.79",
+        "range": "[$1.79 ~ $4.99]"
+      }
+    ],
+    "price": 1.79,
+    "formattedPrice": "$1.79",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6760777178",
+    "trackName": "Film Light",
+    "firstRecordedAt": 1788381215116
+  },
+  {
     "trackId": 6748287593,
     "region": "us",
     "timestamp": 1791764075164,

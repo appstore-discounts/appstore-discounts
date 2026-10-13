@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 6748572801,
+    "region": "tr",
+    "timestamp": 1791858533377,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺40,00 ~ ₺299,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6748572801",
+    "trackName": "Seoul Exorcist 1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6742044212,
+    "region": "tr",
+    "timestamp": 1791858533377,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "月订阅",
+        "from": "₺299,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6742044212",
+    "trackName": "SnapKoin - Expense Tracker",
+    "firstRecordedAt": 1761660771755
+  },
+  {
+    "trackId": 6760777178,
+    "region": "tr",
+    "timestamp": 1791858533377,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6760777178",
+    "trackName": "Film Light",
+    "firstRecordedAt": 1788381215116
+  },
+  {
     "trackId": 6807873317,
     "region": "tr",
     "timestamp": 1791838643666,

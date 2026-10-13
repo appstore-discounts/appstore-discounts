@@ -441,7 +441,7 @@
 |1902|6758863302|自动|❌|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|
 |1901|6758862862|自动|❌|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|
 |1900|1536711520|自动|小熊数日子|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|
-|1899|6751122124|自动|Notteka - AI 工作台|Notteka | AI工作台|Notteka | AI工作台|Notteka | AI工作台|Notteka | AI Assistant|Notteka | AI Assistant|Notteka - AI 工作台|
+|1899|6751122124|自动|Notteka - 香港AI Bot|Notteka | 香港AI Bot|Notteka | 香港AI Bot|Notteka | 香港AI Bot|Notteka | AI Assistant|Notteka | AI Assistant|Notteka - AI 工作台|
 |1898|6760331891|自动|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|
 |1897|6756783688|自动|❌|❌|❌|寶寶接種小幫手|❌|❌|❌|
 |1896|374098312|自动|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|
