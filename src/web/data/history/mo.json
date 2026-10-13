@@ -11703,6 +11703,18 @@
     "history": [
       [
         {
+          "timestamp": 1791917735754,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "Dakota Map Pack": "USD 0.99",
+            "Unlock Everything": "USD 7.49",
+            "Alaska Map Pack": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 0.79,
           "formattedPrice": "USD 0.79",
@@ -47558,7 +47570,7 @@
   },
   "633600716": {
     "trackId": 633600716,
-    "trackName": "432 Player",
+    "trackName": "432 Player: Music in 432 Hz",
     "region": "mo",
     "maxPriceInfo": {
       "price": 5.99,
@@ -47569,14 +47581,26 @@
       "Monthly Membership": "USD 4.29"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "432 Player Full Features": "USD 7.99",
       "Lifetime Membership": "USD 81.99",
       "Yearly Membership": "USD 29.99",
       "Monthly Membership": "USD 4.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Membership": "USD 81.99",
+            "Yearly Membership": "USD 29.99",
+            "Monthly Membership": "USD 4.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791886095337,
@@ -166242,6 +166266,21 @@
     "history": [
       [
         {
+          "timestamp": 1791917735754,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "一屋子寶石": "USD 99.99",
+            "一礦車寶石": "USD 49.99",
+            "一大箱寶石": "USD 19.99",
+            "一小箱寶石": "USD 9.99",
+            "一小袋寶石": "USD 4.99",
+            "一把寶石": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791237018351,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -183144,7 +183183,13 @@
       "Winter Wonderland Teal Colour": "USD 4.99",
       "Christmas Sleigh Carriage": "USD 2.99",
       "Tree-livery Carriage": "USD 2.99",
-      "The Ultimate Bundle": "USD 79.99"
+      "The Ultimate Bundle": "USD 79.99",
+      "Italy Map": "USD 9.99",
+      "Season Pass 1 & 2": "USD 69.99",
+      "Season Pass 2": "USD 49.99",
+      "Season Pass 1": "USD 49.99",
+      "Customisation Mega Bundle": "USD 19.99",
+      "The Welcome Offer": "USD 59.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -183203,9 +183248,32 @@
       "Winter Wonderland Teal Colour": "USD 4.99",
       "Christmas Sleigh Carriage": "USD 2.99",
       "Tree-livery Carriage": "USD 2.99",
-      "The Ultimate Bundle": "USD 79.99"
+      "The Ultimate Bundle": "USD 49.99",
+      "Italy Map": "USD 9.99",
+      "Season Pass 1 & 2": "USD 69.99",
+      "Season Pass 2": "USD 49.99",
+      "Season Pass 1": "USD 49.99",
+      "Customisation Mega Bundle": "USD 19.99",
+      "The Welcome Offer": "USD 59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Welcome Offer": "USD 29.99",
+            "Italy Map": "USD 9.99",
+            "Season Pass 1 & 2": "USD 69.99",
+            "Season Pass 2": "USD 49.99",
+            "Season Pass 1": "USD 49.99",
+            "Customisation Mega Bundle": "USD 19.99",
+            "The Welcome Offer": "USD 59.99",
+            "The Ultimate Bundle": "USD 49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791606695944,
@@ -195784,6 +195852,14 @@
     "history": [
       [
         {
+          "timestamp": 1791917735754,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -201275,6 +201351,17 @@
       "Steyr Arms Pack": "USD 2.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Hunter's Pack": "USD 1.59",
+            "Steyr Arms Pack": "USD 2.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -208879,7 +208966,7 @@
   },
   "6757943661": {
     "trackId": 6757943661,
-    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
+    "trackName": "阿福出境管家-簽證通過率評估與材料清單",
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
@@ -215988,6 +216075,29 @@
       [
         {
           "timestamp": 1791838643666,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755046527": {
+    "trackId": 6755046527,
+    "trackName": "Dome Keeper 穹頂守護者",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791917735754,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
           "inAppPurchases": {}

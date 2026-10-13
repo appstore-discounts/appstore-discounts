@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 633600716,
+    "region": "us",
+    "timestamp": 1791917735754,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "Free",
+        "range": "[Free ~ $5.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id633600716",
+    "trackName": "432 Player: Music in 432 Hz",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6812927976,
+    "region": "us",
+    "timestamp": 1791917735754,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6812927976",
+    "trackName": "Enchanted Survival: Magic RPG",
+    "firstRecordedAt": 1791507612931
+  },
+  {
     "trackId": 6748572801,
     "region": "us",
     "timestamp": 1791858533377,
@@ -5637,7 +5677,7 @@
     "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6757943661",
-    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
+    "trackName": "AFU Visa Prep: Travel Planner",
     "firstRecordedAt": 1778176443977
   },
   {
@@ -14063,7 +14103,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6757943661",
-    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
+    "trackName": "AFU Visa Prep: Travel Planner",
     "firstRecordedAt": 1778176443977
   },
   {

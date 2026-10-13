@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 633600716,
+    "region": "mo",
+    "timestamp": 1791917735754,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 5.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 5.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id633600716",
+    "trackName": "432 Player: Music in 432 Hz",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6463616555,
+    "region": "mo",
+    "timestamp": 1791917735754,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "The Ultimate Bundle",
+        "from": "USD 79.99",
+        "to": "USD 49.99",
+        "range": "[USD 49.99 ~ USD 79.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6463616555",
+    "trackName": "Ticket to Ride®",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 6760777178,
     "region": "mo",
     "timestamp": 1791886095337,
@@ -13725,7 +13765,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6757943661",
-    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
+    "trackName": "阿福出境管家-簽證通過率評估與材料清單",
     "firstRecordedAt": 1778176443977
   },
   {

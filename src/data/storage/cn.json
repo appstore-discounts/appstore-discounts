@@ -9257,6 +9257,25 @@
     "history": [
       [
         {
+          "timestamp": 1791917735754,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "forScore Pro 30-Day Pass": "¥22.00",
+            "Rameau: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791692106771,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -33259,7 +33278,7 @@
     ]
   },
   "633600716": {
-    "name": "432 Player",
+    "name": "432 Player: Music in 432 Hz",
     "maxPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00",
@@ -33269,14 +33288,26 @@
       "Monthly Membership": "¥28.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "432 Player Full Features": "¥58.00",
       "Lifetime Membership": "¥598.00",
       "Yearly Membership": "¥198.00",
       "Monthly Membership": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime Membership": "¥598.00",
+            "Yearly Membership": "¥198.00",
+            "Monthly Membership": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791886095337,
@@ -46896,6 +46927,25 @@
       "涨停助手年版": "¥998.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "¥8.00",
+            "金牛会员连续包月": "¥6.00",
+            "手机高级诊股连续包月": "¥8.00",
+            "手机超级Level-2连续包半年": "¥48.00",
+            "手机Level-2包年服务": "¥88.00",
+            "金牛会员尊享版连续包年": "¥98.00",
+            "金牛会员月版": "¥18.00",
+            "手机超级Level2两年版": "¥158.00",
+            "主力密码连续包月": "¥118.00",
+            "机构探测器连续包月": "¥118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791886095337,
@@ -169395,6 +169445,25 @@
     "history": [
       [
         {
+          "timestamp": 1791917735754,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：魔法之镜": "¥5.00",
+            "奇境森林": "¥15.00",
+            "热门内容DLC": "¥26.00",
+            "新世界启程礼": "¥83.00",
+            "DLC：异界": "¥8.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "DLC：孤山世界": "¥12.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：怪物联盟": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791800239201,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -184207,6 +184276,25 @@
       "五子良将": "¥36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "五子良将": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "冠绝天下": "¥36.00",
+            "镇海神威": "¥18.00",
+            "斜谷残阳": "¥36.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791886095337,
@@ -229352,7 +229440,7 @@
     ]
   },
   "6757943661": {
-    "name": "阿福出境管家 - 签证通过率评估与材料清单",
+    "name": "阿福出境管家-签证通过率评估与材料清单",
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "¥18.00",

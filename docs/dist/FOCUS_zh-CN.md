@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2333` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2334` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2334|6755046527|自动|❌|Dome Keeper 穹頂守護者|Dome Keeper 穹頂守護者|Dome Keeper 穹頂守護者|Dome Keeper|Dome Keeper|Dome Keeper|
 |2333|6817843628|自动|❌|五行仙途‧香江修仙錄|五行仙途‧香江修仙錄|五行仙途‧香江修仙錄|五行仙途‧香江修仙錄|五行仙途‧香江修仙錄|五行仙途‧香江修仙錄|
 |2332|6749456796|自动|❌|Vampire Crawlers|Vampire Crawlers|Vampire Crawlers|Vampire Crawlers|Vampire Crawlers|Vampire Crawlers|
 |2331|1620745523|自动|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|aRDP Pro - RDP Remote Desktop|
@@ -366,7 +367,7 @@
 |1977|6476567182|自动|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|
 |1976|687236846|自动|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
 |1975|463994203|自动|八字紫微斗|八字紫微斗|八字紫微斗|八字紫微斗|❌|❌|❌|
-|1974|6757943661|自动|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家 - 签证通过率评估与材料清单|
+|1974|6757943661|自动|阿福出境管家-签证通过率评估与材料清单|阿福出境管家-簽證通過率評估與材料清單|阿福出境管家-簽證通過率評估與材料清單|阿福出境管家-簽證通過率評估與材料清單|AFU Visa Prep: Travel Planner|Afu Visa Check & Checklist|阿福出境管家-签证通过率评估与材料清单|
 |1973|1672852887|自动|绝对音高 Pro：音符 间隔 和弦 音阶|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|Ear training Pro: piano guitar|Ear training Pro: piano guitar|Ouvido absoluto Pro: Solfejo|
 |1972|6596729064|自动|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|
 |1971|6741470807|自动|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|
@@ -1721,7 +1722,7 @@
 |622|555612465|自动|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney Pro - Expense Tracker|CWMoney Pro - Expense Tracker|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|
 |621|564730202|自动|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|
 |620|582584117|自动|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|
-|619|633600716|自动|432 Player|432 Player|432 Player|432 Player|432 Player|432 Player|432 Player|
+|619|633600716|自动|432 Player: Music in 432 Hz|432 Player: Music in 432 Hz|432 Player: Music in 432 Hz|432 Player: Music in 432 Hz|432 Player: Music in 432 Hz|432 Player: Music in 432 Hz|432 Player: Music in 432 Hz|
 |618|683353582|自动|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|
 |617|777310222|自动|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|
 |616|887877435|自动|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 Lens Toolkit|f8 Lens Toolkit|f8 Lens Toolkit|

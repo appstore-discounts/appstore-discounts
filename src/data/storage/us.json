@@ -63942,7 +63942,7 @@
     ]
   },
   "633600716": {
-    "name": "432 Player",
+    "name": "432 Player: Music in 432 Hz",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "$5.99",
@@ -63952,8 +63952,8 @@
       "Monthly Membership": "$4.29"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "432 Player Full Features": "$7.99",
       "Lifetime Membership": "$81.99",
       "Yearly Membership": "$29.99",
@@ -63961,6 +63961,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791917735754,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$81.99",
+            "Yearly Membership": "$29.99",
+            "Monthly Membership": "$4.29"
+          }
+        },
         {
           "timestamp": 1791886095337,
           "price": 5.99,
@@ -221769,6 +221779,23 @@
     "history": [
       [
         {
+          "timestamp": 1791917735754,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99",
+            "Welcome Offer": "$9.99"
+          }
+        },
+        {
           "timestamp": 1791886095337,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -275698,6 +275725,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "Wacky Halloween Set": "$2.39",
+            "2025春いちごスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Starry Night": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "Crimson Walk": "$1.79",
+            "Christmas night": "$1.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791692106771,
@@ -345507,7 +345553,7 @@
     ]
   },
   "6757943661": {
-    "name": "阿福出境管家 - 签证通过率评估与材料清单",
+    "name": "AFU Visa Prep: Travel Planner",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99",
@@ -353160,10 +353206,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791917735754,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -353293,6 +353347,27 @@
       [
         {
           "timestamp": 1791838643666,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755046527": {
+    "name": "Dome Keeper",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791917735754,
           "price": 9.99,
           "formattedPrice": "$9.99",
           "inAppPurchases": {}
