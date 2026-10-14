@@ -67934,6 +67934,14 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1775990965343,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -99501,6 +99509,29 @@
           "timestamp": 1745328692670,
           "price": 3.49,
           "formattedPrice": "USD 3.49",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1264568098": {
+    "trackId": 1264568098,
+    "trackName": "Spelling Shed",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
@@ -174317,6 +174348,25 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 59.99",
+            "額外內容擴充包": "USD 19.99",
+            "武器專屬強化券 x5 (A)": "USD 9.99",
+            "武器專屬強化券 x3 (A)": "USD 6.99",
+            "武器專屬強化券 x3 (D)": "USD 6.99",
+            "武器專屬強化券 x3 (C)": "USD 6.99",
+            "武器專屬強化券 x1 (F)": "USD 2.99",
+            "武器專屬強化券 x1 (E)": "USD 2.99",
+            "武器專屬強化券 x1 (A)": "USD 2.99",
+            "武器專屬強化券 x1 (C)": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -209160,7 +209210,8 @@
       "面签模拟题库 + 被拒案例库": "USD 0.99",
       "美签全套资料包": "USD 14.99",
       "拒签分析报告解锁": "USD 3.99",
-      "Gold 6-Month": "USD 14.99"
+      "Gold 6-Month": "USD 14.99",
+      "完整版": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -209183,9 +209234,28 @@
       "面签模拟题库 + 被拒案例库": "USD 0.99",
       "美签全套资料包": "USD 14.99",
       "拒签分析报告解锁": "USD 3.99",
-      "Gold 6-Month": "USD 14.99"
+      "Gold 6-Month": "USD 14.99",
+      "完整版": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版": "USD 2.99",
+            "Gold 6-Month": "USD 14.99",
+            "黄金会员月度": "USD 1.99",
+            "黄金会员月": "USD 1.99",
+            "普通会员买断": "USD 22.99",
+            "黄金会员买断": "USD 39.99",
+            "黄金年会员": "USD 29.99",
+            "黄金月会员": "USD 3.99",
+            "基础月会员": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791966321053,
@@ -216367,6 +216437,29 @@
             "Buy bread for programmers": "USD 0.99",
             "Buy a coffee for designer": "USD 1.99"
           }
+        }
+      ]
+    ]
+  },
+  "6739130049": {
+    "trackId": 6739130049,
+    "trackName": "Planet of Lana",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
         }
       ]
     ]

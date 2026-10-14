@@ -43068,6 +43068,14 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1775990965343,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -64034,6 +64042,29 @@
       ]
     ]
   },
+  "1264568098": {
+    "trackId": 1264568098,
+    "trackName": "Spelling Shed",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1264608487": {
     "trackId": 1264608487,
     "trackName": "Driving Zone: Germany Pro",
@@ -79388,7 +79419,7 @@
       "Victorian London Theme": "4,99 €",
       "Atlantis Obsidian Token Bundle": "11,99 €",
       "The Posiden Token": "2,99 €",
-      "The Werewolf": "2,99 €",
+      "The Werewolf": "3,49 €",
       "Mega Bundle": "19,99 €",
       "Theme Collection": "19,99 €",
       "Snowdrop Valley Board": "6,99 €",
@@ -79748,6 +79779,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792005058089,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Werewolf": "3,49 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Golden Dice": "4,99 €"
+          }
+        },
         {
           "timestamp": 1791966321053,
           "price": 4.99,
@@ -143073,7 +143121,8 @@
       "VIP 人工填表服务": "34,99 €",
       "面签模拟题库 + 被拒案例库": "0,99 €",
       "美签全套资料包": "17,99 €",
-      "拒签分析报告解锁": "3,99 €"
+      "拒签分析报告解锁": "3,99 €",
+      "完整版": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -143096,10 +143145,27 @@
       "VIP 人工填表服务": "34,99 €",
       "面签模拟题库 + 被拒案例库": "0,99 €",
       "美签全套资料包": "17,99 €",
-      "拒签分析报告解锁": "3,99 €"
+      "拒签分析报告解锁": "3,99 €",
+      "完整版": "2,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1792005058089,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "完整版": "2,99 €",
+            "Gold 6-Month": "17,99 €",
+            "黄金会员月度": "1,99 €",
+            "黄金会员月": "1,99 €",
+            "普通会员买断": "24,99 €",
+            "黄金会员买断": "44,99 €",
+            "黄金年会员": "34,99 €",
+            "黄金月会员": "3,99 €",
+            "基础月会员": "0,99 €"
+          }
+        },
         {
           "timestamp": 1791966321053,
           "price": 0,
@@ -150465,6 +150531,29 @@
             "Buy bread for programmers": "0,99 €",
             "Buy a coffee for designer": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6739130049": {
+    "trackId": 6739130049,
+    "trackName": "Planet of Lana",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

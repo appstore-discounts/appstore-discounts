@@ -32875,6 +32875,25 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Stern Pack 1": "$4.99",
+            "Big Buck Hunter Single Table": "$9.99",
+            "Whoa Nellie Single Table": "$9.99",
+            "Stern Pack 3": "$14.99",
+            "Star Trek Single Table": "$4.99",
+            "Mustang Single Table": "$9.99",
+            "Ghostbusters Single Table": "$9.99",
+            "Dr. Who Master of Time": "$4.99",
+            "Farsight Ball Pack": "$1.99",
+            "Stern Ball Pack 1": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788815378111,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -83129,6 +83148,25 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Grottoes Add-on": "$0.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Heroes Add-on": "$3.99",
+            "Heart of Evil Add-on": "$6.99",
+            "Invasion Add-on": "$4.99",
+            "Wonderwood Add-on": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791746494646,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -96228,6 +96266,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775990965343,
@@ -140540,6 +140586,27 @@
           "timestamp": 1745328692670,
           "price": 3.49,
           "formattedPrice": "$3.49",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1264568098": {
+    "name": "Spelling Shed",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
@@ -339777,6 +339844,25 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99",
+            "Worship EFX": "$0.99",
+            "Worship 808": "$0.99",
+            "Worship Cinematic": "$0.99",
+            "Worship Drum Kit 3": "$0.99",
+            "Worship Drum Kit 2": "$0.99",
+            "Worship Drum Kit 1": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791886095337,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -345826,7 +345912,8 @@
       "黄金月会员": "$3.99",
       "黄金会员": "$3.99",
       "普通": "$2.99",
-      "Gold 6-Month": "$14.99"
+      "Gold 6-Month": "$14.99",
+      "完整版": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -345841,10 +345928,27 @@
       "黄金月会员": "$3.99",
       "黄金会员": "$3.99",
       "普通": "$2.99",
-      "Gold 6-Month": "$14.99"
+      "Gold 6-Month": "$14.99",
+      "完整版": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792005058089,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "基础月会员": "$0.99",
+            "黄金会员月度": "$1.99",
+            "黄金会员买断": "$39.99",
+            "解锁报告": "$2.99",
+            "完整版": "$2.99",
+            "Gold 6-Month": "$14.99",
+            "黄金会员月": "$1.99",
+            "普通会员买断": "$22.99",
+            "黄金年会员": "$29.99"
+          }
+        },
         {
           "timestamp": 1791966321053,
           "price": 0,
@@ -353741,6 +353845,27 @@
             "Buy a coffee for designer": "$1.99",
             "Buy a coffee for PM": "$3.99"
           }
+        }
+      ]
+    ]
+  },
+  "6739130049": {
+    "name": "Planet of Lana",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
         }
       ]
     ]

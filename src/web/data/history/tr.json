@@ -87929,6 +87929,14 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1775990965343,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -130061,6 +130069,29 @@
       [
         {
           "timestamp": 1745328692670,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1264568098": {
+    "trackId": 1264568098,
+    "trackName": "Spelling Shed",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
           "price": 149.99,
           "formattedPrice": "₺149,99",
           "inAppPurchases": {}
@@ -289043,7 +289074,8 @@
       "基础月会员": "₺49,99",
       "黄金会员": "₺199,99",
       "普通": "₺149,99",
-      "Gold 6-Month": "₺799,99"
+      "Gold 6-Month": "₺799,99",
+      "完整版": "₺149,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -289057,10 +289089,27 @@
       "基础月会员": "₺49,99",
       "黄金会员": "₺199,99",
       "普通": "₺149,99",
-      "Gold 6-Month": "₺799,99"
+      "Gold 6-Month": "₺799,99",
+      "完整版": "₺149,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792005058089,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "完整版": "₺149,99",
+            "Gold 6-Month": "₺799,99",
+            "黄金会员月度": "₺99,99",
+            "黄金会员月": "₺99,99",
+            "普通会员买断": "₺1.199,99",
+            "黄金会员买断": "₺1.999,99",
+            "黄金年会员": "₺1.499,99",
+            "黄金月会员": "₺199,99",
+            "基础月会员": "₺49,99"
+          }
+        },
         {
           "timestamp": 1791966321053,
           "price": 0,
@@ -296903,6 +296952,29 @@
             "Buy bread for programmers": "₺39,99",
             "Buy a coffee for designer": "₺99,99"
           }
+        }
+      ]
+    ]
+  },
+  "6739130049": {
+    "trackId": 6739130049,
+    "trackName": "Planet of Lana",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
         }
       ]
     ]

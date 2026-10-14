@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 968820626,
+    "region": "us",
+    "timestamp": 1792005058089,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id968820626",
+    "trackName": "Watch Tuner Lite",
+    "firstRecordedAt": 1746630148619
+  },
+  {
+    "trackId": 6757943661,
+    "region": "us",
+    "timestamp": 1792005058089,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6757943661",
+    "trackName": "AFU Visa Prep: Travel Planner",
+    "firstRecordedAt": 1778176443977
+  },
+  {
     "trackId": 1632719015,
     "region": "us",
     "timestamp": 1791987672821,
@@ -38,26 +78,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6770101449",
     "trackName": "五道門：文字江湖",
     "firstRecordedAt": 1785154990397
-  },
-  {
-    "trackId": 6757943661,
-    "region": "us",
-    "timestamp": 1791966321053,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$2.99",
-        "to": "Free",
-        "range": "[Free ~ $2.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id6757943661",
-    "trackName": "AFU Visa Prep: Travel Planner",
-    "firstRecordedAt": 1778176443977
   },
   {
     "trackId": 633600716,

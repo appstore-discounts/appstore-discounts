@@ -29780,6 +29780,25 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791966321053,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -85238,6 +85257,14 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1775990965343,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -85953,6 +85980,23 @@
       "119 Gems": "$1,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "150 Gems": "$2,490.00",
+            "74 Gems": "$1,290.00",
+            "119 Gems": "$1,990.00",
+            "48 Gems": "$990.00",
+            "28 Gems": "$490.00",
+            "13 Gems": "$290.00",
+            "6 Gems": "$120.00",
+            "1 Gem": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -128991,6 +129035,29 @@
       ]
     ]
   },
+  "1264568098": {
+    "trackId": 1264568098,
+    "trackName": "Spelling Shed",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1264608487": {
     "trackId": 1264608487,
     "trackName": "Driving Zone: Germany Pro",
@@ -134513,6 +134580,25 @@
     "history": [
       [
         {
+          "timestamp": 1792005058089,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Design Frame Package": "$30.00",
+            "Social Frame Package": "$30.00",
+            "Magazine Frame Package": "$30.00",
+            "Black Frame Pack": "$30.00",
+            "Geometric Frame Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Retro Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Upgrade Deluxe Edition": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791568819448,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -139238,6 +139324,25 @@
       "原版怪獸卡牌包": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "茶具魔王皮膚卡牌包 C": "$150.00",
+            "茶具魔王皮膚卡牌包 B": "$150.00",
+            "茶具魔王皮膚卡牌包 A": "$150.00",
+            "小墮落勇士造型卡牌包": "$890.00",
+            "小勇士造型卡牌包": "$890.00",
+            "黑暗的魔王皮膚卡牌包": "$290.00",
+            "光芒的魔王皮膚卡牌包": "$290.00",
+            "魔王覺醒蛇女卡牌包": "$150.00",
+            "神話完整卡牌包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,
@@ -311787,7 +311892,8 @@
       "基础月会员": "$30.00",
       "黄金会员": "$120.00",
       "普通": "$90.00",
-      "Gold 6-Month": "$490.00"
+      "Gold 6-Month": "$490.00",
+      "完整版": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -311801,9 +311907,28 @@
       "基础月会员": "$30.00",
       "黄金会员": "$120.00",
       "普通": "$90.00",
-      "Gold 6-Month": "$490.00"
+      "Gold 6-Month": "$490.00",
+      "完整版": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版": "$90.00",
+            "Gold 6-Month": "$490.00",
+            "黄金会员月度": "$60.00",
+            "黄金会员月": "$60.00",
+            "普通会员买断": "$790.00",
+            "黄金会员买断": "$1,290.00",
+            "黄金年会员": "$990.00",
+            "黄金月会员": "$120.00",
+            "基础月会员": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791966321053,
@@ -319115,6 +319240,29 @@
             "Buy bread for programmers": "$30.00",
             "Buy a coffee for designer": "$60.00"
           }
+        }
+      ]
+    ]
+  },
+  "6739130049": {
+    "trackId": 6739130049,
+    "trackName": "Planet of Lana",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792005058089,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
         }
       ]
     ]
