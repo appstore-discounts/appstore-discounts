@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1632719015,
+    "region": "us",
+    "timestamp": 1791987672821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$5.99",
+        "range": "[$0.99 ~ $6.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "$5.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1632719015",
+    "trackName": "Guardian OL2",
+    "firstRecordedAt": 1787620330936
+  },
+  {
+    "trackId": 6770101449,
+    "region": "us",
+    "timestamp": 1791987672821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$4.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
     "trackId": 6757943661,
     "region": "us",
     "timestamp": 1791966321053,

@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1437479513,
+    "region": "cn",
+    "timestamp": 1791987672821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥30.00",
+        "to": "¥15.00",
+        "range": "[¥5.00 ~ ¥30.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1437479513",
+    "trackName": "逃脱者：困境突围",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1544190466,
+    "region": "cn",
+    "timestamp": 1791987672821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥6.00",
+        "range": "[¥3.00 ~ ¥12.00]"
+      }
+    ],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1544190466",
+    "trackName": "避难所：生存",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1551596643,
+    "region": "cn",
+    "timestamp": 1791987672821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥9.00",
+        "range": "[¥6.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 9,
+    "formattedPrice": "¥9.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1551596643",
+    "trackName": "模拟地铁",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6751122124,
+    "region": "cn",
+    "timestamp": 1791987672821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥1.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6751122124",
+    "trackName": "Notteka - 香港AI Bot",
+    "firstRecordedAt": 1775335273950
+  },
+  {
     "trackId": 6757943661,
     "region": "cn",
     "timestamp": 1791966321053,
