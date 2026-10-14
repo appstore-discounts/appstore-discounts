@@ -7776,6 +7776,23 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "HK$ 8.00",
+            "Shibuya HipstaPak": "HK$ 8.00",
+            "Portland HipstaPak": "HK$ 8.00",
+            "Camden HipstaPak": "HK$ 8.00",
+            "Mission Hipstapak": "HK$ 8.00",
+            "Soho HipstaPak": "HK$ 8.00",
+            "Bondi HipstaPak": "HK$ 8.00",
+            "Foodie SnapPak": "HK$ 8.00",
+            "Dali GoodPak": "HK$ 8.00",
+            "RetroPak One": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1791917735754,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -134598,6 +134615,25 @@
       "Border": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Rate": "HK$ 0.00",
+            "Info": "HK$ 0.00",
+            "Tuner": "HK$ 0.00",
+            "Chromakey": "HK$ 0.00",
+            "Unlock All": "HK$ 58.00",
+            "Paint": "HK$ 0.00",
+            "Erase": "HK$ 8.00",
+            "Blend": "HK$ 8.00",
+            "Distortion": "HK$ 0.00",
+            "Magnifier": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785399944043,
@@ -287440,6 +287476,23 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "porches": "HK$ 8.00",
+            "passatb8": "HK$ 8.00",
+            "sonsuz paket": "HK$ 22.00",
+            "mega paket": "HK$ 18.00",
+            "büyük paket": "HK$ 8.00",
+            "orta paket": "HK$ 8.00",
+            "mini paket": "HK$ 6.00",
+            "20 gold": "HK$ 6.00",
+            "10 gold": "HK$ 2.00",
+            "5 gold": "HK$ 2.00"
+          }
+        },
+        {
           "timestamp": 1791917735754,
           "price": 0,
           "formattedPrice": "免費",
@@ -302476,6 +302529,37 @@
           "price": 88,
           "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444561231": {
+    "name": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Buy bread for programmers": "HK$ 8.00",
+      "Buy a coffee for PM": "HK$ 32.00",
+      "Buy a coffee for designer": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Buy bread for programmers": "HK$ 8.00",
+      "Buy a coffee for PM": "HK$ 32.00",
+      "Buy a coffee for designer": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Buy bread for programmers": "HK$ 8.00",
+            "Buy a coffee for PM": "HK$ 32.00",
+            "Buy a coffee for designer": "HK$ 18.00"
+          }
         }
       ]
     ]

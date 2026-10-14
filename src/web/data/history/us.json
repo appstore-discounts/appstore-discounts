@@ -4701,6 +4701,25 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Accordion Sweetener Pack": "$9.99",
+            "All Sweeteners": "$39.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Extended Frequency Modes": "$4.99",
+            "Buzz Feiten Pack": "$5.99",
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Harmonica Sweeteners": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791263120623,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -65196,7 +65215,8 @@
       "Toyota 2013 Enhanced Diagnostics": "$14.99",
       "Ford 2016 Enhanced Diagnostics": "$14.99",
       "Toyota 2016 Enhanced Diagnostics": "$14.99",
-      "Ford 2004 Enhanced Diagnostics": "$14.99"
+      "Ford 2004 Enhanced Diagnostics": "$14.99",
+      "Toyota 2014 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -65216,10 +65236,28 @@
       "Toyota 2013 Enhanced Diagnostics": "$14.99",
       "Ford 2016 Enhanced Diagnostics": "$14.99",
       "Toyota 2016 Enhanced Diagnostics": "$14.99",
-      "Ford 2004 Enhanced Diagnostics": "$14.99"
+      "Ford 2004 Enhanced Diagnostics": "$14.99",
+      "Toyota 2014 Enhanced Diagnostics": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1791936574895,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2004 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2014 Enhanced Diagnostics": "$14.99"
+          }
+        },
         {
           "timestamp": 1791886095337,
           "price": 9.99,
@@ -350827,6 +350865,25 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI iPhone X a 12 Pro Max": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791746494646,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -357705,6 +357762,39 @@
           "price": 9.99,
           "formattedPrice": "$9.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444561231": {
+    "trackId": 6444561231,
+    "trackName": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Buy bread for programmers": "$0.99",
+      "Buy a coffee for designer": "$1.99",
+      "Buy a coffee for PM": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Buy bread for programmers": "$0.99",
+      "Buy a coffee for designer": "$1.99",
+      "Buy a coffee for PM": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Buy bread for programmers": "$0.99",
+            "Buy a coffee for designer": "$1.99",
+            "Buy a coffee for PM": "$3.99"
+          }
         }
       ]
     ]

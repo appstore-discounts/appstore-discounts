@@ -52693,6 +52693,17 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "Object Pack": "$0.00",
+            "Premium": "$1,000.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760973174508,
           "price": 20,
           "formattedPrice": "$20.00",
@@ -314347,6 +314358,37 @@
           "price": 320,
           "formattedPrice": "$320.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444561231": {
+    "name": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Buy a coffee for PM": "$120.00",
+      "Buy bread for programmers": "$30.00",
+      "Buy a coffee for designer": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Buy a coffee for PM": "$120.00",
+      "Buy bread for programmers": "$30.00",
+      "Buy a coffee for designer": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Buy a coffee for PM": "$120.00",
+            "Buy bread for programmers": "$30.00",
+            "Buy a coffee for designer": "$60.00"
+          }
         }
       ]
     ]

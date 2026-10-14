@@ -43,6 +43,18 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "RadarScope Pro Subscription": "9,99 €",
+            "Pro Tier 1": "9,99 €",
+            "Pro Tier 2": "99,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775421722542,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -4289,7 +4301,9 @@
       "Tintype SnapPak": "0,99 €",
       "Groupie SnapPak": "0,99 €",
       "Jimbocho HipstaPak": "1,99 €",
-      "Saint-Germain HipstaPak": "1,99 €"
+      "Saint-Germain HipstaPak": "1,99 €",
+      "Dali GoodPak": "0,99 €",
+      "Levi's Photo Workshop Holiday GoodPak": "0,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -4329,9 +4343,30 @@
       "Tintype SnapPak": "0,99 €",
       "Groupie SnapPak": "0,99 €",
       "Jimbocho HipstaPak": "1,99 €",
-      "Saint-Germain HipstaPak": "1,99 €"
+      "Saint-Germain HipstaPak": "1,99 €",
+      "Dali GoodPak": "0,99 €",
+      "Levi's Photo Workshop Holiday GoodPak": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "0,99 €",
+            "Portland HipstaPak": "0,99 €",
+            "Shibuya HipstaPak": "0,99 €",
+            "Camden HipstaPak": "0,99 €",
+            "Mission Hipstapak": "0,99 €",
+            "Dali GoodPak": "0,99 €",
+            "Levi's Photo Workshop Holiday GoodPak": "0,99 €",
+            "Soho HipstaPak": "0,99 €",
+            "Bondi HipstaPak": "0,99 €",
+            "RetroPak One": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789253463981,
@@ -7455,6 +7490,18 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Dakota Map Pack": "0,99 €",
+            "Alaska Map Pack": "0,99 €",
+            "Unlock Everything": "7,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -10244,6 +10291,25 @@
       "My Pet Report": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "3,99 €",
+            "Birth Chart Report - Untimed": "2,99 €",
+            "Birthday Report": "3,99 €",
+            "Child Report - Full": "3,99 €",
+            "Child Report - Untimed": "2,99 €",
+            "My Pet Report": "1,99 €",
+            "Predictive Report - Full": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "Predictive Report - Untimed": "2,99 €",
+            "Relationship Report": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -21390,7 +21456,12 @@
       "Crystal Overclock": "0,99 €",
       "Magnetic Siphon": "0,99 €",
       "Harmonic Vibrations": "0,99 €",
-      "Unlock Anti-Vax": "0,99 €"
+      "Unlock Anti-Vax": "0,99 €",
+      "Desbloquear Parasita": "0,99 €",
+      "Desbloquear Fungo": "0,99 €",
+      "Desbloquear Príon": "0,99 €",
+      "Desbloquear NanoVírus": "0,99 €",
+      "Desbloquear Arma Biológica": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -21428,9 +21499,33 @@
       "Crystal Overclock": "0,99 €",
       "Magnetic Siphon": "0,99 €",
       "Harmonic Vibrations": "0,99 €",
-      "Unlock Anti-Vax": "0,99 €"
+      "Unlock Anti-Vax": "0,99 €",
+      "Desbloquear Parasita": "0,99 €",
+      "Desbloquear Fungo": "0,99 €",
+      "Desbloquear Príon": "0,99 €",
+      "Desbloquear NanoVírus": "0,99 €",
+      "Desbloquear Arma Biológica": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Desbloquear Parasita": "0,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Desbloquear Fungo": "0,99 €",
+            "Desbloquear Príon": "0,99 €",
+            "Desbloquear NanoVírus": "0,99 €",
+            "Desbloquear Arma Biológica": "0,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear Trapaças": "9,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -31947,6 +32042,25 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {
+            "BEAST OF SHADOWS": "0,00 €",
+            "STANDARD ROCK KIT": "0,00 €",
+            "A MAJOR'S LOW BLOW": "0,00 €",
+            "A MAJOR'S HIGH BROW": "0,00 €",
+            "LOW RIDER": "0,99 €",
+            "HIGH FIVE": "0,99 €",
+            "DEEP BLUE": "0,00 €",
+            "BLADE OF JUSTICE": "0,99 €",
+            "FUSION FLIPPO": "0,99 €",
+            "BEEPING BOBBIE": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791858533377,
           "price": 12.99,
           "formattedPrice": "12,99 €",
@@ -38907,6 +39021,25 @@
       "Lonely Mountain Add-on": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "2,99 €",
+            "DLC Sister in Arms (Special Price)": "1,99 €",
+            "Biomes Add-on": "1,99 €",
+            "Biomes Add-on (Special Price)": "0,99 €",
+            "Lonely Mountain Add-on": "7,99 €",
+            "Bosses & Monsters Add-on": "8,99 €",
+            "Heart of Evil Add-on": "7,99 €",
+            "Invasion Add-on": "5,99 €",
+            "Abandoned Mines Add-on": "0,99 €",
+            "Temples of 4 Elements Add-on": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -66025,6 +66158,25 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Micro Tip": "0,99 €",
+            "Small Tip": "0,99 €",
+            "Medium Tip": "1,99 €",
+            "Large Tip": "3,99 €",
+            "Super Tip": "5,99 €",
+            "Mega Tip": "6,99 €",
+            "Super Mega Tip": "9,99 €",
+            "Super Smashing Tip": "19,99 €",
+            "Super Mega Smashing Tip": "34,99 €",
+            "The Ultimate Tip": "59,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789505670372,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -91932,6 +92084,25 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Major Jazz Blues 12 key": "5,99 €",
+            "Swing Ⅱ-V-I-VI 12key (Short)": "5,99 €",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "5,99 €",
+            "Bossa Nova Blues 12key": "2,99 €",
+            "Slow Funky Groove 12key": "5,99 €",
+            "Neo Soul Jam Track 12key": "5,99 €",
+            "Ⅱ-Ⅴ Reharmonization 12key": "2,99 €",
+            "So beautiful 12key": "5,99 €",
+            "Metheny & Mehldau": "5,99 €",
+            "Bird Blues Changes 12key": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1769956421627,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -105757,6 +105928,21 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "One house gem": "99,99 €",
+            "A mine car gem": "59,99 €",
+            "A large box of gemstones": "22,99 €",
+            "A small box of gemstones": "9,99 €",
+            "A small bag of precious stones": "5,99 €",
+            "a small handful of gem": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791207805972,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -112238,6 +112424,14 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 4.59,
+          "formattedPrice": "4,59 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790726691370,
           "price": 2.29,
           "formattedPrice": "2,29 €",
@@ -117837,6 +118031,25 @@
       "Jingle": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Bella": "1,99 €",
+            "Gizmo": "1,99 €",
+            "Toby": "1,99 €",
+            "Simba": "1,99 €",
+            "Lucky": "1,99 €",
+            "Coco": "1,99 €",
+            "Loki": "1,99 €",
+            "Forest": "2,99 €",
+            "Sky": "2,99 €",
+            "Moonnight": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -135005,6 +135218,17 @@
     "history": [
       [
         {
+          "timestamp": 1791936574895,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Hunter's Pack": "1,99 €",
+            "Steyr Arms Pack": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -149885,6 +150109,39 @@
           "price": 9.99,
           "formattedPrice": "9,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444561231": {
+    "trackId": 6444561231,
+    "trackName": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Buy a coffee for PM": "3,99 €",
+      "Buy bread for programmers": "0,99 €",
+      "Buy a coffee for designer": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Buy a coffee for PM": "3,99 €",
+      "Buy bread for programmers": "0,99 €",
+      "Buy a coffee for designer": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791936574895,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Buy a coffee for PM": "3,99 €",
+            "Buy bread for programmers": "0,99 €",
+            "Buy a coffee for designer": "1,99 €"
+          }
         }
       ]
     ]
