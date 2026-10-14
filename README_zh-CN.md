@@ -67,6 +67,8 @@ App 价格经常变化，手动检查既繁琐也容易错过优惠。本项目�
 点击 [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel") 订阅
 ## 钉钉
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,tzuNlnnwVLRCmrTUa4cHymeJCIcRiimCcPThTO3THLQ=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
+
+[配置国家和 App 通知筛选](./docs/NOTIFICATION_FILTERS.md)
 # 运行机制及流程
 本项目基于 `GitHub Actions` 定时任务（每 `180` 分钟）自动执行以下流程：
 ```mermaid

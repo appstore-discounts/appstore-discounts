@@ -78,6 +78,10 @@ export default function Subscription() {
           </Link>,
         )} `,
       )}
+      {'\n\n'}
+      <Link href="./docs/NOTIFICATION_FILTERS.md">
+        {t('配置国家和 App 通知筛选')}
+      </Link>
     </>
   )
 }
