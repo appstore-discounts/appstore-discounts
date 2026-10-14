@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 288419283,
+    "region": "pt",
+    "timestamp": 1791966321053,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pro Tier 2",
+        "from": "99,99 €",
+        "to": "14,99 €",
+        "range": "[14,99 € ~ 99,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id288419283",
+    "trackName": "RadarScope",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6757943661,
+    "region": "pt",
+    "timestamp": 1791966321053,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6757943661",
+    "trackName": "阿福出境管家-签证通过率评估与材料清单",
+    "firstRecordedAt": 1778176443977
+  },
+  {
     "trackId": 633600716,
     "region": "pt",
     "timestamp": 1791917735754,
