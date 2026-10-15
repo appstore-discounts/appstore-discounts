@@ -140879,7 +140879,7 @@
       "price": 5.99,
       "formattedPrice": "5,99 €",
       "Full Version Unlock": "5,99 €",
-      "BikeControl Pro": "2,79 €",
+      "BikeControl Pro": "27,99 €",
       "BikeControl Pro - Yearly": "24,99 €"
     },
     "minPriceInfo": {
@@ -140890,6 +140890,18 @@
       "BikeControl Pro - Yearly": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792097910583,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Full Version Unlock": "5,99 €",
+            "BikeControl Pro": "27,99 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
