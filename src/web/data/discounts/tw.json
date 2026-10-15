@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 510249014,
+    "region": "tw",
+    "timestamp": 1792081393556,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id510249014",
+    "trackName": "水準管 HD",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6471594918,
+    "region": "tw",
+    "timestamp": 1792081393556,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$190.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $290.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1391571907,
     "region": "tw",
     "timestamp": 1792061720856,

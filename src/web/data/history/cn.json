@@ -28689,6 +28689,14 @@
     "history": [
       [
         {
+          "timestamp": 1792081393556,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -100378,6 +100386,25 @@
     "history": [
       [
         {
+          "timestamp": 1792081393556,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "96钻石": "¥6.00",
+            "天天好礼6元礼包": "¥6.00",
+            "天天好礼12元礼包": "¥12.00",
+            "雷杰多礼包": "¥18.00",
+            "天天好礼18元礼包": "¥18.00",
+            "天天好礼3元礼包": "¥3.00",
+            "天天好礼25元礼包": "¥25.00",
+            "60星钻": "¥6.00",
+            "10金币": "¥6.00",
+            "30金币": "¥18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792061720856,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -161459,7 +161486,7 @@
   },
   "1630541373": {
     "trackId": 1630541373,
-    "trackName": "隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM",
+    "trackName": "私密相册：隐藏照片和视频、私人保险箱 - PRAM",
     "region": "cn",
     "maxPriceInfo": {
       "price": 8,
@@ -183530,6 +183557,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792081393556,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784671382142,
@@ -229367,14 +229402,22 @@
     "trackName": "Aurora Tromsø",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792081393556,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,
