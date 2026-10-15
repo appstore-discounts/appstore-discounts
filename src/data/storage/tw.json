@@ -2852,6 +2852,25 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "World Sweetener Pack": "$320.00",
+            "Steel Guitar Sweeteners": "$490.00",
+            "Orchestral Sweeteners": "$190.00",
+            "Misc Stringed Sweeteners": "$120.00",
+            "Keyboard Sweeteners": "$690.00",
+            "Harp Sweeteners": "$190.00",
+            "Harmonica Sweeteners": "$320.00",
+            "Guitar & Bass Sweeteners": "$190.00",
+            "Buzz Feiten Pack": "$190.00",
+            "Extended Frequency Modes": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788950979690,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -87858,6 +87877,27 @@
       ]
     ]
   },
+  "1005098334": {
+    "name": "Human Resource Machine",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "name": "The Escapists: Prison Escape",
     "maxPriceInfo": {
@@ -147753,13 +147793,28 @@
     "name": "Fine修圖",
     "maxPriceInfo": {
       "price": 220,
-      "formattedPrice": "$220.00"
+      "formattedPrice": "$220.00",
+      "年度方案": "$790.00",
+      "月度方案": "$120.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度方案": "$790.00",
+      "月度方案": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度方案": "$790.00",
+            "月度方案": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -165571,6 +165626,25 @@
       "Cosmetic Crystal": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "$690.00",
+            "Dynasty Pet": "$490.00",
+            "Ultimate Amulet": "$190.00",
+            "Ultimate Ring": "$190.00",
+            "Ultimate Pet": "$190.00",
+            "Ultimate Ancient": "$390.00",
+            "Royal Rune": "$90.00",
+            "Norths Warden Pet Pack": "$490.00",
+            "Norths Warden Set": "$690.00",
+            "Black Friday Combo Items": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786336645189,
@@ -208480,14 +208554,22 @@
   "1596736236": {
     "name": "Rovio Classics: Angry Birds",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -218408,7 +218490,7 @@
     ]
   },
   "1630541373": {
-    "name": "Private Album - PRAM",
+    "name": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
@@ -244987,6 +245069,25 @@
       "1980金磚": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "120金磚": "$60.00",
+            "背包擴展": "$60.00",
+            "戰鬥獎勵雙倍": "$60.00",
+            "3280金磚": "$1,490.00",
+            "1280金磚": "$690.00",
+            "300金磚": "$150.00",
+            "980金磚": "$490.00",
+            "6480金磚": "$2,990.00",
+            "1980金磚": "$990.00",
+            "60金磚": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790552524601,
@@ -313839,7 +313940,8 @@
       "塔 奧術鍛造匠": "$150.00",
       "全英雄禮包_B": "$790.00",
       "英雄 羅德": "$150.00",
-      "一箱寶石": "$690.00"
+      "一箱寶石": "$690.00",
+      "一袋寶石": "$150.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -313868,10 +313970,28 @@
       "塔 奧術鍛造匠": "$150.00",
       "全英雄禮包_B": "$790.00",
       "英雄 羅德": "$150.00",
-      "一箱寶石": "$690.00"
+      "一箱寶石": "$690.00",
+      "一袋寶石": "$150.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1792061720856,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包": "$990.00",
+            "英雄 鬼侍": "$150.00",
+            "全英雄禮包_B": "$790.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "一箱寶石": "$690.00",
+            "一袋寶石": "$150.00"
+          }
+        },
         {
           "timestamp": 1792034629201,
           "price": 220,
@@ -314916,10 +315036,18 @@
       "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 250,
+      "formattedPrice": "$250.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 250,
+          "formattedPrice": "$250.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791800239201,

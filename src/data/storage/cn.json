@@ -9257,6 +9257,25 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00",
+            "Satie: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791917735754,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -77892,6 +77911,24 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "周卡": "¥12.00",
+            "少量信用点": "¥6.00",
+            "大月卡": "¥45.00",
+            "小月卡": "¥25.00",
+            "中等信用点": "¥12.00",
+            "福利升级": "¥6.00",
+            "超多信用点": "¥50.00",
+            "大量信用点": "¥25.00",
+            "海量信用点": "¥108.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791692106771,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -99195,6 +99232,23 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "96钻石": "¥6.00",
+            "天天好礼6元礼包": "¥6.00",
+            "天天好礼12元礼包": "¥12.00",
+            "雷杰多礼包": "¥18.00",
+            "天天好礼18元礼包": "¥18.00",
+            "天天好礼3元礼包": "¥3.00",
+            "天天好礼25元礼包": "¥25.00",
+            "60星钻": "¥6.00",
+            "10金币": "¥6.00",
+            "天天好礼1元礼包": "¥1.00"
+          }
+        },
+        {
           "timestamp": 1792034629201,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -109729,13 +109783,28 @@
     "name": "Fine修图",
     "maxPriceInfo": {
       "price": 48,
-      "formattedPrice": "¥48.00"
+      "formattedPrice": "¥48.00",
+      "年度会员": "¥168.00",
+      "月度会员": "¥28.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免费"
+      "formattedPrice": "免费",
+      "年度会员": "¥168.00",
+      "月度会员": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "年度会员": "¥168.00",
+            "月度会员": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -184460,6 +184529,23 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "五子良将": "¥36.00",
+            "无双战神": "¥36.00",
+            "冠绝天下": "¥36.00",
+            "重振汉室": "¥18.00",
+            "斜谷残阳": "¥36.00"
+          }
+        },
+        {
           "timestamp": 1792021392549,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -213617,6 +213703,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792061720856,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "扩充章节 U": "¥28.00",
+            "里莫的秘密书房: 白金方案": "¥28.80",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "调律计划：PinocchioP精选辑": "¥28.00",
+            "调律计划：虚拟歌手精选辑": "¥28.00",
+            "扩充章节 H": "¥28.00",
+            "十周年纪念章节 重逢之音 Phase II": "¥35.00",
+            "扩充章节 R": "¥28.00"
+          }
+        },
         {
           "timestamp": 1792034629201,
           "price": 6,

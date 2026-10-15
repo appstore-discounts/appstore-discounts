@@ -91976,6 +91976,29 @@
       ]
     ]
   },
+  "1005098334": {
+    "trackId": 1005098334,
+    "trackName": "Human Resource Machine",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "trackId": 1005658093,
     "trackName": "The Escapists: Prison Escape",
@@ -145955,13 +145978,28 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "formattedPrice": "₺399,99",
+      "Yearly": "₺999,99",
+      "Monthly": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Yearly": "₺999,99",
+      "Monthly": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly": "₺999,99",
+            "Monthly": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -213683,14 +213721,22 @@
     "trackName": "Red's First Flight",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -213789,6 +213835,25 @@
       "Opposing Fronts - Russian": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 649,
+          "formattedPrice": "₺649,00",
+          "inAppPurchases": {
+            "German Audio": "₺0,00",
+            "Tales of Valor - Russian": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "Tales of Valor - Spanish": "₺0,00",
+            "Opposing Fronts - French": "₺0,00",
+            "Opposing Fronts - Spanish": "₺0,00",
+            "Tales of Valor - French": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "High-Quality Models": "₺0,00",
+            "French Audio": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786682840855,
@@ -221627,7 +221692,7 @@
   },
   "1630541373": {
     "trackId": 1630541373,
-    "trackName": "Private Album - PRAM",
+    "trackName": "Photo Vault: Hide Pics - PRAM",
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
@@ -297179,10 +297244,18 @@
       "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791800239201,

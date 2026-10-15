@@ -39811,6 +39811,25 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "AH-64 Apache": "HK$ 22.00",
+            "Bell 222 Airwolf": "HK$ 22.00",
+            "TRex 500": "HK$ 22.00",
+            "TRex 700 N": "HK$ 22.00",
+            "Fremont RC Club": "HK$ 22.00",
+            "Livermore RC Club": "HK$ 22.00",
+            "Vaca Valley RC Club": "HK$ 22.00",
+            "Bell 47": "HK$ 22.00",
+            "Bell 222": "HK$ 22.00",
+            "Hughes 500": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788208825680,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -88764,6 +88783,29 @@
           "timestamp": 1772893888845,
           "price": 288,
           "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1005098334": {
+    "trackId": 1005098334,
+    "trackName": "Human Resource Machine",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]
@@ -150396,13 +150438,28 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "formattedPrice": "HK$ 58.00",
+      "年度方案": "HK$ 188.00",
+      "月度方案": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度方案": "HK$ 188.00",
+      "月度方案": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度方案": "HK$ 188.00",
+            "月度方案": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -177896,6 +177953,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792061720856,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "City Break": "HK$ 22.00",
+            "Astronaut Token Sale": "HK$ 22.00",
+            "Jin Token": "HK$ 88.00",
+            "The Ultimate Edition": "HK$ 368.00",
+            "New York 2121 Board": "HK$ 58.00",
+            "Natural Wonders": "HK$ 22.00",
+            "The Ultimate Edition Sale": "HK$ 188.00",
+            "Speed Die": "HK$ 118.00"
+          }
+        },
         {
           "timestamp": 1792005058089,
           "price": 38,
@@ -264099,6 +264173,25 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Concorde": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791917735754,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -304791,6 +304884,21 @@
       "700 Diamonds": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "HK$ 18.00",
+            "120 Diamonds": "HK$ 32.00",
+            "4000 Diamonds": "HK$ 788.00",
+            "50 Diamonds": "HK$ 18.00",
+            "16 Base Heroes Unlock Pack": "HK$ 288.00",
+            "700 Diamonds": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788364904788,

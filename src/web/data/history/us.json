@@ -29984,6 +29984,25 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mystery Duck Sale Pack": "$0.99",
+            "Cranky Sale Pack": "$0.99",
+            "Allie Sale Pack": "$0.99",
+            "Locksmith - All Allie Locks": "$1.99",
+            "Allie's Story": "$0.99",
+            "Sale Pack": "$3.99",
+            "Locksmith - One Lock": "$0.99",
+            "Mystery Duck": "$2.99",
+            "Locksmith - All Mystery Locks": "$4.99",
+            "Locksmith - All Cranky Locks": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789529534995,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -65376,6 +65395,25 @@
       "Toyota 2014 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2004 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2016 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792034629201,
@@ -100973,6 +101011,29 @@
           "timestamp": 1772893888845,
           "price": 39.99,
           "formattedPrice": "$39.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1005098334": {
+    "trackId": 1005098334,
+    "trackName": "Human Resource Machine",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]
@@ -154753,6 +154814,25 @@
     "history": [
       [
         {
+          "timestamp": 1792061720856,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "TeaSet DarkLord Skin Package C": "$4.99",
+            "Teaset Dark Lord Skin PackageB": "$4.99",
+            "Teaset DarkLord Skin Package A": "$4.99",
+            "Little Corr. Hero costume Pack": "$25.99",
+            "Little Hero Costume Package": "$25.99",
+            "Black Dark Lord Skin Package": "$7.99",
+            "White Dark Lord Skin Package": "$7.99",
+            "Awakening Viper Package": "$4.99",
+            "Myth full pack": "$39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -166003,13 +166083,28 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "$6.99"
+      "formattedPrice": "$6.99",
+      "Yearly": "$24.99",
+      "Monthly": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Yearly": "$24.99",
+      "Monthly": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly": "$24.99",
+            "Monthly": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -194814,7 +194909,17 @@
       "Glow in the Dark Dice": "$4.99",
       "Glow in the Dark Ghost": "$3.49",
       "Glow in the Dark Alien": "$3.49",
-      "Glow in the Dark Frog": "$3.49"
+      "Glow in the Dark Frog": "$3.49",
+      "Alien Kintsugi Token": "$3.49",
+      "Posiden Kintsugi Token": "$3.49",
+      "Hypocampus Kintsugi Token": "$3.49",
+      "Hydra Kintsugi Token": "$3.49",
+      "Boat Kintsugi Token": "$3.49",
+      "Lantern Kintsugi Token": "$3.49",
+      "Kintsugi Dice": "$4.99",
+      "Victorian Kintsugi Tokens": "$11.99",
+      "New York Kintsugi Tokens": "$11.99",
+      "Transylvania Kintsugi Tokens": "$11.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -195004,9 +195109,38 @@
       "Glow in the Dark Dice": "$4.99",
       "Glow in the Dark Ghost": "$3.49",
       "Glow in the Dark Alien": "$3.49",
-      "Glow in the Dark Frog": "$3.49"
+      "Glow in the Dark Frog": "$3.49",
+      "Alien Kintsugi Token": "$3.49",
+      "Posiden Kintsugi Token": "$3.49",
+      "Hypocampus Kintsugi Token": "$3.49",
+      "Hydra Kintsugi Token": "$3.49",
+      "Boat Kintsugi Token": "$3.49",
+      "Lantern Kintsugi Token": "$3.49",
+      "Kintsugi Dice": "$4.99",
+      "Victorian Kintsugi Tokens": "$11.99",
+      "New York Kintsugi Tokens": "$11.99",
+      "Transylvania Kintsugi Tokens": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Alien Kintsugi Token": "$3.49",
+            "Posiden Kintsugi Token": "$3.49",
+            "Hypocampus Kintsugi Token": "$3.49",
+            "Hydra Kintsugi Token": "$3.49",
+            "Boat Kintsugi Token": "$3.49",
+            "Lantern Kintsugi Token": "$3.49",
+            "Kintsugi Dice": "$4.99",
+            "Victorian Kintsugi Tokens": "$11.99",
+            "New York Kintsugi Tokens": "$11.99",
+            "Transylvania Kintsugi Tokens": "$11.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790656083068,
@@ -242798,14 +242932,22 @@
     "trackName": "Red's First Flight",
     "region": "us",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -248730,6 +248872,25 @@
       "Hero Bomett On Sale": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Hero Zhara": "$4.99",
+            "Starter Pack": "$4.99",
+            "Hero Gauntlet": "$4.99",
+            "Special Daily Pack7": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -255101,7 +255262,7 @@
   },
   "1630541373": {
     "trackId": 1630541373,
-    "trackName": "Private Album - PRAM",
+    "trackName": "Hide Photos & Videos - PRAM",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,

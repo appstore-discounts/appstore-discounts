@@ -90760,6 +90760,27 @@
       ]
     ]
   },
+  "1005098334": {
+    "name": "Human Resource Machine",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "name": "The Escapists: Prison Escape",
     "maxPriceInfo": {
@@ -144069,13 +144090,28 @@
     "name": "Fine - Photo Editor",
     "maxPriceInfo": {
       "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "formattedPrice": "₺399,99",
+      "Yearly": "₺999,99",
+      "Monthly": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Yearly": "₺999,99",
+      "Monthly": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly": "₺999,99",
+            "Monthly": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -210977,14 +211013,22 @@
   "1596736236": {
     "name": "Red's First Flight",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -211079,6 +211123,25 @@
       "Opposing Fronts - Russian": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 649,
+          "formattedPrice": "₺649,00",
+          "inAppPurchases": {
+            "German Audio": "₺0,00",
+            "Tales of Valor - Russian": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "Tales of Valor - Spanish": "₺0,00",
+            "Opposing Fronts - French": "₺0,00",
+            "Opposing Fronts - Spanish": "₺0,00",
+            "Tales of Valor - French": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "High-Quality Models": "₺0,00",
+            "French Audio": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786682840855,
@@ -218786,7 +218849,7 @@
     ]
   },
   "1630541373": {
-    "name": "Private Album - PRAM",
+    "name": "Photo Vault: Hide Pics - PRAM",
     "maxPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99",
@@ -292841,10 +292904,18 @@
       "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791800239201,

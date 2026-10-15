@@ -45657,6 +45657,29 @@
       ]
     ]
   },
+  "1005098334": {
+    "trackId": 1005098334,
+    "trackName": "Human Resource Machine",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "trackId": 1005658093,
     "trackName": "The Escapists: Prison Escape",
@@ -71965,13 +71988,28 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "formattedPrice": "7,99 €",
+      "Anual": "29,99 €",
+      "Mensal": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Anual": "29,99 €",
+      "Mensal": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Anual": "29,99 €",
+            "Mensal": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -86070,6 +86108,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792061720856,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Elite Offer": "4,99 €",
+            "Evoker Package": "4,99 €",
+            "Crystal Offer": "10,99 €",
+            "Intro Offer (low)": "2,99 €",
+            "Master Package": "10,99 €",
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 500": "2,99 €",
+            "Hunter Package": "4,99 €",
+            "Prime Gemma 1200": "4,99 €"
+          }
+        },
         {
           "timestamp": 1792034629201,
           "price": 4.99,
@@ -101482,14 +101537,22 @@
     "trackName": "Rovio Classics: Angry Birds",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -105751,7 +105814,7 @@
   },
   "1630541373": {
     "trackId": 1630541373,
-    "trackName": "Private Album - PRAM",
+    "trackName": "Esconder Fotos e Vídeos - PRAM",
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,
@@ -109097,6 +109160,20 @@
       "Filtr": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Filtr": "29,99 €",
+            "Yearly Recurring Tip": "9,99 €",
+            "Monthly Recurring Tip": "1,99 €",
+            "Mega Tip": "22,99 €",
+            "Tip": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791720642119,

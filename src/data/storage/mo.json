@@ -70632,6 +70632,27 @@
       ]
     ]
   },
+  "1005098334": {
+    "name": "Human Resource Machine",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "name": "The Escapists: Prison Escape",
     "maxPriceInfo": {
@@ -111480,13 +111501,28 @@
     "name": "Fine修圖",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "formattedPrice": "USD 6.99",
+      "年度方案": "USD 24.99",
+      "月度方案": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度方案": "USD 24.99",
+      "月度方案": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度方案": "USD 24.99",
+            "月度方案": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -155056,14 +155092,22 @@
   "1596736236": {
     "name": "Rovio Classics: Angry Birds",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -210218,6 +210262,21 @@
       "700 Diamonds": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792061720856,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788364904788,
