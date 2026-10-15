@@ -59939,6 +59939,23 @@
     "history": [
       [
         {
+          "timestamp": 1792034629201,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "USD 8.99",
+            "第12課教學影片": "USD 0.99",
+            "第11課教學影片": "USD 0.99",
+            "第10課教學影片": "USD 0.99",
+            "第09課教學影片": "USD 0.99",
+            "第08課教學影片": "USD 0.99",
+            "第07課教學影片": "USD 0.99",
+            "第06課教學影片": "USD 0.99",
+            "第05課教學影片": "USD 0.99",
+            "第04課教學影片": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1792021392549,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -183359,7 +183376,12 @@
       "Season Pass 2": "USD 49.99",
       "Season Pass 1": "USD 49.99",
       "Customisation Mega Bundle": "USD 19.99",
-      "The Welcome Offer": "USD 59.99"
+      "The Welcome Offer": "USD 59.99",
+      "Ultimate Bundle": "USD 64.99",
+      "New York Map": "USD 9.99",
+      "France Map": "USD 9.99",
+      "Nederlands Map": "USD 9.99",
+      "Iberia Map": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -183424,9 +183446,29 @@
       "Season Pass 2": "USD 49.99",
       "Season Pass 1": "USD 49.99",
       "Customisation Mega Bundle": "USD 19.99",
-      "The Welcome Offer": "USD 59.99"
+      "The Welcome Offer": "USD 59.99",
+      "Ultimate Bundle": "USD 64.99",
+      "New York Map": "USD 9.99",
+      "France Map": "USD 9.99",
+      "Nederlands Map": "USD 9.99",
+      "Iberia Map": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792034629201,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Welcome Offer": "USD 29.99",
+            "Ultimate Bundle": "USD 64.99",
+            "New York Map": "USD 9.99",
+            "France Map": "USD 9.99",
+            "Nederlands Map": "USD 9.99",
+            "Iberia Map": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791917735754,

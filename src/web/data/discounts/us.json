@@ -1,5 +1,185 @@
 [
   {
+    "trackId": 549432607,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1478611992,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.49",
+        "range": "[$1.99 ~ $5.99]"
+      }
+    ],
+    "price": 2.49,
+    "formattedPrice": "$2.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1478611992",
+    "trackName": "Farming Simulator 20",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 1481181827,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $8.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1481181827",
+    "trackName": "Aces of the Luftwaffe Squadron",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 1571643809,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 1592505377,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$2.99",
+        "range": "[$0.49 ~ $10.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1642715290,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $10.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642715290",
+    "trackName": "Little Big Workshop",
+    "firstRecordedAt": 1745492532710
+  },
+  {
+    "trackId": 6444400410,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $7.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6444400410",
+    "trackName": "Farming Simulator 23 Mobile",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6445992619,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $10.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6445992619",
+    "trackName": "SpongeBob - The Cosmic Shake",
+    "firstRecordedAt": 1767364108321
+  },
+  {
+    "trackId": 6748056918,
+    "region": "us",
+    "timestamp": 1792034629201,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$7.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $7.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6748056918",
+    "trackName": "Farming Simulator 26 Mobile",
+    "firstRecordedAt": 1779184723397
+  },
+  {
     "trackId": 968820626,
     "region": "us",
     "timestamp": 1792005058089,
@@ -17487,7 +17667,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$5.99",
-        "range": "[$3.49 ~ $7.99]"
+        "range": "[$2.99 ~ $7.99]"
       }
     ],
     "price": 5.99,
@@ -18086,7 +18266,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$3.49",
-        "range": "[$3.49 ~ $7.99]"
+        "range": "[$2.99 ~ $7.99]"
       }
     ],
     "price": 3.49,
