@@ -1993,7 +1993,7 @@ So far, we've covered `7` `Countries or Regions` and  `2337` `Apps` <br />Push n
 |354|1504760106|Automatic|❌|Eco Inc. 拯救地球|Eco Inc. 拯救地球|Eco Inc. 拯救地球|Eco inc. Save the Earth|Eco inc. Save the Earth|Eco Inc. Salve o Planeta|
 |353|1504952058|Automatic|❌|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|
 |352|1505636751|Automatic|❌|TeleGuard|TeleGuard|TeleGuard|TeleGuard|TeleGuard|TeleGuard|
-|351|1509344823|Automatic|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|
+|351|1509344823|Automatic|Ezberle - Kalıcı Kelime Öğren|Ezberle - Kalıcı Kelime Öğren|Ezberle - Kalıcı Kelime Öğren|Ezberle - Kalıcı Kelime Öğren|Ezberle - Kalıcı Kelime Öğren|Ezberle - Kalıcı Kelime Öğren|Ezberle - Kalıcı Kelime Öğren|
 |350| ~~1512751689~~ |Automatic| ~~❌~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ | ~~The Game of Life 2~~ | ~~❌~~ |
 |349|1515215584|Automatic|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|RakugakiAR|
 |348|1515382132|Automatic|❌|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|
