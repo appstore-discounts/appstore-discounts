@@ -39236,6 +39236,14 @@
     "history": [
       [
         {
+          "timestamp": 1792166954412,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -46954,6 +46962,25 @@
       "涨停助手年版": "¥998.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "¥8.00",
+            "金牛会员连续包月": "¥6.00",
+            "手机高级诊股连续包月": "¥8.00",
+            "手机超级Level-2连续包半年": "¥48.00",
+            "手机Level-2包年服务": "¥88.00",
+            "金牛会员尊享版连续包年": "¥98.00",
+            "金牛会员月版": "¥18.00",
+            "手机超级Level2两年版": "¥158.00",
+            "主力密码连续包月": "¥118.00",
+            "短线宝连续包月": "¥138.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792021392549,
@@ -110990,18 +111017,33 @@
     ]
   },
   "1422480068": {
-    "name": "Notes Writer Pro：不止 PDF, 笔记和",
+    "name": "Notes Writer Browser: Nautilus",
     "maxPriceInfo": {
       "price": 69.9,
       "formattedPrice": "¥69.90",
-      "Notes Writer Pro AI Assistant": "¥28.00"
+      "Notes Writer Pro AI Assistant": "¥28.00",
+      "Nautilus Unlock All and AI": "¥69.90",
+      "Nautilus Pro Lifetime": "¥69.90"
     },
     "minPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00",
-      "Notes Writer Pro AI Assistant": "¥15.00"
+      "price": 0,
+      "formattedPrice": "免费",
+      "Notes Writer Pro AI Assistant": "¥15.00",
+      "Nautilus Unlock All and AI": "¥69.90",
+      "Nautilus Pro Lifetime": "¥69.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "¥69.90",
+            "Nautilus Pro Lifetime": "¥69.90"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -229952,7 +229994,7 @@
     ]
   },
   "6757943661": {
-    "name": "阿福出境管家-签证通过率评估与材料清单",
+    "name": "阿福出境管家 - 签证通过率评估与材料清单",
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "¥18.00",
@@ -233505,6 +233547,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,

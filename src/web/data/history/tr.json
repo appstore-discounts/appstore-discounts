@@ -56704,6 +56704,14 @@
     "history": [
       [
         {
+          "timestamp": 1792166954412,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780566948389,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -94325,7 +94333,17 @@
       "Project Tuning: Scattered Echoes 1": "₺199,99",
       "Challenge Pass \"Fallen Resonance\"": "₺149,99",
       "Medium bottle of Chiming Core": "₺249,99",
-      "Sound of Reunion: Phase I": "₺249,99"
+      "Sound of Reunion: Phase I": "₺249,99",
+      "Challenge Pass \"Virtual Campus\"": "₺149,99",
+      "Secret Library Selection 13-P": "₺199,99",
+      "Secret Library Selection 15-P": "₺199,99",
+      "Secret Library Selection 13": "₺399,99",
+      "Secret Library Selection 13-B": "₺399,99",
+      "Secret Library Selection 14": "₺399,99",
+      "Secret Library Selection 15-B": "₺399,99",
+      "Secret Library Selection 14-P": "₺199,99",
+      "Secret Library Selection 15": "₺399,99",
+      "Secret Library Selection 14-B": "₺399,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -94372,9 +94390,38 @@
       "Project Tuning: Scattered Echoes 1": "₺199,99",
       "Challenge Pass \"Fallen Resonance\"": "₺149,99",
       "Medium bottle of Chiming Core": "₺249,99",
-      "Sound of Reunion: Phase I": "₺249,99"
+      "Sound of Reunion: Phase I": "₺249,99",
+      "Challenge Pass \"Virtual Campus\"": "₺149,99",
+      "Secret Library Selection 13-P": "₺199,99",
+      "Secret Library Selection 15-P": "₺199,99",
+      "Secret Library Selection 13": "₺399,99",
+      "Secret Library Selection 13-B": "₺399,99",
+      "Secret Library Selection 14": "₺399,99",
+      "Secret Library Selection 15-B": "₺399,99",
+      "Secret Library Selection 14-P": "₺199,99",
+      "Secret Library Selection 15": "₺399,99",
+      "Secret Library Selection 14-B": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Challenge Pass \"Virtual Campus\"": "₺149,99",
+            "Secret Library Selection 13-P": "₺199,99",
+            "Secret Library Selection 15-P": "₺199,99",
+            "Secret Library Selection 13": "₺399,99",
+            "Secret Library Selection 13-B": "₺399,99",
+            "Secret Library Selection 14": "₺399,99",
+            "Secret Library Selection 15-B": "₺399,99",
+            "Secret Library Selection 14-P": "₺199,99",
+            "Secret Library Selection 15": "₺399,99",
+            "Secret Library Selection 14-B": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787111112140,
@@ -116932,6 +116979,25 @@
       "Coupé Style Pack": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 349,
+          "formattedPrice": "₺349,00",
+          "inAppPurchases": {
+            "HD Textures": "₺0,00",
+            "Party Mode HD Textures": "₺0,00",
+            "Street HD Textures": "₺0,00",
+            "Tuner HD Textures": "₺0,00",
+            "Open Wheel HD Textures": "₺0,00",
+            "Endurance HD Textures": "₺0,00",
+            "Touring HD Textures": "₺0,00",
+            "All DLC": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Best of British Pack": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789470674397,
@@ -147337,22 +147403,33 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Notes Writer Pro: Beyond PDFs",
+    "trackName": "Notes Writer Browser: Nautilus",
     "region": "tr",
     "maxPriceInfo": {
       "price": 390,
       "formattedPrice": "₺390,00",
       "Notes Writer Pro AI Assistant": "₺179,99",
-      "Nautilus Unlock All and AI": "₺149,00"
+      "Nautilus Unlock All and AI": "₺490,00",
+      "Nautilus Pro Lifetime": "₺390,00"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Notes Writer Pro AI Assistant": "₺79,99",
-      "Nautilus Unlock All and AI": "₺149,00"
+      "Nautilus Unlock All and AI": "₺149,00",
+      "Nautilus Pro Lifetime": "₺390,00"
     },
     "history": [
       [
+        {
+          "timestamp": 1792166954412,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "₺490,00",
+            "Nautilus Pro Lifetime": "₺390,00"
+          }
+        },
         {
           "timestamp": 1792147638203,
           "price": 390,
@@ -165446,6 +165523,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792166954412,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Emberwing Token": "₺499,99",
+            "The Dragon": "₺199,99",
+            "Transylvania Dice": "₺249,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99"
+          }
+        },
         {
           "timestamp": 1792107485359,
           "price": 249.99,
@@ -240232,6 +240326,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792166954412,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Round the World Ticket": "₺2.499,99",
+            "Europe Expansion": "₺799,99",
+            "Europe Map": "₺699,99",
+            "1910 Ticket Pack": "₺199,99",
+            "Japan Expansion": "₺699,99",
+            "Legendary Asia Map": "₺499,99",
+            "Ticket to Ride ChristmasBundle": "₺499,99",
+            "Germany Expansion": "₺699,99",
+            "Legendary Asia Expansion": "₺699,99",
+            "Welcome Offer": "₺1.499,99"
+          }
+        },
         {
           "timestamp": 1792147638203,
           "price": 249.99,

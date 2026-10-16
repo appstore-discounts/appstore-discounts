@@ -10909,6 +10909,25 @@
     "history": [
       [
         {
+          "timestamp": 1792166954412,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "HK$ 188.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Haydn: String Quartets": "HK$ 18.00",
+            "Christmas Carol Collection": "HK$ 18.00",
+            "Bach: Cello Suites": "HK$ 18.00",
+            "Vivaldi: The Four Seasons": "HK$ 18.00",
+            "Mozart: Twelve Duets": "HK$ 18.00",
+            "The Mutopia Piano Collection": "HK$ 38.00",
+            "forScore Pro": "HK$ 118.00",
+            "Voluntary Upgrade": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -30663,7 +30682,9 @@
       "Furniture Starter Pack": "HK$ 88.00",
       "Structures Starter Pack": "HK$ 48.00",
       "Creepy Starter Pack": "HK$ 88.00",
-      "Cuddly Starter Pack": "HK$ 48.00"
+      "Cuddly Starter Pack": "HK$ 48.00",
+      "Explorer Starter Pack": "HK$ 88.00",
+      "Farming Starter Pack": "HK$ 48.00"
     },
     "minPriceInfo": {
       "price": 48,
@@ -30700,9 +30721,30 @@
       "Furniture Starter Pack": "HK$ 88.00",
       "Structures Starter Pack": "HK$ 48.00",
       "Creepy Starter Pack": "HK$ 88.00",
-      "Cuddly Starter Pack": "HK$ 48.00"
+      "Cuddly Starter Pack": "HK$ 48.00",
+      "Explorer Starter Pack": "HK$ 88.00",
+      "Farming Starter Pack": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 56,
+          "formattedPrice": "HK$ 56.00",
+          "inAppPurchases": {
+            "Explorer Starter Pack": "HK$ 88.00",
+            "Farming Starter Pack": "HK$ 48.00",
+            "Creepy Starter Pack": "HK$ 88.00",
+            "Cuddly Starter Pack": "HK$ 48.00",
+            "Furniture Starter Pack": "HK$ 88.00",
+            "Structures Starter Pack": "HK$ 48.00",
+            "Scary Pack": "HK$ 88.00",
+            "Weapon Pack": "HK$ 48.00",
+            "Minecraft Pets Pack": "HK$ 88.00",
+            "Minecraft Morph Pack": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -67742,6 +67784,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -150191,18 +150241,33 @@
     ]
   },
   "1422480068": {
-    "name": "Notes Writer Pro: 不止 PDF, 筆記",
+    "name": "Notes Writer Browser: Nautilus",
     "maxPriceInfo": {
       "price": 118,
       "formattedPrice": "HK$ 118.00",
-      "Notes Writer Pro AI Assistant": "HK$ 32.00"
+      "Notes Writer Pro AI Assistant": "HK$ 32.00",
+      "Nautilus Unlock All and AI": "HK$ 118.00",
+      "Nautilus Pro Lifetime": "HK$ 118.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
-      "Notes Writer Pro AI Assistant": "HK$ 18.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Notes Writer Pro AI Assistant": "HK$ 18.00",
+      "Nautilus Unlock All and AI": "HK$ 118.00",
+      "Nautilus Pro Lifetime": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "HK$ 118.00",
+            "Nautilus Pro Lifetime": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -159494,6 +159559,25 @@
       "禮包1": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "648金玉": "HK$ 788.00",
+            "198金玉": "HK$ 238.00",
+            "禮包5": "HK$ 38.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "禮包2": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792147638203,
@@ -280269,6 +280353,14 @@
     "history": [
       [
         {
+          "timestamp": 1792166954412,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790267673376,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -300418,6 +300510,14 @@
     "history": [
       [
         {
+          "timestamp": 1792166954412,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789661990052,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -303366,6 +303466,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792166954412,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,

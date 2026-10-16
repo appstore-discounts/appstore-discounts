@@ -374,7 +374,7 @@ So far, we've covered `7` `Countries or Regions` and  `2341` `Apps` <br />Push n
 |1977|6476567182|Automatic|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|
 |1976|687236846|Automatic|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
 |1975|463994203|Automatic|八字紫微斗|八字紫微斗|八字紫微斗|八字紫微斗|❌|❌|❌|
-|1974|6757943661|Automatic|阿福出境管家-签证通过率评估与材料清单|阿福出境管家-簽證通過率評估與材料清單|阿福出境管家-簽證通過率評估與材料清單|阿福出境管家-簽證通過率評估與材料清單|AFU Visa Prep: Travel Planner|Afu Visa Check & Checklist|阿福出境管家-签证通过率评估与材料清单|
+|1974|6757943661|Automatic|阿福出境管家 - 签证通过率评估与材料清单|阿福出境管家-簽證通過率評估與材料清單|阿福出境管家-簽證通過率評估與材料清單|阿福出境管家-簽證通過率評估與材料清單|AFU Visa Prep: Travel Planner|Afu Visa Check & Checklist|阿福出境管家 - 签证通过率评估与材料清单|
 |1973|1672852887|Automatic|绝对音高 Pro：音符 间隔 和弦 音阶|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|Ear training Pro: piano guitar|Ear training Pro: piano guitar|Ouvido absoluto Pro: Solfejo|
 |1972|6596729064|Automatic|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|Nezha Mobile|
 |1971|6741470807|Automatic|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|Omni - Content Hub|
@@ -2180,7 +2180,7 @@ So far, we've covered `7` `Countries or Regions` and  `2341` `Apps` <br />Push n
 |171|1316883372|Manual|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|Manual|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|Manual|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|
-|168|1422480068|Manual|Notes Writer Pro：不止 PDF, 笔记和|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: Beyond PDFs|Notes Writer Pro: Beyond PDFs|Notes Writer Pro: além dos PDF|
+|168|1422480068|Manual|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|
 |167|6443915320|Manual|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|❌|
 |166|884153085|Manual|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|
 |165|1065802380|Manual|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|
