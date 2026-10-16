@@ -43168,10 +43168,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792005058089,
@@ -72938,14 +72946,26 @@
     "maxPriceInfo": {
       "price": 12.99,
       "formattedPrice": "12,99 €",
-      "Notes Writer Pro AI Assistant": "3,99 €"
+      "Notes Writer Pro AI Assistant": "3,99 €",
+      "Nautilus Unlock All and AI": "3,49 €"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €",
-      "Notes Writer Pro AI Assistant": "1,99 €"
+      "Notes Writer Pro AI Assistant": "1,99 €",
+      "Nautilus Unlock All and AI": "3,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -149070,6 +149090,14 @@
       "Unlocked! “Akane” & “Koro”": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,

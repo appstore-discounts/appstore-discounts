@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 968820626,
+    "region": "pt",
+    "timestamp": 1792147638203,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id968820626",
+    "trackName": "Watch Tuner Lite",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6786115854,
+    "region": "pt",
+    "timestamp": 1792147638203,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[5,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
     "trackId": 510249014,
     "region": "pt",
     "timestamp": 1792107485359,
@@ -269,7 +309,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 1,99 €]"
+        "range": "[Gratuito ~ 1,99 €]"
       }
     ],
     "price": 0.99,

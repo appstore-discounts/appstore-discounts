@@ -68116,10 +68116,18 @@
       "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792005058089,
@@ -155844,6 +155852,23 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "Content Bundle 1": "USD 8.99",
+            "Content Bundle 2": "USD 7.49",
+            "Reckless Car Pack": "USD 2.49",
+            "Off-Road Car Pack": "USD 2.49",
+            "Racing Heroes Car Pack": "USD 2.49",
+            "Steel & Wheels Pack": "USD 1.59",
+            "Goofy Roofs Pack": "USD 0.79",
+            "Getaway Car Pack": "USD 2.49",
+            "American All-Stars Car Pack": "USD 2.49",
+            "Rusty Rats Car Pack": "USD 2.49"
+          }
+        },
+        {
           "timestamp": 1792120771172,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -168821,6 +168846,25 @@
       "婚禮禮包": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "解鎖美杜莎": "USD 2.99",
+            "解鎖斯臺諾": "USD 2.99",
+            "解鎖克拉肯": "USD 2.99",
+            "角色通行證": "USD 11.99",
+            "Time Flow": "USD 2.99",
+            "機械克爾柏洛斯": "USD 1.99",
+            "機械克拉肯": "USD 1.99",
+            "機械耶夢加得": "USD 1.99",
+            "Mecha Pack": "USD 4.99",
+            "Autonomy": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790267673376,
@@ -215046,6 +215090,14 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -216865,6 +216917,52 @@
           "timestamp": 1792005058089,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783860401": {
+    "trackId": 6783860401,
+    "trackName": "LeftPhoneAlert",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807273352": {
+    "trackId": 6807273352,
+    "trackName": "J Plan - Daily Planner",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

@@ -68970,6 +68970,25 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Race Pass": "$4.99",
+            "700 Aces": "$9.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "15000 Aces": "$99.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 0,
           "formattedPrice": "Free",
@@ -96594,10 +96613,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792005058089,
@@ -341291,6 +341318,25 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "ZOMBIE FISH": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "ROBO FISH 01": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "BLACK VAMPIRE": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -348240,6 +348286,25 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "Elite Annual": "$7.99",
+            "Clone de Sensi": "$0.99",
+            "3 Tokens Coach IA": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "10 Tokens Coach IA": "$4.99",
+            "Clone Sensi – 3 Clonagens": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -353090,6 +353155,14 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -354042,6 +354115,25 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Ignus": "$2.99",
+            "Gems Handful": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Oni": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -354951,6 +355043,48 @@
           "timestamp": 1792005058089,
           "price": 8.99,
           "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783860401": {
+    "name": "LeftPhoneAlert",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807273352": {
+    "name": "J Plan - Daily Planner",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

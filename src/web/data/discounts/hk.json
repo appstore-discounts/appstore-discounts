@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 968820626,
+    "region": "hk",
+    "timestamp": 1792147638203,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id968820626",
+    "trackName": "Watch Tuner Lite",
+    "firstRecordedAt": 1746630148619
+  },
+  {
+    "trackId": 6786115854,
+    "region": "hk",
+    "timestamp": 1792147638203,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 88.00",
+        "to": "HK$ 48.00",
+        "range": "[HK$ 38.00 ~ HK$ 88.00]"
+      }
+    ],
+    "price": 48,
+    "formattedPrice": "HK$ 48.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
     "trackId": 510249014,
     "region": "hk",
     "timestamp": 1792081393556,
@@ -89,7 +129,7 @@
         "name": "Price",
         "from": "HK$ 18.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 18.00]"
+        "range": "[免費 ~ HK$ 18.00]"
       }
     ],
     "price": 8,

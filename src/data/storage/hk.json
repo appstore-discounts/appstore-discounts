@@ -44058,6 +44058,23 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Sandbox Unlock Standard Parts": "HK$ 58.00",
+            "Sandbox Unlock All Parts": "HK$ 58.00",
+            "Nooleus X Parts Pack": "HK$ 32.00",
+            "1000 Quick Launches": "HK$ 32.00",
+            "Transponder Module": "HK$ 8.00",
+            "Mission Free Unlock-All": "HK$ 38.00",
+            "Mission 15 Skip": "HK$ 8.00",
+            "Mission 12 Skip": "HK$ 8.00",
+            "10 Quick Launches": "HK$ 8.00",
+            "Mission 22 Skip": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1792120771172,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -56220,6 +56237,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792147638203,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Just For Kids": "HK$ 0.00",
+            "Happy Holidays": "HK$ 18.00",
+            "Mix It Up": "HK$ 0.00",
+            "The Ellen Show": "HK$ 0.00",
+            "Build Your Own Deck": "HK$ 22.00",
+            "Adult Supervision": "HK$ 18.00",
+            "Super Heroes": "HK$ 18.00",
+            "Food Fight": "HK$ 18.00",
+            "Wish You Were Here": "HK$ 18.00",
+            "Branded": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1792120771172,
           "price": 18,
@@ -83734,10 +83768,18 @@
       "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792005058089,
@@ -159454,6 +159496,25 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "劇本禮包": "HK$ 22.00",
+            "存檔位禮包": "HK$ 18.00",
+            "科技達人禮包": "HK$ 22.00",
+            "不朽禮包": "HK$ 18.00",
+            "60玉符": "HK$ 8.00",
+            "300玉符": "HK$ 38.00",
+            "旅行家": "HK$ 88.00",
+            "980玉符": "HK$ 118.00",
+            "1280玉符": "HK$ 148.00",
+            "1980玉符": "HK$ 228.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791263120623,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -176000,6 +176061,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792147638203,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "City Break": "HK$ 22.00",
+            "Sagescale Token": "HK$ 88.00",
+            "Orange Steampunk Dragon Token": "HK$ 88.00",
+            "Astronaut Token Sale": "HK$ 22.00",
+            "Jin Token": "HK$ 88.00",
+            "The Ultimate Edition": "HK$ 368.00",
+            "New York 2121 Board": "HK$ 58.00",
+            "The Ultimate Edition Sale": "HK$ 188.00"
+          }
+        },
         {
           "timestamp": 1792120771172,
           "price": 38,
@@ -256714,6 +256792,23 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 27,
+          "formattedPrice": "HK$ 27.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "Krone BiG Pack 1290 HDP VC": "HK$ 8.00",
+            "Case IH Speed-Tiller": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00",
+            "Case IH Austoft 8800 Multi-Row": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1792120771172,
           "price": 27,
           "formattedPrice": "HK$ 27.00",
@@ -301164,6 +301259,14 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -303483,6 +303586,48 @@
           "timestamp": 1792005058089,
           "price": 68,
           "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783860401": {
+    "name": "LeftPhoneAlert",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807273352": {
+    "name": "J Plan - Daily Planner",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]

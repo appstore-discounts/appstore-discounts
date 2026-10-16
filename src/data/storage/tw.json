@@ -443,6 +443,23 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "$30.00",
+            "Grimm Skin Pack": "$30.00",
+            "Zombie Skin Pack": "$30.00",
+            "Monster Pack": "$30.00",
+            "Dance Pack Three": "$30.00",
+            "Mondo Pack": "$30.00",
+            "Superbowl Skin Pack": "$30.00",
+            "Candy Land Pack": "$30.00",
+            "Underwater World Pack": "$30.00",
+            "Mafia Pack": "$30.00"
+          }
+        },
+        {
           "timestamp": 1792120771172,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -29395,6 +29412,23 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        },
+        {
           "timestamp": 1792081393556,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -44332,6 +44366,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792147638203,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "10000 Coin Pack": "$60.00",
+            "60DiamondPack": "$30.00",
+            "50000 Coin Pack": "$290.00",
+            "110000 Coin Pack": "$590.00",
+            "350DiamondPack": "$150.00",
+            "26700 Coin Pack": "$150.00",
+            "750DiamondPack": "$290.00",
+            "4500 Coin Pack": "$30.00",
+            "135DiamondPack": "$60.00",
+            "78000 Coin Pack": "$390.00"
+          }
+        },
         {
           "timestamp": 1792120771172,
           "price": 30,
@@ -84305,10 +84356,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792005058089,
@@ -90371,6 +90430,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792147638203,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$120.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節B": "$120.00",
+            "擴充章節 U": "$120.00",
+            "主線第八章": "$300.00",
+            "擴充章節 I": "$120.00",
+            "支線第二章": "$120.00",
+            "擴充章節H": "$120.00"
+          }
+        },
         {
           "timestamp": 1792097910583,
           "price": 60,
@@ -235886,6 +235962,25 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "楚漢爭霸": "$190.00",
+            "群雄爭霸": "$90.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "巾幗綻芳華": "$120.00",
+            "重振漢室": "$90.00",
+            "終身版": "$220.00",
+            "無雙戰神": "$190.00",
+            "自創寶物": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792034629201,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -313339,6 +313434,14 @@
     "history": [
       [
         {
+          "timestamp": 1792147638203,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -315508,6 +315611,48 @@
           "timestamp": 1792005058089,
           "price": 290,
           "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783860401": {
+    "name": "LeftPhoneAlert",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807273352": {
+    "name": "J Plan - Daily Planner",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792147638203,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]
