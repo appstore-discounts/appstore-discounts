@@ -20616,6 +20616,14 @@
     "history": [
       [
         {
+          "timestamp": 1792107485359,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789945234659,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -31248,6 +31256,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -62997,6 +63013,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791157842787,
@@ -136285,14 +136309,22 @@
   "6755781701": {
     "name": "Aurora Tromsø",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,
@@ -140890,6 +140922,18 @@
       "BikeControl Pro - Yearly": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "BikeControl Pro": "2,79 €",
+            "Full Version Unlock": "5,99 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792097910583,

@@ -17529,9 +17529,19 @@
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99",
-      "Premium": "USD 79.99"
+      "Premium": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Premium": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788900351663,
@@ -26392,6 +26402,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792107485359,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "USD 0.99",
+            "Unlock All Vehicles": "USD 9.99",
+            "Unlock All": "USD 14.99",
+            "Hot Chrome paint job for all vehicles": "USD 2.99",
+            "The Met paint job for all vehicles": "USD 0.99",
+            "East Side paint job for all vehicles": "USD 0.99",
+            "Seoul Rider paint job for all vehicles": "USD 0.99",
+            "Autobahn paint job for all vehicles": "USD 0.99",
+            "Donut Finder": "USD 2.99",
+            "Pack of 50 Super Cops": "USD 12.99"
+          }
+        },
         {
           "timestamp": 1792097910583,
           "price": 4.99,
@@ -126190,6 +126217,25 @@
     "history": [
       [
         {
+          "timestamp": 1792107485359,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "Tales of Valor - Spanish": "USD 0.00",
+            "Tales of Valor - German": "USD 0.00",
+            "Tales of Valor - Russian": "USD 0.00",
+            "Tales of Valor - French": "USD 0.00",
+            "《Tales of Valor》": "USD 3.99",
+            "Opposing Fronts - French": "USD 0.00",
+            "Opposing Fronts - German": "USD 0.00",
+            "Opposing Fronts - Russian": "USD 0.00",
+            "Opposing Fronts - Spanish": "USD 0.00",
+            "《Opposing Fronts》火線對決": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786636713567,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -183216,6 +183262,25 @@
       "EC135": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "The Aircraft Bundle": "USD 24.99",
+            "ASG29": "USD 0.99",
+            "Boeing 787-10": "USD 1.99",
+            "C90GTx": "USD 0.99",
+            "Concorde": "USD 1.99",
+            "F4U Corsair": "USD 0.99",
+            "Boeing 737-900": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Boeing 777-300ER": "USD 1.99",
+            "Junkers Ju 52": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791157842787,

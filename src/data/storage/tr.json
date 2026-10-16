@@ -32222,6 +32222,25 @@
     "history": [
       [
         {
+          "timestamp": 1792107485359,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 2": "₺109,00",
+            "Minecraft Store Item 6": "₺329,00",
+            "Minecraft Store Item 4": "₺219,00",
+            "Marketplace Pass Trial": "₺129,99",
+            "Minecraft Store Item 3": "₺164,99",
+            "Minecraft Store Item 10": "₺559,99",
+            "Minecraft Store Item 5": "₺269,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791886095337,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -44645,6 +44664,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789945234659,
@@ -62648,6 +62675,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -129275,6 +129310,14 @@
     "history": [
       [
         {
+          "timestamp": 1792107485359,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791157842787,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -150877,6 +150920,25 @@
     "history": [
       [
         {
+          "timestamp": 1792107485359,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Teammate Package#2": "₺249,99",
+            "Bronze Decree": "₺1.499,99",
+            "Heroic Package#3": "₺2.499,99",
+            "Role Package III": "₺499,99",
+            "Suit Package": "₺1.499,99",
+            "Teammate Package": "₺249,99",
+            "Role Package": "₺149,99",
+            "Heroic Package#2": "₺499,99",
+            "Heroic Package#1": "₺499,99",
+            "Resource Package": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792097910583,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -163118,6 +163180,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Transylvania Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Dragon": "₺199,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792034629201,
@@ -207302,6 +207383,25 @@
     "history": [
       [
         {
+          "timestamp": 1792107485359,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "Monthly VIP Subscription": "₺99,99",
+            "Premium spin": "₺49,99",
+            "Yearly VIP Subscription": "₺999,99",
+            "Weekly VIP Subscription": "₺39,99",
+            "Become a VIP for lifetime": "₺12.999,99",
+            "Daily Offer": "₺49,99",
+            "Best Choice": "₺199,99",
+            "Popular Offer": "₺99,99",
+            "Best Choice Discount": "₺149,99",
+            "36000 Coins": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792034629201,
           "price": 79.99,
           "formattedPrice": "₺79,99",
@@ -222646,7 +222746,14 @@
       "Monster Pack 2": "₺1.499,99",
       "Info Pack": "₺699,99",
       "Smelting Pack": "₺399,99",
-      "Time Flow": "₺149,99"
+      "Time Flow": "₺149,99",
+      "Unlock Medusa": "₺149,99",
+      "Unlock Steno": "₺149,99",
+      "Unlock Kraken": "₺149,99",
+      "Character Pass": "₺599,99",
+      "Mecha Cerberus": "₺99,99",
+      "Mecha Kraken": "₺99,99",
+      "Mecha Jormungand": "₺99,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -222664,9 +222771,35 @@
       "Monster Pack 2": "₺1.299,99",
       "Info Pack": "₺599,99",
       "Smelting Pack": "₺299,99",
-      "Time Flow": "₺129,99"
+      "Time Flow": "₺129,99",
+      "Unlock Medusa": "₺149,99",
+      "Unlock Steno": "₺149,99",
+      "Unlock Kraken": "₺149,99",
+      "Character Pass": "₺599,99",
+      "Mecha Cerberus": "₺99,99",
+      "Mecha Kraken": "₺99,99",
+      "Mecha Jormungand": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Unlock Medusa": "₺149,99",
+            "Unlock Steno": "₺149,99",
+            "Unlock Kraken": "₺149,99",
+            "Character Pass": "₺599,99",
+            "Time Flow": "₺149,99",
+            "Mecha Cerberus": "₺99,99",
+            "Mecha Kraken": "₺99,99",
+            "Mecha Jormungand": "₺99,99",
+            "Mecha Pack": "₺249,99",
+            "Autonomy": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -282064,14 +282197,22 @@
   "6755781701": {
     "name": "Aurora Tromsø",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792107485359,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,

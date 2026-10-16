@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 510249014,
+    "region": "pt",
+    "timestamp": 1792107485359,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id510249014",
+    "trackName": "Level HD.",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6753721284,
+    "region": "pt",
+    "timestamp": 1792107485359,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "BikeControl Pro",
+        "from": "27,99 €",
+        "to": "2,79 €",
+        "range": "[2,79 € ~ 27,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6753721284",
+    "trackName": "BikeControl: Virtual Shifting",
+    "firstRecordedAt": 1778874489166
+  },
+  {
     "trackId": 6471594918,
     "region": "pt",
     "timestamp": 1792081393556,
