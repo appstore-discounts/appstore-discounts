@@ -57041,6 +57041,14 @@
     "history": [
       [
         {
+          "timestamp": 1792182791913,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780566948389,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -78286,6 +78294,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792182791913,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "$10 Credit": "$9.99"
+          }
+        },
         {
           "timestamp": 1792166954412,
           "price": 4.99,
@@ -301953,6 +301978,14 @@
     "history": [
       [
         {
+          "timestamp": 1792182791913,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792081393556,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -358454,7 +358487,10 @@
       "Theme Pack · Halvren": "$0.99",
       "Hero · Mukran": "$0.99",
       "Support Tier 2 · Patron": "$1.99",
-      "Hero · Irena von Strahl": "$0.99"
+      "Hero · Irena von Strahl": "$0.99",
+      "Hero · Rosel Ironbloom": "$0.99",
+      "Hero · Sargul Krach": "$0.99",
+      "Hero · Fine Kaltenbach": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -358465,9 +358501,31 @@
       "Theme Pack · Halvren": "$0.99",
       "Hero · Mukran": "$0.99",
       "Support Tier 2 · Patron": "$1.99",
-      "Hero · Irena von Strahl": "$0.99"
+      "Hero · Irena von Strahl": "$0.99",
+      "Hero · Rosel Ironbloom": "$0.99",
+      "Hero · Sargul Krach": "$0.99",
+      "Hero · Fine Kaltenbach": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792182791913,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Hero · Rosel Ironbloom": "$0.99",
+            "Hero · Sargul Krach": "$0.99",
+            "Hero · Fine Kaltenbach": "$0.99",
+            "Hero · Irena von Strahl": "$0.99",
+            "Support Tier 1 · Supporter": "$0.49",
+            "Hero · Aldric Halvren": "$0.99",
+            "Support Tier 3 · Benefactor": "$6.99",
+            "Theme Pack · Halvren": "$0.99",
+            "Hero · Mukran": "$0.99",
+            "Support Tier 2 · Patron": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791585205739,
@@ -359614,6 +359672,39 @@
           "price": 1.99,
           "formattedPrice": "$1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6780263761": {
+    "trackId": 6780263761,
+    "trackName": "Pocket Rumble: Army Raid RPG",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "600 Gems": "$2.99",
+      "1200 Gems": "$5.99",
+      "120 Gems": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "600 Gems": "$2.99",
+      "1200 Gems": "$5.99",
+      "120 Gems": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792182791913,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "600 Gems": "$2.99",
+            "1200 Gems": "$5.99",
+            "120 Gems": "$0.99"
+          }
         }
       ]
     ]

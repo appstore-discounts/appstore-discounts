@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2341` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2342` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2342|6780263761|Automatic|❌|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble: Army Raid RPG|❌|❌|
 |2341|6783860401|Automatic|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|❌|
 |2340|6807273352|Automatic|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|❌|
 |2339|528194758|Automatic|❌|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|
@@ -345,7 +346,7 @@ So far, we've covered `7` `Countries or Regions` and  `2341` `Apps` <br />Push n
 |2006|1434964023|Automatic|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
 |2005|1483947937|Automatic|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
 |2004|6757171842|Automatic|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|
-|2003|6756825085|Automatic|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Lembrete Mesa de Pé|
+|2003|6756825085|Automatic|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao - Timer Mesa Elevável|
 |2002|294236771|Automatic|ICOON 全球图解词典|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|Dicionário de imagens ICOON|
 |2001|6761413198|Automatic|❌|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|
 |2000|1558620021|Automatic|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|

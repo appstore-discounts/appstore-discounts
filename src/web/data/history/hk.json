@@ -11093,6 +11093,23 @@
     "history": [
       [
         {
+          "timestamp": 1792182791913,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00",
+            "Verdi: The Mutopia Collection": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1792166954412,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -31179,6 +31196,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792182791913,
+          "price": 56,
+          "formattedPrice": "HK$ 56.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "HK$ 58.00",
+            "Minecraft Store Item 2": "HK$ 16.00",
+            "Realms Monthly Subscription: You + 2 Friends": "HK$ 28.00",
+            "Minecraft Store Item 6": "HK$ 48.00",
+            "Minecraft Store Item 3": "HK$ 22.00",
+            "Realms Plus: You + 10 Friends": "HK$ 58.00",
+            "Minecraft Store Item 4": "HK$ 32.00",
+            "Minecraft Store Item 5": "HK$ 38.00",
+            "Minecraft Store Item 10": "HK$ 82.00",
+            "Minecraft Store Item 1": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1792166954412,
           "price": 56,
@@ -52247,6 +52281,14 @@
       "formattedPrice": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792182791913,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780566948389,
@@ -262967,6 +263009,14 @@
     "history": [
       [
         {
+          "timestamp": 1792182791913,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792081393556,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -306536,7 +306586,10 @@
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
       "贊助第二階・監護人": "HK$ 18.00",
-      "付費角色・伊蕾娜": "HK$ 8.00"
+      "付費角色・伊蕾娜": "HK$ 8.00",
+      "付費角色・蘿潔爾": "HK$ 8.00",
+      "付費角色・薩爾古爾": "HK$ 8.00",
+      "付費角色・菲涅": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -306547,9 +306600,31 @@
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
       "贊助第二階・監護人": "HK$ 18.00",
-      "付費角色・伊蕾娜": "HK$ 8.00"
+      "付費角色・伊蕾娜": "HK$ 8.00",
+      "付費角色・蘿潔爾": "HK$ 8.00",
+      "付費角色・薩爾古爾": "HK$ 8.00",
+      "付費角色・菲涅": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792182791913,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00",
+            "付費角色・薩爾古爾": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "贊助第三階・傭兵團恩人": "HK$ 58.00",
+            "贊助第二階・監護人": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791585205739,
@@ -308137,6 +308212,39 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6780263761": {
+    "trackId": 6780263761,
+    "trackName": "Pocket Rumble 〜 軍團即時戰鬥",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "1200 Gems": "HK$ 48.00",
+      "600 Gems": "HK$ 22.00",
+      "120 Gems": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "1200 Gems": "HK$ 48.00",
+      "600 Gems": "HK$ 22.00",
+      "120 Gems": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792182791913,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "1200 Gems": "HK$ 48.00",
+            "600 Gems": "HK$ 22.00",
+            "120 Gems": "HK$ 8.00"
+          }
         }
       ]
     ]
