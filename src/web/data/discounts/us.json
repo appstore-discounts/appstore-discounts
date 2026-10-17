@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6746136017,
+    "region": "us",
+    "timestamp": 1792206602061,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$5.99 ~ $9.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6746136017",
+    "trackName": "Astrea: Six-Sided Oracles",
+    "firstRecordedAt": 1753334376113
+  },
+  {
+    "trackId": 6811795155,
+    "region": "us",
+    "timestamp": 1792206602061,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Keeps Pro",
+        "from": "$9.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6811795155",
+    "trackName": "Keeps: Cost Per Use Tracker",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 1422480068,
     "region": "us",
     "timestamp": 1792166954412,

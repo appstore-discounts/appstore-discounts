@@ -139850,6 +139850,25 @@
     "history": [
       [
         {
+          "timestamp": 1792206602061,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60金砖": "¥6.00",
+            "战斗奖励双倍": "¥12.00",
+            "300金砖": "¥30.00",
+            "120金砖": "¥12.00",
+            "680金砖": "¥68.00",
+            "月卡": "¥30.00",
+            "深度高级特训": "¥98.00",
+            "高级特训": "¥68.00",
+            "980金砖": "¥98.00",
+            "1280金砖": "¥128.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791332575449,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -234464,9 +234483,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Keeps Pro": "¥68.00"
+      "Keeps Pro": "¥13.80"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792206602061,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Keeps Pro": "¥13.80"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790901150979,

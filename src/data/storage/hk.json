@@ -261466,7 +261466,11 @@
       "EC135": "HK$ 8.00",
       "Airbus A320neo": "HK$ 32.00",
       "Boeing 787-9": "HK$ 32.00",
-      "Airbus A321 XLR": "HK$ 32.00"
+      "Airbus A321 XLR": "HK$ 32.00",
+      "ASG29": "HK$ 8.00",
+      "C90GTx": "HK$ 8.00",
+      "F4U Corsair": "HK$ 8.00",
+      "Junkers Ju 52": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -261497,9 +261501,32 @@
       "EC135": "HK$ 8.00",
       "Airbus A320neo": "HK$ 32.00",
       "Boeing 787-9": "HK$ 32.00",
-      "Airbus A321 XLR": "HK$ 32.00"
+      "Airbus A321 XLR": "HK$ 32.00",
+      "ASG29": "HK$ 8.00",
+      "C90GTx": "HK$ 8.00",
+      "F4U Corsair": "HK$ 8.00",
+      "Junkers Ju 52": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792206602061,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "The Aircraft Bundle": "HK$ 188.00",
+            "ASG29": "HK$ 8.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "C90GTx": "HK$ 8.00",
+            "Concorde": "HK$ 18.00",
+            "F4U Corsair": "HK$ 8.00",
+            "Boeing 737-900": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Junkers Ju 52": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792061720856,
@@ -302257,9 +302284,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Keeps Pro": "HK$ 44.00"
+      "Keeps Pro": "HK$ 9.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792206602061,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro": "HK$ 9.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790901150979,
