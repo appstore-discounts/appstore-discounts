@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1410053842,
+    "region": "pt",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 9,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1410053842",
+    "trackName": "Selene: Calendário de Turnos",
+    "firstRecordedAt": 1763491120102
+  },
+  {
+    "trackId": 1667072735,
+    "region": "pt",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1667072735",
+    "trackName": "Watch Web Browser",
+    "firstRecordedAt": 1772635383177
+  },
+  {
     "trackId": 6811795155,
     "region": "pt",
     "timestamp": 1792206602061,
@@ -7036,14 +7076,14 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "Gratuito",
-        "range": "[Gratuito ~ 2,99 €]"
+        "range": "[Gratuito ~ 7,99 €]"
       }
     ],
     "price": 0,
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id944118456",
-    "trackName": "EXIF Viewer by Fluntro",
+    "trackName": "EXIF Viewer: metadados",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -28117,14 +28157,14 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[Gratuito ~ 2,99 €]"
+        "range": "[Gratuito ~ 7,99 €]"
       }
     ],
     "price": 0.99,
     "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id944118456",
-    "trackName": "EXIF Viewer by Fluntro",
+    "trackName": "EXIF Viewer: metadados",
     "firstRecordedAt": 1761797674362
   },
   {

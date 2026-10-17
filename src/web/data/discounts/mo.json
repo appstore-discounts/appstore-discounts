@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1410053842,
+    "region": "mo",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1410053842",
+    "trackName": "小漁輪班：排班表與工作行事曆",
+    "firstRecordedAt": 1745453324134
+  },
+  {
+    "trackId": 1667072735,
+    "region": "mo",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1667072735",
+    "trackName": "Watch Web Browser",
+    "firstRecordedAt": 1772635383177
+  },
+  {
     "trackId": 6811795155,
     "region": "mo",
     "timestamp": 1792206602061,
@@ -6920,14 +6960,14 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "免費",
-        "range": "[免費 ~ USD 2.99]"
+        "range": "[免費 ~ USD 6.99]"
       }
     ],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id944118456",
-    "trackName": "Exif Viewer by Fluntro",
+    "trackName": "EXIF Viewer：照片中繼資料",
     "firstRecordedAt": 1759940107332
   },
   {
@@ -28513,14 +28553,14 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 0.99",
-        "range": "[免費 ~ USD 2.99]"
+        "range": "[免費 ~ USD 6.99]"
       }
     ],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id944118456",
-    "trackName": "Exif Viewer by Fluntro",
+    "trackName": "EXIF Viewer：照片中繼資料",
     "firstRecordedAt": 1759940107332
   },
   {

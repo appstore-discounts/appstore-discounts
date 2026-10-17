@@ -1,5 +1,72 @@
 [
   {
+    "trackId": 966489322,
+    "region": "us",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "生辰-季度会员",
+        "from": "$12.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $12.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "永久会员",
+        "from": "$14.99",
+        "to": "$12.99",
+        "range": "[$12.99 ~ $19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id966489322",
+    "trackName": "生辰 — 桌面时间小组件",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1410053842,
+    "region": "us",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1410053842",
+    "trackName": "Selene: Shift Calendar",
+    "firstRecordedAt": 1745453324134
+  },
+  {
+    "trackId": 1667072735,
+    "region": "us",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1667072735",
+    "trackName": "Watch Web Browser",
+    "firstRecordedAt": 1772635383177
+  },
+  {
     "trackId": 6746136017,
     "region": "us",
     "timestamp": 1792206602061,
@@ -7173,7 +7240,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "Free",
-        "range": "[Free ~ $2.99]"
+        "range": "[Free ~ $6.99]"
       }
     ],
     "price": 0,
@@ -29208,7 +29275,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[Free ~ $2.99]"
+        "range": "[Free ~ $6.99]"
       }
     ],
     "price": 0.99,

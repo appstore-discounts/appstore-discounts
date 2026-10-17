@@ -27263,6 +27263,14 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789575216572,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -40964,16 +40972,24 @@
     ]
   },
   "944118456": {
-    "name": "EXIF Viewer by Fluntro",
+    "name": "EXIF Viewer: metadados",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786367132304,
@@ -70871,6 +70887,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -107077,10 +107101,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -147220,6 +147252,27 @@
           "timestamp": 1792005058089,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "Alemão Pro: dicionário exames",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]

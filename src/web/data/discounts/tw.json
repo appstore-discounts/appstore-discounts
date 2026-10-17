@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1410053842,
+    "region": "tw",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $100.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1410053842",
+    "trackName": "小漁輪班：排班表與工作行事曆",
+    "firstRecordedAt": 1745453324134
+  },
+  {
+    "trackId": 1667072735,
+    "region": "tw",
+    "timestamp": 1792231960258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1667072735",
+    "trackName": "Watch Web Browser",
+    "firstRecordedAt": 1772635383177
+  },
+  {
     "trackId": 6811795155,
     "region": "tw",
     "timestamp": 1792206602061,
@@ -7144,14 +7184,14 @@
         "name": "Price",
         "from": "$90.00",
         "to": "免費",
-        "range": "[免費 ~ $90.00]"
+        "range": "[免費 ~ $220.00]"
       }
     ],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id944118456",
-    "trackName": "Exif Viewer by Fluntro",
+    "trackName": "EXIF Viewer：照片中繼資料",
     "firstRecordedAt": 1759940107332
   },
   {
@@ -29213,14 +29253,14 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[免費 ~ $90.00]"
+        "range": "[免費 ~ $220.00]"
       }
     ],
     "price": 30,
     "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id944118456",
-    "trackName": "Exif Viewer by Fluntro",
+    "trackName": "EXIF Viewer：照片中繼資料",
     "firstRecordedAt": 1759940107332
   },
   {

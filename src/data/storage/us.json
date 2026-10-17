@@ -54026,6 +54026,14 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789592098699,
           "price": 0,
           "formattedPrice": "Free",
@@ -64815,6 +64823,25 @@
       "Toyota 2014 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2004 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792166954412,
@@ -90819,14 +90846,22 @@
   "944118456": {
     "name": "EXIF Viewer by Fluntro",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 6.99,
+      "formattedPrice": "$6.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786367132304,
@@ -96015,6 +96050,20 @@
       "永久会员": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "生辰-季度会员": "$2.99",
+            "月度会员": "$1.99",
+            "生辰年度会员": "$9.99",
+            "生辰-年度会员": "$12.99",
+            "永久会员": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788638313964,
@@ -146963,6 +147012,24 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "$0.99",
+            "Power Builder (monthly)": "$2.99",
+            "Micro Tip": "$0.99",
+            "Medium Tip": "$1.99",
+            "Mega Tip": "$5.99",
+            "Power Builder (yearly)": "$25.49",
+            "Super Mega Tip": "$9.99",
+            "Super Tip": "$4.99",
+            "Small Tip": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792206602061,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -165456,6 +165523,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -222794,6 +222869,25 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99",
+            "Celebrity Deck": "$6.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792166954412,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -263526,10 +263620,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -355517,6 +355619,27 @@
             "1200 Gems": "$5.99",
             "120 Gems": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "German Pro: dictionary & exams",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
         }
       ]
     ]

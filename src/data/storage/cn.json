@@ -29585,6 +29585,14 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免费",
@@ -46511,16 +46519,24 @@
     ]
   },
   "944118456": {
-    "name": "Exif Viewer by Fluntro",
+    "name": "EXIF Viewer：照片元数据",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 48,
+      "formattedPrice": "¥48.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786377546675,
@@ -46971,6 +46987,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792231960258,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "¥8.00",
+            "金牛会员连续包月": "¥6.00",
+            "手机高级诊股连续包月": "¥8.00",
+            "手机超级Level-2连续包半年": "¥48.00",
+            "手机Level-2包年服务": "¥88.00",
+            "金牛会员尊享版连续包年": "¥98.00",
+            "金牛会员月版": "¥18.00",
+            "手机超级Level2两年版": "¥158.00",
+            "主力密码连续包月": "¥118.00",
+            "短线宝连续包月": "¥138.00"
+          }
+        },
         {
           "timestamp": 1792192561757,
           "price": 1,
@@ -110943,6 +110976,14 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -164370,10 +164411,18 @@
       "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -235017,6 +235066,55 @@
           "timestamp": 1792147638203,
           "price": 15,
           "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781949759": {
+    "name": "好女子",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00",
+      "好女子 VIP 连续包年": "¥98.00",
+      "好女子 VIP 连续包月": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00",
+      "好女子 VIP 连续包年": "¥98.00",
+      "好女子 VIP 连续包月": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "好女子 VIP 连续包年": "¥98.00",
+            "好女子 VIP 连续包月": "¥15.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "德语 Pro: 词典 & 考试",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 28,
+          "formattedPrice": "¥28.00",
           "inAppPurchases": {}
         }
       ]

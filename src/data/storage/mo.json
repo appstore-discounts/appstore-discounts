@@ -34428,6 +34428,25 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Necroa病毒擴展包": "USD 1.99",
+            "解鎖全部基因": "USD 7.99",
+            "瘟疫配套": "USD 12.99",
+            "Neurax蠕蟲擴展包": "USD 1.99",
+            "解鎖七個基礎病原體": "USD 2.99",
+            "解開作弊模式": "USD 9.99",
+            "猿猴流感擴充包": "USD 1.99",
+            "場景包": "USD 2.99",
+            "紅魔瘟疫擴展包": "USD 1.99",
+            "解鎖生化武器": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790134270308,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -40190,6 +40209,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -63413,16 +63440,24 @@
     ]
   },
   "944118456": {
-    "name": "Exif Viewer by Fluntro",
+    "name": "EXIF Viewer：照片中繼資料",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786367132304,
@@ -112568,6 +112603,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -169609,10 +169652,18 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -212781,6 +212832,27 @@
             "600 Gems": "USD 2.99",
             "1200 Gems": "USD 5.99"
           }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "德語 Pro: 詞典 & 考試",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
         }
       ]
     ]

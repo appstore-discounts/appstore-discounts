@@ -49541,6 +49541,14 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -80606,17 +80614,25 @@
   },
   "944118456": {
     "trackId": 944118456,
-    "trackName": "Exif Viewer by Fluntro",
+    "trackName": "EXIF Viewer：照片中繼資料",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786377546675,
@@ -151742,6 +151758,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -233463,10 +233487,18 @@
       "formattedPrice": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -240211,6 +240243,25 @@
       "五子良將": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "無雙戰神": "HK$ 48.00",
+            "自創地圖": "HK$ 32.00",
+            "鎮海神威": "HK$ 22.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "斜谷殘陽": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -260177,6 +260228,25 @@
     "history": [
       [
         {
+          "timestamp": 1792231960258,
+          "price": 27,
+          "formattedPrice": "HK$ 27.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "Krone BiG Pack 1290 HDP VC": "HK$ 8.00",
+            "Case IH Speed-Tiller": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00",
+            "Versatile 4WD 620": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792147638203,
           "price": 27,
           "formattedPrice": "HK$ 27.00",
@@ -264749,6 +264819,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792231960258,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Concorde": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1792206602061,
           "price": 32,
@@ -308341,6 +308428,29 @@
             "600 Gems": "HK$ 22.00",
             "120 Gems": "HK$ 8.00"
           }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "trackId": 6459057077,
+    "trackName": "德語 Pro: 詞典 & 考試",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792231960258,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
         }
       ]
     ]
