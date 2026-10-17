@@ -64974,7 +64974,11 @@
       "Magnetic Stars 20": "USD 1.99",
       "Magnetic Stars 10": "USD 0.99",
       "Unlock Rollman Coin": "USD 1.99",
-      "Unlock Rollf Coin": "USD 1.99"
+      "Unlock Rollf Coin": "USD 1.99",
+      "Unlock Strawberry Candy": "USD 1.99",
+      "Unlock Chocolate Candy": "USD 1.99",
+      "Unlock Mint Candy": "USD 1.99",
+      "Unlock Rolly Coin": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -64988,9 +64992,32 @@
       "Magnetic Stars 20": "USD 1.99",
       "Magnetic Stars 10": "USD 0.99",
       "Unlock Rollman Coin": "USD 1.99",
-      "Unlock Rollf Coin": "USD 1.99"
+      "Unlock Rollf Coin": "USD 1.99",
+      "Unlock Strawberry Candy": "USD 1.99",
+      "Unlock Chocolate Candy": "USD 1.99",
+      "Unlock Mint Candy": "USD 1.99",
+      "Unlock Rolly Coin": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792267886340,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Unlock Strawberry Candy": "USD 1.99",
+            "Unlock Chocolate Candy": "USD 1.99",
+            "Unlock Mint Candy": "USD 1.99",
+            "Unlock Rolly Coin": "USD 0.99",
+            "Unlock Rollf Coin": "USD 1.99",
+            "Unlock Rollman Coin": "USD 1.99",
+            "Magnetic Stars 10": "USD 0.99",
+            "Magnetic Stars 20": "USD 1.99",
+            "Magnetic Stars Unlimited": "USD 14.99",
+            "Ultra Punch 10": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767775219467,
@@ -93032,6 +93059,25 @@
       "寶石2160個": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792267886340,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "功能禮包": "USD 3.99",
+            "魔法禮包": "USD 8.99",
+            "綜合禮包": "USD 15.99",
+            "寶石180個": "USD 2.99",
+            "喚生石2400個": "USD 8.99",
+            "自動禮包": "USD 15.99",
+            "魅魔禮包": "USD 41.99",
+            "寶石300個": "USD 3.99",
+            "戒指禮包": "USD 24.99",
+            "地獄石240個": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792249292215,
@@ -198931,7 +198977,7 @@
   },
   "6744650366": {
     "trackId": 6744650366,
-    "trackName": "MyScoreTracker – 計分器",
+    "trackName": "MyScoreTracker 桌遊計分",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -215059,6 +215105,21 @@
       "700 Diamonds": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792267886340,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792061720856,

@@ -962,7 +962,7 @@ So far, we've covered `7` `Countries or Regions` and  `2345` `Apps` <br />Push n
 |1393|6748572801|Automatic|❌|首爾驅魔人1111: Roguelite|首爾驅魔人1111: Roguelite|首爾驅魔人1111: Roguelite|Seoul Exorcist 1111: Roguelite|Seoul Exorcist 1111: Roguelite|Seoul Exorcist 1111: Roguelite|
 |1392|1551546168|Automatic|❌|中文認字遊戲(無廣告版）|中文認字遊戲(無廣告版）|中文認字遊戲(無廣告版）|Find Chinese Word - Full Ver|Find Chinese Word - Full Ver|Find Chinese Word - Full Ver|
 |1391|6474672665|Automatic|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
-|1390|6744650366|Automatic|MyScoreTracker – 计分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – Score Counter|MyScoreTracker – Score Counter|MyScoreTracker – Marcador|
+|1390|6744650366|Automatic|MyScoreTracker 桌游计分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker: Board Games|MyScoreTracker: Board Games|MyScoreTracker Pontuação|
 |1389|513370441|Automatic|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|
 |1388|6752503669|Automatic|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
 |1387|1148617550|Automatic|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
