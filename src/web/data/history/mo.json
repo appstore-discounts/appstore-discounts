@@ -18031,6 +18031,25 @@
     "history": [
       [
         {
+          "timestamp": 1792192561757,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "神秘鴨優惠套裝": "USD 0.99",
+            "大頑固優惠套裝": "USD 0.99",
+            "艾莉優惠套裝": "USD 0.99",
+            "鎖匠 － 全部愛麗鎖": "USD 1.99",
+            "愛麗的故事": "USD 0.99",
+            "假日優惠套裝": "USD 3.99",
+            "鎖匠 - 一把鎖": "USD 0.99",
+            "神秘鴨": "USD 2.99",
+            "鎖匠 – 全部的神秘鎖": "USD 4.99",
+            "鎖匠 – 全部的大頑固鎖": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788900351663,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -138687,6 +138706,29 @@
           "timestamp": 1782207512200,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1504000687": {
+    "trackId": 1504000687,
+    "trackName": "雙人遊戲 2 Player Offline Games",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792192561757,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
           "inAppPurchases": {}
         }
       ]

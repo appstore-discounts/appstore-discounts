@@ -205497,6 +205497,29 @@
       ]
     ]
   },
+  "1504000687": {
+    "trackId": 1504000687,
+    "trackName": "2 Players 1 Device: Tabletop",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792192561757,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1504024081": {
     "trackId": 1504024081,
     "trackName": "Fast Forward Videos -Boomerang",
@@ -303560,6 +303583,23 @@
     "history": [
       [
         {
+          "timestamp": 1792192561757,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        },
+        {
           "timestamp": 1792166954412,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -358621,6 +358661,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792192561757,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Gems Handful": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "Hero Ignus": "$2.99",
+            "Gems Pouch": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        },
         {
           "timestamp": 1792166954412,
           "price": 6.99,

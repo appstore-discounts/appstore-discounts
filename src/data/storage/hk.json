@@ -10909,6 +10909,23 @@
     "history": [
       [
         {
+          "timestamp": 1792192561757,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1792182791913,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -176188,6 +176205,25 @@
     "history": [
       [
         {
+          "timestamp": 1792192561757,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "Cherry Blossom Bundle": "HK$ 128.00",
+            "City Break": "HK$ 22.00",
+            "Sagescale Token": "HK$ 88.00",
+            "Orange Steampunk Dragon Token": "HK$ 88.00",
+            "Astronaut Token Sale": "HK$ 22.00",
+            "Jin Token": "HK$ 88.00",
+            "The Ultimate Edition": "HK$ 368.00",
+            "New York 2121 Board": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792147638203,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -186322,6 +186358,27 @@
           "timestamp": 1782207512200,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1504000687": {
+    "name": "雙人遊戲 2 Player Offline Games",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792192561757,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
           "inAppPurchases": {}
         }
       ]
