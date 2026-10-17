@@ -2,15 +2,8 @@
   {
     "trackId": 966489322,
     "region": "us",
-    "timestamp": 1792231960258,
+    "timestamp": 1792249292215,
     "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "生辰-季度会员",
-        "from": "$12.99",
-        "to": "$2.99",
-        "range": "[$2.99 ~ $12.99]"
-      },
       {
         "type": "inAppPurchase",
         "name": "永久会员",
@@ -25,6 +18,26 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id966489322",
     "trackName": "生辰 — 桌面时间小组件",
     "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1667072735,
+    "region": "us",
+    "timestamp": 1792249292215,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1667072735",
+    "trackName": "Watch Web Browser",
+    "firstRecordedAt": 1772635383177
   },
   {
     "trackId": 1410053842,
@@ -45,26 +58,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1410053842",
     "trackName": "Selene: Shift Calendar",
     "firstRecordedAt": 1745453324134
-  },
-  {
-    "trackId": 1667072735,
-    "region": "us",
-    "timestamp": 1792231960258,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$0.99",
-        "to": "Free",
-        "range": "[Free ~ $0.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id1667072735",
-    "trackName": "Watch Web Browser",
-    "firstRecordedAt": 1772635383177
   },
   {
     "trackId": 6746136017,

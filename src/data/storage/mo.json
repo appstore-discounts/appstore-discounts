@@ -23009,6 +23009,25 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 1": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790437951279,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -91445,6 +91464,25 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "屬性經驗值增加": "USD 8.99",
+            "重生經驗值增加": "USD 8.99",
+            "重生禮包": "USD 41.99",
+            "寶石12000個": "USD 84.99",
+            "重生石50000個": "USD 84.99",
+            "屬性禮包": "USD 15.99",
+            "地獄石250個": "USD 41.99",
+            "地獄石120個": "USD 24.99",
+            "地獄石30個": "USD 8.99",
+            "地獄石500個": "USD 41.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786356949637,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -150618,6 +150656,14 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -169649,14 +169695,24 @@
     "name": "Watch Web Browser",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "解鎖 Pro": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "解鎖 Pro": "USD 1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "解鎖 Pro": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1792231960258,
           "price": 0,

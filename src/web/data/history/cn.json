@@ -157843,6 +157843,24 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "犒赏令": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791633510449,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -166212,14 +166230,24 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "解锁 Pro": "¥15.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免费"
+      "formattedPrice": "免费",
+      "解锁 Pro": "¥15.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁 Pro": "¥15.00"
+          }
+        },
         {
           "timestamp": 1792231960258,
           "price": 0,
@@ -216126,6 +216154,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "扩充章节 U": "¥28.00",
+            "里莫的秘密书房: 白金方案": "¥28.80",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "调律计划：PinocchioP精选辑": "¥28.00",
+            "扩充章节 H": "¥28.00",
+            "十周年纪念章节 重逢之音 Phase I": "¥35.00",
+            "调律计划：虚拟歌手精选辑": "¥28.00",
+            "十周年纪念章节 重逢之音 Phase II": "¥35.00"
+          }
+        },
         {
           "timestamp": 1792192561757,
           "price": 6,

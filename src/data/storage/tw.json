@@ -21096,6 +21096,23 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "$120.00",
+            "Tuned 808 Bass": "$30.00",
+            "Amped Guitar & Bass": "$90.00",
+            "Acoustic Guitars": "$30.00",
+            "Voices": "$30.00",
+            "Synth Lead": "$60.00",
+            "Sliced Beats": "$30.00",
+            "Chill-Lo-Fi Mobile": "$60.00",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$60.00"
+          }
+        },
+        {
           "timestamp": 1792231960258,
           "price": 490,
           "formattedPrice": "$490.00",
@@ -120670,6 +120687,21 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {
+            "促銷折扣": "$320.00",
+            "迎新禮包": "$320.00",
+            "寶石包": "$320.00",
+            "$99.99美元籌碼": "$2,990.00",
+            "$29.99美元籌碼": "$990.00",
+            "$49.99美元籌碼": "$1,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786005279085,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -137992,6 +138024,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "茶具魔王皮膚卡牌包 C": "$150.00",
+            "茶具魔王皮膚卡牌包 B": "$150.00",
+            "茶具魔王皮膚卡牌包 A": "$150.00",
+            "小墮落勇士造型卡牌包": "$890.00",
+            "小勇士造型卡牌包": "$890.00",
+            "黑暗的魔王皮膚卡牌包": "$290.00",
+            "光芒的魔王皮膚卡牌包": "$290.00",
+            "魔王覺醒蛇女卡牌包": "$150.00",
+            "神話完整卡牌包": "$1,290.00"
+          }
+        },
         {
           "timestamp": 1792206602061,
           "price": 120,
@@ -203932,6 +203981,14 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -227309,14 +227366,24 @@
     "name": "Watch Web Browser",
     "maxPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "解鎖 Pro": "$60.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "解鎖 Pro": "$60.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "解鎖 Pro": "$60.00"
+          }
+        },
         {
           "timestamp": 1792231960258,
           "price": 0,
@@ -304220,6 +304287,25 @@
       "StageLab": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792249292215,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "PadLab Full App": "$290.00",
+            "PadLab Worship Complete": "$220.00",
+            "Worship Drum Collection": "$120.00",
+            "Coleção Completa de Pads": "$150.00",
+            "Worship EFX": "$30.00",
+            "Worship 808": "$30.00",
+            "Worship Cinematic": "$30.00",
+            "Worship Drum Kit 3": "$30.00",
+            "Worship Drum Kit 2": "$30.00",
+            "Worship Drum Kit 1": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791917735754,

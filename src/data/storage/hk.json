@@ -77642,6 +77642,25 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "HK$ 0.00",
+            "ThemeA0B1C0": "HK$ 0.00",
+            "ThemeA1B0C0": "HK$ 0.00",
+            "ThemeA0B1C1": "HK$ 0.00",
+            "ThemeA1B0C1": "HK$ 0.00",
+            "ThemeA1B1C0": "HK$ 0.00",
+            "ThemeA2B0C0": "HK$ 0.00",
+            "主题大礼包": "HK$ 32.00",
+            "ThemeA2B0C1": "HK$ 32.00",
+            "ThemeA2B1C0": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -206331,6 +206350,14 @@
     "history": [
       [
         {
+          "timestamp": 1792249292215,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -230520,14 +230547,24 @@
     "name": "Watch Web Browser",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "解鎖 Pro": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "解鎖 Pro": "HK$ 18.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "解鎖 Pro": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1792231960258,
           "price": 0,
@@ -237190,6 +237227,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "五子良將": "HK$ 48.00",
+            "地圖存檔": "HK$ 18.00",
+            "劇本存檔": "HK$ 18.00",
+            "月下追魂": "HK$ 48.00",
+            "斜谷殘陽": "HK$ 48.00",
+            "自創寶物": "HK$ 18.00",
+            "冠絕天下": "HK$ 48.00",
+            "西涼悍將": "HK$ 48.00",
+            "江山美人": "HK$ 22.00",
+            "終身版": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1792231960258,
           "price": 48,
@@ -299545,6 +299599,25 @@
       "198 體驗禮包": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792249292215,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "16888 永恆威望包": "HK$ 1,488.00",
+            "49888 帝王神話禮": "HK$ 3,888.00",
+            "108 新手禮包": "HK$ 22.00",
+            "9888 豪華至尊禮": "HK$ 988.00",
+            "798 進階禮盒": "HK$ 118.00",
+            "6888 至尊禮": "HK$ 788.00",
+            "498 暢玩禮包": "HK$ 88.00",
+            "2888 豪華禮": "HK$ 368.00",
+            "1888 高級禮盒": "HK$ 268.00",
+            "198 體驗禮包": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,

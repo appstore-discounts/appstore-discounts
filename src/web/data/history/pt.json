@@ -109848,14 +109848,24 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Desbloqueio Pro": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Desbloqueio Pro": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1792249292215,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Desbloqueio Pro": "1,99 €"
+          }
+        },
         {
           "timestamp": 1792231960258,
           "price": 0,
