@@ -43,6 +43,18 @@
     "history": [
       [
         {
+          "timestamp": 1792354164522,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 2": "$14.99",
+            "Pro Tier 1": "$9.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786904841254,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -65664,7 +65676,17 @@
       "Ford 2016 Enhanced Diagnostics": "$14.99",
       "Toyota 2016 Enhanced Diagnostics": "$14.99",
       "Ford 2004 Enhanced Diagnostics": "$14.99",
-      "Toyota 2014 Enhanced Diagnostics": "$14.99"
+      "Toyota 2014 Enhanced Diagnostics": "$14.99",
+      "Ford 2026 Enhanced": "$14.99",
+      "Mazda 2026 Enhanced": "$14.99",
+      "Mazda 2025 Enhanced": "$14.99",
+      "FCA 2026": "$14.99",
+      "Ford 2025 Enhanced": "$14.99",
+      "Mitsubishi 2024": "$14.99",
+      "Mitsubishi 2023": "$14.99",
+      "FCA 2025": "$14.99",
+      "Ford 2024 Enhanced": "$14.99",
+      "Mazda 2024 Enhanced": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -65685,9 +65707,38 @@
       "Ford 2016 Enhanced Diagnostics": "$14.99",
       "Toyota 2016 Enhanced Diagnostics": "$14.99",
       "Ford 2004 Enhanced Diagnostics": "$14.99",
-      "Toyota 2014 Enhanced Diagnostics": "$14.99"
+      "Toyota 2014 Enhanced Diagnostics": "$14.99",
+      "Ford 2026 Enhanced": "$14.99",
+      "Mazda 2026 Enhanced": "$14.99",
+      "Mazda 2025 Enhanced": "$14.99",
+      "FCA 2026": "$14.99",
+      "Ford 2025 Enhanced": "$14.99",
+      "Mitsubishi 2024": "$14.99",
+      "Mitsubishi 2023": "$14.99",
+      "FCA 2025": "$14.99",
+      "Ford 2024 Enhanced": "$14.99",
+      "Mazda 2024 Enhanced": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792354164522,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Ford 2026 Enhanced": "$14.99",
+            "Mazda 2026 Enhanced": "$14.99",
+            "Mazda 2025 Enhanced": "$14.99",
+            "FCA 2026": "$14.99",
+            "Ford 2025 Enhanced": "$14.99",
+            "Mitsubishi 2024": "$14.99",
+            "Mitsubishi 2023": "$14.99",
+            "FCA 2025": "$14.99",
+            "Ford 2024 Enhanced": "$14.99",
+            "Mazda 2024 Enhanced": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792277703141,
@@ -92109,7 +92160,7 @@
   },
   "941671702": {
     "trackId": 941671702,
-    "trackName": "GR Remote Viewer for GR2 & GR3",
+    "trackName": "GR Viewer for GR2 & GR3",
     "region": "us",
     "maxPriceInfo": {
       "price": 9.99,
@@ -141993,6 +142044,24 @@
       "SF2SEPack9": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792354164522,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "Chest of Coins": "$19.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Gems": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791838643666,

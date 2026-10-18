@@ -40989,7 +40989,7 @@
     ]
   },
   "941671702": {
-    "name": "GR Remote Viewer for GR2 & GR3",
+    "name": "GR Viewer for GR2 & GR3",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
@@ -76268,7 +76268,15 @@
       "2 vs 2 Skirmish Maps": "0,00 €",
       "Invasion of Normandy 11-15": "0,00 €",
       "High-Quality Models": "0,00 €",
-      "3 vs 3 Skirmish Maps": "0,00 €"
+      "3 vs 3 Skirmish Maps": "0,00 €",
+      "Tales of Valor - Spanish": "0,00 €",
+      "Tales of Valor - German": "0,00 €",
+      "Tales of Valor - Russian": "0,00 €",
+      "Tales of Valor - French": "0,00 €",
+      "Opposing Fronts - French": "0,00 €",
+      "Opposing Fronts - German": "0,00 €",
+      "Opposing Fronts - Russian": "0,00 €",
+      "Opposing Fronts - Spanish": "0,00 €"
     },
     "minPriceInfo": {
       "price": 10.99,
@@ -76282,9 +76290,36 @@
       "2 vs 2 Skirmish Maps": "0,00 €",
       "Invasion of Normandy 11-15": "0,00 €",
       "High-Quality Models": "0,00 €",
-      "3 vs 3 Skirmish Maps": "0,00 €"
+      "3 vs 3 Skirmish Maps": "0,00 €",
+      "Tales of Valor - Spanish": "0,00 €",
+      "Tales of Valor - German": "0,00 €",
+      "Tales of Valor - Russian": "0,00 €",
+      "Tales of Valor - French": "0,00 €",
+      "Opposing Fronts - French": "0,00 €",
+      "Opposing Fronts - German": "0,00 €",
+      "Opposing Fronts - Russian": "0,00 €",
+      "Opposing Fronts - Spanish": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792354164522,
+          "price": 10.99,
+          "formattedPrice": "10,99 €",
+          "inAppPurchases": {
+            "Tales of Valor - Spanish": "0,00 €",
+            "Tales of Valor - German": "0,00 €",
+            "Tales of Valor - Russian": "0,00 €",
+            "Tales of Valor - French": "0,00 €",
+            "Tales of Valor": "3,29 €",
+            "Opposing Fronts - French": "0,00 €",
+            "Opposing Fronts - German": "0,00 €",
+            "Opposing Fronts - Russian": "0,00 €",
+            "Opposing Fronts - Spanish": "0,00 €",
+            "Opposing Fronts": "3,29 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782293360068,
@@ -84266,22 +84301,39 @@
       "Zenith Islands DLC": "2,99 €",
       "Prime Dimension DLC": "3,99 €",
       "Fancy Apparel": "17,99 €",
-      "Zenith Islands DLC Sale": "2,99 €",
-      "Prime Dimension DLC Sale": "2,99 €",
-      "Crystal Offer Sale": "9,99 €",
-      "Elite Offer Sale": "5,99 €",
-      "Fancy Apparel Offer Sale": "7,99 €",
+      "Zenith Islands DLC Sale": "1,99 €",
+      "Prime Dimension DLC Sale": "1,99 €",
+      "Crystal Offer Sale": "4,99 €",
+      "Elite Offer Sale": "2,99 €",
+      "Fancy Apparel Offer Sale": "4,99 €",
       "Starter Offer Sale": "1,99 €",
-      "Hunter Offer Sale": "5,99 €",
-      "Master Offer Sale": "9,99 €",
+      "Hunter Offer Sale": "2,99 €",
+      "Master Offer Sale": "4,99 €",
       "Crystal Offer": "10,99 €",
       "Elite Offer": "4,99 €",
-      "Spray kit": "3,99 €",
-      "Ascensio Kit": "5,99 €",
+      "Spray kit": "2,99 €",
+      "Ascensio Kit": "2,99 €",
       "Intro Offer (low)": "2,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1792354164522,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Spray kit": "2,99 €",
+            "Ascensio Kit": "2,99 €",
+            "Zenith Islands DLC Sale": "1,99 €",
+            "Prime Dimension DLC Sale": "1,99 €",
+            "Crystal Offer Sale": "4,99 €",
+            "Elite Offer Sale": "2,99 €",
+            "Fancy Apparel Offer Sale": "4,99 €",
+            "Starter Offer Sale": "1,99 €",
+            "Hunter Offer Sale": "2,99 €",
+            "Master Offer Sale": "4,99 €"
+          }
+        },
         {
           "timestamp": 1792293184436,
           "price": 4.99,
@@ -111571,6 +111623,25 @@
       "Mystic Mayhem Card Back": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792354164522,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "0,99 €",
+            "Santa Claws Pack": "4,99 €",
+            "Under the Tree location": "1,99 €",
+            "Santa Claws Emoji Pack": "0,99 €",
+            "All Wrapped Up outfit": "1,99 €",
+            "Snow Globe Outfit": "1,99 €",
+            "Mystic Mayhem Location": "0,99 €",
+            "MysticMayhem Cauldron Creature": "1,99 €",
+            "Mystic Mayhem Emoji Pack": "1,99 €",
+            "Mystic Mayhem Card Back": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785205787025,
