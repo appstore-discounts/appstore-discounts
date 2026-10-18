@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 525818839,
+    "region": "mo",
+    "timestamp": 1792319275424,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "瘟疫配套",
+        "from": "USD 12.99",
+        "to": "USD 10.99",
+        "range": "[USD 3.99 ~ USD 12.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id525818839",
+    "trackName": "Plague Inc. (瘟疫公司)",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 441142802,
     "region": "mo",
     "timestamp": 1792277703141,

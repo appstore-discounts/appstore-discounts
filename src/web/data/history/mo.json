@@ -35055,6 +35055,24 @@
     "history": [
       [
         {
+          "timestamp": 1792319275424,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Necroa病毒擴展包": "USD 1.99",
+            "解鎖全部基因": "USD 7.99",
+            "瘟疫配套": "USD 10.99",
+            "Neurax蠕蟲擴展包": "USD 1.99",
+            "解鎖七個基礎病原體": "USD 2.99",
+            "解開作弊模式": "USD 9.99",
+            "猿猴流感擴充包": "USD 1.99",
+            "場景包": "USD 2.99",
+            "紅魔瘟疫擴展包": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792231960258,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -186955,6 +186973,25 @@
     "history": [
       [
         {
+          "timestamp": 1792319275424,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 4.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Boeing 777-300ER": "USD 1.99",
+            "Airbus A320neo": "USD 3.99",
+            "Boeing 787-9": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -214642,6 +214679,23 @@
     "history": [
       [
         {
+          "timestamp": 1792319275424,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "綠色深淵": "USD 4.99",
+            "聖魔法學會的聖女": "USD 2.99",
+            "騎士的榮耀": "USD 1.99",
+            "角鬥場": "USD 1.99",
+            "動力裝甲": "USD 0.99",
+            "殉道者": "USD 2.99",
+            "狂戰士": "USD 0.99",
+            "傳奇之拳": "USD 1.99",
+            "支持者角色": "USD 0.49",
+            "支持者季票": "USD 0.49"
+          }
+        },
+        {
           "timestamp": 1792293184436,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -216516,7 +216570,8 @@
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
-      "英雄 德拉坎": "USD 6.99"
+      "英雄 德拉坎": "USD 6.99",
+      "英雄 阿什彼特": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -216534,9 +216589,29 @@
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
-      "英雄 德拉坎": "USD 6.99"
+      "英雄 德拉坎": "USD 6.99",
+      "英雄 阿什彼特": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792319275424,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "英雄 德拉坎": "USD 6.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全英雄禮包": "USD 29.99",
+            "展示 禮包 6": "USD 4.99",
+            "展示 禮包 5": "USD 5.99",
+            "展示 禮包 4": "USD 4.99",
+            "展示 禮包 3": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -217476,6 +217551,33 @@
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763518834": {
+    "trackId": 6763518834,
+    "trackName": "NaviBeat",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "NaviSyncRock": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "NaviSyncRock": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792319275424,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "NaviSyncRock": "USD 4.99"
+          }
         }
       ]
     ]

@@ -298623,5 +298623,32 @@
         }
       ]
     ]
+  },
+  "6763518834": {
+    "trackId": 6763518834,
+    "trackName": "NaviBeat",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "NaviSyncRock": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "NaviSyncRock": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792319275424,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "NaviSyncRock": "₺249,99"
+          }
+        }
+      ]
+    ]
   }
 }

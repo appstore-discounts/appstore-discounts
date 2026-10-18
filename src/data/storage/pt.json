@@ -147424,5 +147424,30 @@
         }
       ]
     ]
+  },
+  "6763518834": {
+    "name": "NaviBeat",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "NaviSyncRock": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "NaviSyncRock": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792319275424,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "NaviSyncRock": "5,99 €"
+          }
+        }
+      ]
+    ]
   }
 }
