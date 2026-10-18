@@ -23882,10 +23882,20 @@
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00",
-      "Premium": "$1,260.00",
+      "Premium": "$620.00",
       "Fitness Buddy Premium": "$890.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792293184436,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Premium": "$620.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788900351663,
@@ -29949,6 +29959,25 @@
       "Cuddly Starter Pack": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792293184436,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792231960258,
@@ -86403,6 +86432,23 @@
       "119 Gems": "$1,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792293184436,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "150 Gems": "$2,490.00",
+            "74 Gems": "$1,290.00",
+            "119 Gems": "$1,990.00",
+            "48 Gems": "$990.00",
+            "28 Gems": "$490.00",
+            "13 Gems": "$290.00",
+            "6 Gems": "$120.00",
+            "1 Gem": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792021392549,
