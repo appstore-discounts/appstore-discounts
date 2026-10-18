@@ -28697,6 +28697,14 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792081393556,
           "price": 0,
           "formattedPrice": "免费",
@@ -119832,6 +119840,16 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "终身高级版": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783944326400,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -137426,6 +137444,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789831584358,
@@ -163017,6 +163043,17 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791746494646,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -171900,6 +171937,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792337187582,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "DLC：魔法之镜": "¥5.00",
+            "奇境森林": "¥15.00"
+          }
+        },
         {
           "timestamp": 1792319275424,
           "price": 18,
@@ -186929,6 +186983,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792337187582,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "斜谷残阳": "¥36.00",
+            "冠绝天下": "¥36.00",
+            "五子良将": "¥36.00",
+            "重振汉室": "¥18.00"
+          }
+        },
         {
           "timestamp": 1792319275424,
           "price": 35,
@@ -237993,6 +238064,29 @@
           "inAppPurchases": {
             "NaviSyncRock": "¥38.00"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "trackId": 6775851661,
+    "trackName": "Agent Limbo - AI 编程助手",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -63383,6 +63383,42 @@
       ]
     ]
   },
+  "633625517": {
+    "trackId": 633625517,
+    "trackName": "Baldur's Gate II: EE",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99",
+      "A Price Paid in Blood": "₺149,99",
+      "A Voice in the Dark": "₺149,99",
+      "In Defense of the Wild": "₺149,99",
+      "Gallery of Heroes": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99",
+      "A Price Paid in Blood": "₺149,99",
+      "A Voice in the Dark": "₺149,99",
+      "In Defense of the Wild": "₺149,99",
+      "Gallery of Heroes": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "₺149,99",
+            "A Voice in the Dark": "₺149,99",
+            "In Defense of the Wild": "₺149,99",
+            "Gallery of Heroes": "₺149,99"
+          }
+        }
+      ]
+    ]
+  },
   "634158738": {
     "trackId": 634158738,
     "trackName": "e-Sword LT: Bible Study to Go",
@@ -249040,6 +249076,25 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "UH-60": "₺49,99",
+            "Boeing 787-10": "₺99,99",
+            "EC135": "₺49,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-800": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792267886340,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -295522,6 +295577,21 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "120 Diamonds": "₺199,99",
+            "Starter Pack 1": "₺99,99",
+            "4000 Diamonds": "₺4.999,99",
+            "50 Diamonds": "₺99,99",
+            "16 Base Heroes Unlock Pack": "₺1.999,99",
+            "700 Diamonds": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792267886340,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -298647,6 +298717,29 @@
           "inAppPurchases": {
             "NaviSyncRock": "₺249,99"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "trackId": 6775851661,
+    "trackName": "Agent Limbo: AI Coding",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
         }
       ]
     ]

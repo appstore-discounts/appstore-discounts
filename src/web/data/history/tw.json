@@ -42544,6 +42544,14 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792081393556,
           "price": 0,
           "formattedPrice": "免費",
@@ -61296,6 +61304,42 @@
           "formattedPrice": "$190.00",
           "inAppPurchases": {
             "432 Player Full Features": "$290.00"
+          }
+        }
+      ]
+    ]
+  },
+  "633625517": {
+    "trackId": 633625517,
+    "trackName": "Baldur's Gate II: EE",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "In Defense of the Wild": "$90.00",
+      "A Price Paid in Blood": "$90.00",
+      "A Voice in the Dark": "$90.00",
+      "Gallery of Heroes": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "In Defense of the Wild": "$90.00",
+      "A Price Paid in Blood": "$90.00",
+      "A Voice in the Dark": "$90.00",
+      "Gallery of Heroes": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "In Defense of the Wild": "$90.00",
+            "A Price Paid in Blood": "$90.00",
+            "A Voice in the Dark": "$90.00",
+            "Gallery of Heroes": "$90.00"
           }
         }
       ]
@@ -98767,6 +98811,14 @@
       "formattedPrice": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764693496320,
@@ -196061,6 +196113,14 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789831584358,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -203379,6 +203439,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791987672821,
@@ -228643,6 +228711,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791746494646,
@@ -272180,6 +272259,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792337187582,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Concorde": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        },
         {
           "timestamp": 1792267886340,
           "price": 120,
@@ -318098,6 +318194,19 @@
     "history": [
       [
         {
+          "timestamp": 1792337187582,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "$60.00",
+            "120 Diamonds": "$120.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        },
+        {
           "timestamp": 1792267886340,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -320466,14 +320575,22 @@
     "trackName": "Preserve: Complete Edition",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -320865,6 +320982,29 @@
           "inAppPurchases": {
             "NaviSyncRock": "$150.00"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "trackId": 6775851661,
+    "trackName": "Agent Limbo: AI Coding",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792337187582,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
         }
       ]
     ]
