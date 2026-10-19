@@ -46369,6 +46369,14 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 0,
           "formattedPrice": "Free",
@@ -111205,6 +111213,14 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764736516403,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -153328,7 +153344,11 @@
       "便捷礼包": "$2.99",
       "980心动包": "$14.99",
       "超值金币x4320": "$2.99",
-      "120心动包": "$1.99"
+      "120心动包": "$1.99",
+      "6480心动包": "$99.99",
+      "3280心动包": "$49.99",
+      "1980心动包": "$29.99",
+      "1280心动包": "$19.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -153342,9 +153362,32 @@
       "便捷礼包": "$2.99",
       "980心动包": "$14.99",
       "超值金币x4320": "$2.99",
-      "120心动包": "$1.99"
+      "120心动包": "$1.99",
+      "6480心动包": "$99.99",
+      "3280心动包": "$49.99",
+      "1980心动包": "$29.99",
+      "1280心动包": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792380382820,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6480心动包": "$99.99",
+            "3280心动包": "$49.99",
+            "1980心动包": "$29.99",
+            "1280心动包": "$19.99",
+            "980心动包": "$14.99",
+            "680心动包": "$9.99",
+            "300心动包": "$3.99",
+            "180心动包": "$2.99",
+            "60心动包": "$0.99",
+            "120心动包": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787928940020,
@@ -177402,6 +177445,25 @@
       "1980玉符": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792380382820,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "30金玉": "$4.99",
+            "198金玉": "$29.99",
+            "648金玉": "$99.99",
+            "禮包5": "$4.99",
+            "禮包6": "$9.99",
+            "禮包7": "$14.99",
+            "6金玉": "$0.99",
+            "尊享月俸": "$4.99",
+            "禮包9": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791800239201,
@@ -215112,6 +215174,14 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789875421958,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -233930,6 +234000,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792380382820,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792034629201,
@@ -256764,6 +256842,23 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Critical Mass": "$6.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Ultimate Pack (big discount)": "$4.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Survival Guide": "$2.99"
+          }
+        },
+        {
           "timestamp": 1792363669978,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -265487,6 +265582,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792380382820,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791800239201,
@@ -301111,6 +301217,23 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$2.99",
+            "200'000 Coins": "$0.99",
+            "500'000 Coins": "$1.99",
+            "John Deere 8R 410": "$1.99",
+            "Versatile 4WD 620": "$1.99",
+            "Amazone CITAN 15001-C": "$0.99",
+            "Case IH Speed-Tiller": "$0.99",
+            "KINZE 3665 Blue Drive": "$0.99",
+            "Mack Trucks Black Anthem 6x4": "$1.99",
+            "ClaasLexion8900+ConvioFlex1380": "$2.99"
+          }
+        },
+        {
           "timestamp": 1792363669978,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -304254,6 +304377,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792380382820,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        },
         {
           "timestamp": 1792363669978,
           "price": 3.99,
@@ -316960,6 +317100,23 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Ancient Warrior": "$0.99",
+            "Super Packs": "$1.99",
+            "Dragon Knight": "$2.99",
+            "Gems 3": "$49.99",
+            "Iron Giant": "$1.99",
+            "Gems 2": "$9.99",
+            "Gems 1": "$4.99",
+            "Unicorn Knight": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790552524601,
           "price": 2,
           "formattedPrice": "$2.00",
@@ -328441,6 +328598,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792380382820,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Slice of Heaven Outfit": "$1.99",
+            "Beach Day Card back": "$0.99"
+          }
+        },
         {
           "timestamp": 1792337187582,
           "price": 4.99,
@@ -353229,6 +353403,23 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI iPhone X a 12 Pro Max": "$1.99"
+          }
+        },
+        {
           "timestamp": 1792337187582,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -359485,6 +359676,23 @@
     "history": [
       [
         {
+          "timestamp": 1792380382820,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Ignus": "$2.99",
+            "Gems Handful": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Hero Oni": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        },
+        {
           "timestamp": 1792337187582,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -360333,14 +360541,22 @@
     "trackName": "Preserve: Complete Edition",
     "region": "us",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792380382820,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,

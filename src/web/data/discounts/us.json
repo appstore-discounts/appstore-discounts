@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1065599938,
+    "region": "us",
+    "timestamp": 1792380382820,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1065599938",
+    "trackName": "HARVEST MOON: Seeds Of Memories",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1538124245,
+    "region": "us",
+    "timestamp": 1792380382820,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 1644917705,
+    "region": "us",
+    "timestamp": 1792380382820,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1644917705",
+    "trackName": "Cyber Manhunt",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6449046261,
+    "region": "us",
+    "timestamp": 1792380382820,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.00",
+        "to": "$0.99",
+        "range": "[$0.29 ~ $2.00]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6449046261",
+    "trackName": "Crystania Wars 2-Roguelike TD",
+    "firstRecordedAt": 1745431369334
+  },
+  {
     "trackId": 441142802,
     "region": "us",
     "timestamp": 1792277703141,
