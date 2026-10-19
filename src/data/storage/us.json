@@ -39,6 +39,16 @@
     "history": [
       [
         {
+          "timestamp": 1792363669978,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 1": "$9.99",
+            "Pro Tier 2": "$99.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        },
+        {
           "timestamp": 1792354164522,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -64953,6 +64963,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792363669978,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99"
+          }
+        },
         {
           "timestamp": 1792354164522,
           "price": 9.99,
@@ -253857,7 +253884,9 @@
       "Shadows of the Past": "$6.99",
       "Season 2 Pass": "$9.99",
       "Season 2 Pass (Discount)": "$6.99",
-      "Seeds of Hope": "$6.99"
+      "Seeds of Hope": "$6.99",
+      "Custom Scenarios": "$6.99",
+      "Season 2 Pass (Full)": "$19.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -253876,9 +253905,30 @@
       "Shadows of the Past": "$6.99",
       "Season 2 Pass": "$9.99",
       "Season 2 Pass (Discount)": "$6.99",
-      "Seeds of Hope": "$6.99"
+      "Seeds of Hope": "$6.99",
+      "Custom Scenarios": "$6.99",
+      "Season 2 Pass (Full)": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363669978,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Custom Scenarios": "$6.99",
+            "Seeds of Hope": "$6.99",
+            "Season 2 Pass (Full)": "$19.99",
+            "Season 2 Pass (Discount)": "$6.99",
+            "Season 2 Pass": "$9.99",
+            "Shadows of the Past": "$6.99",
+            "Beyond the Bunkers": "$6.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Critical Mass": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791114629972,
@@ -297895,6 +297945,25 @@
     "history": [
       [
         {
+          "timestamp": 1792363669978,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "$1.99",
+            "Vervaet Hydro Trike 5x5": "$1.99",
+            "Kubota RTV-XG850 SIDEKICK": "$1.99",
+            "Case IH Austoft 8800 Multi-Row": "$1.99",
+            "Krone BiG Pack 1290 HDP VC": "$0.99",
+            "Kotte PQ 32000": "$0.99",
+            "KINZE 3665 Blue Drive": "$0.99",
+            "Versatile 4WD 620": "$1.99",
+            "Amazone CITAN 15001-C": "$0.99",
+            "Claas Xerion 5000": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792034629201,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -300980,6 +301049,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363669978,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "$3.99",
+            "Boeing 787-9": "$3.99",
+            "Airbus A320neo": "$3.99",
+            "Me 262": "$1.99",
+            "Boeing 737-800": "$2.99",
+            "Airbus A350-1000": "$3.99",
+            "Robin DR400": "$0.99",
+            "Boeing 777F": "$1.99",
+            "Airbus A319": "$1.99",
+            "Antares 21E": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792192561757,
