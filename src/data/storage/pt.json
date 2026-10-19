@@ -68441,7 +68441,17 @@
       "Black Dark Lord Skin Package": "8,99 €",
       "White Dark Lord Skin Package": "8,99 €",
       "Awakening Viper Package": "5,99 €",
-      "Myth full pack": "44,99 €"
+      "Myth full pack": "44,99 €",
+      "Monster Succession": "5,99 €",
+      "Dark Lord Boost Package": "9,99 €",
+      "Dark Lord Emma": "2,99 €",
+      "Dark Lord Floria": "2,99 €",
+      "Dark Lord Marielle": "2,99 €",
+      "Dark Lord Rebecca": "2,99 €",
+      "Dark Lord Tania": "2,99 €",
+      "Original Dungeon Package": "19,99 €",
+      "Original Monster Package": "9,99 €",
+      "Original Lord Skill Package": "19,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -68455,9 +68465,38 @@
       "Black Dark Lord Skin Package": "8,99 €",
       "White Dark Lord Skin Package": "8,99 €",
       "Awakening Viper Package": "5,99 €",
-      "Myth full pack": "44,99 €"
+      "Myth full pack": "44,99 €",
+      "Monster Succession": "5,99 €",
+      "Dark Lord Boost Package": "9,99 €",
+      "Dark Lord Emma": "2,99 €",
+      "Dark Lord Floria": "2,99 €",
+      "Dark Lord Marielle": "2,99 €",
+      "Dark Lord Rebecca": "2,99 €",
+      "Dark Lord Tania": "2,99 €",
+      "Original Dungeon Package": "19,99 €",
+      "Original Monster Package": "9,99 €",
+      "Original Lord Skill Package": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Monster Succession": "5,99 €",
+            "Dark Lord Boost Package": "9,99 €",
+            "Dark Lord Emma": "2,99 €",
+            "Dark Lord Floria": "2,99 €",
+            "Dark Lord Marielle": "2,99 €",
+            "Dark Lord Rebecca": "2,99 €",
+            "Dark Lord Tania": "2,99 €",
+            "Original Dungeon Package": "19,99 €",
+            "Original Monster Package": "9,99 €",
+            "Original Lord Skill Package": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789687785630,
@@ -137586,10 +137625,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772535071513,
@@ -142841,6 +142888,14 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791838643666,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -145868,16 +145923,31 @@
       "formattedPrice": "2,99 €",
       "终身护持": "17,99 €",
       "年度护持": "2,99 €",
-      "月度护持": "0,99 €"
+      "月度护持": "0,99 €",
+      "3-day Trial": "0,00 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
       "终身护持": "17,99 €",
       "年度护持": "2,99 €",
-      "月度护持": "0,99 €"
+      "月度护持": "0,99 €",
+      "3-day Trial": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "3-day Trial": "0,00 €",
+            "终身护持": "17,99 €",
+            "年度护持": "2,99 €",
+            "月度护持": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -147533,6 +147603,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791917735754,

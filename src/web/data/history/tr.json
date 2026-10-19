@@ -135670,6 +135670,22 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "₺6,99",
+            "Power Builder (monthly)": "₺20,99",
+            "Micro Tip": "₺49,99",
+            "Power Builder (yearly)": "₺169,99",
+            "Medium Tip": "₺99,99",
+            "The Ultimate Tip": "₺2.999,99",
+            "Super Mega Smashing Tip": "₺1.799,99",
+            "Super Smashing Tip": "₺999,99",
+            "Super Mega Tip": "₺499,99"
+          }
+        },
+        {
           "timestamp": 1792380382820,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -287698,10 +287714,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772535071513,
@@ -292972,6 +292996,14 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791838643666,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -296276,16 +296308,31 @@
       "formattedPrice": "₺149,99",
       "终身护持": "₺799,99",
       "年度护持": "₺149,99",
-      "月度护持": "₺19,99"
+      "月度护持": "₺19,99",
+      "3-day Trial": "₺0,00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "终身护持": "₺799,99",
       "年度护持": "₺149,99",
-      "月度护持": "₺19,99"
+      "月度护持": "₺19,99",
+      "3-day Trial": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-day Trial": "₺0,00",
+            "终身护持": "₺799,99",
+            "年度护持": "₺149,99",
+            "月度护持": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -298709,14 +298756,22 @@
     "trackName": "Enchanted Survival: Magic RPG",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,

@@ -4777,7 +4777,8 @@
       "HAA CinemaTools with HAA Link": "$4,990.00",
       "Amplitude Sweep": "$490.00",
       "Reference Files Module": "$490.00",
-      "Max Subwoofer SPL": "$990.00"
+      "Max Subwoofer SPL": "$990.00",
+      "Speaker Distortion": "$190.00"
     },
     "minPriceInfo": {
       "price": 320,
@@ -4807,9 +4808,29 @@
       "HAA CinemaTools with HAA Link": "$4,990.00",
       "Amplitude Sweep": "$490.00",
       "Reference Files Module": "$490.00",
-      "Max Subwoofer SPL": "$990.00"
+      "Max Subwoofer SPL": "$990.00",
+      "Speaker Distortion": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "Reference Files Module": "$490.00",
+            "All-In Module Access": "$320.00",
+            "Speaker Distortion": "$190.00",
+            "SPL Pro Module": "$290.00",
+            "ETC Module": "$190.00",
+            "SPL Graph Module": "$320.00",
+            "SoundScope VR": "$790.00",
+            "Polarity Test Module": "$120.00",
+            "IR Module": "$1,490.00",
+            "Transfer Function": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791131403610,
@@ -286857,6 +286878,22 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "12.99美元商品2": "$390.00",
+            "12.99美元商品": "$390.00",
+            "19.99美元商品": "$690.00",
+            "49.99美元商品": "$1,490.00",
+            "0.99美元商品": "$30.00",
+            "99.99美元商品": "$2,990.00",
+            "39.99美元商品": "$1,290.00",
+            "29.99美元商品": "$990.00"
+          }
+        },
+        {
           "timestamp": 1792380382820,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -309756,10 +309793,18 @@
       "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 10,
+      "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772535071513,
@@ -315556,6 +315601,14 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791858533377,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -318764,16 +318817,31 @@
       "formattedPrice": "$90.00",
       "终身护持": "$490.00",
       "年度护持": "$90.00",
-      "月度护持": "$30.00"
+      "月度护持": "$30.00",
+      "3-day Trial": "$0.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "终身护持": "$490.00",
       "年度护持": "$90.00",
-      "月度护持": "$30.00"
+      "月度护持": "$30.00",
+      "3-day Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "$0.00",
+            "终身护持": "$490.00",
+            "年度护持": "$90.00",
+            "月度护持": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -319748,6 +319816,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792412125162,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "全法術禮包": "$390.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包_B": "$790.00",
+            "全英雄禮包": "$990.00",
+            "英雄 鬼侍": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "塔 奧術鍛造匠": "$150.00"
+          }
+        },
         {
           "timestamp": 1792380382820,
           "price": 220,
@@ -320867,14 +320952,22 @@
     "trackName": "Enchanted Survival: 刷寶RPG",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,

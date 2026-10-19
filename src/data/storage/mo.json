@@ -23057,6 +23057,25 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 20": "USD 19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792249292215,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -183928,6 +183947,25 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 4.99",
+            "Airbus A319": "USD 1.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Boeing 777-300ER": "USD 1.99",
+            "Airbus A320neo": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792319275424,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -203310,10 +203348,18 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772535071513,
@@ -208413,6 +208459,14 @@
     "history": [
       [
         {
+          "timestamp": 1792412125162,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791858533377,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -211581,16 +211635,31 @@
       "formattedPrice": "USD 2.99",
       "终身护持": "USD 14.99",
       "年度护持": "USD 2.99",
-      "月度护持": "USD 0.99"
+      "月度护持": "USD 0.99",
+      "3-day Trial": "USD 0.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "终身护持": "USD 14.99",
       "年度护持": "USD 2.99",
-      "月度护持": "USD 0.99"
+      "月度护持": "USD 0.99",
+      "3-day Trial": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "USD 0.00",
+            "终身护持": "USD 14.99",
+            "年度护持": "USD 2.99",
+            "月度护持": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -212470,7 +212539,8 @@
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
       "英雄 德拉坎": "USD 6.99",
-      "英雄 阿什彼特": "USD 6.99"
+      "英雄 阿什彼特": "USD 6.99",
+      "英雄 鬼侍": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -212489,9 +212559,29 @@
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
       "英雄 德拉坎": "USD 6.99",
-      "英雄 阿什彼特": "USD 6.99"
+      "英雄 阿什彼特": "USD 6.99",
+      "英雄 鬼侍": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "英雄 鬼侍": "USD 4.99",
+            "英雄 德拉坎": "USD 6.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全英雄禮包": "USD 29.99",
+            "展示 禮包 6": "USD 4.99",
+            "展示 禮包 5": "USD 5.99",
+            "展示 禮包 4": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792319275424,
@@ -213085,14 +213175,22 @@
   "6812927976": {
     "name": "Enchanted Survival: 刷寶RPG",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792412125162,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
