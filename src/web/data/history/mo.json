@@ -145753,6 +145753,14 @@
     "history": [
       [
         {
+          "timestamp": 1792441380481,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792337187582,
           "price": 0,
           "formattedPrice": "免費",
@@ -154719,6 +154727,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792441380481,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784728313823,
@@ -172896,6 +172912,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792441380481,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -193046,6 +193070,19 @@
     "history": [
       [
         {
+          "timestamp": 1792441380481,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "USD 1.99",
+            "Dumb Phone Plus Yearly": "USD 59.90",
+            "Dumb Phone Plus Lifetime": "USD 79.99",
+            "Dumb Phone Plus Monthly": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -212980,6 +213017,14 @@
     "history": [
       [
         {
+          "timestamp": 1792441380481,
+          "price": 1.49,
+          "formattedPrice": "USD 1.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789575216572,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -216877,7 +216922,7 @@
       "全法術禮包": "USD 12.99",
       "展示 禮包 8": "USD 3.99",
       "全塔禮包_B": "USD 14.99",
-      "全英雄禮包": "USD 29.99",
+      "全英雄禮包": "USD 24.99",
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
       "英雄 德拉坎": "USD 6.99",
@@ -216885,6 +216930,25 @@
       "英雄 鬼侍": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792441380481,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "英雄 鬼侍": "USD 4.99",
+            "英雄 德拉坎": "USD 6.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全英雄禮包": "USD 24.99",
+            "展示 禮包 6": "USD 4.99",
+            "展示 禮包 5": "USD 5.99",
+            "展示 禮包 4": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792412125162,
@@ -217889,14 +217953,27 @@
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
-      "NaviSyncRock": "USD 4.99"
+      "NaviSyncRock": "USD 4.99",
+      "Library Doctor": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
-      "NaviSyncRock": "USD 4.99"
+      "NaviSyncRock": "USD 4.99",
+      "Library Doctor": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792441380481,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Library Doctor": "USD 3.99",
+            "NaviSyncRock": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792319275424,

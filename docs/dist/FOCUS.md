@@ -1652,7 +1652,7 @@ So far, we've covered `7` `Countries or Regions` and  `2348` `Apps` <br />Push n
 |706|1668418644|Automatic|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|❌|
 |705|6477756843|Automatic|❌|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|
 |704|6698876690|Automatic|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|
-|703|6742457882|Automatic|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|
+|703|6742457882|Automatic|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|
 |702|6471914901|Automatic|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|
 |701|300132735|Automatic|专业万年历经典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|
 |700|430234732|Automatic|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1587301632,
+    "region": "tw",
+    "timestamp": 1792441380481,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "免費",
+        "range": "[免費 ~ $120.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1587301632",
+    "trackName": "全能備忘錄",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6757846100,
+    "region": "tw",
+    "timestamp": 1792441380481,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$75.00",
+        "to": "$50.00",
+        "range": "[$50.00 ~ $75.00]"
+      }
+    ],
+    "price": 50,
+    "formattedPrice": "$50.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 6759238458,
     "region": "tw",
     "timestamp": 1792412125162,

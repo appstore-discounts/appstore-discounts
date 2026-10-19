@@ -8856,6 +8856,25 @@
     "history": [
       [
         {
+          "timestamp": 1792441380481,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Rank Up +2 Ranks": "0,99 €",
+            "Double Cash": "2,99 €",
+            "Healthy Bananas": "1,99 €",
+            "Explosive Darts": "1,99 €",
+            "Double Ranga": "1,99 €",
+            "Monkey Tycoon": "0,99 €",
+            "Frag Bombs": "0,99 €",
+            "Digital Amplification": "0,99 €",
+            "Dreadnought": "0,99 €",
+            "Crystal Ball": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789505670372,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -68480,6 +68499,23 @@
     "history": [
       [
         {
+          "timestamp": 1792441380481,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "3,99 €",
+            "TeaSet DarkLord Skin Package C": "5,99 €",
+            "Teaset Dark Lord Skin PackageB": "5,99 €",
+            "Teaset DarkLord Skin Package A": "5,99 €",
+            "Little Corr. Hero costume Pack": "29,99 €",
+            "Little Hero Costume Package": "29,99 €",
+            "Black Dark Lord Skin Package": "8,99 €",
+            "White Dark Lord Skin Package": "8,99 €",
+            "Awakening Viper Package": "5,99 €",
+            "Myth full pack": "44,99 €"
+          }
+        },
+        {
           "timestamp": 1792412125162,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -116527,16 +116563,28 @@
     ]
   },
   "6742457882": {
-    "name": "Deco – Lock Screen Wallpapers",
+    "name": "Deco: Wallpaper & Stickers",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Deco Plus": "4,19 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Deco Plus": "4,19 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792441380481,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Deco Plus": "4,19 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768010969598,
@@ -126877,6 +126925,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792441380481,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "New Holland T8.435 Genesis": "2,49 €",
+            "Krone BiG M 450": "2,49 €",
+            "Kubota RTV-XG850 SIDEKICK": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,
@@ -147854,14 +147921,27 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
-      "NaviSyncRock": "5,99 €"
+      "NaviSyncRock": "5,99 €",
+      "Library Doctor": "3,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
-      "NaviSyncRock": "5,99 €"
+      "NaviSyncRock": "5,99 €",
+      "Library Doctor": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792441380481,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Library Doctor": "3,99 €",
+            "NaviSyncRock": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792319275424,

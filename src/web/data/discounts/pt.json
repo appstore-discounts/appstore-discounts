@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6742457882,
+    "region": "pt",
+    "timestamp": 1792441380481,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6759238458,
     "region": "pt",
     "timestamp": 1792412125162,
@@ -24688,14 +24708,14 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "1,99 €",
-        "range": "[1,99 € ~ 2,99 €]"
+        "range": "[Gratuito ~ 2,99 €]"
       }
     ],
     "price": 1.99,
     "formattedPrice": "1,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1761797674362
   },
   {
