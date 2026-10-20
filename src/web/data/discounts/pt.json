@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6742457882,
+    "region": "pt",
+    "timestamp": 1792522570183,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Deco Plus",
+        "from": "4,19 €",
+        "to": "3,59 €",
+        "range": "[3,59 € ~ 4,19 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6759970821,
+    "region": "pt",
+    "timestamp": 1792522570183,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,29 €",
+        "range": "[0,29 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "0,29 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6759970821",
+    "trackName": "Dungeon Merge!",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 6504453094,
     "region": "pt",
     "timestamp": 1792483972912,

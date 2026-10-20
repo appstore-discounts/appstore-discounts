@@ -1,23 +1,43 @@
 [
   {
-    "trackId": 1444636541,
+    "trackId": 6742457882,
     "region": "us",
-    "timestamp": 1792483972912,
+    "timestamp": 1792522570183,
     "discounts": [
       {
         "type": "inAppPurchase",
-        "name": "Yearly Subscription",
-        "from": "$39.99",
-        "to": "$29.99",
-        "range": "[$7.99 ~ $39.99]"
+        "name": "Deco Plus",
+        "from": "$5.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $5.99]"
       }
     ],
     "price": 0,
     "formattedPrice": "Free",
     "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id1444636541",
-    "trackName": "Photomator – Photo Editor",
-    "firstRecordedAt": 1723994479838
+    "trackViewUrl": "https://apps.apple.com/us/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
+    "trackId": 6759970821,
+    "region": "us",
+    "timestamp": 1792522570183,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.29",
+        "range": "[$0.29 ~ $3.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "$0.29",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6759970821",
+    "trackName": "Dungeon Merge!",
+    "firstRecordedAt": 1787402209195
   },
   {
     "trackId": 1587301632,

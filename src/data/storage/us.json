@@ -7538,14 +7538,22 @@
   "317809458": {
     "name": "LiveATC Air Radio",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 5.99,
+      "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -173247,6 +173255,17 @@
     "history": [
       [
         {
+          "timestamp": 1792522570183,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$39.99",
+            "Monthly Subscription": "$7.99",
+            "Lifetime": "$119.99",
+            "Exclusive Lifetime Offer": "$79.99"
+          }
+        },
+        {
           "timestamp": 1792483972912,
           "price": 0,
           "formattedPrice": "Free",
@@ -313530,9 +313549,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Deco Plus": "$5.99"
+      "Deco Plus": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Deco Plus": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -354685,6 +354714,21 @@
       "700 Diamonds": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Starter Pack 1": "$1.99",
+            "120 Diamonds": "$3.99",
+            "4000 Diamonds": "$99.99",
+            "50 Diamonds": "$1.99",
+            "16 Base Heroes Unlock Pack": "$39.99",
+            "700 Diamonds": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,

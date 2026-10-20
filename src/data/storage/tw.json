@@ -4434,14 +4434,22 @@
   "317809458": {
     "name": "LiveATC Air Radio",
     "maxPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 190,
+      "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -69133,6 +69141,25 @@
       "$50 Credit": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "$90.00",
+            "$5 Credit": "$190.00",
+            "1 Mo. Global Texting": "$120.00",
+            "6 Mo. Global Texting": "$490.00",
+            "1 Mo. Fongo Ultimate": "$390.00",
+            "3 Mo. CAN Texting": "$190.00",
+            "12 Mo. CAN Texting": "$590.00",
+            "6 Mo. CAN Texting": "$320.00",
+            "$10 Credit": "$320.00",
+            "$20 Credit": "$690.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -171710,6 +171737,24 @@
       "《欧·亨利短篇小说精选》": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "2年联合VIP会员": "$990.00",
+            "每日外刊": "$290.00",
+            "VIP连续包季": "$270.00",
+            "VIP连续包月": "$120.00",
+            "一年联合VIP会员": "$690.00",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$990.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$990.00",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$990.00",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -279468,9 +279513,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Deco Plus": "$190.00"
+      "Deco Plus": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -314596,6 +314651,21 @@
       "700 Diamonds": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "$60.00",
+            "120 Diamonds": "$120.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,

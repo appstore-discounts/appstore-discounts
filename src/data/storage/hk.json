@@ -4087,14 +4087,22 @@
   "317809458": {
     "name": "LiveATC Air Radio",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -133063,6 +133071,25 @@
     "history": [
       [
         {
+          "timestamp": 1792522570183,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Design Frame Package": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Geometric Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Upgrade Deluxe Edition": "HK$ 48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791568819448,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -231370,6 +231397,16 @@
     "history": [
       [
         {
+          "timestamp": 1792522570183,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "解鎖 Pro": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792249292215,
           "price": 0,
           "formattedPrice": "免費",
@@ -302426,6 +302463,21 @@
       "700 Diamonds": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "HK$ 18.00",
+            "120 Diamonds": "HK$ 32.00",
+            "4000 Diamonds": "HK$ 788.00",
+            "50 Diamonds": "HK$ 18.00",
+            "16 Base Heroes Unlock Pack": "HK$ 288.00",
+            "700 Diamonds": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,

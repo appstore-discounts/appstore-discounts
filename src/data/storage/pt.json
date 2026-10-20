@@ -2318,14 +2318,22 @@
   "317809458": {
     "name": "LiveATC Air Radio",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -15675,7 +15683,17 @@
       "Furniture Starter Pack": "9,99 €",
       "Structures Starter Pack": "6,99 €",
       "Creepy Starter Pack": "9,99 €",
-      "Cuddly Starter Pack": "6,99 €"
+      "Cuddly Starter Pack": "6,99 €",
+      "City Folk - Skin Pack": "1,99 €",
+      "Town Folk - Skin Pack": "1,99 €",
+      "Halloween - Skin Pack": "1,99 €",
+      "Biome Settlers - Skin Pack": "1,99 €",
+      "Holiday 2015 - Skin Pack": "1,99 €",
+      "Redstone Specialists - Skin Pack": "1,99 €",
+      "Journey to the West - Skin Pack": "1,99 €",
+      "Story Mode - Skin Pack": "2,99 €",
+      "Biome Settlers - Skin Pack 2": "1,99 €",
+      "Realms Plus: You + 10 Friends": "7,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -15703,10 +15721,37 @@
       "Furniture Starter Pack": "9,99 €",
       "Structures Starter Pack": "6,99 €",
       "Creepy Starter Pack": "9,99 €",
-      "Cuddly Starter Pack": "6,99 €"
+      "Cuddly Starter Pack": "6,99 €",
+      "City Folk - Skin Pack": "1,99 €",
+      "Town Folk - Skin Pack": "1,99 €",
+      "Halloween - Skin Pack": "1,99 €",
+      "Biome Settlers - Skin Pack": "1,99 €",
+      "Holiday 2015 - Skin Pack": "1,99 €",
+      "Redstone Specialists - Skin Pack": "1,99 €",
+      "Journey to the West - Skin Pack": "1,99 €",
+      "Story Mode - Skin Pack": "2,99 €",
+      "Biome Settlers - Skin Pack 2": "1,99 €",
+      "Realms Plus: You + 10 Friends": "7,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1792522570183,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "City Folk - Skin Pack": "1,99 €",
+            "Town Folk - Skin Pack": "1,99 €",
+            "Halloween - Skin Pack": "1,99 €",
+            "Biome Settlers - Skin Pack": "1,99 €",
+            "Holiday 2015 - Skin Pack": "1,99 €",
+            "Redstone Specialists - Skin Pack": "1,99 €",
+            "Journey to the West - Skin Pack": "1,99 €",
+            "Story Mode - Skin Pack": "2,99 €",
+            "Biome Settlers - Skin Pack 2": "1,99 €",
+            "Realms Plus: You + 10 Friends": "7,99 €"
+          }
+        },
         {
           "timestamp": 1792505275724,
           "price": 6.99,
@@ -18449,6 +18494,25 @@
       "Chapter 9": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter N": "3,99 €",
+            "Chapter D": "5,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter 10": "5,99 €",
+            "Chapter 9": "5,99 €",
+            "Chapter S": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -116836,9 +116900,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Deco Plus": "4,19 €"
+      "Deco Plus": "3,59 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Deco Plus": "3,59 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -145933,6 +146007,21 @@
       "700 Diamonds": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522570183,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "120 Diamonds": "3,99 €",
+            "Starter Pack 1": "1,99 €",
+            "4000 Diamonds": "99,99 €",
+            "50 Diamonds": "1,99 €",
+            "16 Base Heroes Unlock Pack": "44,99 €",
+            "700 Diamonds": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,

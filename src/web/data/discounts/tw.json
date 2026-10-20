@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6742457882,
+    "region": "tw",
+    "timestamp": 1792522570183,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Deco Plus",
+        "from": "$190.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $190.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
+    "trackId": 6759970821,
+    "region": "tw",
+    "timestamp": 1792522570183,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $90.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6759970821",
+    "trackName": "地牢合併!（Dungeon Merge!）",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 6504453094,
     "region": "tw",
     "timestamp": 1792483972912,
