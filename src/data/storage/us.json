@@ -173945,6 +173945,23 @@
     "history": [
       [
         {
+          "timestamp": 1792505275724,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Resource Package": "$2.99",
+            "Teammate Package": "$4.99",
+            "Role Package III": "$9.99",
+            "60 gems": "$0.99",
+            "Role Package": "$2.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "Heroic Package#2": "$9.99",
+            "310 gems": "$4.99",
+            "Bronze Decree": "$25.99"
+          }
+        },
+        {
           "timestamp": 1792483972912,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -206962,6 +206979,14 @@
     "history": [
       [
         {
+          "timestamp": 1792505275724,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -212112,6 +212137,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -223216,6 +223249,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -264555,6 +264596,16 @@
       "Pro Unlock": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Unlock": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792249292215,
@@ -357206,6 +357257,79 @@
           "timestamp": 1792337187582,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749500972": {
+    "name": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "元气漫画季会员": "$4.99",
+      "元气漫画月会员": "$2.99",
+      "元气漫画年会员": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "元气漫画季会员": "$4.99",
+      "元气漫画月会员": "$2.99",
+      "元气漫画年会员": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "元气漫画季会员": "$4.99",
+            "元气漫画月会员": "$2.99",
+            "元气漫画年会员": "$14.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6811365567": {
+    "name": "運氣修仙",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "name": "Turkish Coffeehouse Simulator",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

@@ -22331,7 +22331,8 @@
       "Technocraft": "₺99,99",
       "Synthetix Beats": "₺99,99",
       "Oldschool Breakbeats": "₺99,99",
-      "Sliced Synth Sequences": "₺149,99"
+      "Sliced Synth Sequences": "₺149,99",
+      "FL Cloud Mobile": "₺129,99"
     },
     "minPriceInfo": {
       "price": 399.99,
@@ -22358,10 +22359,27 @@
       "Technocraft": "₺99,99",
       "Synthetix Beats": "₺99,99",
       "Oldschool Breakbeats": "₺99,99",
-      "Sliced Synth Sequences": "₺149,99"
+      "Sliced Synth Sequences": "₺149,99",
+      "FL Cloud Mobile": "₺129,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792505275724,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "₺129,99",
+            "Ferrous Mobile": "₺149,99",
+            "Hyper-Pop Mobile": "₺149,99",
+            "Chip-Tune Mobile": "₺149,99",
+            "Essential Winds": "₺99,99",
+            "Essential Strings": "₺99,99",
+            "DubTechno": "₺99,99",
+            "Chill-Lo-Fi Mobile": "₺99,99",
+            "Technocraft": "₺99,99"
+          }
+        },
         {
           "timestamp": 1792483972912,
           "price": 399.99,
@@ -87458,6 +87476,25 @@
       "下载包318": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纯净模式1个月": "₺17,99",
+            "纯净模式6个月": "₺87,99",
+            "纯净模式12个月": "₺144,99",
+            "纯净模式永久": "₺1.499,99",
+            "金紫会员1个月": "₺59,99",
+            "金紫会员12个月": "₺399,99",
+            "金紫会员6个月": "₺229,99",
+            "金紫会员永久": "₺1.999,99",
+            "下载次数": "₺4,99",
+            "永久金紫会员": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789269826669,
@@ -190061,6 +190098,14 @@
     "history": [
       [
         {
+          "timestamp": 1792505275724,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -191885,6 +191930,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -198856,6 +198909,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -230420,6 +230481,16 @@
     "history": [
       [
         {
+          "timestamp": 1792505275724,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Pro Unlock": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792249292215,
           "price": 0,
           "formattedPrice": "Free",
@@ -235787,6 +235858,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792505275724,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "39.99美元商品": "₺1.999,99",
+            "12.99美元商品": "₺699,99",
+            "89.99美元商品": "₺4.999,99",
+            "3.99美元商品": "₺199,99",
+            "99.99美元商品": "₺4.999,99",
+            "49.99美元商品": "₺2.499,99",
+            "19.99美元商品": "₺999,99"
+          }
+        },
         {
           "timestamp": 1792483972912,
           "price": 19.99,
@@ -297742,6 +297827,25 @@
     "history": [
       [
         {
+          "timestamp": 1792505275724,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Gems Wagon": "₺2.499,99",
+            "ALL SPELLS BUNDLE": "₺699,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792380382820,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -299419,6 +299523,85 @@
           "timestamp": 1792337187582,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749500972": {
+    "trackId": 6749500972,
+    "trackName": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "元气漫画年会员": "₺799,99",
+      "元气漫画月会员": "₺149,99",
+      "元气漫画季会员": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "元气漫画年会员": "₺799,99",
+      "元气漫画月会员": "₺149,99",
+      "元气漫画季会员": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "元气漫画年会员": "₺799,99",
+            "元气漫画月会员": "₺149,99",
+            "元气漫画季会员": "₺249,99"
+          }
+        }
+      ]
+    ]
+  },
+  "6811365567": {
+    "trackId": 6811365567,
+    "trackName": "運氣修仙",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "trackId": 6805775608,
+    "trackName": "Turkish Coffeehouse Simulator",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]

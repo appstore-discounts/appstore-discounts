@@ -16114,6 +16114,23 @@
     "history": [
       [
         {
+          "timestamp": 1792505275724,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1792483972912,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -90047,6 +90064,14 @@
     "history": [
       [
         {
+          "timestamp": 1792505275724,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -91402,6 +91427,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -95782,6 +95815,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -110396,6 +110437,16 @@
       "Desbloqueio Pro": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Desbloqueio Pro": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792249292215,
@@ -152288,6 +152339,85 @@
           "timestamp": 1792337187582,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749500972": {
+    "trackId": 6749500972,
+    "trackName": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "元气漫画年会员": "17,99 €",
+      "元气漫画月会员": "2,99 €",
+      "元气漫画季会员": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "元气漫画年会员": "17,99 €",
+      "元气漫画月会员": "2,99 €",
+      "元气漫画季会员": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "元气漫画年会员": "17,99 €",
+            "元气漫画月会员": "2,99 €",
+            "元气漫画季会员": "5,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6811365567": {
+    "trackId": 6811365567,
+    "trackName": "運氣修仙",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "trackId": 6805775608,
+    "trackName": "Kahvehane Simülatörü",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792505275724,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
