@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1551480486,
+    "region": "mo",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1551480486",
+    "trackName": "IFR Trainer",
+    "firstRecordedAt": 1773754856197
+  },
+  {
+    "trackId": 6742457882,
+    "region": "mo",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
     "trackId": 1587301632,
     "region": "mo",
     "timestamp": 1792441380481,
@@ -25097,14 +25137,14 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 2.99]"
+        "range": "[免費 ~ USD 2.99]"
       }
     ],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {
@@ -41358,14 +41398,14 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 2.99]"
+        "range": "[免費 ~ USD 2.99]"
       }
     ],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {

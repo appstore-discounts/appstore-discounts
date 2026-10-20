@@ -155865,6 +155865,27 @@
       ]
     ]
   },
+  "1445593893": {
+    "name": "Journey",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1445772666": {
     "name": "Keep Talking & Nobody Explodes",
     "maxPriceInfo": {
@@ -195440,10 +195461,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -279207,16 +279236,28 @@
     ]
   },
   "6742457882": {
-    "name": "Deco – Lock Screen Wallpapers",
+    "name": "Deco: Wallpaper & Stickers",
     "maxPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "Deco Plus": "$190.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Deco Plus": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767976661615,
@@ -315539,7 +315580,7 @@
       "全法術禮包": "$390.00",
       "展示 禮包 8": "$120.00",
       "全塔禮包_B": "$490.00",
-      "全英雄禮包": "$990.00",
+      "全英雄禮包": "$790.00",
       "全塔禮包": "$690.00",
       "英雄 德拉坎": "$220.00",
       "英雄 阿什彼特": "$220.00",
@@ -315565,6 +315606,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792454818639,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包_B": "$790.00",
+            "全英雄禮包": "$790.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "英雄 鬼侍": "$150.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "塔 奧術鍛造匠": "$150.00"
+          }
+        },
         {
           "timestamp": 1792441380481,
           "price": 220,

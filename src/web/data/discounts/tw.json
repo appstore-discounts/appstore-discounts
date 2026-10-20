@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1551480486,
+    "region": "tw",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1551480486",
+    "trackName": "IFR Trainer",
+    "firstRecordedAt": 1773754856197
+  },
+  {
+    "trackId": 6742457882,
+    "region": "tw",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
+    "trackId": 6759664029,
+    "region": "tw",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "全英雄禮包",
+        "from": "$990.00",
+        "to": "$790.00",
+        "range": "[$790.00 ~ $990.00]"
+      }
+    ],
+    "price": 220,
+    "formattedPrice": "$220.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6759664029",
+    "trackName": "Kingdom Rush 6: Genesis TD",
+    "firstRecordedAt": 1790197705213
+  },
+  {
     "trackId": 1587301632,
     "region": "tw",
     "timestamp": 1792441380481,
@@ -25456,14 +25516,14 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$60.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 60,
     "formattedPrice": "$60.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {
@@ -43466,14 +43526,14 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 30,
     "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {

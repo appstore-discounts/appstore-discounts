@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1551480486,
+    "region": "tr",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1551480486",
+    "trackName": "IFR Trainer",
+    "firstRecordedAt": 1773754856197
+  },
+  {
+    "trackId": 1587301632,
+    "region": "tr",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "Free",
+        "range": "[Free ~ ₺199,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1587301632",
+    "trackName": "All In One Memo",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6742457882,
+    "region": "tr",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "Free",
+        "range": "[Free ~ ₺149,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
+    "trackId": 6757846100,
+    "region": "tr",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺129,90",
+        "to": "₺90,99",
+        "range": "[₺90,99 ~ ₺129,90]"
+      }
+    ],
+    "price": 90.99,
+    "formattedPrice": "₺90,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 6759238458,
     "region": "tr",
     "timestamp": 1792412125162,
@@ -26227,7 +26307,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺99,99",
-        "range": "[₺39,99 ~ ₺149,99]"
+        "range": "[Free ~ ₺149,99]"
       }
     ],
     "price": 99.99,
@@ -44658,7 +44738,7 @@
         "name": "Price",
         "from": "₺129,99",
         "to": "₺39,99",
-        "range": "[₺39,99 ~ ₺149,99]"
+        "range": "[Free ~ ₺149,99]"
       }
     ],
     "price": 39.99,

@@ -60044,6 +60044,23 @@
     "history": [
       [
         {
+          "timestamp": 1792454818639,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "HK$ 0.00",
+            "A MAJOR'S LOW BLOW": "HK$ 0.00",
+            "DEEP BLUE": "HK$ 0.00",
+            "BEAST OF SHADOWS": "HK$ 0.00",
+            "BEEPING BOBBIE": "HK$ 0.00",
+            "CAMPBELL'S CANS": "HK$ 8.00",
+            "HIGH FIVE": "HK$ 8.00",
+            "LOW RIDER": "HK$ 8.00",
+            "ISAAC'S NEW TONES": "HK$ 8.00",
+            "GROOVY GUT SHAKER": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1792441380481,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -160045,6 +160062,29 @@
       ]
     ]
   },
+  "1445593893": {
+    "trackId": 1445593893,
+    "trackName": "Journey",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1445772666": {
     "trackId": 1445772666,
     "trackName": "Keep Talking & Nobody Explodes",
@@ -199162,10 +199202,18 @@
       "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -240951,6 +240999,25 @@
     "history": [
       [
         {
+          "timestamp": 1792454818639,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "月下追魂": "HK$ 48.00",
+            "自創武將": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "無雙戰神": "HK$ 48.00",
+            "自創地圖": "HK$ 32.00",
+            "鎮海神威": "HK$ 22.00",
+            "巾幗綻芳華": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792267886340,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -273995,17 +274062,29 @@
   },
   "6742457882": {
     "trackId": 6742457882,
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "region": "hk",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "Deco Plus": "HK$ 34.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Deco Plus": "HK$ 34.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "HK$ 34.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767976661615,

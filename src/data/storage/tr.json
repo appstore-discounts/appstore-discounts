@@ -151196,6 +151196,27 @@
       ]
     ]
   },
+  "1445593893": {
+    "name": "Journey",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1445772666": {
     "name": "Keep Talking & Nobody Explodes",
     "maxPriceInfo": {
@@ -190319,6 +190340,14 @@
     "history": [
       [
         {
+          "timestamp": 1792454818639,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792363669978,
           "price": 0,
           "formattedPrice": "Free",
@@ -191957,10 +191986,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -193887,6 +193924,25 @@
       "Nexus of Nightmares": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "₺0,00",
+            "Siege of Shadows": "₺249,99",
+            "Dawncaster Mega Bundle": "₺699,99",
+            "Infernal Invasions": "₺299,99",
+            "Masks of Misery": "₺249,99",
+            "Dawncaster Origins Bundle": "₺249,99",
+            "Death of Divinity": "₺249,99",
+            "Tribes of Twilight": "₺249,99",
+            "Eclypse Supporter Pack": "₺199,99",
+            "Nexus of Nightmares": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -207455,6 +207511,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784757792925,
@@ -227165,6 +227229,14 @@
       "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -262750,11 +262822,21 @@
       "Deco Plus": "₺124,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Deco Plus": "₺124,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Deco Plus": "₺124,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -266886,6 +266968,19 @@
       "Dumb Phone Plus Weekly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "₺99,99",
+            "Dumb Phone Plus Yearly": "₺2.999,99",
+            "Dumb Phone Plus Monthly": "₺399,99",
+            "Dumb Phone Plus Lifetime": "₺3.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789772536425,
@@ -289469,6 +289564,14 @@
       "formattedPrice": "₺90,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 90.99,
+          "formattedPrice": "₺90,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789601594897,

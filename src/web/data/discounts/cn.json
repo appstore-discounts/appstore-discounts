@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1551480486,
+    "region": "cn",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥15.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1551480486",
+    "trackName": "IFR Trainer",
+    "firstRecordedAt": 1773754856197
+  },
+  {
+    "trackId": 6742457882,
+    "region": "cn",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
     "trackId": 1587301632,
     "region": "cn",
     "timestamp": 1792441380481,
@@ -13929,14 +13969,14 @@
         "name": "Price",
         "from": "¥22.00",
         "to": "¥15.00",
-        "range": "[¥8.00 ~ ¥22.00]"
+        "range": "[免费 ~ ¥22.00]"
       }
     ],
     "price": 15,
     "formattedPrice": "¥15.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {
@@ -24488,14 +24528,14 @@
         "name": "Price",
         "from": "¥22.00",
         "to": "¥8.00",
-        "range": "[¥8.00 ~ ¥22.00]"
+        "range": "[免费 ~ ¥22.00]"
       }
     ],
     "price": 8,
     "formattedPrice": "¥8.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {

@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2348` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2349` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2349|1445593893|Automatic|❌|Journey|Journey|Journey|Journey|Journey|Journey|
 |2348|633625517|Automatic|❌|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|
 |2347|6775851661|Automatic|Agent Limbo - AI 编程助手|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|
 |2346|6763518834|Automatic|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|
@@ -1652,7 +1653,7 @@ So far, we've covered `7` `Countries or Regions` and  `2348` `Apps` <br />Push n
 |706|1668418644|Automatic|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|❌|
 |705|6477756843|Automatic|❌|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|
 |704|6698876690|Automatic|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|
-|703|6742457882|Automatic|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|
+|703|6742457882|Automatic|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|Deco: Wallpaper & Stickers|
 |702|6471914901|Automatic|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|
 |701|300132735|Automatic|专业万年历经典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|
 |700|430234732|Automatic|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1551480486,
+    "region": "hk",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1551480486",
+    "trackName": "IFR Trainer",
+    "firstRecordedAt": 1773754856197
+  },
+  {
+    "trackId": 6742457882,
+    "region": "hk",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
     "trackId": 1587301632,
     "region": "hk",
     "timestamp": 1792441380481,
@@ -25121,14 +25161,14 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[免費 ~ HK$ 22.00]"
       }
     ],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {
@@ -42167,14 +42207,14 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[免費 ~ HK$ 22.00]"
       }
     ],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {

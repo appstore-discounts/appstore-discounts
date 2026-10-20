@@ -139412,10 +139412,18 @@
       "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -182974,16 +182982,28 @@
     ]
   },
   "6742457882": {
-    "name": "Deco – Lock Screen Wallpapers",
+    "name": "Deco: Wallpaper & Stickers",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "¥22.00"
+      "formattedPrice": "¥22.00",
+      "Deco Plus": "¥18.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 0,
+      "formattedPrice": "免费",
+      "Deco Plus": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792454818639,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Deco Plus": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767976661615,
@@ -185077,6 +185097,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792454818639,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "斜谷残阳": "¥36.00",
+            "镇海神威": "¥18.00",
+            "五子良将": "¥36.00",
+            "重振汉室": "¥18.00"
+          }
+        },
         {
           "timestamp": 1792441380481,
           "price": 35,

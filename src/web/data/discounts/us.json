@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1551480486,
+    "region": "us",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1551480486",
+    "trackName": "IFR Trainer",
+    "firstRecordedAt": 1773754856197
+  },
+  {
+    "trackId": 6742457882,
+    "region": "us",
+    "timestamp": 1792454818639,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
     "trackId": 6759238458,
     "region": "us",
     "timestamp": 1792412125162,
@@ -25554,14 +25594,14 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $2.99]"
+        "range": "[Free ~ $2.99]"
       }
     ],
     "price": 1.99,
     "formattedPrice": "$1.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {
@@ -43232,14 +43272,14 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $2.99]"
+        "range": "[Free ~ $2.99]"
       }
     ],
     "price": 0.99,
     "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {
