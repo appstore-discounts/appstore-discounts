@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1444636541,
+    "region": "us",
+    "timestamp": 1792483972912,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly Subscription",
+        "from": "$39.99",
+        "to": "$29.99",
+        "range": "[$7.99 ~ $39.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1444636541",
+    "trackName": "Photomator – Photo Editor",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 1587301632,
+    "region": "us",
+    "timestamp": 1792483972912,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "Free",
+        "range": "[Free ~ $3.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1587301632",
+    "trackName": "All In One Memo",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6504453094,
+    "region": "us",
+    "timestamp": 1792483972912,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.29",
+        "range": "[$0.29 ~ $1.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "$0.29",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6504453094",
+    "trackName": "Black Border 2",
+    "firstRecordedAt": 1755551439427
+  },
+  {
+    "trackId": 6757846100,
+    "region": "us",
+    "timestamp": 1792483972912,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 1551480486,
     "region": "us",
     "timestamp": 1792454818639,

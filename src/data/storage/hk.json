@@ -68139,6 +68139,23 @@
     "history": [
       [
         {
+          "timestamp": 1792483972912,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00",
+            "$20 Credit": "HK$ 148.00"
+          }
+        },
+        {
           "timestamp": 1792441380481,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -117357,6 +117374,34 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1191380081": {
+    "name": "PractiScore Competitor",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
+      "Pro features monthly subscription": "HK$ 18.00",
+      "Pro features annual subscription": "HK$ 118.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
+      "Pro features monthly subscription": "HK$ 18.00",
+      "Pro features annual subscription": "HK$ 118.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792483972912,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Pro features monthly subscription": "HK$ 18.00",
+            "Pro features annual subscription": "HK$ 118.00"
+          }
         }
       ]
     ]
@@ -217818,6 +217863,25 @@
     "history": [
       [
         {
+          "timestamp": 1792483972912,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "pack 21": "HK$ 58.00",
+            "Special Daily Pack20": "HK$ 22.00",
+            "Special Daily Pack19": "HK$ 18.00",
+            "Special Daily Pack18": "HK$ 32.00",
+            "Special Daily Pack17": "HK$ 32.00",
+            "Special Daily Pack16": "HK$ 22.00",
+            "Special Daily Pack15": "HK$ 18.00",
+            "Special Daily Pack14": "HK$ 22.00",
+            "Special Daily Pack12": "HK$ 22.00",
+            "Special Daily Pack11": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792412125162,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -283211,6 +283275,14 @@
     "history": [
       [
         {
+          "timestamp": 1792483972912,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -301738,7 +301810,8 @@
       "狂戰士": "HK$ 8.00",
       "綠色深淵": "HK$ 38.00",
       "支持者角色": "HK$ 2.00",
-      "支持者季票": "HK$ 2.00"
+      "支持者季票": "HK$ 2.00",
+      "支持者技能裝備": "HK$ 2.00"
     },
     "minPriceInfo": {
       "price": 32,
@@ -301752,9 +301825,29 @@
       "狂戰士": "HK$ 8.00",
       "綠色深淵": "HK$ 38.00",
       "支持者角色": "HK$ 2.00",
-      "支持者季票": "HK$ 2.00"
+      "支持者季票": "HK$ 2.00",
+      "支持者技能裝備": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792483972912,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "傳奇之拳": "HK$ 18.00",
+            "角鬥場": "HK$ 18.00",
+            "殉道者": "HK$ 22.00",
+            "騎士的榮耀": "HK$ 18.00",
+            "聖魔法學會的聖女": "HK$ 22.00",
+            "狂戰士": "HK$ 8.00",
+            "支持者技能裝備": "HK$ 2.00",
+            "支持者季票": "HK$ 2.00",
+            "動力裝甲": "HK$ 8.00",
+            "支持者角色": "HK$ 2.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786464021561,
