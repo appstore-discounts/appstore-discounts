@@ -35593,21 +35593,38 @@
   },
   "725234217": {
     "trackId": 725234217,
-    "trackName": "Rock Drum Machine",
+    "trackName": "Rock Drum Machine: Real Drums",
     "region": "cn",
     "maxPriceInfo": {
       "price": 128,
       "formattedPrice": "¥128.00",
       "John": "¥38.00",
-      "Mike": "¥38.00"
+      "Mike": "¥38.00",
+      "Studio Mix": "¥58.00",
+      "Rock DM Full Access": "¥168.00"
     },
     "minPriceInfo": {
-      "price": 128,
-      "formattedPrice": "¥128.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "John": "¥38.00",
-      "Mike": "¥38.00"
+      "Mike": "¥38.00",
+      "Studio Mix": "¥58.00",
+      "Rock DM Full Access": "¥168.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "John": "¥38.00",
+            "Mike": "¥38.00",
+            "Studio Mix": "¥58.00",
+            "Rock DM Full Access": "¥168.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760941181671,
@@ -86714,6 +86731,14 @@
     "history": [
       [
         {
+          "timestamp": 1792581288748,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791633510449,
           "price": 0,
           "formattedPrice": "免费",
@@ -119889,6 +119914,16 @@
     "history": [
       [
         {
+          "timestamp": 1792581288748,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "终身高级版": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792337187582,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -149688,10 +149723,25 @@
       "年度会员": "¥28.00",
       "月度会员": "¥8.00",
       "季度会员": "¥12.00",
-      "终身会员 - 教育版": "¥78.00",
-      "年度会员升级终身会员": "¥78.00"
+      "终身会员 - 教育版": "¥58.00",
+      "年度会员升级终身会员": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身会员": "¥68.00",
+            "年度会员": "¥28.00",
+            "月度会员": "¥8.00",
+            "季度会员": "¥38.00",
+            "终身会员 - 教育版": "¥58.00",
+            "年度会员升级终身会员": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -187245,6 +187295,23 @@
     "history": [
       [
         {
+          "timestamp": 1792581288748,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "终身版": "¥45.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "重振汉室": "¥18.00",
+            "冠绝天下": "¥36.00"
+          }
+        },
+        {
           "timestamp": 1792553339588,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -216781,6 +216848,25 @@
     "history": [
       [
         {
+          "timestamp": 1792581288748,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "扩充章节 U": "¥28.00",
+            "里莫的秘密书房: 白金方案": "¥28.80",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "调律计划：PinocchioP精选辑": "¥28.00",
+            "扩充章节 X": "¥28.00",
+            "十周年纪念章节 重逢之音 Phase I": "¥35.00",
+            "调律计划：虚拟歌手精选辑": "¥28.00",
+            "扩充章节 H": "¥28.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792483972912,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -232178,7 +232264,7 @@
   },
   "6740698426": {
     "trackId": 6740698426,
-    "trackName": "帝国传奇：像素英雄",
+    "trackName": "Empires Game",
     "region": "cn",
     "maxPriceInfo": {
       "price": 22,
@@ -238167,14 +238253,22 @@
     "trackName": "武士零",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
+      "price": 24,
+      "formattedPrice": "¥24.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 24,
+          "formattedPrice": "¥24.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790683950818,

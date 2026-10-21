@@ -52122,21 +52122,38 @@
   },
   "725234217": {
     "trackId": 725234217,
-    "trackName": "Rock Drum Machine",
+    "trackName": "Rock Drum Machine: Real Drums",
     "region": "mo",
     "maxPriceInfo": {
       "price": 17.99,
       "formattedPrice": "USD 17.99",
       "John": "USD 4.99",
-      "Mike": "USD 4.99"
+      "Mike": "USD 4.99",
+      "Studio Mix": "USD 8.99",
+      "Rock DM Full Access": "USD 22.99"
     },
     "minPriceInfo": {
-      "price": 17.99,
-      "formattedPrice": "USD 17.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "John": "USD 4.99",
-      "Mike": "USD 4.99"
+      "Mike": "USD 4.99",
+      "Studio Mix": "USD 8.99",
+      "Rock DM Full Access": "USD 22.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Studio Mix": "USD 8.99",
+            "Rock DM Full Access": "USD 22.99",
+            "John": "USD 4.99",
+            "Mike": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -95869,6 +95886,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791633510449,
@@ -218447,6 +218472,29 @@
           "timestamp": 1792505275724,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6446654568": {
+    "trackId": 6446654568,
+    "trackName": "Stacklands-Battle",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]

@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2353` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2354` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2354|6446654568|Automatic|❌|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|
 |2353|6749500972|Automatic|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|
 |2352|6811365567|Automatic|❌|運氣修仙|運氣修仙|運氣修仙|運氣修仙|運氣修仙|運氣修仙|
 |2351|6805775608|Automatic|❌|Kahvehane Simülatörü|Kahvehane Simülatörü|Kahvehane Simülatörü|Turkish Coffeehouse Simulator|Turkish Coffeehouse Simulator|Kahvehane Simülatörü|
@@ -685,7 +686,7 @@ So far, we've covered `7` `Countries or Regions` and  `2353` `Apps` <br />Push n
 |1678|6757795420|Automatic|❌|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|
 |1677|6755921847|Automatic|乐语-音乐术语词典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|Yueyu - Music Terms Dictionary|❌|❌|
 |1676|408209116|Automatic|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|
-|1675|6740698426|Automatic|帝国传奇：像素英雄|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
+|1675|6740698426|Automatic|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
 |1674|364909484|Automatic|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|❌|
 |1673|714855554|Automatic|轮盘赌数十计算器|輪盤賭數十計算器|輪盤賭數十計算器|輪盤賭數十計算器|Roulette Dozens Calculator|Roulette Dozens Calculator|Calculadora roleta dúzias|
 |1672|1570440293|Automatic|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|
@@ -1135,7 +1136,7 @@ So far, we've covered `7` `Countries or Regions` and  `2353` `Apps` <br />Push n
 |1228|6746825550|Automatic|SnapCameraPro - 全新好用的相机|❌|❌|❌|❌|❌|❌|
 |1227|612392704|Automatic|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|
 |1226|1659946589|Automatic|❌|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|
-|1225|725234217|Automatic|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|
+|1225|725234217|Automatic|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|
 |1224|6572283606|Automatic|❌|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|❌|
 |1223|6742472194|Automatic|❌|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|Tale of Immortal|Tale of Immortal|鬼谷八荒 Tale of Immortal|
 |1222|834248867|Automatic|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|
@@ -2244,7 +2245,7 @@ So far, we've covered `7` `Countries or Regions` and  `2353` `Apps` <br />Push n
 |119|1391571907|Manual|Fine修图|Fine修圖|Fine修圖|Fine修圖|Fine - Photo Editor|Fine - Photo Editor|Fine - Photo Editor|
 |118|6499125531|Manual|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|
 |117| ~~1485101937~~ |Manual| ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~❌~~ |
-|116|703265535|Manual|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|❌|
+|116|703265535|Manual|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|FocusDots · Focus What Matters|
 |115|6479307181|Manual|灵体侦测器: 能量、超自然现象幽灵探测器|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|Ghost Detector: Haunted Radar|Ghost Detector: Haunted Radar|Detector Fantasmas: Radar EMF|
 |114| ~~488674899~~ |Manual| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~RAIN RADAR °- sky weather NOAA~~ | ~~RAIN RADAR ° live weather maps~~ | ~~❌~~ |
 |113|1636719674|Manual|锁屏启动 - 应用秒开，灵动岛万能锁屏桌面小组件相机控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|

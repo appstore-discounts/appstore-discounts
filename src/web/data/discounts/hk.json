@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 725234217,
+    "region": "hk",
+    "timestamp": 1792581288748,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 148.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 148.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id725234217",
+    "trackName": "Rock Drum Machine: Real Drums",
+    "firstRecordedAt": 1752740307644
+  },
+  {
+    "trackId": 1595313870,
+    "region": "hk",
+    "timestamp": 1792581288748,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime Membership",
+        "from": "HK$ 148.00",
+        "to": "HK$ 88.00",
+        "range": "[HK$ 58.00 ~ HK$ 148.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime - Education",
+        "from": "HK$ 98.00",
+        "to": "HK$ 58.00",
+        "range": "[HK$ 58.00 ~ HK$ 98.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度会员升级终身会员",
+        "from": "HK$ 98.00",
+        "to": "HK$ 58.00",
+        "range": "[HK$ 58.00 ~ HK$ 98.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1595313870",
+    "trackName": "瓦爾登 - 終極個人管理工具",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 6742457882,
     "region": "hk",
     "timestamp": 1792539493215,

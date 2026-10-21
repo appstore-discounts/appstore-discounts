@@ -14773,6 +14773,25 @@
     "history": [
       [
         {
+          "timestamp": 1792581288748,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Stern Pack 1": "5,99 €",
+            "Big Buck Hunter Single Table": "9,99 €",
+            "Whoa Nellie Single Table": "9,99 €",
+            "Stern Pack 3": "17,99 €",
+            "Star Trek Single Table": "5,99 €",
+            "Mustang Single Table": "9,99 €",
+            "Ghostbusters Single Table": "9,99 €",
+            "Dr. Who Master of Time": "5,99 €",
+            "Farsight Ball Pack": "1,99 €",
+            "Stern Ball Pack 1": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791692106771,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -33405,6 +33424,27 @@
       ]
     ]
   },
+  "703265535": {
+    "name": "FocusDots · Focus What Matters",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "708196645": {
     "name": "Oceanhorn ™",
     "maxPriceInfo": {
@@ -33501,20 +33541,37 @@
     ]
   },
   "725234217": {
-    "name": "Rock Drum Machine",
+    "name": "Rock Drum Machine: Real Drums",
     "maxPriceInfo": {
       "price": 19.99,
       "formattedPrice": "19,99 €",
       "John": "5,99 €",
-      "Mike": "5,99 €"
+      "Mike": "5,99 €",
+      "Studio Mix": "9,99 €",
+      "Rock DM Full Access": "24,99 €"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "19,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "John": "5,99 €",
-      "Mike": "5,99 €"
+      "Mike": "5,99 €",
+      "Studio Mix": "9,99 €",
+      "Rock DM Full Access": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Studio Mix": "9,99 €",
+            "Rock DM Full Access": "24,99 €",
+            "John": "5,99 €",
+            "Mike": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -59866,6 +59923,14 @@
     "history": [
       [
         {
+          "timestamp": 1792581288748,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791633510449,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -78559,6 +78624,25 @@
       "Glow in the Dark Alien": "3,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Arcade Dice Sale": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792120771172,
@@ -148651,6 +148735,27 @@
           "timestamp": 1792505275724,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6446654568": {
+    "name": "Stacklands-Battle",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]

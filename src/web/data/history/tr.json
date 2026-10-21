@@ -68122,21 +68122,38 @@
   },
   "725234217": {
     "trackId": 725234217,
-    "trackName": "Rock Drum Machine",
+    "trackName": "Rock Drum Machine: Real Drums",
     "region": "tr",
     "maxPriceInfo": {
       "price": 999.99,
       "formattedPrice": "₺999,99",
       "John": "₺249,99",
-      "Mike": "₺249,99"
+      "Mike": "₺249,99",
+      "Studio Mix": "₺499,99",
+      "Rock DM Full Access": "₺1.199,99"
     },
     "minPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "John": "₺229,99",
-      "Mike": "₺229,99"
+      "Mike": "₺229,99",
+      "Studio Mix": "₺499,99",
+      "Rock DM Full Access": "₺1.199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Studio Mix": "₺499,99",
+            "Rock DM Full Access": "₺1.199,99",
+            "John": "₺249,99",
+            "Mike": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763800312129,
@@ -122508,6 +122525,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791633510449,
@@ -298101,6 +298126,23 @@
     "history": [
       [
         {
+          "timestamp": 1792581288748,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "SHOWCASE OFFER 07": "₺249,99",
+            "SHOWCASE OFFER 06": "₺299,99",
+            "SHOWCASE OFFER 05": "₺249,99",
+            "SHOWCASE OFFER 04": "₺399,99",
+            "SHOWCASE OFFER 03": "₺399,99",
+            "SHOWCASE OFFER 02": "₺499,99",
+            "STARTER PACK 1": "₺299,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "SHOWCASE OFFER 09": "₺199,99",
+            "ALL TOWERS BUNDLE_B": "₺799,99"
+          }
+        },
+        {
           "timestamp": 1792553339588,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -299912,6 +299954,29 @@
           "timestamp": 1792505275724,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6446654568": {
+    "trackId": 6446654568,
+    "trackName": "Stacklands-Battle",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792581288748,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]

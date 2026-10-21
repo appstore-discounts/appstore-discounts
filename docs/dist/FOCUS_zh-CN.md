@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2353` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2354` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2354|6446654568|自动|❌|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|
 |2353|6749500972|自动|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|
 |2352|6811365567|自动|❌|運氣修仙|運氣修仙|運氣修仙|運氣修仙|運氣修仙|運氣修仙|
 |2351|6805775608|自动|❌|Kahvehane Simülatörü|Kahvehane Simülatörü|Kahvehane Simülatörü|Turkish Coffeehouse Simulator|Turkish Coffeehouse Simulator|Kahvehane Simülatörü|
@@ -685,7 +686,7 @@
 |1678|6757795420|自动|❌|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|
 |1677|6755921847|自动|乐语-音乐术语词典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|Yueyu - Music Terms Dictionary|❌|❌|
 |1676|408209116|自动|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|
-|1675|6740698426|自动|帝国传奇：像素英雄|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
+|1675|6740698426|自动|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
 |1674|364909484|自动|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|❌|
 |1673|714855554|自动|轮盘赌数十计算器|輪盤賭數十計算器|輪盤賭數十計算器|輪盤賭數十計算器|Roulette Dozens Calculator|Roulette Dozens Calculator|Calculadora roleta dúzias|
 |1672|1570440293|自动|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|
@@ -1135,7 +1136,7 @@
 |1228|6746825550|自动|SnapCameraPro - 全新好用的相机|❌|❌|❌|❌|❌|❌|
 |1227|612392704|自动|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|
 |1226|1659946589|自动|❌|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|
-|1225|725234217|自动|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|
+|1225|725234217|自动|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|
 |1224|6572283606|自动|❌|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|❌|
 |1223|6742472194|自动|❌|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|Tale of Immortal|Tale of Immortal|鬼谷八荒 Tale of Immortal|
 |1222|834248867|自动|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|
@@ -2244,7 +2245,7 @@
 |119|1391571907|手动|Fine修图|Fine修圖|Fine修圖|Fine修圖|Fine - Photo Editor|Fine - Photo Editor|Fine - Photo Editor|
 |118|6499125531|手动|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|
 |117| ~~1485101937~~ |手动| ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~❌~~ |
-|116|703265535|手动|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|❌|
+|116|703265535|手动|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|FocusDots · Focus What Matters|
 |115|6479307181|手动|灵体侦测器: 能量、超自然现象幽灵探测器|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|Ghost Detector: Haunted Radar|Ghost Detector: Haunted Radar|Detector Fantasmas: Radar EMF|
 |114| ~~488674899~~ |手动| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~RAIN RADAR °- sky weather NOAA~~ | ~~RAIN RADAR ° live weather maps~~ | ~~❌~~ |
 |113|1636719674|手动|锁屏启动 - 应用秒开，灵动岛万能锁屏桌面小组件相机控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|
