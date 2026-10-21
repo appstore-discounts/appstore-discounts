@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1595313870,
+    "region": "cn",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "季度会员",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[¥12.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1595313870",
+    "trackName": "瓦尔登 - 日程管理，待办计划，一个就够",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6449003064,
+    "region": "cn",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "¥8.00",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6449003064",
+    "trackName": "Goblin Tools",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 725234217,
     "region": "cn",
     "timestamp": 1792581288748,

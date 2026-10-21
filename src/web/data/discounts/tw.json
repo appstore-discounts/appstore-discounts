@@ -1,5 +1,219 @@
 [
   {
+    "trackId": 994157520,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$33.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id994157520",
+    "trackName": "1942 Pacific Front Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1411823462,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $150.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 1499001662,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1595313870,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly Membership",
+        "from": "$290.00",
+        "to": "$220.00",
+        "range": "[$120.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Quarterly Membership",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$60.00 ~ $150.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly Membership",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1595313870",
+    "trackName": "瓦爾登 - 終極個人管理工具",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6459738231,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1,290.00",
+        "to": "$990.00",
+        "range": "[$690.00 ~ $1,290.00]"
+      }
+    ],
+    "price": 990,
+    "formattedPrice": "$990.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6459738231",
+    "trackName": "Lies of P",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6449748961,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1,290.00",
+        "to": "$690.00",
+        "range": "[$590.00 ~ $1,290.00]"
+      }
+    ],
+    "price": 690,
+    "formattedPrice": "$690.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6449748961",
+    "trackName": "DEATH STRANDING DIRECTOR'S CUT",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6449003064,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6449003064",
+    "trackName": "Goblin Tools",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6502953520,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $190.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6502953520",
+    "trackName": "Control Ultimate Edition",
+    "firstRecordedAt": 1776898472224
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $60.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6476342802",
+    "trackName": "Skel和Defense：地下城Roguelike防禦",
+    "firstRecordedAt": 1778817905438
+  },
+  {
+    "trackId": 6812927976,
+    "region": "tw",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6812927976",
+    "trackName": "Enchanted Survival: 刷寶RPG",
+    "firstRecordedAt": 1791507612931
+  },
+  {
     "trackId": 725234217,
     "region": "tw",
     "timestamp": 1792581288748,
@@ -16087,7 +16301,7 @@
         "name": "Price",
         "from": "$190.00",
         "to": "$150.00",
-        "range": "[$150.00 ~ $190.00]"
+        "range": "[$90.00 ~ $190.00]"
       }
     ],
     "price": 150,

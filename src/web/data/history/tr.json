@@ -14688,7 +14688,7 @@
   },
   "391269557": {
     "trackId": 391269557,
-    "trackName": "Apnea Trainer: Freedive",
+    "trackName": "Apnea Trainer: Freediving",
     "region": "tr",
     "maxPriceInfo": {
       "price": 1499.99,
@@ -185314,6 +185314,25 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Prime gemma 100": "₺15,99",
+            "Tamer Kit": "₺15,99",
+            "Master Package": "₺319,99",
+            "Starter Package": "₺80,99",
+            "Prime Gemma 500": "₺80,99",
+            "Spray kit": "₺80,99",
+            "Ascensio Kit": "₺80,99",
+            "Zenith Islands DLC Sale": "₺47,99",
+            "Prime Dimension DLC Sale": "₺47,99",
+            "Crystal Offer Sale": "₺159,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791070314470,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -243875,6 +243894,17 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Monthly": "₺199,99",
+            "Goblin Tools Pro - Yearly": "₺1.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789340065932,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -298126,6 +298156,23 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Sniper": "₺299,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Gems Pouch": "₺249,99",
+            "Gems Handful": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1792581288748,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -299977,6 +300024,71 @@
           "timestamp": 1792581288748,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6808354789": {
+    "trackId": 6808354789,
+    "trackName": "Raid Manager 2",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "48,000 Diamonds": "₺999,99",
+      "26,000 Diamonds": "₺599,99",
+      "12,000 Diamonds": "₺299,99",
+      "8,000 Diamonds": "₺199,99",
+      "3,600 Diamonds": "₺99,99",
+      "1,000 Diamonds": "₺29,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "48,000 Diamonds": "₺999,99",
+      "26,000 Diamonds": "₺599,99",
+      "12,000 Diamonds": "₺299,99",
+      "8,000 Diamonds": "₺199,99",
+      "3,600 Diamonds": "₺99,99",
+      "1,000 Diamonds": "₺29,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "48,000 Diamonds": "₺999,99",
+            "26,000 Diamonds": "₺599,99",
+            "12,000 Diamonds": "₺299,99",
+            "8,000 Diamonds": "₺199,99",
+            "3,600 Diamonds": "₺99,99",
+            "1,000 Diamonds": "₺29,99"
+          }
+        }
+      ]
+    ]
+  },
+  "6819090967": {
+    "trackId": 6819090967,
+    "trackName": "AWTRIX NG",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
           "inAppPurchases": {}
         }
       ]

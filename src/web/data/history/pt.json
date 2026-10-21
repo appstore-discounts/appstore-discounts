@@ -15145,6 +15145,23 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "The Machine: Bride of Pin•bot™ + Medieval Madness™": "5,99 €",
+            "Gorgar™ + Monster Bash™": "5,99 €",
+            "Theatre of Magic® Pinball Table": "2,99 €",
+            "Fun House™ + Circqus Voltaire™": "5,99 €",
+            "Ripley's Believe It or Not® Pinball Table": "1,99 €",
+            "Black Knight™ + Creature from the Black Lagoon™": "5,99 €",
+            "Black Hole™ Pinball Table": "1,99 €",
+            "Elvira and the Party Monsters™ + No Good Gofers™": "5,99 €",
+            "Taxi™ + Harley-Davidson® 3rd Edition": "5,99 €",
+            "Pack de três mesas de lançamento": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1792581288748,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -86965,6 +86982,25 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Prime Dimension DLC": "3,99 €",
+            "Zenith Islands DLC": "2,99 €",
+            "Elite Offer": "4,99 €",
+            "Evoker Package": "4,99 €",
+            "Crystal Offer": "10,99 €",
+            "Intro Offer (low)": "2,99 €",
+            "Master Package": "10,99 €",
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 500": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792363669978,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -120456,6 +120492,23 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1792553339588,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -130440,6 +130493,17 @@
       "Goblin Tools Pro - Monthly": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Monthly": "3,99 €",
+            "Goblin Tools Pro - Yearly": "39,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789340065932,
@@ -152844,6 +152908,71 @@
           "timestamp": 1792581288748,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6808354789": {
+    "trackId": 6808354789,
+    "trackName": "Raid Manager 2",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "48,000 Diamonds": "24,99 €",
+      "26,000 Diamonds": "14,99 €",
+      "12,000 Diamonds": "9,99 €",
+      "8,000 Diamonds": "6,99 €",
+      "3,600 Diamonds": "2,99 €",
+      "1,000 Diamonds": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "48,000 Diamonds": "24,99 €",
+      "26,000 Diamonds": "14,99 €",
+      "12,000 Diamonds": "9,99 €",
+      "8,000 Diamonds": "6,99 €",
+      "3,600 Diamonds": "2,99 €",
+      "1,000 Diamonds": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "48,000 Diamonds": "24,99 €",
+            "26,000 Diamonds": "14,99 €",
+            "12,000 Diamonds": "9,99 €",
+            "8,000 Diamonds": "6,99 €",
+            "3,600 Diamonds": "2,99 €",
+            "1,000 Diamonds": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6819090967": {
+    "trackId": 6819090967,
+    "trackName": "AWTRIX NG",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -20080,7 +20080,7 @@
     ]
   },
   "391269557": {
-    "name": "Apnea Trainer: Freedive",
+    "name": "Apnea Trainer: Freediving",
     "maxPriceInfo": {
       "price": 29.99,
       "formattedPrice": "$29.99",
@@ -140705,6 +140705,22 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99"
+          }
+        },
+        {
           "timestamp": 1792581288748,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -152264,6 +152280,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792600862887,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Crop": "$0.00",
+            "Splice": "$0.00",
+            "Magnifier": "$0.00",
+            "Distortion": "$0.00",
+            "Paint": "$0.00",
+            "Rotate": "$0.00",
+            "Sticker": "$0.00",
+            "Rate": "$0.00",
+            "Chromakey": "$0.00",
+            "Info": "$0.00"
+          }
+        },
         {
           "timestamp": 1792581288748,
           "price": 0.99,
@@ -201681,6 +201714,25 @@
       "Ascensio Kit": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Evoker Kit": "$0.99",
+            "Hunter Package": "$9.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -298547,6 +298599,17 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Monthly": "$3.99",
+            "Goblin Tools Pro - Yearly": "$39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789356898180,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -357840,6 +357903,67 @@
           "timestamp": 1792581288748,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6808354789": {
+    "name": "Raid Manager 2",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "48,000 Diamonds": "$24.99",
+      "26,000 Diamonds": "$14.99",
+      "12,000 Diamonds": "$9.99",
+      "8,000 Diamonds": "$6.99",
+      "3,600 Diamonds": "$3.99",
+      "1,000 Diamonds": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "48,000 Diamonds": "$24.99",
+      "26,000 Diamonds": "$14.99",
+      "12,000 Diamonds": "$9.99",
+      "8,000 Diamonds": "$6.99",
+      "3,600 Diamonds": "$3.99",
+      "1,000 Diamonds": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "48,000 Diamonds": "$24.99",
+            "26,000 Diamonds": "$14.99",
+            "12,000 Diamonds": "$9.99",
+            "8,000 Diamonds": "$6.99",
+            "3,600 Diamonds": "$3.99",
+            "1,000 Diamonds": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6819090967": {
+    "name": "AWTRIX NG",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
           "inAppPurchases": {}
         }
       ]

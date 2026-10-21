@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2354` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2356` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2356|6808354789|Automatic|❌|團本經理 - Raid Manager 2|團本經理 - Raid Manager 2|團本經理 - Raid Manager 2|Raid Manager 2|Raid Manager 2|Raid Manager 2|
+|2355|6819090967|Automatic|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|
 |2354|6446654568|Automatic|❌|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|
 |2353|6749500972|Automatic|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|哔咔漫岛-二次元日韩耽美漫画大全|
 |2352|6811365567|Automatic|❌|運氣修仙|運氣修仙|運氣修仙|運氣修仙|運氣修仙|運氣修仙|
@@ -943,7 +945,7 @@ So far, we've covered `7` `Countries or Regions` and  `2354` `Apps` <br />Push n
 |1421|663068211|Automatic|❌|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|
 |1420|1588558691|Automatic|❌|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master Cross Math IQ TEST|Math Master Mental Maths QUIZ|Math Master Mathcross QI QUIZ|
 |1419|6738239220|Automatic|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|
-|1418|391269557|Automatic|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freedive|Apnea Trainer: Freedive|Apnea Trainer: Freitauchen|
+|1418|391269557|Automatic|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freediving|Apnea Trainer: Freediving|Apnea Trainer: Freitauchen|
 |1417|6749466141|Automatic|❌|❌|❌|❌|Red Dot - ICE Activity Alerts|❌|❌|
 |1416|495937600|Automatic|❌|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|
 |1415|6753017460|Automatic|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|

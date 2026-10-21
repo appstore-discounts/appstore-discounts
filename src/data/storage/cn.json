@@ -148073,6 +148073,21 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身会员": "¥68.00",
+            "年度会员": "¥28.00",
+            "月度会员": "¥8.00",
+            "季度会员": "¥28.00",
+            "终身会员 - 教育版": "¥58.00",
+            "年度会员升级终身会员": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792581288748,
           "price": 0,
           "formattedPrice": "免费",
@@ -182204,6 +182219,17 @@
     "history": [
       [
         {
+          "timestamp": 1792600862887,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "¥298.00",
+            "Goblin Tools Pro - Monthly": "¥28.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -185281,6 +185307,25 @@
       "五子良将": "¥36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "终身版": "¥45.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "斜谷残阳": "¥36.00",
+            "重振汉室": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792581288748,
@@ -236107,6 +236152,27 @@
             "元气漫画季会员": "¥38.00",
             "元气漫画年会员": "¥98.00"
           }
+        }
+      ]
+    ]
+  },
+  "6819090967": {
+    "name": "AWTRIX NG",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792600862887,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
         }
       ]
     ]

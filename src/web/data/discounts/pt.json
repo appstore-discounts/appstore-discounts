@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "pt",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "4,99 €",
+        "to": "0,99 €",
+        "range": "[Gratuito ~ 4,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
+    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6449003064,
+    "region": "pt",
+    "timestamp": 1792600862887,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6449003064",
+    "trackName": "Goblin Tools",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 725234217,
     "region": "pt",
     "timestamp": 1792581288748,
