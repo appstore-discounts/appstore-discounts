@@ -3400,6 +3400,25 @@
     "history": [
       [
         {
+          "timestamp": 1792539493215,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Accordion Sweetener Pack": "USD 9.99",
+            "All Sweeteners": "USD 39.99",
+            "Full Discounted Upgrade Pack": "USD 59.99",
+            "Bluegrass Sweeteners": "USD 5.99",
+            "Tuning Tools": "USD 9.99",
+            "Harmonic Tuning": "USD 19.99",
+            "Extended Frequency Modes": "USD 4.99",
+            "Buzz Feiten Pack": "USD 5.99",
+            "Guitar & Bass Sweeteners": "USD 5.99",
+            "Harmonica Sweeteners": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -66892,6 +66911,25 @@
       "下载包318": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539493215,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "纯净模式1个月": "USD 0.99",
+            "纯净模式6个月": "USD 4.49",
+            "纯净模式12个月": "USD 7.49",
+            "纯净模式永久": "USD 29.99",
+            "金紫会员1个月": "USD 1.99",
+            "金紫会员12个月": "USD 11.99",
+            "金紫会员6个月": "USD 6.99",
+            "金紫会员永久": "USD 39.99",
+            "下载次数": "USD 0.99",
+            "永久金紫会员": "USD 39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -186093,9 +186131,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Deco Plus": "USD 3.29"
+      "Deco Plus": "USD 2.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539493215,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "USD 2.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -196531,7 +196579,7 @@
     ]
   },
   "6749698268": {
-    "name": "小易决策-选择困难小救星",
+    "name": "小易决策－六十四卦与日常选择",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",

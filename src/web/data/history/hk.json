@@ -134831,6 +134831,23 @@
     "history": [
       [
         {
+          "timestamp": 1792539493215,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1792522570183,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -274267,9 +274284,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Deco Plus": "HK$ 34.00"
+      "Deco Plus": "HK$ 27.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539493215,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "HK$ 27.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -290091,7 +290118,7 @@
   },
   "6749698268": {
     "trackId": 6749698268,
-    "trackName": "小易决策-选择困难小救星",
+    "trackName": "小易决策－六十四卦与日常选择",
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
