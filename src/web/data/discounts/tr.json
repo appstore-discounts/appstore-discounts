@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 1595313870,
+    "region": "tr",
+    "timestamp": 1792553339588,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime - Education",
+        "from": "₺699,99",
+        "to": "₺399,99",
+        "range": "[₺399,99 ~ ₺699,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度会员升级终身会员",
+        "from": "₺699,99",
+        "to": "₺399,99",
+        "range": "[₺399,99 ~ ₺699,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime Membership",
+        "from": "₺999,99",
+        "to": "₺499,99",
+        "range": "[₺349,99 ~ ₺999,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1595313870",
+    "trackName": "Walden - Calendar/ToDo/Notes",
+    "firstRecordedAt": 1730693617795
+  },
+  {
     "trackId": 6742457882,
     "region": "tr",
     "timestamp": 1792522570183,

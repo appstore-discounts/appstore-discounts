@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 1595313870,
+    "region": "mo",
+    "timestamp": 1792553339588,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime - Education",
+        "from": "USD 12.99",
+        "to": "USD 7.99",
+        "range": "[USD 7.99 ~ USD 12.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度会员升级终身会员",
+        "from": "USD 12.99",
+        "to": "USD 6.99",
+        "range": "[USD 6.99 ~ USD 12.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime Membership",
+        "from": "USD 19.99",
+        "to": "USD 9.99",
+        "range": "[USD 7.99 ~ USD 19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1595313870",
+    "trackName": "瓦爾登 - 終極個人管理工具",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 6742457882,
     "region": "mo",
     "timestamp": 1792539493215,

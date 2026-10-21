@@ -209154,13 +209154,30 @@
       "Lifetime Membership": "$290.00",
       "Yearly Membership": "$120.00",
       "Quarterly Membership": "$60.00",
-      "Lifetime - Education": "$320.00",
+      "Lifetime - Education": "$290.00",
       "Monthly Membership": "$30.00",
-      "年度会员升级终身会员": "$320.00",
+      "年度会员升级终身会员": "$220.00",
       "年度会员": "$120.00",
       "月度会员": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792553339588,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Membership": "$320.00",
+            "Yearly Membership": "$290.00",
+            "Quarterly Membership": "$150.00",
+            "Lifetime - Education": "$290.00",
+            "Monthly Membership": "$90.00",
+            "年度会员升级终身会员": "$220.00",
+            "年度会员": "$120.00",
+            "月度会员": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -269548,6 +269565,25 @@
     "history": [
       [
         {
+          "timestamp": 1792553339588,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A350-1000": "$120.00",
+            "Airbus A380": "$60.00",
+            "UH-60": "$30.00",
+            "Concorde": "$60.00",
+            "Boeing 747-400": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792483972912,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -307287,6 +307323,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792553339588,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Legend of Keepers - DLC Bundle": "$125.00",
+            "Soul Smugglers": "$60.00",
+            "Feed the Troll": "$60.00",
+            "Return of the Goddess": "$60.00"
+          }
+        },
         {
           "timestamp": 1792539493215,
           "price": 220,
