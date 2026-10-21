@@ -32204,6 +32204,14 @@
     "history": [
       [
         {
+          "timestamp": 1792617457684,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -75207,6 +75215,16 @@
     "history": [
       [
         {
+          "timestamp": 1792617457684,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -93413,6 +93431,14 @@
       "《INSIDE》完整版": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792617457684,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -117397,6 +117423,14 @@
       "Surge Pro": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792617457684,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -175360,6 +175394,25 @@
     "history": [
       [
         {
+          "timestamp": 1792617457684,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "五子良將": "USD 5.99",
+            "地圖存檔": "USD 1.99",
+            "劇本存檔": "USD 1.99",
+            "月下追魂": "USD 5.99",
+            "斜谷殘陽": "USD 5.99",
+            "自創寶物": "USD 1.99",
+            "冠絕天下": "USD 5.99",
+            "西涼悍將": "USD 5.99",
+            "江山美人": "USD 2.99",
+            "終身版": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789763272785,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -214268,6 +214321,27 @@
           "timestamp": 1792600862887,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "name": "Brightroom",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792617457684,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

@@ -148080,13 +148080,25 @@
     "name": "무원일생",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "후인의 장": "2,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "후인의 장": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792617457684,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "후인의 장": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,
@@ -148881,6 +148893,27 @@
           "timestamp": 1792600862887,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "name": "Brightroom",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792617457684,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

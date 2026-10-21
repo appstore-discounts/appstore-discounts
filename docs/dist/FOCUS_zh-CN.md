@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2356` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2357` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2357|6761129817|自动|Brightroom|Brightroom|Brightroom|Brightroom|Brightroom|Brightroom|Brightroom|
 |2356|6808354789|自动|❌|團本經理 - Raid Manager 2|團本經理 - Raid Manager 2|團本經理 - Raid Manager 2|Raid Manager 2|Raid Manager 2|Raid Manager 2|
 |2355|6819090967|自动|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|AWTRIX NG|
 |2354|6446654568|自动|❌|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|Stacklands-Battle|
@@ -1030,7 +1031,7 @@
 |1336| ~~1067575393~~ |自动| ~~照片橡皮擦 - 去除水印杂物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~照片橡皮擦 - 去除水印雜物多余人物~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ | ~~Image Eraser - Inpaint & heal~~ |
 |1335|311768443|自动|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
 |1334|453126527|自动|Flashnote Derby 识谱竞速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby|Flashnote Derby|Flashnote Derby|
-|1333|1236657805|自动|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|
+|1333|1236657805|自动|Cube CFOP：F2L、OLL、PLL 魔方公式|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|Cube CFOP: F2L, OLL & PLL|
 |1332|657638474|自动|❌|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot|
 |1331|465810912|自动|计算器HD+专业版|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculadora HD+ PRO|
 |1330|6443943397|自动|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|❌|❌|❌|

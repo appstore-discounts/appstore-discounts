@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1055650930,
+    "region": "tw",
+    "timestamp": 1792617457684,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1055650930",
+    "trackName": "Codenames",
+    "firstRecordedAt": 1745560983791
+  },
+  {
     "trackId": 994157520,
     "region": "tw",
     "timestamp": 1792600862887,

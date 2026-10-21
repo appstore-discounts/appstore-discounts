@@ -281630,6 +281630,25 @@
     "history": [
       [
         {
+          "timestamp": 1792617457684,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Wacky Halloween Set": "$2.39",
+            "ネオンシティ": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "オーロラプール": "$1.19",
+            "Christmas night": "$1.79"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792553339588,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -362340,6 +362359,29 @@
           "timestamp": 1792600862887,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "trackId": 6761129817,
+    "trackName": "Brightroom",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792617457684,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

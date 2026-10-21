@@ -86834,7 +86834,7 @@
   },
   "1236657805": {
     "trackId": 1236657805,
-    "trackName": "Cube CFOP: F2L, OLL & PLL",
+    "trackName": "Cube CFOP：F2L、OLL、PLL 魔方公式",
     "region": "cn",
     "maxPriceInfo": {
       "price": 22,
@@ -187321,6 +187321,23 @@
     "history": [
       [
         {
+          "timestamp": 1792617457684,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "终身版": "¥45.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "斜谷残阳": "¥36.00",
+            "冠绝天下": "¥36.00"
+          }
+        },
+        {
           "timestamp": 1792600862887,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -238846,6 +238863,29 @@
           "timestamp": 1792600862887,
           "price": 28,
           "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "trackId": 6761129817,
+    "trackName": "Brightroom",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792617457684,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]
