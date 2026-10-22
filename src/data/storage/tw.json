@@ -115629,6 +115629,14 @@
     "history": [
       [
         {
+          "timestamp": 1792703638499,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750151670232,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -166988,7 +166996,8 @@
       "Black Weapons Set": "$90.00",
       "LegendaryPackage": "$690.00",
       "Cosmetic Starlight": "$150.00",
-      "Cosmetic Crystal": "$150.00"
+      "Cosmetic Crystal": "$150.00",
+      "Demon Pass": "$320.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -167032,9 +167041,29 @@
       "Black Weapons Set": "$90.00",
       "LegendaryPackage": "$690.00",
       "Cosmetic Starlight": "$150.00",
-      "Cosmetic Crystal": "$150.00"
+      "Cosmetic Crystal": "$150.00",
+      "Demon Pass": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792703638499,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Flash Sale Star Rune 1": "$90.00",
+            "Demon Pass": "$320.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "Flash Sale Star Rune 2": "$60.00",
+            "Piggy Bank": "$90.00",
+            "Double Exp Package 1": "$30.00",
+            "Flash Sale Ultimate Essence 1": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792081393556,
@@ -316640,6 +316669,25 @@
     "history": [
       [
         {
+          "timestamp": 1792703638499,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包": "$790.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "全法術禮包": "$390.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "一把寶石": "$90.00",
+            "塔 野貓女獵手": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792667627553,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -318396,6 +318444,27 @@
           "timestamp": 1792687312470,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792703638499,
+          "price": 390,
+          "formattedPrice": "$390.00",
           "inAppPurchases": {}
         }
       ]

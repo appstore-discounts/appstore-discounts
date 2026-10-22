@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 525818839,
+    "region": "pt",
+    "timestamp": 1792703638499,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pacote pragas",
+        "from": "14,99 €",
+        "to": "11,99 €",
+        "range": "[11,99 € ~ 14,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id525818839",
+    "trackName": "Plague Inc.",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 994157520,
     "region": "pt",
     "timestamp": 1792639701504,

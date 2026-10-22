@@ -21386,6 +21386,24 @@
     "history": [
       [
         {
+          "timestamp": 1792703638499,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote pragas": "11,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792553339588,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -126178,6 +126196,23 @@
     "history": [
       [
         {
+          "timestamp": 1792703638499,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Round the World Ticket": "49,99 €",
+            "Europe Expansion": "14,99 €",
+            "Europe Map": "12,99 €",
+            "1910 Ticket Pack": "3,99 €",
+            "Nordic Expansion": "12,99 €",
+            "Japan Expansion": "12,99 €",
+            "Heart of Africa Expansion": "12,99 €",
+            "Nordic Map": "9,99 €",
+            "Welcome Offer": "29,99 €",
+            "Heart of Africa Map": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1792687312470,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -149198,6 +149233,27 @@
           "timestamp": 1792687312470,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792703638499,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
           "inAppPurchases": {}
         }
       ]

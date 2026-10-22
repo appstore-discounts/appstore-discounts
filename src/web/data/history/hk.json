@@ -33638,6 +33638,23 @@
     "history": [
       [
         {
+          "timestamp": 1792703638499,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "HK$ 8.00",
+            "Unlock All Vehicles": "HK$ 88.00",
+            "Unlock All": "HK$ 118.00",
+            "The Met paint job for all vehicles": "HK$ 8.00",
+            "Donut Finder": "HK$ 22.00",
+            "Hot Chrome paint job for all vehicles": "HK$ 22.00",
+            "East Side paint job for all vehicles": "HK$ 8.00",
+            "Pack of 10 Super Cops": "HK$ 22.00",
+            "Seoul Rider paint job for all vehicles": "HK$ 8.00",
+            "Pack of 50 Super Cops": "HK$ 98.00"
+          }
+        },
+        {
           "timestamp": 1792687312470,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -310637,6 +310654,29 @@
           "timestamp": 1792687312470,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "trackId": 6785542417,
+    "trackName": "懲教署投考全攻略 CSDReady",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792703638499,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
           "inAppPurchases": {}
         }
       ]

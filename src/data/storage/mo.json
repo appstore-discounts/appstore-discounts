@@ -107488,6 +107488,23 @@
     "history": [
       [
         {
+          "timestamp": 1792703638499,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99",
+            "原版魔王加速卡牌包": "USD 8.99"
+          }
+        },
+        {
           "timestamp": 1792687312470,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -214661,6 +214678,27 @@
           "timestamp": 1792687312470,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99"
+    },
+    "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792703638499,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
           "inAppPurchases": {}
         }
       ]
