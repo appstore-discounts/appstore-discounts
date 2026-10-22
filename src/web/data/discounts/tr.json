@@ -1,5 +1,132 @@
 [
   {
+    "trackId": 994157520,
+    "region": "tr",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "₺19,99",
+        "range": "[₺5,00 ~ ₺49,99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "₺19,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id994157520",
+    "trackName": "1942 Pacific Front Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1055650930,
+    "region": "tr",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺39,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1055650930",
+    "trackName": "Codenames",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 1411823462,
+    "region": "tr",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺29,99",
+        "range": "[₺19,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 1595313870,
+    "region": "tr",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Quarterly Membership",
+        "from": "₺249,99",
+        "to": "₺199,99",
+        "range": "[₺59,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly Membership",
+        "from": "₺149,99",
+        "to": "₺99,99",
+        "range": "[₺19,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1595313870",
+    "trackName": "Walden - Calendar/ToDo/Notes",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6502953520,
+    "region": "tr",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6502953520",
+    "trackName": "Control Ultimate Edition",
+    "firstRecordedAt": 1776898472224
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tr",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺29,99",
+        "range": "[₺29,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1499001662,
     "region": "tr",
     "timestamp": 1792600862887,
@@ -10520,7 +10647,7 @@
         "name": "Price",
         "from": "₺999,99",
         "to": "₺599,99",
-        "range": "[₺599,99 ~ ₺999,99]"
+        "range": "[₺599,99 ~ ₺1.499,99]"
       }
     ],
     "price": 599.99,

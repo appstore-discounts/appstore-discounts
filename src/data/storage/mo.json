@@ -32204,6 +32204,15 @@
     "history": [
       [
         {
+          "timestamp": 1792639701504,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "CLASSIC IORI": "USD 0.99",
+            "NESTS-STYLE KYO": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1792617457684,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -93433,6 +93442,14 @@
     "history": [
       [
         {
+          "timestamp": 1792639701504,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "《INSIDE》完整版": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1792617457684,
           "price": 0,
           "formattedPrice": "免費",
@@ -94025,6 +94042,25 @@
       "開羅雕像套組": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792639701504,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "高速模式": "USD 0.99",
+            "開羅雕像套組": "USD 1.99",
+            "開羅雕像2": "USD 1.99",
+            "跳舞的開羅君": "USD 1.99",
+            "跳舞的歪羅君": "USD 1.99",
+            "跳舞開羅姬": "USD 1.99",
+            "森野熊服": "USD 0.99",
+            "企鵝服": "USD 0.99",
+            "肉包子服": "USD 0.99",
+            "聖誕服": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786775777169,
@@ -117424,6 +117460,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792639701504,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Surge Pro": "USD 49.99",
+            "Feature Subscription": "USD 14.99"
+          }
+        },
         {
           "timestamp": 1792617457684,
           "price": 0,
@@ -175394,6 +175439,23 @@
     "history": [
       [
         {
+          "timestamp": 1792639701504,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "終身版": "USD 6.99",
+            "自創武將": "USD 2.99",
+            "自創寶物": "USD 1.99",
+            "五子良將": "USD 5.99",
+            "地圖存檔": "USD 1.99",
+            "劇本存檔": "USD 1.99",
+            "月下追魂": "USD 5.99",
+            "斜谷殘陽": "USD 5.99",
+            "冠絕天下": "USD 5.99",
+            "西涼悍將": "USD 5.99"
+          }
+        },
+        {
           "timestamp": 1792617457684,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -213131,7 +213193,10 @@
       "塔 鍊金術師小屋": "USD 2.99",
       "英雄 德拉坎": "USD 6.99",
       "英雄 阿什彼特": "USD 6.99",
-      "英雄 鬼侍": "USD 4.99"
+      "英雄 鬼侍": "USD 4.99",
+      "混合 禮包 12": "USD 7.99",
+      "法術變羊術促銷": "USD 1.99",
+      "法術變羊術": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -213151,9 +213216,31 @@
       "塔 鍊金術師小屋": "USD 2.99",
       "英雄 德拉坎": "USD 6.99",
       "英雄 阿什彼特": "USD 6.99",
-      "英雄 鬼侍": "USD 4.99"
+      "英雄 鬼侍": "USD 4.99",
+      "混合 禮包 12": "USD 7.99",
+      "法術變羊術促銷": "USD 1.99",
+      "法術變羊術": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792639701504,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "英雄 鬼侍": "USD 4.99",
+            "英雄 德拉坎": "USD 6.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全英雄禮包": "USD 24.99",
+            "混合 禮包 12": "USD 7.99",
+            "法術變羊術促銷": "USD 1.99",
+            "法術變羊術": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -213461,13 +213548,25 @@
     "name": "武元一生",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "後人之章": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "後人之章": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792639701504,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "後人之章": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,

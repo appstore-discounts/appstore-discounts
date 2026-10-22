@@ -75295,6 +75295,14 @@
     "history": [
       [
         {
+          "timestamp": 1792639701504,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "捐款": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1792617457684,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -305001,13 +305009,25 @@
     "name": "武元一生",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "後人之章": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "後人之章": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792639701504,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "後人之章": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,

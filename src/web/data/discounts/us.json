@@ -1,5 +1,179 @@
 [
   {
+    "trackId": 994157520,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id994157520",
+    "trackName": "1942 Pacific Front Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1055650930,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1055650930",
+    "trackName": "Codenames",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 1411823462,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $4.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 1595313870,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly Membership",
+        "from": "$7.99",
+        "to": "$6.99",
+        "range": "[$3.99 ~ $7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly Membership",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Quarterly Membership",
+        "from": "$4.99",
+        "to": "$3.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1595313870",
+    "trackName": "Walden - Calendar/ToDo/Notes",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6459738231,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$59.99",
+        "to": "$29.99",
+        "range": "[$29.99 ~ $59.99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "$29.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6459738231",
+    "trackName": "Lies of P",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6449748961,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$39.99",
+        "to": "$19.99",
+        "range": "[$17.99 ~ $39.99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "$19.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6449748961",
+    "trackName": "DEATH STRANDING DIRECTOR'S CUT",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6502953520,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6502953520",
+    "trackName": "Control Ultimate Edition",
+    "firstRecordedAt": 1776898472224
+  },
+  {
+    "trackId": 6476342802,
+    "region": "us",
+    "timestamp": 1792639701504,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $1.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1499001662,
     "region": "us",
     "timestamp": 1792600862887,
@@ -16073,7 +16247,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$4.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       }
     ],
     "price": 4.99,
