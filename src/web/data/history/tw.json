@@ -30155,6 +30155,25 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792319275424,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -131191,6 +131210,25 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Xenon": "$320.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$320.00",
+            "Battle CHAOS 2019": "$150.00",
+            "Alice": "$320.00",
+            "Neko": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792667627553,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -207643,6 +207681,14 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792249292215,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -208663,6 +208709,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -223135,7 +223189,7 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Buy Pro Version": "$90.00"
+      "Buy Pro Version": "$120.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -223143,6 +223197,16 @@
       "Buy Pro Version": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -312936,6 +313000,16 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "解鎖所有職業": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -315814,6 +315888,18 @@
       "500'000 Coins": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$130.00",
+            "200'000 Coins": "$40.00",
+            "500'000 Coins": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791987672821,
@@ -322727,6 +322813,29 @@
       [
         {
           "timestamp": 1792617457684,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "trackId": 6789634028,
+    "trackName": "Pilavcı",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792687312470,
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}

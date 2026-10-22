@@ -107488,6 +107488,25 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "茶具魔王皮膚卡牌包 C": "USD 4.99",
+            "茶具魔王皮膚卡牌包 B": "USD 4.99",
+            "茶具魔王皮膚卡牌包 A": "USD 4.99",
+            "小墮落勇士造型卡牌包": "USD 25.99",
+            "小勇士造型卡牌包": "USD 25.99",
+            "黑暗的魔王皮膚卡牌包": "USD 7.99",
+            "光芒的魔王皮膚卡牌包": "USD 7.99",
+            "魔王覺醒蛇女卡牌包": "USD 4.99",
+            "神話完整卡牌包": "USD 39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791290979408,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -151468,6 +151487,14 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792249292215,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -152523,6 +152550,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -164097,7 +164132,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "Buy Pro Version": "USD 2.99"
+      "Buy Pro Version": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -164105,6 +164140,16 @@
       "Buy Pro Version": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -206055,6 +206100,16 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "解鎖所有職業": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790857883196,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -208424,6 +208479,18 @@
       "1'000'000 Coins": "USD 3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 5.49,
+          "formattedPrice": "USD 5.49",
+          "inAppPurchases": {
+            "200'000 Coins": "USD 1.19",
+            "500'000 Coins": "USD 2.49",
+            "1'000'000 Coins": "USD 3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791987672821,
@@ -214571,6 +214638,27 @@
       [
         {
           "timestamp": 1792617457684,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "name": "Pilavcı",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792687312470,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}

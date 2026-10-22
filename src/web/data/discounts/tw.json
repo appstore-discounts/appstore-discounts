@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "tw",
+    "timestamp": 1792687312470,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$10.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6502634839,
+    "region": "tw",
+    "timestamp": 1792687312470,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 1055650930,
     "region": "tw",
     "timestamp": 1792617457684,
@@ -1865,7 +1905,7 @@
         "name": "Buy Pro Version",
         "from": "$60.00",
         "to": "$0.00",
-        "range": "[$0.00 ~ $90.00]"
+        "range": "[$0.00 ~ $120.00]"
       }
     ],
     "price": 0,
@@ -51972,7 +52012,7 @@
         "name": "Buy Pro Version",
         "from": "$90.00",
         "to": "$0.00",
-        "range": "[$0.00 ~ $90.00]"
+        "range": "[$0.00 ~ $120.00]"
       }
     ],
     "price": 0,

@@ -254653,7 +254653,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
-      "Buy Pro Version": "$2.99"
+      "Buy Pro Version": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -254661,6 +254661,16 @@
       "Buy Pro Version": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -291580,6 +291590,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792687312470,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$49.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$14.99",
+            "Welcome Offer": "$29.99",
+            "Ticket to Ride ChristmasBundle": "$9.99",
+            "Europe Map": "$12.99",
+            "Ticket to Ride Sale Offer": "$29.99",
+            "Nordic Expansion": "$12.99",
+            "Legendary Asia Expansion": "$12.99",
+            "San Francisco City Expansion": "$12.99"
+          }
+        },
         {
           "timestamp": 1792667627553,
           "price": 4.99,
@@ -358358,6 +358385,27 @@
       [
         {
           "timestamp": 1792617457684,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "name": "Rice Station",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792687312470,
           "price": 0.99,
           "formattedPrice": "$0.99",
           "inAppPurchases": {}

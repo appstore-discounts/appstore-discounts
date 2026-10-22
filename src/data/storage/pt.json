@@ -104385,7 +104385,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Buy Pro Version": "1,99 €"
+      "Buy Pro Version": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -104393,6 +104393,16 @@
       "Buy Pro Version": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Buy Pro Version": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -126107,7 +126117,13 @@
       "Nordic Expansion": "12,99 €",
       "Japan Expansion": "12,99 €",
       "Welcome Offer": "29,99 €",
-      "Heart of Africa Map": "9,99 €"
+      "Heart of Africa Map": "9,99 €",
+      "Ultimate Bundle": "64,99 €",
+      "New York Map": "9,99 €",
+      "France Map": "9,99 €",
+      "Nederlands Map": "9,99 €",
+      "Iberia Map": "9,99 €",
+      "Old West Map": "9,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -126151,9 +126167,30 @@
       "Nordic Expansion": "7,99 €",
       "Japan Expansion": "7,99 €",
       "Welcome Offer": "9,99 €",
-      "Heart of Africa Map": "6,99 €"
+      "Heart of Africa Map": "6,99 €",
+      "Ultimate Bundle": "64,99 €",
+      "New York Map": "9,99 €",
+      "France Map": "9,99 €",
+      "Nederlands Map": "9,99 €",
+      "Iberia Map": "9,99 €",
+      "Old West Map": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Ultimate Bundle": "64,99 €",
+            "New York Map": "9,99 €",
+            "France Map": "9,99 €",
+            "Nederlands Map": "9,99 €",
+            "Iberia Map": "9,99 €",
+            "Old West Map": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -149138,6 +149175,27 @@
       [
         {
           "timestamp": 1792617457684,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "name": "Pilavcı",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792687312470,
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}

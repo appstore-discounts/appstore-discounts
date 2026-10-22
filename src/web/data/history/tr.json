@@ -32904,6 +32904,23 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Explorer Starter Pack": "₺499,99",
+            "Farming Starter Pack": "₺299,99",
+            "Creepy Starter Pack": "₺499,99",
+            "Cuddly Starter Pack": "₺299,99",
+            "Furniture Starter Pack": "₺499,99",
+            "Structures Starter Pack": "₺299,99",
+            "Scary Pack": "₺499,99",
+            "Weapon Pack": "₺299,99",
+            "Minecraft Pets Pack": "₺499,99",
+            "Minecraft Morph Pack": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1792639701504,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -140901,12 +140918,28 @@
       "Huge Investment": "₺249,99",
       "Investment": "₺99,99",
       "Large Investment": "₺129,99",
-      "Bundle": "₺449,99",
+      "Bundle": "₺249,99",
       "Very Large Investment": "₺179,99",
       "Game Editor": "₺299,99",
       "Chairman's Payment": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Game Editor": "₺399,99",
+            "Bundle": "₺249,99",
+            "Chairman's Payment": "₺399,99",
+            "Investment": "₺99,99",
+            "Large Investment": "₺149,99",
+            "Very Large Investment": "₺199,99",
+            "Huge Investment": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773009134766,
@@ -223445,7 +223478,7 @@
     "maxPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99",
-      "Buy Pro Version": "₺129,99"
+      "Buy Pro Version": "₺199,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -223453,6 +223486,16 @@
       "Buy Pro Version": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -286435,6 +286478,16 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "New Hero": "₺499,99",
+            "New Clan": "₺999,99",
+            "Privilege": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1792667627553,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -292832,6 +292885,16 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Version Unlock": "₺249,99",
+            "BikeControl Pro": "₺99,99",
+            "BikeControl Pro - Yearly": "₺1.199,99"
+          }
+        },
+        {
           "timestamp": 1792667627553,
           "price": 0,
           "formattedPrice": "Free",
@@ -298558,6 +298621,23 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Sniper": "₺299,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Gems Pouch": "₺249,99",
+            "Tower Ironbark": "₺399,99",
+            "Hero Ignus": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1792639701504,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -300562,6 +300642,29 @@
           "timestamp": 1792617457684,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "trackId": 6789634028,
+    "trackName": "Rice Station",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]

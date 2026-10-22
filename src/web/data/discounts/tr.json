@@ -1,50 +1,23 @@
 [
   {
-    "trackId": 6740698426,
+    "trackId": 1346580540,
     "region": "tr",
-    "timestamp": 1792667627553,
+    "timestamp": 1792687312470,
     "discounts": [
       {
         "type": "inAppPurchase",
-        "name": "New Clan",
-        "from": "₺999,99",
-        "to": "₺249,99",
-        "range": "[₺249,99 ~ ₺999,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "New Hero",
+        "name": "Bundle",
         "from": "₺499,99",
-        "to": "₺149,99",
-        "range": "[₺149,99 ~ ₺499,99]"
+        "to": "₺249,99",
+        "range": "[₺249,99 ~ ₺499,99]"
       }
     ],
-    "price": 149.99,
-    "formattedPrice": "₺149,99",
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
     "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id6740698426",
-    "trackName": "Empires Game",
-    "firstRecordedAt": 1768538736603
-  },
-  {
-    "trackId": 6753721284,
-    "region": "tr",
-    "timestamp": 1792667627553,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "BikeControl Pro",
-        "from": "₺99,99",
-        "to": "₺1.299,99",
-        "range": "[₺99,99 ~ ₺1.299,99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id6753721284",
-    "trackName": "BikeControl: Virtual Shifting",
-    "firstRecordedAt": 1778874489166
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1346580540",
+    "trackName": "Motorsport Manager Mobile 3",
+    "firstRecordedAt": 1764944922886
   },
   {
     "trackId": 994157520,
@@ -1839,7 +1812,7 @@
         "name": "Buy Pro Version",
         "from": "₺99,99",
         "to": "₺0,00",
-        "range": "[₺0,00 ~ ₺129,99]"
+        "range": "[₺0,00 ~ ₺199,99]"
       }
     ],
     "price": 0,
@@ -53604,7 +53577,7 @@
         "name": "Buy Pro Version",
         "from": "₺129,99",
         "to": "₺0,00",
-        "range": "[₺0,00 ~ ₺129,99]"
+        "range": "[₺0,00 ~ ₺199,99]"
       }
     ],
     "price": 0,

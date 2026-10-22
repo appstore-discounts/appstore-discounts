@@ -140157,6 +140157,23 @@
     "history": [
       [
         {
+          "timestamp": 1792687312470,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "120金砖": "¥12.00",
+            "战斗奖励双倍": "¥12.00",
+            "背包扩展": "¥15.00",
+            "深度高级特训": "¥98.00",
+            "高级特训": "¥68.00",
+            "月卡": "¥30.00",
+            "1980金砖": "¥198.00",
+            "6480金砖": "¥648.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792206602061,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -145514,6 +145531,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -160323,7 +160348,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00",
-      "解锁专业版(Pro)": "¥18.00"
+      "解锁专业版(Pro)": "¥28.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -160331,6 +160356,16 @@
       "解锁专业版(Pro)": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁专业版(Pro)": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -230290,6 +230325,19 @@
       "Pro Ultra": "¥1,298.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792687312470,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "Pro": "¥148.00",
+            "Lite": "¥38.00",
+            "Pro Max": "¥698.00",
+            "Pro Ultra": "¥1,298.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,

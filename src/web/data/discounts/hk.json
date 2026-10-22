@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "hk",
+    "timestamp": 1792687312470,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 2.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6751122124,
+    "region": "hk",
+    "timestamp": 1792687312470,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 3.00",
+        "to": "HK$ 2.00",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 2,
+    "formattedPrice": "HK$ 2.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6751122124",
+    "trackName": "Notteka | 香港AI Bot",
+    "firstRecordedAt": 1775335273950
+  },
+  {
+    "trackId": 6502634839,
+    "region": "hk",
+    "timestamp": 1792687312470,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 22.00",
+        "range": "[免費 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 1055650930,
     "region": "hk",
     "timestamp": 1792617457684,
@@ -1899,7 +1959,7 @@
         "name": "Buy Pro Version",
         "from": "HK$ 18.00",
         "to": "HK$ 0.00",
-        "range": "[HK$ 0.00 ~ HK$ 22.00]"
+        "range": "[HK$ 0.00 ~ HK$ 32.00]"
       }
     ],
     "price": 0,
@@ -50971,7 +51031,7 @@
         "name": "Buy Pro Version",
         "from": "HK$ 22.00",
         "to": "HK$ 0.00",
-        "range": "[HK$ 0.00 ~ HK$ 22.00]"
+        "range": "[HK$ 0.00 ~ HK$ 32.00]"
       }
     ],
     "price": 0,
