@@ -9745,6 +9745,27 @@
       ]
     ]
   },
+  "424015306": {
+    "name": "RAL iColours",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "424591347": {
     "name": "FINAL FANTASY III (3D REMAKE)",
     "maxPriceInfo": {
@@ -37566,6 +37587,22 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 1.19,
+          "formattedPrice": "1,19 €",
+          "inAppPurchases": {
+            "Costume Set": "1,19 €",
+            "Special Episode": "3,49 €",
+            "Episode 5": "5,99 €",
+            "Episode 4": "5,99 €",
+            "Episode 3": "5,99 €",
+            "Episode 2": "5,99 €",
+            "Main Story Set": "17,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -56034,6 +56071,20 @@
       "Turnabout Succession": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 1.19,
+          "formattedPrice": "1,19 €",
+          "inAppPurchases": {
+            "All Episodes Set": "17,99 €",
+            "Turnabout Trump, Part 2": "2,49 €",
+            "Turnabout Serenade": "5,99 €",
+            "Turnabout Corner": "5,99 €",
+            "Turnabout Succession": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -83707,6 +83758,27 @@
       ]
     ]
   },
+  "1485478290": {
+    "name": "Functional Oral Intake Scale",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1486110292": {
     "name": "Minitube for Youtube",
     "maxPriceInfo": {
@@ -103689,6 +103761,14 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 9.89,
           "formattedPrice": "9,89 €",
@@ -115916,6 +115996,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -143897,13 +143985,25 @@
     "name": "Plezy: Media Server Client",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "formattedPrice": "6,99 €",
+      "Supporter": "3,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "formattedPrice": "6,99 €",
+      "Supporter": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Supporter": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,

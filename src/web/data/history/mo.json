@@ -14857,6 +14857,29 @@
       ]
     ]
   },
+  "424015306": {
+    "trackId": 424015306,
+    "trackName": "RAL iColours",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "424403441": {
     "trackId": 424403441,
     "trackName": "Pimple Eraser",
@@ -22876,6 +22899,21 @@
       "All Subtanks": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Complete Set": "USD 3.99",
+            "Full Armor": "USD 1.99",
+            "All Health Boosts": "USD 0.99",
+            "Arranged BGMs": "USD 2.99",
+            "All Weapons": "USD 1.99",
+            "All Subtanks": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -57930,6 +57968,22 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Main Story Set": "USD 14.99",
+            "Special Episode": "USD 2.99",
+            "Costume Set": "USD 0.99",
+            "Episode 2": "USD 4.99",
+            "Episode 5": "USD 4.99",
+            "Episode 4": "USD 4.99",
+            "Episode 3": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "USD 0.49",
@@ -88418,6 +88472,20 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "All Episodes Set": "USD 14.99",
+            "Turnabout Trump, Part 2": "USD 1.99",
+            "Turnabout Succession": "USD 4.99",
+            "Turnabout Serenade": "USD 4.99",
+            "Turnabout Corner": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "USD 0.49",
@@ -95661,6 +95729,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792667627553,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "高速模式": "USD 0.99",
+            "回到童年": "USD 0.99",
+            "聖誕服": "USD 0.99",
+            "肉包子服": "USD 0.99",
+            "企鵝服": "USD 0.99",
+            "森野熊服": "USD 0.99",
+            "跳舞開羅姬": "USD 1.99",
+            "跳舞的歪羅君": "USD 1.99",
+            "跳舞的開羅君": "USD 1.99",
+            "開羅雕像2": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1792639701504,
           "price": 4.99,
@@ -137188,6 +137273,29 @@
       ]
     ]
   },
+  "1485478290": {
+    "trackId": 1485478290,
+    "trackName": "Functional Oral Intake Scale",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1486110292": {
     "trackId": 1486110292,
     "trackName": "Minitube for Youtube",
@@ -165749,6 +165857,14 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 9.89,
           "formattedPrice": "USD 9.89",
@@ -190977,6 +191093,14 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -213263,13 +213387,25 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "formattedPrice": "USD 5.99",
+      "Supporter": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "formattedPrice": "USD 5.99",
+      "Supporter": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Supporter": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,

@@ -11809,6 +11809,25 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792639701504,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -22785,6 +22804,27 @@
           "timestamp": 1779875386311,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "424015306": {
+    "name": "RAL iColours",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
           "inAppPurchases": {}
         }
       ]
@@ -81580,6 +81620,22 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Main Story Set": "$14.99",
+            "Special Episode": "$2.99",
+            "Costume Set": "$0.99",
+            "Episode 2": "$4.99",
+            "Episode 3": "$4.99",
+            "Episode 5": "$4.99",
+            "Episode 4": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -124048,6 +124104,20 @@
       "Turnabout Succession": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Episodes Set": "$14.99",
+            "Turnabout Trump, Part 2": "$1.99",
+            "Turnabout Corner": "$4.99",
+            "Turnabout Serenade": "$4.99",
+            "Turnabout Succession": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -200418,6 +200488,27 @@
       ]
     ]
   },
+  "1485478290": {
+    "name": "Functional Oral Intake Scale",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1486110292": {
     "name": "Minitube for Youtube",
     "maxPriceInfo": {
@@ -250166,6 +250257,14 @@
     "history": [
       [
         {
+          "timestamp": 1792667627553,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 9.89,
           "formattedPrice": "$9.89",
@@ -291415,7 +291514,13 @@
       "Japan Expansion": "$12.99",
       "India Expansion": "$12.99",
       "Welcome Offer": "$29.99",
-      "Ticket to Ride Sale Offer": "$29.99"
+      "Ticket to Ride Sale Offer": "$29.99",
+      "Ultimate Bundle": "$64.99",
+      "New York Map": "$9.99",
+      "France Map": "$9.99",
+      "Nederlands Map": "$9.99",
+      "Iberia Map": "$9.99",
+      "Old West Map": "$9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -291465,9 +291570,30 @@
       "Japan Expansion": "$7.99",
       "India Expansion": "$7.99",
       "Welcome Offer": "$9.99",
-      "Ticket to Ride Sale Offer": "$27.99"
+      "Ticket to Ride Sale Offer": "$27.99",
+      "Ultimate Bundle": "$64.99",
+      "New York Map": "$9.99",
+      "France Map": "$9.99",
+      "Nederlands Map": "$9.99",
+      "Iberia Map": "$9.99",
+      "Old West Map": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Ultimate Bundle": "$64.99",
+            "New York Map": "$9.99",
+            "France Map": "$9.99",
+            "Nederlands Map": "$9.99",
+            "Iberia Map": "$9.99",
+            "Old West Map": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792034629201,
@@ -315305,6 +315431,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -352680,13 +352814,25 @@
     "name": "Plezy: Media Server Client",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "$5.99"
+      "formattedPrice": "$5.99",
+      "Supporter": "$3.99"
     },
     "minPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "$5.99"
+      "formattedPrice": "$5.99",
+      "Supporter": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792667627553,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Supporter": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,
