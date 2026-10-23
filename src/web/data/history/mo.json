@@ -38401,6 +38401,25 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "USD 0.99",
+            "SLS 2022: Jacksonville": "USD 0.99",
+            "SLS 2021: World Championship": "USD 0.99",
+            "SLS 2019: Sao Paulo": "USD 0.99",
+            "SLS 2019: London": "USD 0.99",
+            "Sandbox 1 Year": "USD 24.99",
+            "Sandbox 3 Months": "USD 9.99",
+            "Sandbox Monthly": "USD 4.99",
+            "SLS 2018: World Championship": "USD 0.99",
+            "Mountain of Bolts": "USD 99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786388186899,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -137945,6 +137964,25 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "880元宝": "USD 12.99",
+            "终身卡VIP": "USD 59.99",
+            "月卡VIP": "USD 3.99",
+            "250元宝": "USD 3.99",
+            "1680元宝": "USD 24.99",
+            "终身VIP": "USD 59.99",
+            "年卡VIP": "USD 34.99",
+            "3880元宝": "USD 59.99",
+            "2980元宝": "USD 39.99",
+            "60元宝": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791568819448,
           "price": 0,
           "formattedPrice": "免費",
@@ -195031,10 +195069,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 2.49,
-      "formattedPrice": "USD 2.49"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,
@@ -219117,6 +219163,29 @@
           "timestamp": 1792703638499,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817821959": {
+    "trackId": 6817821959,
+    "trackName": "Cafe Days：咖啡店經營",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

@@ -475,6 +475,25 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "$30.00",
+            "Grimm Skin Pack": "$30.00",
+            "Zombie Skin Pack": "$30.00",
+            "Monster Pack": "$30.00",
+            "Dance Pack Three": "$30.00",
+            "Mondo Pack": "$30.00",
+            "Superbowl Skin Pack": "$30.00",
+            "Candy Land Pack": "$30.00",
+            "Underwater World Pack": "$30.00",
+            "Mafia Pack": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792166954412,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -30154,6 +30173,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792726402577,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        },
         {
           "timestamp": 1792687312470,
           "price": 235,
@@ -117177,6 +117213,17 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一大箱水晶": "$390.00",
+            "一堆水晶": "$90.00",
+            "一袋水晶": "$30.00",
+            "几个水晶": "$30.00"
+          }
+        },
+        {
           "timestamp": 1792703638499,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -134296,6 +134343,24 @@
       "Super Tip": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$100.00",
+            "Power Builder (yearly)": "$860.00",
+            "Power Builder (weekly)": "$40.00",
+            "The Ultimate Tip": "$1,990.00",
+            "Super Mega Smashing Tip": "$990.00",
+            "Super Smashing Tip": "$590.00",
+            "Super Mega Tip": "$320.00",
+            "Mega Tip": "$190.00",
+            "Super Tip": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792120771172,
@@ -160679,6 +160744,25 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "超值好禮3_648": "$3,290.00",
+            "超值好禮2_648": "$3,290.00",
+            "超值好禮1_648": "$3,290.00",
+            "超值好禮3_328": "$1,690.00",
+            "超值好禮2_328": "$1,690.00",
+            "超值好禮1_328": "$1,690.00",
+            "超值好禮2_198": "$990.00",
+            "超值好禮3_198": "$990.00",
+            "超值好禮1_198": "$990.00",
+            "超值好禮3_128": "$670.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792639701504,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -179480,6 +179564,24 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$490.00",
+            "Theme Collection": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792231960258,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -187853,6 +187955,25 @@
       "年卡VIP": "$1,190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "月卡VIP": "$120.00",
+            "3880元宝": "$1,990.00",
+            "880元宝": "$390.00",
+            "250元宝": "$120.00",
+            "60元宝": "$30.00",
+            "1680元宝": "$790.00",
+            "终身卡VIP": "$1,990.00",
+            "2980元宝": "$1,290.00",
+            "终身VIP": "$1,990.00",
+            "年卡VIP": "$1,190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,
@@ -293925,10 +294046,18 @@
       "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
-      "price": 75,
-      "formattedPrice": "$75.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,
@@ -322909,6 +323038,29 @@
           "timestamp": 1792703638499,
           "price": 390,
           "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817821959": {
+    "trackId": 6817821959,
+    "trackName": "Cafe Days：咖啡店經營",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

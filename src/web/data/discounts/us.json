@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "us",
+    "timestamp": 1792726402577,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.39 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6501973975,
+    "region": "us",
+    "timestamp": 1792726402577,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "Free",
+        "range": "[Free ~ $3.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6501973975",
+    "trackName": "Off Day",
+    "firstRecordedAt": 1749543468857
+  },
+  {
+    "trackId": 6502634839,
+    "region": "us",
+    "timestamp": 1792726402577,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 994157520,
     "region": "us",
     "timestamp": 1792639701504,

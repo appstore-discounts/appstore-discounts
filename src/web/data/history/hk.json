@@ -162540,6 +162540,25 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "禮包2": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792319275424,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -187622,6 +187641,25 @@
       "年卡VIP": "HK$ 288.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "3880元宝": "HK$ 488.00",
+            "月卡VIP": "HK$ 32.00",
+            "880元宝": "HK$ 98.00",
+            "250元宝": "HK$ 32.00",
+            "60元宝": "HK$ 8.00",
+            "2980元宝": "HK$ 288.00",
+            "1680元宝": "HK$ 188.00",
+            "终身卡VIP": "HK$ 488.00",
+            "终身VIP": "HK$ 488.00",
+            "年卡VIP": "HK$ 288.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,
@@ -282201,10 +282239,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 19,
-      "formattedPrice": "HK$ 19.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,
@@ -310677,6 +310723,29 @@
           "timestamp": 1792703638499,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817821959": {
+    "trackId": 6817821959,
+    "trackName": "Cafe Days：咖啡店經營",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]

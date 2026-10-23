@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2361` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2362` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2362|6817821959|Automatic|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|cafedays|cafedays|Cafe Days: gerencie um café|
 |2361|6785542417|Automatic|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|
 |2360|6789634028|Automatic|❌|Pilavcı|Pilavcı|Pilavcı|Rice Station|Rice Station|Pilavcı|
 |2359|424015306|Automatic|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|
@@ -27,7 +28,7 @@ So far, we've covered `7` `Countries or Regions` and  `2361` `Apps` <br />Push n
 |2344|6459057077|Automatic|德语 Pro: 词典 & 考试|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|German Pro: dictionary & exams|German Pro: dictionary & exams|Alemão Pro: dicionário exames|
 |2343|1504000687|Automatic|❌|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|
 |2342|6780263761|Automatic|❌|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble: Army Raid RPG|❌|❌|
-|2341|6783860401|Automatic|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|❌|
+|2341|6783860401|Automatic|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|
 |2340|6807273352|Automatic|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|❌|
 |2339|528194758|Automatic|❌|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|
 |2338|1005098334|Automatic|❌|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|

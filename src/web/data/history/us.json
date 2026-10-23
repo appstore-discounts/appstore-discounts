@@ -7933,7 +7933,9 @@
       "Unlock All Tier 4": "$199.99",
       "LUFS Meter": "$9.99",
       "HAA CinemaTools with HAA Link": "$149.99",
-      "Max Subwoofer SPL": "$29.99"
+      "Max Subwoofer SPL": "$29.99",
+      "THD+n Module": "$9.99",
+      "Impedance Module": "$29.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -7960,9 +7962,30 @@
       "Unlock All Tier 4": "$199.99",
       "LUFS Meter": "$9.99",
       "HAA CinemaTools with HAA Link": "$149.99",
-      "Max Subwoofer SPL": "$29.99"
+      "Max Subwoofer SPL": "$29.99",
+      "THD+n Module": "$9.99",
+      "Impedance Module": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "SPL Graph Module": "$9.99",
+            "SPL Pro Module": "$7.99",
+            "Polarity Test Module": "$3.99",
+            "ETC Module": "$5.99",
+            "THD+n Module": "$9.99",
+            "Impedance Module": "$29.99",
+            "Speaker Distortion": "$5.99",
+            "IR Module": "$49.99",
+            "SPL Traffic Light": "$9.99",
+            "SoundScope VR": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786785908853,
@@ -203472,6 +203495,25 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "3880元宝": "$59.99",
+            "月卡VIP": "$3.99",
+            "880元宝": "$12.99",
+            "终身卡VIP": "$59.99",
+            "1680元宝": "$24.99",
+            "2980元宝": "$39.99",
+            "250元宝": "$3.99",
+            "60元宝": "$0.99",
+            "年卡VIP": "$34.99",
+            "终身VIP": "$59.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791568819448,
           "price": 0,
           "formattedPrice": "Free",
@@ -239678,6 +239720,14 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792293184436,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -240716,6 +240766,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792483972912,
@@ -328413,10 +328471,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 2.49,
-      "formattedPrice": "$2.49"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,
@@ -343172,6 +343238,25 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "sonsuz paket": "$4.99",
+            "30000 money": "$0.29",
+            "5 gold": "$0.29",
+            "5 ticket": "$0.29",
+            "30 gold": "$0.99",
+            "orta paket": "$0.99",
+            "10 gold": "$0.49",
+            "25 gold": "$0.89",
+            "30 ticket": "$0.99",
+            "500000 money": "$1.90"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792454818639,
           "price": 0,
           "formattedPrice": "Free",
@@ -352057,6 +352142,16 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Classes Unlocked": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -355941,6 +356036,18 @@
     "history": [
       [
         {
+          "timestamp": 1792726402577,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$3.49",
+            "200'000 Coins": "$1.19",
+            "500'000 Coins": "$2.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792034629201,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -359246,6 +359353,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792726402577,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Altruist": "$2.99",
+            "Saint of Sanmagica": "$2.99",
+            "Honor of the Knights": "$1.99",
+            "Berserker": "$0.99",
+            "The Arena": "$1.99",
+            "The Legendary Fist": "$1.99",
+            "Power Suit": "$0.99",
+            "Green Abyss": "$4.99",
+            "Patron Character": "$0.49",
+            "Patron Season Pass": "$0.49"
+          }
+        },
         {
           "timestamp": 1792703638499,
           "price": 6.99,
@@ -362853,6 +362977,29 @@
           "timestamp": 1792703638499,
           "price": 11.99,
           "formattedPrice": "$11.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817821959": {
+    "trackId": 6817821959,
+    "trackName": "cafedays",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792726402577,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]
