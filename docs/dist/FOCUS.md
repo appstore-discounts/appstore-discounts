@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2365` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2367` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2367|583700229|Automatic|Reorder Contacts - Reorder It!|Reorder Contacts - Reorder It!|Reorder Contacts - Reorder It!|Reorder Contacts - Reorder It!|Reorder Contacts - Reorder It!|Reorder Contacts - Reorder It!|Reorder Contacts - Reorder It!|
+|2366|6767158612|Automatic|Matplotlib教程大全-Python数据可视化编程工具|Matplotlib教程大全-Python数据可视化编程工具|Matplotlib教程大全-Python数据可视化编程工具|Matplotlib教程大全-Python数据可视化编程工具|Matplotlib Tutorial Guide|Matplotlib Tutorial Guide|Matplotlib教程大全-Python数据可视化编程工具|
 |2365|6771652722|Automatic|❌|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|
 |2364|6819720065|Automatic|P's Pocket|P's Pocket|P's Pocket|P's Pocket|P's Pocket|❌|❌|
 |2363|6793744610|Automatic|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|

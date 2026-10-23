@@ -43538,6 +43538,29 @@
       ]
     ]
   },
+  "583700229": {
+    "trackId": 583700229,
+    "trackName": "Reorder Contacts - Reorder It!",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792773135775,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "583922375": {
     "trackId": 583922375,
     "trackName": "myLightMeter PRO",
@@ -105537,6 +105560,25 @@
       "Black Cam Film Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792773135775,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,
@@ -186240,6 +186282,14 @@
     "history": [
       [
         {
+          "timestamp": 1792773135775,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792182791913,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -196944,6 +196994,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792773135775,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792166954412,
@@ -214182,7 +214240,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99",
-      "Pro 年費": "USD 6.00",
+      "Pro 年費": "USD 6.99",
       "Pro 月費": "USD 1.00"
     },
     "minPriceInfo": {
@@ -214192,6 +214250,17 @@
       "Pro 月費": "USD 1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792773135775,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Pro 年費": "USD 6.99",
+            "Pro 月費": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786571006662,
@@ -219333,6 +219402,29 @@
             "1 TB · Annual": "USD 149.99",
             "1 TB · Monthly": "USD 14.99"
           }
+        }
+      ]
+    ]
+  },
+  "6767158612": {
+    "trackId": 6767158612,
+    "trackName": "Matplotlib教程大全-Python数据可视化编程工具",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792773135775,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

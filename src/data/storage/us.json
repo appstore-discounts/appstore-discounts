@@ -56419,6 +56419,27 @@
       ]
     ]
   },
+  "583700229": {
+    "name": "Reorder Contacts - Reorder It!",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792773135775,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "583922375": {
     "name": "myLightMeter PRO",
     "maxPriceInfo": {
@@ -84226,6 +84247,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792773135775,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "$8.99",
+            "第01課教學影片": "$0.99",
+            "第08課教學影片": "$0.99",
+            "第02課教學影片": "$0.99",
+            "第12課教學影片": "$0.99",
+            "第11課教學影片": "$0.99",
+            "第10課教學影片": "$0.99",
+            "第09課教學影片": "$0.99",
+            "第07課教學影片": "$0.99",
+            "第06課教學影片": "$0.99"
+          }
+        },
         {
           "timestamp": 1792753502905,
           "price": 5.99,
@@ -300991,6 +301029,14 @@
     "history": [
       [
         {
+          "timestamp": 1792773135775,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792182791913,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -358816,6 +358862,27 @@
             "1 TB · Annual": "$149.99",
             "1 TB · Monthly": "$14.99"
           }
+        }
+      ]
+    ]
+  },
+  "6767158612": {
+    "name": "Matplotlib Tutorial Guide",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792773135775,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

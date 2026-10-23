@@ -1,5 +1,101 @@
 [
   {
+    "trackId": 6471594918,
+    "region": "cn",
+    "timestamp": 1792773135775,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥8.00",
+        "range": "[免费 ~ ¥58.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6444508254,
+    "region": "cn",
+    "timestamp": 1792773135775,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥88.00",
+        "to": "¥6.00",
+        "range": "[¥1.00 ~ ¥88.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "美术升级包",
+        "from": "¥28.00",
+        "to": "¥12.00",
+        "range": "[¥9.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "群英荟",
+        "from": "¥28.00",
+        "to": "¥12.00",
+        "range": "[¥10.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "英雄的黎明",
+        "from": "¥28.00",
+        "to": "¥12.00",
+        "range": "[¥9.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "苍天之志",
+        "from": "¥18.00",
+        "to": "¥15.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "出类拔萃",
+        "from": "¥28.00",
+        "to": "¥12.00",
+        "range": "[¥10.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "汉末地图重制版",
+        "from": "¥18.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "山河归一",
+        "from": "¥28.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "华夏九州-水浒英雄传",
+        "from": "¥25.00",
+        "to": "¥20.00",
+        "range": "[¥18.00 ~ ¥25.00]"
+      }
+    ],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6444508254",
+    "trackName": "汉末霸业",
+    "firstRecordedAt": 1779826154618
+  },
+  {
     "trackId": 6501973975,
     "region": "cn",
     "timestamp": 1792726402577,
