@@ -38401,6 +38401,23 @@
     "history": [
       [
         {
+          "timestamp": 1792753502905,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Skatepark 6 Pack": "USD 4.99",
+            "The Alley": "USD 0.99",
+            "Skatepark: Mondo Ramp": "USD 0.99",
+            "Skatepark of Tampa": "USD 0.99",
+            "Unlock Missions": "USD 0.99",
+            "SLS 2016 Course Pack": "USD 1.99",
+            "Skatepark: The Berrics": "USD 1.99",
+            "SLS 2015: Super Crown": "USD 0.99",
+            "SLS 6 Pack": "USD 4.99",
+            "Unlock Trick and Gap Lists": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1792726402577,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -205479,6 +205496,14 @@
     "history": [
       [
         {
+          "timestamp": 1792753502905,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788106055024,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -217788,7 +217813,8 @@
       "英雄 鬼侍": "USD 4.99",
       "混合 禮包 12": "USD 7.99",
       "法術變羊術促銷": "USD 1.99",
-      "法術變羊術": "USD 2.99"
+      "法術變羊術": "USD 2.99",
+      "一把寶石": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -217811,9 +217837,29 @@
       "英雄 鬼侍": "USD 4.99",
       "混合 禮包 12": "USD 7.99",
       "法術變羊術促銷": "USD 1.99",
-      "法術變羊術": "USD 2.99"
+      "法術變羊術": "USD 2.99",
+      "一把寶石": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "一把寶石": "USD 2.99",
+            "英雄 鬼侍": "USD 4.99",
+            "英雄 德拉坎": "USD 6.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全英雄禮包": "USD 24.99",
+            "混合 禮包 12": "USD 7.99",
+            "法術變羊術促銷": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792639701504,
@@ -219187,6 +219233,106 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6771652722": {
+    "trackId": 6771652722,
+    "trackName": "ONE PIECE 海洋盛宴",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819720065": {
+    "trackId": 6819720065,
+    "trackName": "P's Pocket",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793744610": {
+    "trackId": 6793744610,
+    "trackName": "2AM CAM",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "64 GB · Annual": "USD 19.99",
+      "128 GB · Monthly": "USD 2.99",
+      "512 GB · Annual": "USD 89.99",
+      "256 GB · Annual": "USD 49.99",
+      "64 GB · Monthly": "USD 1.99",
+      "128 GB · Annual": "USD 29.99",
+      "256 GB · Monthly": "USD 4.99",
+      "512 GB · Monthly": "USD 8.99",
+      "1 TB · Annual": "USD 149.99",
+      "1 TB · Monthly": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "64 GB · Annual": "USD 19.99",
+      "128 GB · Monthly": "USD 2.99",
+      "512 GB · Annual": "USD 89.99",
+      "256 GB · Annual": "USD 49.99",
+      "64 GB · Monthly": "USD 1.99",
+      "128 GB · Annual": "USD 29.99",
+      "256 GB · Monthly": "USD 4.99",
+      "512 GB · Monthly": "USD 8.99",
+      "1 TB · Annual": "USD 149.99",
+      "1 TB · Monthly": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "64 GB · Annual": "USD 19.99",
+            "128 GB · Monthly": "USD 2.99",
+            "512 GB · Annual": "USD 89.99",
+            "256 GB · Annual": "USD 49.99",
+            "64 GB · Monthly": "USD 1.99",
+            "128 GB · Annual": "USD 29.99",
+            "256 GB · Monthly": "USD 4.99",
+            "512 GB · Monthly": "USD 8.99",
+            "1 TB · Annual": "USD 149.99",
+            "1 TB · Monthly": "USD 14.99"
+          }
         }
       ]
     ]

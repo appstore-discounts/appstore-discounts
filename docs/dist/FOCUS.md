@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2362` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2365` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2365|6771652722|Automatic|❌|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|
+|2364|6819720065|Automatic|P's Pocket|P's Pocket|P's Pocket|P's Pocket|P's Pocket|❌|❌|
+|2363|6793744610|Automatic|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|
 |2362|6817821959|Automatic|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|cafedays|cafedays|Cafe Days: gerencie um café|
 |2361|6785542417|Automatic|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|
 |2360|6789634028|Automatic|❌|Pilavcı|Pilavcı|Pilavcı|Rice Station|Rice Station|Pilavcı|
@@ -694,7 +697,7 @@ So far, we've covered `7` `Countries or Regions` and  `2362` `Apps` <br />Push n
 |1678|6757795420|Automatic|❌|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|Demumuu  Pro: Are you alive|
 |1677|6755921847|Automatic|乐语-音乐术语词典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|樂語 - 音樂術語詞典|Yueyu - Music Terms Dictionary|❌|❌|
 |1676|408209116|Automatic|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|SwingTool - Swing Weight|
-|1675|6740698426|Automatic|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
+|1675|6740698426|Automatic|帝国传奇：像素英雄|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|Empires Game|
 |1674|364909484|Automatic|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|GOToronto: GO Transit Sidekick|❌|
 |1673|714855554|Automatic|轮盘赌数十计算器|輪盤賭數十計算器|輪盤賭數十計算器|輪盤賭數十計算器|Roulette Dozens Calculator|Roulette Dozens Calculator|Calculadora roleta dúzias|
 |1672|1570440293|Automatic|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|

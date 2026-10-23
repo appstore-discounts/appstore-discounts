@@ -76224,6 +76224,25 @@
     "history": [
       [
         {
+          "timestamp": 1792753502905,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "HK$ 8.00",
+            "Small Coin Pack": "HK$ 8.00",
+            "Large Coin Pack": "HK$ 22.00",
+            "Unlock all stages": "HK$ 8.00",
+            "Medium Coin Pack": "HK$ 18.00",
+            "Atom": "HK$ 8.00",
+            "Dragon": "HK$ 8.00",
+            "Pig": "HK$ 8.00",
+            "Snake": "HK$ 8.00",
+            "Tiger": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -176887,7 +176906,9 @@
       "Knitted Bundle": "HK$ 98.00",
       "Sagescale Token": "HK$ 88.00",
       "Pumpkin Spice T-rex Token Sale": "HK$ 22.00",
-      "Cosy Dice Sale": "HK$ 32.00"
+      "Cosy Dice Sale": "HK$ 32.00",
+      "Glow in the Dark Pack": "HK$ 88.00",
+      "The Sports Car": "HK$ 28.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -177104,9 +177125,30 @@
       "Knitted Bundle": "HK$ 98.00",
       "Sagescale Token": "HK$ 88.00",
       "Pumpkin Spice T-rex Token Sale": "HK$ 22.00",
-      "Cosy Dice Sale": "HK$ 32.00"
+      "Cosy Dice Sale": "HK$ 32.00",
+      "Glow in the Dark Pack": "HK$ 88.00",
+      "The Sports Car": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Glow in the Dark Pack": "HK$ 88.00",
+            "City Break": "HK$ 22.00",
+            "Welcome Offer": "HK$ 148.00",
+            "The Sports Car": "HK$ 28.00",
+            "Cthulhu Token": "HK$ 88.00",
+            "Emberwing Token": "HK$ 88.00",
+            "Valkyrie Token": "HK$ 88.00",
+            "Magnus Wizard Token": "HK$ 88.00",
+            "Speed Die": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792667627553,
@@ -291973,6 +292015,14 @@
     "history": [
       [
         {
+          "timestamp": 1792753502905,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788106055024,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -297123,6 +297173,25 @@
       "訓練記憶": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "魔界擴充通行證": "HK$ 48.00",
+            "深淵開拓者": "HK$ 88.00",
+            "隱月造型套裝": "HK$ 88.00",
+            "超越精華": "HK$ 228.00",
+            "尼奧貝希摩斯": "HK$ 18.00",
+            "魔界通行證1": "HK$ 22.00",
+            "永恆方舟": "HK$ 228.00",
+            "時間旅行者": "HK$ 48.00",
+            "深淵之始": "HK$ 88.00",
+            "訓練記憶": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -306307,6 +306376,100 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6771652722": {
+    "name": "ONE PIECE 海洋盛宴",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819720065": {
+    "name": "P's Pocket",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793744610": {
+    "name": "2AM CAM",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "64 GB · Annual": "HK$ 148.00",
+      "128 GB · Monthly": "HK$ 22.00",
+      "512 GB · Annual": "HK$ 688.00",
+      "256 GB · Annual": "HK$ 388.00",
+      "64 GB · Monthly": "HK$ 18.00",
+      "128 GB · Annual": "HK$ 228.00",
+      "256 GB · Monthly": "HK$ 38.00",
+      "512 GB · Monthly": "HK$ 68.00",
+      "1 TB · Annual": "HK$ 1,188.00",
+      "1 TB · Monthly": "HK$ 118.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "64 GB · Annual": "HK$ 148.00",
+      "128 GB · Monthly": "HK$ 22.00",
+      "512 GB · Annual": "HK$ 688.00",
+      "256 GB · Annual": "HK$ 388.00",
+      "64 GB · Monthly": "HK$ 18.00",
+      "128 GB · Annual": "HK$ 228.00",
+      "256 GB · Monthly": "HK$ 38.00",
+      "512 GB · Monthly": "HK$ 68.00",
+      "1 TB · Annual": "HK$ 1,188.00",
+      "1 TB · Monthly": "HK$ 118.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "64 GB · Annual": "HK$ 148.00",
+            "128 GB · Monthly": "HK$ 22.00",
+            "512 GB · Annual": "HK$ 688.00",
+            "256 GB · Annual": "HK$ 388.00",
+            "64 GB · Monthly": "HK$ 18.00",
+            "128 GB · Annual": "HK$ 228.00",
+            "256 GB · Monthly": "HK$ 38.00",
+            "512 GB · Monthly": "HK$ 68.00",
+            "1 TB · Annual": "HK$ 1,188.00",
+            "1 TB · Monthly": "HK$ 118.00"
+          }
         }
       ]
     ]

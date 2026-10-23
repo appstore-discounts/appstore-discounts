@@ -7873,6 +7873,25 @@
     "history": [
       [
         {
+          "timestamp": 1792753502905,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "SPL Pro Module": "$7.99",
+            "SoundScope VR": "$24.99",
+            "SPL Graph Module": "$9.99",
+            "All-In Module Access": "$9.99",
+            "Polarity Test Module": "$3.99",
+            "ETC Module": "$5.99",
+            "SPL Traffic Light": "$9.99",
+            "Speaker Distortion": "$5.99",
+            "VU Meter": "$2.99",
+            "IR Module": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792726402577,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -84183,7 +84202,10 @@
       "第10課教學影片": "$0.99",
       "第09課教學影片": "$0.99",
       "第07課教學影片": "$0.99",
-      "第06課教學影片": "$0.99"
+      "第06課教學影片": "$0.99",
+      "第03課教學影片": "$0.99",
+      "第04課教學影片": "$0.99",
+      "第05課教學影片": "$0.99"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -84197,9 +84219,31 @@
       "第10課教學影片": "$0.99",
       "第09課教學影片": "$0.99",
       "第07課教學影片": "$0.99",
-      "第06課教學影片": "$0.99"
+      "第06課教學影片": "$0.99",
+      "第03課教學影片": "$0.99",
+      "第04課教學影片": "$0.99",
+      "第05課教學影片": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "$8.99",
+            "第01課教學影片": "$0.99",
+            "第02課教學影片": "$0.99",
+            "第03課教學影片": "$0.99",
+            "第04課教學影片": "$0.99",
+            "第05課教學影片": "$0.99",
+            "第06課教學影片": "$0.99",
+            "第07課教學影片": "$0.99",
+            "第08課教學影片": "$0.99",
+            "第09課教學影片": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780783378870,
@@ -143018,6 +143062,25 @@
       "Kizuna AI Extend 2026": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Alice": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790481229445,
@@ -291651,6 +291714,25 @@
     "history": [
       [
         {
+          "timestamp": 1792753502905,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$49.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$14.99",
+            "Welcome Offer": "$29.99",
+            "Ticket to Ride ChristmasBundle": "$9.99",
+            "The Spooktacular Halloween Bundle": "$7.99",
+            "Europe Map": "$12.99",
+            "Nordic Expansion": "$12.99",
+            "Ticket to Ride Sale Offer": "$29.99",
+            "Japan Expansion": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792703638499,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -302455,6 +302537,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792483972912,
@@ -341127,6 +341228,14 @@
     "history": [
       [
         {
+          "timestamp": 1792753502905,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788148503316,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -358613,6 +358722,100 @@
           "price": 1.99,
           "formattedPrice": "$1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6771652722": {
+    "name": "ONE PIECE: Grand Gourmet",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819720065": {
+    "name": "P's Pocket",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793744610": {
+    "name": "2AM CAM",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "64 GB · Monthly": "$1.99",
+      "128 GB · Annual": "$29.99",
+      "64 GB · Annual": "$19.99",
+      "128 GB · Monthly": "$2.99",
+      "512 GB · Annual": "$89.99",
+      "256 GB · Annual": "$49.99",
+      "256 GB · Monthly": "$4.99",
+      "512 GB · Monthly": "$8.99",
+      "1 TB · Annual": "$149.99",
+      "1 TB · Monthly": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "64 GB · Monthly": "$1.99",
+      "128 GB · Annual": "$29.99",
+      "64 GB · Annual": "$19.99",
+      "128 GB · Monthly": "$2.99",
+      "512 GB · Annual": "$89.99",
+      "256 GB · Annual": "$49.99",
+      "256 GB · Monthly": "$4.99",
+      "512 GB · Monthly": "$8.99",
+      "1 TB · Annual": "$149.99",
+      "1 TB · Monthly": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792753502905,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "64 GB · Monthly": "$1.99",
+            "128 GB · Annual": "$29.99",
+            "64 GB · Annual": "$19.99",
+            "128 GB · Monthly": "$2.99",
+            "512 GB · Annual": "$89.99",
+            "256 GB · Annual": "$49.99",
+            "256 GB · Monthly": "$4.99",
+            "512 GB · Monthly": "$8.99",
+            "1 TB · Annual": "$149.99",
+            "1 TB · Monthly": "$14.99"
+          }
         }
       ]
     ]
