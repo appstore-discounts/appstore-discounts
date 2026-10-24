@@ -24475,15 +24475,26 @@
       "price": 32,
       "formattedPrice": "HK$ 32.00",
       "Premium": "HK$ 388.00",
-      "Fitness Buddy Premium": "HK$ 238.00"
+      "Fitness Buddy Premium": "HK$ 368.00"
     },
     "minPriceInfo": {
       "price": 32,
       "formattedPrice": "HK$ 32.00",
-      "Premium": "HK$ 388.00",
+      "Premium": "HK$ 78.00",
       "Fitness Buddy Premium": "HK$ 238.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792812452311,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Fitness Buddy Premium": "HK$ 368.00",
+            "Premium": "HK$ 78.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788900351663,
@@ -78116,6 +78127,23 @@
     "history": [
       [
         {
+          "timestamp": 1792812452311,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "永遠的小夥伴": "HK$ 58.00",
+            "奇怪的试题集": "HK$ 8.00",
+            "音樂合集SP01": "HK$ 0.00",
+            "音樂合集 04": "HK$ 22.00",
+            "音樂合集 01": "HK$ 18.00",
+            "永远的小伙伴（新人优惠）": "HK$ 58.00",
+            "普通的音樂合集10": "HK$ 22.00",
+            "星尘节拍器": "HK$ 18.00",
+            "小酒仙节拍器": "HK$ 8.00",
+            "音樂合集 03": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1792789363369,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -121461,6 +121489,25 @@
       "肉包子服": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792812452311,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "高速模式": "HK$ 8.00",
+            "開羅雕像套組": "HK$ 18.00",
+            "開羅雕像2": "HK$ 18.00",
+            "跳舞的開羅君": "HK$ 18.00",
+            "跳舞的歪羅君": "HK$ 18.00",
+            "跳舞開羅姬": "HK$ 18.00",
+            "森野熊服": "HK$ 8.00",
+            "企鵝服": "HK$ 8.00",
+            "肉包子服": "HK$ 8.00",
+            "聖誕服": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -204667,6 +204714,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792812452311,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Lisa character": "HK$ 0.00",
+            "Founders Pack": "HK$ 8.00",
+            "Gloria skin": "HK$ 8.00",
+            "Elsa character": "HK$ 8.00",
+            "Yellow menu color": "HK$ 8.00",
+            "Purple menu color": "HK$ 32.00",
+            "Red menu color": "HK$ 18.00",
+            "Stephan character": "HK$ 8.00",
+            "Jack character": "HK$ 8.00",
+            "Daniel skin": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1792789363369,
           "price": 18,
@@ -306734,6 +306798,27 @@
           "timestamp": 1792789363369,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816896250": {
+    "name": "Tiny Computers",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792812452311,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
         }
       ]

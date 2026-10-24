@@ -217953,6 +217953,23 @@
     "history": [
       [
         {
+          "timestamp": 1792812452311,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "一把寶石": "USD 2.99",
+            "英雄 鬼侍": "USD 4.99",
+            "英雄 德拉坎": "USD 6.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全英雄禮包": "USD 24.99",
+            "混合 禮包 12": "USD 7.99",
+            "法術變羊術促銷": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1792789363369,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -218202,13 +218219,28 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "USD 19.99"
+      "formattedPrice": "USD 19.99",
+      "專業擇日 年費": "USD 119.99",
+      "專業擇日 月費": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "USD 19.99"
+      "formattedPrice": "USD 19.99",
+      "專業擇日 年費": "USD 119.99",
+      "專業擇日 月費": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792812452311,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "專業擇日 年費": "USD 119.99",
+            "專業擇日 月費": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -219507,6 +219539,29 @@
           "timestamp": 1792789363369,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816896250": {
+    "trackId": 6816896250,
+    "trackName": "Tiny Computers",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792812452311,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]
