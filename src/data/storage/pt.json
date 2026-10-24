@@ -42166,14 +42166,22 @@
   "954982733": {
     "name": "Tuner T1 Pro",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792855614039,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

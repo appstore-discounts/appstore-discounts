@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1630887189,
+    "region": "tw",
+    "timestamp": 1792855614039,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1630887189",
+    "trackName": "20 Minutes Till Dawn",
+    "firstRecordedAt": 1773607101601
+  },
+  {
+    "trackId": 6477535804,
+    "region": "tw",
+    "timestamp": 1792855614039,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $220.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6477535804",
+    "trackName": "虛空穹牢",
+    "firstRecordedAt": 1745560983791
+  },
+  {
     "trackId": 6471594918,
     "region": "tw",
     "timestamp": 1792773135775,

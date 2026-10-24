@@ -53189,6 +53189,25 @@
     "history": [
       [
         {
+          "timestamp": 1792855614039,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "2.000 coins": "$0.99",
+            "6.000 coins": "$2.99",
+            "10.000 coins": "$4.99",
+            "22.000 coins": "$9.99",
+            "45.000 coins": "$19.99",
+            "120.000 coins": "$49.99",
+            "5,000 Coins": "$0.99",
+            "10,000 Coins": "$1.99",
+            "15,000 Coins": "$2.99",
+            "25,000 Coins": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787961173466,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -95982,14 +96001,22 @@
   "954982733": {
     "name": "Tuner T1 Pro",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 12.99,
+      "formattedPrice": "$12.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792855614039,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750255981109,
@@ -141078,6 +141105,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792855614039,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99"
+          }
+        },
         {
           "timestamp": 1792837292615,
           "price": 4.99,
@@ -239813,6 +239856,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792855614039,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$10.99",
+            "Content Bundle 2": "$8.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99"
+          }
+        },
         {
           "timestamp": 1792837292615,
           "price": 2.99,

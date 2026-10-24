@@ -40059,6 +40059,25 @@
     "history": [
       [
         {
+          "timestamp": 1792855614039,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "十二个月的 Fongo Ultimate 服务": "¥698.00",
+            "三个月的 Fongo Ultimate 服务": "¥198.00",
+            "六个月的 Fongo Ultimate 服务": "¥398.00",
+            "一个月的 Fongo Ultimate 服务": "¥88.00",
+            "十二个月 移除广告": "¥118.00",
+            "六个月 移除广告": "¥68.00",
+            "三个月 移除广告": "¥38.00",
+            "一个月 移除广告": "¥18.00",
+            "十二个月的 Fongo Plus 服务": "¥598.00",
+            "十二个月无限制的全球短信服务": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792753502905,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -141289,6 +141308,14 @@
     "history": [
       [
         {
+          "timestamp": 1792855614039,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792454818639,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -238211,7 +238238,7 @@
   },
   "6752662508": {
     "trackId": 6752662508,
-    "trackName": "时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS",
+    "trackName": "足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS",
     "region": "cn",
     "maxPriceInfo": {
       "price": 8,

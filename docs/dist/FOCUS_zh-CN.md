@@ -129,7 +129,7 @@
 |2252|6748895212|自动|蓝牙调试工具箱 - 蓝牙调试助手、蓝牙助手、蓝牙调试、BLE|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|Bluetooth Toolbox-BLE Debugger|Bluetooth Toolbox-BLE Debugger|Caixa Bluetooth-Depurador BLE|
 |2251|6794812402|自动|❌|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|
 |2250|6760777178|自动|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|
-|2249|6752662508|自动|时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprints·TimeTrails·GPS Log|Footprints·TimeTrails·GPS Log|Pegadas·TimeTrails·GPS|
+|2249|6752662508|自动|足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprints·TimeTrails·GPS Log|Footprints·TimeTrails·GPS Log|Pegadas·TimeTrails·GPS|
 |2248|6804442508|自动|❌|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|
 |2247|1162580001|自动|❌|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|
 |2246|6478526459|自动|❌|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|
