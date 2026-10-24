@@ -11499,6 +11499,23 @@
     "history": [
       [
         {
+          "timestamp": 1792873079489,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Drumaxx": "1,99 €",
+            "Sliced Beats": "0,99 €",
+            "SFX": "0,00 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Synth Lead": "1,99 €",
+            "Transistor Bass": "0,00 €",
+            "Groove Machine Synth": "0,00 €",
+            "Voices": "0,99 €",
+            "Acoustic Guitars": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1792812452311,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -40699,8 +40716,8 @@
     "trackName": "ProShot",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €",
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
       "Donation": "5,99 €"
     },
     "minPriceInfo": {
@@ -40709,6 +40726,16 @@
       "Donation": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Donation": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,
@@ -153982,6 +154009,29 @@
           "timestamp": 1792812452311,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813841355": {
+    "trackId": 6813841355,
+    "trackName": "Toastie: grilled cheese game",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -10773,6 +10773,25 @@
     "history": [
       [
         {
+          "timestamp": 1792873079489,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Rameau: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792855614039,
           "price": 790,
           "formattedPrice": "$790.00",
@@ -323859,6 +323878,29 @@
           "timestamp": 1792812452311,
           "price": 120,
           "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813841355": {
+    "trackId": 6813841355,
+    "trackName": "Toastie: grilled cheese game",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

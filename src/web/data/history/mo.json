@@ -61029,8 +61029,8 @@
     "trackName": "ProShot",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99",
+      "price": 8.99,
+      "formattedPrice": "USD 8.99",
       "捐款": "USD 4.99"
     },
     "minPriceInfo": {
@@ -61039,6 +61039,16 @@
       "捐款": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "捐款": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784016228442,
@@ -67887,14 +67897,22 @@
     "trackName": "Tuner T1 Pro",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750255981109,
@@ -147896,6 +147914,25 @@
     "history": [
       [
         {
+          "timestamp": 1792873079489,
+          "price": 15.99,
+          "formattedPrice": "USD 15.99",
+          "inAppPurchases": {
+            "Minor Swing Ⅱ-Ⅴ-Ⅰ-Ⅵ 12key(L)": "USD 4.99",
+            "Antonio Carlos Jobim SongBookⅡ": "USD 5.99",
+            "Sing like Chet": "USD 6.99",
+            "Antonio Carlos Jobim Book Ⅰ.": "USD 5.99",
+            "Latin Jazz Song Book (Cuban)": "USD 5.99",
+            "Film Music Repertoire": "USD 4.99",
+            "Art Blakey&The Jazz Messengers": "USD 4.99",
+            "Benny Green Songbook": "USD 4.99",
+            "One Chord Funk (Dominant7th)": "USD 4.99",
+            "Essential Wayne Shorter": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792855614039,
           "price": 15.99,
           "formattedPrice": "USD 15.99",
@@ -219725,6 +219762,29 @@
           "timestamp": 1792812452311,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813841355": {
+    "trackId": 6813841355,
+    "trackName": "Toastie: grilled cheese game",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

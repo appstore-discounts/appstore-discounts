@@ -53189,6 +53189,23 @@
     "history": [
       [
         {
+          "timestamp": 1792873079489,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "5,000 Coins": "$0.99",
+            "25,000 Coins": "$4.99",
+            "10,000 Coins": "$1.99",
+            "15,000 Coins": "$2.99",
+            "85,000 Coins": "$14.99",
+            "55,000 Coins": "$9.99",
+            "2.000 coins": "$0.99",
+            "6.000 coins": "$2.99",
+            "10.000 coins": "$4.99",
+            "22.000 coins": "$9.99"
+          }
+        },
+        {
           "timestamp": 1792855614039,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -87120,8 +87137,8 @@
   "924438909": {
     "name": "ProShot",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "$7.99",
+      "price": 8.99,
+      "formattedPrice": "$8.99",
       "Donation": "$4.99"
     },
     "minPriceInfo": {
@@ -87130,6 +87147,16 @@
       "Donation": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "Donation": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,
@@ -359348,6 +359375,27 @@
           "timestamp": 1792812452311,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813841355": {
+    "name": "Toastie: grilled cheese game",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792873079489,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
