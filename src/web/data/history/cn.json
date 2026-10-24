@@ -33599,6 +33599,29 @@
       ]
     ]
   },
+  "603037910": {
+    "trackId": 603037910,
+    "trackName": "SP Camera",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792837292615,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "608540795": {
     "trackId": 608540795,
     "trackName": "Tunable – Tuner & Metronome",
@@ -217267,6 +217290,23 @@
     "history": [
       [
         {
+          "timestamp": 1792837292615,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "里莫的秘密书房: 白金方案": "¥28.80",
+            "扩充章节 U": "¥28.00",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "调律计划：PinocchioP精选辑": "¥28.00",
+            "限时挑战书 复古幻想曲": "¥21.00",
+            "调律计划：虚拟歌手精选辑": "¥28.00",
+            "扩充章节 X": "¥28.00",
+            "扩充章节 H": "¥28.00"
+          }
+        },
+        {
           "timestamp": 1792789363369,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -238742,13 +238782,28 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 148,
-      "formattedPrice": "¥148.00"
+      "formattedPrice": "¥148.00",
+      "专业择日 年费": "¥798.00",
+      "专业择日 月费": "¥98.00"
     },
     "minPriceInfo": {
       "price": 148,
-      "formattedPrice": "¥148.00"
+      "formattedPrice": "¥148.00",
+      "专业择日 年费": "¥798.00",
+      "专业择日 月费": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792837292615,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "专业择日 年费": "¥798.00",
+            "专业择日 月费": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
