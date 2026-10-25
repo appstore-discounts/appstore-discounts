@@ -65586,6 +65586,14 @@
     "history": [
       [
         {
+          "timestamp": 1792959935177,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788706749034,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -219959,6 +219967,29 @@
           "timestamp": 1792882483701,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6820324856": {
+    "trackId": 6820324856,
+    "trackName": "Take01: Teleprompter Studio",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792959935177,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

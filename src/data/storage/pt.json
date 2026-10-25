@@ -25431,6 +25431,25 @@
     "history": [
       [
         {
+          "timestamp": 1792959935177,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "0,99 €",
+            "SLS 2022: Jacksonville": "0,99 €",
+            "SLS 2021: World Championship": "0,99 €",
+            "SLS 2019: Sao Paulo": "0,99 €",
+            "SLS 2019: London": "0,99 €",
+            "Sandbox 1 Year": "26,99 €",
+            "Sandbox 3 Months": "10,99 €",
+            "Sandbox Monthly": "5,49 €",
+            "SLS 2018: World Championship": "0,99 €",
+            "Mountain of Bolts": "99,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785516330891,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -34801,6 +34820,23 @@
     "history": [
       [
         {
+          "timestamp": 1792959935177,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "220 Diamonds": "1,99 €",
+            "5000 Coins": "1,99 €",
+            "14000 Coins": "5,99 €",
+            "1210 Diamonds": "9,99 €",
+            "580 Diamonds": "5,99 €",
+            "6600 Diamonds": "59,99 €",
+            "180000 Coins": "59,99 €",
+            "15500 Diamonds": "99,99 €",
+            "3200 Diamonds": "29,99 €",
+            "450000 Coins": "99,99 €"
+          }
+        },
+        {
           "timestamp": 1792942623004,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -42021,6 +42057,14 @@
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792959935177,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788734577170,
@@ -105045,6 +105089,23 @@
     "history": [
       [
         {
+          "timestamp": 1792959935177,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pacote Ultimate": "17,99 €",
+            "Pacote da 1ª Temporada": "9,99 €",
+            "Além dos Bunkers": "7,99 €",
+            "Abrigos Secretos": "7,99 €",
+            "Season 2 Pass": "9,99 €",
+            "Pacote Ultimate (desconto)": "12,99 €",
+            "Guia de Sobrevivência": "2,99 €",
+            "Custom Scenarios": "7,99 €",
+            "Seeds of Hope": "7,99 €",
+            "Season 2 Pass (Full)": "22,99 €"
+          }
+        },
+        {
           "timestamp": 1792942623004,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -150102,6 +150163,27 @@
           "timestamp": 1792882483701,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6820324856": {
+    "name": "Take01: Teleprompter Studio",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792959935177,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
