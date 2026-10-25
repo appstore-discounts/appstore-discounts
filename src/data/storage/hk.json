@@ -218658,7 +218658,8 @@
       "Special Daily Pack7": "HK$ 18.00",
       "Unit Group Gars": "HK$ 38.00",
       "Special Daily Pack6": "HK$ 22.00",
-      "Special Daily Pack13": "HK$ 22.00"
+      "Special Daily Pack13": "HK$ 22.00",
+      "Special Daily Pack 1": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -218690,9 +218691,29 @@
       "Special Daily Pack7": "HK$ 18.00",
       "Unit Group Gars": "HK$ 38.00",
       "Special Daily Pack6": "HK$ 22.00",
-      "Special Daily Pack13": "HK$ 22.00"
+      "Special Daily Pack13": "HK$ 22.00",
+      "Special Daily Pack 1": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "All Unit Groups": "HK$ 98.00",
+            "All Heroes": "HK$ 118.00",
+            "Hero Dragon Kosmos": "HK$ 58.00",
+            "Unit Group Jaegers": "HK$ 58.00",
+            "Special Daily Pack 1": "HK$ 38.00",
+            "Hero Red Dragon": "HK$ 48.00",
+            "Unit Group Rebooted Ascendii": "HK$ 22.00",
+            "Special Daily Pack13": "HK$ 22.00",
+            "Hero Red Dragon On Sale": "HK$ 32.00",
+            "Unit Group Planterras": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792667627553,
@@ -304059,7 +304080,7 @@
     ]
   },
   "6752662508": {
-    "name": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "name": "足跡·TimeTrails GPS軌跡記錄",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
@@ -304911,6 +304932,25 @@
       "全英雄禮包_B": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 哨兵瞭望塔": "HK$ 48.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "法術 艾洛拉": "HK$ 22.00",
+            "法術 索羅化身": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792773135775,
@@ -307022,6 +307062,27 @@
           "timestamp": 1792873079489,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761418873": {
+    "name": "Kolluk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1630887189,
+    "region": "pt",
+    "timestamp": 1792882483701,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1630887189",
+    "trackName": "20 Minutes Till Dawn",
+    "firstRecordedAt": 1773607101601
+  },
+  {
+    "trackId": 6477535804,
+    "region": "pt",
+    "timestamp": 1792882483701,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6477535804",
+    "trackName": "Vault of the Void",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6471594918,
     "region": "pt",
     "timestamp": 1792773135775,
@@ -2086,7 +2126,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752662508",
-    "trackName": "Pegadas·TimeTrails·GPS",
+    "trackName": "TimeTrails: Registo GPS",
     "firstRecordedAt": 1788345787844
   },
   {

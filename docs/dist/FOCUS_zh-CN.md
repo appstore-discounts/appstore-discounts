@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2372` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2373` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2373|6761418873|自动|Kolluk|Kolluk|Kolluk|Kolluk|Kolluk|Kolluk|Kolluk|
 |2372|6813841355|自动|❌|Toastie: grilled cheese game|Toastie: grilled cheese game|Toastie: grilled cheese game|Toastie: grilled cheese game|Toastie: grilled cheese game|Toastie: grilled cheese game|
 |2371|603037910|自动|SP Camera|SP Camera|SP Camera|SP Camera|SP Camera|SP Camera|SP Camera|
 |2370|847381935|自动|❌|DRAGON QUEST IV|DRAGON QUEST IV|DRAGON QUEST IV|DRAGON QUEST IV|DRAGON QUEST IV|DRAGON QUEST IV|
@@ -130,7 +131,7 @@
 |2252|6748895212|自动|蓝牙调试工具箱 - 蓝牙调试助手、蓝牙助手、蓝牙调试、BLE|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|Bluetooth Toolbox-BLE Debugger|Bluetooth Toolbox-BLE Debugger|Caixa Bluetooth-Depurador BLE|
 |2251|6794812402|自动|❌|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|City Hospital: Chief Doctor|
 |2250|6760777178|自动|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|
-|2249|6752662508|自动|足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS|Footprints·TimeTrails·GPS Log|Footprints·TimeTrails·GPS Log|Pegadas·TimeTrails·GPS|
+|2249|6752662508|自动|足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS|足跡·TimeTrails GPS軌跡記錄|足跡·TimeTrails GPS軌跡記錄|足跡·TimeTrails GPS軌跡記錄|TimeTrails: GPS Route Tracker|TimeTrails: GPS Route Tracker|TimeTrails: Registo GPS|
 |2248|6804442508|自动|❌|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|
 |2247|1162580001|自动|❌|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|
 |2246|6478526459|自动|❌|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|The Catechism|

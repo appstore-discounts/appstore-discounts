@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1630887189,
+    "region": "tr",
+    "timestamp": 1792882483701,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺199,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1630887189",
+    "trackName": "20 Minutes Till Dawn:Premium",
+    "firstRecordedAt": 1773607101601
+  },
+  {
+    "trackId": 6477535804,
+    "region": "tr",
+    "timestamp": 1792882483701,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6477535804",
+    "trackName": "Vault of the Void",
+    "firstRecordedAt": 1745560983791
+  },
+  {
     "trackId": 6471594918,
     "region": "tr",
     "timestamp": 1792773135775,
@@ -2093,7 +2133,7 @@
     "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6752662508",
-    "trackName": "Footprints·TimeTrails·GPS Log",
+    "trackName": "TimeTrails: GPS Route Tracker",
     "firstRecordedAt": 1788345787844
   },
   {

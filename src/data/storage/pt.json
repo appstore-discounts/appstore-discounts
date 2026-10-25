@@ -11169,6 +11169,23 @@
     "history": [
       [
         {
+          "timestamp": 1792882483701,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "0,99 €",
+            "Voices": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "Brazil Bass": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Drumaxx": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1792873079489,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -15280,6 +15297,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791652541695,
@@ -84021,6 +84046,14 @@
     "history": [
       [
         {
+          "timestamp": 1792882483701,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791652541695,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -91738,6 +91771,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -104747,6 +104788,14 @@
     "history": [
       [
         {
+          "timestamp": 1792882483701,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788994645089,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -115937,6 +115986,17 @@
       "Developer Supporter Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "The Weaver": "2,99 €",
+            "Developer Supporter Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786060670333,
@@ -147483,7 +147543,7 @@
     ]
   },
   "6752662508": {
-    "name": "Pegadas·TimeTrails·GPS",
+    "name": "TimeTrails: Registo GPS",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -149908,6 +149968,27 @@
           "timestamp": 1792873079489,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761418873": {
+    "name": "Kolluk",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -274003,6 +274003,25 @@
     "history": [
       [
         {
+          "timestamp": 1792882483701,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A350-1000": "$120.00",
+            "Airbus A380": "$60.00",
+            "UH-60": "$30.00",
+            "Boeing 747-400": "$60.00",
+            "Concorde": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792855614039,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -320842,7 +320861,7 @@
   },
   "6752662508": {
     "trackId": 6752662508,
-    "trackName": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "trackName": "足跡·TimeTrails GPS軌跡記錄",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -321749,6 +321768,25 @@
       "英雄 伊格納斯 特惠": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全法術禮包": "$390.00",
+            "全英雄禮包": "$790.00",
+            "英雄 阿什彼特": "$220.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全塔禮包_B": "$490.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "英雄 鬼侍": "$150.00",
+            "英雄 伊格納斯": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792837292615,
@@ -323901,6 +323939,29 @@
           "timestamp": 1792873079489,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761418873": {
+    "trackId": 6761418873,
+    "trackName": "Kolluk",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792882483701,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
