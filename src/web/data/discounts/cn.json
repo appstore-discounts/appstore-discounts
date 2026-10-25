@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6451376191,
+    "region": "cn",
+    "timestamp": 1792942623004,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "¥398.00",
+        "to": "¥98.00",
+        "range": "[¥68.00 ~ ¥398.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "¥58.00",
+        "to": "¥38.00",
+        "range": "[¥28.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6759071028,
+    "region": "cn",
+    "timestamp": 1792942623004,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥48.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥88.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6759071028",
+    "trackName": "A32X Tools · A320 ECAM Resets",
+    "firstRecordedAt": 1775656195976
+  },
+  {
     "trackId": 6447693393,
     "region": "cn",
     "timestamp": 1792898598896,
@@ -3124,7 +3171,7 @@
         "name": "Price",
         "from": "¥78.00",
         "to": "¥48.00",
-        "range": "[¥48.00 ~ ¥88.00]"
+        "range": "[¥28.00 ~ ¥88.00]"
       }
     ],
     "price": 48,
@@ -8822,7 +8869,7 @@
         "name": "Price",
         "from": "¥88.00",
         "to": "¥78.00",
-        "range": "[¥48.00 ~ ¥88.00]"
+        "range": "[¥28.00 ~ ¥88.00]"
       }
     ],
     "price": 78,

@@ -34441,6 +34441,23 @@
     "history": [
       [
         {
+          "timestamp": 1792942623004,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "¥0.00",
+            "A MAJOR'S LOW BLOW": "¥0.00",
+            "BEAST OF SHADOWS": "¥0.00",
+            "BEEPING BOBBIE": "¥0.00",
+            "DEEP BLUE": "¥0.00",
+            "CAMPBELL'S CANS": "¥8.00",
+            "FUSION FLIPPO": "¥8.00",
+            "HIGH FIVE": "¥8.00",
+            "ISAAC'S NEW TONES": "¥8.00",
+            "GROOVY GUT SHAKER": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1792925343209,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -203676,6 +203693,19 @@
     "history": [
       [
         {
+          "timestamp": 1792942623004,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "¥98.00",
+            "Dumb Phone Plus Monthly": "¥38.00",
+            "Dumb Phone Plus Weekly": "¥15.00",
+            "Dumb Phone Plus Lifetime": "¥598.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792441380481,
           "price": 0,
           "formattedPrice": "免费",
@@ -233631,10 +233661,18 @@
       "formattedPrice": "¥88.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "¥48.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792942623004,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788106055024,

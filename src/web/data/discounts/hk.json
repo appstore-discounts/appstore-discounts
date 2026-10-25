@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6451376191,
+    "region": "hk",
+    "timestamp": 1792942623004,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "HK$ 488.00",
+        "to": "HK$ 118.00",
+        "range": "[HK$ 74.00 ~ HK$ 488.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "HK$ 58.00",
+        "to": "HK$ 38.00",
+        "range": "[HK$ 31.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6757541297,
+    "region": "hk",
+    "timestamp": 1792942623004,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 88.00",
+        "to": "HK$ 58.00",
+        "range": "[HK$ 58.00 ~ HK$ 88.00]"
+      }
+    ],
+    "price": 58,
+    "formattedPrice": "HK$ 58.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6757541297",
+    "trackName": "Sally Face",
+    "firstRecordedAt": 1787111112140
+  },
+  {
     "trackId": 1630887189,
     "region": "hk",
     "timestamp": 1792855614039,

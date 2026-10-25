@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6451376191,
+    "region": "tw",
+    "timestamp": 1792942623004,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "$1,990.00",
+        "to": "$490.00",
+        "range": "[$145.00 ~ $1,990.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "$290.00",
+        "to": "$150.00",
+        "range": "[$60.00 ~ $290.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6757541297,
+    "region": "tw",
+    "timestamp": 1792942623004,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$290.00",
+        "range": "[$290.00 ~ $320.00]"
+      }
+    ],
+    "price": 290,
+    "formattedPrice": "$290.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6757541297",
+    "trackName": "Sally Face",
+    "firstRecordedAt": 1787111112140
+  },
+  {
     "trackId": 1630887189,
     "region": "tw",
     "timestamp": 1792855614039,
