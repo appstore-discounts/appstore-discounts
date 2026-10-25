@@ -93303,6 +93303,25 @@
     "history": [
       [
         {
+          "timestamp": 1792925343209,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Ultra Punch 5": "$0.99",
+            "Unlock Strawberry Candy": "$1.99",
+            "Unlock Rolly Coin": "$0.99",
+            "Unlock Mint Candy": "$1.99",
+            "Unlock Chocolate Candy": "$1.99",
+            "Ultra Punch 10": "$1.99",
+            "Unlock Rollman Coin": "$1.99",
+            "Ultra Punch Unlimited": "$19.99",
+            "Unlock Rollf Coin": "$1.99",
+            "Magnetic Stars Unlimited": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792898598896,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -227344,6 +227363,25 @@
     "history": [
       [
         {
+          "timestamp": 1792925343209,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Welcome Offer": "$9.99",
+            "Sports and Games Pack": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792639701504,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -267784,6 +267822,29 @@
             "Home Sweet Home": "$0.99",
             "Hello World!": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "1658365944": {
+    "trackId": 1658365944,
+    "trackName": "DS Download Manager",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792925343209,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
         }
       ]
     ]
