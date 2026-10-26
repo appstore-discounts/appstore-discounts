@@ -2062,7 +2062,7 @@
   },
   "314192799": {
     "trackId": 314192799,
-    "trackName": "Acrobits Softphone",
+    "trackName": "Acrobits: VoIP SIP Softphone",
     "region": "pt",
     "maxPriceInfo": {
       "price": 7.99,
@@ -16297,6 +16297,23 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1792985127398,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -24003,7 +24020,8 @@
       "14,000 Coins": "14,99 €",
       "70,000 Coins": "44,99 €",
       "30,000 Coins": "22,99 €",
-      "200,000 Coins": "99,99 €"
+      "200,000 Coins": "99,99 €",
+      "Field Commission": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -24013,9 +24031,26 @@
       "14,000 Coins": "14,99 €",
       "70,000 Coins": "44,99 €",
       "30,000 Coins": "22,99 €",
-      "200,000 Coins": "99,99 €"
+      "200,000 Coins": "99,99 €",
+      "Field Commission": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "2,000 Coins": "2,99 €",
+            "7,000 Coins": "9,99 €",
+            "14,000 Coins": "14,99 €",
+            "70,000 Coins": "44,99 €",
+            "30,000 Coins": "22,99 €",
+            "Field Commission": "5,99 €",
+            "200,000 Coins": "99,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -145724,13 +145759,52 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "SG-1000": "0,99 €",
+      "Master System": "0,99 €",
+      "Game Gear": "0,99 €",
+      "Mega Drive": "0,99 €",
+      "Atari 2600": "0,99 €",
+      "Pokémon Mini": "0,99 €",
+      "SNES": "0,99 €",
+      "Game Boy Advance": "0,99 €",
+      "Desbloquear tudo (Upgrade 4)": "0,99 €",
+      "Desbloquear tudo (Upgrade 3)": "1,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "SG-1000": "0,99 €",
+      "Master System": "0,99 €",
+      "Game Gear": "0,99 €",
+      "Mega Drive": "0,99 €",
+      "Atari 2600": "0,99 €",
+      "Pokémon Mini": "0,99 €",
+      "SNES": "0,99 €",
+      "Game Boy Advance": "0,99 €",
+      "Desbloquear tudo (Upgrade 4)": "0,99 €",
+      "Desbloquear tudo (Upgrade 3)": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "SG-1000": "0,99 €",
+            "Master System": "0,99 €",
+            "Game Gear": "0,99 €",
+            "Mega Drive": "0,99 €",
+            "Atari 2600": "0,99 €",
+            "Pokémon Mini": "0,99 €",
+            "SNES": "0,99 €",
+            "Game Boy Advance": "0,99 €",
+            "Desbloquear tudo (Upgrade 4)": "0,99 €",
+            "Desbloquear tudo (Upgrade 3)": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,
@@ -154421,6 +154495,29 @@
           "timestamp": 1792959935177,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804997193": {
+    "trackId": 6804997193,
+    "trackName": "Laboratório de Cataclismos",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
           "inAppPurchases": {}
         }
       ]

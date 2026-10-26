@@ -209734,6 +209734,16 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "MenubarX Pro": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -221809,6 +221819,25 @@
       "Special Daily Pack 1": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "All Unit Groups": "HK$ 98.00",
+            "All Heroes": "HK$ 118.00",
+            "Hero Dragon Kosmos": "HK$ 58.00",
+            "Unit Group Jaegers": "HK$ 58.00",
+            "Hero Red Dragon": "HK$ 48.00",
+            "Special Daily Pack 1": "HK$ 38.00",
+            "Unit Group Rebooted Ascendii": "HK$ 22.00",
+            "Hero Red Dragon On Sale": "HK$ 32.00",
+            "Unit Group Planterras": "HK$ 22.00",
+            "Hero Gauntlet": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792882483701,
@@ -302570,13 +302599,52 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "formattedPrice": "HK$ 18.00",
+      "SG-1000": "HK$ 8.00",
+      "Master System": "HK$ 8.00",
+      "Game Gear": "HK$ 8.00",
+      "Mega Drive / Genesis": "HK$ 8.00",
+      "Atari 2600": "HK$ 8.00",
+      "Pokémon Mini": "HK$ 8.00",
+      "SNES": "HK$ 8.00",
+      "Game Boy Advance": "HK$ 8.00",
+      "Unlock All (Upgrade 4)": "HK$ 8.00",
+      "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "formattedPrice": "HK$ 18.00",
+      "SG-1000": "HK$ 8.00",
+      "Master System": "HK$ 8.00",
+      "Game Gear": "HK$ 8.00",
+      "Mega Drive / Genesis": "HK$ 8.00",
+      "Atari 2600": "HK$ 8.00",
+      "Pokémon Mini": "HK$ 8.00",
+      "SNES": "HK$ 8.00",
+      "Game Boy Advance": "HK$ 8.00",
+      "Unlock All (Upgrade 4)": "HK$ 8.00",
+      "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "SG-1000": "HK$ 8.00",
+            "Master System": "HK$ 8.00",
+            "Game Gear": "HK$ 8.00",
+            "Mega Drive / Genesis": "HK$ 8.00",
+            "Atari 2600": "HK$ 8.00",
+            "Pokémon Mini": "HK$ 8.00",
+            "SNES": "HK$ 8.00",
+            "Game Boy Advance": "HK$ 8.00",
+            "Unlock All (Upgrade 4)": "HK$ 8.00",
+            "Unlock All (Upgrade 3)": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,
@@ -309631,6 +309699,25 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "塔 哨兵瞭望塔": "HK$ 48.00",
+            "英雄 鬼侍": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792925343209,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -311957,6 +312044,29 @@
           "timestamp": 1792969306156,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804997193": {
+    "trackId": 6804997193,
+    "trackName": "星球災變實驗室",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
           "inAppPurchases": {}
         }
       ]

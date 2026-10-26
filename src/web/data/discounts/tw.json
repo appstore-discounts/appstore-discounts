@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1575588022,
+    "region": "tw",
+    "timestamp": 1793017182070,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "MenubarX Pro",
+        "from": "$220.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $220.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1575588022",
+    "trackName": "MenubarX - 強大的選單列瀏覽器",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 6451376191,
     "region": "tw",
     "timestamp": 1792942623004,
@@ -31457,7 +31477,7 @@
     "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id314192799",
-    "trackName": "Acrobits Softphone",
+    "trackName": "Acrobits: VoIP SIP Softphone",
     "firstRecordedAt": 1745334141417
   },
   {

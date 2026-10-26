@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2376` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2377` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2377|6804997193|自动|❌|星球災變實驗室|星球災變實驗室|星球災變實驗室|Planet Cataclysm Lab|Planet Cataclysm Lab|Laboratório de Cataclismos|
 |2376|6810002638|自动|❌|漁樂無窮|漁樂無窮|漁樂無窮|Rich Fish|Rich Fish|❌|
 |2375|6820324856|自动|Take01: Teleprompter Studio|Take01: Teleprompter Studio|Take01: Teleprompter Studio|Take01: Teleprompter Studio|Take01: Teleprompter Studio|Take01: Teleprompter Studio|Take01: Teleprompter Studio|
 |2374|1658365944|自动|DS Download Manager|DS Download Manager|DS Download Manager|DS Download Manager|DS Download Manager|DS Download Manager|DS Download Manager|
@@ -1734,7 +1735,7 @@
 |652|6738784151|自动|❌|A Little to the Left: Stars|A Little to the Left: Stars|A Little to the Left: Stars|A Little to the Left: Stars|A Little to the Left: Stars|A Little to the Left: Stars|
 |651|6470642337|自动|❌|來自星塵|來自星塵|來自星塵|Ex Astris|Ex Astris|Ex Astris|
 |650|6483862844|自动|❌|光遇樂隊|光遇樂隊|光遇樂隊|Sky Band|Sky Band|❌|
-|649|314192799|自动|❌|❌|❌|Acrobits Softphone|Acrobits Softphone|Acrobits Softphone|Acrobits Softphone|
+|649|314192799|自动|❌|❌|❌|Acrobits: VoIP SIP Softphone|Acrobits: VoIP SIP Softphone|Acrobits: VoIP SIP Softphone|Acrobits: VoIP SIP Softphone|
 |648|466388978|自动|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|❌|
 |647|512142109|自动|❌|Max Payne Mobile|Max Payne Mobile|Max Payne Mobile|Max Payne Mobile|Max Payne Mobile|Max Payne Mobile|
 |646| ~~904737816~~ |自动| ~~❌~~ | ~~王國保衛戰：起源 Kingdom Rush Origins~~ | ~~王國保衛戰：起源 Kingdom Rush Origins~~ | ~~王國保衛戰：起源 Kingdom Rush Origins~~ | ~~Kingdom Rush Origins TD~~ | ~~Kingdom Rush Origins TD~~ | ~~❌~~ |

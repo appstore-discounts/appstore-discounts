@@ -4392,7 +4392,7 @@
     ]
   },
   "314192799": {
-    "name": "Acrobits Softphone",
+    "name": "Acrobits: VoIP SIP Softphone",
     "maxPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99",
@@ -48595,7 +48595,8 @@
       "14,000 Coins": "₺699,99",
       "30,000 Coins": "₺999,99",
       "70,000 Coins": "₺1.999,99",
-      "200,000 Coins": "₺4.999,99"
+      "200,000 Coins": "₺4.999,99",
+      "Field Commission": "₺249,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -48605,9 +48606,26 @@
       "14,000 Coins": "₺599,99",
       "30,000 Coins": "₺899,99",
       "70,000 Coins": "₺1.799,99",
-      "200,000 Coins": "₺4.499,99"
+      "200,000 Coins": "₺4.499,99",
+      "Field Commission": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "2,000 Coins": "₺149,99",
+            "7,000 Coins": "₺499,99",
+            "14,000 Coins": "₺699,99",
+            "30,000 Coins": "₺999,99",
+            "70,000 Coins": "₺1.999,99",
+            "200,000 Coins": "₺4.999,99",
+            "Field Commission": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -164782,6 +164800,23 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "Astronaut Token Sale": "₺149,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "The Dragon": "₺199,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "Victorian London Board": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1792985127398,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -221815,6 +221850,25 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Pack": "₺799,99",
+            "Season 1 Pack": "₺499,99",
+            "Ultimate Pack (big discount)": "₺249,99",
+            "Critical Mass": "₺399,99",
+            "Beyond the Bunkers": "₺399,99",
+            "Cheats & Punishment": "₺249,99",
+            "Season 1 Pack (discount)": "₺399,99",
+            "Ultimate Pack (discount)": "₺599,99",
+            "New Leaders": "₺249,99",
+            "Survival Guide": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792293184436,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -247897,6 +247951,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Airbus A321": "₺99,99",
+            "Global scenery - 3 months": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792898598896,
@@ -288874,13 +288947,52 @@
     "name": "ArcEmu",
     "maxPriceInfo": {
       "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "formattedPrice": "₺99,99",
+      "SG-1000": "₺49,99",
+      "Master System": "₺49,99",
+      "Game Gear": "₺49,99",
+      "Mega Drive / Genesis": "₺49,99",
+      "Atari 2600": "₺49,99",
+      "Pokémon Mini": "₺49,99",
+      "SNES": "₺49,99",
+      "Game Boy Advance": "₺49,99",
+      "Unlock All (Upgrade 4)": "₺49,99",
+      "Unlock All (Upgrade 3)": "₺99,99"
     },
     "minPriceInfo": {
       "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "formattedPrice": "₺99,99",
+      "SG-1000": "₺49,99",
+      "Master System": "₺49,99",
+      "Game Gear": "₺49,99",
+      "Mega Drive / Genesis": "₺49,99",
+      "Atari 2600": "₺49,99",
+      "Pokémon Mini": "₺49,99",
+      "SNES": "₺49,99",
+      "Game Boy Advance": "₺49,99",
+      "Unlock All (Upgrade 4)": "₺49,99",
+      "Unlock All (Upgrade 3)": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "SG-1000": "₺49,99",
+            "Master System": "₺49,99",
+            "Game Gear": "₺49,99",
+            "Mega Drive / Genesis": "₺49,99",
+            "Atari 2600": "₺49,99",
+            "Pokémon Mini": "₺49,99",
+            "SNES": "₺49,99",
+            "Game Boy Advance": "₺49,99",
+            "Unlock All (Upgrade 4)": "₺49,99",
+            "Unlock All (Upgrade 3)": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,
@@ -295481,6 +295593,23 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Sniper": "₺299,99",
+            "Gems Pouch": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Spell Wrath": "₺149,99",
+            "Tower Ironbark": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1792985127398,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -297857,6 +297986,27 @@
           "timestamp": 1792969306156,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804997193": {
+    "name": "Planet Cataclysm Lab",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
           "inAppPurchases": {}
         }
       ]

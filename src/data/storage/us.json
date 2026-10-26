@@ -7214,7 +7214,7 @@
     ]
   },
   "314192799": {
-    "name": "Acrobits Softphone",
+    "name": "Acrobits: VoIP SIP Softphone",
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99",
@@ -48566,7 +48566,8 @@
       "14,000 Coins": "$12.99",
       "30,000 Coins": "$19.99",
       "70,000 Coins": "$39.99",
-      "200,000 Coins": "$99.99"
+      "200,000 Coins": "$99.99",
+      "Field Commission": "$4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -48576,9 +48577,26 @@
       "14,000 Coins": "$12.99",
       "30,000 Coins": "$19.99",
       "70,000 Coins": "$39.99",
-      "200,000 Coins": "$99.99"
+      "200,000 Coins": "$99.99",
+      "Field Commission": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2,000 Coins": "$2.99",
+            "7,000 Coins": "$8.99",
+            "14,000 Coins": "$12.99",
+            "30,000 Coins": "$19.99",
+            "70,000 Coins": "$39.99",
+            "200,000 Coins": "$99.99",
+            "Field Commission": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753640241129,
@@ -65388,6 +65406,25 @@
       "Mazda 2024 Enhanced": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2014 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792985127398,
@@ -202691,6 +202728,25 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792837292615,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -236930,6 +236986,16 @@
       "MenubarX Pro": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "MenubarX Pro": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770095870549,
@@ -273037,6 +273103,25 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "無雙戰神": "$5.99",
+            "重振漢室": "$2.99",
+            "虎嘯鳳鳴": "$3.99",
+            "巾幗綻芳華": "$3.99",
+            "冠絕天下": "$5.99",
+            "鎮海神威": "$2.99",
+            "斜谷殘陽": "$5.99",
+            "北境狂人": "$2.99",
+            "公路霸業": "$2.99",
+            "西涼悍將": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792120771172,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -303420,6 +303505,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "Boeing 747-400": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792753502905,
@@ -350581,13 +350685,52 @@
     "name": "ArcEmu",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "$1.99"
+      "formattedPrice": "$1.99",
+      "SG-1000": "$0.99",
+      "Master System": "$0.99",
+      "Game Gear": "$0.99",
+      "Mega Drive / Genesis": "$0.99",
+      "Atari 2600": "$0.99",
+      "Pokémon Mini": "$0.99",
+      "SNES": "$0.99",
+      "Game Boy Advance": "$0.99",
+      "Unlock All (Upgrade 4)": "$0.99",
+      "Unlock All (Upgrade 3)": "$1.99"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "$1.99"
+      "formattedPrice": "$1.99",
+      "SG-1000": "$0.99",
+      "Master System": "$0.99",
+      "Game Gear": "$0.99",
+      "Mega Drive / Genesis": "$0.99",
+      "Atari 2600": "$0.99",
+      "Pokémon Mini": "$0.99",
+      "SNES": "$0.99",
+      "Game Boy Advance": "$0.99",
+      "Unlock All (Upgrade 4)": "$0.99",
+      "Unlock All (Upgrade 3)": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "SG-1000": "$0.99",
+            "Master System": "$0.99",
+            "Game Gear": "$0.99",
+            "Mega Drive / Genesis": "$0.99",
+            "Atari 2600": "$0.99",
+            "Pokémon Mini": "$0.99",
+            "SNES": "$0.99",
+            "Game Boy Advance": "$0.99",
+            "Unlock All (Upgrade 4)": "$0.99",
+            "Unlock All (Upgrade 3)": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,
@@ -360157,6 +360300,27 @@
           "timestamp": 1792969306156,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804997193": {
+    "name": "Planet Cataclysm Lab",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "$0.29"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
           "inAppPurchases": {}
         }
       ]

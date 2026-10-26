@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1575588022,
+    "region": "us",
+    "timestamp": 1793017182070,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "MenubarX Pro",
+        "from": "$6.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $6.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1575588022",
+    "trackName": "MenubarX - Floating Browser",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 6451376191,
     "region": "us",
     "timestamp": 1792985127398,
@@ -31172,7 +31192,7 @@
     "formattedPrice": "$3.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id314192799",
-    "trackName": "Acrobits Softphone",
+    "trackName": "Acrobits: VoIP SIP Softphone",
     "firstRecordedAt": 1745334141417
   },
   {

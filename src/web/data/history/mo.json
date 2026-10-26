@@ -153561,6 +153561,16 @@
     "history": [
       [
         {
+          "timestamp": 1793017182070,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "MenubarX Pro": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -156929,7 +156939,12 @@
       "推薦選擇": "USD 3.99",
       "Popular Offer": "USD 1.99",
       "推薦選擇 - 折扣": "USD 2.99",
-      "36000 硬幣": "USD 17.99"
+      "36000 硬幣": "USD 17.99",
+      "刪除廣告": "USD 9.99",
+      "Coins Package 1": "USD 0.99",
+      "6250 硬幣": "USD 3.99",
+      "Coins Package 2": "USD 1.99",
+      "18000 硬幣": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -156943,9 +156958,33 @@
       "推薦選擇": "USD 3.99",
       "Popular Offer": "USD 1.99",
       "推薦選擇 - 折扣": "USD 2.99",
-      "36000 硬幣": "USD 17.99"
+      "36000 硬幣": "USD 17.99",
+      "刪除廣告": "USD 9.99",
+      "Coins Package 1": "USD 0.99",
+      "6250 硬幣": "USD 3.99",
+      "Coins Package 2": "USD 1.99",
+      "18000 硬幣": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "刪除廣告": "USD 9.99",
+            "Coins Package 1": "USD 0.99",
+            "6250 硬幣": "USD 3.99",
+            "Coins Package 2": "USD 1.99",
+            "18000 硬幣": "USD 9.99",
+            "36000 硬幣": "USD 17.99",
+            "推薦選擇 - 折扣": "USD 2.99",
+            "Popular Offer": "USD 1.99",
+            "推薦選擇": "USD 3.99",
+            "日常的折扣": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -211457,13 +211496,52 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "SG-1000": "USD 0.99",
+      "Master System": "USD 0.99",
+      "Game Gear": "USD 0.99",
+      "Mega Drive / Genesis": "USD 0.99",
+      "Atari 2600": "USD 0.99",
+      "Pokémon Mini": "USD 0.99",
+      "SNES": "USD 0.99",
+      "Game Boy Advance": "USD 0.99",
+      "Unlock All (Upgrade 4)": "USD 0.99",
+      "Unlock All (Upgrade 3)": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "SG-1000": "USD 0.99",
+      "Master System": "USD 0.99",
+      "Game Gear": "USD 0.99",
+      "Mega Drive / Genesis": "USD 0.99",
+      "Atari 2600": "USD 0.99",
+      "Pokémon Mini": "USD 0.99",
+      "SNES": "USD 0.99",
+      "Game Boy Advance": "USD 0.99",
+      "Unlock All (Upgrade 4)": "USD 0.99",
+      "Unlock All (Upgrade 3)": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "SG-1000": "USD 0.99",
+            "Master System": "USD 0.99",
+            "Game Gear": "USD 0.99",
+            "Mega Drive / Genesis": "USD 0.99",
+            "Atari 2600": "USD 0.99",
+            "Pokémon Mini": "USD 0.99",
+            "SNES": "USD 0.99",
+            "Game Boy Advance": "USD 0.99",
+            "Unlock All (Upgrade 4)": "USD 0.99",
+            "Unlock All (Upgrade 3)": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,
@@ -220051,6 +220129,29 @@
           "timestamp": 1792969306156,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804997193": {
+    "trackId": 6804997193,
+    "trackName": "星球災變實驗室",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793017182070,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
           "inAppPurchases": {}
         }
       ]
