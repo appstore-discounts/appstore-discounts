@@ -4462,6 +4462,25 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "HK$ 228.00",
+            "LUFS Meter": "HK$ 88.00",
+            "HAA CinemaTools with HAA Link": "HK$ 1,188.00",
+            "HAA Link": "HK$ 88.00",
+            "HAA Pro Module": "HK$ 148.00",
+            "SPL Enhance": "HK$ 288.00",
+            "All-In Module Access": "HK$ 88.00",
+            "HAA Upgrade to Pro": "HK$ 2,888.00",
+            "HAA Pro Installer Calibration": "HK$ 3,888.00",
+            "HAA Home Theater": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791652541695,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -43705,7 +43724,9 @@
       "350DiamondPack": "HK$ 38.00",
       "135DiamondPack": "HK$ 18.00",
       "26700 Coin Pack": "HK$ 38.00",
-      "78000 Coin Pack": "HK$ 98.00"
+      "78000 Coin Pack": "HK$ 98.00",
+      "4500 Coin Pack": "HK$ 8.00",
+      "186000 Coin Pack": "HK$ 228.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -43719,9 +43740,30 @@
       "350DiamondPack": "HK$ 38.00",
       "135DiamondPack": "HK$ 18.00",
       "26700 Coin Pack": "HK$ 38.00",
-      "78000 Coin Pack": "HK$ 98.00"
+      "78000 Coin Pack": "HK$ 98.00",
+      "4500 Coin Pack": "HK$ 8.00",
+      "186000 Coin Pack": "HK$ 228.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792969306156,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "4500 Coin Pack": "HK$ 8.00",
+            "10000 Coin Pack": "HK$ 18.00",
+            "50000 Coin Pack": "HK$ 68.00",
+            "78000 Coin Pack": "HK$ 98.00",
+            "110000 Coin Pack": "HK$ 128.00",
+            "26700 Coin Pack": "HK$ 38.00",
+            "186000 Coin Pack": "HK$ 228.00",
+            "60DiamondPack": "HK$ 8.00",
+            "135DiamondPack": "HK$ 18.00",
+            "350DiamondPack": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792081393556,
@@ -91019,6 +91061,25 @@
       "限時挑戰書 Virtual Campus": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792969306156,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "擴充章節 U": "HK$ 32.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節H": "HK$ 32.00",
+            "擴充章節B": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00",
+            "擴充章節 R": "HK$ 32.00",
+            "擴充章節C": "HK$ 32.00",
+            "支線第二章": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791966321053,
@@ -256514,6 +256575,25 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "HK$ 388.00",
+            "Ticket to Ride Sale Offer": "HK$ 228.00",
+            "Welcome Offer": "HK$ 228.00",
+            "Europe Expansion": "HK$ 118.00",
+            "Europe Map": "HK$ 98.00",
+            "Ticket to Ride ChristmasBundle": "HK$ 88.00",
+            "Japan Expansion": "HK$ 98.00",
+            "Legendary Asia Expansion": "HK$ 98.00",
+            "Nordic Expansion": "HK$ 98.00",
+            "1910 Ticket Pack": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791652541695,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -307354,6 +307434,27 @@
           "timestamp": 1792959935177,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6810002638": {
+    "name": "漁樂無窮",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792969306156,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

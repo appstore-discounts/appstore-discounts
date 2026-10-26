@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6451376191,
+    "region": "tr",
+    "timestamp": 1792969306156,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "₺399,99",
+        "to": "₺249,99",
+        "range": "[₺26,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6757541297,
+    "region": "tr",
+    "timestamp": 1792969306156,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺399,99",
+        "range": "[₺399,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6757541297",
+    "trackName": "Sally Face",
+    "firstRecordedAt": 1787111112140
+  },
+  {
     "trackId": 953426154,
     "region": "tr",
     "timestamp": 1792959935177,

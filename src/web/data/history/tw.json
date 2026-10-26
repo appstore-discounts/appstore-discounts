@@ -1675,6 +1675,23 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "10,000 coins": "$60.00",
+            "1000 coins": "$30.00",
+            "30,000 coins": "$90.00",
+            "10000 candies": "$90.00",
+            "1000 candies": "$30.00",
+            "100,000 gold": "$60.00",
+            "100,000 coins": "$120.00",
+            "5000 eggs": "$60.00",
+            "300,000 gold": "$90.00",
+            "15000 eggs": "$90.00"
+          }
+        },
+        {
           "timestamp": 1792959935177,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -59178,6 +59195,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792969306156,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Build Your Own Deck": "$90.00",
+            "Just For Kids": "$0.00",
+            "Mix It Up": "$0.00",
+            "The Ellen Show": "$0.00",
+            "Happy Holidays": "$60.00",
+            "Ellen Premiere Week in NYC": "$60.00",
+            "Panda Express": "$60.00",
+            "Ocean Vacation": "$0.00",
+            "Good News!": "$90.00",
+            "Food Fight": "$60.00"
+          }
+        },
         {
           "timestamp": 1792959935177,
           "price": 60,
@@ -274281,6 +274315,25 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792882483701,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -322120,6 +322173,25 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包": "$790.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全塔禮包_B": "$490.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "英雄 鬼侍": "$150.00",
+            "英雄 伊格納斯": "$90.00",
+            "塔 鍊金術師小屋": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792925343209,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -324360,6 +324432,29 @@
           "timestamp": 1792959935177,
           "price": 60,
           "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6810002638": {
+    "trackId": 6810002638,
+    "trackName": "漁樂無窮",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792969306156,
+          "price": 120,
+          "formattedPrice": "$120.00",
           "inAppPurchases": {}
         }
       ]

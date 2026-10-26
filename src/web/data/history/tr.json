@@ -38758,6 +38758,25 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter D": "₺249,99",
+            "Chapter R": "₺249,99",
+            "Chapter N": "₺199,99",
+            "Chapter 0": "₺249,99",
+            "Chapter K": "₺249,99",
+            "Chapter T": "₺249,99",
+            "Chapter S": "₺249,99",
+            "Chapter L": "₺499,99",
+            "Chapter 8": "₺249,99",
+            "Chapter 10": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792959935177,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -272012,6 +272031,19 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "₺99,99",
+            "Dumb Phone Plus Yearly": "₺799,99",
+            "Dumb Phone Plus Monthly": "₺249,99",
+            "Dumb Phone Plus Lifetime": "₺3.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792454818639,
           "price": 0,
           "formattedPrice": "Free",
@@ -297838,6 +297870,14 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787447765759,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -302126,6 +302166,29 @@
           "timestamp": 1792959935177,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6810002638": {
+    "trackId": 6810002638,
+    "trackName": "Rich Fish",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792969306156,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]

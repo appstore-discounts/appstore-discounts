@@ -99889,6 +99889,25 @@
     "history": [
       [
         {
+          "timestamp": 1792969306156,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Tairitsu": "USD 9.99",
+            "Miku": "USD 9.99",
+            "ConneR": "USD 9.99",
+            "Xenon": "USD 9.99",
+            "9 Characters": "USD 34.99",
+            "CAPSO": "USD 9.99",
+            "Cherry": "USD 9.99",
+            "Nora": "USD 9.99",
+            "Emotion Samples 01": "USD 4.99",
+            "Game Disc vol.1": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791263120623,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -215544,6 +215563,27 @@
           "timestamp": 1792959935177,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6810002638": {
+    "name": "漁樂無窮",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792969306156,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

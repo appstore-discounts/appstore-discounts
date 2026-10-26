@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6451376191,
+    "region": "pt",
+    "timestamp": 1792969306156,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "8,99 €",
+        "to": "5,99 €",
+        "range": "[3,49 € ~ 8,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "69,90 €",
+        "to": "17,99 €",
+        "range": "[8,29 € ~ 69,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6757541297,
+    "region": "pt",
+    "timestamp": 1792969306156,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "8,99 €",
+        "range": "[8,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "8,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6757541297",
+    "trackName": "Sally Face",
+    "firstRecordedAt": 1787111112140
+  },
+  {
     "trackId": 953426154,
     "region": "pt",
     "timestamp": 1792959935177,
