@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6451376191,
+    "region": "us",
+    "timestamp": 1792985127398,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "$7.99",
+        "to": "$4.99",
+        "range": "[$3.99 ~ $7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "$59.90",
+        "to": "$14.99",
+        "range": "[$11.99 ~ $59.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6451376191",
+    "trackName": "Dumb Phone — Launcher & Themes",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6757541297,
+    "region": "us",
+    "timestamp": 1792985127398,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$7.99",
+        "range": "[$7.99 ~ $9.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6757541297",
+    "trackName": "Sally Face",
+    "firstRecordedAt": 1787111112140
+  },
+  {
     "trackId": 953426154,
     "region": "us",
     "timestamp": 1792959935177,
