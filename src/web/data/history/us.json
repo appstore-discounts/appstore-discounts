@@ -49142,8 +49142,8 @@
       "Field Commission": "$4.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "2,000 Coins": "$2.99",
       "7,000 Coins": "$8.99",
       "14,000 Coins": "$12.99",
@@ -49154,6 +49154,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793045927125,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2,000 Coins": "$2.99",
+            "7,000 Coins": "$8.99",
+            "14,000 Coins": "$12.99",
+            "30,000 Coins": "$19.99",
+            "70,000 Coins": "$39.99",
+            "200,000 Coins": "$99.99",
+            "Field Commission": "$4.99"
+          }
+        },
         {
           "timestamp": 1793017182070,
           "price": 2.99,

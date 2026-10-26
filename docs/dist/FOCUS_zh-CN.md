@@ -949,7 +949,7 @@
 |1438|1467728966|自动|Photo Summary|Photo Summary|Photo Summary|Photo Summary|Photo Summary|Photo Summary|Photo Summary|
 |1437|1532666619|自动|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|
 |1436|6742179746|自动|❌|帕拉貝倫：傳奇圍城|帕拉貝倫：傳奇圍城|帕拉貝倫：傳奇圍城|Parabellum: Siege of Legends|Parabellum: Siege of Legends|Parabellum: Cerco às Lendas|
-|1435|944118456|自动|EXIF Viewer：照片元数据|EXIF Viewer：照片中繼資料|EXIF Viewer：照片中繼資料|EXIF Viewer：照片中繼資料|EXIF Viewer by Fluntro|EXIF Viewer by Fluntro|EXIF Viewer: metadados|
+|1435|944118456|自动|EXIF Viewer：照片元数据|EXIF Viewer：照片中繼資料|EXIF Viewer：照片中繼資料|EXIF Viewer：照片中繼資料|EXIF Viewer by Fluntro|EXIF Viewer by Fluntro|EXIF Viewer Tool by Fluntro|
 |1434|1499001662|自动|❌|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer RPG|EvoCreo2 Catch & Tame Monsters|EvoCreo 2: Jogo de Monstro RPG|
 |1433|6753102795|自动|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|
 |1432|372731237|自动|Fusion Calculator|Fusion Calculator|Fusion Calculator|Fusion Calculator|FusionCalc Pro | Memo & Calc|FusionCalc Pro | Memo & Calc|Fusion Calculator|

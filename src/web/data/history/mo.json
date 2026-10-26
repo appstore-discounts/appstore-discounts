@@ -37471,19 +37471,37 @@
       "70,000 Coins": "USD 39.99",
       "7,000 Coins": "USD 8.99",
       "200,000 Coins": "USD 99.99",
-      "14,000 Coins": "USD 12.99"
+      "14,000 Coins": "USD 12.99",
+      "Field Commission": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "30,000 Coins": "USD 19.99",
       "2,000 Coins": "USD 2.99",
       "70,000 Coins": "USD 39.99",
       "7,000 Coins": "USD 8.99",
       "200,000 Coins": "USD 99.99",
-      "14,000 Coins": "USD 12.99"
+      "14,000 Coins": "USD 12.99",
+      "Field Commission": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793045927125,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "30,000 Coins": "USD 19.99",
+            "2,000 Coins": "USD 2.99",
+            "70,000 Coins": "USD 39.99",
+            "7,000 Coins": "USD 8.99",
+            "Field Commission": "USD 4.99",
+            "200,000 Coins": "USD 99.99",
+            "14,000 Coins": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -156968,6 +156986,25 @@
     "history": [
       [
         {
+          "timestamp": 1793045927125,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Monthly VIP Subscription": "USD 2.99",
+            "Premium spin": "USD 0.99",
+            "Math Master - 年度VIP會員資格": "USD 29.99",
+            "Math Master - 每週 VIP 訂閱": "USD 0.99",
+            "成為終身VIP會員": "USD 249.99",
+            "日常的折扣": "USD 0.99",
+            "推薦選擇": "USD 3.99",
+            "Popular Offer": "USD 1.99",
+            "推薦選擇 - 折扣": "USD 2.99",
+            "36000 硬幣": "USD 17.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793017182070,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -200699,6 +200736,19 @@
       "10,000 x Coins": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793045927125,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "200,000 x Coins": "USD 9.99",
+            "80,000 x Coins": "USD 4.99",
+            "40,000 x Coins": "USD 2.99",
+            "10,000 x Coins": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791838643666,

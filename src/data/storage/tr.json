@@ -48599,8 +48599,8 @@
       "Field Commission": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "2,000 Coins": "₺129,99",
       "7,000 Coins": "₺399,99",
       "14,000 Coins": "₺599,99",
@@ -48611,6 +48611,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793045927125,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2,000 Coins": "₺149,99",
+            "7,000 Coins": "₺499,99",
+            "14,000 Coins": "₺699,99",
+            "30,000 Coins": "₺999,99",
+            "70,000 Coins": "₺1.999,99",
+            "200,000 Coins": "₺4.999,99",
+            "Field Commission": "₺249,99"
+          }
+        },
         {
           "timestamp": 1793017182070,
           "price": 149.99,
@@ -188251,6 +188265,25 @@
       "Remove AD": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793045927125,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Jewel Package E": "₺2.999,99",
+            "Jewel Package B": "₺499,99",
+            "Jewel Package C": "₺999,99",
+            "Jewel Package F": "₺3.999,99",
+            "Jewel Package A": "₺249,99",
+            "Jewel Package D": "₺1.999,99",
+            "Remove AD": "₺49,99",
+            "Starter Package A": "₺1.299,99",
+            "Lite Daily Jewel Package": "₺399,99",
+            "Daily Jewel Package": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772428662132,
