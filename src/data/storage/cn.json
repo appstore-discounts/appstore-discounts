@@ -50878,6 +50878,23 @@
     "history": [
       [
         {
+          "timestamp": 1793113722877,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "纯净模式1个月": "¥6.00",
+            "金紫会员1个月": "¥10.00",
+            "纯净模式12个月": "¥50.00",
+            "纯净模式6个月": "¥30.00",
+            "永久金紫会员": "¥298.00",
+            "纯净模式永久": "¥188.00",
+            "金紫会员12个月": "¥85.00",
+            "金紫会员6个月": "¥50.00",
+            "金紫会员永久": "¥298.00",
+            "下载次数": "¥1.00"
+          }
+        },
+        {
           "timestamp": 1793090454059,
           "price": 0,
           "formattedPrice": "免费",
@@ -167639,6 +167656,20 @@
     "history": [
       [
         {
+          "timestamp": 1793113722877,
+          "price": 9,
+          "formattedPrice": "¥9.00",
+          "inAppPurchases": {
+            "510 星钻": "¥30.00",
+            "100 星钻": "¥6.00",
+            "1030 星钻": "¥60.00",
+            "300 星钻": "¥18.00",
+            "2080 星钻": "¥118.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787672459010,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -185774,6 +185805,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793113722877,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792898598896,
@@ -204507,8 +204546,8 @@
     "maxPriceInfo": {
       "price": 78,
       "formattedPrice": "¥78.00",
-      "连续包年会员": "¥98.00",
-      "连续包季会员": "¥48.00"
+      "连续包年会员": "¥128.00",
+      "连续包季会员": "¥58.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -204517,6 +204556,17 @@
       "连续包季会员": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793113722877,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包季会员": "¥58.00",
+            "连续包年会员": "¥128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -237667,6 +237717,27 @@
           "timestamp": 1793090454059,
           "price": 38,
           "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6821872148": {
+    "name": "Duopaper: 折叠屏全景壁纸，展开发现画中隐藏的小惊喜",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793113722877,
+          "price": 22,
+          "formattedPrice": "¥22.00",
           "inAppPurchases": {}
         }
       ]
