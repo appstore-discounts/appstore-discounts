@@ -65422,6 +65422,23 @@
     "history": [
       [
         {
+          "timestamp": 1793060082769,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2014 Enhanced Diagnostics": "$14.99"
+          }
+        },
+        {
           "timestamp": 1793017182070,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -202741,6 +202758,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793060082769,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        },
         {
           "timestamp": 1793017182070,
           "price": 0.99,
@@ -344303,10 +344337,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793060082769,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792120771172,
@@ -350712,8 +350754,8 @@
       "Unlock All (Upgrade 3)": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "SG-1000": "$0.99",
       "Master System": "$0.99",
       "Game Gear": "$0.99",
@@ -350727,6 +350769,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793060082769,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "SG-1000": "$0.99",
+            "Master System": "$0.99",
+            "Game Gear": "$0.99",
+            "Mega Drive / Genesis": "$0.99",
+            "Atari 2600": "$0.99",
+            "Pokémon Mini": "$0.99",
+            "SNES": "$0.99",
+            "Game Boy Advance": "$0.99",
+            "Unlock All (Upgrade 4)": "$0.99",
+            "Unlock All (Upgrade 3)": "$1.99"
+          }
+        },
         {
           "timestamp": 1793017182070,
           "price": 1.99,
@@ -358367,7 +358426,8 @@
       "Tower Alchemist": "$2.99",
       "Gems Handful": "$2.99",
       "Gems Pouch": "$4.99",
-      "Gems Barrel": "$9.99"
+      "Gems Barrel": "$9.99",
+      "Tower Forger": "$4.99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "$4.99",
@@ -358392,9 +358452,29 @@
       "Tower Alchemist": "$2.99",
       "Gems Handful": "$2.99",
       "Gems Pouch": "$4.99",
-      "Gems Barrel": "$9.99"
+      "Gems Barrel": "$9.99",
+      "Tower Forger": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793060082769,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "Tower Sniper": "$5.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Oni": "$4.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Hero Ignus": "$2.99",
+            "Tower Forger": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792985127398,

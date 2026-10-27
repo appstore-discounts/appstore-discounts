@@ -1002,7 +1002,7 @@
 |1385|1484024784|自动|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
 |1384|1672085276|自动|❌|Aiko|Aiko|Aiko|Aiko|Aiko|Aiko|
 |1383|1370362850|自动|LAYOUT 拍立得相机 - 极简时尚自拍，复古海报美图设计|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYÒUT|LAYOUT - Poster& Photo Editor|LAYÒUT|
-|1382|6747307749|自动|CHAKK-让你的 Instagram Story 更好玩！|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|
+|1382|6747307749|自动|CHAKK-让你的 Instagram Story 更好玩！|CHAKK－讓你的 Instagram 限時動態更好玩！|CHAKK－讓你的 Instagram 限時動態更好玩！|CHAKK－讓你的 Instagram 限時動態更好玩！|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|
 |1381|1075462280|自动|我的极光预报专业版|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|
 |1380|1170448156|自动|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|
 |1379|6673892874|自动|❌|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|

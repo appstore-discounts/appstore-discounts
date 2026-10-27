@@ -1002,7 +1002,7 @@ So far, we've covered `7` `Countries or Regions` and  `2377` `Apps` <br />Push n
 |1385|1484024784|Automatic|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
 |1384|1672085276|Automatic|❌|Aiko|Aiko|Aiko|Aiko|Aiko|Aiko|
 |1383|1370362850|Automatic|LAYOUT 拍立得相机 - 极简时尚自拍，复古海报美图设计|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYÒUT|LAYOUT - Poster& Photo Editor|LAYÒUT|
-|1382|6747307749|Automatic|CHAKK-让你的 Instagram Story 更好玩！|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|
+|1382|6747307749|Automatic|CHAKK-让你的 Instagram Story 更好玩！|CHAKK－讓你的 Instagram 限時動態更好玩！|CHAKK－讓你的 Instagram 限時動態更好玩！|CHAKK－讓你的 Instagram 限時動態更好玩！|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|
 |1381|1075462280|Automatic|我的极光预报专业版|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|
 |1380|1170448156|Automatic|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|
 |1379|6673892874|Automatic|❌|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|

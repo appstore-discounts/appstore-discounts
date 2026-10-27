@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6755781701,
+    "region": "tr",
+    "timestamp": 1793060082769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6755781701",
+    "trackName": "Aurora Tromsø",
+    "firstRecordedAt": 1771305877461
+  },
+  {
+    "trackId": 6496282733,
+    "region": "tr",
+    "timestamp": 1793060082769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6496282733",
+    "trackName": "ArcEmu",
+    "firstRecordedAt": 1777728419058
+  },
+  {
     "trackId": 527358348,
     "region": "tr",
     "timestamp": 1793045927125,

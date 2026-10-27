@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6755781701,
+    "region": "pt",
+    "timestamp": 1793060082769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6755781701",
+    "trackName": "Aurora Tromsø",
+    "firstRecordedAt": 1771305877461
+  },
+  {
+    "trackId": 6496282733,
+    "region": "pt",
+    "timestamp": 1793060082769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6496282733",
+    "trackName": "ArcEmu",
+    "firstRecordedAt": 1777728419058
+  },
+  {
     "trackId": 527358348,
     "region": "pt",
     "timestamp": 1793045927125,

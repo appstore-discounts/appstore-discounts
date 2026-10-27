@@ -287147,7 +287147,7 @@
     ]
   },
   "6747307749": {
-    "name": "CHAKK - Stickers for Stories",
+    "name": "CHAKK－讓你的 Instagram 限時動態更好玩！",
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00",
@@ -294724,10 +294724,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793060082769,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792081393556,
@@ -298625,8 +298633,8 @@
       "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "SG-1000": "HK$ 8.00",
       "Master System": "HK$ 8.00",
       "Game Gear": "HK$ 8.00",
@@ -298639,6 +298647,25 @@
       "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793060082769,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SG-1000": "HK$ 8.00",
+            "Master System": "HK$ 8.00",
+            "Game Gear": "HK$ 8.00",
+            "Mega Drive / Genesis": "HK$ 8.00",
+            "Atari 2600": "HK$ 8.00",
+            "Pokémon Mini": "HK$ 8.00",
+            "SNES": "HK$ 8.00",
+            "Game Boy Advance": "HK$ 8.00",
+            "Unlock All (Upgrade 4)": "HK$ 8.00",
+            "Unlock All (Upgrade 3)": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793017182070,
@@ -305338,7 +305365,8 @@
       "英雄 伊莉安娜": "HK$ 38.00",
       "塔 鍊金術師小屋": "HK$ 22.00",
       "英雄 禮包 3": "HK$ 88.00",
-      "全英雄禮包_B": "HK$ 188.00"
+      "全英雄禮包_B": "HK$ 188.00",
+      "英雄 潔米娜": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 58,
@@ -305367,10 +305395,28 @@
       "英雄 伊莉安娜": "HK$ 38.00",
       "塔 鍊金術師小屋": "HK$ 22.00",
       "英雄 禮包 3": "HK$ 88.00",
-      "全英雄禮包_B": "HK$ 188.00"
+      "全英雄禮包_B": "HK$ 188.00",
+      "英雄 潔米娜": "HK$ 22.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1793060082769,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "英雄 伊莉安娜": "HK$ 38.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "英雄 潔米娜": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1793045927125,
           "price": 58,

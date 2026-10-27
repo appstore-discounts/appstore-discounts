@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6755781701,
+    "region": "mo",
+    "timestamp": 1793060082769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6755781701",
+    "trackName": "Aurora Tromsø",
+    "firstRecordedAt": 1771305877461
+  },
+  {
+    "trackId": 6496282733,
+    "region": "mo",
+    "timestamp": 1793060082769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6496282733",
+    "trackName": "ArcEmu",
+    "firstRecordedAt": 1777728419058
+  },
+  {
     "trackId": 527358348,
     "region": "mo",
     "timestamp": 1793045927125,
@@ -5601,7 +5641,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6747307749",
-    "trackName": "CHAKK - Stickers for Stories",
+    "trackName": "CHAKK－讓你的 Instagram 限時動態更好玩！",
     "firstRecordedAt": 1758118320419
   },
   {
