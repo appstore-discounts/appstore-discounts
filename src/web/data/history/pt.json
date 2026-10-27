@@ -81208,6 +81208,25 @@
     "history": [
       [
         {
+          "timestamp": 1793090454059,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Enchanted Forest Token Bundle": "9,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Golden Dice": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792985127398,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -87582,6 +87601,25 @@
     "history": [
       [
         {
+          "timestamp": 1793090454059,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Prime Gemma 500": "2,99 €",
+            "Prime Dimension DLC": "3,99 €",
+            "Zenith Islands DLC": "2,99 €",
+            "Starter Package": "2,99 €",
+            "Master Package": "10,99 €",
+            "Tamer Kit": "0,99 €",
+            "Elite Offer": "4,99 €",
+            "Evoker Package": "4,99 €",
+            "Hunter Package": "4,99 €",
+            "Prime Gemma 1200": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792600862887,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -93013,16 +93051,16 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "月卡": "3,99 €",
-      "季卡": "9,99 €",
-      "年卡": "29,99 €",
-      "增加 500 个记忆币": "0,99 €",
-      "增加 16000 个记忆币": "29,99 €",
-      "增加 8000 个记忆币": "14,99 €",
-      "增加 800 个记忆币": "1,99 €",
-      "增加 1800 个记忆币": "3,99 €",
-      "增加 4000 个记忆币": "8,99 €",
-      "增加 1 个补签卡": "0,99 €"
+      "月卡": "8,99 €",
+      "季卡": "17,99 €",
+      "年卡": "49,99 €",
+      "增加 500 个记忆币": "1,99 €",
+      "增加 16000 个记忆币": "49,99 €",
+      "增加 8000 个记忆币": "24,99 €",
+      "增加 800 个记忆币": "2,99 €",
+      "增加 1800 个记忆币": "6,99 €",
+      "增加 4000 个记忆币": "12,99 €",
+      "增加 1 个补签卡": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -93039,6 +93077,25 @@
       "增加 1 个补签卡": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793090454059,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "月卡": "8,99 €",
+            "季卡": "17,99 €",
+            "年卡": "49,99 €",
+            "增加 500 个记忆币": "1,99 €",
+            "增加 16000 个记忆币": "49,99 €",
+            "增加 8000 个记忆币": "24,99 €",
+            "增加 800 个记忆币": "2,99 €",
+            "增加 1800 个记忆币": "6,99 €",
+            "增加 4000 个记忆币": "12,99 €",
+            "增加 1 个补签卡": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775531867945,
@@ -94827,6 +94884,25 @@
       "Paixão Country": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793090454059,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Elegância Azul": "0,99 €",
+            "Paixão Country": "0,99 €",
+            "Drip Extra": "0,99 €",
+            "Futurista": "0,99 €",
+            "Coração Errante": "0,99 €",
+            "Asseio Listrado": "0,99 €",
+            "Brisa do Lazer": "0,99 €",
+            "Espírito Encantador": "0,99 €",
+            "Xerife de Pedrareia": "0,99 €",
+            "Pijaminha Confortável": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792206602061,
@@ -154629,6 +154705,29 @@
           "timestamp": 1793017182070,
           "price": 0.29,
           "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755391836": {
+    "trackId": 6755391836,
+    "trackName": "KidoQuiz Animais (Completo)",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793090454059,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -18330,6 +18330,25 @@
     "history": [
       [
         {
+          "timestamp": 1793090454059,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "World 3 - Level Pack 2": "HK$ 8.00",
+            "World 2 - Level Pack 2": "HK$ 8.00",
+            "Unlock all Levels": "HK$ 8.00",
+            "MEGA Bubble Popper Pack": "HK$ 58.00",
+            "Bubble Popper Pack": "HK$ 32.00",
+            "Pack of 15 Bumpers": "HK$ 18.00",
+            "Pack of 5 Bumpers": "HK$ 8.00",
+            "Pack of 30 Fireballs": "HK$ 18.00",
+            "Pack of 10 Fireballs": "HK$ 8.00",
+            "Pack of 1500 Tokens": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786214168760,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -195134,7 +195153,7 @@
       "增加 8000 个记忆币": "HK$ 98.00",
       "增加 800 个记忆币": "HK$ 18.00",
       "月卡": "HK$ 32.00",
-      "季卡": "HK$ 68.00",
+      "季卡": "HK$ 128.00",
       "年卡": "HK$ 188.00"
     },
     "minPriceInfo": {
@@ -195158,6 +195177,25 @@
       "年卡": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793090454059,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "增加 500 个记忆币": "HK$ 8.00",
+            "增加 1800 个记忆币": "HK$ 32.00",
+            "年卡": "HK$ 188.00",
+            "增加 800 个记忆币": "HK$ 18.00",
+            "增加 4000 个记忆币": "HK$ 58.00",
+            "月卡": "HK$ 32.00",
+            "增加 16000 个记忆币": "HK$ 188.00",
+            "增加 8000 个记忆币": "HK$ 98.00",
+            "增加 1 个补签卡": "HK$ 8.00",
+            "季卡": "HK$ 128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -305259,6 +305297,25 @@
     "history": [
       [
         {
+          "timestamp": 1793090454059,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "服裝 · 萬聖節套組 3": "HK$ 22.00",
+            "服裝 · 萬聖節套組 2": "HK$ 22.00",
+            "服裝 · 萬聖節套組 1": "HK$ 22.00",
+            "付費角色・艾洛溫": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792789363369,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -307693,6 +307750,27 @@
           "timestamp": 1793017182070,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755391836": {
+    "name": "KidoQuiz: Animals (Full)",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793090454059,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]
