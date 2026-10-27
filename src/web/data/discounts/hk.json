@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 1465870866,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 48.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1465870866",
+    "trackName": "百貨公司物語2",
+    "firstRecordedAt": 1749337348684
+  },
+  {
+    "trackId": 1543161449,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 48.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1543161449",
+    "trackName": "冒險村物語2",
+    "firstRecordedAt": 1745470938782
+  },
+  {
+    "trackId": 6738371720,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6738371720",
+    "trackName": "銀盤滑冰場物語",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6505046490,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6505046490",
+    "trackName": "摔角擂臺物語",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6446826650,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6446826650",
+    "trackName": "創造都市島物語",
+    "firstRecordedAt": 1745453324134
+  },
+  {
+    "trackId": 6474672665,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 48.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6474672665",
+    "trackName": "開拓神秘島 DX",
+    "firstRecordedAt": 1758366530608
+  },
+  {
+    "trackId": 6749560544,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 38.00",
+        "range": "[HK$ 38.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6749560544",
+    "trackName": "魔王城物語",
+    "firstRecordedAt": 1764161842911
+  },
+  {
+    "trackId": 6752695239,
+    "region": "hk",
+    "timestamp": 1793137877216,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6752695239",
+    "trackName": "飛空艇探險物語",
+    "firstRecordedAt": 1770916023652
+  },
+  {
     "trackId": 1614771445,
     "region": "hk",
     "timestamp": 1793113722877,
@@ -14034,7 +14194,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 22.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 48.00]"
       }
     ],
     "price": 32,
@@ -14094,7 +14254,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 58.00]"
+        "range": "[HK$ 22.00 ~ HK$ 58.00]"
       }
     ],
     "price": 32,
@@ -15097,7 +15257,7 @@
     "formattedPrice": "HK$ 32.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id379869627",
-    "trackName": "Living Earth - Clock & Weather",
+    "trackName": "Living Earth - 世界時鐘與天氣",
     "firstRecordedAt": 1758575426857
   },
   {
@@ -25676,7 +25836,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 48.00]"
+        "range": "[HK$ 22.00 ~ HK$ 48.00]"
       }
     ],
     "price": 32,
@@ -33721,7 +33881,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 38.00",
-        "range": "[HK$ 38.00 ~ HK$ 58.00]"
+        "range": "[HK$ 22.00 ~ HK$ 58.00]"
       }
     ],
     "price": 38,
@@ -37628,7 +37788,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 48.00]"
       }
     ],
     "price": 22,
@@ -39692,7 +39852,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 48.00]"
+        "range": "[HK$ 22.00 ~ HK$ 48.00]"
       }
     ],
     "price": 32,

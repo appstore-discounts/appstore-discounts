@@ -989,7 +989,7 @@
 |1400|1603239519|自动|❌|反叛公司: 場景工房|反叛公司: 場景工房|反叛公司: 場景工房|Rebel Inc: Scenario Creator|Rebel Inc: Scenario Creator|Rebel Inc: Criador de Cenário|
 |1399|1512282997|自动|❌|子午线157: 第2章|子午线157: 第2章|子午线157: 第2章|Meridian 157: Chapter 2|Meridian 157: Chapter 2|Meridian 157: Capítulo 2|
 |1398|735752897|自动|❌|Beat the Boss 3 (17+)|Beat the Boss 3 (17+)|Beat the Boss 3 (17+)|Beat the Boss 3 (17+)|Beat the Boss 3 (17+)|Beat the Boss 3 (17+)|
-|1397|379869627|自动|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Relógio e clima|
+|1397|379869627|自动|Living Earth - 世界时钟与天气|Living Earth - 世界時鐘與天氣|Living Earth - 世界時鐘與天氣|Living Earth - 世界時鐘與天氣|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Relógio e clima|
 |1396|1093924230|自动|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|
 |1395|1096461203|自动|南瓜先生大冒险HD|南瓜先生大冒險HD|南瓜先生大冒險HD|南瓜先生大冒險HD|Mr. Pumpkin Adventure HD|Mr. Pumpkin Adventure HD|Mr. Pumpkin Adventure HD|
 |1394|1371241818|自动|雨城|Rain City|Rain City|Rain City|Rain City|Rain City|Rain City|

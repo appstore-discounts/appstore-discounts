@@ -52419,6 +52419,22 @@
     "history": [
       [
         {
+          "timestamp": 1793137877216,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Fast forward": "₺69,99",
+            "Small Prestige Pack": "₺29,99",
+            "Medium Prestige Pack": "₺149,99",
+            "XP Buff x2": "₺69,99",
+            "Awesome Prestige Pack": "₺349,99",
+            "Insane Prestige Package": "₺3.999,99",
+            "Ultimate Prestige Package": "₺619,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792021392549,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -101933,7 +101949,9 @@
       "Skip the microscope puzzle": "₺49,99",
       "Skip the Tetris puzzle": "₺49,99",
       "Skip the doors maze": "₺49,99",
-      "Skip the fill color puzzle": "₺49,99"
+      "Skip the fill color puzzle": "₺49,99",
+      "Skip the engine puzzle": "₺49,99",
+      "Skip the algebra problem": "₺49,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -101948,9 +101966,30 @@
       "Skip the microscope puzzle": "₺39,99",
       "Skip the Tetris puzzle": "₺39,99",
       "Skip the doors maze": "₺39,99",
-      "Skip the fill color puzzle": "₺39,99"
+      "Skip the fill color puzzle": "₺39,99",
+      "Skip the engine puzzle": "₺49,99",
+      "Skip the algebra problem": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Skip the 24 point math problem": "₺49,99",
+            "Skip the engine puzzle": "₺49,99",
+            "Skip the algebra problem": "₺49,99",
+            "Skip the fill color puzzle": "₺49,99",
+            "Skip the doors maze": "₺49,99",
+            "Skip the Tetris puzzle": "₺49,99",
+            "Skip the turn disc puzzle": "₺49,99",
+            "Skip the microscope puzzle": "₺49,99",
+            "Skip the last puzzle": "₺49,99",
+            "Skip the halma puzzle": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789421572923,
@@ -161028,10 +161067,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783824196340,
@@ -181574,6 +181621,14 @@
     "history": [
       [
         {
+          "timestamp": 1793137877216,
+          "price": 139.99,
+          "formattedPrice": "₺139,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792021392549,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -192522,10 +192577,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770778632046,
@@ -210979,6 +211042,25 @@
     "history": [
       [
         {
+          "timestamp": 1793137877216,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Content Bundle 2": "₺139,99",
+            "Getaway Car Pack": "₺49,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "Racing Heroes Car Pack": "₺49,99",
+            "Off-Road Car Pack": "₺49,99",
+            "Rusty Rats Car Pack": "₺49,99",
+            "American All-Stars Car Pack": "₺49,99",
+            "Reckless Car Pack": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792249292215,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -217695,6 +217777,20 @@
       "300 Stellar Gems": "₺74,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "1030 Stellar Gems": "₺449,99",
+            "510 Stellar Gems": "₺229,99",
+            "100 Stellar Gems": "₺49,99",
+            "300 Stellar Gems": "₺149,99",
+            "2080 Stellar Gems": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787706883067,
@@ -225130,6 +225226,14 @@
       "formattedPrice": "₺11,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792021392549,
@@ -236797,10 +236901,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -237328,10 +237440,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783824196340,
@@ -246648,6 +246768,17 @@
       "The Boglands DLC": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Supporter Pack": "₺49,99",
+            "The Boglands DLC": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789081003914,
@@ -265877,6 +266008,14 @@
     "history": [
       [
         {
+          "timestamp": 1793137877216,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1770778632046,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -277232,10 +277371,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -280775,10 +280922,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764161842911,
@@ -283232,6 +283387,14 @@
     "history": [
       [
         {
+          "timestamp": 1793137877216,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792021392549,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -285491,10 +285654,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770916023652,
@@ -290869,6 +291040,14 @@
     "history": [
       [
         {
+          "timestamp": 1793137877216,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787274850915,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -295831,6 +296010,25 @@
       "Gems Barrel": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793137877216,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Gems Barrel": "₺499,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Ignus": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "Tower Forger": "₺249,99",
+            "Gems Pouch": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793090454059,
