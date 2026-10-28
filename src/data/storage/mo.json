@@ -4685,7 +4685,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "Pro Version": "USD 0.99"
+      "Pro Version": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4693,6 +4693,16 @@
       "Pro Version": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Version": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -137320,14 +137330,22 @@
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -161436,14 +161454,22 @@
   "1614666556": {
     "name": "CNC VMC Simulator",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -213223,6 +213249,21 @@
       "700 Diamonds": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522570183,

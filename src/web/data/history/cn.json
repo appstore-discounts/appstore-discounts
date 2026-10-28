@@ -5374,7 +5374,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00",
-      "Pro Version": "¥8.00"
+      "Pro Version": "¥15.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -5382,6 +5382,16 @@
       "Pro Version": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Pro Version": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765312080684,
@@ -127909,14 +127919,22 @@
     "trackName": "CNC Lathe Simulator",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "¥48.00"
+      "price": 68,
+      "formattedPrice": "¥68.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -152945,14 +152963,22 @@
     "trackName": "CNC VMC Simulator",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "¥48.00"
+      "price": 68,
+      "formattedPrice": "¥68.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789036952061,

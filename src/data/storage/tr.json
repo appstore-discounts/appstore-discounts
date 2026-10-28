@@ -152611,6 +152611,23 @@
     "history": [
       [
         {
+          "timestamp": 1793189479893,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Teammate Package#2": "₺249,99",
+            "Bronze Decree": "₺1.499,99",
+            "Heroic Package#3": "₺2.499,99",
+            "Role Package III": "₺499,99",
+            "Suit Package": "₺1.499,99",
+            "Teammate Package": "₺249,99",
+            "Role Package": "₺149,99",
+            "Heroic Package#2": "₺499,99",
+            "Heroic Package#1": "₺499,99",
+            "Resource Package": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1793160762894,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -185486,14 +185503,22 @@
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -217805,14 +217830,22 @@
   "1614666556": {
     "name": "CNC VMC Simulator",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -294697,6 +294730,21 @@
       "700 Diamonds": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "120 Diamonds": "₺199,99",
+            "Starter Pack 1": "₺99,99",
+            "4000 Diamonds": "₺4.999,99",
+            "50 Diamonds": "₺99,99",
+            "16 Base Heroes Unlock Pack": "₺1.999,99",
+            "700 Diamonds": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522570183,

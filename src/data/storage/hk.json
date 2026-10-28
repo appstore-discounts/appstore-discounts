@@ -6811,7 +6811,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "Pro Version": "HK$ 8.00"
+      "Pro Version": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6819,6 +6819,16 @@
       "Pro Version": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Version": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -33219,6 +33229,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793189479893,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Holidays Hong Kong": "HK$ 8.00",
+            "Moon Phases calendar": "HK$ 8.00",
+            "+800 Emoji Stickers": "HK$ 8.00",
+            "Religious holidays": "HK$ 8.00",
+            "Week Numbers": "HK$ 8.00",
+            "Weather calendars": "HK$ 18.00",
+            "Holidays China": "HK$ 8.00",
+            "Holidays Macao": "HK$ 8.00",
+            "Holidays United Kingdom": "HK$ 8.00",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1793160762894,
           "price": 88,
@@ -187826,14 +187853,22 @@
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -218160,14 +218195,22 @@
   "1614666556": {
     "name": "CNC VMC Simulator",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -239589,6 +239632,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793189479893,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "巾幗綻芳華": "HK$ 32.00",
+            "冠絕天下": "HK$ 48.00",
+            "自創武將": "HK$ 22.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "西涼悍將": "HK$ 48.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "鎮海神威": "HK$ 22.00",
+            "月下追魂": "HK$ 48.00",
+            "楚漢爭霸": "HK$ 48.00"
+          }
+        },
         {
           "timestamp": 1793137877216,
           "price": 48,
@@ -298419,6 +298479,25 @@
     "history": [
       [
         {
+          "timestamp": 1793189479893,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "魔界擴充通行證": "HK$ 48.00",
+            "深淵開拓者": "HK$ 88.00",
+            "超越精華": "HK$ 228.00",
+            "隱月造型套裝": "HK$ 88.00",
+            "尼奧貝希摩斯": "HK$ 18.00",
+            "時間旅行者": "HK$ 48.00",
+            "永恆方舟": "HK$ 228.00",
+            "深淵精華": "HK$ 148.00",
+            "訓練記憶": "HK$ 148.00",
+            "魔界通行證1": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792753502905,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -304512,6 +304591,21 @@
       "700 Diamonds": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "HK$ 18.00",
+            "120 Diamonds": "HK$ 32.00",
+            "4000 Diamonds": "HK$ 788.00",
+            "50 Diamonds": "HK$ 18.00",
+            "16 Base Heroes Unlock Pack": "HK$ 288.00",
+            "700 Diamonds": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522570183,

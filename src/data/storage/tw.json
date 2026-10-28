@@ -7085,7 +7085,7 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Pro Version": "$30.00"
+      "Pro Version": "$60.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -7093,6 +7093,16 @@
       "Pro Version": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Version": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -29910,6 +29920,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793189479893,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        },
         {
           "timestamp": 1793160762894,
           "price": 235,
@@ -76292,6 +76319,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793189479893,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "捐款": "$150.00"
+          }
+        },
         {
           "timestamp": 1793160762894,
           "price": 290,
@@ -188943,14 +188978,22 @@
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 320,
+      "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -216024,14 +216067,22 @@
   "1614666556": {
     "name": "CNC VMC Simulator",
     "maxPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 320,
+      "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -317376,6 +317427,21 @@
     "history": [
       [
         {
+          "timestamp": 1793189479893,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "120 Diamonds": "$120.00",
+            "Starter Pack 1": "$60.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792522570183,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -318754,6 +318820,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793189479893,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包": "$790.00",
+            "全法術禮包": "$390.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全塔禮包_B": "$490.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "英雄 伊格納斯": "$90.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 野貓女獵手": "$150.00"
+          }
+        },
         {
           "timestamp": 1793137877216,
           "price": 220,

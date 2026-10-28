@@ -89099,14 +89099,22 @@
     "trackName": "CNC Lathe Simulator",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -105705,14 +105713,22 @@
     "trackName": "CNC VMC Simulator",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -151950,6 +151966,21 @@
       "700 Diamonds": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793189479893,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "120 Diamonds": "3,99 €",
+            "Starter Pack 1": "1,99 €",
+            "4000 Diamonds": "99,99 €",
+            "50 Diamonds": "1,99 €",
+            "16 Base Heroes Unlock Pack": "44,99 €",
+            "700 Diamonds": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522570183,
