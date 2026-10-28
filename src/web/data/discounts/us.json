@@ -1,5 +1,146 @@
 [
   {
+    "trackId": 1614771445,
+    "region": "us",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.49",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 1.49,
+    "formattedPrice": "$1.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1614771445",
+    "trackName": "Rotaeno",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1632719015,
+    "region": "us",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $6.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1632719015",
+    "trackName": "Guardian OL2",
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 6504841512,
+    "region": "us",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6504841512",
+    "trackName": "Halls of Torment: Premium",
+    "firstRecordedAt": 1745334141417
+  },
+  {
+    "trackId": 6748572801,
+    "region": "us",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "10,000 x Coins",
+        "from": "$0.99",
+        "to": "$0.79",
+        "range": "[$0.79 ~ $0.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "$5.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6748572801",
+    "trackName": "Seoul Exorcist 1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6749406060,
+    "region": "us",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$4.99 ~ $9.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6749406060",
+    "trackName": "Subnautica: Below Zero",
+    "firstRecordedAt": 1779650230794
+  },
+  {
+    "trackId": 6770101449,
+    "region": "us",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
+    "trackId": 6801980968,
+    "region": "us",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6801980968",
+    "trackName": "Tower & Mercenaries",
+    "firstRecordedAt": 1790160655952
+  },
+  {
     "trackId": 1465870866,
     "region": "us",
     "timestamp": 1793137877216,
@@ -1512,7 +1653,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6770101449,
@@ -2494,7 +2636,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6761328517,
@@ -3556,7 +3699,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6760948683,

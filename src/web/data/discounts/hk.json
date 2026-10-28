@@ -1,5 +1,66 @@
 [
   {
+    "trackId": 1632719015,
+    "region": "hk",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1632719015",
+    "trackName": "守護者 OL2",
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 6748572801,
+    "region": "hk",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "10,000 x Coins",
+        "from": "HK$ 8.00",
+        "to": "HK$ 7.00",
+        "range": "[HK$ 7.00 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 50,
+    "formattedPrice": "HK$ 50.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6748572801",
+    "trackName": "首爾驅魔人1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6770101449,
+    "region": "hk",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
     "trackId": 1465870866,
     "region": "hk",
     "timestamp": 1793137877216,
@@ -1671,7 +1732,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 18,
@@ -2407,7 +2468,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1632719015",
     "trackName": "守護者 OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 1437211990,
@@ -2574,7 +2636,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1632719015",
     "trackName": "守護者 OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6762582312,
@@ -3736,7 +3799,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1632719015",
     "trackName": "守護者 OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6751122124,
@@ -5978,7 +6042,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 18,
@@ -9495,7 +9559,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 22,
@@ -13490,7 +13554,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 18,
@@ -14916,7 +14980,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 38.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 38,
@@ -16426,7 +16490,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 22,
@@ -19660,7 +19724,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 32,
@@ -22547,7 +22611,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 32,
@@ -25614,7 +25678,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 32,
@@ -28835,7 +28899,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 32,
@@ -32720,7 +32784,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 18.00 ~ HK$ 48.00]"
+        "range": "[HK$ 18.00 ~ HK$ 50.00]"
       }
     ],
     "price": 32,

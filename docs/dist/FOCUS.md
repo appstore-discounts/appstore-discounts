@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2379` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2381` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2381|447149103|Automatic|❌|Reckless Getaway|Reckless Getaway|Reckless Getaway|Reckless Getaway|Reckless Getaway|Reckless Getaway|
+|2380|6822194774|Automatic|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|
 |2379|6821872148|Automatic|Duopaper: 折叠屏全景壁纸，展开发现画中隐藏的小惊喜|Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜|Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜|Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜|Duopaper: Panoramic Wallpapers|Duopaper: Panoramic Wallpapers|Duopaper: Fundos HD para ecrãs|
 |2378|6755391836|Automatic|KidoQuiz: 动物百科（完整版）|KidoQuiz: Animals (Full)|KidoQuiz: Animals (Full)|KidoQuiz: Animals (Full)|KidoQuiz: Animals (Full)|KidoQuiz: Animal (Full)|KidoQuiz Animais (Completo)|
 |2377|6804997193|Automatic|❌|星球災變實驗室|星球災變實驗室|星球災變實驗室|Planet Cataclysm Lab|Planet Cataclysm Lab|Laboratório de Cataclismos|
@@ -156,7 +158,7 @@ So far, we've covered `7` `Countries or Regions` and  `2379` `Apps` <br />Push n
 |2233|579940279|Automatic|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|
 |2232|6760577332|Automatic|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|
 |2231|665745944|Automatic|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|
-|2230|1632719015|Automatic|❌|守護者 OL2|守護者 OL2|守護者 OL2|Guardian OL2|Guardian OL2|Guardian OL2|
+|2230| ~~1632719015~~ |Automatic| ~~❌~~ | ~~守護者 OL2~~ | ~~守護者 OL2~~ | ~~守護者 OL2~~ | ~~Guardian OL2~~ | ~~Guardian OL2~~ | ~~Guardian OL2~~ |
 |2229|762838884|Automatic|linotune|linotune|linotune|linotune|linotune|linotune|linotune|
 |2228|321109246|Automatic|❌|Mahjong Demon|Mahjong Demon|Mahjong Demon|Mahjong Demon|Mahjong Demon|Mahjong Demon|
 |2227|328205875|Automatic|❌|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|A Lancheira de Milo|

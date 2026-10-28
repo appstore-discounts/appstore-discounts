@@ -2351,6 +2351,18 @@
     "firstRecordedAt": 1756674592647
   },
   {
+    "trackId": 447149103,
+    "region": "mo",
+    "timestamp": 1793160762894,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id447149103",
+    "trackName": "Reckless Getaway",
+    "firstRecordedAt": 1793160762894
+  },
+  {
     "trackId": 449735650,
     "region": "mo",
     "timestamp": 1792206602061,
@@ -17431,14 +17443,15 @@
   {
     "trackId": 1632719015,
     "region": "mo",
-    "timestamp": 1791987672821,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 5.99,
-    "formattedPrice": "USD 5.99",
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1632719015",
     "trackName": "守護者 OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 1632953327,
@@ -17731,7 +17744,7 @@
   {
     "trackId": 1642733080,
     "region": "mo",
-    "timestamp": 1793137877216,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -19587,7 +19600,7 @@
   {
     "trackId": 6471839445,
     "region": "mo",
-    "timestamp": 1793137877216,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "USD 3.49",
@@ -23146,10 +23159,10 @@
   {
     "trackId": 6748572801,
     "region": "mo",
-    "timestamp": 1793045927125,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "USD 4.99",
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6748572801",
     "trackName": "首爾驅魔人1111: Roguelite",
@@ -25663,10 +25676,10 @@
   {
     "trackId": 6770101449,
     "region": "mo",
-    "timestamp": 1791987672821,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "USD 4.99",
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6770101449",
     "trackName": "五道門：文字江湖",
@@ -26813,5 +26826,17 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6821872148",
     "trackName": "Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜",
     "firstRecordedAt": 1793113722877
+  },
+  {
+    "trackId": 6822194774,
+    "region": "mo",
+    "timestamp": 1793160762894,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6822194774",
+    "trackName": "TypeDraw",
+    "firstRecordedAt": 1793160762894
   }
 ]

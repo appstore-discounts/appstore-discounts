@@ -530,7 +530,7 @@
   {
     "trackId": 325915322,
     "region": "pt",
-    "timestamp": 1790805284947,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -2127,6 +2127,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 447149103,
+    "region": "pt",
+    "timestamp": 1793160762894,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id447149103",
+    "trackName": "Reckless Getaway",
+    "firstRecordedAt": 1793160762894
+  },
+  {
     "trackId": 449735650,
     "region": "pt",
     "timestamp": 1783060427753,
@@ -2442,7 +2454,7 @@
   {
     "trackId": 479516143,
     "region": "pt",
-    "timestamp": 1793017182070,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "6,99 €",
@@ -3558,7 +3570,7 @@
   {
     "trackId": 576443892,
     "region": "pt",
-    "timestamp": 1793137877216,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 0.49,
     "formattedPrice": "0,49 €",
@@ -8111,7 +8123,7 @@
   {
     "trackId": 1118115766,
     "region": "pt",
-    "timestamp": 1793137877216,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "7,99 €",
@@ -12257,7 +12269,7 @@
   {
     "trackId": 1477966166,
     "region": "pt",
-    "timestamp": 1793090454059,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -12773,7 +12785,7 @@
   {
     "trackId": 1499001662,
     "region": "pt",
-    "timestamp": 1793090454059,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -16113,14 +16125,15 @@
   {
     "trackId": 1632719015,
     "region": "pt",
-    "timestamp": 1791987672821,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 6.99,
-    "formattedPrice": "6,99 €",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 1632953327,
@@ -18085,7 +18098,7 @@
   {
     "trackId": 6471839445,
     "region": "pt",
-    "timestamp": 1773917518691,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -21366,10 +21379,10 @@
   {
     "trackId": 6748572801,
     "region": "pt",
-    "timestamp": 1793060082769,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 5.99,
-    "formattedPrice": "5,99 €",
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6748572801",
     "trackName": "Seoul Exorcist 1111: Roguelite",
@@ -23755,10 +23768,10 @@
   {
     "trackId": 6770101449,
     "region": "pt",
-    "timestamp": 1791987672821,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 5.99,
-    "formattedPrice": "5,99 €",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6770101449",
     "trackName": "五道門：文字江湖",
@@ -24845,5 +24858,17 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6821872148",
     "trackName": "Duopaper: Fundos HD para ecrãs",
     "firstRecordedAt": 1793113722877
+  },
+  {
+    "trackId": 6822194774,
+    "region": "pt",
+    "timestamp": 1793160762894,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6822194774",
+    "trackName": "TypeDraw",
+    "firstRecordedAt": 1793160762894
   }
 ]

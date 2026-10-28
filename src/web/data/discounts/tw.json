@@ -1,5 +1,86 @@
 [
   {
+    "trackId": 924438909,
+    "region": "tw",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "捐款",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 290,
+    "formattedPrice": "$290.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id924438909",
+    "trackName": "ProShot",
+    "firstRecordedAt": 1777050395660
+  },
+  {
+    "trackId": 1632719015,
+    "region": "tw",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $220.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1632719015",
+    "trackName": "守護者 OL2",
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 6748572801,
+    "region": "tw",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "10,000 x Coins",
+        "from": "$30.00",
+        "to": "$25.00",
+        "range": "[$25.00 ~ $30.00]"
+      }
+    ],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6748572801",
+    "trackName": "首爾驅魔人1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6770101449,
+    "region": "tw",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $190.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
     "trackId": 1465870866,
     "region": "tw",
     "timestamp": 1793137877216,
@@ -2340,7 +2421,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1632719015",
     "trackName": "守護者 OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 1437211990,
@@ -2494,7 +2576,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1632719015",
     "trackName": "守護者 OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6760764479,
@@ -3756,7 +3839,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1632719015",
     "trackName": "守護者 OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6760948683,

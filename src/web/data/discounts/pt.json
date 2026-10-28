@@ -1,5 +1,94 @@
 [
   {
+    "trackId": 1632719015,
+    "region": "pt",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
+    "trackName": "Guardian OL2",
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 6748572801,
+    "region": "pt",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[1,99 € ~ 6,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "200,000 x Coins",
+        "from": "9,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "80,000 x Coins",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "40,000 x Coins",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "10,000 x Coins",
+        "from": "0,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 0,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6748572801",
+    "trackName": "Seoul Exorcist 1111: Roguelite",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6770101449,
+    "region": "pt",
+    "timestamp": 1793160762894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
     "trackId": 576443892,
     "region": "pt",
     "timestamp": 1793137877216,
@@ -1579,7 +1668,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6770101449,
@@ -2581,7 +2671,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 931188326,
@@ -3750,7 +3841,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6760948683,

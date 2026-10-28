@@ -579,7 +579,7 @@
   {
     "trackId": 325915322,
     "region": "tr",
-    "timestamp": 1765305425372,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -2361,6 +2361,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id446760220",
     "trackName": "FINAL FANTASY TACTICS :WotL",
     "firstRecordedAt": 1756674592647
+  },
+  {
+    "trackId": 447149103,
+    "region": "tr",
+    "timestamp": 1793160762894,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id447149103",
+    "trackName": "Reckless Getaway",
+    "firstRecordedAt": 1793160762894
   },
   {
     "trackId": 449735650,
@@ -8450,7 +8462,7 @@
   {
     "trackId": 1096461203,
     "region": "tr",
-    "timestamp": 1793137877216,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -12327,7 +12339,7 @@
   {
     "trackId": 1448573670,
     "region": "tr",
-    "timestamp": 1792107485359,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "₺4,99",
@@ -13255,7 +13267,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1793090454059,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -13809,7 +13821,7 @@
   {
     "trackId": 1499001662,
     "region": "tr",
-    "timestamp": 1792985127398,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -17310,14 +17322,15 @@
   {
     "trackId": 1632719015,
     "region": "tr",
-    "timestamp": 1791987672821,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 299.99,
-    "formattedPrice": "₺299,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 1632953327,
@@ -18236,7 +18249,7 @@
   {
     "trackId": 6444400410,
     "region": "tr",
-    "timestamp": 1792882483701,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 229,
     "formattedPrice": "₺229,00",
@@ -19454,7 +19467,7 @@
   {
     "trackId": 6471839445,
     "region": "tr",
-    "timestamp": 1791692106771,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -19550,7 +19563,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1793113722877,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -22948,10 +22961,10 @@
   {
     "trackId": 6748572801,
     "region": "tr",
-    "timestamp": 1793060082769,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 249.99,
-    "formattedPrice": "₺249,99",
+    "price": 179,
+    "formattedPrice": "₺179,00",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6748572801",
     "trackName": "Seoul Exorcist 1111: Roguelite",
@@ -24605,7 +24618,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1793137877216,
+    "timestamp": 1793160762894,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -25421,10 +25434,10 @@
   {
     "trackId": 6770101449,
     "region": "tr",
-    "timestamp": 1791987672821,
+    "timestamp": 1793160762894,
     "discounts": [],
-    "price": 249.99,
-    "formattedPrice": "₺249,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6770101449",
     "trackName": "五道門：文字江湖",
@@ -26619,5 +26632,17 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6821872148",
     "trackName": "Duopaper: Panoramic Wallpapers",
     "firstRecordedAt": 1793113722877
+  },
+  {
+    "trackId": 6822194774,
+    "region": "tr",
+    "timestamp": 1793160762894,
+    "discounts": [],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6822194774",
+    "trackName": "TypeDraw",
+    "firstRecordedAt": 1793160762894
   }
 ]
