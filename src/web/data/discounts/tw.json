@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1001096601,
+    "region": "tw",
+    "timestamp": 1793217915729,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$130.00",
+        "to": "$33.00",
+        "range": "[$30.00 ~ $130.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1437669537,
+    "region": "tw",
+    "timestamp": 1793217915729,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1437669537",
+    "trackName": "Bendy and the Ink Machine",
+    "firstRecordedAt": 1759144236301
+  },
+  {
+    "trackId": 1625083646,
+    "region": "tw",
+    "timestamp": 1793217915729,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$330.00",
+        "to": "$55.00",
+        "range": "[$10.00 ~ $330.00]"
+      }
+    ],
+    "price": 55,
+    "formattedPrice": "$55.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1625083646",
+    "trackName": "Endling",
+    "firstRecordedAt": 1784661653349
+  },
+  {
     "trackId": 1632719015,
     "region": "tw",
     "timestamp": 1793160762894,

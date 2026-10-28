@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 667362389,
+    "region": "mo",
+    "timestamp": 1793217915729,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.49 ~ USD 1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id667362389",
+    "trackName": "The Room Two",
+    "firstRecordedAt": 1745384546601
+  },
+  {
+    "trackId": 1001096601,
+    "region": "mo",
+    "timestamp": 1793217915729,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1437669537,
+    "region": "mo",
+    "timestamp": 1793217915729,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1437669537",
+    "trackName": "Bendy and the Ink Machine",
+    "firstRecordedAt": 1759144236301
+  },
+  {
+    "trackId": 1625083646,
+    "region": "mo",
+    "timestamp": 1793217915729,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 1.59",
+        "range": "[USD 0.29 ~ USD 8.99]"
+      }
+    ],
+    "price": 1.59,
+    "formattedPrice": "USD 1.59",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1625083646",
+    "trackName": "Endling",
+    "firstRecordedAt": 1784661653349
+  },
+  {
     "trackId": 1632719015,
     "region": "mo",
     "timestamp": 1793160762894,

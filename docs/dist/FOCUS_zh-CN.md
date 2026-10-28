@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2381` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2383` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2383|1659211813|自动|动森圈圈|動森圈圈|動森圈圈|動森圈圈|Nook Circle - ACNH Guide|Nook Circle - ACNH Guide|动森圈圈|
+|2382|6803329435|自动|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|
 |2381|447149103|自动|❌|Reckless Getaway|Reckless Getaway|Reckless Getaway|Reckless Getaway|Reckless Getaway|Reckless Getaway|
 |2380|6822194774|自动|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|
 |2379|6821872148|自动|Duopaper: 折叠屏全景壁纸，展开发现画中隐藏的小惊喜|Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜|Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜|Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜|Duopaper: Panoramic Wallpapers|Duopaper: Panoramic Wallpapers|Duopaper: Fundos HD para ecrãs|
@@ -63,7 +65,7 @@
 |2328|6817352467|自动|❌|❌|❌|❌|❌|Karakol Amiri|❌|
 |2327|6819276809|自动|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
 |2326|1057703608|自动|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
-|2325|6762412284|自动|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
+|2325|6762412284|自动|时光锚点 Days Anchor - 倒数 纪念 小组件|時光錨點 Days Anchor - 倒數日 紀念日 小工具|時光錨點 Days Anchor - 倒數日 紀念日 小工具|時光錨點 Days Anchor - 倒數日 紀念日 小工具|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
 |2324|6812927976|自动|❌|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: Magic RPG|Enchanted Survival: Magic RPG|Enchanted Survival: RPG Loot|
 |2323|6775430354|自动|❌|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|
 |2322|6780967766|自动|❌|❌|❌|❌|❌|❌|Comprato|

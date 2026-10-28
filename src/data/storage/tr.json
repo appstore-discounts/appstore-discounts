@@ -136062,13 +136062,28 @@
     "name": "Paprika Recipe Manager 3",
     "maxPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Paprika 4 Premium (Discount)": "₺499,99",
+      "Paprika 4 Premium": "₺799,99"
     },
     "minPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "Paprika 4 Premium (Discount)": "₺499,99",
+      "Paprika 4 Premium": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Paprika 4 Premium (Discount)": "₺499,99",
+            "Paprika 4 Premium": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765996921355,
@@ -228083,6 +228098,27 @@
       ]
     ]
   },
+  "1659211813": {
+    "name": "Nook Circle - ACNH Guide",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1659258538": {
     "name": "Video Cache",
     "maxPriceInfo": {
@@ -297380,15 +297416,29 @@
       "price": 999.99,
       "formattedPrice": "₺999,99",
       "Professional Dates Yearly": "₺5.999,99",
-      "Professional Dates Monthly": "₺799,99"
+      "Professional Dates Monthly": "₺799,99",
+      "Professional Dates Permanent": "₺19.999,99"
     },
     "minPriceInfo": {
       "price": 999.99,
       "formattedPrice": "₺999,99",
       "Professional Dates Yearly": "₺5.999,99",
-      "Professional Dates Monthly": "₺799,99"
+      "Professional Dates Monthly": "₺799,99",
+      "Professional Dates Permanent": "₺19.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "Professional Dates Permanent": "₺19.999,99",
+            "Professional Dates Yearly": "₺5.999,99",
+            "Professional Dates Monthly": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792812452311,
@@ -298824,6 +298874,27 @@
           "timestamp": 1793160762894,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "name": "Chromagraph Camera",
+    "maxPriceInfo": {
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
+    },
+    "minPriceInfo": {
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
           "inAppPurchases": {}
         }
       ]

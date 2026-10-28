@@ -85950,6 +85950,23 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Grottoes Add-on": "$0.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Heroes Add-on": "$3.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Invasion Add-on": "$4.99",
+            "Wonderwood Add-on": "$8.99",
+            "Heart of Evil Add-on": "$6.99"
+          }
+        },
+        {
           "timestamp": 1793189479893,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -268706,6 +268723,29 @@
       ]
     ]
   },
+  "1659211813": {
+    "trackId": 1659211813,
+    "trackName": "Nook Circle - ACNH Guide",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1659258538": {
     "trackId": 1659258538,
     "trackName": "Video Cache",
@@ -269380,6 +269420,20 @@
       "Filtr": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tip": "$4.99",
+            "Mega Tip": "$19.99",
+            "Monthly Recurring Tip": "$1.99",
+            "Yearly Recurring Tip": "$9.99",
+            "Filtr": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779532011522,
@@ -364161,15 +364215,29 @@
       "price": 19.99,
       "formattedPrice": "$19.99",
       "Professional Dates Yearly": "$119.99",
-      "Professional Dates Monthly": "$14.99"
+      "Professional Dates Monthly": "$14.99",
+      "Professional Dates Permanent": "$399.99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "$19.99",
       "Professional Dates Yearly": "$119.99",
-      "Professional Dates Monthly": "$14.99"
+      "Professional Dates Monthly": "$14.99",
+      "Professional Dates Permanent": "$399.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Professional Dates Permanent": "$399.99",
+            "Professional Dates Yearly": "$119.99",
+            "Professional Dates Monthly": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792812452311,
@@ -365694,6 +365762,29 @@
           "timestamp": 1793160762894,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "trackId": 6803329435,
+    "trackName": "Chromagraph Camera",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
           "inAppPurchases": {}
         }
       ]

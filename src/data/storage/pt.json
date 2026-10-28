@@ -15963,6 +15963,23 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1793160762894,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -66913,13 +66930,28 @@
     "name": "Gestor de Receitas Paprika 3",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Paprika 4 Premium (desconto)": "9,99 €",
+      "Paprika 4 Premium": "17,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Paprika 4 Premium (desconto)": "9,99 €",
+      "Paprika 4 Premium": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Paprika 4 Premium (desconto)": "9,99 €",
+            "Paprika 4 Premium": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765996921355,
@@ -108305,6 +108337,27 @@
           "timestamp": 1761797674362,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659211813": {
+    "name": "动森圈圈",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -149758,15 +149811,29 @@
       "price": 22.99,
       "formattedPrice": "22,99 €",
       "Professional Dates Yearly": "129,99 €",
-      "Professional Dates Monthly": "17,99 €"
+      "Professional Dates Monthly": "17,99 €",
+      "Professional Dates Permanent": "449,99 €"
     },
     "minPriceInfo": {
       "price": 22.99,
       "formattedPrice": "22,99 €",
       "Professional Dates Yearly": "129,99 €",
-      "Professional Dates Monthly": "17,99 €"
+      "Professional Dates Monthly": "17,99 €",
+      "Professional Dates Permanent": "449,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "Professional Dates Permanent": "449,99 €",
+            "Professional Dates Yearly": "129,99 €",
+            "Professional Dates Monthly": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792812452311,
@@ -151095,6 +151162,27 @@
           "timestamp": 1793160762894,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "name": "Chromagraph Camera",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
           "inAppPurchases": {}
         }
       ]

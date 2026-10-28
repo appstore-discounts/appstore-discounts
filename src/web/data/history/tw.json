@@ -90350,6 +90350,20 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "125,000資金": "$630.00",
+            "25,000資金": "$170.00",
+            "60,000資金": "$330.00",
+            "700,000資金": "$2,990.00",
+            "325,000資金": "$1,470.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 130,
           "formattedPrice": "$130.00",
@@ -154618,6 +154632,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783519501810,
@@ -224425,6 +224447,14 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 55,
+          "formattedPrice": "$55.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790094096914,
           "price": 330,
           "formattedPrice": "$330.00",
@@ -231741,6 +231771,29 @@
           "timestamp": 1721960142187,
           "price": 120,
           "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659211813": {
+    "trackId": 1659211813,
+    "trackName": "動森圈圈",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]
@@ -312088,6 +312141,25 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "GHOST TRANSLUCENT": "$60.00",
+            "GHOST LUMINOUS": "$60.00",
+            "RED-WHITE RYUKIN": "$60.00",
+            "RED RYUKIN": "$60.00",
+            "WHITE KITTY FISH": "$60.00",
+            "BLACK KITTY FISH": "$60.00",
+            "ROBO FISH 02": "$60.00",
+            "GHOST": "$60.00",
+            "ORANGE/WHITE": "$60.00",
+            "PANDA TELESCOPE": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -324118,15 +324190,29 @@
       "price": 690,
       "formattedPrice": "$690.00",
       "專業擇日 年費": "$3,990.00",
-      "專業擇日 月費": "$490.00"
+      "專業擇日 月費": "$490.00",
+      "專業擇日・永久權限": "$13,000.00"
     },
     "minPriceInfo": {
       "price": 690,
       "formattedPrice": "$690.00",
       "專業擇日 年費": "$3,990.00",
-      "專業擇日 月費": "$490.00"
+      "專業擇日 月費": "$490.00",
+      "專業擇日・永久權限": "$13,000.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "專業擇日・永久權限": "$13,000.00",
+            "專業擇日 年費": "$3,990.00",
+            "專業擇日 月費": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792812452311,
@@ -324672,7 +324758,7 @@
   },
   "6762412284": {
     "trackId": 6762412284,
-    "trackName": "Days Anchor - Countdown Events",
+    "trackName": "時光錨點 Days Anchor - 倒數日 紀念日 小工具",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -325667,6 +325753,29 @@
           "timestamp": 1793160762894,
           "price": 150,
           "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "trackId": 6803329435,
+    "trackName": "Chromagraph Camera",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 390,
+          "formattedPrice": "$390.00",
           "inAppPurchases": {}
         }
       ]

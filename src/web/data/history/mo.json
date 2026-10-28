@@ -49273,6 +49273,14 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767112568849,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -72293,6 +72301,20 @@
       "25,000資金": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 0.79,
+          "formattedPrice": "USD 0.79",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "325,000資金": "USD 44.99",
+            "125,000資金": "USD 17.99",
+            "60,000資金": "USD 8.99",
+            "25,000資金": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -117746,6 +117768,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783519501810,
@@ -167423,6 +167453,14 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 1.59,
+          "formattedPrice": "USD 1.59",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790094096914,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -173630,6 +173668,29 @@
           "timestamp": 1721960142187,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659211813": {
+    "trackId": 1659211813,
+    "trackName": "動森圈圈",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]
@@ -219239,15 +219300,29 @@
       "price": 19.99,
       "formattedPrice": "USD 19.99",
       "專業擇日 年費": "USD 119.99",
-      "專業擇日 月費": "USD 14.99"
+      "專業擇日 月費": "USD 14.99",
+      "專業擇日・永久權限": "USD 399.99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "USD 19.99",
       "專業擇日 年費": "USD 119.99",
-      "專業擇日 月費": "USD 14.99"
+      "專業擇日 月費": "USD 14.99",
+      "專業擇日・永久權限": "USD 399.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "專業擇日・永久權限": "USD 399.99",
+            "專業擇日 年費": "USD 119.99",
+            "專業擇日 月費": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792812452311,
@@ -219785,7 +219860,7 @@
   },
   "6762412284": {
     "trackId": 6762412284,
-    "trackName": "Days Anchor - Countdown Events",
+    "trackName": "時光錨點 Days Anchor - 倒數日 紀念日 小工具",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -220772,6 +220847,29 @@
           "timestamp": 1793160762894,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "trackId": 6803329435,
+    "trackName": "Chromagraph Camera",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
           "inAppPurchases": {}
         }
       ]

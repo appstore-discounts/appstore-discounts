@@ -68732,6 +68732,25 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "12 Mo. Global Texting": "HK$ 228.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792483972912,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -88503,6 +88522,20 @@
       "125,000資金": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "25,000資金": "HK$ 38.00",
+            "60,000資金": "HK$ 78.00",
+            "700,000資金": "HK$ 688.00",
+            "325,000資金": "HK$ 398.00",
+            "125,000資金": "HK$ 158.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -153510,6 +153543,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783519501810,
@@ -224295,6 +224336,14 @@
     "history": [
       [
         {
+          "timestamp": 1793217915729,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790094096914,
           "price": 78,
           "formattedPrice": "HK$ 78.00",
@@ -231708,6 +231757,27 @@
           "timestamp": 1721960142187,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659211813": {
+    "name": "動森圈圈",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]
@@ -264262,6 +264332,25 @@
       "Junkers Ju 52": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Concorde": "HK$ 18.00",
+            "EC135": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792231960258,
@@ -306923,15 +307012,29 @@
       "price": 168,
       "formattedPrice": "HK$ 168.00",
       "專業擇日 年費": "HK$ 960.00",
-      "專業擇日 月費": "HK$ 120.00"
+      "專業擇日 月費": "HK$ 120.00",
+      "專業擇日・永久權限": "HK$ 2,888.00"
     },
     "minPriceInfo": {
       "price": 168,
       "formattedPrice": "HK$ 168.00",
       "專業擇日 年費": "HK$ 960.00",
-      "專業擇日 月費": "HK$ 120.00"
+      "專業擇日 月費": "HK$ 120.00",
+      "專業擇日・永久權限": "HK$ 2,888.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 168,
+          "formattedPrice": "HK$ 168.00",
+          "inAppPurchases": {
+            "專業擇日・永久權限": "HK$ 2,888.00",
+            "專業擇日 年費": "HK$ 960.00",
+            "專業擇日 月費": "HK$ 120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792837292615,
@@ -307446,7 +307549,7 @@
     ]
   },
   "6762412284": {
-    "name": "Days Anchor - Countdown Events",
+    "name": "時光錨點 Days Anchor - 倒數日 紀念日 小工具",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
@@ -308364,6 +308467,27 @@
           "timestamp": 1793160762894,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "name": "Chromagraph Camera",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793217915729,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
           "inAppPurchases": {}
         }
       ]
