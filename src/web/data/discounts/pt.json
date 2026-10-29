@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 667362389,
+    "region": "pt",
+    "timestamp": 1793234217965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,49 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id667362389",
+    "trackName": "The Room Two",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1001096601,
+    "region": "pt",
+    "timestamp": 1793234217965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1437669537,
+    "region": "pt",
+    "timestamp": 1793234217965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1437669537",
+    "trackName": "Bendy and the Ink Machine",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1625083646,
+    "region": "pt",
+    "timestamp": 1793234217965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[0,29 € ~ 9,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1625083646",
+    "trackName": "Endling",
+    "firstRecordedAt": 1784661653349
+  },
+  {
     "trackId": 1632719015,
     "region": "pt",
     "timestamp": 1793160762894,

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 443646748,
+    "region": "us",
+    "timestamp": 1793234217965,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "$29.99",
+        "to": "$19.99",
+        "range": "[$9.99 ~ $29.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id443646748",
+    "trackName": "Fitness Buddy+ Workout Trainer",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 6496282733,
+    "region": "us",
+    "timestamp": 1793234217965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6496282733",
+    "trackName": "ArcEmu",
+    "firstRecordedAt": 1777728419058
+  },
+  {
     "trackId": 1614771445,
     "region": "us",
     "timestamp": 1793160762894,
