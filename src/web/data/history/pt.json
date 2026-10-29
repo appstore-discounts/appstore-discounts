@@ -113927,7 +113927,7 @@
   },
   "6752503669": {
     "trackId": 6752503669,
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "region": "pt",
     "maxPriceInfo": {
       "price": 6.99,
@@ -118553,6 +118553,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793297052912,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789340065932,
@@ -155543,6 +155551,29 @@
           "timestamp": 1793265912561,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766557247": {
+    "trackId": 6766557247,
+    "trackName": "Sky Routes: Companhia aérea",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793297052912,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -171699,6 +171699,14 @@
     "history": [
       [
         {
+          "timestamp": 1793297052912,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1779983863369,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -330126,6 +330134,14 @@
     "history": [
       [
         {
+          "timestamp": 1793297052912,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789356898180,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -341974,7 +341990,7 @@
   },
   "6752503669": {
     "trackId": 6752503669,
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "region": "us",
     "maxPriceInfo": {
       "price": 5.99,
@@ -366336,6 +366352,29 @@
           "timestamp": 1793265912561,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766557247": {
+    "trackId": 6766557247,
+    "trackName": "Sky Routes",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793297052912,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

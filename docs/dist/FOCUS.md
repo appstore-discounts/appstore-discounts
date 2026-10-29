@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2388` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2389` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2389|6766557247|Automatic|❌|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes|Sky Routes|Sky Routes: Companhia aérea|
 |2388|810405576|Automatic|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|
 |2387|959272198|Automatic|指尖帝国|指尖帝国|指尖帝国|指尖帝国|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|
 |2386|1071622918|Automatic|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|
@@ -221,7 +222,7 @@ So far, we've covered `7` `Countries or Regions` and  `2388` `Apps` <br />Push n
 |2177|6797421987|Automatic|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了：赛博竹知了Bamboo Cicada|竹知了：赛博竹知了Bamboo Cicada|竹知了 - 找回童年的快乐|
 |2176|1518917462|Automatic|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|
 |2175|6793964973|Automatic|ForBand - 乐队排练全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - Band Practice Player|ForBand - Band Practice Player|ForBand - Tudo para sua banda|
-|2174|6753077755|Automatic|❌|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|
+|2174|6753077755|Automatic|❌|好漢軍團|好漢軍團|好漢軍團|How Many Dudes?|How Many Dudes?|How Many Dudes?|
 |2173| ~~6785557805~~ |Automatic| ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ |
 |2172|299029654|Automatic|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|
 |2171|1462584573|Automatic|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|
@@ -1007,7 +1008,7 @@ So far, we've covered `7` `Countries or Regions` and  `2388` `Apps` <br />Push n
 |1391|6474672665|Automatic|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|Automatic|MyScoreTracker 桌游计分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker: Board Games|MyScoreTracker: Board Games|MyScoreTracker Pontuação|
 |1389|513370441|Automatic|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|
-|1388|6752503669|Automatic|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
+|1388|6752503669|Automatic|Solar Arc: 黄金时刻 日出日落|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
 |1387|1148617550|Automatic|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|Automatic|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
 |1385|1484024784|Automatic|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
