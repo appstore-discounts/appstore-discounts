@@ -55730,6 +55730,29 @@
       ]
     ]
   },
+  "810405576": {
+    "trackId": 810405576,
+    "trackName": "StaffWars",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "811397653": {
     "trackId": 811397653,
     "trackName": "你必須造一艘船",
@@ -68211,6 +68234,60 @@
       ]
     ]
   },
+  "959272198": {
+    "trackId": 959272198,
+    "trackName": "指尖帝国",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "购买8个宝石": "USD 1.99",
+      "购买35个宝石": "USD 6.99",
+      "购买140个宝石": "USD 20.99",
+      "购买5000金币": "USD 3.99",
+      "购买3500金币": "USD 1.99",
+      "购买20000金币": "USD 10.99",
+      "购买1500金币": "USD 0.99",
+      "购买500个宝石": "USD 59.99",
+      "购买 60 个宝石": "USD 6.99",
+      "购买 26 个宝石": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "购买8个宝石": "USD 1.99",
+      "购买35个宝石": "USD 6.99",
+      "购买140个宝石": "USD 20.99",
+      "购买5000金币": "USD 3.99",
+      "购买3500金币": "USD 1.99",
+      "购买20000金币": "USD 10.99",
+      "购买1500金币": "USD 0.99",
+      "购买500个宝石": "USD 59.99",
+      "购买 60 个宝石": "USD 6.99",
+      "购买 26 个宝石": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "购买8个宝石": "USD 1.99",
+            "购买35个宝石": "USD 6.99",
+            "购买140个宝石": "USD 20.99",
+            "购买5000金币": "USD 3.99",
+            "购买3500金币": "USD 1.99",
+            "购买20000金币": "USD 10.99",
+            "购买1500金币": "USD 0.99",
+            "购买500个宝石": "USD 59.99",
+            "购买 60 个宝石": "USD 6.99",
+            "购买 26 个宝石": "USD 3.99"
+          }
+        }
+      ]
+    ]
+  },
   "960457446": {
     "trackId": 960457446,
     "trackName": "Flush Toilet Finder Pro",
@@ -79553,6 +79630,29 @@
           "timestamp": 1759028567061,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1071622918": {
+    "trackId": 1071622918,
+    "trackName": "StaffWars Live",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
@@ -181175,6 +181275,23 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "戰鬥獎勵雙倍": "USD 1.99",
+            "60金磚": "USD 0.99",
+            "680金磚": "USD 9.99",
+            "300金磚": "USD 4.99",
+            "高級特訓": "USD 9.99",
+            "月卡": "USD 4.99",
+            "980金磚": "USD 14.99",
+            "深度高級特訓": "USD 14.99",
+            "120金磚": "USD 1.99",
+            "背包擴展": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1793234217965,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -212094,7 +212211,10 @@
       "SNES": "USD 0.99",
       "Game Boy Advance": "USD 0.99",
       "Unlock All (Upgrade 4)": "USD 0.99",
-      "Unlock All (Upgrade 3)": "USD 1.99"
+      "Unlock All (Upgrade 3)": "USD 1.99",
+      "Unlock All": "USD 4.99",
+      "Unlock All (Upgrade 1)": "USD 3.99",
+      "Unlock All (Upgrade 2)": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -212108,9 +212228,31 @@
       "SNES": "USD 0.99",
       "Game Boy Advance": "USD 0.99",
       "Unlock All (Upgrade 4)": "USD 0.99",
-      "Unlock All (Upgrade 3)": "USD 1.99"
+      "Unlock All (Upgrade 3)": "USD 1.99",
+      "Unlock All": "USD 4.99",
+      "Unlock All (Upgrade 1)": "USD 3.99",
+      "Unlock All (Upgrade 2)": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Unlock All": "USD 4.99",
+            "Unlock All (Upgrade 1)": "USD 3.99",
+            "Unlock All (Upgrade 2)": "USD 2.99",
+            "Unlock All (Upgrade 3)": "USD 1.99",
+            "Unlock All (Upgrade 4)": "USD 0.99",
+            "Game Boy Advance": "USD 0.99",
+            "SNES": "USD 0.99",
+            "Pokémon Mini": "USD 0.99",
+            "Atari 2600": "USD 0.99",
+            "Mega Drive / Genesis": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793060082769,
@@ -220904,6 +221046,52 @@
           "timestamp": 1793217915729,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793052963": {
+    "trackId": 6793052963,
+    "trackName": "計算機鍵盤：輸入法計算機，讓你邊打字邊計算",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755858938": {
+    "trackId": 6755858938,
+    "trackName": "SUMEE!",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

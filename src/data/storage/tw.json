@@ -1621,6 +1621,25 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "10,000 coins": "$60.00",
+            "1000 coins": "$30.00",
+            "30,000 coins": "$90.00",
+            "10000 candies": "$90.00",
+            "1000 candies": "$30.00",
+            "100,000 gold": "$60.00",
+            "5000 eggs": "$60.00",
+            "100,000 coins": "$120.00",
+            "15000 eggs": "$90.00",
+            "500 eggs": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792969306156,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -69024,6 +69043,27 @@
       ]
     ]
   },
+  "810405576": {
+    "name": "StaffWars",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "811397653": {
     "name": "你必須造一艘船",
     "maxPriceInfo": {
@@ -69923,6 +69963,25 @@
       "$50 Credit": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "$90.00",
+            "$5 Credit": "$190.00",
+            "1 Mo. Global Texting": "$120.00",
+            "3 Mo. CAN Texting": "$190.00",
+            "6 Mo. Global Texting": "$490.00",
+            "12 Mo. CAN Texting": "$590.00",
+            "6 Mo. CAN Texting": "$320.00",
+            "$10 Credit": "$320.00",
+            "$20 Credit": "$690.00",
+            "1 Mo. Fongo Plus": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522570183,
@@ -84975,6 +85034,55 @@
           "price": 150,
           "formattedPrice": "$150.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "959272198": {
+    "name": "指尖帝国",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "购买8个宝石": "$60.00",
+      "购买35个宝石": "$220.00",
+      "购买1500金币": "$30.00",
+      "购买140个宝石": "$690.00",
+      "购买500个宝石": "$1,990.00",
+      "购买5000金币": "$120.00",
+      "购买20000金币": "$390.00",
+      "购买8000金币": "$90.00",
+      "购买 12 个宝石": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "购买8个宝石": "$60.00",
+      "购买35个宝石": "$220.00",
+      "购买1500金币": "$30.00",
+      "购买140个宝石": "$690.00",
+      "购买500个宝石": "$1,990.00",
+      "购买5000金币": "$120.00",
+      "购买20000金币": "$390.00",
+      "购买8000金币": "$90.00",
+      "购买 12 个宝石": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "购买8个宝石": "$60.00",
+            "购买35个宝石": "$220.00",
+            "购买1500金币": "$30.00",
+            "购买140个宝石": "$690.00",
+            "购买500个宝石": "$1,990.00",
+            "购买5000金币": "$120.00",
+            "购买20000金币": "$390.00",
+            "购买8000金币": "$90.00",
+            "购买 12 个宝石": "$60.00"
+          }
         }
       ]
     ]
@@ -100829,6 +100937,27 @@
       ]
     ]
   },
+  "1071622918": {
+    "name": "StaffWars Live",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1072395467": {
     "name": "60 Seconds! Atomic Adventure",
     "maxPriceInfo": {
@@ -110102,6 +110231,23 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$30.00",
+            "Get coffin password": "$30.00",
+            "Get the main entrance lighthouse passcode": "$30.00",
+            "Pyramid obtain dial pointer display mode": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Get inside the temple door password": "$30.00",
+            "Rockets get the door unlocking": "$30.00",
+            "Get the factory door unlock": "$30.00"
+          }
+        },
+        {
           "timestamp": 1793234217965,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -118332,6 +118478,25 @@
       "喚生石8400個": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "魔法禮包": "$290.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793137877216,
@@ -139857,6 +140022,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793265912561,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "原版怪獸繼承卡牌包": "$590.00",
+            "怪獸繼承": "$150.00",
+            "原版魔王權能卡牌包": "$590.00",
+            "原版魔王完整卡牌包": "$890.00",
+            "覺醒魔王完整卡牌包": "$890.00",
+            "原版設施卡牌包": "$290.00",
+            "原版魔王加速卡牌包": "$290.00",
+            "覺醒魔王卡牌包": "$590.00",
+            "原版地宮卡牌包": "$590.00"
+          }
+        },
         {
           "timestamp": 1793234217965,
           "price": 120,
@@ -187637,7 +187819,7 @@
       "Prime Gemma 10000": "$2,490.00",
       "Prime Gemma 5000": "$710.00",
       "Evoker Kit": "$19.00",
-      "Zenith Islands DLC": "$150.00",
+      "Zenith Islands DLC": "$89.00",
       "Prime Dimension DLC": "$125.00",
       "Fancy Apparel": "$490.00",
       "Zenith Islands DLC Sale": "$55.00",
@@ -187655,6 +187837,25 @@
       "Intro Offer (low)": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Zenith Islands DLC": "$89.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Starter Package": "$89.00",
+            "Prime Gemma 2500": "$355.00",
+            "Master Package": "$355.00",
+            "Hunter Package": "$180.00",
+            "Prime Gemma 5000": "$710.00",
+            "Evoker Package": "$180.00",
+            "Evoker Kit": "$19.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792959935177,
@@ -245611,6 +245812,21 @@
       "99.99美元商品": "$2,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品": "$120.00",
+            "12.99美元商品": "$390.00",
+            "9.99美元商品": "$320.00",
+            "0.99美元商品": "$30.00",
+            "39.99美元商品": "$1,290.00",
+            "19.99美元商品": "$690.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793113722877,
@@ -318994,6 +319210,25 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄 阿什彼特": "$220.00",
+            "全法術禮包": "$390.00",
+            "全英雄禮包": "$790.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全塔禮包_B": "$490.00",
+            "塔 野貓女獵手": "$150.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "一箱寶石": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793189479893,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -321391,6 +321626,48 @@
           "timestamp": 1793217915729,
           "price": 390,
           "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793052963": {
+    "name": "計算機鍵盤：輸入法計算機，讓你邊打字邊計算",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755858938": {
+    "name": "SUMEE!",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

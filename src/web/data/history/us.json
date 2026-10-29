@@ -30180,6 +30180,17 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Premium": "$29.99",
+            "Fitness Buddy Premium": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793234217965,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -38162,6 +38173,23 @@
       "Pack 40 credits": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "11,250 Geniz": "$0.99",
+            "115,000 Geniz (58,750 FREE)": "$4.99",
+            "30,000 Geniz (7,500 FREE)": "$1.99",
+            "Pack 15 credits": "$0.99",
+            "50,000 Geniz (16,250 FREE)": "$2.99",
+            "Pack 10 credits": "$0.99",
+            "80,000 Geniz (35,000 FREE)": "$3.99",
+            "Pack 65 credits": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793234217965,
@@ -66315,6 +66343,25 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793189479893,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -66955,6 +67002,25 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "$0.00",
+            "BEAST OF SHADOWS": "$0.00",
+            "BEEPING BOBBIE": "$0.00",
+            "DEEP BLUE": "$0.00",
+            "A MAJOR'S LOW BLOW": "$0.00",
+            "CAMPBELL'S CANS": "$0.99",
+            "GROOVY GUT SHAKER": "$1.99",
+            "LOW RIDER": "$0.99",
+            "ISAAC'S NEW TONES": "$0.99",
+            "HIGH FIVE": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793234217965,
           "price": 11.99,
           "formattedPrice": "$11.99",
@@ -67283,6 +67349,14 @@
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767156201270,
@@ -78522,6 +78596,29 @@
           "timestamp": 1745665323137,
           "price": 6.99,
           "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "810405576": {
+    "trackId": 810405576,
+    "trackName": "StaffWars",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]
@@ -97819,6 +97916,60 @@
       ]
     ]
   },
+  "959272198": {
+    "trackId": 959272198,
+    "trackName": "War of Empire Conquest(3V3)",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "购买8个宝石": "$1.99",
+      "购买35个宝石": "$6.99",
+      "购买1500金币": "$0.99",
+      "购买140个宝石": "$20.99",
+      "购买20000金币": "$10.99",
+      "购买5000金币": "$3.99",
+      "购买500个宝石": "$59.99",
+      "购买8000金币": "$2.99",
+      "购买 12 个宝石": "$1.99",
+      "购买3500金币": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "购买8个宝石": "$1.99",
+      "购买35个宝石": "$6.99",
+      "购买1500金币": "$0.99",
+      "购买140个宝石": "$20.99",
+      "购买20000金币": "$10.99",
+      "购买5000金币": "$3.99",
+      "购买500个宝石": "$59.99",
+      "购买8000金币": "$2.99",
+      "购买 12 个宝石": "$1.99",
+      "购买3500金币": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "购买8个宝石": "$1.99",
+            "购买35个宝石": "$6.99",
+            "购买1500金币": "$0.99",
+            "购买140个宝石": "$20.99",
+            "购买20000金币": "$10.99",
+            "购买5000金币": "$3.99",
+            "购买500个宝石": "$59.99",
+            "购买8000金币": "$2.99",
+            "购买 12 个宝石": "$1.99",
+            "购买3500金币": "$1.99"
+          }
+        }
+      ]
+    ]
+  },
   "960457446": {
     "trackId": 960457446,
     "trackName": "Flush Toilet Finder Pro",
@@ -102456,6 +102607,20 @@
       "325,000 Gold": "$45.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$10.99",
+            "25,000 Gold": "$5.99",
+            "125,000 Gold": "$21.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -114554,6 +114719,29 @@
           "timestamp": 1759028567061,
           "price": 6.99,
           "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1071622918": {
+    "trackId": 1071622918,
+    "trackName": "StaffWars Live",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
@@ -171400,6 +171588,14 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783565841644,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -185232,6 +185428,25 @@
       "Magic Package LevelUp 1-10": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99",
+            "Flash Sale Star Rune 1": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793234217965,
@@ -242893,6 +243108,25 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Remove Ads": "$9.99",
+            "Coins Package 1": "$0.99",
+            "Monthly VIP Subscription": "$2.99",
+            "Premium spin": "$0.99",
+            "Yearly VIP Subscription": "$29.99",
+            "Weekly VIP Subscription": "$0.99",
+            "Become a VIP for lifetime": "$249.99",
+            "Daily Offer": "$0.99",
+            "Best Choice": "$3.99",
+            "Popular Offer": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793234217965,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -258873,6 +259107,14 @@
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790134270308,
@@ -276810,6 +277052,25 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "自創武將": "$2.99",
+            "五子良將": "$5.99",
+            "自創地圖": "$3.99",
+            "無雙戰神": "$5.99",
+            "重振漢室": "$2.99",
+            "虎嘯鳳鳴": "$3.99",
+            "巾幗綻芳華": "$3.99",
+            "冠絕天下": "$5.99",
+            "鎮海神威": "$2.99",
+            "斜谷殘陽": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793234217965,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -294694,6 +294955,25 @@
       "Jingle": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "$1.99",
+            "Yearly": "$11.99",
+            "Calico Theme": "$1.99",
+            "City Night Theme": "$1.99",
+            "2025 Spring Lawn Theme": "$2.49",
+            "Gizmo": "$1.99",
+            "Grey Theme": "$1.99",
+            "Lawn Theme": "$1.99",
+            "Lucky": "$1.99",
+            "Simba": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793234217965,
@@ -363780,6 +364060,25 @@
     "history": [
       [
         {
+          "timestamp": 1793265912561,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "Tower Sniper": "$5.99",
+            "Tower Alchemist": "$2.99",
+            "Hero Oni": "$4.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Wildcat": "$4.99",
+            "Gems Pouch": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793137877216,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -365991,6 +366290,52 @@
           "timestamp": 1793217915729,
           "price": 12.99,
           "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793052963": {
+    "trackId": 6793052963,
+    "trackName": "SumKey: Calculator Keyboard",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755858938": {
+    "trackId": 6755858938,
+    "trackName": "SUMEE!",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793265912561,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]
