@@ -5520,6 +5520,25 @@
     "history": [
       [
         {
+          "timestamp": 1793353134370,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro + Família": "29,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Haydn: String Quartets": "1,99 €",
+            "Christmas Carol Collection": "1,99 €",
+            "Bach: Cello Suites": "1,99 €",
+            "Vivaldi: The Four Seasons": "1,99 €",
+            "Mozart: Twelve Duets": "1,99 €",
+            "The Mutopia Piano Collection": "5,99 €",
+            "forScore Pro": "17,99 €",
+            "Voluntary Upgrade": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785006341118,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -52019,14 +52038,22 @@
   "1112916047": {
     "name": "CopperKnob",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774789916959,
@@ -52541,6 +52568,25 @@
       "Skywarden Unlock Pack": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "XP de Torre": "1,19 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -85941,6 +85987,25 @@
     "history": [
       [
         {
+          "timestamp": 1793353134370,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Prime Dimension DLC": "3,99 €",
+            "Starter Package": "2,99 €",
+            "Master Package": "10,99 €",
+            "Tamer Kit": "0,99 €",
+            "Zenith Islands DLC": "2,99 €",
+            "Hunter Package": "4,99 €",
+            "Elite Offer": "4,99 €",
+            "Evoker Package": "4,99 €",
+            "Crystal Offer": "10,99 €",
+            "Prime Gemma 500": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793160762894,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -101475,6 +101540,25 @@
       "French Audio": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "German Audio": "0,00 €",
+            "Tales of Valor - Russian": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Tales of Valor - Spanish": "0,00 €",
+            "Opposing Fronts - French": "0,00 €",
+            "Opposing Fronts - Spanish": "0,00 €",
+            "Tales of Valor - French": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "High-Quality Models": "0,00 €",
+            "French Audio": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -151531,6 +151615,48 @@
           "timestamp": 1793297052912,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6480453979": {
+    "name": "Saints Row: The Third",
+    "maxPriceInfo": {
+      "price": 14.49,
+      "formattedPrice": "14,49 €"
+    },
+    "minPriceInfo": {
+      "price": 14.49,
+      "formattedPrice": "14,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783953753": {
+    "name": "Batomon Showdown",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
           "inAppPurchases": {}
         }
       ]

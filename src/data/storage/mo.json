@@ -83323,14 +83323,22 @@
   "1112916047": {
     "name": "CopperKnob",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774789916959,
@@ -137014,6 +137022,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793353134370,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Prime Gemma 2500": "USD 10.99",
+            "Tamer Kit": "USD 0.99",
+            "Evoker Kit": "USD 0.99",
+            "Master Package": "USD 10.99",
+            "Prime Gemma 1200": "USD 5.99",
+            "Spray kit": "USD 2.99",
+            "Ascensio Kit": "USD 2.99",
+            "Zenith Islands DLC Sale": "USD 1.99",
+            "Prime Dimension DLC Sale": "USD 1.99",
+            "Crystal Offer Sale": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1793320661339,
           "price": 0.99,
@@ -216806,6 +216831,48 @@
           "timestamp": 1793297052912,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6480453979": {
+    "name": "Saints Row: The Third",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783953753": {
+    "name": "Batomon Showdown",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793353134370,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
           "inAppPurchases": {}
         }
       ]

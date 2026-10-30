@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 495937600,
+    "region": "us",
+    "timestamp": 1793353134370,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id495937600",
+    "trackName": "The Tiny Bang Story",
+    "firstRecordedAt": 1759327934089
+  },
+  {
+    "trackId": 1309638846,
+    "region": "us",
+    "timestamp": 1793353134370,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1309638846",
+    "trackName": "Vintage Camera - Goodak",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1359652100,
+    "region": "us",
+    "timestamp": 1793353134370,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1359652100",
+    "trackName": "Dungeon Maker : Dark Lord",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 6480058345,
     "region": "us",
     "timestamp": 1793297052912,
