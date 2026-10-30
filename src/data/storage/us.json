@@ -359584,7 +359584,8 @@
       "Costume · Halloween Set 3": "$2.99",
       "Costume · Halloween Set 2": "$2.99",
       "Costume · Halloween Set 1": "$2.99",
-      "Hero · Elowyn Briar": "$0.99"
+      "Hero · Elowyn Briar": "$0.99",
+      "Bundle · Knights of Light": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -359602,9 +359603,29 @@
       "Costume · Halloween Set 3": "$2.99",
       "Costume · Halloween Set 2": "$2.99",
       "Costume · Halloween Set 1": "$2.99",
-      "Hero · Elowyn Briar": "$0.99"
+      "Hero · Elowyn Briar": "$0.99",
+      "Bundle · Knights of Light": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793320661339,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bundle · Knights of Light": "$9.99",
+            "Costume · Halloween Set 3": "$2.99",
+            "Costume · Halloween Set 2": "$2.99",
+            "Costume · Halloween Set 1": "$2.99",
+            "Hero · Elowyn Briar": "$0.99",
+            "Hero · Rosel Ironbloom": "$0.99",
+            "Hero · Sargul Krach": "$0.99",
+            "Hero · Fine Kaltenbach": "$0.99",
+            "Hero · Irena von Strahl": "$0.99",
+            "Support Tier 1 · Supporter": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793160762894,
@@ -361044,7 +361065,7 @@
     ]
   },
   "6817843628": {
-    "name": "五行仙途‧香江修仙錄",
+    "name": "Five Elements: Immortal Path",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "$9.99"

@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 495937600,
+    "region": "pt",
+    "timestamp": 1793320661339,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id495937600",
+    "trackName": "The Tiny Bang Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1309638846,
+    "region": "pt",
+    "timestamp": 1793320661339,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1309638846",
+    "trackName": "Vintage Camera - Goodak",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1359652100,
+    "region": "pt",
+    "timestamp": 1793320661339,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1359652100",
+    "trackName": "Dungeon Maker : Dark Lord",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6803329435,
+    "region": "pt",
+    "timestamp": 1793320661339,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "14,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 14,99 €]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6803329435",
+    "trackName": "Chromagraph Camera",
+    "firstRecordedAt": 1793217915729
+  },
+  {
     "trackId": 6480058345,
     "region": "pt",
     "timestamp": 1793297052912,

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6444508254,
+    "region": "cn",
+    "timestamp": 1793320661339,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "大明：远洋宏图",
+        "from": "¥28.00",
+        "to": "¥23.00",
+        "range": "[¥23.00 ~ ¥28.00]"
+      }
+    ],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6444508254",
+    "trackName": "汉末霸业",
+    "firstRecordedAt": 1779826154618
+  },
+  {
+    "trackId": 6803329435,
+    "region": "cn",
+    "timestamp": 1793320661339,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥88.00",
+        "to": "¥47.00",
+        "range": "[¥47.00 ~ ¥88.00]"
+      }
+    ],
+    "price": 47,
+    "formattedPrice": "¥47.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6803329435",
+    "trackName": "Chromagraph Camera",
+    "firstRecordedAt": 1793217915729
+  },
+  {
     "trackId": 1309638846,
     "region": "cn",
     "timestamp": 1793297052912,
