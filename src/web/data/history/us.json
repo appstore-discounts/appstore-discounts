@@ -205733,7 +205733,8 @@
       "Crystal Offer": "$19.99",
       "Elite Offer": "$9.99",
       "Spray kit": "$4.99",
-      "Ascensio Kit": "$4.99"
+      "Ascensio Kit": "$4.99",
+      "Limited Time Offer (high)": "$19.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -205764,10 +205765,28 @@
       "Crystal Offer": "$19.99",
       "Elite Offer": "$9.99",
       "Spray kit": "$3.99",
-      "Ascensio Kit": "$4.99"
+      "Ascensio Kit": "$4.99",
+      "Limited Time Offer (high)": "$19.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1793397478286,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Master Package": "$19.99",
+            "Tamer Kit": "$0.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Limited Time Offer (high)": "$19.99"
+          }
+        },
         {
           "timestamp": 1793353134370,
           "price": 0.99,
@@ -259876,6 +259895,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793397478286,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Critical Mass": "$6.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "New Leaders": "$4.99",
+            "Ultimate Pack (big discount)": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Survival Guide": "$2.99"
+          }
+        },
         {
           "timestamp": 1793382301850,
           "price": 1.99,
@@ -342300,6 +342336,14 @@
     "history": [
       [
         {
+          "timestamp": 1793397478286,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774878638971,
           "price": 0,
           "formattedPrice": "Free",
@@ -355259,6 +355303,25 @@
     "history": [
       [
         {
+          "timestamp": 1793397478286,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "$5.99",
+            "Neo Behemoth": "$1.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Moonveil Skin Set": "$9.99",
+            "Essence of Transcendence": "$29.99",
+            "Ark of Eternity": "$29.99",
+            "Underworld Pass 1": "$2.99",
+            "Time Traveler": "$5.99",
+            "Memory of Training": "$17.99",
+            "Essence of Beginning": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793234217965,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -364443,6 +364506,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793397478286,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "Tower Sniper": "$5.99",
+            "Hero Oni": "$4.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Alchemist": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Ignus": "$2.99"
+          }
+        },
         {
           "timestamp": 1793382301850,
           "price": 6.99,
