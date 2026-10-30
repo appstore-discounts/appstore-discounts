@@ -5520,6 +5520,23 @@
     "history": [
       [
         {
+          "timestamp": 1793382301850,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1793353134370,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -39383,6 +39400,25 @@
       "Lonely Mountain Add-on": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793382301850,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Grottoes Add-on": "0,99 €",
+            "Wonderwood Add-on": "9,99 €",
+            "Heroes Add-on": "3,99 €",
+            "Temples of 4 Elements Add-on": "3,99 €",
+            "Abandoned Mines Add-on": "0,99 €",
+            "Invasion Add-on": "5,99 €",
+            "Heart of Evil Add-on": "7,99 €",
+            "Bosses & Monsters Add-on": "8,99 €",
+            "Lonely Mountain Add-on": "7,99 €",
+            "Biomes Add-on (Special Price)": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791966321053,
@@ -101542,6 +101578,23 @@
     "history": [
       [
         {
+          "timestamp": 1793382301850,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1793353134370,
           "price": 14.49,
           "formattedPrice": "14,49 €",
@@ -131958,8 +132011,8 @@
   "6471594918": {
     "name": "Just a Simple Image Converter",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -131967,6 +132020,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793382301850,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793320661339,
           "price": 5.99,
@@ -147197,7 +147256,7 @@
     ]
   },
   "6785090016": {
-    "name": "Alpin Quest PRO: Outdoor GPS",
+    "name": "Alpin Quest: Mapas offline PRO",
     "maxPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €"

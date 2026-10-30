@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1620202676,
+    "region": "tw",
+    "timestamp": 1793382301850,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1620202676",
+    "trackName": "鋼鐵戰隊",
+    "firstRecordedAt": 1771447813830
+  },
+  {
     "trackId": 6803329435,
     "region": "tw",
     "timestamp": 1793320661339,
@@ -677,7 +697,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$30.00",
-        "range": "[免費 ~ $290.00]"
+        "range": "[免費 ~ $320.00]"
       }
     ],
     "price": 30,
@@ -1525,7 +1545,7 @@
         "name": "Price",
         "from": "$190.00",
         "to": "$30.00",
-        "range": "[免費 ~ $290.00]"
+        "range": "[免費 ~ $320.00]"
       }
     ],
     "price": 30,
@@ -7594,7 +7614,7 @@
     "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6785090016",
-    "trackName": "Alpin Quest PRO: Outdoor GPS",
+    "trackName": "Alpin Quest: Offline Maps PRO",
     "firstRecordedAt": 1784860637377
   },
   {
@@ -10042,7 +10062,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$150.00",
-        "range": "[免費 ~ $290.00]"
+        "range": "[免費 ~ $320.00]"
       }
     ],
     "price": 150,
@@ -10585,7 +10605,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "免費",
-        "range": "[免費 ~ $290.00]"
+        "range": "[免費 ~ $320.00]"
       }
     ],
     "price": 0,
