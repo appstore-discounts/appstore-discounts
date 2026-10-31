@@ -89700,6 +89700,25 @@
     "history": [
       [
         {
+          "timestamp": 1793465552889,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "$0.99",
+            "Chloe": "$0.99",
+            "Shaw": "$0.99",
+            "Kid": "$0.99",
+            "Rob-o": "$0.99",
+            "Emo": "$0.99",
+            "Joshua": "$0.99",
+            "Lucy": "$0.99",
+            "Atom": "$0.99",
+            "Mia": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791966321053,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -243949,6 +243968,29 @@
       ]
     ]
   },
+  "1590563221": {
+    "trackId": 1590563221,
+    "trackName": "Meets Link",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793465552889,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1590622755": {
     "trackId": 1590622755,
     "trackName": "µBrowser: Watch Web Browser",
@@ -367170,11 +367212,17 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1793465552889,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793447082298,
           "price": 2.99,

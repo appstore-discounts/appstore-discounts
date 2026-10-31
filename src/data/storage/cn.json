@@ -76236,6 +76236,14 @@
     "history": [
       [
         {
+          "timestamp": 1793465552889,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -112643,6 +112651,18 @@
     "history": [
       [
         {
+          "timestamp": 1793465552889,
+          "price": 10,
+          "formattedPrice": "¥10.00",
+          "inAppPurchases": {
+            "伟大的统治": "¥12.00",
+            "邪恶病房": "¥18.00",
+            "异象号": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791987672821,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -133991,6 +134011,21 @@
     "history": [
       [
         {
+          "timestamp": 1793465552889,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥8.00",
+            "解锁《王后与海》DLC": "¥8.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00",
+            "解锁《新一路向海》DLC捆绑包": "¥34.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -140381,6 +140416,14 @@
       "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793465552889,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791987672821,
@@ -148827,6 +148870,27 @@
             "购买钻石198元": "¥198.00",
             "60鑽石": "¥8.00"
           }
+        }
+      ]
+    ]
+  },
+  "1590563221": {
+    "name": "Meets Link",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793465552889,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -167557,6 +167621,14 @@
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793465552889,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -238420,6 +238492,14 @@
     "history": [
       [
         {
+          "timestamp": 1793465552889,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793447082298,
           "price": 78,
           "formattedPrice": "¥78.00",
@@ -238719,10 +238799,18 @@
       "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793465552889,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793447082298,

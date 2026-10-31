@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1159700098,
+    "region": "mo",
+    "timestamp": 1793465552889,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1159700098",
+    "trackName": "去月球-To the Moon",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1619867109,
+    "region": "mo",
+    "timestamp": 1793465552889,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1619867109",
+    "trackName": "尋找天堂",
+    "firstRecordedAt": 1754960505653
+  },
+  {
+    "trackId": 6824686276,
+    "region": "mo",
+    "timestamp": 1793465552889,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793447082298
+  },
+  {
     "trackId": 6762582312,
     "region": "mo",
     "timestamp": 1793447082298,

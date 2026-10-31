@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6811690345,
+    "region": "tr",
+    "timestamp": 1793465552889,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺9,99",
+        "to": "₺4,99",
+        "range": "[₺2,99 ~ ₺9,99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "₺4,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6811690345",
+    "trackName": "Kokoreççi",
+    "firstRecordedAt": 1790526512684
+  },
+  {
+    "trackId": 6824686276,
+    "region": "tr",
+    "timestamp": 1793465552889,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793447082298
+  },
+  {
     "trackId": 1620202676,
     "region": "tr",
     "timestamp": 1793420190024,
