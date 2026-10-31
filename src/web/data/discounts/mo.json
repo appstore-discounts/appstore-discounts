@@ -1,30 +1,23 @@
 [
   {
-    "trackId": 6740698426,
+    "trackId": 6762582312,
     "region": "mo",
-    "timestamp": 1793420190024,
+    "timestamp": 1793447082298,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "New Clan",
-        "from": "USD 19.99",
-        "to": "USD 4.99",
-        "range": "[USD 4.99 ~ USD 19.99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "New Hero",
-        "from": "USD 9.99",
-        "to": "USD 2.99",
-        "range": "[USD 2.99 ~ USD 9.99]"
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.29",
+        "to": "免費",
+        "range": "[免費 ~ USD 4.99]"
       }
     ],
-    "price": 2.99,
-    "formattedPrice": "USD 2.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id6740698426",
-    "trackName": "Empires Game",
-    "firstRecordedAt": 1768538736603
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6762582312",
+    "trackName": "破軍：三國 - RTS+MOBA策略手遊",
+    "firstRecordedAt": 1783756500773
   },
   {
     "trackId": 1620202676,

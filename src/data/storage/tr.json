@@ -22182,6 +22182,25 @@
     "history": [
       [
         {
+          "timestamp": 1793447082298,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Synth Lead": "₺99,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Technocraft": "₺99,99",
+            "Voices": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Essential Strings": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Ferrous Mobile": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793353134370,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -105200,6 +105219,27 @@
           "timestamp": 1745453324134,
           "price": 39.99,
           "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1110376793": {
+    "name": "VOI - puzzle game",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793447082298,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]
@@ -300180,6 +300220,27 @@
           "timestamp": 1793420190024,
           "price": 999.99,
           "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6824686276": {
+    "name": "Wider - Fullscreen Browsing",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793447082298,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]

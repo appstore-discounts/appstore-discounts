@@ -241118,6 +241118,12 @@
     "history": [
       [
         {
+          "timestamp": 1793447082298,
+          "price": 78,
+          "formattedPrice": "¥78.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793382301850,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -241421,6 +241427,29 @@
           "timestamp": 1793420190024,
           "price": 148,
           "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6824686276": {
+    "trackId": 6824686276,
+    "trackName": "Wider - Fullscreen Browsing",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793447082298,
+          "price": 22,
+          "formattedPrice": "¥22.00",
           "inAppPurchases": {}
         }
       ]

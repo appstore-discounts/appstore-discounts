@@ -6750,7 +6750,7 @@
   {
     "trackId": 954724812,
     "region": "tw",
-    "timestamp": 1793160762894,
+    "timestamp": 1793447082298,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -8663,6 +8663,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1108935309",
     "trackName": "20 Watch Games - Classic Pack",
     "firstRecordedAt": 1745453324134
+  },
+  {
+    "trackId": 1110376793,
+    "region": "tw",
+    "timestamp": 1793447082298,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1110376793",
+    "trackName": "VOI - puzzle game",
+    "firstRecordedAt": 1793447082298
   },
   {
     "trackId": 1111420122,
@@ -25645,10 +25657,10 @@
   {
     "trackId": 6762582312,
     "region": "tw",
-    "timestamp": 1789010266489,
+    "timestamp": 1793447082298,
     "discounts": [],
-    "price": 10,
-    "formattedPrice": "$10.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6762582312",
     "trackName": "破軍：三國 - RTS+MOBA策略手遊",
@@ -27075,10 +27087,10 @@
   {
     "trackId": 6819720065,
     "region": "tw",
-    "timestamp": 1793382301850,
+    "timestamp": 1793447082298,
     "discounts": [],
-    "price": 490,
-    "formattedPrice": "$490.00",
+    "price": 320,
+    "formattedPrice": "$320.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6819720065",
     "trackName": "P's Pocket",
@@ -27119,5 +27131,17 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6822194774",
     "trackName": "TypeDraw",
     "firstRecordedAt": 1793160762894
+  },
+  {
+    "trackId": 6824686276,
+    "region": "tw",
+    "timestamp": 1793447082298,
+    "discounts": [],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793447082298
   }
 ]
