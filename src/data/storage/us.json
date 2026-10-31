@@ -14966,14 +14966,22 @@
   "356994010": {
     "name": "Le Conjugueur",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -88620,6 +88628,23 @@
     "history": [
       [
         {
+          "timestamp": 1793480512067,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "$0.99",
+            "Free Checkpoints": "$0.99",
+            "Atom": "$0.99",
+            "Chloe": "$0.99",
+            "B.I.G.": "$0.99",
+            "Snake": "$0.99",
+            "Tiger": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Emo": "$0.99",
+            "Mia": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793465552889,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -128400,6 +128425,25 @@
       "Wagon of Gems": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Buy 100 Gems": "$0.99",
+            "Fistful of Gems": "$4.99",
+            "Pouch of Gems": "$9.99",
+            "A Chest of Gems": "$49.99",
+            "Wagon of Gems": "$99.99",
+            "A Large Bag of Gems": "$19.99",
+            "Double Bonus": "$1.99",
+            "Boxer Big Deal Pack": "$1.99",
+            "Genius Big Deal Pack": "$1.99",
+            "Double backpack slots": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786682840855,
@@ -338982,6 +339026,12 @@
     "history": [
       [
         {
+          "timestamp": 1793480512067,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793420190024,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -356016,6 +356066,14 @@
     "history": [
       [
         {
+          "timestamp": 1793480512067,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792942623004,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -362758,11 +362816,17 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
       [
+        {
+          "timestamp": 1793480512067,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793465552889,
           "price": 1.99,

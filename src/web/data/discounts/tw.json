@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1140451547,
+    "region": "tw",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$190.00",
+        "to": "免費",
+        "range": "[免費 ~ $390.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1140451547",
+    "trackName": "Shot Tracer",
+    "firstRecordedAt": 1754835087428
+  },
+  {
+    "trackId": 6752503669,
+    "region": "tw",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[免費 ~ $190.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6752503669",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
+    "firstRecordedAt": 1758269785305
+  },
+  {
+    "trackId": 6824686276,
+    "region": "tw",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793447082298
+  },
+  {
     "trackId": 1159700098,
     "region": "tw",
     "timestamp": 1793465552889,
@@ -38,26 +98,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1619867109",
     "trackName": "尋找天堂",
     "firstRecordedAt": 1754960505653
-  },
-  {
-    "trackId": 6824686276,
-    "region": "tw",
-    "timestamp": 1793465552889,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$90.00",
-        "to": "$60.00",
-        "range": "[$60.00 ~ $90.00]"
-      }
-    ],
-    "price": 60,
-    "formattedPrice": "$60.00",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id6824686276",
-    "trackName": "Wider - Fullscreen Browsing",
-    "firstRecordedAt": 1793447082298
   },
   {
     "trackId": 6762582312,
@@ -20645,7 +20685,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -20991,7 +21031,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -23067,7 +23107,7 @@
         "name": "Price",
         "from": "$390.00",
         "to": "$190.00",
-        "range": "[$190.00 ~ $390.00]"
+        "range": "[免費 ~ $390.00]"
       }
     ],
     "price": 190,
@@ -24857,7 +24897,7 @@
     "formattedPrice": "$150.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -26181,7 +26221,7 @@
     "formattedPrice": "$90.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -28522,7 +28562,7 @@
     "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {

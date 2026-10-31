@@ -5353,14 +5353,22 @@
   "356994010": {
     "name": "Le Conjugueur",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -111425,7 +111433,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Golden Hour Tracker",
+    "name": "Solar Arc: Hora Dourada",
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
@@ -111437,6 +111445,14 @@
       "Solar Arc Pro": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793397478286,
@@ -146030,6 +146046,14 @@
     "history": [
       [
         {
+          "timestamp": 1793480512067,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792942623004,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -152087,11 +152111,17 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
       [
+        {
+          "timestamp": 1793480512067,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793465552889,
           "price": 1.99,

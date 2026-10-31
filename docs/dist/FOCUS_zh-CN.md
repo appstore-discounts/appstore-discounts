@@ -1015,7 +1015,7 @@
 |1391|6474672665|自动|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|自动|MyScoreTracker 桌游计分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker: Board Games|MyScoreTracker: Board Games|MyScoreTracker Pontuação|
 |1389|513370441|自动|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|
-|1388|6752503669|自动|Solar Arc: 黄金时刻 日出日落|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
+|1388|6752503669|自动|Solar Arc: 黄金时刻 日出日落|Solar Arc: 黃金時刻 日出日落|Solar Arc: 黃金時刻 日出日落|Solar Arc: 黃金時刻 日出日落|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Hora Dourada|
 |1387|1148617550|自动|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|自动|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
 |1385|1484024784|自动|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|

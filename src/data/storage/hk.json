@@ -10796,14 +10796,22 @@
   "356994010": {
     "name": "Le Conjugueur",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -112935,8 +112943,8 @@
       "Live Tracer & Video Editor HalfYear": "HK$ 288.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Map Subscription": "HK$ 18.00",
       "Map Tracer Pro Annual Sub": "HK$ 488.00",
       "Map Tracer Pro Half-Year Sub": "HK$ 288.00",
@@ -112949,6 +112957,19 @@
       "Live Tracer & Video Editor HalfYear": "HK$ 288.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Map Subscription": "HK$ 18.00",
+            "Live Tracer & Video Editor Monthly": "HK$ 88.00",
+            "Live Tracer & Video Editor Annual": "HK$ 488.00",
+            "Live Tracer & Video Editor HalfYear": "HK$ 288.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778529438834,
@@ -288766,7 +288787,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Golden Hour Tracker",
+    "name": "Solar Arc: 黃金時刻 日出日落",
     "maxPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
@@ -288778,6 +288799,14 @@
       "Solar Arc Pro": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793397478286,
@@ -302791,6 +302820,14 @@
     "history": [
       [
         {
+          "timestamp": 1793480512067,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792942623004,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -309788,11 +309825,17 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
       [
+        {
+          "timestamp": 1793480512067,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793465552889,
           "price": 18,

@@ -1,19 +1,39 @@
 [
   {
+    "trackId": 6752503669,
+    "region": "pt",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[Gratuito ~ 6,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
+    "trackName": "Solar Arc: Hora Dourada",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6824686276,
     "region": "pt",
-    "timestamp": 1793465552889,
+    "timestamp": 1793480512067,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
         "from": "2,99 €",
-        "to": "1,99 €",
-        "range": "[1,99 € ~ 2,99 €]"
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
       }
     ],
-    "price": 1.99,
-    "formattedPrice": "1,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
@@ -19782,7 +19802,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: Hora Dourada",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -20322,7 +20342,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: Hora Dourada",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -24266,7 +24286,7 @@
     "formattedPrice": "5,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: Hora Dourada",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -25427,7 +25447,7 @@
     "formattedPrice": "2,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: Hora Dourada",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -27735,7 +27755,7 @@
     "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: Hora Dourada",
     "firstRecordedAt": 1761797674362
   },
   {

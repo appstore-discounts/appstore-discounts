@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1140451547,
+    "region": "hk",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 48.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 98.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1140451547",
+    "trackName": "Shot Tracer",
+    "firstRecordedAt": 1754835087428
+  },
+  {
+    "trackId": 6752503669,
+    "region": "hk",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 32.00",
+        "range": "[免費 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6752503669",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
+    "firstRecordedAt": 1758269785305
+  },
+  {
+    "trackId": 6824686276,
+    "region": "hk",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793447082298
+  },
+  {
     "trackId": 1159700098,
     "region": "hk",
     "timestamp": 1793465552889,
@@ -38,26 +98,6 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id1619867109",
     "trackName": "尋找天堂",
     "firstRecordedAt": 1754960505653
-  },
-  {
-    "trackId": 6824686276,
-    "region": "hk",
-    "timestamp": 1793465552889,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "HK$ 22.00",
-        "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 22.00]"
-      }
-    ],
-    "price": 18,
-    "formattedPrice": "HK$ 18.00",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id6824686276",
-    "trackName": "Wider - Fullscreen Browsing",
-    "firstRecordedAt": 1793447082298
   },
   {
     "trackId": 1620202676,
@@ -20213,7 +20253,7 @@
     "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -20559,7 +20599,7 @@
     "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -22671,7 +22711,7 @@
         "name": "Price",
         "from": "HK$ 98.00",
         "to": "HK$ 48.00",
-        "range": "[HK$ 48.00 ~ HK$ 98.00]"
+        "range": "[免費 ~ HK$ 98.00]"
       }
     ],
     "price": 48,
@@ -24441,7 +24481,7 @@
     "formattedPrice": "HK$ 38.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -25824,7 +25864,7 @@
     "formattedPrice": "HK$ 22.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -28138,7 +28178,7 @@
     "formattedPrice": "HK$ 32.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6752503669",
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "firstRecordedAt": 1758269785305
   },
   {

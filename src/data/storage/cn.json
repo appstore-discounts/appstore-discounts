@@ -9100,14 +9100,22 @@
   "356994010": {
     "name": "Le Conjugueur",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -24233,15 +24241,26 @@
       "price": 28,
       "formattedPrice": "¥28.00",
       "Premium": "¥283.00",
-      "Fitness Buddy Premium": "¥198.00"
+      "Fitness Buddy Premium": "¥298.00"
     },
     "minPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00",
-      "Premium": "¥143.00",
+      "Premium": "¥68.00",
       "Fitness Buddy Premium": "¥198.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Fitness Buddy Premium": "¥298.00",
+            "Premium": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791025831979,
@@ -74441,8 +74460,8 @@
       "Live Tracer & Video Editor HalfYear": "¥228.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "Map Subscription": "¥15.00",
       "Map Tracer Pro Annual Sub": "¥398.00",
       "Map Tracer Pro Half-Year Sub": "¥228.00",
@@ -74455,6 +74474,19 @@
       "Live Tracer & Video Editor HalfYear": "¥228.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793480512067,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Map Subscription": "¥15.00",
+            "Live Tracer & Video Editor Monthly": "¥68.00",
+            "Live Tracer & Video Editor Annual": "¥398.00",
+            "Live Tracer & Video Editor HalfYear": "¥228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778529438834,
@@ -211283,6 +211315,14 @@
     "history": [
       [
         {
+          "timestamp": 1793480512067,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793397478286,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -238799,11 +238839,17 @@
       "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
       [
+        {
+          "timestamp": 1793480512067,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793465552889,
           "price": 15,

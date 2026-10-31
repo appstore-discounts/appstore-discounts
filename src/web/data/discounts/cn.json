@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 443646748,
+    "region": "cn",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "¥143.00",
+        "to": "¥68.00",
+        "range": "[¥68.00 ~ ¥283.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id443646748",
+    "trackName": "健身伙伴+：健身房锻炼",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 1140451547,
+    "region": "cn",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥88.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1140451547",
+    "trackName": "Shot Tracer",
+    "firstRecordedAt": 1754835087428
+  },
+  {
+    "trackId": 6752503669,
+    "region": "cn",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[免费 ~ ¥38.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6752503669",
+    "trackName": "Solar Arc: 黄金时刻 日出日落",
+    "firstRecordedAt": 1758269785305
+  },
+  {
+    "trackId": 6824686276,
+    "region": "cn",
+    "timestamp": 1793480512067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793447082298
+  },
+  {
     "trackId": 1159700098,
     "region": "cn",
     "timestamp": 1793465552889,
@@ -78,26 +158,6 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6450877530",
     "trackName": "花园之间",
     "firstRecordedAt": 1721960142187
-  },
-  {
-    "trackId": 6824686276,
-    "region": "cn",
-    "timestamp": 1793465552889,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "¥22.00",
-        "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥22.00]"
-      }
-    ],
-    "price": 15,
-    "formattedPrice": "¥15.00",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id6824686276",
-    "trackName": "Wider - Fullscreen Browsing",
-    "firstRecordedAt": 1793447082298
   },
   {
     "trackId": 6803329435,
@@ -2962,7 +3022,7 @@
         "name": "Premium",
         "from": "¥283.00",
         "to": "¥143.00",
-        "range": "[¥143.00 ~ ¥283.00]"
+        "range": "[¥68.00 ~ ¥283.00]"
       }
     ],
     "price": 28,
@@ -12394,7 +12454,7 @@
         "name": "Price",
         "from": "¥88.00",
         "to": "¥38.00",
-        "range": "[¥38.00 ~ ¥88.00]"
+        "range": "[免费 ~ ¥88.00]"
       }
     ],
     "price": 38,
