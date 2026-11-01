@@ -1,23 +1,43 @@
 [
   {
-    "trackId": 443646748,
+    "trackId": 1587301632,
     "region": "cn",
-    "timestamp": 1793480512067,
+    "timestamp": 1793507830430,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Premium",
-        "from": "¥143.00",
-        "to": "¥68.00",
-        "range": "[¥68.00 ~ ¥283.00]"
+        "type": "price",
+        "name": "Price",
+        "from": "¥28.00",
+        "to": "¥1.00",
+        "range": "[免费 ~ ¥28.00]"
       }
     ],
-    "price": 28,
-    "formattedPrice": "¥28.00",
+    "price": 1,
+    "formattedPrice": "¥1.00",
     "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id443646748",
-    "trackName": "健身伙伴+：健身房锻炼",
-    "firstRecordedAt": 1788900351663
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1587301632",
+    "trackName": "全能记(录音,备忘,流水)",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6824686276,
+    "region": "cn",
+    "timestamp": 1793507830430,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "¥15.00",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793447082298
   },
   {
     "trackId": 1140451547,
@@ -58,26 +78,6 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6752503669",
     "trackName": "Solar Arc: 黄金时刻 日出日落",
     "firstRecordedAt": 1758269785305
-  },
-  {
-    "trackId": 6824686276,
-    "region": "cn",
-    "timestamp": 1793480512067,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "¥22.00",
-        "to": "免费",
-        "range": "[免费 ~ ¥22.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免费",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id6824686276",
-    "trackName": "Wider - Fullscreen Browsing",
-    "firstRecordedAt": 1793447082298
   },
   {
     "trackId": 1159700098,

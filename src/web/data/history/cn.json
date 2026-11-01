@@ -24530,6 +24530,15 @@
     "history": [
       [
         {
+          "timestamp": 1793507830430,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Premium": "¥283.00",
+            "Fitness Buddy Premium": "¥198.00"
+          }
+        },
+        {
           "timestamp": 1793480512067,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -148157,6 +148166,14 @@
     "history": [
       [
         {
+          "timestamp": 1793507830430,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792687312470,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -241568,6 +241585,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793507830430,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793480512067,
           "price": 0,
