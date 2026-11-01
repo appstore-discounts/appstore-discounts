@@ -47883,6 +47883,14 @@
     "history": [
       [
         {
+          "timestamp": 1793560949290,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792959935177,
           "price": 58,
           "formattedPrice": "¥58.00",
@@ -237103,6 +237111,25 @@
     "history": [
       [
         {
+          "timestamp": 1793560949290,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "宝物编辑器": "¥6.00",
+            "美术升级包": "¥28.00",
+            "群英荟": "¥28.00",
+            "苍天之志": "¥18.00",
+            "汉末地图重制版": "¥18.00",
+            "出类拔萃": "¥28.00",
+            "英雄的黎明": "¥28.00",
+            "大明：远洋宏图": "¥23.00",
+            "山河归一": "¥28.00",
+            "华夏九州-水浒英雄传": "¥25.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793382301850,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -240589,14 +240616,22 @@
     "trackName": "上次是什么时候 - 家务·保养记录",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793560949290,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790284283691,
@@ -241584,6 +241619,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793560949290,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793537031223,

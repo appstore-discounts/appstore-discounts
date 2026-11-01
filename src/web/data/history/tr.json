@@ -85176,7 +85176,10 @@
       "Ultra Punch 10": "₺99,99",
       "Magnetic Stars Unlimited": "₺799,99",
       "Magnetic Stars 20": "₺99,99",
-      "Magnetic Stars 10": "₺49,99"
+      "Magnetic Stars 10": "₺49,99",
+      "Unlock Strawberry Candy": "₺99,99",
+      "Unlock Chocolate Candy": "₺99,99",
+      "Unlock Mint Candy": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
@@ -85191,9 +85194,31 @@
       "Ultra Punch 10": "₺99,99",
       "Magnetic Stars Unlimited": "₺799,99",
       "Magnetic Stars 20": "₺99,99",
-      "Magnetic Stars 10": "₺49,99"
+      "Magnetic Stars 10": "₺49,99",
+      "Unlock Strawberry Candy": "₺99,99",
+      "Unlock Chocolate Candy": "₺99,99",
+      "Unlock Mint Candy": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793560949290,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Unlock Strawberry Candy": "₺99,99",
+            "Unlock Chocolate Candy": "₺99,99",
+            "Unlock Mint Candy": "₺99,99",
+            "Unlock Rolly Coin": "₺49,99",
+            "Unlock Rollf Coin": "₺99,99",
+            "Unlock Rollman Coin": "₺99,99",
+            "Magnetic Stars 10": "₺49,99",
+            "Magnetic Stars 20": "₺99,99",
+            "Magnetic Stars Unlimited": "₺799,99",
+            "Ultra Punch 10": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781105652722,
@@ -301778,6 +301803,25 @@
     "history": [
       [
         {
+          "timestamp": 1793560949290,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Support Tier 2 · Patron": "₺99,99",
+            "Hero · Mukran": "₺49,99",
+            "Theme Pack · Halvren": "₺49,99",
+            "Support Tier 3 · Benefactor": "₺399,99",
+            "Hero · Aldric Halvren": "₺49,99",
+            "Support Tier 1 · Supporter": "₺29,99",
+            "Hero · Irena von Strahl": "₺49,99",
+            "Hero · Fine Kaltenbach": "₺49,99",
+            "Hero · Sargul Krach": "₺49,99",
+            "Hero · Rosel Ironbloom": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793320661339,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -303181,14 +303225,22 @@
     "trackName": "When'd I",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793560949290,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790284283691,
@@ -304933,6 +304985,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793560949290,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793537031223,
           "price": 149.99,

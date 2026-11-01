@@ -277744,6 +277744,25 @@
     "history": [
       [
         {
+          "timestamp": 1793560949290,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "五子良將": "$5.99",
+            "自創武將": "$2.99",
+            "無雙戰神": "$5.99",
+            "鎮海神威": "$2.99",
+            "斜谷殘陽": "$5.99",
+            "月下追魂": "$5.99",
+            "群雄爭霸": "$2.99",
+            "公路霸業": "$2.99",
+            "自創地圖": "$3.99",
+            "重振漢室": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793420190024,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -365897,14 +365916,22 @@
     "trackName": "When'd I",
     "region": "us",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793560949290,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790284283691,
@@ -367597,6 +367624,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793560949290,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793537031223,
           "price": 2.99,

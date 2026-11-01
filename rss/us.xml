@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-01T06:18:10.273Z</updated>
+    <updated>2026-11-01T20:57:04.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T06:18:10.273Z</updated>
+        <updated>2026-11-01T20:57:04.191Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 01 Nov 2026 06:18:10 GMT</id>
+        <id>rankingusSun, 01 Nov 2026 20:57:04 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T06:18:10.273Z</updated>
+        <updated>2026-11-01T20:57:04.191Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -149,6 +149,23 @@ feedId:157008699750812672+userId:73658201673997312
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1619867109?lang=en">Finding Paradise</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">Wider - Fullscreen Browsing</a>
       </td>
       <td>
         <ul>
@@ -984,6 +1001,28 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wider - Fullscreen Browsing]]></title>
+        <id>Wider - Fullscreen Browsing-us-1793560949290</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en"/>
+        <updated>2026-11-01T19:22:29.290Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/90/c9/cb90c9e5-e22b-7529-166d-81c9853a599a/AppIcon-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>
+  If you want to use the full width of your iPhone Duo's external screen in Safari, use Wider. It's a simple extension that lets you quickly toggle websites into full width mode. 
+
+Use the Wider toggle button in the right navbar to quickly toggle between normal an Wider mode.
+
+Wider doesn't work on every website. If a website doesn't work as expected, you can report it through the app and I'll try to improve compatibility.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2f/cf/972fcf27-e6cc-60f9-ce21-7ebebdbc59ab/Frame_14.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/00/02/4300026c-f626-76de-2b65-1f5a393dda41/Frame_15.png/320x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Finding Paradise]]></title>
         <id>Finding Paradise-us-1793507830430</id>
         <link href="https://appstore-discounts.eyelly.me/us/1619867109?lang=en"/>
@@ -1722,298 +1761,5 @@ http://www.psdc.com.tw
 DISCLAIMER NOTICE
 Goodak is provided as Goodak Studio own product. this app is not the official app of Kodak and Fuji or any others. Goodak made every effort to ensure not to infringe other's copyrights or trademarks.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/72/7d/e1727d7b-2dc6-1d43-51b9-28de209d15cd/mzl.uaudkfnw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/0f/0c/da0f0cb6-9071-5e7c-1a1f-4ae42bdd1c11/mzl.tnvgrvvz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/da/5c/89da5c30-8802-df12-d633-1837ba29813f/mzl.zflmcguf.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/77/c5/af77c577-7e9f-ee4f-74a1-f62d119a8f8b/mzl.wrrlcrce.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/1e/d4/221ed4bb-75f6-202c-cb8c-9dcdf0e1c2fc/mzl.grotjgtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ce/f5/55cef5d2-3354-b366-f691-80c40df804d4/mzl.iwvgubsv.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaiju Attack 2]]></title>
-        <id>Kaiju Attack 2-us-1793297052912</id>
-        <link href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en"/>
-        <updated>2026-10-29T18:04:12.912Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/12/6e/9c126eb5-7cbf-30c0-c7b4-42923ace6c23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  To wash away the shame of defeat two years ago, Chaos has gathered an alien coalition, attacking Earth once more, citing humanity's sins as justification.
-Even the once-defending superhero now turns against us. As the commander, how will you resolve this crisis? What lies ahead for humanity and Earth?
-
-Game Intro
-Kaiju Attack 2, the sequel to our critically acclaimed title released two years ago, builds upon the strengths of the first installment while addressing its shortcomings. We've introduced numerous new features and enhancements, including:
-- Faster-paced and more intense gameplay.
-- Introduction of currency tiles alongside the existing three types.
-- Ability to deploy multiple types of secret weapons simultaneously.
-- Nine new alien bosses with smarter, more cunning behavior AI for increased challenge.
-- Eight new secret weapons, including super robots capable of splitting into three separate units and combining.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akinator VIP]]></title>
-        <id>Akinator VIP-us-1793265912561</id>
-        <link href="https://appstore-discounts.eyelly.me/us/484090401?lang=en"/>
-        <updated>2026-10-29T09:25:12.561Z</updated>
-        <summary type="html"><![CDATA[Pack 15 credits: $1.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/484090401?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ac/e4/c7ace4f2-5085-3db2-1103-70e7e8943b1e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Pack 15 credits：</strong><span>$1.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $1.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$3.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    11,250 Geniz：<b>$0.99</b>
-  </li><li>
-    115,000 Geniz (58,750 FREE)：<b>$4.99</b>
-  </li><li>
-    30,000 Geniz (7,500 FREE)：<b>$1.99</b>
-  </li><li>
-    Pack 15 credits：<b>$0.99</b>
-  </li><li>
-    50,000 Geniz (16,250 FREE)：<b>$2.99</b>
-  </li><li>
-    Pack 10 credits：<b>$0.99</b>
-  </li><li>
-    80,000 Geniz (35,000 FREE)：<b>$3.99</b>
-  </li><li>
-    Pack 65 credits：<b>$5.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Akinator can read your mind just like magic and tell you what character you are thinking of, just by asking a few questions. Think of a real or fictional character and Akinator will try to guess who it is.
-Will you dare challenge the genie? And what about other themes like movies, animals…?
- 
-###NEW###
-ENJOY A NEW EXPERIENCE!
-Discover a redesigned genie with new emotions and fully animated.
-
-3 ADDITIONAL THEMES BESIDES THE CHARACTERS
-Akinator is getting stronger and stronger... The genie has increased his knowledge, and now you have the opportunity to also challenge him on movies, animals and objects!
-Will you manage to defeat Akinator?
- 
-GO IN SEARCH FOR AKI AWARDS
-The blue Genie invites you to think outside the box. As you know, he likes to guess characters and to take on difficult challenges. To do that, make him guess forgotten characters who have not been played for a very long time and you may win the best Aki Awards.
- 
-BE THE BEST PLAYER
-Challenge the other players on the leaderboards to prove who the best is. You may write your name on the Last Super Awards board or on the Hall of Fame.
- 
-KEEP ON GUESSING
-Each day, try to find the 5 mysterious characters and win some additional and specific Aki Awards. Complete the full Daily Challenge and earn the Gold Daily Challenge Aki Award, one of the most prestigious Aki Awards.
-
-KEEP TRACK OF YOUR ACHIEVEMENTS
-Akinator lets you create your own user account. It will record the Aki Awards you've won and your Genizs' balance. They will follow you everywhere now, even if you change your mobile device. 
-
-Main features:
--17 languages (French, English, Spanish, Portuguese, German, Japanese, Arabic, Russian, Italian, Chinese, Turkish, Korean, Hebrew, Polish, Indonesian, Vietnamese and Dutch)
--Get 3 additional themes: Movies, Animals and Objects
--Aki Awards Board to get an overview of your collection
--Hall of Fame with both current and previous ranking
--Last super awards for Black, Platinum and Gold Aki Awards
--Daily Challenges Board
--Add magic by proposing a photo or some questions
--The sensitive content filter 
- 
----------------------------
-Follow Akinator on:
-Facebook @officialakinator
-Twitter @akinator_team
-Instagram @akinatorgenieapp
----------------------------
- 
-Genie’s tips:
--Akinator requires an Internet connection to use his magic lamp. Turn on Wifi or be sure to have a data plan.
--Don’t forget to scroll down the list to find and select your language
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/61/33/35613388-4fd3-bb5e-8aec-ea8ecf07af30/001_Akin000_Ator_V9_EN_iPhone6_U002c9_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/92/a6/b792a668-4ddc-0b34-45d9-f5e12dd3d9f8/002_Akin000_Ator_V9_EN_iPhone6_U002c9_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b8/93/14b89313-f3e1-623f-8155-4e82a2b11dbe/003_Akin000_Ator_V9_EN_iPhone6_U002c9_03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/5c/71/055c71bc-61f3-b992-f597-7440465ce8be/004_Akin000_Ator_V9_EN_iPhone6_U002c9_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/79/fd/e079fdc2-3f06-23c4-0166-58ee57e086a6/006_Akin000_Ator_V9_EN_iPhone6_U002c9_06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/b1/c6/84b1c6dc-8590-08d3-770a-6bae4c39ab05/005_Akin000_Ator_V9_EN_iPhone6_U002c9_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/c7/72/43c77260-cc60-2942-8c26-4bd0587fe31d/007_Akin000_Ator_V9_EN_iPhone6_U002c9_07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/70/9b/bb709b75-e8da-a18c-ce2c-0e67ad3d6311/009_Akin000_Ator_V9_EN_iPhone6_U002c9_09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/96/77/d696774f-2aff-4312-27ac-e4ff68d71b76/010_Akin000_Ator_V9_EN_iPhone6_U002c9_010.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/7d/d8/dd7dd808-6dfd-b835-e9e3-0cfde156368b/008_Akin000_Ator_V9_EN_iPhone6_U002c9_08.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/3b/5f/953b5f05-9482-41d2-58e3-42ba525fe4ac/Akinator_V9_EN_iPad13_U0027_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/4d/7a/ee4d7a2d-81ad-05e3-5be6-27a4c4d5fc62/Akinator_V9_EN_iPad13_U0027_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/ff/76/3eff76da-9bd4-c754-48fe-ea87aa59355d/Akinator_V9_EN_iPad13_U0027_03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/34/ae/1734aed6-12b9-e06e-706f-3b5e9a04cfd4/Akinator_V9_EN_iPad13_U0027_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/5b/9c/a45b9c62-0bdb-d715-c9b0-5f609c19c0a6/Akinator_V9_EN_iPad13_U0027_06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/2c/6c/ad2c6c92-17eb-aae5-49fe-85253a7a2d34/Akinator_V9_EN_iPad13_U0027_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/9e/20/969e2033-29f4-e2b2-23c5-394eb06c3a6c/Akinator_V9_EN_iPad13_U0027_07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/2e/f4/6b2ef47d-2118-79fd-447f-165a42f5f4ee/Akinator_V9_EN_iPad13_U0027_09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/65/d1/bc65d1d4-5035-25da-e467-b8391cfb077d/Akinator_V9_EN_iPad13_U0027_08.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/e0/18/b2e018cc-d517-7e49-a298-62e920205e60/Akinator_V9_EN_iPad13_U0027_010.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endling]]></title>
-        <id>Endling-us-1793265912561</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1625083646?lang=en"/>
-        <updated>2026-10-29T09:25:12.561Z</updated>
-        <summary type="html"><![CDATA[Price: $10.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1625083646?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/19/84/e91984af-9c50-571f-c668-85d8801e715f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$10.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$0.29 ~ $10.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  Will a mother fox manage to keep its little cubs alive?
-
-Experience a world ravaged by mankind through the eyes of the last fox on Earth in this eco-conscious adventure.
-
-Discover the destructive force of the human race, as it corrupts, pollutes, and exploits the most precious and valuable resources of the natural environment day by day. 
-
-Explore various 3D side-scrolling areas and defend your tiny furballs, feed them, watch them grow up, notice their unique personalities and fears, and most importantly, help them to survive.
-
-Use the cover of the night to stealthily guide your litter toward a safer place. Spend the day resting in an improvised shelter and plan your next move carefully since it could be the last for you and your cubs.
-
-Features:
-
-• Explore devastated environments based on real current issues.
-• Hunt other animals to feed your cubs and avoid becoming prey.
-• Put your survival instinct to the test and get involved in emotionally taxing decisions.
-• Find new lairs to be safe from natural and unnatural threats
-• Care for your cubs, feed them and teach them new skills to make them less vulnerable. 
-• Survive!
-
-© www.handy-games.com GmbH
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/e0/1f/bc/e01fbcd4-dc61-0e17-0495-e3e2f187701c/a267dffe-6dc2-4a60-bb83-cedec0ad4769_Screenshot_UI_06_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/f2/54/a2/f254a282-1792-9302-c5fb-9cccba76e97b/da125542-ade3-4f36-b0d5-24b6078fb9b8_Screenshot_UI_07_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/ff/14/d7/ff14d7c1-76f7-23ef-533d-3a09182e1862/c7154126-aea6-4b95-9415-6a3b009906f9_Screenshot_UI_01_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/67/99/c9/6799c9a6-e66f-912d-920f-faa783ede318/aca56d47-5ec1-427d-bc5a-efe50d2367b7_Screenshot_UI_02_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/6f/dd/05/6fdd0511-ea23-5ee2-ddc6-2e3230984613/d8825297-1e01-4d87-a9d3-3b5e2cc8bd78_Screenshot_UI_03_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/74/5d/95/745d9500-0eb3-f687-42f5-8024e79f45ba/391fd468-2668-444b-b547-c78f68ac8432_Screenshot_UI_04_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/e7/2c/be/e72cbe07-d6a6-8c2c-d5fc-17c3ab0b5162/3e0964f0-3db7-4a91-9ed0-6a686fa0281f_Screenshot_UI_05_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/41/03/7d/41037d56-717c-c1d4-aec1-18e1f9f7bdef/d3fb2887-b253-4e17-9c57-80ca777ed4f6_Screenshot_UI_01_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/8c/3b/b5/8c3bb5eb-bad0-ce3f-4998-d1bb3f294d3b/ee805f75-2ce7-428d-81f6-0d5d97d00f0f_Screenshot_UI_02_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/b5/8a/de/b58adec0-f81b-50c8-2302-a5f5b651d5c5/070d6355-fadc-4bcc-8641-82f8385d1d3c_Screenshot_UI_03_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/c9/15/bb/c915bb76-6eeb-0b46-af01-c46e99154abc/edd16db5-3962-46f2-8d5e-2361d0f9152d_Screenshot_UI_04_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/c0/af/7b/c0af7b7f-dd64-618d-808e-f01f2726ee30/f4df1050-1053-4a1e-b9ab-adfc29b5f7a7_Screenshot_UI_05_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/a0/5b/78/a05b78d3-b7df-0a40-0f6a-7cabb12002f5/439ba2b4-b67c-4cf9-9abd-fba9e5b6c1ce_Screenshot_UI_06_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/09/21/b7/0921b779-cd48-6135-a6bf-6328c9e1685e/1479da9d-8efb-4018-bccb-53e70525c2f1_Screenshot_UI_07_2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bendy and the Ink Machine]]></title>
-        <id>Bendy and the Ink Machine-us-1793265912561</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1437669537?lang=en"/>
-        <updated>2026-10-29T09:25:12.561Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1437669537?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/19/97/e31997d2-a073-bbc8-179f-c7ef2019a322/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  Henry was the lead animator at Joey Drew Studios in its 1930s heyday, a studio that was best known for producing animated cartoons of their most popular and beloved character, Bendy. Many years later Henry receives a mysterious invitation from Joey Drew himself to return to the old cartoon workshop. Journey deep into the sketchy madness of this twisted cartoon nightmare. 
-
-Fight the darkness. Escape the Ink Demon. Fear the Machine.
-
-• Varied Game Play! - First person combat, horror, puzzles, stealth and numerous hidden secrets.
-• A Beautiful Cartoon World! - Lovingly crafted by a small indie studio.
-• A Global Bendy Community! - Delve deep into the mystery and join the discussion at joeydrewstudios.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/16/3c/5a163c5f-94f5-4d39-027e-f71721451398/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/6a/eb/986aebbc-2e61-7689-43c0-7ef853ce608b/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b9/dc/ffb9dce8-4e35-f8a9-74f4-e8ed9b1dad71/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/4e/15/8c4e1560-3e7f-d406-fff9-93a4d9c3a07c/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/49/c5/0c49c531-d1d0-8576-678f-b9242cec9ca0/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/1d/91/ef1d919d-2b2c-da01-e474-3abdc9af074a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/a3/13/8ba31305-4d95-881c-aad6-859595787eb9/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/b4/07/1cb40782-a9cf-4e8f-beca-4b21f5eeb053/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/a5/7e/aaa57e7f-2f6d-f36c-1fcb-ec146dcf6c2d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/e0/49/6ce0493c-5f66-c6a8-5cb2-86da2446e639/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1941 Frozen Front Premium]]></title>
-        <id>1941 Frozen Front Premium-us-1793265912561</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1001096601?lang=en"/>
-        <updated>2026-10-29T09:25:12.561Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1001096601?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/4b/a9/1b4ba93f-e223-6804-b1f1-86fd5540d97a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    60,000 Gold：<b>$10.99</b>
-  </li><li>
-    25,000 Gold：<b>$5.99</b>
-  </li><li>
-    125,000 Gold：<b>$21.99</b>
-  </li><li>
-    700,000 Gold：<b>$89.99</b>
-  </li><li>
-    325,000 Gold：<b>$54.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Lead German forces on the rise towards the East or defend mother Russia on the Soviet side. Choose the right tactic of warfare and earn your stripes as an ingenious Commander at the FROZEN FRONT!
-
-PLAY WITHOUT ADS!
-
-Experience mind-blowing World War 2 battles in the brilliant new military STRATEGY-sim by HandyGames™!
-
-MISSION BRIEFING
-- FIGHT through the bone-chilling cold of the 1941 Eastern Front!
-- COMBAT enemy positions with tanks and infantry!
-- SHOOT hostile headquarters with mighty bomber wings!
-- EMPLACE your artillery in rough terrain!
-- SUPPLY your army with goods and ammunition!
-- DEFEND yourself against superior numbers of enemies!
-
-FEATURES
-- Turn-based strategy action in WW2
-- Thrilling campaigns and challenging missions
-- Hot-Hand multiplayer battles
-- Historical German and Soviet units
-- Repairs, camouflage and fortification of units during the battles
-- Infantry, artillery, tanks and warplanes for both fractions
-- Hex grid for the best overview possible
-- Detailed graphics and super-realistic sounds
-- Full tablet support
-
-Audio powered by Dolby on supported devices
-
-Thank you for playing '1941 Frozen Front'!
-
-© HandyGames 2026
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/fc/6a/31fc6a0e-664b-31cf-2dba-2ae87cbbc501/1941FrozenFront_Screenshot_1320x2868_01_EN.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/f4/1d/6df41d34-cd6f-f9ea-d26e-53b074a336ab/1941FrozenFront_Screenshot_1320x2868_02_EN.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/5c/bc/395cbc04-355c-bab4-a141-64407cb0a635/1941FrozenFront_Screenshot_1320x2868_03_EN.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/29/5c/ae295cfb-fb34-538e-b83f-ecbd3f8128c3/1941FrozenFront_Screenshot_1320x2868_04_EN.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/c8/cd/d4c8cd52-7231-c9c6-6b98-943b1ecb8653/1941FrozenFront_Screenshot_1320x2868_05_EN.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/97/52/8e97524a-825b-53c3-9f74-1ff7c900863a/1941FrozenFront_Screenshot_2732x2048_01_EN.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/2d/94/612d9447-eea8-1df5-ea2c-7adb4a5a7ef3/1941FrozenFront_Screenshot_2732x2048_02_EN.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/5a/4e/025a4ecb-9174-2388-d168-1895b5a54a01/1941FrozenFront_Screenshot_2732x2048_03_EN.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/e1/cf/74e1cfa0-e4b0-23ab-681a-cd5a49e1fb6f/1941FrozenFront_Screenshot_2732x2048_04_EN.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/d5/8d/86d58dd9-59ea-0d41-f02c-ce5ec8041cec/1941FrozenFront_Screenshot_2732x2048_05_EN.jpg/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Room Two]]></title>
-        <id>The Room Two-us-1793265912561</id>
-        <link href="https://appstore-discounts.eyelly.me/us/667362389?lang=en"/>
-        <updated>2026-10-29T09:25:12.561Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/667362389?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2a/19/dd/2a19dd0f-f01d-262d-d82c-c1cf38084c3f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.49 ~ $1.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  The much anticipated sequel to ‘The Room’, Apple’s Game of the Year 2012 and recipient of a BAFTA award, is here at last. 
-Follow a trail of cryptic letters from an enigmatic scientist known only as "AS" into a compelling world of mystery and exploration.
- 
-*******************************************************************************************************************
-
-Included in Apple's Best of 2013 Awards.
-
- “An intricately woven work of fiction perfectly suited to its format, this is the sort of game that it's worth sitting in the dark for.” - Pocketgamer   
- 
- “A gorgeous-looking game offering larger locations with multiple interactive areas and puzzles. A perfect game for a cold winter's night.” – Eurogamer
- 
- “Leaves you thinking about how to solve its puzzles even when not playing; a sign of a classy game, which this most definitely is.” – 148Apps
- 
- “A superb sequel with stunning visuals, the level of complexity on display here is quite astounding. The Room Two should be on top of your gaming list.” - GSM Arena 
- 
- “An exceptionally good puzzle game; if you liked The Room, be sure to download the sequel” – PadGadget  
- 
- “One of the best experiences on the iPad. Not just a game, but an experience that is not to be missed, an absolute must buy.” – Apple ‘n’ Apps 
- 
-“An incredibly compelling experience with clever puzzles, gorgeous visuals, and a spooky atmosphere; absolutely brimming with new ideas.” – The Verge
-
-*******************************************************************************************************************
-
-PICK-UP-AND-PLAY DESIGN
-Easy to start, hard to put down, an entrancing mix of intriguing puzzles with a simple user interface
- 
-INNOVATIVE TOUCH CONTROLS
-A tactile experience so natural you can almost feel the surface of each object
- 
-REALISTIC 3D LOCATIONS
-Immerse yourself in a variety of stunning environments which will challenge your puzzle solving prowess. 
- 
-DETAILED 3D OBJECTS
-Pore over the intricate details of dozens of artifacts in search of their hidden secrets.
- 
-UNNERVING AUDIO
-A haunting soundtrack and dynamic sound effects create a soundscape that reacts to your play.
- 
-iCLOUD & GAMECENTER NOW SUPPORTED 
-Share your progress between multiple devices, and unlock the all-new achievements.
- 
-MULTI LANGUAGE SUPPORT
-Available in English, French, Italian, German, Spanish & Brazilian Portuguese.
-
-*******************************************************************************************************************
- 
-Fireproof Games is a small independent studio based in Guildford in the United Kingdom.
-Find out more at fireproofgames.com
-Follow us @Fireproof_Games
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bb/4c/3c/bb4c3cae-6e95-3c19-301f-0743ca3e49ae/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/20/e6/2120e6e7-9a7e-8d5b-4143-12c00896053d/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/75/94/ff759411-3ac6-c3c7-6f2d-8c8351ddf9e3/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/92/ae/5b/92ae5b96-a860-1149-a9eb-11601f5c6d8c/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d0/42/00/d042007c-3271-8194-5b38-28733dc77c4a/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/71/ee/88/71ee8845-947b-e972-ce76-793d6149501d/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/5c/4f/6f/5c4f6fd3-7d91-2b13-f561-dd89a6af0ae5/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9b/48/9c/9b489c41-d2c2-3c77-d5e0-08c035cb2472/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/3f/2f/74/3f2f743a-7891-e314-47d5-1a513f523c8b/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/80/bb/6b/80bb6b45-6cb9-f282-53d4-26481c5d7540/pr_source.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
