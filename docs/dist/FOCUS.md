@@ -243,7 +243,7 @@ So far, we've covered `7` `Countries or Regions` and  `2397` `Apps` <br />Push n
 |2164|6792675339|Automatic|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|
 |2163|680495664|Automatic|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|Clash of Warloads|策马三国志 - 寻找真三国英雄|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|
 |2162|967376861|Automatic|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
-|2161|6792072690|Automatic|班主任工作台|❌|❌|❌|班主任工作台|❌|❌|
+|2161|6792072690|Automatic|班主任工作台|❌|❌|❌|班主任工作台|班主任工作台|班主任工作台|
 |2160|6787737491|Automatic|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
 |2159|6785090016|Automatic|Alpin Quest: 离线地图 PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Mapas offline PRO|
 |2158|625477515|Automatic|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|

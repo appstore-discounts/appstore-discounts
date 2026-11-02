@@ -66350,7 +66350,8 @@
       "Mitsubishi 2023": "$14.99",
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
-      "Mazda 2024 Enhanced": "$14.99"
+      "Mazda 2024 Enhanced": "$14.99",
+      "Ford 2015 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -66381,9 +66382,29 @@
       "Mitsubishi 2023": "$14.99",
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
-      "Mazda 2024 Enhanced": "$14.99"
+      "Mazda 2024 Enhanced": "$14.99",
+      "Ford 2015 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793578623309,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2015 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793382301850,
@@ -67079,6 +67100,25 @@
       "BLADE OF JUSTICE": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793578623309,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "$0.00",
+            "BEAST OF SHADOWS": "$0.00",
+            "DEEP BLUE": "$0.00",
+            "BEEPING BOBBIE": "$0.00",
+            "A MAJOR'S LOW BLOW": "$0.00",
+            "CAMPBELL'S CANS": "$0.99",
+            "GROOVY GUT SHAKER": "$1.99",
+            "LOW RIDER": "$0.99",
+            "ISAAC'S NEW TONES": "$0.99",
+            "BLADE OF JUSTICE": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -365925,6 +365965,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793578623309,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793560949290,
           "price": 3.99,
