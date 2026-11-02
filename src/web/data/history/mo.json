@@ -105644,6 +105644,14 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -120183,11 +120191,21 @@
       "Pro 終身版": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "Pro 終身版": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro 終身版": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615736419,
@@ -220338,6 +220356,14 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793615736419,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -221838,10 +221864,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793113722877,
@@ -222158,6 +222192,42 @@
           "price": 6.99,
           "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819103516": {
+    "trackId": 6819103516,
+    "trackName": "百死一生",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "出身包1・太平道之子": "USD 1.99",
+      "天下統一版": "USD 6.99",
+      "擴充包2・吳統一與真結局": "USD 3.99",
+      "擴充包1・蜀統一": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "出身包1・太平道之子": "USD 1.99",
+      "天下統一版": "USD 6.99",
+      "擴充包2・吳統一與真結局": "USD 3.99",
+      "擴充包1・蜀統一": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "出身包1・太平道之子": "USD 1.99",
+            "天下統一版": "USD 6.99",
+            "擴充包2・吳統一與真結局": "USD 3.99",
+            "擴充包1・蜀統一": "USD 3.99"
+          }
         }
       ]
     ]

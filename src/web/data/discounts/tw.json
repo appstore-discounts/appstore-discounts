@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1298544927,
+    "region": "tw",
+    "timestamp": 1793654775026,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1298544927",
+    "trackName": "My Child Lebensborn",
+    "firstRecordedAt": 1788006103133
+  },
+  {
+    "trackId": 1441522083,
+    "region": "tw",
+    "timestamp": 1793654775026,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "免費",
+        "range": "[免費 ~ $120.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1441522083",
+    "trackName": "Morphing LED Banner",
+    "firstRecordedAt": 1745568184983
+  },
+  {
     "trackId": 1492049794,
     "region": "tw",
     "timestamp": 1793615736419,

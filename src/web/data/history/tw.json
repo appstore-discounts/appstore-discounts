@@ -137160,6 +137160,14 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -157232,11 +157240,21 @@
       "Pro 終身版": "$120.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Pro 終身版": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro 終身版": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615736419,
@@ -190932,6 +190950,25 @@
       "Intro Offer (low)": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Prime Gemma 500": "$89.00",
+            "Prime Dimension DLC": "$125.00",
+            "Zenith Islands DLC": "$89.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Starter Package": "$89.00",
+            "Prime Gemma 2500": "$355.00",
+            "Master Package": "$355.00",
+            "Hunter Package": "$180.00",
+            "Prime Gemma 5000": "$710.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793465552889,
@@ -298240,6 +298277,25 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "328元礼包": "$1,490.00",
+            "648元礼包": "$2,990.00",
+            "128元礼包": "$690.00",
+            "98元礼包": "$490.00",
+            "198元礼包": "$990.00",
+            "68元礼包": "$320.00",
+            "60元礼包": "$290.00",
+            "30元礼包": "$120.00",
+            "18元礼包": "$90.00",
+            "6元礼包": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793615736419,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -326203,6 +326259,14 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793615736419,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -328055,6 +328119,42 @@
           "price": 220,
           "formattedPrice": "$220.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819103516": {
+    "trackId": 6819103516,
+    "trackName": "百死一生",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "天下統一版": "$160.00",
+      "擴充包1・蜀統一": "$90.00",
+      "擴充包2・吳統一與真結局": "$90.00",
+      "出身包1・太平道之子": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "天下統一版": "$160.00",
+      "擴充包1・蜀統一": "$90.00",
+      "擴充包2・吳統一與真結局": "$90.00",
+      "出身包1・太平道之子": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "天下統一版": "$160.00",
+            "擴充包1・蜀統一": "$90.00",
+            "擴充包2・吳統一與真結局": "$90.00",
+            "出身包1・太平道之子": "$60.00"
+          }
         }
       ]
     ]

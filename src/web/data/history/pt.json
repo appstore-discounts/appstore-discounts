@@ -155092,8 +155092,8 @@
     "trackName": "Quando foi? - O último dia",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -155101,6 +155101,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793654775026,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793578623309,
           "price": 2.99,
@@ -156797,6 +156803,42 @@
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819103516": {
+    "trackId": 6819103516,
+    "trackName": "百死一生",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "出身包1・太平道之子": "1,99 €",
+      "天下統一版": "7,99 €",
+      "擴充包2・吳統一與真結局": "3,99 €",
+      "擴充包1・蜀統一": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "出身包1・太平道之子": "1,99 €",
+      "天下統一版": "7,99 €",
+      "擴充包2・吳統一與真結局": "3,99 €",
+      "擴充包1・蜀統一": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "出身包1・太平道之子": "1,99 €",
+            "天下統一版": "7,99 €",
+            "擴充包2・吳統一與真結局": "3,99 €",
+            "擴充包1・蜀統一": "3,99 €"
+          }
         }
       ]
     ]

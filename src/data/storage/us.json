@@ -220283,6 +220283,25 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Sandrock Deputy": "$0.99",
+            "Country Passion": "$0.99",
+            "Leisure Breeze": "$0.99",
+            "Charming Spirit": "$0.99",
+            "Stripy Neatness": "$0.99",
+            "Blue Elegance": "$0.99",
+            "Futurewave": "$0.99",
+            "Carefree Gesture": "$0.99",
+            "Wandering Heart": "$0.99",
+            "Extra Drippy": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790656083068,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -329844,6 +329863,23 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Beach Day Card back": "$0.99",
+            "Sea Rat Outfit": "$1.99"
+          }
+        },
+        {
           "timestamp": 1793615736419,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -361857,6 +361893,14 @@
     "history": [
       [
         {
+          "timestamp": 1793654775026,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793578623309,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -363518,6 +363562,40 @@
           "price": 4.99,
           "formattedPrice": "$4.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819103516": {
+    "name": "百死一生",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "出身包1・太平道之子": "$1.99",
+      "天下統一版": "$6.99",
+      "擴充包2・吳統一與真結局": "$3.99",
+      "擴充包1・蜀統一": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "出身包1・太平道之子": "$1.99",
+      "天下統一版": "$6.99",
+      "擴充包2・吳統一與真結局": "$3.99",
+      "擴充包1・蜀統一": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793654775026,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "出身包1・太平道之子": "$1.99",
+            "天下統一版": "$6.99",
+            "擴充包2・吳統一與真結局": "$3.99",
+            "擴充包1・蜀統一": "$3.99"
+          }
         }
       ]
     ]
