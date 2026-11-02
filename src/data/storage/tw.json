@@ -36653,6 +36653,25 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "「日本香港組合包」": "$30.00",
+            "大富翁4 Fun 美國地圖": "$30.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "$30.00",
+            "大富翁 4 fun 韓國地圖組合包": "$30.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "$30.00",
+            "大富翁 4 fun 樂園組合包": "$30.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "$30.00",
+            "仙五地圖包": "$30.00",
+            "大富翁4 Fun夏日組合包": "$30.00",
+            "小包元寶": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792812452311,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -70185,14 +70204,22 @@
   "847381935": {
     "name": "DRAGON QUEST IV",
     "maxPriceInfo": {
-      "price": 290,
-      "formattedPrice": "$290.00"
+      "price": 490,
+      "formattedPrice": "$490.00"
     },
     "minPriceInfo": {
       "price": 290,
       "formattedPrice": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792837292615,
@@ -155184,14 +155211,26 @@
   "1441522083": {
     "name": "Morphing LED Banner",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00"
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Pro 終身版": "$120.00"
     },
     "minPriceInfo": {
       "price": 10,
-      "formattedPrice": "$10.00"
+      "formattedPrice": "$10.00",
+      "Pro 終身版": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Pro 終身版": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -169051,6 +169090,25 @@
       "Crystal Piggy Bank 5": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Double Exp Package 1": "$30.00",
+            "Crystal Piggy Bank 5": "$150.00",
+            "Flash Sale Star Rune 1": "$90.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "300 Crystal": "$90.00",
+            "Flash Sale Star Rune 2": "$60.00",
+            "Piggy Bank": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793537031223,
@@ -187805,6 +187863,25 @@
       "年卡VIP": "$1,190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月卡VIP": "$120.00",
+            "3880元宝": "$1,990.00",
+            "880元宝": "$390.00",
+            "250元宝": "$120.00",
+            "60元宝": "$30.00",
+            "1680元宝": "$790.00",
+            "终身卡VIP": "$1,990.00",
+            "2980元宝": "$1,290.00",
+            "终身VIP": "$1,990.00",
+            "年卡VIP": "$1,190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792726402577,
@@ -294666,7 +294743,10 @@
       "60元礼包": "$290.00",
       "30元礼包": "$120.00",
       "18元礼包": "$90.00",
-      "6元礼包": "$30.00"
+      "6元礼包": "$30.00",
+      "1元礼包": "$30.00",
+      "12元礼包": "$60.00",
+      "3元礼包": "$30.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -294680,9 +294760,31 @@
       "60元礼包": "$290.00",
       "30元礼包": "$120.00",
       "18元礼包": "$90.00",
-      "6元礼包": "$30.00"
+      "6元礼包": "$30.00",
+      "1元礼包": "$30.00",
+      "12元礼包": "$60.00",
+      "3元礼包": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "1元礼包": "$30.00",
+            "12元礼包": "$60.00",
+            "3元礼包": "$30.00",
+            "6元礼包": "$30.00",
+            "18元礼包": "$90.00",
+            "30元礼包": "$120.00",
+            "60元礼包": "$290.00",
+            "68元礼包": "$320.00",
+            "198元礼包": "$990.00",
+            "98元礼包": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753539108845,
@@ -297343,9 +297445,9 @@
     "maxPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00",
-      "Büyük Altın Sandığı": "$60.00",
-      "Orta Altın Sandığı": "$30.00",
-      "Mega Altın Hazinesi": "$150.00",
+      "Büyük Altın Sandığı": "$150.00",
+      "Orta Altın Sandığı": "$90.00",
+      "Mega Altın Hazinesi": "$320.00",
       "Küçük Altın Çantası": "$30.00"
     },
     "minPriceInfo": {
@@ -297357,6 +297459,19 @@
       "Küçük Altın Çantası": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "$150.00",
+            "Orta Altın Sandığı": "$90.00",
+            "Mega Altın Hazinesi": "$320.00",
+            "Küçük Altın Çantası": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766040150772,
@@ -321706,6 +321821,12 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793560949290,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -322495,7 +322616,7 @@
     ]
   },
   "6763518834": {
-    "name": "NaviBeat",
+    "name": "NaviBeat: Navidrome Player",
     "maxPriceInfo": {
       "price": 190,
       "formattedPrice": "$190.00",
@@ -323104,10 +323225,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793113722877,
@@ -323365,6 +323494,48 @@
           "timestamp": 1793507830430,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781948334": {
+    "name": "Perfect Viewer X",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792072690": {
+    "name": "班主任工作台",
+    "maxPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "minPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 220,
+          "formattedPrice": "$220.00",
           "inAppPurchases": {}
         }
       ]

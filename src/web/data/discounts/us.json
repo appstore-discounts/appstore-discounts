@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1492049794,
+    "region": "us",
+    "timestamp": 1793615736419,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
+    "trackName": "宗师-武林风云传",
+    "firstRecordedAt": 1774723994994
+  },
+  {
+    "trackId": 1601114348,
+    "region": "us",
+    "timestamp": 1793615736419,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $9.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1601114348",
+    "trackName": "Siralim Ultimate",
+    "firstRecordedAt": 1788250806888
+  },
+  {
+    "trackId": 6821872148,
+    "region": "us",
+    "timestamp": 1793615736419,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6821872148",
+    "trackName": "Duopaper: Panoramic Wallpapers",
+    "firstRecordedAt": 1793113722877
+  },
+  {
     "trackId": 6824686276,
     "region": "us",
     "timestamp": 1793560949290,
@@ -29265,14 +29325,14 @@
         "name": "Büyük Altın Sandığı",
         "from": "$1.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $1.99]"
+        "range": "[$0.99 ~ $4.99]"
       },
       {
         "type": "inAppPurchase",
         "name": "Mega Altın Hazinesi",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $4.99]"
+        "range": "[$3.99 ~ $9.99]"
       }
     ],
     "price": 0.99,

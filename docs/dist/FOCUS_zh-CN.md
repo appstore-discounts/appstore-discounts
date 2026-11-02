@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2397` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2398` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2398|6781948334|自动|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|
 |2397|6780749343|自动|❌|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|
 |2396|1590563221|自动|Meets Link|Meets Link|Meets Link|Meets Link|Meets Link|❌|❌|
 |2395|1110376793|自动|❌|VOI - puzzle game|VOI - puzzle game|VOI - puzzle game|VOI - puzzle game|VOI - puzzle game|voi|
@@ -58,7 +59,7 @@
 |2349|1445593893|自动|❌|Journey|Journey|Journey|Journey|Journey|Journey|
 |2348|633625517|自动|❌|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|
 |2347|6775851661|自动|Agent Limbo - AI 编程助手|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|
-|2346|6763518834|自动|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|
+|2346|6763518834|自动|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|
 |2345|6781949759|自动|好女子|❌|❌|❌|❌|❌|❌|
 |2344|6459057077|自动|德语 Pro: 词典 & 考试|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|German Pro: dictionary & exams|German Pro: dictionary & exams|Alemão Pro: dicionário exames|
 |2343|1504000687|自动|❌|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|
@@ -243,7 +244,7 @@
 |2164|6792675339|自动|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|
 |2163|680495664|自动|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|Clash of Warloads|策马三国志 - 寻找真三国英雄|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|
 |2162|967376861|自动|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
-|2161|6792072690|自动|班主任工作台|❌|❌|❌|班主任工作台|班主任工作台|班主任工作台|
+|2161|6792072690|自动|班主任工作台|班主任工作台|班主任工作台|班主任工作台|班主任工作台|班主任工作台|班主任工作台|
 |2160|6787737491|自动|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
 |2159|6785090016|自动|Alpin Quest: 离线地图 PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Mapas offline PRO|
 |2158|625477515|自动|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|

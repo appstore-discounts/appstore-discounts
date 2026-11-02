@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1492049794,
+    "region": "pt",
+    "timestamp": 1793615736419,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
+    "trackName": "宗师-武林风云传",
+    "firstRecordedAt": 1774723994994
+  },
+  {
+    "trackId": 6821872148,
+    "region": "pt",
+    "timestamp": 1793615736419,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6821872148",
+    "trackName": "Duopaper: Fundos HD para ecrãs",
+    "firstRecordedAt": 1793113722877
+  },
+  {
     "trackId": 1601114348,
     "region": "pt",
     "timestamp": 1793578623309,
@@ -28324,14 +28364,14 @@
         "name": "Büyük Altın Sandığı",
         "from": "1,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 1,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       },
       {
         "type": "inAppPurchase",
         "name": "Mega Altın Hazinesi",
         "from": "5,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 5,99 €]"
+        "range": "[3,99 € ~ 9,99 €]"
       }
     ],
     "price": 0.99,

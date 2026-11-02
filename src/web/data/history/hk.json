@@ -18270,6 +18270,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "HK$ 58.00",
+            "Extreme Map Pack": "HK$ 18.00",
+            "Double Cash": "HK$ 22.00",
+            "Rank Up +2 Ranks": "HK$ 8.00",
+            "Healthy Bananas": "HK$ 18.00",
+            "Explosive Darts": "HK$ 18.00",
+            "Double Ranga": "HK$ 18.00",
+            "Monkey Tycoon": "HK$ 8.00",
+            "Frag Bombs": "HK$ 8.00",
+            "Digital Amplification": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1793578623309,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -69740,14 +69757,22 @@
     "trackName": "DRAGON QUEST IV",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "HK$ 68.00"
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792837292615,
@@ -189299,6 +189324,25 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3880元宝": "HK$ 488.00",
+            "月卡VIP": "HK$ 32.00",
+            "880元宝": "HK$ 98.00",
+            "250元宝": "HK$ 32.00",
+            "60元宝": "HK$ 8.00",
+            "2980元宝": "HK$ 288.00",
+            "1680元宝": "HK$ 188.00",
+            "终身卡VIP": "HK$ 488.00",
+            "终身VIP": "HK$ 488.00",
+            "年卡VIP": "HK$ 288.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792726402577,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -202020,6 +202064,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793615736419,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "田園風情": "HK$ 8.00",
+            "休閒風度": "HK$ 8.00",
+            "駝咩咩睡衣": "HK$ 8.00",
+            "沙石探員": "HK$ 8.00",
+            "條紋正裝": "HK$ 8.00",
+            "深藍魅影": "HK$ 8.00",
+            "潮流前線": "HK$ 8.00",
+            "優雅白羽（蓋斯特）": "HK$ 8.00",
+            "純真回憶": "HK$ 8.00",
+            "未來光波": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1793578623309,
           "price": 58,
@@ -243906,6 +243967,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "斜谷殘陽": "HK$ 48.00",
+            "月下追魂": "HK$ 48.00",
+            "戰國七雄": "HK$ 48.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "群雄爭霸": "HK$ 22.00",
+            "冠絕天下": "HK$ 48.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "鎮海神威": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1793560949290,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -268856,6 +268934,25 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 737-800": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793537031223,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -288642,9 +288739,9 @@
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00",
-      "Büyük Altın Sandığı": "HK$ 18.00",
-      "Orta Altın Sandığı": "HK$ 8.00",
-      "Mega Altın Hazinesi": "HK$ 38.00",
+      "Büyük Altın Sandığı": "HK$ 38.00",
+      "Orta Altın Sandığı": "HK$ 22.00",
+      "Mega Altın Hazinesi": "HK$ 88.00",
       "Küçük Altın Çantası": "HK$ 8.00"
     },
     "minPriceInfo": {
@@ -288656,6 +288753,19 @@
       "Küçük Altın Çantası": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "HK$ 38.00",
+            "Orta Altın Sandığı": "HK$ 22.00",
+            "Mega Altın Hazinesi": "HK$ 88.00",
+            "Küçük Altın Çantası": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766040150772,
@@ -312011,6 +312121,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全法術禮包": "HK$ 98.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "法術 艾洛拉": "HK$ 22.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "法術 索羅化身": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1793560949290,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -313062,6 +313189,12 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793560949290,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -313922,7 +314055,7 @@
   },
   "6763518834": {
     "trackId": 6763518834,
-    "trackName": "NaviBeat",
+    "trackName": "NaviBeat: Navidrome Player",
     "region": "hk",
     "maxPriceInfo": {
       "price": 48,
@@ -314853,6 +314986,52 @@
           "timestamp": 1793507830430,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781948334": {
+    "trackId": 6781948334,
+    "trackName": "Perfect Viewer X",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792072690": {
+    "trackId": 6792072690,
+    "trackName": "班主任工作台",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
           "inAppPurchases": {}
         }
       ]

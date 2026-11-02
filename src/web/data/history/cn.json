@@ -240645,6 +240645,12 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793560949290,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -241125,7 +241131,7 @@
   },
   "6763518834": {
     "trackId": 6763518834,
-    "trackName": "NaviBeat",
+    "trackName": "NaviBeat: Navidrome Player",
     "region": "cn",
     "maxPriceInfo": {
       "price": 38,
@@ -241677,6 +241683,29 @@
           "timestamp": 1793447082298,
           "price": 22,
           "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781948334": {
+    "trackId": 6781948334,
+    "trackName": "Perfect Viewer X",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 38,
+          "formattedPrice": "¥38.00",
           "inAppPurchases": {}
         }
       ]

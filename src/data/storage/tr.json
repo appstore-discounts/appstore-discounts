@@ -32765,6 +32765,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "City Folk - Skin Pack": "₺99,99",
+            "Town Folk - Skin Pack": "₺99,99",
+            "Halloween - Skin Pack": "₺99,99",
+            "Biome Settlers - Skin Pack": "₺99,99",
+            "Holiday 2015 - Skin Pack": "₺99,99",
+            "Redstone Specialists - Skin Pack": "₺99,99",
+            "Journey to the West - Skin Pack": "₺99,99",
+            "Story Mode - Skin Pack": "₺149,99",
+            "Biome Settlers - Skin Pack 2": "₺99,99",
+            "Realms Plus: You + 10 Friends": "₺20,99"
+          }
+        },
+        {
           "timestamp": 1793578623309,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -72592,14 +72609,22 @@
   "847381935": {
     "name": "DRAGON QUEST IV",
     "maxPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
     },
     "minPriceInfo": {
       "price": 499.99,
       "formattedPrice": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792837292615,
@@ -151528,14 +151553,26 @@
   "1441522083": {
     "name": "Morphing LED Banner",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "Pro Lifetime": "₺199,99"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "formattedPrice": "₺9,99",
+      "Pro Lifetime": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Pro Lifetime": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -165759,6 +165796,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793615736419,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "New York 2121 Board": "₺399,99",
+            "Arcade Dice Sale": "₺199,99",
+            "Speed Die": "₺799,99",
+            "Astronaut Token Sale": "₺149,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Dragon": "₺199,99",
+            "Diamond Bundle": "₺699,99"
+          }
+        },
         {
           "timestamp": 1793578623309,
           "price": 249.99,
@@ -184434,6 +184488,25 @@
       "60元宝": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "终身卡VIP": "₺2.999,99",
+            "终身VIP": "₺2.999,99",
+            "年卡VIP": "₺1.999,99",
+            "月卡VIP": "₺199,99",
+            "880元宝": "₺699,99",
+            "250元宝": "₺199,99",
+            "3880元宝": "₺2.999,99",
+            "2980元宝": "₺1.999,99",
+            "1680元宝": "₺1.299,99",
+            "60元宝": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792726402577,
@@ -299930,7 +300003,7 @@
     ]
   },
   "6763518834": {
-    "name": "NaviBeat",
+    "name": "NaviBeat: Navidrome Player",
     "maxPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",
@@ -300496,10 +300569,18 @@
       "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793113722877,
@@ -300797,6 +300878,27 @@
           "timestamp": 1793578623309,
           "price": 399.99,
           "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781948334": {
+    "name": "Perfect Viewer X",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]

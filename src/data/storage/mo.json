@@ -502,6 +502,22 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Tyrannosaurus Rex Skin Pack": "USD 0.99",
+            "Dance Pack Too": "USD 0.99",
+            "Medieval Pack": "USD 0.99",
+            "Alien Pack": "USD 0.99",
+            "Holiday Skin Pack": "USD 0.99",
+            "Shark Pack": "USD 0.99",
+            "The Pimp Pack": "USD 0.99",
+            "Japanese Skin Pack": "USD 0.99",
+            "Mafia Pack": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1793578623309,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -55685,14 +55701,22 @@
   "847381935": {
     "name": "DRAGON QUEST IV",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792837292615,
@@ -118145,13 +118169,25 @@
     "name": "Morphing LED Banner",
     "maxPriceInfo": {
       "price": 0.29,
-      "formattedPrice": "USD 0.29"
+      "formattedPrice": "USD 0.29",
+      "Pro 終身版": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.29,
-      "formattedPrice": "USD 0.29"
+      "formattedPrice": "USD 0.29",
+      "Pro 終身版": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Pro 終身版": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -136494,6 +136530,25 @@
       "60元宝": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "880元宝": "USD 12.99",
+            "终身卡VIP": "USD 59.99",
+            "月卡VIP": "USD 3.99",
+            "250元宝": "USD 3.99",
+            "1680元宝": "USD 24.99",
+            "终身VIP": "USD 59.99",
+            "年卡VIP": "USD 34.99",
+            "3880元宝": "USD 59.99",
+            "2980元宝": "USD 39.99",
+            "60元宝": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792726402577,
@@ -195301,9 +195356,9 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99",
-      "Büyük Altın Sandığı": "USD 1.99",
-      "Orta Altın Sandığı": "USD 0.99",
-      "Mega Altın Hazinesi": "USD 4.99",
+      "Büyük Altın Sandığı": "USD 4.99",
+      "Orta Altın Sandığı": "USD 2.99",
+      "Mega Altın Hazinesi": "USD 9.99",
       "Küçük Altın Çantası": "USD 0.99"
     },
     "minPriceInfo": {
@@ -195315,6 +195370,19 @@
       "Küçük Altın Çantası": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "USD 4.99",
+            "Orta Altın Sandığı": "USD 2.99",
+            "Mega Altın Hazinesi": "USD 9.99",
+            "Küçük Altın Çantası": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766040150772,
@@ -215914,6 +215982,12 @@
     "history": [
       [
         {
+          "timestamp": 1793615736419,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793560949290,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -216687,7 +216761,7 @@
     ]
   },
   "6763518834": {
-    "name": "NaviBeat",
+    "name": "NaviBeat: Navidrome Player",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
@@ -217549,6 +217623,48 @@
           "timestamp": 1793507830430,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781948334": {
+    "name": "Perfect Viewer X",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792072690": {
+    "name": "班主任工作台",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615736419,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
         }
       ]

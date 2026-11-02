@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2397` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2398` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2398|6781948334|Automatic|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|
 |2397|6780749343|Automatic|❌|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|
 |2396|1590563221|Automatic|Meets Link|Meets Link|Meets Link|Meets Link|Meets Link|❌|❌|
 |2395|1110376793|Automatic|❌|VOI - puzzle game|VOI - puzzle game|VOI - puzzle game|VOI - puzzle game|VOI - puzzle game|voi|
@@ -58,7 +59,7 @@ So far, we've covered `7` `Countries or Regions` and  `2397` `Apps` <br />Push n
 |2349|1445593893|Automatic|❌|Journey|Journey|Journey|Journey|Journey|Journey|
 |2348|633625517|Automatic|❌|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|
 |2347|6775851661|Automatic|Agent Limbo - AI 编程助手|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|
-|2346|6763518834|Automatic|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|
+|2346|6763518834|Automatic|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|NaviBeat: Navidrome Player|
 |2345|6781949759|Automatic|好女子|❌|❌|❌|❌|❌|❌|
 |2344|6459057077|Automatic|德语 Pro: 词典 & 考试|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|German Pro: dictionary & exams|German Pro: dictionary & exams|Alemão Pro: dicionário exames|
 |2343|1504000687|Automatic|❌|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|
@@ -243,7 +244,7 @@ So far, we've covered `7` `Countries or Regions` and  `2397` `Apps` <br />Push n
 |2164|6792675339|Automatic|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|ACO 投考全攻略 ACOReady|
 |2163|680495664|Automatic|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|Clash of Warloads|策马三国志 - 寻找真三国英雄|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|
 |2162|967376861|Automatic|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
-|2161|6792072690|Automatic|班主任工作台|❌|❌|❌|班主任工作台|班主任工作台|班主任工作台|
+|2161|6792072690|Automatic|班主任工作台|班主任工作台|班主任工作台|班主任工作台|班主任工作台|班主任工作台|班主任工作台|
 |2160|6787737491|Automatic|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
 |2159|6785090016|Automatic|Alpin Quest: 离线地图 PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Offline Maps PRO|Alpin Quest: Mapas offline PRO|
 |2158|625477515|Automatic|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|
