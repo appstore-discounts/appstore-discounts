@@ -53302,6 +53302,27 @@
       ]
     ]
   },
+  "554766778": {
+    "name": "liveBPM - Beat Detector",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793738815054,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "554937499": {
     "name": "Earn to Die",
     "maxPriceInfo": {
@@ -126570,7 +126591,7 @@
     ]
   },
   "1154832936": {
-    "name": "Call Ranger: Mass Call Blocker",
+    "name": "Call Ranger: Phone Blocker",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
@@ -226540,6 +226561,25 @@
     "history": [
       [
         {
+          "timestamp": 1793738815054,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Winter Holidays Bundle": "$6.49",
+            "Festive Bundle": "$9.99",
+            "Generations: 90s Bundle": "$6.49",
+            "Pop Culture Bundle": "$6.49",
+            "Welcome Offer": "$9.99",
+            "Pop Culture Mix Pack 1": "$1.99",
+            "Generations 90s Mix Pack 1": "$1.99",
+            "Pop Culture Mix Pack 2": "$1.99",
+            "Mystery Mix Pack 18": "$1.99",
+            "Generations 90s Mix Pack 2": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793447082298,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -250788,6 +250828,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793738815054,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "pack 21": "$7.99",
+            "Special Daily Pack20": "$2.99",
+            "Special Daily Pack19": "$1.99",
+            "Special Daily Pack18": "$3.99",
+            "Special Daily Pack17": "$3.99",
+            "Special Daily Pack16": "$2.99",
+            "Special Daily Pack15": "$1.99",
+            "Special Daily Pack14": "$2.99",
+            "Special Daily Pack12": "$2.99",
+            "Special Daily Pack11": "$3.99"
+          }
+        },
         {
           "timestamp": 1793713301535,
           "price": 0.99,
@@ -281866,6 +281923,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793738815054,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "Night Chill": "$1.79",
+            "ネオンシティ": "$1.79",
+            "Waterside": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "Christmas night": "$1.79",
+            "2025春ネモフィラスキン": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615736419,
@@ -346954,9 +347030,9 @@
       "Worship Pad": "$0.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
-      "PadLab Full App": "$7.99",
+      "price": 1.69,
+      "formattedPrice": "$1.69",
+      "PadLab Full App": "$4.59",
       "PadLab Worship Complete": "$6.99",
       "Worship Drum Collection": "$3.99",
       "Coleção Completa de Pads": "$4.99",
@@ -346970,10 +347046,29 @@
       "Arp Pro": "$1.99",
       "Pad Pulse Pro": "$1.99",
       "Sequencer Pro": "$2.99",
-      "StageLab": "$5.99",
+      "StageLab": "$3.69",
       "Worship Pad": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793738815054,
+          "price": 1.69,
+          "formattedPrice": "$1.69",
+          "inAppPurchases": {
+            "PadLab Full App": "$4.59",
+            "Pad Mix Pro": "$1.99",
+            "StageLab": "$3.69",
+            "Pad Pulse Pro": "$1.99",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "Worship Pad": "$0.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792553339588,

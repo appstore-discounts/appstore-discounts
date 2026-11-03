@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6759358968,
+    "region": "cn",
+    "timestamp": 1793738815054,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥22.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "PadLab Full App",
+        "from": "¥58.00",
+        "to": "¥32.00",
+        "range": "[¥32.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6759358968",
+    "trackName": "PadLab - Live Pads",
+    "firstRecordedAt": 1771737513147
+  },
+  {
     "trackId": 1441522083,
     "region": "cn",
     "timestamp": 1793654775026,

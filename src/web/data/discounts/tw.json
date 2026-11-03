@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 6759358968,
+    "region": "tw",
+    "timestamp": 1793738815054,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "PadLab Full App",
+        "from": "$290.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "StageLab",
+        "from": "$190.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $190.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6759358968",
+    "trackName": "PadLab - Live Pads",
+    "firstRecordedAt": 1771737513147
+  },
+  {
     "trackId": 6749684876,
     "region": "tw",
     "timestamp": 1793713301535,

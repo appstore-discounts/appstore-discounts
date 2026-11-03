@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2399` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2400` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2400|554766778|自动|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|
 |2399|6819103516|自动|❌|百死一生|百死一生|百死一生|百死一生|百死一生|百死一生|
 |2398|6781948334|自动|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|
 |2397|6780749343|自动|❌|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|Katil Kim? Dedektiflik Oyunu|
@@ -223,7 +224,7 @@
 |2186|6761228817|自动|TileGrid 地毯设计|TileGrid カーペット|TileGrid カーペット|TileGrid カーペット|TileGrid - Carpet Planner|TileGrid - Carpet Planner|TileGrid - Carpet Planner|
 |2185|6786316806|自动|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|
 |2184|6773620703|自动|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|
-|2183|1154832936|自动|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Mass Call Blocker|Call Ranger: Mass Call Blocker|Call Ranger: Bloquear Chamadas|
+|2183|1154832936|自动|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Phone Blocker|Call Ranger: Phone Blocker|Call Ranger: Bloquear Chamadas|
 |2182|433579249|自动|飕飕相机美颜版|ソソカメラ|ソソカメラ|ソソカメラ|SoSoCamera Beauty|SoSoCamera Beauty|ソソカメラ|
 |2181|6760764479|自动|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|
 |2180| ~~6794760301~~ |自动| ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ |
