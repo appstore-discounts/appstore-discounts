@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 954982733,
+    "region": "tr",
+    "timestamp": 1793683824235,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺699,99",
+        "to": "₺599,99",
+        "range": "[₺129,99 ~ ₺699,99]"
+      }
+    ],
+    "price": 599.99,
+    "formattedPrice": "₺599,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id954982733",
+    "trackName": "Tuner T1 Pro",
+    "firstRecordedAt": 1745517753203
+  },
+  {
+    "trackId": 1441522083,
+    "region": "tr",
+    "timestamp": 1793683824235,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "Free",
+        "range": "[Free ~ ₺199,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1441522083",
+    "trackName": "Morphing LED Banner",
+    "firstRecordedAt": 1745568184983
+  },
+  {
     "trackId": 1492049794,
     "region": "tr",
     "timestamp": 1793615736419,
