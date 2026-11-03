@@ -27095,7 +27095,17 @@
       "Three Pack of Launch Tables": "$60.00",
       "The Machine: Bride of Pin•bot™": "$90.00",
       "Fun House™": "$90.00",
-      "Cirqus Voltaire™": "$90.00"
+      "Cirqus Voltaire™": "$90.00",
+      "Stern Pack 1": "$150.00",
+      "Big Buck Hunter Single Table": "$320.00",
+      "Whoa Nellie Single Table": "$320.00",
+      "Stern Pack 3": "$490.00",
+      "Star Trek Single Table": "$150.00",
+      "Mustang Single Table": "$320.00",
+      "Ghostbusters Single Table": "$320.00",
+      "Dr. Who Master of Time": "$150.00",
+      "Farsight Ball Pack": "$60.00",
+      "Stern Ball Pack 1": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -27113,9 +27123,38 @@
       "Three Pack of Launch Tables": "$60.00",
       "The Machine: Bride of Pin•bot™": "$90.00",
       "Fun House™": "$90.00",
-      "Cirqus Voltaire™": "$90.00"
+      "Cirqus Voltaire™": "$90.00",
+      "Stern Pack 1": "$150.00",
+      "Big Buck Hunter Single Table": "$320.00",
+      "Whoa Nellie Single Table": "$320.00",
+      "Stern Pack 3": "$490.00",
+      "Star Trek Single Table": "$150.00",
+      "Mustang Single Table": "$320.00",
+      "Ghostbusters Single Table": "$320.00",
+      "Dr. Who Master of Time": "$150.00",
+      "Farsight Ball Pack": "$60.00",
+      "Stern Ball Pack 1": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Stern Pack 1": "$150.00",
+            "Big Buck Hunter Single Table": "$320.00",
+            "Whoa Nellie Single Table": "$320.00",
+            "Stern Pack 3": "$490.00",
+            "Star Trek Single Table": "$150.00",
+            "Mustang Single Table": "$320.00",
+            "Ghostbusters Single Table": "$320.00",
+            "Dr. Who Master of Time": "$150.00",
+            "Farsight Ball Pack": "$60.00",
+            "Stern Ball Pack 1": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792667627553,
@@ -103789,6 +103828,23 @@
     "history": [
       [
         {
+          "timestamp": 1793713301535,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "60根火柴": "$30.00",
+            "月度礼包": "$120.00",
+            "180根火柴": "$90.00",
+            "980根火柴": "$490.00",
+            "6480根火柴": "$2,990.00",
+            "500根火柴": "$220.00",
+            "1680根火柴": "$790.00",
+            "1元礼包": "$30.00",
+            "3元礼包": "$30.00",
+            "超值礼包-1": "$90.00"
+          }
+        },
+        {
           "timestamp": 1793683824235,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -169077,7 +169133,8 @@
       "Cosmetic Crystal": "$150.00",
       "Demon Pass": "$320.00",
       "Legendary Wings Pack 2": "$150.00",
-      "Crystal Piggy Bank 5": "$150.00"
+      "Crystal Piggy Bank 5": "$150.00",
+      "Magic Subscribe Package": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -169124,9 +169181,29 @@
       "Cosmetic Crystal": "$150.00",
       "Demon Pass": "$320.00",
       "Legendary Wings Pack 2": "$150.00",
-      "Crystal Piggy Bank 5": "$150.00"
+      "Crystal Piggy Bank 5": "$150.00",
+      "Magic Subscribe Package": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Double Exp Package 1": "$30.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "300 Crystal": "$90.00",
+            "Flash Sale Star Rune 1": "$90.00",
+            "Magic Subscribe Package": "$90.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Crystal Piggy Bank 5": "$150.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Star Rune 2": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615736419,
@@ -190528,7 +190605,7 @@
       "+100 boosters ECO-Initiative!": "$10.00",
       "+2026 boosters ECO-Initiative!": "$150.00",
       "+444! Triple-Four Booster Pack": "$90.00",
-      "Full scenarios": "$60.00"
+      "Full scenarios": "$150.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -190542,6 +190619,19 @@
       "Full scenarios": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "Full scenarios": "$150.00",
+            "+444! Triple-Four Booster Pack": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -320251,10 +320341,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789225426600,
@@ -323370,13 +323468,34 @@
     "name": "TypeDraw",
     "maxPriceInfo": {
       "price": 150,
-      "formattedPrice": "$150.00"
+      "formattedPrice": "$150.00",
+      "Sahara Notebook": "$60.00",
+      "Highlands Notebook": "$60.00",
+      "Bordeaux Notebook": "$60.00",
+      "Atlantic Notebook": "$60.00"
     },
     "minPriceInfo": {
       "price": 150,
-      "formattedPrice": "$150.00"
+      "formattedPrice": "$150.00",
+      "Sahara Notebook": "$60.00",
+      "Highlands Notebook": "$60.00",
+      "Bordeaux Notebook": "$60.00",
+      "Atlantic Notebook": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Sahara Notebook": "$60.00",
+            "Highlands Notebook": "$60.00",
+            "Bordeaux Notebook": "$60.00",
+            "Atlantic Notebook": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793160762894,
@@ -323554,6 +323673,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793713301535,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793683824235,
           "price": 90,

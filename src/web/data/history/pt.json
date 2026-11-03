@@ -1379,6 +1379,23 @@
     "history": [
       [
         {
+          "timestamp": 1793713301535,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Tuning Tools": "9,99 €",
+            "Guitar & Bass Sweeteners": "6,99 €",
+            "Harmonic Tuning": "22,99 €",
+            "Extended Frequency Modes": "5,99 €",
+            "Accordion Sweetener Pack": "9,99 €",
+            "Full Discounted Upgrade Pack": "69,99 €",
+            "Orchestral Sweeteners": "6,99 €",
+            "Misc Stringed Sweeteners": "3,99 €",
+            "Keyboard Sweeteners": "22,99 €",
+            "World Sweetener Pack": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1793683824235,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -90285,7 +90302,7 @@
       "+100 boosters ECO-Initiative!": "1,00 €",
       "+2026 boosters ECO-Initiative!": "5,99 €",
       "+444! Triple-Four Booster Pack": "2,99 €",
-      "Full scenarios": "1,99 €"
+      "Full scenarios": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -90296,6 +90313,19 @@
       "Full scenarios": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "1,00 €",
+            "+2026 boosters ECO-Initiative!": "4,99 €",
+            "Full scenarios": "5,99 €",
+            "+444! Triple-Four Booster Pack": "2,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -154568,6 +154598,23 @@
     "history": [
       [
         {
+          "timestamp": 1793713301535,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote · Cavaleiros da Luz": "9,99 €",
+            "Fantasia · Pacote Halloween 3": "2,99 €",
+            "Fantasia · Pacote Halloween 2": "2,99 €",
+            "Fantasia · Pacote Halloween 1": "2,99 €",
+            "Herói · Elowyn Briar": "0,99 €",
+            "Hero · Rosel Ironbloom": "0,99 €",
+            "Hero · Sargul Krach": "0,99 €",
+            "Hero · Fine Kaltenbach": "0,99 €",
+            "Hero · Irena von Strahl": "0,99 €",
+            "Support Tier 1 · Supporter": "0,49 €"
+          }
+        },
+        {
           "timestamp": 1793683824235,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -156643,13 +156690,34 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Sahara Notebook": "1,99 €",
+      "Highlands Notebook": "1,99 €",
+      "Bordeaux Notebook": "1,99 €",
+      "Atlantic Notebook": "1,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Sahara Notebook": "1,99 €",
+      "Highlands Notebook": "1,99 €",
+      "Bordeaux Notebook": "1,99 €",
+      "Atlantic Notebook": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Sahara Notebook": "1,99 €",
+            "Highlands Notebook": "1,99 €",
+            "Bordeaux Notebook": "1,99 €",
+            "Atlantic Notebook": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793160762894,
@@ -156820,6 +156888,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793713301535,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793683824235,
           "price": 2.99,

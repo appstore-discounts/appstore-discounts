@@ -241660,13 +241660,34 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "Sahara Notebook": "¥15.00",
+      "Highlands Notebook": "¥15.00",
+      "Bordeaux Notebook": "¥15.00",
+      "Atlantic Notebook": "¥15.00"
     },
     "minPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "Sahara Notebook": "¥15.00",
+      "Highlands Notebook": "¥15.00",
+      "Bordeaux Notebook": "¥15.00",
+      "Atlantic Notebook": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Sahara Notebook": "¥15.00",
+            "Highlands Notebook": "¥15.00",
+            "Bordeaux Notebook": "¥15.00",
+            "Atlantic Notebook": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793160762894,
@@ -241768,6 +241789,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793713301535,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793683824235,
           "price": 22,

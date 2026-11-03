@@ -89919,6 +89919,23 @@
     "history": [
       [
         {
+          "timestamp": 1793713301535,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "一筆鑽石": "USD 4.99",
+            "僱傭超能少年": "USD 1.99",
+            "1代套裝(3星)": "USD 1.99",
+            "一小袋鑽石": "USD 9.99",
+            "雙倍獎勵": "USD 1.99",
+            "100鑽石": "USD 0.99",
+            "雙倍背包": "USD 1.99",
+            "促銷禮包3": "USD 7.99",
+            "促銷禮包2": "USD 4.99",
+            "一大车钻石": "USD 99.99"
+          }
+        },
+        {
           "timestamp": 1793683824235,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -137344,6 +137361,23 @@
     "history": [
       [
         {
+          "timestamp": 1793713301535,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Prime Gemma 2500": "USD 10.99",
+            "Tamer Kit": "USD 0.99",
+            "Evoker Kit": "USD 0.99",
+            "Master Package": "USD 10.99",
+            "Prime Gemma 1200": "USD 5.99",
+            "Spray kit": "USD 2.99",
+            "Ascensio Kit": "USD 2.99",
+            "Zenith Islands DLC Sale": "USD 1.99",
+            "Prime Dimension DLC Sale": "USD 1.99",
+            "Crystal Offer Sale": "USD 5.99"
+          }
+        },
+        {
           "timestamp": 1793683824235,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -138399,7 +138433,7 @@
       "+2026 boosters ECO-Initiative!": "USD 4.99",
       "+444! Triple-Four Booster Pack": "USD 2.29",
       "+100 boosters ECO-Initiative!": "USD 1.00",
-      "Full scenarios": "USD 1.99"
+      "Full scenarios": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -138413,6 +138447,19 @@
       "Full scenarios": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Full scenarios": "USD 4.99",
+            "+2026 boosters ECO-Initiative!": "USD 4.29",
+            "+444! Triple-Four Booster Pack": "USD 2.00",
+            "+100 boosters ECO-Initiative!": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -215566,6 +215613,23 @@
     "history": [
       [
         {
+          "timestamp": 1793713301535,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "組合・光之騎士團": "USD 9.99",
+            "服裝 · 萬聖節套組 3": "USD 2.99",
+            "服裝 · 萬聖節套組 2": "USD 2.99",
+            "服裝 · 萬聖節套組 1": "USD 2.99",
+            "付費角色・艾洛溫": "USD 0.99",
+            "付費角色・蘿潔爾": "USD 0.99",
+            "付費角色・薩爾古爾": "USD 0.99",
+            "付費角色・菲涅": "USD 0.99",
+            "付費角色・伊蕾娜": "USD 0.99",
+            "贊助第一階・贊助者": "USD 0.49"
+          }
+        },
+        {
           "timestamp": 1793683824235,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -217512,13 +217576,34 @@
     "name": "TypeDraw",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "formattedPrice": "USD 4.99",
+      "Sahara Notebook": "USD 1.99",
+      "Highlands Notebook": "USD 1.99",
+      "Bordeaux Notebook": "USD 1.99",
+      "Atlantic Notebook": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "formattedPrice": "USD 4.99",
+      "Sahara Notebook": "USD 1.99",
+      "Highlands Notebook": "USD 1.99",
+      "Bordeaux Notebook": "USD 1.99",
+      "Atlantic Notebook": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793713301535,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Sahara Notebook": "USD 1.99",
+            "Highlands Notebook": "USD 1.99",
+            "Bordeaux Notebook": "USD 1.99",
+            "Atlantic Notebook": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793160762894,
@@ -217688,6 +217773,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793713301535,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793683824235,
           "price": 2.99,
