@@ -18782,6 +18782,27 @@
       ]
     ]
   },
+  "408625926": {
+    "name": "GPS 2 IP",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "408697793": {
     "name": "King of Opera",
     "maxPriceInfo": {
@@ -89506,6 +89527,20 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "120 顆寶石": "$290.00",
+            "50 顆寶石": "$120.00",
+            "1400 顆寶石": "$2,490.00",
+            "650 顆寶石": "$1,290.00",
+            "250 顆寶石": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -92782,6 +92817,25 @@
       "秘密書房精選輯第十四部-B": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$120.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節B": "$120.00",
+            "擴充章節 U": "$120.00",
+            "擴充章節 I": "$120.00",
+            "支線第二章": "$120.00",
+            "擴充章節H": "$120.00",
+            "擴充章節E": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792147638203,
@@ -152201,6 +152255,14 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792600862887,
           "price": 20,
           "formattedPrice": "$20.00",
@@ -152646,6 +152708,19 @@
       "Eternal Embers DLC": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$170.00",
+            "Ragnarök DLC": "$170.00",
+            "Atlantis DLC": "$170.00",
+            "Eternal Embers DLC": "$170.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -153787,6 +153862,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793217915729,
@@ -172475,6 +172558,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 55,
+          "formattedPrice": "$55.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -193471,6 +193562,14 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 55,
+          "formattedPrice": "$55.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 330,
           "formattedPrice": "$330.00",
@@ -196836,6 +196935,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 55,
+          "formattedPrice": "$55.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -215764,11 +215871,21 @@
       "Mr. X Nightmare DLC": "$90.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "Mr. X Nightmare DLC": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -240799,6 +240916,25 @@
       "五子良將": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "五子良將": "$190.00",
+            "戰國七雄": "$190.00",
+            "群雄爭霸": "$90.00",
+            "楚漢爭霸": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "終身版": "$220.00",
+            "巾幗綻芳華": "$120.00",
+            "無雙戰神": "$190.00",
+            "自創寶物": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793353134370,
@@ -302194,6 +302330,14 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793480512067,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -311909,6 +312053,19 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Legend of Keepers - DLC Bundle": "$125.00",
+            "Soul Smugglers": "$60.00",
+            "Feed the Troll": "$60.00",
+            "Return of the Goddess": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792553339588,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -315561,6 +315718,19 @@
       "皮膚券 x1": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "經驗祝福": "$60.00",
+            "皮膚券 x3": "$30.00",
+            "皮膚券 x8": "$90.00",
+            "皮膚券 x1": "$10.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792600862887,
@@ -324068,6 +324238,27 @@
             "擴充包2・吳統一與真結局": "$90.00",
             "出身包1・太平道之子": "$60.00"
           }
+        }
+      ]
+    ]
+  },
+  "6827745244": {
+    "name": "Vize: Yaşam Simülasyonu",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
         }
       ]
     ]

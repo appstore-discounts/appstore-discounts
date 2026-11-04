@@ -22965,6 +22965,29 @@
       ]
     ]
   },
+  "408625926": {
+    "trackId": 408625926,
+    "trackName": "GPS 2 IP",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "408697793": {
     "trackId": 408697793,
     "trackName": "King of Opera",
@@ -253839,6 +253862,23 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Special Daily Pack7": "$1.99",
+            "Hero Zhara": "$4.99",
+            "Unit Group Ascendii On Sale": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793788232799,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -343630,6 +343670,14 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793480512067,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -360668,7 +360716,7 @@
   },
   "6762850272": {
     "trackId": 6762850272,
-    "trackName": "Büfeci",
+    "trackName": "Snack Stand",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,
@@ -366112,6 +366160,23 @@
     "history": [
       [
         {
+          "timestamp": 1793820298773,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Tower Alchemist": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Tower Wildcat": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        },
+        {
           "timestamp": 1793788232799,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -368806,6 +368871,29 @@
             "擴充包2・吳統一與真結局": "$3.99",
             "擴充包1・蜀統一": "$3.99"
           }
+        }
+      ]
+    ]
+  },
+  "6827745244": {
+    "trackId": 6827745244,
+    "trackName": "Vize: Yaşam Simülasyonu",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793820298773,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
         }
       ]
     ]

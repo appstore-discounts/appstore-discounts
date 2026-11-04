@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2400` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2402` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2402|408625926|Automatic|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
+|2401|6827745244|Automatic|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
 |2400|554766778|Automatic|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|
 |2399|6819103516|Automatic|❌|百死一生|百死一生|百死一生|百死一生|百死一生|百死一生|
 |2398|6781948334|Automatic|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|
@@ -400,7 +402,7 @@ So far, we've covered `7` `Countries or Regions` and  `2400` `Apps` <br />Push n
 |2010|6749406060|Automatic|❌|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|
 |2009|385902072|Automatic|❌|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|
 |2008|975482646|Automatic|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|
-|2007|6762850272|Automatic|❌|Büfeci|Büfeci|Büfeci|Büfeci|Büfeci|Büfeci|
+|2007|6762850272|Automatic|❌|Büfeci|Büfeci|Büfeci|Snack Stand|Snack Stand|Büfeci|
 |2006|1434964023|Automatic|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
 |2005|1483947937|Automatic|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
 |2004|6757171842|Automatic|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|

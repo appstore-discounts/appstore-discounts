@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2400` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2402` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2402|408625926|自动|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
+|2401|6827745244|自动|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
 |2400|554766778|自动|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|liveBPM - Beat Detector|
 |2399|6819103516|自动|❌|百死一生|百死一生|百死一生|百死一生|百死一生|百死一生|
 |2398|6781948334|自动|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|Perfect Viewer X|
@@ -400,7 +402,7 @@
 |2010|6749406060|自动|❌|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|
 |2009|385902072|自动|❌|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|
 |2008|975482646|自动|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|
-|2007|6762850272|自动|❌|Büfeci|Büfeci|Büfeci|Büfeci|Büfeci|Büfeci|
+|2007|6762850272|自动|❌|Büfeci|Büfeci|Büfeci|Snack Stand|Snack Stand|Büfeci|
 |2006|1434964023|自动|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
 |2005|1483947937|自动|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
 |2004|6757171842|自动|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|

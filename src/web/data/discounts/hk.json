@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 998834675,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id998834675",
+    "trackName": "Clouds & Sheep 2 Premium",
+    "firstRecordedAt": 1745442137026
+  },
+  {
+    "trackId": 1424977227,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 78.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1424977227",
+    "trackName": "Titan Quest HD",
+    "firstRecordedAt": 1755861015760
+  },
+  {
+    "trackId": 1453820315,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 68.00",
+        "to": "HK$ 15.00",
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "HK$ 15.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1453820315",
+    "trackName": "This Is the Police 2",
+    "firstRecordedAt": 1745470938782
+  },
+  {
+    "trackId": 1523633394,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 78.00",
+        "to": "HK$ 15.00",
+        "range": "[HK$ 5.00 ~ HK$ 78.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "HK$ 15.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1523633394",
+    "trackName": "SpongeBob SquarePants",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1537362903,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 15.00",
+        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "HK$ 15.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1537362903",
+    "trackName": "Neighbours back From Hell",
+    "firstRecordedAt": 1745539765557
+  },
+  {
+    "trackId": 1601446687,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1601446687",
+    "trackName": "Streets of Rage 4",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6752503669,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 32.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6752503669",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
+    "firstRecordedAt": 1758269785305
+  },
+  {
+    "trackId": 6444660338,
+    "region": "hk",
+    "timestamp": 1793820298773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6444660338",
+    "trackName": "Legend of Keepers",
+    "firstRecordedAt": 1774976856780
+  },
+  {
     "trackId": 6759358968,
     "region": "hk",
     "timestamp": 1793738815054,
@@ -96,7 +256,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
       }
     ],
     "price": 18,
@@ -5037,7 +5197,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -12108,7 +12268,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -16997,7 +17157,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -22538,7 +22698,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -26467,7 +26627,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -32808,7 +32968,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -36156,7 +36316,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -39274,7 +39434,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -42681,7 +42841,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -46711,7 +46871,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -49195,7 +49355,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -50837,7 +50997,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 18,
@@ -53264,7 +53424,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 38.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 38,
@@ -57659,7 +57819,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 38.00",
-        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 58.00]"
       }
     ],
     "price": 38,
