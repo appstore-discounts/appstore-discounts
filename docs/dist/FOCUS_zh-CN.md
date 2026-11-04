@@ -524,7 +524,7 @@
 |1886|6752323092|自动|Bnafter|Bnafter|Bnafter|Bnafter|Bnafter|Bnafter|Bnafter|
 |1885|1112916047|自动|CopperKnob|CopperKnob|CopperKnob|CopperKnob|CopperKnob|CopperKnob|CopperKnob|
 |1884|6761159805|自动|DualShot Recorder|DualShot Recorder|DualShot Recorder|DualShot Recorder|DualShot Recorder|DualShot Recorder|DualShot Recorder|
-|1883|1492049794|自动|宗师-武林风云传|宗師-武林群俠風雲傳|宗師-武林群俠風雲傳|宗師-武林群俠風雲傳|宗师-武林风云传|宗师-武林风云传|宗师-武林风云传|
+|1883|1492049794|自动|宗师-武林风云传|武林群俠風雲傳|武林群俠風雲傳|武林群俠風雲傳|武林群侠风云传|武林群侠风云传|武林群侠风云传|
 |1882|1406794157|自动|我的私房菜-厨房 下厨 烹饪 料理 美食 家常菜 厨师 菜谱|我的私房菜-早餐 食譜 廚房 料理 美食 烹飪 做菜 筆記|我的私房菜-早餐 食譜 廚房 料理 美食 烹飪 做菜 筆記|我的私房菜-早餐 食譜 廚房 料理 美食 烹飪 做菜 筆記|My Cooking Recipe -My dish app|My Cooking Recipe - Tasty Dish|My Cooking Recipe -My dish app|
 |1881|1422196592|自动|堪舆透明罗盘|堪輿透明羅盤|堪輿透明羅盤|堪輿透明羅盤|FengShui Transparent Compass|FengShui Transparent Compass|堪輿透明羅盤|
 |1880|6749550770|自动|❌|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|Life Simulator RPG|
@@ -2239,7 +2239,7 @@
 |171|1316883372|手动|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|手动|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|手动|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|
-|168|1422480068|手动|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|Notes Writer Browser: Nautilus|
+|168|1422480068|手动|Nautilus：网页、文档、标注|Nautilus：網頁、文件、標註|Nautilus：網頁、文件、標註|Nautilus：網頁、文件、標註|Nautilus: Web, Docs, Annotate|Nautilus: Web, Docs, Annotate|Nautilus: Web, docs, anota|
 |167|6443915320|手动|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|❌|
 |166|884153085|手动|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|
 |165|1065802380|手动|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|

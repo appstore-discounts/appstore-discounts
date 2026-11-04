@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 479516143,
+    "region": "pt",
+    "timestamp": 1793754208144,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Minecraft Store Item 6",
+        "from": "6,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 6,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Minecraft Store Item 5",
+        "from": "5,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Minecraft Store Item 8",
+        "from": "8,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id479516143",
+    "trackName": "Minecraft",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6759358968,
     "region": "pt",
     "timestamp": 1793738815054,
@@ -130,7 +164,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -1821,7 +1855,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, docs, anota",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -2502,7 +2536,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -3713,7 +3747,7 @@
     "formattedPrice": "7,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, docs, anota",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -10847,7 +10881,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -12506,7 +12540,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -18590,7 +18624,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {

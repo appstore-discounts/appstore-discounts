@@ -65596,7 +65596,8 @@
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
       "Mazda 2024 Enhanced": "$14.99",
-      "Ford 2015 Enhanced Diagnostics": "$14.99"
+      "Ford 2015 Enhanced Diagnostics": "$14.99",
+      "Ford 2017 Enhanced": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -65628,10 +65629,28 @@
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
       "Mazda 2024 Enhanced": "$14.99",
-      "Ford 2015 Enhanced Diagnostics": "$14.99"
+      "Ford 2015 Enhanced Diagnostics": "$14.99",
+      "Ford 2017 Enhanced": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1793754208144,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2017 Enhanced": "$14.99"
+          }
+        },
         {
           "timestamp": 1793713301535,
           "price": 9.99,
@@ -156268,6 +156287,25 @@
     "history": [
       [
         {
+          "timestamp": 1793754208144,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Monster Succession": "$4.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakening Viper Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Original Monster Package": "$8.99",
+            "Torture Master Package": "$22.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793353134370,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -168738,7 +168776,7 @@
     ]
   },
   "1422480068": {
-    "name": "Notes Writer Browser: Nautilus",
+    "name": "Nautilus: Web, Docs, Annotate",
     "maxPriceInfo": {
       "price": 14.99,
       "formattedPrice": "$14.99",
@@ -183969,6 +184007,25 @@
       "Magic Package LevelUp 1-10": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793754208144,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "LegendaryPackage": "$19.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -203175,7 +203232,7 @@
     ]
   },
   "1492049794": {
-    "name": "宗师-武林风云传",
+    "name": "武林群侠风云传",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
@@ -226560,6 +226617,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793754208144,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Welcome Offer": "$9.99",
+            "Sports and Games Pack": "$7.99"
+          }
+        },
         {
           "timestamp": 1793738815054,
           "price": 1.99,
@@ -250828,6 +250902,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793754208144,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Unit Group Jaegers On Sale": "$4.99"
+          }
+        },
         {
           "timestamp": 1793738815054,
           "price": 0.99,
@@ -305767,6 +305858,25 @@
     "history": [
       [
         {
+          "timestamp": 1793754208144,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "UH-60": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793189479893,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -354976,6 +355086,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793754208144,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "Elite Annual": "$7.99",
+            "Clone de Sensi": "$0.99",
+            "10 Tokens Coach IA": "$4.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "Clone Sensi – 3 Clonagens": "$1.99",
+            "3 Tokens Coach IA": "$1.99"
+          }
+        },
         {
           "timestamp": 1793683824235,
           "price": 0.99,
