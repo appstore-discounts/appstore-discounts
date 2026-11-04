@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-11-04T02:37:16.983Z</updated>
+    <updated>2026-11-04T12:10:08.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-04T02:37:16.986Z</updated>
+        <updated>2026-11-04T12:10:08.404Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkWed, 04 Nov 2026 02:37:16 GMT</id>
+        <id>rankinghkWed, 04 Nov 2026 12:10:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-04T02:37:16.986Z</updated>
+        <updated>2026-11-04T12:10:08.404Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -97,14 +97,22 @@ feedId:157008141708743680+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6824686276?lang=zh-CN">Wider - Fullscreen Browsing</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/479516143?lang=zh-CN">Minecraft</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>2</b>
           </li><li>
-            <span>价格</span>：<b>2</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>Minecraft Store Item 10</i>：<b>1</b>
+              </li><li>
+                <i>Minecraft Store Item 6</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -114,20 +122,14 @@ feedId:157008141708743680+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/479516143?lang=zh-CN">Minecraft</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/6824686276?lang=zh-CN">Wider - Fullscreen Browsing</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>1</b>
+            <span>总次数</span>：<b>2</b>
           </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買</span><ol>
-              <li>
-                <i>Minecraft Store Item 10</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>价格</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -1220,6 +1222,56 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Minecraft]]></title>
+        <id>Minecraft-hk-1793788232799</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/479516143?lang=zh-CN"/>
+        <updated>2026-11-04T10:30:32.799Z</updated>
+        <summary type="html"><![CDATA[Minecraft Store Item 6: HK$ 48.00 → HK$ 47.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/479516143?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/09/34/720934b1-4519-6661-cc9c-075075d54a38/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Minecraft Store Item 6：</strong><span>HK$ 48.00</span> → <b>
+  <strong>HK$ 47.00</strong>
+</b><span>[HK$ 47.00 ~ HK$ 48.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 56.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Realms Plus:10 Friends w/trial：<b>HK$ 58.00</b>
+  </li><li>
+    Minecraft Store Item 2：<b>HK$ 16.00</b>
+  </li><li>
+    Realms Monthly Subscription: You + 2 Friends：<b>HK$ 28.00</b>
+  </li><li>
+    Minecraft Store Item 6：<b>HK$ 47.00</b>
+  </li><li>
+    Minecraft Store Item 3：<b>HK$ 24.00</b>
+  </li><li>
+    Realms Plus: You + 10 Friends：<b>HK$ 58.00</b>
+  </li><li>
+    Minecraft Store Item 4：<b>HK$ 32.00</b>
+  </li><li>
+    Minecraft Store Item 5：<b>HK$ 40.00</b>
+  </li><li>
+    Minecraft Store Item 10：<b>HK$ 78.00</b>
+  </li><li>
+    Minecraft Store Item 1：<b>HK$ 8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  您可探索隨機產生的世界，也能搭造有意思的建物，從最簡單的家屋到最雄偉的城堡都能辦到。玩創造模式時會有無限資源可供運用，在生存模式中整個世界任您挖掘，並可打造武器和盔甲，擊退危險的生物。
+
+外觀、材質，與來自社群的混搭套件！詳情請參閱 minecraft.net/marketplace。 
+
+可單獨創作、探索與求生，也能在行動裝置或 Windows 10 上與好友同樂。
+
+我們的隱私規定和使用規定連結如下：
+隱私規定：https://www.minecraft.net/privacy/gdpr
+使用規定：https://account.mojang.com/terms
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/e3/80/a4e380de-61c9-c17b-a423-9e45761ce085/3409eb14-d7f2-4e3c-88a9-5cb16f330a4a_ios_5.5_2208x1242_zh-TW_screenshot7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/2e/cc/2f2eccbe-da3e-992d-ee9a-04919b5e4945/8f2fc0b6-edd6-405e-8e43-45df6007b258_ios_5.5_2208x1242_zh-TW_screenshot8.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/fe/8b/61fe8bca-4fcd-102c-6145-cccc49df225a/c75bc8ad-4728-441d-b8f6-f3bb83a5c244_ios_5.5_2208x1242_zh-TW_screenshot9.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/13/81/09138115-9cec-660d-0bab-ef75b4515488/17b7623e-a1d2-4d39-a3cb-9a8a9126a790_ios_5.5_2208x1242_zh-TW_screenshot1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/75/da/6e/75da6e57-f412-f7a4-ebd3-39bd643ab5e1/285a9e5d-30dd-40a7-848f-513db482bfd9_TrailsAndTales_Apple_2208x1242_ZH-HANT.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/00/cc/ba00cc65-f702-d868-cd29-0f63c7b17da4/565f226f-2781-40ea-8e6b-c819d8e26c1d_ios_5.5_2208x1242_zh-TW_screenshot2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/18/11/39181163-03eb-f0c4-d3aa-d4cbdadadab7/623e629f-4f27-4526-8642-c9e4d86ddfb7_LushCaves_2208x1242_TW.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/22/ee/5022ee27-d7f9-47c2-06e4-229ce1eb5c73/7efef063-4770-4d85-acfb-2becddec39c6_Goat_2208x1242_TW.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/4a/e6/6c4ae609-5da7-7a91-f39d-8fa9e840c3dc/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/a0/1b/70a01be4-3de2-51af-33be-2fd506a5465c/fa11b15e-aa90-4a8a-abf2-a551d0ca8e62_ios_5.5_2208x1242_zh-TW_screenshot6.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/a4/32/a5a43251-e7e2-7c32-e3fd-b92ba539764c/3cb43eea-b776-4eb8-8c7b-851535228558_ios_12.9_2732x2048_zh-TW_screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/f8/d6/41f8d66b-632f-d116-1cd9-fdb7d00a123b/ec8ac5d1-7fcf-4f83-885b-5a3b559bded5_ios_12.9_2732x2048_zh-TW_screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/2d/bf/b32dbf43-1ed1-09b9-d752-cf53b9047ca9/f2057183-3c9c-4dab-ac0f-ae814a71ec5c_ios_12.9_2732x2048_zh-TW_screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/a9/d1/b4a9d197-ed3a-2756-aa91-91137325757e/23adbefd-7fff-40af-9d55-715335e66fa4_ios_12.9_2732x2048_zh-TW_screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/30/58/0b30583d-767f-6d53-ab6e-6f0eae33f768/f8e392ad-4668-4a6e-82c1-d84a3dcd9e59_ios_12.9_2732x2048_zh-TW_screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/80/18/8580184b-aa12-51f7-bf2a-761667e21119/cfab75b5-7421-499f-9583-c0aa0836a702_LushCaves_2732x2048_TW.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/4c/0e/114c0eb3-9473-7887-f610-5cd3ae0a45c9/10882b13-a89e-42c9-a23b-883bddd39473_Goat_2732x2048_TW.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/27/44/5c/27445cad-b1d5-8fc7-b811-cd9f7ec6ac11/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/96/b6/df96b6a3-ee30-4d8d-779c-c555602b7d57/4fca4c74-cbcd-46b4-a2eb-32350c6e56f0_ios_12.9_2732x2048_zh-TW_screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/a1/bb/2ea1bb73-d3b7-0920-5754-2193eed948bd/1ebe04bb-9559-4da7-99cd-73bfefa8ed98_ios_12.9_2732x2048_zh-TW_screenshot3.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft]]></title>
         <id>Minecraft-hk-1793754208144</id>
         <link href="https://appstore-discounts.eyelly.me/hk/479516143?lang=zh-CN"/>
         <updated>2026-11-04T01:03:28.144Z</updated>
@@ -1727,24 +1779,5 @@ Use the Wider toggle button in the right navbar to quickly toggle between normal
 
 Wider doesn't work on every website. If a website doesn't work as expected, you can report it through the app and I'll try to improve compatibility.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2f/cf/972fcf27-e6cc-60f9-ce21-7ebebdbc59ab/Frame_14.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/00/02/4300026c-f626-76de-2b65-1f5a393dda41/Frame_15.png/320x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能備忘錄]]></title>
-        <id>全能備忘錄-hk-1793507830430</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/1587301632?lang=zh-CN"/>
-        <updated>2026-11-01T04:37:10.430Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 32.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1587301632?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 32.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[免費 ~ HK$ 32.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 8.00</b>
-</p><h2>应用描述</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
