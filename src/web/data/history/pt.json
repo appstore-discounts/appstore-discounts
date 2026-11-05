@@ -43905,6 +43905,25 @@
     "history": [
       [
         {
+          "timestamp": 1793907156005,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "金牛会员月版": "2,99 €",
+            "云参数KDJ7天服务": "3,99 €",
+            "云参数MACD7天服务": "3,99 €",
+            "云参数RSI7天服务": "3,99 €",
+            "云参数WR7天服务": "3,99 €",
+            "手机Level-2包年服务": "14,99 €",
+            "手机短线宝3个月": "79,99 €",
+            "神奇电波选股包月服务": "17,99 €",
+            "手机云参数月版": "17,99 €",
+            "涨停助手年版": "179,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1771641416999,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -82148,7 +82167,16 @@
       "Glow in the Dark Ghost": "3,49 €",
       "Glow in the Dark Alien": "3,49 €",
       "Enchanted Forest Token Bundle": "9,99 €",
-      "Victorian London Board": "6,99 €"
+      "Victorian London Board": "6,99 €",
+      "Pegasus Premium+ Token": "9,99 €",
+      "Premium Horses Pack": "19,99 €",
+      "Royal Guard Kintsugi Token": "3,49 €",
+      "Lion Kintsugi Token": "3,49 €",
+      "Crown Kintsugi Token": "3,49 €",
+      "Clocktower Kintsugi Token": "3,49 €",
+      "Wolf Kintsugi Token": "3,49 €",
+      "Throne Kintsugi Token": "3,49 €",
+      "Goblet Kintsugi Token": "3,49 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -82346,10 +82374,35 @@
       "Glow in the Dark Ghost": "3,49 €",
       "Glow in the Dark Alien": "3,49 €",
       "Enchanted Forest Token Bundle": "9,99 €",
-      "Victorian London Board": "6,99 €"
+      "Victorian London Board": "6,99 €",
+      "Pegasus Premium+ Token": "9,99 €",
+      "Premium Horses Pack": "19,99 €",
+      "Royal Guard Kintsugi Token": "3,49 €",
+      "Lion Kintsugi Token": "3,49 €",
+      "Crown Kintsugi Token": "3,49 €",
+      "Clocktower Kintsugi Token": "3,49 €",
+      "Wolf Kintsugi Token": "3,49 €",
+      "Throne Kintsugi Token": "3,49 €",
+      "Goblet Kintsugi Token": "3,49 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1793907156005,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Pegasus Premium+ Token": "9,99 €",
+            "Premium Horses Pack": "19,99 €",
+            "Royal Guard Kintsugi Token": "3,49 €",
+            "Lion Kintsugi Token": "3,49 €",
+            "Crown Kintsugi Token": "3,49 €",
+            "Clocktower Kintsugi Token": "3,49 €",
+            "Wolf Kintsugi Token": "3,49 €",
+            "Throne Kintsugi Token": "3,49 €",
+            "Goblet Kintsugi Token": "3,49 €"
+          }
+        },
         {
           "timestamp": 1793874237037,
           "price": 4.99,
@@ -157134,14 +157187,22 @@
     "trackName": "Duopaper: Fundos HD para ecrãs",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793788232799,
@@ -157506,7 +157567,8 @@
       "出身包1・太平道之子": "1,99 €",
       "天下統一版": "7,99 €",
       "擴充包2・吳統一與真結局": "3,99 €",
-      "擴充包1・蜀統一": "3,99 €"
+      "擴充包1・蜀統一": "3,99 €",
+      "出身包2・河北之子": "1,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -157514,9 +157576,24 @@
       "出身包1・太平道之子": "1,99 €",
       "天下統一版": "7,99 €",
       "擴充包2・吳統一與真結局": "3,99 €",
-      "擴充包1・蜀統一": "3,99 €"
+      "擴充包1・蜀統一": "3,99 €",
+      "出身包2・河北之子": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "出身包2・河北之子": "1,99 €",
+            "出身包1・太平道之子": "1,99 €",
+            "天下統一版": "7,99 €",
+            "擴充包2・吳統一與真結局": "3,99 €",
+            "擴充包1・蜀統一": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793654775026,
@@ -157550,6 +157627,29 @@
           "timestamp": 1793820298773,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762192063": {
+    "trackId": 6762192063,
+    "trackName": "Absolum",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -253737,6 +253737,25 @@
     "history": [
       [
         {
+          "timestamp": 1793907156005,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Concorde": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 787-10": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793820298773,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -278393,6 +278412,25 @@
       "Kitchen Chaos Pack": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "₺49,99",
+            "Santa Claws Pack": "₺199,99",
+            "Under the Tree location": "₺99,99",
+            "Santa Claws Emoji Pack": "₺49,99",
+            "All Wrapped Up outfit": "₺99,99",
+            "Snow Globe Outfit": "₺99,99",
+            "Mystic Mayhem Location": "₺49,99",
+            "MysticMayhem Cauldron Creature": "₺99,99",
+            "Mystic Mayhem Emoji Pack": "₺99,99",
+            "Mystic Mayhem Card Back": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784632071349,
@@ -303281,6 +303319,25 @@
     "history": [
       [
         {
+          "timestamp": 1793907156005,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ashbite": "₺399,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Oni": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Gems Chest": "₺999,99",
+            "Tower Wildcat": "₺249,99",
+            "Spell Zapper": "₺99,99",
+            "Tower Alchemist": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793738815054,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -306095,14 +306152,22 @@
     "trackName": "Duopaper: Panoramic Wallpapers",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793788232799,
@@ -306537,7 +306602,8 @@
       "出身包1・太平道之子": "₺99,99",
       "天下統一版": "₺399,99",
       "擴充包2・吳統一與真結局": "₺199,99",
-      "擴充包1・蜀統一": "₺199,99"
+      "擴充包1・蜀統一": "₺199,99",
+      "出身包2・河北之子": "₺99,99"
     },
     "minPriceInfo": {
       "price": 299.99,
@@ -306545,9 +306611,24 @@
       "出身包1・太平道之子": "₺99,99",
       "天下統一版": "₺399,99",
       "擴充包2・吳統一與真結局": "₺199,99",
-      "擴充包1・蜀統一": "₺199,99"
+      "擴充包1・蜀統一": "₺199,99",
+      "出身包2・河北之子": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "出身包2・河北之子": "₺99,99",
+            "出身包1・太平道之子": "₺99,99",
+            "天下統一版": "₺399,99",
+            "擴充包2・吳統一與真結局": "₺199,99",
+            "擴充包1・蜀統一": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793654775026,
@@ -306581,6 +306662,29 @@
           "timestamp": 1793820298773,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762192063": {
+    "trackId": 6762192063,
+    "trackName": "Absolum",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
           "inAppPurchases": {}
         }
       ]

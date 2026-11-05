@@ -11449,6 +11449,17 @@
     "history": [
       [
         {
+          "timestamp": 1793907156005,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "I <3 Analog Filter Pack": "$0.99",
+            "Hollywood Filter Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787131983558,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -193500,6 +193511,25 @@
     "history": [
       [
         {
+          "timestamp": 1793907156005,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tales of Valor - Spanish": "$0.00",
+            "Tales of Valor - German": "$0.00",
+            "Tales of Valor - Russian": "$0.00",
+            "Tales of Valor - French": "$0.00",
+            "Tales of Valor": "$3.99",
+            "Opposing Fronts - French": "$0.00",
+            "Opposing Fronts - German": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "Opposing Fronts - Spanish": "$0.00",
+            "Opposing Fronts": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789253463981,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -254086,6 +254116,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793907156005,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Unit Group Jaegers On Sale": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Special Daily Pack7": "$1.99"
+          }
+        },
         {
           "timestamp": 1793874237037,
           "price": 0.99,
@@ -368877,14 +368924,22 @@
     "trackName": "Duopaper: Panoramic Wallpapers",
     "region": "us",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793788232799,
@@ -369241,7 +369296,8 @@
       "出身包1・太平道之子": "$1.99",
       "天下統一版": "$6.99",
       "擴充包2・吳統一與真結局": "$3.99",
-      "擴充包1・蜀統一": "$3.99"
+      "擴充包1・蜀統一": "$3.99",
+      "出身包2・河北之子": "$1.99"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -369249,9 +369305,24 @@
       "出身包1・太平道之子": "$1.99",
       "天下統一版": "$6.99",
       "擴充包2・吳統一與真結局": "$3.99",
-      "擴充包1・蜀統一": "$3.99"
+      "擴充包1・蜀統一": "$3.99",
+      "出身包2・河北之子": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "出身包2・河北之子": "$1.99",
+            "出身包1・太平道之子": "$1.99",
+            "天下統一版": "$6.99",
+            "擴充包2・吳統一與真結局": "$3.99",
+            "擴充包1・蜀統一": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793654775026,
@@ -369285,6 +369356,29 @@
           "timestamp": 1793820298773,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762192063": {
+    "trackId": 6762192063,
+    "trackName": "Absolum",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793907156005,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
           "inAppPurchases": {}
         }
       ]

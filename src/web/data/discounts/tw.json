@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "tw",
+    "timestamp": 1793907156005,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$10.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6786115854,
+    "region": "tw",
+    "timestamp": 1793907156005,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$190.00",
+        "range": "[$150.00 ~ $320.00]"
+      }
+    ],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
     "trackId": 469343554,
     "region": "tw",
     "timestamp": 1793874237037,
@@ -431,7 +471,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $120.00]"
+        "range": "[$60.00 ~ $150.00]"
       }
     ],
     "price": 60,
