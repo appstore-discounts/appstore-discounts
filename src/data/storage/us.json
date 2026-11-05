@@ -136553,7 +136553,17 @@
       "Gem Pack": "$9.99",
       "US$99.9 Chips": "$99.99",
       "US$29.99 Chips": "$29.99",
-      "US$49.9 Chips": "$49.99"
+      "US$49.9 Chips": "$49.99",
+      "$10,000 chips": "$0.99",
+      "$33,000 chips": "$2.99",
+      "$120,000 chips": "$9.99",
+      "$250,000 chips": "$19.99",
+      "$650,000 chips": "$49.99",
+      "$1,500,000 chips": "$99.99",
+      "$1,000,000 chips": "$0.99",
+      "$5,000,000 chips": "$2.99",
+      "$50,000,000 chips": "$9.99",
+      "$200,000,000 chips": "$19.99"
     },
     "minPriceInfo": {
       "price": 12.99,
@@ -136564,9 +136574,38 @@
       "Gem Pack": "$9.99",
       "US$99.9 Chips": "$99.99",
       "US$29.99 Chips": "$29.99",
-      "US$49.9 Chips": "$49.99"
+      "US$49.9 Chips": "$49.99",
+      "$10,000 chips": "$0.99",
+      "$33,000 chips": "$2.99",
+      "$120,000 chips": "$9.99",
+      "$250,000 chips": "$19.99",
+      "$650,000 chips": "$49.99",
+      "$1,500,000 chips": "$99.99",
+      "$1,000,000 chips": "$0.99",
+      "$5,000,000 chips": "$2.99",
+      "$50,000,000 chips": "$9.99",
+      "$200,000,000 chips": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793841525729,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {
+            "$10,000 chips": "$0.99",
+            "$33,000 chips": "$2.99",
+            "$120,000 chips": "$9.99",
+            "$250,000 chips": "$19.99",
+            "$650,000 chips": "$49.99",
+            "$1,500,000 chips": "$99.99",
+            "$1,000,000 chips": "$0.99",
+            "$5,000,000 chips": "$2.99",
+            "$50,000,000 chips": "$9.99",
+            "$200,000,000 chips": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789772536425,
@@ -251022,6 +251061,23 @@
     "history": [
       [
         {
+          "timestamp": 1793841525729,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Special Daily Pack7": "$1.99",
+            "Hero Zhara": "$4.99",
+            "Unit Group Jaegers On Sale": "$4.99"
+          }
+        },
+        {
           "timestamp": 1793820298773,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -306032,6 +306088,23 @@
     "history": [
       [
         {
+          "timestamp": 1793841525729,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "UH-60": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793788232799,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -347357,7 +347430,8 @@
       "Pad Pulse Pro": "$1.99",
       "Sequencer Pro": "$2.99",
       "StageLab": "$5.99",
-      "Worship Pad": "$0.99"
+      "Worship Pad": "$0.99",
+      "Live Loops": "$5.99"
     },
     "minPriceInfo": {
       "price": 1.69,
@@ -347377,9 +347451,29 @@
       "Pad Pulse Pro": "$1.99",
       "Sequencer Pro": "$2.99",
       "StageLab": "$3.69",
-      "Worship Pad": "$0.99"
+      "Worship Pad": "$0.99",
+      "Live Loops": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793841525729,
+          "price": 1.69,
+          "formattedPrice": "$1.69",
+          "inAppPurchases": {
+            "PadLab Full App": "$4.59",
+            "Pad Mix Pro": "$1.99",
+            "Pad Pulse Pro": "$1.99",
+            "StageLab": "$3.69",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "Worship Pad": "$0.99",
+            "Live Loops": "$5.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793738815054,
@@ -361835,6 +361929,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793841525729,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Tower Alchemist": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99",
+            "Gems Pouch": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Gems Handful": "$2.99"
+          }
+        },
         {
           "timestamp": 1793820298773,
           "price": 6.99,
