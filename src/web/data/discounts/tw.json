@@ -1,5 +1,133 @@
 [
   {
+    "trackId": 469343554,
+    "region": "tw",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$170.00",
+        "to": "$33.00",
+        "range": "[$33.00 ~ $170.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id469343554",
+    "trackName": "洛克人X",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 882362024,
+    "region": "tw",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$33.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $33.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Main Story Set",
+        "from": "$490.00",
+        "to": "$270.00",
+        "range": "[$270.00 ~ $490.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Special Episode",
+        "from": "$100.00",
+        "to": "$40.00",
+        "range": "[$40.00 ~ $100.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Costume Set",
+        "from": "$33.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $33.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id882362024",
+    "trackName": "Ace Attorney: Dual Destinies",
+    "firstRecordedAt": 1788602462583
+  },
+  {
+    "trackId": 1136993233,
+    "region": "tw",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$33.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $33.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "All Episodes Set",
+        "from": "$490.00",
+        "to": "$270.00",
+        "range": "[$270.00 ~ $490.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1136993233",
+    "trackName": "Apollo Justice Ace Attorney",
+    "firstRecordedAt": 1761304267230
+  },
+  {
+    "trackId": 1621065119,
+    "region": "tw",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$790.00",
+        "to": "$280.00",
+        "range": "[$280.00 ~ $790.00]"
+      }
+    ],
+    "price": 280,
+    "formattedPrice": "$280.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1621065119",
+    "trackName": "逆轉裁判123成步堂精選集",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 6446021269,
+    "region": "tw",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$860.00",
+        "to": "$90.00",
+        "range": "[$33.00 ~ $940.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6446021269",
+    "trackName": "ROCKMAN X DiVE Offline",
+    "firstRecordedAt": 1745481777335
+  },
+  {
     "trackId": 998834675,
     "region": "tw",
     "timestamp": 1793820298773,

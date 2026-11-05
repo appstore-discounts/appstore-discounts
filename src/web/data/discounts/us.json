@@ -1,5 +1,253 @@
 [
   {
+    "trackId": 882362024,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $0.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Main Story Set",
+        "from": "$14.99",
+        "to": "$9.49",
+        "range": "[$9.49 ~ $14.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Special Episode",
+        "from": "$2.99",
+        "to": "$1.49",
+        "range": "[$1.49 ~ $2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Costume Set",
+        "from": "$0.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $0.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id882362024",
+    "trackName": "Ace Attorney: Dual Destinies",
+    "firstRecordedAt": 1788602462583
+  },
+  {
+    "trackId": 998834675,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id998834675",
+    "trackName": "Clouds & Sheep 2 Premium",
+    "firstRecordedAt": 1745442137026
+  },
+  {
+    "trackId": 1136993233,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $0.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "All Episodes Set",
+        "from": "$14.99",
+        "to": "$9.49",
+        "range": "[$9.49 ~ $14.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1136993233",
+    "trackName": "Apollo Justice Ace Attorney",
+    "firstRecordedAt": 1761304267230
+  },
+  {
+    "trackId": 1424977227,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$2.99",
+        "range": "[$0.99 ~ $10.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1424977227",
+    "trackName": "Titan Quest HD",
+    "firstRecordedAt": 1755861015760
+  },
+  {
+    "trackId": 1453820315,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $8.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1453820315",
+    "trackName": "This Is the Police 2",
+    "firstRecordedAt": 1745470938782
+  },
+  {
+    "trackId": 1523633394,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$1.99",
+        "range": "[$0.49 ~ $10.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1523633394",
+    "trackName": "SpongeBob SquarePants",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1537362903,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1537362903",
+    "trackName": "Neighbours back From Hell",
+    "firstRecordedAt": 1745539765557
+  },
+  {
+    "trackId": 1601446687,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$7.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $7.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1601446687",
+    "trackName": "Streets of Rage 4",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1621065119,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$24.99",
+        "to": "$9.89",
+        "range": "[$9.89 ~ $24.99]"
+      }
+    ],
+    "price": 9.89,
+    "formattedPrice": "$9.89",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1621065119",
+    "trackName": "Ace Attorney Trilogy",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 6446021269,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$29.99",
+        "to": "$2.99",
+        "range": "[$0.99 ~ $29.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6446021269",
+    "trackName": "MEGA MAN X DiVE Offline",
+    "firstRecordedAt": 1745481777335
+  },
+  {
+    "trackId": 6444660338,
+    "region": "us",
+    "timestamp": 1793874237037,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $6.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6444660338",
+    "trackName": "Legend of Keepers",
+    "firstRecordedAt": 1774976856780
+  },
+  {
     "trackId": 6752503669,
     "region": "us",
     "timestamp": 1793820298773,
@@ -5090,7 +5338,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -12300,7 +12548,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -17532,7 +17780,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -22789,7 +23037,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -26947,7 +27195,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -33479,7 +33727,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -36880,7 +37128,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -40214,7 +40462,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -43812,7 +44060,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -47460,7 +47708,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -49704,7 +49952,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -51442,7 +51690,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 1.99,
@@ -54017,7 +54265,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$4.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 4.99,
@@ -58433,7 +58681,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$4.99",
-        "range": "[$1.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 4.99,
