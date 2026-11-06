@@ -85528,6 +85528,25 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Grottoes Add-on": "$0.99",
+            "Heroes Add-on": "$3.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Heart of Evil Add-on": "$6.99",
+            "Invasion Add-on": "$4.99",
+            "Wonderwood Add-on": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793507830430,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -88568,6 +88587,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791173827832,
@@ -151366,7 +151393,7 @@
     ]
   },
   "1303222868": {
-    "name": "Paprika Recipe Manager 3",
+    "name": "Paprika Recipe Manager 4",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
@@ -151374,12 +151401,23 @@
       "Paprika 4 Premium": "$14.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Paprika 4 Premium (Discount)": "$9.99",
       "Paprika 4 Premium": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Paprika 4 Premium (Discount)": "$9.99",
+            "Paprika 4 Premium": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793234217965,
@@ -168657,13 +168695,31 @@
     "name": "Selene: Shift Calendar",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "A Latte": "$2.99",
+      "Coffee and Cake": "$4.99",
+      "A Cookie": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "A Latte": "$2.99",
+      "Coffee and Cake": "$4.99",
+      "A Cookie": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "A Latte": "$2.99",
+            "Coffee and Cake": "$4.99",
+            "A Cookie": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792231960258,
@@ -336302,6 +336358,14 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787284187290,
           "price": 8.99,
           "formattedPrice": "$8.99",
@@ -348488,6 +348552,23 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "CALICO RED/GRAY/BLACK": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "GRAY WHITE KITTY FISH": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "SKELETON FISH": "$1.99",
+            "ROBO FISH 02": "$1.99",
+            "ORANGE/WHITE": "$1.99"
+          }
+        },
+        {
           "timestamp": 1793960748222,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -354356,7 +354437,9 @@
       "Game Boy Advance": "$0.99",
       "Unlock All (Upgrade 4)": "$0.99",
       "Unlock All (Upgrade 3)": "$1.99",
-      "Unlock All": "$4.99"
+      "Unlock All": "$4.99",
+      "Unlock All (Upgrade 1)": "$3.99",
+      "Unlock All (Upgrade 2)": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -354371,9 +354454,30 @@
       "Game Boy Advance": "$0.99",
       "Unlock All (Upgrade 4)": "$0.99",
       "Unlock All (Upgrade 3)": "$1.99",
-      "Unlock All": "$4.99"
+      "Unlock All": "$4.99",
+      "Unlock All (Upgrade 1)": "$3.99",
+      "Unlock All (Upgrade 2)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock All": "$4.99",
+            "Unlock All (Upgrade 1)": "$3.99",
+            "Unlock All (Upgrade 2)": "$2.99",
+            "Unlock All (Upgrade 3)": "$1.99",
+            "Unlock All (Upgrade 4)": "$0.99",
+            "Game Boy Advance": "$0.99",
+            "SNES": "$0.99",
+            "Pokémon Mini": "$0.99",
+            "Atari 2600": "$0.99",
+            "Mega Drive / Genesis": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793234217965,
@@ -357897,6 +358001,14 @@
       "20 fuel to storage": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793480512067,

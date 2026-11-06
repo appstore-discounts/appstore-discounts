@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 931188326,
+    "region": "tw",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6760948683,
+    "region": "tw",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6760948683",
+    "trackName": "Digline：療癒挖礦",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 6759970821,
     "region": "tw",
     "timestamp": 1793960748222,
@@ -32882,7 +32922,7 @@
     "formattedPrice": "$90.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1303222868",
-    "trackName": "Paprika Recipe Manager 3",
+    "trackName": "Paprika Recipe Manager 4",
     "firstRecordedAt": 1745328692670
   },
   {

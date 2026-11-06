@@ -45306,6 +45306,22 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Package Ⅵ": "99,99 €",
+            "Package Ⅴ": "44,99 €",
+            "Package Ⅳ": "22,99 €",
+            "Package Ⅲ": "9,99 €",
+            "Package Ⅱ": "5,99 €",
+            "Package Ⅱ-other": "1,99 €",
+            "Package I": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -69390,7 +69406,7 @@
   },
   "1303222868": {
     "trackId": 1303222868,
-    "trackName": "Gestor de Receitas Paprika 3",
+    "trackName": "Gestor de Receitas Paprika 4",
     "region": "pt",
     "maxPriceInfo": {
       "price": 5.99,
@@ -69399,12 +69415,23 @@
       "Paprika 4 Premium": "17,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Paprika 4 Premium (desconto)": "9,99 €",
       "Paprika 4 Premium": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Paprika 4 Premium (desconto)": "9,99 €",
+            "Paprika 4 Premium": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793217915729,
@@ -70660,6 +70687,25 @@
       "Border": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Remove the Ad": "0,99 €",
+            "Crop": "0,00 €",
+            "Dub and Audio": "0,99 €",
+            "Pixelate": "0,99 €",
+            "Filter": "0,99 €",
+            "Add Text": "0,99 €",
+            "Convert into Gif": "0,99 €",
+            "Splice": "0,00 €",
+            "Border": "0,99 €",
+            "Sticker": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791764075164,
@@ -72137,6 +72183,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793991369986,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "3,99 €",
+            "TeaSet DarkLord Skin Package C": "5,99 €",
+            "Teaset Dark Lord Skin PackageB": "5,99 €",
+            "Teaset DarkLord Skin Package A": "5,99 €",
+            "Little Corr. Hero costume Pack": "29,99 €",
+            "Little Hero Costume Package": "29,99 €",
+            "Black Dark Lord Skin Package": "8,99 €",
+            "White Dark Lord Skin Package": "8,99 €",
+            "Awakening Viper Package": "5,99 €",
+            "Myth full pack": "44,99 €"
+          }
+        },
         {
           "timestamp": 1793960748222,
           "price": 3.99,
@@ -74828,13 +74891,31 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Um galão": "2,99 €",
+      "Café e bolo": "5,99 €",
+      "Uma bolacha": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Um galão": "2,99 €",
+      "Café e bolo": "5,99 €",
+      "Uma bolacha": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Um galão": "2,99 €",
+            "Café e bolo": "5,99 €",
+            "Uma bolacha": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792231960258,
@@ -149598,6 +149679,16 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Full Version Unlock": "5,99 €",
+            "BikeControl Pro": "2,79 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        },
+        {
           "timestamp": 1793960748222,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -150924,6 +151015,14 @@
       "20 fuel to storage": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793480512067,
@@ -155261,7 +155360,17 @@
       "Fantasia · Pacote Halloween 1": "2,99 €",
       "Herói · Elowyn Briar": "0,99 €",
       "Pacote · Cavaleiros da Luz": "9,99 €",
-      "Expansão · As Quatro Torres": "2,99 €"
+      "Expansão · As Quatro Torres": "2,99 €",
+      "Pacote · Gala dos cavaleiros": "2,99 €",
+      "Pacote · Floresta e oficina": "2,99 €",
+      "Pacote · Jardim nevado": "2,99 €",
+      "Pacote · Noite oriental": "2,99 €",
+      "Pacote · Lua e estrelas": "2,99 €",
+      "Rainha da caça outonal": "0,49 €",
+      "Gladiador de prata": "0,49 €",
+      "Princesa da neve": "0,49 €",
+      "Pacote · Gala das lendas": "3,99 €",
+      "Engenheira rúnica": "0,49 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -155281,9 +155390,38 @@
       "Fantasia · Pacote Halloween 1": "2,99 €",
       "Herói · Elowyn Briar": "0,99 €",
       "Pacote · Cavaleiros da Luz": "9,99 €",
-      "Expansão · As Quatro Torres": "2,99 €"
+      "Expansão · As Quatro Torres": "2,99 €",
+      "Pacote · Gala dos cavaleiros": "2,99 €",
+      "Pacote · Floresta e oficina": "2,99 €",
+      "Pacote · Jardim nevado": "2,99 €",
+      "Pacote · Noite oriental": "2,99 €",
+      "Pacote · Lua e estrelas": "2,99 €",
+      "Rainha da caça outonal": "0,49 €",
+      "Gladiador de prata": "0,49 €",
+      "Princesa da neve": "0,49 €",
+      "Pacote · Gala das lendas": "3,99 €",
+      "Engenheira rúnica": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pacote · Gala dos cavaleiros": "2,99 €",
+            "Pacote · Floresta e oficina": "2,99 €",
+            "Pacote · Jardim nevado": "2,99 €",
+            "Pacote · Noite oriental": "2,99 €",
+            "Pacote · Lua e estrelas": "2,99 €",
+            "Rainha da caça outonal": "0,49 €",
+            "Gladiador de prata": "0,49 €",
+            "Princesa da neve": "0,49 €",
+            "Pacote · Gala das lendas": "3,99 €",
+            "Engenheira rúnica": "0,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793754208144,

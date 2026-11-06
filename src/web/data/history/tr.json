@@ -14961,6 +14961,19 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {
+            "AI资源(100万词)": "₺699,99",
+            "欧路翻译AI超级会员(3个月)": "₺399,99",
+            "欧路翻译AI超级会员(1个月)": "₺149,99",
+            "欧路翻译AI超级会员(2年)": "₺1.999,99",
+            "欧路翻译AI超级会员(1年)": "₺1.299,99",
+            "AI资源(10万词)": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1793960748222,
           "price": 799.99,
           "formattedPrice": "₺799,99",
@@ -38882,6 +38895,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793991369986,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "₺49,99",
+            "Unlock All Vehicles": "₺499,99",
+            "Unlock All": "₺799,99",
+            "Hot Chrome paint job for all vehicles": "₺149,99",
+            "Pack of 10 Super Cops": "₺149,99",
+            "The Met paint job for all vehicles": "₺49,99",
+            "Donut Finder": "₺149,99",
+            "East Side paint job for all vehicles": "₺49,99",
+            "Pack of 50 Super Cops": "₺699,99",
+            "Seoul Rider paint job for all vehicles": "₺49,99"
+          }
+        },
         {
           "timestamp": 1793960748222,
           "price": 249.99,
@@ -81569,6 +81599,14 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791157842787,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -90722,6 +90760,22 @@
       "Package I": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Package Ⅵ": "₺4.999,99",
+            "Package Ⅴ": "₺1.999,99",
+            "Package Ⅳ": "₺999,99",
+            "Package Ⅲ": "₺499,99",
+            "Package Ⅱ": "₺249,99",
+            "Package Ⅱ-other": "₺99,99",
+            "Package I": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789081003914,
@@ -139125,7 +139179,7 @@
   },
   "1303222868": {
     "trackId": 1303222868,
-    "trackName": "Paprika Recipe Manager 3",
+    "trackName": "Paprika Recipe Manager 4",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -139134,12 +139188,23 @@
       "Paprika 4 Premium": "₺799,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Paprika 4 Premium (Discount)": "₺499,99",
       "Paprika 4 Premium": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Paprika 4 Premium (Discount)": "₺499,99",
+            "Paprika 4 Premium": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793217915729,
@@ -149919,13 +149984,31 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "formattedPrice": "₺499,99",
+      "A Latte": "₺149,99",
+      "Coffee and Cake": "₺249,99",
+      "A Biscuit": "₺49,99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "A Latte": "₺149,99",
+      "Coffee and Cake": "₺249,99",
+      "A Biscuit": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "A Latte": "₺149,99",
+            "Coffee and Cake": "₺249,99",
+            "A Biscuit": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792231960258,
@@ -210127,6 +210210,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793991369986,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Lisa character": "₺0,00",
+            "Elsa character": "₺49,99",
+            "Founders Pack": "₺49,99",
+            "Manuel character": "₺49,99",
+            "Marco character": "₺49,99",
+            "Gloria skin": "₺49,99",
+            "Yellow menu color": "₺49,99",
+            "Jack character": "₺49,99",
+            "Daniel skin": "₺49,99",
+            "Jorge skin": "₺49,99"
+          }
+        },
         {
           "timestamp": 1793960748222,
           "price": 99.99,
@@ -279543,6 +279643,14 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787274850915,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -286366,7 +286474,7 @@
       "price": 149.99,
       "formattedPrice": "₺149,99",
       "Raider Mk. 3": "₺1.499,99",
-      "Raider Mk. 2": "₺599,99",
+      "Raider Mk. 2": "₺699,99",
       "Raider Mk. 1": "₺249,99",
       "Raider Weekly": "₺99,99"
     },
@@ -286379,6 +286487,19 @@
       "Raider Weekly": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Raider Mk. 1": "₺199,99",
+            "Raider Mk. 2": "₺699,99",
+            "Raider Mk. 3": "₺999,99",
+            "Raider Weekly": "₺79,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787015391260,
@@ -298760,6 +298881,14 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793480512067,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -303337,7 +303466,17 @@
       "Costume · Halloween Set 1": "₺149,99",
       "Hero · Elowyn Briar": "₺49,99",
       "Bundle · Knights of Light": "₺499,99",
-      "Expansion · The Four Towers": "₺149,99"
+      "Expansion · The Four Towers": "₺149,99",
+      "Pack · Knights' Gala": "₺149,99",
+      "Pack · Forest and Forge": "₺149,99",
+      "Pack · Snowflower Garden": "₺149,99",
+      "Pack · Eastern Night": "₺149,99",
+      "Pack · Moon and Stars": "₺149,99",
+      "Autumn Hunt Queen": "₺29,99",
+      "Silver Gladiator": "₺29,99",
+      "Snow Festival Princess": "₺29,99",
+      "Pack · Gala of Legends": "₺199,99",
+      "Rune Engineer": "₺29,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -303357,9 +303496,38 @@
       "Costume · Halloween Set 1": "₺149,99",
       "Hero · Elowyn Briar": "₺49,99",
       "Bundle · Knights of Light": "₺499,99",
-      "Expansion · The Four Towers": "₺149,99"
+      "Expansion · The Four Towers": "₺149,99",
+      "Pack · Knights' Gala": "₺149,99",
+      "Pack · Forest and Forge": "₺149,99",
+      "Pack · Snowflower Garden": "₺149,99",
+      "Pack · Eastern Night": "₺149,99",
+      "Pack · Moon and Stars": "₺149,99",
+      "Autumn Hunt Queen": "₺29,99",
+      "Silver Gladiator": "₺29,99",
+      "Snow Festival Princess": "₺29,99",
+      "Pack · Gala of Legends": "₺199,99",
+      "Rune Engineer": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Pack · Knights' Gala": "₺149,99",
+            "Pack · Forest and Forge": "₺149,99",
+            "Pack · Snowflower Garden": "₺149,99",
+            "Pack · Eastern Night": "₺149,99",
+            "Pack · Moon and Stars": "₺149,99",
+            "Autumn Hunt Queen": "₺29,99",
+            "Silver Gladiator": "₺29,99",
+            "Snow Festival Princess": "₺29,99",
+            "Pack · Gala of Legends": "₺199,99",
+            "Rune Engineer": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793713301535,

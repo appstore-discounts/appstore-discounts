@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 982457990,
+    "region": "pt",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,29 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,29 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id982457990",
+    "trackName": "求生无限 - 单机经典无限流大冒险",
+    "firstRecordedAt": 1787737196607
+  },
+  {
+    "trackId": 1303222868,
+    "region": "pt",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 5,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1303222868",
+    "trackName": "Gestor de Receitas Paprika 4",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6760948683,
+    "region": "pt",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 4,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6760948683",
+    "trackName": "Digline: Mineração Relaxante",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 931188326,
     "region": "pt",
     "timestamp": 1793960748222,
@@ -31618,14 +31678,14 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 5,99 €]"
+        "range": "[Gratuito ~ 5,99 €]"
       }
     ],
     "price": 2.99,
     "formattedPrice": "2,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1303222868",
-    "trackName": "Gestor de Receitas Paprika 3",
+    "trackName": "Gestor de Receitas Paprika 4",
     "firstRecordedAt": 1761797674362
   },
   {

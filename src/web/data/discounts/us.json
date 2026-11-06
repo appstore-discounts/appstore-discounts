@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 931188326,
+    "region": "us",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1303222868,
+    "region": "us",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "Free",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1303222868",
+    "trackName": "Paprika Recipe Manager 4",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6760948683,
+    "region": "us",
+    "timestamp": 1793991369986,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6760948683",
+    "trackName": "Digline: Cozy Mining",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 1580067723,
     "region": "us",
     "timestamp": 1793960748222,
@@ -32571,14 +32631,14 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $4.99]"
+        "range": "[Free ~ $4.99]"
       }
     ],
     "price": 2.99,
     "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1303222868",
-    "trackName": "Paprika Recipe Manager 3",
+    "trackName": "Paprika Recipe Manager 4",
     "firstRecordedAt": 1745328692670
   },
   {

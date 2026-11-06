@@ -44893,6 +44893,14 @@
     "history": [
       [
         {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791131403610,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -53682,6 +53690,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788450692170,
@@ -69935,6 +69951,25 @@
       "幸运转盘": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "普通商会签约": "¥40.00",
+            "刘备连衣裙礼包": "¥6.00",
+            "每日特权礼包": "¥6.00",
+            "300钻石": "¥30.00",
+            "60钻石": "¥6.00",
+            "每日招财礼包": "¥12.00",
+            "6480钻石": "¥648.00",
+            "980钻石": "¥98.00",
+            "高级商会签约": "¥243.00",
+            "商会支援计划五": "¥25.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793928155391,
@@ -112133,13 +112168,31 @@
     "name": "小渔排班: 倒班日历与轮班闹钟",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "一杯拿铁": "¥6.00",
+      "咖啡和蛋糕": "¥18.00",
+      "一块曲奇": "¥1.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免费"
+      "formattedPrice": "免费",
+      "一杯拿铁": "¥6.00",
+      "咖啡和蛋糕": "¥18.00",
+      "一块曲奇": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "一杯拿铁": "¥6.00",
+            "咖啡和蛋糕": "¥18.00",
+            "一块曲奇": "¥1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792231960258,
@@ -145391,6 +145444,16 @@
       "MenubarX Pro": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793991369986,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "MenubarX Pro": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793017182070,
