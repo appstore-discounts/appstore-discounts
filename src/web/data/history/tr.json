@@ -65097,7 +65097,17 @@
       "Mitsubishi 2023": "₺799,99",
       "FCA 2025": "₺799,99",
       "Ford 2024 Enhanced": "₺799,99",
-      "Mazda 2024 Enhanced": "₺799,99"
+      "Mazda 2024 Enhanced": "₺799,99",
+      "Ford 1996 Enhanced Diagnostics": "₺799,99",
+      "Ford 1997 Enhanced Diagnostics": "₺799,99",
+      "Ford 1998 Enhanced Diagnostics": "₺799,99",
+      "Ford 1999 Enhanced Diagnostics": "₺799,99",
+      "Ford 2000 Enhanced Diagnostics": "₺799,99",
+      "Ford 2001 Enhanced Diagnostics": "₺799,99",
+      "Ford 2002 Enhanced Diagnostics": "₺799,99",
+      "Ford 2003 Enhanced Diagnostics": "₺799,99",
+      "Ford 2004 Enhanced Diagnostics": "₺799,99",
+      "Ford 2005 Enhanced Diagnostics": "₺799,99"
     },
     "minPriceInfo": {
       "price": 499.99,
@@ -65111,9 +65121,38 @@
       "Mitsubishi 2023": "₺799,99",
       "FCA 2025": "₺799,99",
       "Ford 2024 Enhanced": "₺799,99",
-      "Mazda 2024 Enhanced": "₺799,99"
+      "Mazda 2024 Enhanced": "₺799,99",
+      "Ford 1996 Enhanced Diagnostics": "₺799,99",
+      "Ford 1997 Enhanced Diagnostics": "₺799,99",
+      "Ford 1998 Enhanced Diagnostics": "₺799,99",
+      "Ford 1999 Enhanced Diagnostics": "₺799,99",
+      "Ford 2000 Enhanced Diagnostics": "₺799,99",
+      "Ford 2001 Enhanced Diagnostics": "₺799,99",
+      "Ford 2002 Enhanced Diagnostics": "₺799,99",
+      "Ford 2003 Enhanced Diagnostics": "₺799,99",
+      "Ford 2004 Enhanced Diagnostics": "₺799,99",
+      "Ford 2005 Enhanced Diagnostics": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793928155391,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Ford 1996 Enhanced Diagnostics": "₺799,99",
+            "Ford 1997 Enhanced Diagnostics": "₺799,99",
+            "Ford 1998 Enhanced Diagnostics": "₺799,99",
+            "Ford 1999 Enhanced Diagnostics": "₺799,99",
+            "Ford 2000 Enhanced Diagnostics": "₺799,99",
+            "Ford 2001 Enhanced Diagnostics": "₺799,99",
+            "Ford 2002 Enhanced Diagnostics": "₺799,99",
+            "Ford 2003 Enhanced Diagnostics": "₺799,99",
+            "Ford 2004 Enhanced Diagnostics": "₺799,99",
+            "Ford 2005 Enhanced Diagnostics": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -143527,6 +143566,25 @@
     "history": [
       [
         {
+          "timestamp": 1793928155391,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "₺199,99",
+            "TeaSet DarkLord Skin Package C": "₺249,99",
+            "Teaset Dark Lord Skin PackageB": "₺249,99",
+            "Teaset DarkLord Skin Package A": "₺249,99",
+            "Little Corr. Hero costume Pack": "₺1.499,99",
+            "Little Hero Costume Package": "₺1.499,99",
+            "Black Dark Lord Skin Package": "₺399,99",
+            "White Dark Lord Skin Package": "₺399,99",
+            "Awakening Viper Package": "₺249,99",
+            "Myth full pack": "₺1.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793320661339,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -212619,6 +212677,14 @@
     "history": [
       [
         {
+          "timestamp": 1793928155391,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793507830430,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -278414,6 +278480,25 @@
     "history": [
       [
         {
+          "timestamp": 1793928155391,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "₺499,99",
+            "Mystic Mayhem Pack": "₺199,99",
+            "Santa Claws Pack": "₺199,99",
+            "Kitchen Chaos Pack": "₺199,99",
+            "Santa Claws Card Back": "₺49,99",
+            "Under the Tree location": "₺99,99",
+            "Santa Claws Emoji Pack": "₺49,99",
+            "All Wrapped Up outfit": "₺99,99",
+            "Snow Globe Outfit": "₺99,99",
+            "Mystic Mayhem Location": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793907156005,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -281805,6 +281890,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793928155391,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792483972912,
@@ -301013,7 +301106,8 @@
       "Saint of Sanmagica": "₺149,99",
       "Honor of the Knights": "₺99,99",
       "Altruist": "₺149,99",
-      "The Arena": "₺99,99"
+      "The Arena": "₺99,99",
+      "The Legendary Fist": "₺99,99"
     },
     "minPriceInfo": {
       "price": 199.99,
@@ -301027,9 +301121,29 @@
       "Saint of Sanmagica": "₺149,99",
       "Honor of the Knights": "₺99,99",
       "Altruist": "₺149,99",
-      "The Arena": "₺99,99"
+      "The Arena": "₺99,99",
+      "The Legendary Fist": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793928155391,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "The Legendary Fist": "₺99,99",
+            "The Arena": "₺99,99",
+            "Altruist": "₺149,99",
+            "Honor of the Knights": "₺99,99",
+            "Saint of Sanmagica": "₺149,99",
+            "Berserker": "₺49,99",
+            "Patron Skill & Equipment": "₺29,99",
+            "Patron Season Pass": "₺29,99",
+            "Power Suit": "₺49,99",
+            "Patron Character": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786499534255,
@@ -301564,7 +301678,8 @@
       "4000 Diamonds": "₺4.999,99",
       "50 Diamonds": "₺99,99",
       "16 Base Heroes Unlock Pack": "₺1.999,99",
-      "700 Diamonds": "₺999,99"
+      "700 Diamonds": "₺999,99",
+      "30-Day Supply Pass": "₺299,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -301574,9 +301689,26 @@
       "4000 Diamonds": "₺4.999,99",
       "50 Diamonds": "₺99,99",
       "16 Base Heroes Unlock Pack": "₺1.999,99",
-      "700 Diamonds": "₺999,99"
+      "700 Diamonds": "₺999,99",
+      "30-Day Supply Pass": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793928155391,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "30-Day Supply Pass": "₺299,99",
+            "120 Diamonds": "₺199,99",
+            "Starter Pack 1": "₺99,99",
+            "4000 Diamonds": "₺4.999,99",
+            "50 Diamonds": "₺99,99",
+            "16 Base Heroes Unlock Pack": "₺1.999,99",
+            "700 Diamonds": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793189479893,
@@ -301906,6 +302038,14 @@
       "Unlocked! “Akane” & “Koro”": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793928155391,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793320661339,
