@@ -1488,7 +1488,7 @@ So far, we've covered `7` `Countries or Regions` and  `2403` `Apps` <br />Push n
 |925|1059911569|Automatic|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|Automatic|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|Automatic|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|Automatic|LED弹幕 - 手持应援显示屏，跑马灯字幕|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|
+|922|1441522083|Automatic|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|Automatic|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|Automatic|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|Automatic|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|
@@ -2242,7 +2242,7 @@ So far, we've covered `7` `Countries or Regions` and  `2403` `Apps` <br />Push n
 |171|1316883372|Manual|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|Manual|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|Manual|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|
-|168|1422480068|Manual|Nautilus：网页、文档、标注|Nautilus：網頁、文件、標註|Nautilus：網頁、文件、標註|Nautilus：網頁、文件、標註|Nautilus: Web, Docs, Annotate|Nautilus: Web, Docs, Annotate|Nautilus: Web, docs, anota|
+|168|1422480068|Manual|Nautilus：网页、Word、标注|Nautilus：網頁、Word、標註|Nautilus：網頁、Word、標註|Nautilus：網頁、Word、標註|Nautilus: Web, Word, Annotate|Nautilus: Web, Word, Annotate|Nautilus: Web, Word, anota|
 |167|6443915320|Manual|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|❌|
 |166|884153085|Manual|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|
 |165|1065802380|Manual|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|

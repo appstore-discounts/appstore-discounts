@@ -765,6 +765,23 @@
     "history": [
       [
         {
+          "timestamp": 1793960748222,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "10,000 coins": "1,99 €",
+            "1000 coins": "0,99 €",
+            "1000 candies": "0,99 €",
+            "30,000 coins": "2,99 €",
+            "100,000 coins": "3,99 €",
+            "15000 eggs": "2,99 €",
+            "10000 candies": "2,99 €",
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 gold": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1793928155391,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -41829,6 +41846,14 @@
     "history": [
       [
         {
+          "timestamp": 1793960748222,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791157842787,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -72113,6 +72138,23 @@
     "history": [
       [
         {
+          "timestamp": 1793960748222,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Monster Succession": "5,99 €",
+            "Dark Lord Boost Package": "9,99 €",
+            "Dark Lord Emma": "2,99 €",
+            "Dark Lord Floria": "2,99 €",
+            "Dark Lord Marielle": "2,99 €",
+            "Dark Lord Rebecca": "2,99 €",
+            "Dark Lord Tania": "2,99 €",
+            "Original Dungeon Package": "19,99 €",
+            "Original Monster Package": "9,99 €",
+            "Original Lord Skill Package": "19,99 €"
+          }
+        },
+        {
           "timestamp": 1793928155391,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -75165,7 +75207,7 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Nautilus: Web, docs, anota",
+    "trackName": "Nautilus: Web, Word, anota",
     "region": "pt",
     "maxPriceInfo": {
       "price": 12.99,
@@ -77133,7 +77175,7 @@
   },
   "1441522083": {
     "trackId": 1441522083,
-    "trackName": "Morphing LED Banner",
+    "trackName": "LED Banner: Marquee & Scroller",
     "region": "pt",
     "maxPriceInfo": {
       "price": 3.99,
@@ -149556,6 +149598,18 @@
     "history": [
       [
         {
+          "timestamp": 1793960748222,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Full Version Unlock": "5,99 €",
+            "BikeControl Pro": "27,99 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792107485359,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -153857,8 +153911,8 @@
       "30-Day Supply Pass": "6,99 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "120 Diamonds": "3,99 €",
       "Starter Pack 1": "1,99 €",
       "4000 Diamonds": "99,99 €",
@@ -153869,6 +153923,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793960748222,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "30-Day Supply Pass": "6,99 €",
+            "120 Diamonds": "3,99 €",
+            "Starter Pack 1": "1,99 €",
+            "4000 Diamonds": "99,99 €",
+            "50 Diamonds": "1,99 €",
+            "16 Base Heroes Unlock Pack": "44,99 €",
+            "700 Diamonds": "22,99 €"
+          }
+        },
         {
           "timestamp": 1793928155391,
           "price": 2.99,

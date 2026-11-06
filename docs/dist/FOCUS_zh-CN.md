@@ -1488,7 +1488,7 @@
 |925|1059911569|自动|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|自动|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|自动|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|自动|LED弹幕 - 手持应援显示屏，跑马灯字幕|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|Morphing LED Banner|
+|922|1441522083|自动|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|自动|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|自动|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|自动|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|
@@ -2242,7 +2242,7 @@
 |171|1316883372|手动|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|手动|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|手动|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|
-|168|1422480068|手动|Nautilus：网页、文档、标注|Nautilus：網頁、文件、標註|Nautilus：網頁、文件、標註|Nautilus：網頁、文件、標註|Nautilus: Web, Docs, Annotate|Nautilus: Web, Docs, Annotate|Nautilus: Web, docs, anota|
+|168|1422480068|手动|Nautilus：网页、Word、标注|Nautilus：網頁、Word、標註|Nautilus：網頁、Word、標註|Nautilus：網頁、Word、標註|Nautilus: Web, Word, Annotate|Nautilus: Web, Word, Annotate|Nautilus: Web, Word, anota|
 |167|6443915320|手动|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|❌|
 |166|884153085|手动|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|
 |165|1065802380|手动|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|

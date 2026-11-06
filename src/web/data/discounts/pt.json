@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 931188326,
+    "region": "pt",
+    "timestamp": 1793960748222,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6759970821,
+    "region": "pt",
+    "timestamp": 1793960748222,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 3,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6759970821",
+    "trackName": "Dungeon Merge!",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 6786115854,
     "region": "pt",
     "timestamp": 1793928155391,
@@ -432,7 +472,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1441522083",
-    "trackName": "Morphing LED Banner",
+    "trackName": "LED Banner: Marquee & Scroller",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -1796,7 +1836,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,29 €",
-        "range": "[0,29 € ~ 3,99 €]"
+        "range": "[Gratuito ~ 3,99 €]"
       }
     ],
     "price": 0.29,
@@ -2036,7 +2076,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,29 € ~ 3,99 €]"
+        "range": "[Gratuito ~ 3,99 €]"
       }
     ],
     "price": 0.99,
@@ -2143,7 +2183,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1422480068",
-    "trackName": "Nautilus: Web, docs, anota",
+    "trackName": "Nautilus: Web, Word, anota",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -4035,7 +4075,7 @@
     "formattedPrice": "7,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1422480068",
-    "trackName": "Nautilus: Web, docs, anota",
+    "trackName": "Nautilus: Web, Word, anota",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -6941,7 +6981,7 @@
         "name": "Price",
         "from": "3,99 €",
         "to": "0,29 €",
-        "range": "[0,29 € ~ 3,99 €]"
+        "range": "[Gratuito ~ 3,99 €]"
       }
     ],
     "price": 0.29,

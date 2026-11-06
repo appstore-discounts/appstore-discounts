@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "us",
+    "timestamp": 1793960748222,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.39 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6759970821,
+    "region": "us",
+    "timestamp": 1793960748222,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $3.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6759970821",
+    "trackName": "Dungeon Merge!",
+    "firstRecordedAt": 1787402209195
+  },
+  {
+    "trackId": 6786115854,
+    "region": "us",
+    "timestamp": 1793960748222,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$5.99",
+        "range": "[$4.99 ~ $9.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "$5.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
     "trackId": 882362024,
     "region": "us",
     "timestamp": 1793874237037,
@@ -378,7 +438,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1441522083",
-    "trackName": "Morphing LED Banner",
+    "trackName": "LED Banner: Marquee & Scroller",
     "firstRecordedAt": 1745568184983
   },
   {
@@ -1747,7 +1807,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.29",
-        "range": "[$0.29 ~ $3.99]"
+        "range": "[Free ~ $3.99]"
       }
     ],
     "price": 0.29,
@@ -2007,7 +2067,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.29 ~ $3.99]"
+        "range": "[Free ~ $3.99]"
       }
     ],
     "price": 0.99,
@@ -2134,7 +2194,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Nautilus: Web, Docs, Annotate",
+    "trackName": "Nautilus: Web, Word, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -3946,7 +4006,7 @@
     "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Nautilus: Web, Docs, Annotate",
+    "trackName": "Nautilus: Web, Word, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -6791,7 +6851,7 @@
         "name": "Price",
         "from": "$3.99",
         "to": "$0.29",
-        "range": "[$0.29 ~ $3.99]"
+        "range": "[Free ~ $3.99]"
       }
     ],
     "price": 0.29,
@@ -16645,7 +16705,7 @@
     "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Nautilus: Web, Docs, Annotate",
+    "trackName": "Nautilus: Web, Word, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -48249,7 +48309,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Nautilus: Web, Docs, Annotate",
+    "trackName": "Nautilus: Web, Word, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -53446,7 +53506,7 @@
     "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Nautilus: Web, Docs, Annotate",
+    "trackName": "Nautilus: Web, Word, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {

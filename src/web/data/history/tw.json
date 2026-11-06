@@ -30624,6 +30624,25 @@
     "history": [
       [
         {
+          "timestamp": 1793960748222,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 2": "$70.00",
+            "Minecraft Store Item 6": "$205.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$105.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$335.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793754208144,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -121072,6 +121091,25 @@
     "history": [
       [
         {
+          "timestamp": 1793960748222,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "魔法禮包": "$290.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "地獄禮包": "$790.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793265912561,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -133353,6 +133391,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793960748222,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Xenon": "$320.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$320.00",
+            "Battle CHAOS 2019": "$150.00",
+            "Alice": "$320.00",
+            "Neko": "$320.00"
+          }
+        },
         {
           "timestamp": 1793907156005,
           "price": 60,
@@ -154575,7 +154630,7 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Nautilus：網頁、文件、標註",
+    "trackName": "Nautilus：網頁、Word、標註",
     "region": "tw",
     "maxPriceInfo": {
       "price": 400,
@@ -157694,7 +157749,7 @@
   },
   "1441522083": {
     "trackId": 1441522083,
-    "trackName": "Morphing LED Banner",
+    "trackName": "LED Banner: Marquee & Scroller",
     "region": "tw",
     "maxPriceInfo": {
       "price": 120,
@@ -171660,6 +171715,25 @@
       "Magic Subscribe Package": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793960748222,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Double Exp Package 1": "$30.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "Flash Sale Star Rune 1": "$90.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "300 Crystal": "$90.00",
+            "Flash Sale Star Rune 2": "$60.00",
+            "Piggy Bank": "$90.00",
+            "Crystal Piggy Bank 5": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793713301535,
@@ -216389,6 +216463,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793960748222,
+          "price": 549,
+          "formattedPrice": "$549.00",
+          "inAppPurchases": {
+            "所有內容": "$0.00",
+            "《Opposing Fronts》火線對決": "$0.00",
+            "《Tales of Valor》": "$0.00",
+            "1 vs 1 獨立戰役地圖": "$0.00",
+            "戰役任務 2-5": "$0.00",
+            "4 vs 4 獨立戰役地圖": "$0.00",
+            "2 vs 2 獨立戰役地圖": "$0.00",
+            "3 vs 3 獨立戰役地圖": "$0.00",
+            "高畫質模型": "$0.00",
+            "戰役任務 6-10": "$0.00"
+          }
+        },
         {
           "timestamp": 1793928155391,
           "price": 549,
@@ -324404,8 +324495,8 @@
       "30天補給卡": "$190.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Starter Pack 1": "$60.00",
       "120 Diamonds": "$120.00",
       "4000 Diamonds": "$2,990.00",
@@ -324416,6 +324507,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793960748222,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Pack 1": "$60.00",
+            "120 Diamonds": "$120.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "30天補給卡": "$190.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        },
         {
           "timestamp": 1793928155391,
           "price": 90,
