@@ -2009,7 +2009,7 @@
 |404|1291730054|自动|❌|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|
 |403|1296085645|自动|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|
 |402|1298544927|自动|❌|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|
-|401|1303222868|自动|Paprika食谱管理3|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Gestor de Receitas Paprika 4|
+|401|1303222868|自动|Paprika食谱管理4|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Paprika Recipe Manager 4|Gestor de Receitas Paprika 4|
 |400|1312534841|自动|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|
 |399|1329434099|自动|乱斗堂3|❌|❌|❌|❌|❌|❌|
 |398|1330314351|自动|微剪辑-微视频编辑助手|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|

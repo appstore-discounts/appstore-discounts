@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1303222868,
+    "region": "hk",
+    "timestamp": 1794011885954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1303222868",
+    "trackName": "Paprika Recipe Manager 4",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6821872148,
+    "region": "hk",
+    "timestamp": 1794011885954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6821872148",
+    "trackName": "Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜",
+    "firstRecordedAt": 1793113722877
+  },
+  {
     "trackId": 931188326,
     "region": "hk",
     "timestamp": 1793991369986,
@@ -31864,7 +31904,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 38.00]"
+        "range": "[免費 ~ HK$ 38.00]"
       }
     ],
     "price": 22,

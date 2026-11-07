@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1303222868,
+    "region": "tw",
+    "timestamp": 1794011885954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "免費",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1303222868",
+    "trackName": "Paprika Recipe Manager 4",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6821872148,
+    "region": "tw",
+    "timestamp": 1794011885954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6821872148",
+    "trackName": "Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜",
+    "firstRecordedAt": 1793113722877
+  },
+  {
     "trackId": 931188326,
     "region": "tw",
     "timestamp": 1793991369986,
@@ -32915,7 +32955,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $150.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 90,

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1303222868,
+    "region": "cn",
+    "timestamp": 1794011885954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1303222868",
+    "trackName": "Paprika食谱管理4",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6821872148,
+    "region": "cn",
+    "timestamp": 1794011885954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[¥15.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6821872148",
+    "trackName": "Duopaper: 折叠屏全景壁纸，展开发现画中隐藏的小惊喜",
+    "firstRecordedAt": 1793113722877
+  },
+  {
     "trackId": 931188326,
     "region": "cn",
     "timestamp": 1793991369986,
@@ -17730,14 +17770,14 @@
         "name": "Price",
         "from": "¥38.00",
         "to": "¥22.00",
-        "range": "[¥22.00 ~ ¥38.00]"
+        "range": "[免费 ~ ¥38.00]"
       }
     ],
     "price": 22,
     "formattedPrice": "¥22.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1303222868",
-    "trackName": "Paprika食谱管理3",
+    "trackName": "Paprika食谱管理4",
     "firstRecordedAt": 1745328692670
   },
   {
