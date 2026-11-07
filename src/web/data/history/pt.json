@@ -19502,6 +19502,23 @@
     "history": [
       [
         {
+          "timestamp": 1794044344582,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter D": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter S": "5,99 €",
+            "Chapter 7": "5,99 €",
+            "Chapter N": "3,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter 10": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1794011885954,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -75130,6 +75147,14 @@
     "history": [
       [
         {
+          "timestamp": 1794044344582,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793841525729,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -106205,10 +106230,18 @@
       "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794044344582,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777530797367,
@@ -109883,6 +109916,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794044344582,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pacote Ultimate": "17,99 €",
+            "Pacote da 1ª Temporada": "9,99 €",
+            "Além dos Bunkers": "7,99 €",
+            "Abrigos Secretos": "7,99 €",
+            "Season 2 Pass": "9,99 €",
+            "Pacote Ultimate (desconto)": "12,99 €",
+            "Guia de Sobrevivência": "2,99 €",
+            "Custom Scenarios": "7,99 €",
+            "Seeds of Hope": "7,99 €",
+            "Season 2 Pass (Full)": "22,99 €"
+          }
+        },
         {
           "timestamp": 1794011885954,
           "price": 1.99,

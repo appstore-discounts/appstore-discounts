@@ -154425,14 +154425,22 @@
     "trackName": "7Days : Backer",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 160,
+      "formattedPrice": "$160.00"
     },
     "minPriceInfo": {
       "price": 20,
       "formattedPrice": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794044344582,
+          "price": 160,
+          "formattedPrice": "$160.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -218667,10 +218675,18 @@
       "formattedPrice": "$250.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794044344582,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777543998844,
@@ -277347,6 +277363,23 @@
     "history": [
       [
         {
+          "timestamp": 1794044344582,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 787-9": "$120.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Boeing 747-400": "$60.00"
+          }
+        },
+        {
           "timestamp": 1794011885954,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -320201,8 +320234,8 @@
     "trackName": "Skel和Defense：地下城Roguelike防禦",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 79,
+      "formattedPrice": "$79.00",
       "經驗祝福": "$60.00",
       "皮膚券 x3": "$30.00",
       "皮膚券 x8": "$90.00",
@@ -320217,6 +320250,19 @@
       "皮膚券 x1": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794044344582,
+          "price": 79,
+          "formattedPrice": "$79.00",
+          "inAppPurchases": {
+            "經驗祝福": "$60.00",
+            "皮膚券 x3": "$30.00",
+            "皮膚券 x8": "$90.00",
+            "皮膚券 x1": "$10.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -329401,6 +329447,29 @@
           "timestamp": 1793907156005,
           "price": 290,
           "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828960722": {
+    "trackId": 6828960722,
+    "trackName": "Grounds Up",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794044344582,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

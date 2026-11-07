@@ -517,6 +517,23 @@
     "history": [
       [
         {
+          "timestamp": 1794044344582,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Tuning Tools": "¥68.00",
+            "Guitar & Bass Sweeteners": "¥38.00",
+            "Harmonic Tuning": "¥148.00",
+            "Full Discounted Upgrade Pack": "¥398.00",
+            "Buzz Feiten Pack": "¥38.00",
+            "Extended Frequency Modes": "¥38.00",
+            "Keyboard Sweeteners": "¥148.00",
+            "Orchestral Sweeteners": "¥38.00",
+            "Steel Guitar Sweeteners": "¥98.00",
+            "Harp Sweeteners": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1794011885954,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -152147,10 +152164,18 @@
       "formattedPrice": "¥50.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 1,
+      "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794044344582,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777543998844,
@@ -182406,6 +182431,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794044344582,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元商品": "¥6.00",
+            "28元商品": "¥28.00",
+            "88元商品2": "¥88.00",
+            "88元商品": "¥88.00",
+            "30元商品": "¥30.00",
+            "60元商品": "¥60.00",
+            "98元商品": "¥98.00",
+            "288元商品": "¥288.00",
+            "648元商品": "¥648.00",
+            "198元商品": "¥198.00"
+          }
+        },
         {
           "timestamp": 1794011885954,
           "price": 1,
