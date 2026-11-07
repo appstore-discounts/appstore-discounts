@@ -433,6 +433,13 @@
     }
   },
   "tw": {
+    "443646748": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Premium": 1
+      }
+    },
     "469343554": {
       "all": 1,
       "price": 1,
@@ -994,9 +1001,14 @@
       }
     },
     "6476342802": {
-      "all": 1,
+      "all": 2,
       "price": 1,
-      "inAppPurchase": {}
+      "inAppPurchase": {
+        "Blessing of Experience": 1,
+        "Skin Ticket x1": 1,
+        "Skin Ticket x3": 1,
+        "Skin Ticket x8": 1
+      }
     }
   },
   "pt": {
@@ -1188,6 +1200,14 @@
       "price": 0,
       "inAppPurchase": {
         "BikeControl Pro": 1
+      }
+    },
+    "6476342802": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Skin Ticket x3": 1,
+        "Skin Ticket x8": 1
       }
     }
   }

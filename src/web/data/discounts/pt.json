@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6476342802,
+    "region": "pt",
+    "timestamp": 1794072509143,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Skin Ticket x3",
+        "from": "0,99 €",
+        "to": "0,89 €",
+        "range": "[0,89 € ~ 0,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Skin Ticket x8",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1411823462,
     "region": "pt",
     "timestamp": 1794044344582,

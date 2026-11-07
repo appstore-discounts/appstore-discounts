@@ -75987,6 +75987,43 @@
       ]
     ]
   },
+  "882453590": {
+    "name": "Reckless Racing 3",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Big Pack": "₺199,99",
+      "Kickstarter Pack": "₺49,99",
+      "Massive Pack": "₺499,99",
+      "Small Pack": "₺99,99",
+      "Rock'n Roller Pack": "₺999,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Big Pack": "₺199,99",
+      "Kickstarter Pack": "₺49,99",
+      "Massive Pack": "₺499,99",
+      "Small Pack": "₺99,99",
+      "Rock'n Roller Pack": "₺999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794072509143,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Big Pack": "₺199,99",
+            "Kickstarter Pack": "₺49,99",
+            "Massive Pack": "₺499,99",
+            "Small Pack": "₺99,99",
+            "Rock'n Roller Pack": "₺999,99"
+          }
+        }
+      ]
+    ]
+  },
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
@@ -123364,6 +123401,27 @@
       ]
     ]
   },
+  "1233326914": {
+    "name": "ParKing P - Find My Parked Car",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794072509143,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1234266367": {
     "name": "iDrumTune Precision Drum Tuner",
     "maxPriceInfo": {
@@ -149253,14 +149311,22 @@
   "1435004182": {
     "name": "Hermes: KAYIP",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794072509143,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759475507353,
@@ -160119,6 +160185,27 @@
             "Schumann Forum": "₺39,99",
             "Forum Access – 12 months": "₺499,99"
           }
+        }
+      ]
+    ]
+  },
+  "1462754972": {
+    "name": "MONG LI",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794072509143,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -184887,6 +184974,14 @@
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794072509143,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757683199043,
@@ -293731,13 +293826,24 @@
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99",
-      "Blessing of Experience": "₺99,99",
-      "Skin Ticket x1": "₺19,99",
-      "Skin Ticket x3": "₺49,99",
-      "Skin Ticket x8": "₺149,99"
+      "Blessing of Experience": "₺69,99",
+      "Skin Ticket x1": "₺14,99",
+      "Skin Ticket x3": "₺39,99",
+      "Skin Ticket x8": "₺99,00"
     },
     "history": [
       [
+        {
+          "timestamp": 1794072509143,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "Blessing of Experience": "₺69,99",
+            "Skin Ticket x1": "₺14,99",
+            "Skin Ticket x3": "₺39,99",
+            "Skin Ticket x8": "₺99,00"
+          }
+        },
         {
           "timestamp": 1794044344582,
           "price": 69.99,
@@ -303017,6 +303123,27 @@
           "timestamp": 1794044344582,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6788134172": {
+    "name": "Poppy Playtime Chapter 5",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794072509143,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
           "inAppPurchases": {}
         }
       ]

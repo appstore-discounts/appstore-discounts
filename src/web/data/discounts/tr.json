@@ -1,5 +1,53 @@
 [
   {
+    "trackId": 6476342802,
+    "region": "tr",
+    "timestamp": 1794072509143,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺69,99",
+        "range": "[₺29,99 ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Blessing of Experience",
+        "from": "₺99,99",
+        "to": "₺69,99",
+        "range": "[₺69,99 ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Skin Ticket x1",
+        "from": "₺19,99",
+        "to": "₺14,99",
+        "range": "[₺14,99 ~ ₺29,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Skin Ticket x3",
+        "from": "₺49,99",
+        "to": "₺39,99",
+        "range": "[₺39,99 ~ ₺49,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Skin Ticket x8",
+        "from": "₺149,99",
+        "to": "₺99,00",
+        "range": "[₺99,00 ~ ₺149,99]"
+      }
+    ],
+    "price": 69.99,
+    "formattedPrice": "₺69,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1411823462,
     "region": "tr",
     "timestamp": 1794044344582,
@@ -38,26 +86,6 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id1600925588",
     "trackName": "GR Linker - Image Sync",
     "firstRecordedAt": 1745578938597
-  },
-  {
-    "trackId": 6476342802,
-    "region": "tr",
-    "timestamp": 1794044344582,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "₺99,99",
-        "to": "₺69,99",
-        "range": "[₺29,99 ~ ₺99,99]"
-      }
-    ],
-    "price": 69.99,
-    "formattedPrice": "₺69,99",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id6476342802",
-    "trackName": "Skel and Defense",
-    "firstRecordedAt": 1778817905438
   },
   {
     "trackId": 1020541183,
@@ -16492,7 +16520,7 @@
         "name": "Skin Ticket x1",
         "from": "₺29,99",
         "to": "₺19,99",
-        "range": "[₺19,99 ~ ₺29,99]"
+        "range": "[₺14,99 ~ ₺29,99]"
       }
     ],
     "price": 99.99,
@@ -37630,7 +37658,7 @@
         "name": "Price",
         "from": "₺4,99",
         "to": "₺2,99",
-        "range": "[₺2,99 ~ ₺4,99]"
+        "range": "[₺2,99 ~ ₺9,99]"
       }
     ],
     "price": 2.99,
