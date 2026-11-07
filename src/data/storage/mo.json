@@ -9856,6 +9856,14 @@
     "history": [
       [
         {
+          "timestamp": 1794086945540,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -13907,6 +13915,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794086945540,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "USD 0.99",
+            "Struck by Lightning - Bubble Bust World 3": "USD 1.99",
+            "MEGA Bubble Popper Pack": "USD 7.99",
+            "World 2 - Level Pack 2": "USD 0.99",
+            "Pack of 15 Bumpers": "USD 1.99",
+            "World 3 - Level Pack 2": "USD 0.99",
+            "Pack of 500 Tokens": "USD 0.99",
+            "Pack of 5 Bumpers": "USD 0.99",
+            "Pack of 10 Fireballs": "USD 0.99",
+            "Pack of 1500 Tokens": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1794072509143,
           "price": 0.99,
@@ -81124,6 +81149,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794086945540,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "助飞战令-3000积分": "USD 0.99",
+            "助飞战令-初级精英战令": "USD 3.99",
+            "助飞战令-6000积分": "USD 4.99",
+            "助飞战令-15000积分": "USD 9.99",
+            "助飞战令-高级精英战令": "USD 3.99"
+          }
+        },
         {
           "timestamp": 1794072509143,
           "price": 0.99,
@@ -178974,6 +179016,20 @@
     "history": [
       [
         {
+          "timestamp": 1794086945540,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "3.99美元商品": "USD 3.99",
+            "9.99美元商品": "USD 9.99",
+            "39.99美元商品": "USD 39.99",
+            "12.99美元商品": "USD 12.99",
+            "89.99美元商品": "USD 89.99",
+            "99.99美元商品": "USD 99.99",
+            "49.99美元商品": "USD 49.99"
+          }
+        },
+        {
           "timestamp": 1794072509143,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -219404,6 +219460,27 @@
           "timestamp": 1794072509143,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819150080": {
+    "name": "Duo Aquarium",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "USD 1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "USD 1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794086945540,
+          "price": 1,
+          "formattedPrice": "USD 1.00",
           "inAppPurchases": {}
         }
       ]
