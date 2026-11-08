@@ -30966,6 +30966,25 @@
     "history": [
       [
         {
+          "timestamp": 1794112817031,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "「日本香港組合包」": "USD 0.99",
+            "大富翁4 Fun 美國地圖": "USD 0.99",
+            "大富翁 4 fun 仙劍仙靈島組合包": "USD 0.99",
+            "大富翁 4 fun 軒轅劍太山組合包": "USD 0.99",
+            "大富翁 4 fun 韓國地圖組合包": "USD 0.99",
+            "大富翁 4 fun 樂園組合包": "USD 0.99",
+            "仙五地圖包": "USD 0.99",
+            "大富翁 4 FUN  巴黎倫敦組合包": "USD 0.99",
+            "大富翁4 Fun夏日組合包": "USD 0.99",
+            "大富翁 4 fun 水上世界組合包": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793960748222,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -170823,7 +170842,7 @@
       "Pro (Monthly)": "USD 1.49",
       "Pro (Yearly)": "USD 6.99",
       "Pro (Activate)": "USD 9.99",
-      "Pro (Lifetime)": "USD 9.99"
+      "Pro (Lifetime)": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -170835,6 +170854,19 @@
       "Pro (Lifetime)": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794112817031,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "USD 14.99",
+            "Pro (Monthly)": "USD 1.49",
+            "Pro (Yearly)": "USD 6.99",
+            "Pro (Activate)": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -203036,6 +203068,14 @@
     "history": [
       [
         {
+          "timestamp": 1794112817031,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793820298773,
           "price": 0,
           "formattedPrice": "免費",
@@ -223277,14 +223317,22 @@
     "trackName": "Tiny Computers",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794112817031,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792812452311,
@@ -223446,6 +223494,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794112817031,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794011885954,
