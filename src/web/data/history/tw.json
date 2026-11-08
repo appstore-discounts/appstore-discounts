@@ -158122,7 +158122,7 @@
   },
   "1441522083": {
     "trackId": 1441522083,
-    "trackName": "LED Banner: Marquee & Scroller",
+    "trackName": "LED跑馬燈・手持彈幕・應援燈牌",
     "region": "tw",
     "maxPriceInfo": {
       "price": 120,
@@ -163607,6 +163607,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794142180981,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "禮包5": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "禮包9": "$990.00",
+            "丹青閣通行證": "$330.00"
+          }
+        },
         {
           "timestamp": 1794112817031,
           "price": 10,
@@ -330129,6 +330146,29 @@
       [
         {
           "timestamp": 1794086945540,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6830479627": {
+    "trackId": 6830479627,
+    "trackName": "1in8b Life",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794142180981,
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}

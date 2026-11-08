@@ -67191,6 +67191,25 @@
     "history": [
       [
         {
+          "timestamp": 1794142180981,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Micro Tip": "0,99 €",
+            "Small Tip": "0,99 €",
+            "Medium Tip": "1,99 €",
+            "Large Tip": "3,99 €",
+            "Super Tip": "5,99 €",
+            "Mega Tip": "6,99 €",
+            "Super Mega Tip": "9,99 €",
+            "Super Smashing Tip": "19,99 €",
+            "Super Mega Smashing Tip": "34,99 €",
+            "The Ultimate Tip": "59,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791966321053,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -106923,6 +106942,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794142180981,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "自建武将皮肤4": "3,99 €",
+            "自建武将皮肤3": "9,99 €",
+            "自建武将皮肤2": "3,99 €",
+            "自创武将皮肤1": "9,99 €",
+            "一袋碎片": "59,99 €",
+            "一堆碎片": "3,99 €",
+            "自定义武将席位6": "3,99 €",
+            "自定义武将席位4": "3,99 €",
+            "自定义武将席位5": "3,99 €",
+            "自定义武将席位3": "3,99 €"
+          }
+        },
         {
           "timestamp": 1794112817031,
           "price": 0.99,
@@ -154448,6 +154484,27 @@
           "timestamp": 1794086945540,
           "price": 1,
           "formattedPrice": "1,00 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6830479627": {
+    "name": "1in8b Life",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794142180981,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
