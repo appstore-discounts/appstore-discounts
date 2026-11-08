@@ -22321,6 +22321,23 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "PsyTrance": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Synth Plucks": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Technocraft": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1794112817031,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -130432,6 +130449,24 @@
       "SF2SEPack5": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "SF2SEPack3": "₺149,99",
+            "Pile of Gems": "₺149,99",
+            "Pile of Coins": "₺49,99",
+            "SF2SEPack2": "₺99,99",
+            "SF2SEPack6": "₺399,99",
+            "Casket of Gems": "₺499,99",
+            "Bag of Coins": "₺249,99",
+            "SF2SEPack5": "₺249,99",
+            "SF2SEPack15": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793874237037,
@@ -297254,6 +297289,22 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "宗師匣檔": "₺4.999,99",
+            "問道進階檔": "₺2.499,99",
+            "定向匣檔": "₺1.499,99",
+            "輕囊通寶": "₺149,99",
+            "進階材料檔": "₺799,99",
+            "小袋通寶": "₺49,99",
+            "珍品匣檔": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794011885954,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -298367,14 +298418,22 @@
   "6798830578": {
     "name": "PDF2MD: PDF to Markdown",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,

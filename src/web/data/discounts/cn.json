@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6775828757,
+    "region": "cn",
+    "timestamp": 1794165648967,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "单人份完整版",
+        "from": "¥36.80",
+        "to": "¥35.80",
+        "range": "[¥28.80 ~ ¥36.80]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "双人份完整版",
+        "from": "¥73.00",
+        "to": "¥72.00",
+        "range": "[¥57.00 ~ ¥73.00]"
+      }
+    ],
+    "price": 1,
+    "formattedPrice": "¥1.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6775828757",
+    "trackName": "新世界：暗影成双",
+    "firstRecordedAt": 1790160655952
+  },
+  {
     "trackId": 1236657805,
     "region": "cn",
     "timestamp": 1794112817031,

@@ -45665,6 +45665,14 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793991369986,
           "price": 0,
           "formattedPrice": "免费",
@@ -240952,14 +240960,22 @@
     "trackName": "PDF2MD: PDF to Markdown",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,
@@ -241716,6 +241732,18 @@
       "单人份完整版": "¥28.80"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "单人份完整版": "¥35.80",
+            "双人份完整版": "¥72.00",
+            "好友赠礼完整版": "¥36.80"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793017182070,

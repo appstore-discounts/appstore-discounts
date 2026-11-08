@@ -77250,6 +77250,14 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793991369986,
           "price": 0,
           "formattedPrice": "免費",
@@ -102654,6 +102662,25 @@
       "6元礼包": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "1元礼包": "HK$ 8.00",
+            "铁匠契约": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "1680根火柴": "HK$ 188.00",
+            "超值礼包-1": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792380382820,
@@ -140516,6 +140543,25 @@
       "覺醒地宮卡牌包": "HK$ 228.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "HK$ 32.00",
+            "原版怪獸繼承卡牌包": "HK$ 148.00",
+            "怪獸繼承": "HK$ 38.00",
+            "覺醒魔王完整卡牌包": "HK$ 228.00",
+            "原版設施卡牌包": "HK$ 68.00",
+            "原版魔王完整卡牌包": "HK$ 228.00",
+            "原版地宮卡牌包": "HK$ 148.00",
+            "原版魔王權能卡牌包": "HK$ 148.00",
+            "原版魔王加速卡牌包": "HK$ 68.00",
+            "魔王覺醒伊利亞卡牌包": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793907156005,
@@ -218113,6 +218159,14 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793578623309,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -221634,6 +221688,25 @@
       "Special Daily Pack 1": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "All Unit Groups": "HK$ 98.00",
+            "All Heroes": "HK$ 118.00",
+            "Hero Dragon Kosmos": "HK$ 58.00",
+            "Unit Group Jaegers": "HK$ 58.00",
+            "Hero Red Dragon": "HK$ 48.00",
+            "Unit Group Rebooted Ascendii": "HK$ 22.00",
+            "Hero Red Dragon On Sale": "HK$ 32.00",
+            "Hero Zhara": "HK$ 38.00",
+            "Unit Group Planterras": "HK$ 22.00",
+            "Hero Gauntlet": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793447082298,
@@ -228958,8 +229031,8 @@
       "price": 0,
       "formattedPrice": "免費",
       "Pro(Lifetime)": "HK$ 88.00",
-      "Pro (Yearly)": "HK$ 58.00",
-      "Pro (Monthly)": "HK$ 12.00",
+      "Pro (Yearly)": "HK$ 88.00",
+      "Pro (Monthly)": "HK$ 22.00",
       "Pro (Activate)": "HK$ 88.00",
       "Pro (Lifetime)": "HK$ 88.00"
     },
@@ -228973,6 +229046,19 @@
       "Pro (Lifetime)": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "HK$ 88.00",
+            "Pro (Yearly)": "HK$ 88.00",
+            "Pro (Monthly)": "HK$ 22.00",
+            "Pro (Activate)": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -307210,6 +307296,22 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "小袋通寶": "HK$ 8.00",
+            "宗師匣檔": "HK$ 788.00",
+            "問道進階檔": "HK$ 368.00",
+            "定向匣檔": "HK$ 228.00",
+            "輕囊通寶": "HK$ 22.00",
+            "進階材料檔": "HK$ 118.00",
+            "珍品匣檔": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793991369986,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -308292,14 +308394,22 @@
   "6798830578": {
     "name": "PDF2MD: PDF to Markdown",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,
@@ -309276,6 +309386,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793713301535,

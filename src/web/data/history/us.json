@@ -230161,6 +230161,23 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Welcome Offer": "$9.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Midnight Mix Pack 1": "$2.99"
+          }
+        },
+        {
           "timestamp": 1794142180981,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -365033,6 +365050,22 @@
     "history": [
       [
         {
+          "timestamp": 1794165648967,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "宗師匣檔": "$99.99",
+            "問道進階檔": "$44.99",
+            "定向匣檔": "$29.99",
+            "輕囊通寶": "$2.99",
+            "進階材料檔": "$14.99",
+            "小袋通寶": "$0.99",
+            "珍品匣檔": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794044344582,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -366264,14 +366297,22 @@
     "trackName": "PDF2MD: PDF to Markdown",
     "region": "us",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165648967,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,
