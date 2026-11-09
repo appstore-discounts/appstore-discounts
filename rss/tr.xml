@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-11-09T02:17:12.765Z</updated>
+    <updated>2026-11-09T12:40:05.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-09T02:17:12.766Z</updated>
+        <updated>2026-11-09T12:40:05.028Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 09 Nov 2026 02:17:12 GMT</id>
+        <id>rankingtrMon, 09 Nov 2026 12:40:05 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-09T02:17:12.766Z</updated>
+        <updated>2026-11-09T12:40:05.028Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2410</b>
+        <b>2412</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2206</b>
+        <b>2208</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>2243</b>
+        <b>2245</b>
       </td>
       <td>
         <b>174</b>
       </td>
       <td>
-        <b>2069</b>
+        <b>2071</b>
       </td>
       <td>
         <b>92</b>
@@ -97,7 +97,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6824686276?lang=en">Wider - Fullscreen Browsing</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/954982733?lang=en">Tuner T1 Pro</a>
       </td>
       <td>
         <ul>
@@ -114,7 +114,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6824686276?lang=en">Wider - Fullscreen Browsing</a>
       </td>
       <td>
         <ul>
@@ -129,6 +129,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>3</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6476342802?lang=en">Skel and Defense</a>
@@ -157,7 +174,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/393670998?lang=en">欧路词典 Eudic 增强版</a>
@@ -182,7 +199,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/882362024?lang=en">Ace Attorney: Dual Destinies</a>
@@ -209,27 +226,10 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/931188326?lang=en">DayCost Pro - Personal Finance</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>7</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/954982733?lang=en">Tuner T1 Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/931188326?lang=en">DayCost Pro - Personal Finance</a>
       </td>
       <td>
         <ul>
@@ -1698,6 +1698,58 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tuner T1 Pro]]></title>
+        <id>Tuner T1 Pro-tr-1794221790401</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/954982733?lang=en"/>
+        <updated>2026-11-09T10:56:30.401Z</updated>
+        <summary type="html"><![CDATA[Price: ₺599,99 → ₺499,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/954982733?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/f4/48/fff44811-2f14-b6de-5df7-517cb06b87ec/AppIcon-T1-Pro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺599,99</span> → <b>
+  <strong>₺499,99</strong>
+</b><span>[₺129,99 ~ ₺699,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺499,99</b>
+</p><h2>Application Description</h2><p>
+  Tuner T1 Pro is the ultimate instrument tuner, designed for precision tuning of a wide range of musical instruments. Whether you're tuning a guitar, violin, viola, bass, piano, cello, flute, or any other instrument, Tuner T1 ensures impeccable accuracy and ease of use. Ideal for both professional musicians and beginners, this chromatic tuner app is built to handle all common instruments with incredible precision, making it an essential tool for any musician.
+
+Now Available on Apple Watch!
+
+Tune directly from your wrist using the Apple Watch version, which features a fully functional chromatic tuner calibrated to standard A4 = 440 Hz. The watch app also includes a built-in tone generator, making quick tuning and pitch reference more accessible than ever.
+
+Key Features:
+
+• Extremely Accurate Tuning: Tune your instrument with an exceptional level of accuracy (within ±0.1 cents), ensuring perfect pitch every time.
+
+• Chromatic Tuner for All Instruments: Tuner T1 supports a broad range of instruments, including guitar, bass, violin, viola, cello, piano, flute, and more. Whether you're tuning strings, winds, or brass, Tuner T1 has you covered.
+
+• Tone Generator: Generate reference tones over a 3-octave range. Perfect for ear training or manual tuning when needed, the tone generator covers every note you need.
+
+• Adjustable A₄ Frequency: For those who need custom tunings, Tuner T1 allows you to change the A₄ reference frequency from the standard 440 Hz to other frequencies to suit any musical or regional style.
+
+• Customizable Detection Latency: Adapt the app to your specific needs by adjusting pitch detection latency. Lower latency settings allow for quicker pitch detection, ideal for fast-paced vocal practices. Higher latency settings help filter out unwanted noise and momentary sounds, providing stable tuning results—especially useful for precise instrument tuning.
+
+• Beautiful, Simple, & Easy-to-Use Interface: Tuner T1 is designed to be intuitive, allowing you to start tuning instantly without any complicated setup. It’s built with simplicity in mind while maintaining all the advanced features you need for professional-grade tuning.
+
+• Perfect for Professional and Amateur Musicians: Whether you're a professional musician performing on stage or an aspiring player honing your skills, Tuner T1 provides the accuracy and reliability you need to ensure your instrument is perfectly in tune every time.
+
+• Optimized for Low-Latency Performance: Our app delivers low-latency pitch detection, ensuring quick response times without sacrificing accuracy, making it a great tool for live performances or recording sessions.
+
+• Battery-Efficient: Tuner T1 is designed to minimize battery consumption, letting you use the app for extended tuning sessions without draining your device’s power.
+
+Why Choose Tuner T1?
+
+Tuner T1 stands out from other tuning apps because of its superior accuracy and low-latency pitch detection, specifically optimized for tuning a wide variety of common instruments. This app is built to cater to the needs of guitarists, violinists, pianists, and other musicians across different genres. With its sleek interface, customizable settings, and tone generation capabilities, Tuner T1 is not only powerful but incredibly user-friendly.
+
+Unlock Your Musical Potential
+
+With Tuner T1, you’re not just getting an ordinary tuner. You’re getting a tool that helps you achieve perfect pitch, fine-tune your ear, and enhance your performance. Whether you're practicing, recording, or performing live, Tuner T1 gives you the professional-level tuning accuracy you need.
+
+Download Tuner T1 Pro today and experience the next level of tuning accuracy for all your musical instruments!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/80/4a/9b804a5b-f8c4-cd20-581e-f486f7cb7e9a/cd8474d6-2a71-4a90-99bc-3f45cc9ded1f_slice1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/58/d2/7458d2e9-af49-3c91-2253-178b90608b33/994bf32e-8119-44b5-b067-c13cdd044904_slice2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/60/07/096007c9-881f-47fc-ceb5-1062015e6194/00a802f7-71f8-4cd6-87f4-f3a045869398_slice3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/66/8e/d3668ea1-7e60-4eef-90c0-4bd8b7c9b8c8/5f5fbb53-ed06-4b4d-b023-f6fc67d3a0c7_slice4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/ad/7c/a9ad7cf3-3400-4fef-87c2-120d446c6f1f/a9e9f189-3f9d-4fd5-862a-6a42c42b83c2_slice5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/d5/53/51d553f6-4263-e7d7-b535-d97109e7d913/a44f0ae2-bb20-4c31-aa30-b106e0825e31_slice6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/9e/e5/209ee5be-00f8-2224-65db-c55136f829a2/9a471f1b-afb0-4f60-94d4-313ddbaa1cc4_slice7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/3b/a6/b23ba678-9578-3728-fbce-149cd57b435d/338f52ed-a26b-4634-8cbd-d6bec6cbae87_slice8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/7c/78/2a7c78c5-812c-47c2-086e-986fdb101412/da1cad19-f7bd-4ce1-9697-055e2113a542_slice1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/45/69/b8456953-36eb-6590-e6cd-6c995bd7e919/72e02005-a703-45d9-ba8a-55a9fd3cb875_slice2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/c3/c8/41c3c848-84eb-5338-8ef8-ad469952df2b/1bcced0c-e7ea-4a46-b6dd-d3aef75f22db_slice3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/f7/f2/bff7f2ec-d834-77ce-11be-d4488616623e/c4ef8f7a-6aee-40db-b4bf-f2fbc8030a50_slice4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/34/91/933491f0-2b9c-a782-3d56-7531a6c09e89/3e4ccf0a-51f9-4b77-be14-799d506e7f86_slice5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/3a/92/9e3a92a9-8cfe-741d-50d3-b46b4ec2381f/3d75483b-5850-4d51-8747-644f40da5912_slice6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/05/b1/bf05b150-3704-be91-efb4-7a2df0e2c577/7528b204-8449-40a1-a6ae-916c0c7f0ea7_slice7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/cc/10/58cc1031-f520-e6f3-27f6-ee6d512b9f05/24cc82e3-4d1f-4fd2-a7f6-1bdb7af041f1_slice8.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tiny Computers]]></title>
         <id>Tiny Computers-tr-1794184452646</id>
         <link href="https://appstore-discounts.eyelly.me/tr/6816896250?lang=en"/>
@@ -2718,115 +2770,5 @@ In addition, we also give several redemption code as a gift.
 
 have any suggestions or comments, please write to us：support@daycost.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2d/95/8f/2d958fa6-ef62-bbaa-c110-ec6cd43692b4/mzl.kmaesidk.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/6e/5a/996e5a12-6650-59dc-7e6b-cb712ba75e53/mzl.gtrysmty.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/3a/4b/ef3a4b71-f5fd-08df-138d-330bbaf75d5f/mzl.vofugzob.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/49/93/8949938a-af8c-aa69-4706-f6bd48e3699e/mzl.rmtxxhpn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/b5/6a/4db56ab8-8873-8706-59f8-8820006978e3/mzl.suesrwke.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/8e/ce/c28ecef0-9360-4fa1-f26c-a3a72badcffd/mzl.sipuksro.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/42/08/0142089e-1b73-77e6-5965-2db9628cf134/mzl.tflgjscv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/eb/30/93eb3057-9e8c-8689-5d64-1bb8cfbd090c/mzl.omqysfuw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/64/4b/90/644b90ab-3d38-581f-a567-1c724e9b8c78/mzl.kschyywg.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon Merge!]]></title>
-        <id>Dungeon Merge!-tr-1793960748222</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/6759970821?lang=en"/>
-        <updated>2026-11-06T10:25:48.222Z</updated>
-        <summary type="html"><![CDATA[Price: ₺149,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6759970821?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/6f/85/016f851c-c889-dce8-189a-84d8f429ee30/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺149,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺199,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    30-Day Supply Pass：<b>₺299,99</b>
-  </li><li>
-    120 Diamonds：<b>₺199,99</b>
-  </li><li>
-    Starter Pack 1：<b>₺99,99</b>
-  </li><li>
-    4000 Diamonds：<b>₺4.999,99</b>
-  </li><li>
-    50 Diamonds：<b>₺99,99</b>
-  </li><li>
-    16 Base Heroes Unlock Pack：<b>₺1.999,99</b>
-  </li><li>
-    700 Diamonds：<b>₺999,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Dominate the dungeon. Or let it dominate you.
-
-A turn-based deckbuilding roguelite — Dungeon Merge!
-Every run, a different strategy. A different hero. A different ending.
-
-■ Unique Heroes — Not just different stats. A completely different way to play.
-
-Assassin: Double damage to a single target. Pick one. Make it count.
-Engineer: Stack shields, then unleash devastating area attacks. Defense is offense.
-Gambler: Free level-up rerolls. When luck becomes strategy.
-Noble: +1 level-up choice, gold-powered leveling at shrines. Money is your weapon.
-
-…Every hero demands a different strategy.
-
-■ Diverse Skill Cards — Not collection. Combination. Your deck is your strategy.
-
-Chain Lightning: Hit up to 3 enemies in a chain
-Double Cast: Trigger the same skill twice in a row
-Replicate: Copy any card in your deck on the spot
-
-Skill grades: Common → Rare → Epic → Legendary
-Upgrade cards mid-combat and discover powerful combinations.
-
-■ Powerful Relics — Sometimes a single relic changes everything.
-
-Chalice: Revive once with 50% HP upon death
-Shard of Collapse: For the next 3 battles, all non-boss enemies start with 1 HP
-Shackles of Binding: +1 mana per turn, but shop prices increase by 25%
-Sanctuary Lantern: Fully restore HP whenever you enter a shop
-
-■ Distinct Enemies — Every battle is a new puzzle. Read the pattern or die.
-
-Treasure Goblin: Escapes after 7 turns if you fail to defeat it
-Snowman: Freezes you for 1 turn
-Crow: Forces you to discard a random card from your hand
-
-Face powerful bosses with unique attack patterns and multiple phases.
-
-■ Seal System — The real challenge starts here.
-
-Normal mode is only the beginning.
-As you unlock more Seals, increasingly brutal challenges await.
-
-Combine Trials and Contracts to design your own difficulty.
-Only a handful of players will conquer the hardest combinations.
-
-■ Challenge Mode — New rules. New competition. Every week.
-
-Face rotating Grand Pacts and Trials each week.
-Discover powerful builds under unfamiliar rules where old strategies may no longer work.
-
-Compete with other players for the highest score and climb the weekly rankings.
-Clear the final region of a Challenge to unlock Endless Battle.
-
-How long can you survive against enemies that never stop growing stronger?
-
-■ Endless Replayability
-
-3 regions × 11 floors — procedurally generated every run
-Battle, Event, Elite, Shrine, Shop — diverse room types
-Different maps, enemy combinations, and card rewards every time
-
-Even with the same hero, no two adventures are alike.
-
-■ Features
-
-Turn-based strategy + deckbuilding roguelite
-Unique heroes, skills, relics, and enemies
-Seal System — customize difficulty with Trials and Contracts
-Challenge Mode — weekly rules and competitive rankings
-Endless Battle — push your limits against endless enemies
-Procedurally generated dungeons
-Multiple languages supported
-Cloud save
-
-Tear the dungeon apart with your own strategy.
-One run is never enough.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a1/5d/eea15d50-f840-533b-fe20-3f2a84fd85d3/screenshot_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/66/46/416646d4-3dc5-0ee5-c8bb-56dbf47d49af/screenshot_2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/3e/ae/1f3eae22-a560-0e4b-7a0f-e9a724ef1fdc/screenshot_3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/41/3d/fe413d92-2a51-37c6-78bb-7544026e3b59/screenshot_5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/de/b4/63deb4a4-1e09-288a-c95a-5a48f62a7ab2/screenshot_6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/22/fb/9a22fb59-febd-3fe5-01dd-543c676810ac/screenshot_4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/2d/fd/ae2dfdea-8f80-35ff-690a-df843e0c9cd1/screenshot_7.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/cd/72/a6cd7202-4c3c-4857-afe4-3dbc01a78809/iPad2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/d5/e8/5bd5e8a8-5bc6-b8b1-8c10-43596a15e5bf/iPad3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/37/e8/1137e8a7-7aa2-4f45-30b3-5031029547e8/iPad4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/c7/84/77c784f1-e895-002f-f835-7f48407dd944/iPad5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/30/13/ea30130a-3d13-8575-2891-767deea9cbb8/iPad6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/ff/ca/dfffca9c-09b4-bb53-3d6a-7a916899cd97/iPad7.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/a2/dc/d0a2dcb9-b709-c1a3-6227-6983ef0b3158/iPad1.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

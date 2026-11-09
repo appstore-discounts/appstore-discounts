@@ -35582,6 +35582,23 @@
     "history": [
       [
         {
+          "timestamp": 1794221790401,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "220 Diamonds": "1,99 €",
+            "5000 Coins": "1,99 €",
+            "14000 Coins": "5,99 €",
+            "1210 Diamonds": "9,99 €",
+            "580 Diamonds": "5,99 €",
+            "6600 Diamonds": "59,99 €",
+            "180000 Coins": "59,99 €",
+            "15500 Diamonds": "99,99 €",
+            "3200 Diamonds": "29,99 €",
+            "450000 Coins": "99,99 €"
+          }
+        },
+        {
           "timestamp": 1794184452646,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -42923,7 +42940,11 @@
       "Magnetic Stars 20": "1,99 €",
       "Magnetic Stars 10": "0,99 €",
       "Unlock Rollman Coin": "1,99 €",
-      "Unlock Rollf Coin": "1,99 €"
+      "Unlock Rollf Coin": "1,99 €",
+      "Unlock Strawberry Candy": "1,99 €",
+      "Unlock Chocolate Candy": "1,99 €",
+      "Unlock Mint Candy": "1,99 €",
+      "Unlock Rolly Coin": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -42937,9 +42958,32 @@
       "Magnetic Stars 20": "1,99 €",
       "Magnetic Stars 10": "0,99 €",
       "Unlock Rollman Coin": "1,99 €",
-      "Unlock Rollf Coin": "1,99 €"
+      "Unlock Rollf Coin": "1,99 €",
+      "Unlock Strawberry Candy": "1,99 €",
+      "Unlock Chocolate Candy": "1,99 €",
+      "Unlock Mint Candy": "1,99 €",
+      "Unlock Rolly Coin": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unlock Strawberry Candy": "1,99 €",
+            "Unlock Chocolate Candy": "1,99 €",
+            "Unlock Mint Candy": "1,99 €",
+            "Unlock Rolly Coin": "0,99 €",
+            "Unlock Rollf Coin": "1,99 €",
+            "Unlock Rollman Coin": "1,99 €",
+            "Magnetic Stars 10": "0,99 €",
+            "Magnetic Stars 20": "1,99 €",
+            "Magnetic Stars Unlimited": "17,99 €",
+            "Ultra Punch 10": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767775219467,
@@ -43250,6 +43294,14 @@
       "formattedPrice": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793683824235,
@@ -154620,6 +154672,48 @@
           "timestamp": 1794142180981,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758903716": {
+    "name": "Dungeon Warfare 3",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814254443": {
+    "name": "Pixel Miner: Jogo de Cavar",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

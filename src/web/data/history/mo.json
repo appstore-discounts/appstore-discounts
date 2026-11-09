@@ -18304,6 +18304,14 @@
     "history": [
       [
         {
+          "timestamp": 1794221790401,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Premium": "USD 79.99"
+          }
+        },
+        {
           "timestamp": 1794184452646,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -68653,6 +68661,14 @@
     "history": [
       [
         {
+          "timestamp": 1794221790401,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793683824235,
           "price": 11.95,
           "formattedPrice": "USD 11.95",
@@ -91799,6 +91815,25 @@
       "698财富币": "USD 99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "6财富币": "USD 0.99",
+            "68财富币": "USD 9.99",
+            "208财富币": "USD 29.99",
+            "698财富币": "USD 99.99",
+            "998财富币": "USD 149.99",
+            "98财富币": "USD 14.99",
+            "418财富币": "USD 59.99",
+            "898财富币": "USD 129.99",
+            "1598财富币": "USD 229.99",
+            "1998财富币": "USD 299.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -159259,6 +159294,23 @@
     "history": [
       [
         {
+          "timestamp": 1794221790401,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "USD 8.99",
+            "Content Bundle 2": "USD 7.49",
+            "Reckless Car Pack": "USD 2.49",
+            "Off-Road Car Pack": "USD 2.49",
+            "Racing Heroes Car Pack": "USD 2.49",
+            "Steel & Wheels Pack": "USD 1.59",
+            "Goofy Roofs Pack": "USD 0.79",
+            "Getaway Car Pack": "USD 2.49",
+            "American All-Stars Car Pack": "USD 2.49",
+            "Rusty Rats Car Pack": "USD 2.49"
+          }
+        },
+        {
           "timestamp": 1794184452646,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -224220,6 +224272,52 @@
       [
         {
           "timestamp": 1794142180981,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758903716": {
+    "trackId": 6758903716,
+    "trackName": "Dungeon Warfare 3",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814254443": {
+    "trackId": 6814254443,
+    "trackName": "Pixel Miner：悠閒挖礦遊戲",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794221790401,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}

@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 443646748,
+    "trackId": 954982733,
     "region": "mo",
-    "timestamp": 1794184452646,
+    "timestamp": 1794221790401,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Premium",
-        "from": "USD 19.99",
+        "type": "price",
+        "name": "Price",
+        "from": "USD 11.95",
         "to": "USD 9.99",
-        "range": "[USD 9.99 ~ USD 79.99]"
+        "range": "[USD 2.99 ~ USD 12.99]"
       }
     ],
-    "price": 3.99,
-    "formattedPrice": "USD 3.99",
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
     "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id443646748",
-    "trackName": "健身夥伴+：健身房鍛煉",
-    "firstRecordedAt": 1788900351663
+    "trackViewUrl": "https://apps.apple.com/mo/app/id954982733",
+    "trackName": "Tuner T1 Pro",
+    "firstRecordedAt": 1745517753203
   },
   {
     "trackId": 6816896250,

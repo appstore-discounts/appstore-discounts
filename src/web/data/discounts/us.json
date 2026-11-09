@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 954982733,
+    "region": "us",
+    "timestamp": 1794221790401,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$11.95",
+        "to": "$9.99",
+        "range": "[$2.99 ~ $12.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id954982733",
+    "trackName": "Tuner T1 Pro",
+    "firstRecordedAt": 1745517753203
+  },
+  {
+    "trackId": 6816896250,
+    "region": "us",
+    "timestamp": 1794221790401,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6816896250",
+    "trackName": "Tiny Computers",
+    "firstRecordedAt": 1792812452311
+  },
+  {
     "trackId": 6816896250,
     "region": "us",
     "timestamp": 1794184452646,
@@ -9,7 +49,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $4.99]"
+        "range": "[$2.99 ~ $4.99]"
       }
     ],
     "price": 3.99,

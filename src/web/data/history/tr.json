@@ -88781,6 +88781,14 @@
     "history": [
       [
         {
+          "timestamp": 1794221790401,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793683824235,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -169256,6 +169264,25 @@
       "Goblet Kintsugi Token": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99",
+            "Golden Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -308156,6 +308183,52 @@
       [
         {
           "timestamp": 1794142180981,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758903716": {
+    "trackId": 6758903716,
+    "trackName": "Dungeon Warfare 3",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794221790401,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814254443": {
+    "trackId": 6814254443,
+    "trackName": "Pixel Miner: Cozy Digging Game",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794221790401,
           "price": 49.99,
           "formattedPrice": "₺49,99",
           "inAppPurchases": {}
