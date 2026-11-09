@@ -13,7 +13,7 @@
 |2407|1233326914|自动|ParKing P - 我的车在哪里？|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P Onde está meu carro?|
 |2406|1462754972|自动|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|
 |2405|6788134172|自动|❌|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|
-|2404|6828960722|自动|❌|Grounds Up|Grounds Up|Grounds Up|Grounds Up|Grounds Up|❌|
+|2404|6828960722|自动|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|❌|
 |2403|6762192063|自动|❌|Absolum|Absolum|Absolum|Absolum|Absolum|Absolum|
 |2402|408625926|自动|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
 |2401|6827745244|自动|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
@@ -643,7 +643,7 @@
 |1777|6449783315|自动|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|
 |1776|930404329|自动|❌|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|
 |1775|6759358968|自动|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|
-|1774|1402259944|自动|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|
+|1774|1402259944|自动|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Net Salary Portugal|Net Salary Portugal|Salário Líquido|
 |1773|999623871|自动|❌|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|
 |1772|6741873549|自动|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|
 |1771|1520427393|自动|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|

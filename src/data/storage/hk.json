@@ -312579,10 +312579,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794184452646,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -313202,7 +313210,7 @@
     ]
   },
   "6828960722": {
-    "name": "Grounds Up",
+    "name": "Grounds Up: Business Tycoon",
     "maxPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"

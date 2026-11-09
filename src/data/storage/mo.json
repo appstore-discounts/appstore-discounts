@@ -17904,14 +17904,27 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99",
-      "Premium": "USD 79.99"
+      "Premium": "USD 79.99",
+      "Fitness Buddy Premium": "USD 46.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99",
-      "Premium": "USD 19.99"
+      "Premium": "USD 9.99",
+      "Fitness Buddy Premium": "USD 46.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794184452646,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Fitness Buddy Premium": "USD 46.99",
+            "Premium": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792120771172,
@@ -123882,6 +123895,23 @@
     "history": [
       [
         {
+          "timestamp": 1794184452646,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "禮包1": "USD 0.29",
+            "68金玉": "USD 9.99",
+            "禮包3": "USD 1.99",
+            "尊享月俸": "USD 4.99",
+            "禮包2": "USD 0.99",
+            "演武大會68元通行證": "USD 9.99",
+            "30金玉": "USD 4.99",
+            "198金玉": "USD 29.99",
+            "丹青閣通行證": "USD 9.99",
+            "6金玉": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1794165648967,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -156486,11 +156516,30 @@
       "American All-Stars Car Pack": "USD 2.49",
       "Rusty Rats Car Pack": "USD 2.49",
       "Modified Monsters Car Pack": "USD 2.49",
-      "Banger Racing Car Pack": "USD 2.99",
-      "Backwoods Bangers Car Pack": "USD 2.99",
-      "Retro Rammers Car Pack": "USD 2.99"
+      "Banger Racing Car Pack": "USD 2.49",
+      "Backwoods Bangers Car Pack": "USD 2.49",
+      "Retro Rammers Car Pack": "USD 2.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794184452646,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Banger Racing Car Pack": "USD 2.49",
+            "Content Bundle 1": "USD 8.99",
+            "Backwoods Bangers Car Pack": "USD 2.49",
+            "Retro Rammers Car Pack": "USD 2.49",
+            "Modified Monsters Car Pack": "USD 2.49",
+            "Rusty Rats Car Pack": "USD 2.49",
+            "American All-Stars Car Pack": "USD 2.49",
+            "Getaway Car Pack": "USD 2.49",
+            "Goofy Roofs Pack": "USD 0.79",
+            "Steel & Wheels Pack": "USD 1.59"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793113722877,
@@ -218948,10 +218997,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794184452646,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -219571,7 +219628,7 @@
     ]
   },
   "6828960722": {
-    "name": "Grounds Up",
+    "name": "Grounds Up: Business Tycoon",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"

@@ -4912,7 +4912,8 @@
       "Amplitude Sweep": "$490.00",
       "Reference Files Module": "$490.00",
       "Max Subwoofer SPL": "$990.00",
-      "Speaker Distortion": "$190.00"
+      "Speaker Distortion": "$190.00",
+      "Impedance Module": "$990.00"
     },
     "minPriceInfo": {
       "price": 320,
@@ -4943,9 +4944,29 @@
       "Amplitude Sweep": "$490.00",
       "Reference Files Module": "$490.00",
       "Max Subwoofer SPL": "$990.00",
-      "Speaker Distortion": "$190.00"
+      "Speaker Distortion": "$190.00",
+      "Impedance Module": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794184452646,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "SPL Graph Module": "$320.00",
+            "SPL Pro Module": "$290.00",
+            "Polarity Test Module": "$120.00",
+            "ETC Module": "$190.00",
+            "THD+n Module": "$320.00",
+            "Impedance Module": "$990.00",
+            "Speaker Distortion": "$190.00",
+            "IR Module": "$1,490.00",
+            "SPL Traffic Light": "$320.00",
+            "SoundScope VR": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793507830430,
@@ -37447,6 +37468,25 @@
       "大正晝夜譚組合包": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794184452646,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "「日本香港組合包」": "$30.00",
+            "大富翁4 Fun 美國地圖": "$30.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "$30.00",
+            "大富翁 4 fun 韓國地圖組合包": "$30.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "$30.00",
+            "大富翁 4 fun 樂園組合包": "$30.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "$30.00",
+            "仙五地圖包": "$30.00",
+            "很多元寶": "$150.00",
+            "小包元寶": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793788232799,
@@ -329566,10 +329606,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794184452646,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -330242,7 +330290,7 @@
   },
   "6828960722": {
     "trackId": 6828960722,
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "region": "tw",
     "maxPriceInfo": {
       "price": 90,

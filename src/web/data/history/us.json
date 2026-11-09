@@ -170809,7 +170809,7 @@
   },
   "1402259944": {
     "trackId": 1402259944,
-    "trackName": "Salário Líquido",
+    "trackName": "Net Salary Portugal",
     "region": "us",
     "maxPriceInfo": {
       "price": 1.99,
@@ -254803,6 +254803,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794184452646,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Unit Group Jaegers On Sale": "$4.99",
+            "Unit Group Ascendii On Sale": "$0.99",
+            "Starter Pack": "$4.99"
+          }
+        },
         {
           "timestamp": 1794142180981,
           "price": 0.99,
@@ -353247,6 +353264,25 @@
     "history": [
       [
         {
+          "timestamp": 1794184452646,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "LIONHEAD ORANGE/WHITE/BLACK": "$1.99",
+            "CALICO RED/GRAY/BLACK": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "GRAY WHITE KITTY FISH": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "ROBO FISH 02": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794112817031,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -367994,6 +368030,25 @@
     "history": [
       [
         {
+          "timestamp": 1794184452646,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Ignus": "$2.99",
+            "Hero Oni": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Gems Pouch": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794086945540,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -370276,6 +370331,14 @@
     "history": [
       [
         {
+          "timestamp": 1794184452646,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794112817031,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -370913,7 +370976,7 @@
   },
   "6828960722": {
     "trackId": 6828960722,
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,

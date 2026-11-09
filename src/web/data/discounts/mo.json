@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 443646748,
+    "region": "mo",
+    "timestamp": 1794184452646,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "USD 19.99",
+        "to": "USD 9.99",
+        "range": "[USD 9.99 ~ USD 79.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id443646748",
+    "trackName": "健身夥伴+：健身房鍛煉",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 6816896250,
+    "region": "mo",
+    "timestamp": 1794184452646,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6816896250",
+    "trackName": "Tiny Computers",
+    "firstRecordedAt": 1792812452311
+  },
+  {
     "trackId": 6770101449,
     "region": "mo",
     "timestamp": 1794165648967,
