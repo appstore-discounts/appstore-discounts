@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2412` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2414` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2414|6816793607|Automatic|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
+|2413|6826404492|Automatic|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2412|6758903716|Automatic|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
 |2411|6814254443|Automatic|❌|Pixel Miner：悠閒挖礦遊戲|Pixel Miner：悠閒挖礦遊戲|Pixel Miner：悠閒挖礦遊戲|Pixel Miner: Cozy Digging Game|Pixel Miner: Cozy Digging Game|Pixel Miner: Jogo de Cavar|
 |2410|6830479627|Automatic|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|
@@ -671,7 +673,7 @@ So far, we've covered `7` `Countries or Regions` and  `2412` `Apps` <br />Push n
 |1751|6752695239|Automatic|❌|飛空艇探險物語|飛空艇探險物語|飛空艇探險物語|Skyship Quest Story|Skyship Quest Story|Skyship Quest Story|
 |1750|6742988247|Automatic|❌|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|
 |1749|6757187110|Automatic|❌|❌|❌|❌|❌|EKYS Plus|❌|
-|1748|6462841384|Automatic|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|
+|1748|6462841384|Automatic|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|
 |1747|536495161|Automatic|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|
 |1746|1283082051|Automatic|❌|Pepi|Pepi|Pepi|Pepi|Pepi|Pepi|
 |1745|889417668|Automatic|❌|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|
@@ -1480,7 +1482,7 @@ So far, we've covered `7` `Countries or Regions` and  `2412` `Apps` <br />Push n
 |942|6467822375|Automatic|Auto Redial App|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|Automatic|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|Automatic|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
-|939|499470113|Automatic|FE文件管理器|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|
+|939|499470113|Automatic|FE文件管理器 - SMB，FTP，SFTP和网盘|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|
 |938|666508823|Automatic|❌|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|
 |937|792638268|Automatic|❌|合戰忍者村物語|合戰忍者村物語|合戰忍者村物語|Ninja Village|Ninja Village|Ninja Village|
 |936|1095883970|Automatic|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|

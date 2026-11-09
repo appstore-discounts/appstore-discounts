@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2412` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2414` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2414|6816793607|自动|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
+|2413|6826404492|自动|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2412|6758903716|自动|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
 |2411|6814254443|自动|❌|Pixel Miner：悠閒挖礦遊戲|Pixel Miner：悠閒挖礦遊戲|Pixel Miner：悠閒挖礦遊戲|Pixel Miner: Cozy Digging Game|Pixel Miner: Cozy Digging Game|Pixel Miner: Jogo de Cavar|
 |2410|6830479627|自动|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|
@@ -671,7 +673,7 @@
 |1751|6752695239|自动|❌|飛空艇探險物語|飛空艇探險物語|飛空艇探險物語|Skyship Quest Story|Skyship Quest Story|Skyship Quest Story|
 |1750|6742988247|自动|❌|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|
 |1749|6757187110|自动|❌|❌|❌|❌|❌|EKYS Plus|❌|
-|1748|6462841384|自动|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|
+|1748|6462841384|自动|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|香港基本法及國安法筆試|
 |1747|536495161|自动|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|
 |1746|1283082051|自动|❌|Pepi|Pepi|Pepi|Pepi|Pepi|Pepi|
 |1745|889417668|自动|❌|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|
@@ -1480,7 +1482,7 @@
 |942|6467822375|自动|Auto Redial App|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|自动|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|自动|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
-|939|499470113|自动|FE文件管理器|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|
+|939|499470113|自动|FE文件管理器 - SMB，FTP，SFTP和网盘|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|FE File Explorer - SMB & FTP|
 |938|666508823|自动|❌|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|
 |937|792638268|自动|❌|合戰忍者村物語|合戰忍者村物語|合戰忍者村物語|Ninja Village|Ninja Village|Ninja Village|
 |936|1095883970|自动|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|

@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 1591620171,
+    "region": "us",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1591620171",
+    "trackName": "Stay for Safari",
+    "firstRecordedAt": 1726201068727
+  },
+  {
+    "trackId": 6755290585,
+    "region": "us",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 2",
+        "from": "$12.49",
+        "to": "$4.19",
+        "range": "[$4.19 ~ $17.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 3",
+        "from": "$20.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $29.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 1",
+        "from": "$3.49",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6755290585",
+    "trackName": "Raiders Map",
+    "firstRecordedAt": 1763517683797
+  },
+  {
     "trackId": 954982733,
     "region": "us",
     "timestamp": 1794221790401,
@@ -8391,7 +8445,7 @@
         "name": "Raider Mk. 2",
         "from": "$17.99",
         "to": "$12.49",
-        "range": "[$5.99 ~ $17.99]"
+        "range": "[$4.19 ~ $17.99]"
       }
     ],
     "price": 0,
@@ -8511,7 +8565,7 @@
         "name": "Raider Mk. 3",
         "from": "$29.99",
         "to": "$20.99",
-        "range": "[$9.99 ~ $29.99]"
+        "range": "[$6.99 ~ $29.99]"
       }
     ],
     "price": 0,
@@ -10484,7 +10538,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$7.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$3.99 ~ $14.99]"
       }
     ],
     "price": 7.99,
@@ -12815,7 +12869,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -32241,14 +32295,14 @@
         "name": "Raider Mk. 3",
         "from": "$14.99",
         "to": "$12.99",
-        "range": "[$9.99 ~ $29.99]"
+        "range": "[$6.99 ~ $29.99]"
       },
       {
         "type": "inAppPurchase",
         "name": "Raider Mk. 2",
         "from": "$11.99",
         "to": "$8.99",
-        "range": "[$5.99 ~ $17.99]"
+        "range": "[$4.19 ~ $17.99]"
       }
     ],
     "price": 0,

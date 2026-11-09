@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1591620171,
+    "region": "hk",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime",
+        "from": "HK$ 38.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1591620171",
+    "trackName": "Stay for Safari - 使用者腳本與廣告攔截擴充",
+    "firstRecordedAt": 1726201068727
+  },
+  {
+    "trackId": 6474541983,
+    "region": "hk",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6474541983",
+    "trackName": "Children of Morta",
+    "firstRecordedAt": 1763130406035
+  },
+  {
     "trackId": 6816896250,
     "region": "hk",
     "timestamp": 1794184452646,
@@ -5585,7 +5625,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+        "range": "[HK$ 18.00 ~ HK$ 58.00]"
       }
     ],
     "price": 22,
@@ -10193,7 +10233,7 @@
         "name": "Price",
         "from": "HK$ 88.00",
         "to": "HK$ 58.00",
-        "range": "[HK$ 32.00 ~ HK$ 88.00]"
+        "range": "[HK$ 32.00 ~ HK$ 118.00]"
       }
     ],
     "price": 58,
@@ -12416,7 +12456,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+        "range": "[HK$ 18.00 ~ HK$ 58.00]"
       }
     ],
     "price": 22,
@@ -12623,7 +12663,7 @@
     "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -17665,7 +17705,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+        "range": "[HK$ 18.00 ~ HK$ 58.00]"
       }
     ],
     "price": 22,
@@ -23186,7 +23226,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+        "range": "[HK$ 18.00 ~ HK$ 58.00]"
       }
     ],
     "price": 22,
@@ -27195,7 +27235,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+        "range": "[HK$ 18.00 ~ HK$ 58.00]"
       }
     ],
     "price": 22,

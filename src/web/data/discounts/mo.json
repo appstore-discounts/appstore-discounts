@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1591620171,
+    "region": "mo",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime",
+        "from": "USD 4.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1591620171",
+    "trackName": "Stay for Safari - 使用者腳本與廣告攔截擴充",
+    "firstRecordedAt": 1726201068727
+  },
+  {
+    "trackId": 6474541983,
+    "region": "mo",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 6.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6474541983",
+    "trackName": "Children of Morta",
+    "firstRecordedAt": 1763130406035
+  },
+  {
     "trackId": 954982733,
     "region": "mo",
     "timestamp": 1794221790401,
@@ -5575,7 +5615,7 @@
         "name": "Price",
         "from": "USD 6.99",
         "to": "USD 2.99",
-        "range": "[USD 2.99 ~ USD 6.99]"
+        "range": "[USD 1.99 ~ USD 6.99]"
       }
     ],
     "price": 2.99,
@@ -10137,7 +10177,7 @@
         "name": "Price",
         "from": "USD 9.99",
         "to": "USD 7.99",
-        "range": "[USD 3.99 ~ USD 9.99]"
+        "range": "[USD 3.99 ~ USD 14.99]"
       }
     ],
     "price": 7.99,
@@ -12334,7 +12374,7 @@
         "name": "Price",
         "from": "USD 6.99",
         "to": "USD 2.99",
-        "range": "[USD 2.99 ~ USD 6.99]"
+        "range": "[USD 1.99 ~ USD 6.99]"
       }
     ],
     "price": 2.99,
@@ -12561,7 +12601,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -17649,7 +17689,7 @@
         "name": "Price",
         "from": "USD 6.99",
         "to": "USD 2.99",
-        "range": "[USD 2.99 ~ USD 6.99]"
+        "range": "[USD 1.99 ~ USD 6.99]"
       }
     ],
     "price": 2.99,
@@ -23099,7 +23139,7 @@
         "name": "Price",
         "from": "USD 6.99",
         "to": "USD 2.99",
-        "range": "[USD 2.99 ~ USD 6.99]"
+        "range": "[USD 1.99 ~ USD 6.99]"
       }
     ],
     "price": 2.99,
@@ -27171,7 +27211,7 @@
         "name": "Price",
         "from": "USD 6.99",
         "to": "USD 2.99",
-        "range": "[USD 2.99 ~ USD 6.99]"
+        "range": "[USD 1.99 ~ USD 6.99]"
       }
     ],
     "price": 2.99,

@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1591620171,
+    "region": "cn",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "永久",
+        "from": "¥38.00",
+        "to": "¥19.00",
+        "range": "[¥19.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1591620171",
+    "trackName": "Stay for Safari - 用户脚本与广告拦截插件",
+    "firstRecordedAt": 1726201068727
+  },
+  {
     "trackId": 954982733,
     "region": "cn",
     "timestamp": 1794221790401,
@@ -5328,7 +5348,7 @@
         "name": "Price",
         "from": "¥68.00",
         "to": "¥58.00",
-        "range": "[¥28.00 ~ ¥68.00]"
+        "range": "[¥28.00 ~ ¥98.00]"
       }
     ],
     "price": 58,
@@ -6534,7 +6554,7 @@
     "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -35524,7 +35544,7 @@
         "name": "永久",
         "from": "¥38.00",
         "to": "¥28.00",
-        "range": "[¥22.00 ~ ¥38.00]"
+        "range": "[¥19.00 ~ ¥38.00]"
       }
     ],
     "price": 0,

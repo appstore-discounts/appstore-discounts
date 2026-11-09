@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 525818839,
+    "region": "pt",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pacote pragas",
+        "from": "14,99 €",
+        "to": "11,99 €",
+        "range": "[11,99 € ~ 14,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id525818839",
+    "trackName": "Plague Inc.",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1591620171,
+    "region": "pt",
+    "timestamp": 1794261475759,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1591620171",
+    "trackName": "Stay for Safari",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 954982733,
     "region": "pt",
     "timestamp": 1794221790401,
@@ -10365,7 +10405,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "8,99 €",
-        "range": "[3,99 € ~ 9,99 €]"
+        "range": "[3,99 € ~ 17,99 €]"
       }
     ],
     "price": 8.99,
@@ -12666,7 +12706,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {

@@ -20499,7 +20499,7 @@
     ]
   },
   "499470113": {
-    "name": "FE File Explorer",
+    "name": "FE File Explorer - SMB & FTP",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
@@ -22043,6 +22043,24 @@
       "Desbloquear Arma Biológica": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Pacote pragas": "11,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793420190024,
@@ -26062,6 +26080,25 @@
       "Handful of Bolts": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "0,99 €",
+            "SLS 2022: Jacksonville": "0,99 €",
+            "SLS 2021: World Championship": "0,99 €",
+            "SLS 2019: Sao Paulo": "0,99 €",
+            "SLS 2019: London": "0,99 €",
+            "Sandbox 1 Year": "26,99 €",
+            "Sandbox 3 Months": "10,99 €",
+            "Sandbox Monthly": "5,49 €",
+            "SLS 2018: World Championship": "0,99 €",
+            "Mountain of Bolts": "99,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792969306156,
@@ -42967,6 +43004,23 @@
     "history": [
       [
         {
+          "timestamp": 1794261475759,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Ultra Punch 30": "5,99 €",
+            "Ultra Punch 5": "0,99 €",
+            "Magnetic Stars 60": "5,99 €",
+            "Ultra Punch Unlimited": "22,99 €",
+            "Ultra Punch 10": "1,99 €",
+            "Magnetic Stars Unlimited": "17,99 €",
+            "Magnetic Stars 20": "1,99 €",
+            "Magnetic Stars 10": "0,99 €",
+            "Unlock Rollman Coin": "1,99 €",
+            "Unlock Rollf Coin": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1794221790401,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -53321,7 +53375,16 @@
       "He-Man Booster Pack": "3,99 €",
       "He-Man Prestige Pack": "19,99 €",
       "Portable Lake Pro": "3,99 €",
-      "Skywarden Unlock Pack": "8,99 €"
+      "Skywarden Unlock Pack": "8,99 €",
+      "Sauda Hero Bundle Sale": "3,99 €",
+      "Sauda Hero Bundle": "7,99 €",
+      "Insta Monkey Bucket 7": "7,99 €",
+      "Insta Monkey Bucket 5": "5,99 €",
+      "Insta Monkey Bucket 4": "3,99 €",
+      "Insta Monkey Bucket 3": "2,99 €",
+      "Insta Monkey Bucket 2": "1,99 €",
+      "Insta Monkey Bucket 1.5": "1,99 €",
+      "Insta Monkey Bucket 1": "0,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -53368,9 +53431,37 @@
       "He-Man Booster Pack": "3,99 €",
       "He-Man Prestige Pack": "19,99 €",
       "Portable Lake Pro": "3,99 €",
-      "Skywarden Unlock Pack": "8,99 €"
+      "Skywarden Unlock Pack": "8,99 €",
+      "Sauda Hero Bundle Sale": "3,99 €",
+      "Sauda Hero Bundle": "7,99 €",
+      "Insta Monkey Bucket 7": "7,99 €",
+      "Insta Monkey Bucket 5": "5,99 €",
+      "Insta Monkey Bucket 4": "3,99 €",
+      "Insta Monkey Bucket 3": "2,99 €",
+      "Insta Monkey Bucket 2": "1,99 €",
+      "Insta Monkey Bucket 1.5": "1,99 €",
+      "Insta Monkey Bucket 1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Sauda Hero Bundle Sale": "3,99 €",
+            "Sauda Hero Bundle": "7,99 €",
+            "Insta Monkey Bucket 7": "7,99 €",
+            "Insta Monkey Bucket 5": "5,99 €",
+            "Insta Monkey Bucket 4": "3,99 €",
+            "Insta Monkey Bucket 3": "2,99 €",
+            "Insta Monkey Bucket 2": "1,99 €",
+            "Insta Monkey Bucket 1.5": "1,99 €",
+            "Insta Monkey Bucket 1": "0,99 €",
+            "Portable Lake Pro": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793353134370,
@@ -101282,6 +101373,16 @@
     "history": [
       [
         {
+          "timestamp": 1794261475759,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -139244,14 +139345,22 @@
   "6749824842": {
     "name": "Parachute Backup Mobile",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 17.99,
+      "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785621318731,
@@ -141400,7 +141509,7 @@
     ]
   },
   "6462841384": {
-    "name": "香港基本法和國安法筆試",
+    "name": "香港基本法及國安法筆試",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
@@ -154714,6 +154823,48 @@
           "timestamp": 1794221790401,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "name": "GigClick: Metronome, Setlist",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826404492": {
+    "name": "Aşçı: Hayalin Peşinde",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

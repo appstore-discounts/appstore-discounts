@@ -8176,6 +8176,25 @@
     "history": [
       [
         {
+          "timestamp": 1794261475759,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Saint-Germain HipstaPak": "₺99,99",
+            "Jimbocho HipstaPak": "₺99,99",
+            "Mers Sultan HipstaPak": "₺99,99",
+            "HipstaBoy SnapPak": "₺99,99",
+            "Príncipe Real HipstaPak": "₺99,99",
+            "Coyoacán HipstaPak": "₺99,99",
+            "Ohara HipstaPak": "₺99,99",
+            "RetroPak 2022": "₺399,99",
+            "RetroPak 2023": "₺499,99",
+            "RetroPak Twenty-One": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790726691370,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -18100,6 +18119,25 @@
       "My Pet Report": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Predictive Report - Full": "₺199,99",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Gold Level lifetime": "₺3.999,99",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794044344582,
@@ -43357,7 +43395,7 @@
     ]
   },
   "499470113": {
-    "name": "FE File Explorer",
+    "name": "FE File Explorer - SMB & FTP",
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
@@ -44278,6 +44316,25 @@
       "Vaca Valley RC Club": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "₺149,99",
+            "RC Transformer": "₺149,99",
+            "Race Car": "₺149,99",
+            "Lego Car": "₺149,99",
+            "XB-70 Valkirie": "₺149,99",
+            "BVM King Cat": "₺149,99",
+            "B17 Flying Fortress": "₺149,99",
+            "A6M Zero": "₺149,99",
+            "P-47 Thunderbolt": "₺149,99",
+            "Curtiss P-40 Warhawk": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792959935177,
@@ -213671,6 +213728,16 @@
     "history": [
       [
         {
+          "timestamp": 1794261475759,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1763345024209,
           "price": 0,
           "formattedPrice": "Free",
@@ -237566,6 +237633,23 @@
     "history": [
       [
         {
+          "timestamp": 1794261475759,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "9.99美元商品": "₺499,99",
+            "0.99美元商品": "₺49,99",
+            "3.99美元商品": "₺199,99",
+            "19.99美元商品": "₺999,99",
+            "49.99美元商品": "₺2.499,99",
+            "99.99美元商品": "₺4.999,99",
+            "39.99美元商品": "₺1.999,99",
+            "12.99美元商品": "₺699,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792505275724,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -251428,6 +251512,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 787-10": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 747-400": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794086945540,
@@ -287085,14 +287188,22 @@
   "6749824842": {
     "name": "Parachute Backup Mobile",
     "maxPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785638610705,
@@ -289366,7 +289477,7 @@
     ]
   },
   "6462841384": {
-    "name": "香港基本法和國安法筆試",
+    "name": "香港基本法及國安法筆試",
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
@@ -300297,7 +300408,7 @@
       "SHOWCASE OFFER 09": "₺199,99",
       "ALL TOWERS BUNDLE_B": "₺799,99",
       "ALL TOWERS BUNDLE": "₺999,99",
-      "ALL HEROES BUNDLE": "₺1.499,99",
+      "ALL HEROES BUNDLE": "₺1.299,99",
       "Hero Drakkan": "₺399,99",
       "Gems Chest": "₺999,99",
       "Hero Ignus": "₺149,99",
@@ -300325,6 +300436,25 @@
       "Hero Ignus Sale": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ignus": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "ALL HEROES BUNDLE": "₺1.299,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Ironbark": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Gems Chest": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794086945540,
@@ -303741,6 +303871,48 @@
           "timestamp": 1794221790401,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "name": "GigClick: Metronome, Setlist",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826404492": {
+    "name": "Aşçı: Chasing the Dream",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794261475759,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]
