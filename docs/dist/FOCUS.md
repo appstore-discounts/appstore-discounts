@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2415` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2418` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2418|892347083|Automatic|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
+|2417|6828383349|Automatic|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
+|2416|6829459666|Automatic|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
 |2415|6827445474|Automatic|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|
 |2414|6816793607|Automatic|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2413|6826404492|Automatic|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
@@ -1713,7 +1716,7 @@ So far, we've covered `7` `Countries or Regions` and  `2415` `Apps` <br />Push n
 |712| ~~1423585518~~ |Automatic| ~~ROMAN: 进食计画、减肥、减脂一体化。 体重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ |
 |711|1508108761|Automatic|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|Pare de fumar - EasyQuit Pro|
 |710|1550721625|Automatic|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|
-|709|1582355047|Automatic|❌|❌|❌|❌|❌|Hacker Başlangıç|❌|
+|709|1582355047|Automatic|❌|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|
 |708|1610305853|Automatic|SunOnTrack：太阳路径|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Trajeto solar|
 |707|1616391834|Automatic|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|❌|❌|❌|
 |706|1668418644|Automatic|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|❌|

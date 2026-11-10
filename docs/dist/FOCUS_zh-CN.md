@@ -1,12 +1,15 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2415` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2418` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2418|892347083|自动|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
+|2417|6828383349|自动|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
+|2416|6829459666|自动|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
 |2415|6827445474|自动|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|
 |2414|6816793607|自动|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2413|6826404492|自动|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
@@ -1713,7 +1716,7 @@
 |712| ~~1423585518~~ |自动| ~~ROMAN: 进食计画、减肥、减脂一体化。 体重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ |
 |711|1508108761|自动|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|Pare de fumar - EasyQuit Pro|
 |710|1550721625|自动|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|
-|709|1582355047|自动|❌|❌|❌|❌|❌|Hacker Başlangıç|❌|
+|709|1582355047|自动|❌|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|
 |708|1610305853|自动|SunOnTrack：太阳路径|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Trajeto solar|
 |707|1616391834|自动|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|❌|❌|❌|
 |706|1668418644|自动|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|❌|

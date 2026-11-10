@@ -77704,6 +77704,29 @@
       ]
     ]
   },
+  "892347083": {
+    "trackId": 892347083,
+    "trackName": "FORScan Lite - for Ford, Mazda",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794329315472,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "892542000": {
     "trackId": 892542000,
     "trackName": "Board Game Stats",
@@ -132307,6 +132330,24 @@
     "history": [
       [
         {
+          "timestamp": 1794329315472,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Pile of Coins": "₺49,99",
+            "Pile of Gems": "₺149,99",
+            "SF2SEPack3": "₺149,99",
+            "SF2SEPack6": "₺399,99",
+            "SF2SEPack2": "₺99,99",
+            "Casket of Gems": "₺499,99",
+            "Bag of Coins": "₺249,99",
+            "SF2SEPack15": "₺799,99",
+            "Bag of Gems": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794165648967,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -169364,6 +169405,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794329315472,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99",
+            "Golden Dice": "₺249,99"
+          }
+        },
         {
           "timestamp": 1794290710109,
           "price": 249.99,
@@ -221796,6 +221854,16 @@
       "Mr. X Nightmare DLC": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794329315472,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793841525729,
@@ -299414,10 +299482,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794329315472,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779875386311,
@@ -304896,6 +304972,23 @@
     "history": [
       [
         {
+          "timestamp": 1794329315472,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Ignus": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "ALL HEROES BUNDLE": "₺1.299,99",
+            "Tower Ironbark": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Forger": "₺249,99"
+          }
+        },
+        {
           "timestamp": 1794261475759,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -308574,6 +308667,52 @@
           "timestamp": 1794290710109,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828383349": {
+    "trackId": 6828383349,
+    "trackName": "DuoFridge",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794329315472,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829459666": {
+    "trackId": 6829459666,
+    "trackName": "Phone Shop Simulator",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794329315472,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]
