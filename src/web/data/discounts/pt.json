@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6474541983,
+    "region": "pt",
+    "timestamp": 1794290710109,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6474541983",
+    "trackName": "Children of Morta",
+    "firstRecordedAt": 1763130406035
+  },
+  {
+    "trackId": 6755103808,
+    "region": "pt",
+    "timestamp": 1794290710109,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Drawing Toolkit",
+        "from": "6,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6755103808",
+    "trackName": "VoidLink - Extreme",
+    "firstRecordedAt": 1772052197068
+  },
+  {
     "trackId": 525818839,
     "region": "pt",
     "timestamp": 1794261475759,
@@ -236,7 +276,7 @@
         "name": "Price",
         "from": "3,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -2223,7 +2263,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -3244,7 +3284,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "1,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 1.99,
@@ -4977,7 +5017,7 @@
         "name": "Price",
         "from": "4,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -5896,7 +5936,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 6,99 €]"
+        "range": "[1,99 € ~ 6,99 €]"
       }
     ],
     "price": 2.99,
@@ -5996,7 +6036,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -8898,7 +8938,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -9795,7 +9835,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -11329,7 +11369,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -12419,7 +12459,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 6,99 €]"
+        "range": "[1,99 € ~ 6,99 €]"
       }
     ],
     "price": 2.99,
@@ -12579,7 +12619,7 @@
         "name": "Price",
         "from": "3,99 €",
         "to": "2,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 2.99,
@@ -14278,7 +14318,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[0,99 € ~ 5,99 €]"
       }
     ],
     "price": 0.99,
@@ -17843,7 +17883,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 6,99 €]"
+        "range": "[1,99 € ~ 6,99 €]"
       }
     ],
     "price": 2.99,
@@ -23083,7 +23123,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 6,99 €]"
+        "range": "[1,99 € ~ 6,99 €]"
       }
     ],
     "price": 2.99,
@@ -26985,7 +27025,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 6,99 €]"
+        "range": "[1,99 € ~ 6,99 €]"
       }
     ],
     "price": 2.99,

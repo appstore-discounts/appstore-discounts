@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6471594918,
+    "region": "mo",
+    "timestamp": 1794290710109,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 4.99",
+        "range": "[免費 ~ USD 9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6755103808,
+    "region": "mo",
+    "timestamp": 1794290710109,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "繪畫工具套裝",
+        "from": "USD 5.99",
+        "to": "USD 5.49",
+        "range": "[USD 5.49 ~ USD 5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6755103808",
+    "trackName": "VoidLink - Extreme",
+    "firstRecordedAt": 1772052197068
+  },
+  {
     "trackId": 1591620171,
     "region": "mo",
     "timestamp": 1794261475759,
@@ -209,7 +249,7 @@
         "name": "Price",
         "from": "USD 3.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 3.99]"
+        "range": "[USD 0.99 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
@@ -2100,7 +2140,7 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 3.99]"
+        "range": "[USD 0.99 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
@@ -3778,7 +3818,7 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 3.99]"
+        "range": "[USD 0.99 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
@@ -7154,7 +7194,7 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 3.99]"
+        "range": "[USD 0.99 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
@@ -11182,7 +11222,7 @@
         "name": "Price",
         "from": "USD 2.39",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 3.99]"
+        "range": "[USD 0.99 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
@@ -12494,7 +12534,7 @@
         "name": "Price",
         "from": "USD 3.99",
         "to": "USD 2.39",
-        "range": "[USD 0.99 ~ USD 3.99]"
+        "range": "[USD 0.99 ~ USD 4.99]"
       }
     ],
     "price": 2.39,
@@ -14163,7 +14203,7 @@
         "name": "Price",
         "from": "USD 1.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 3.99]"
+        "range": "[USD 0.99 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
