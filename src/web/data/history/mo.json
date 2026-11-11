@@ -109145,6 +109145,23 @@
     "history": [
       [
         {
+          "timestamp": 1794404303285,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Crop": "USD 0.00",
+            "Sticker": "USD 0.00",
+            "Splice": "USD 0.00",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00",
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Paint": "USD 0.00",
+            "Rotate": "USD 0.00",
+            "Chromakey": "USD 0.00"
+          }
+        },
+        {
           "timestamp": 1794372778825,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -126239,6 +126256,25 @@
       "超值好禮1_6": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794404303285,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "68金玉": "USD 9.99",
+            "禮包1": "USD 0.29",
+            "禮包3": "USD 1.99",
+            "尊享月俸": "USD 4.99",
+            "禮包2": "USD 0.99",
+            "30金玉": "USD 4.99",
+            "198金玉": "USD 29.99",
+            "演武大會68元通行證": "USD 9.99",
+            "6金玉": "USD 0.99",
+            "648金玉": "USD 99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794184452646,
@@ -225037,6 +225073,29 @@
           "inAppPurchases": {
             "支持者禮包": "USD 2.99"
           }
+        }
+      ]
+    ]
+  },
+  "6776231069": {
+    "trackId": 6776231069,
+    "trackName": "熄屏錄影機",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794404303285,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
         }
       ]
     ]
