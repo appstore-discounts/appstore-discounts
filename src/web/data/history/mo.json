@@ -8297,6 +8297,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -111207,6 +111215,29 @@
       ]
     ]
   },
+  "1359584622": {
+    "trackId": 1359584622,
+    "trackName": "小學初階數學",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1359652100": {
     "trackId": 1359652100,
     "trackName": "DungeonMaker",
@@ -164268,6 +164299,16 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793820298773,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -196832,6 +196873,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -224918,6 +224967,29 @@
           "timestamp": 1794329315472,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752607219": {
+    "trackId": 6752607219,
+    "trackName": "Warhammer Survivors",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "USD 7.19"
+    },
+    "minPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "USD 7.19"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 7.19,
+          "formattedPrice": "USD 7.19",
           "inAppPurchases": {}
         }
       ]

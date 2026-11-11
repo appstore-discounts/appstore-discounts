@@ -15059,6 +15059,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -129026,7 +129034,7 @@
   },
   "1154832936": {
     "trackId": 1154832936,
-    "trackName": "Call Ranger: Phone Blocker",
+    "trackName": "Call Ranger: Mass Spam Blocker",
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
@@ -159051,6 +159059,29 @@
           "timestamp": 1745328692670,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1359584622": {
+    "trackId": 1359584622,
+    "trackName": "小學初階數學",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]
@@ -207592,6 +207623,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794351164358,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 1200": "$9.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Kit": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        },
         {
           "timestamp": 1794329315472,
           "price": 4.99,
@@ -331783,6 +331831,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -372083,6 +372139,29 @@
           "timestamp": 1794329315472,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752607219": {
+    "trackId": 6752607219,
+    "trackName": "Warhammer Survivors",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "$7.19"
+    },
+    "minPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "$7.19"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 7.19,
+          "formattedPrice": "$7.19",
           "inAppPurchases": {}
         }
       ]

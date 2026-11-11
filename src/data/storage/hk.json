@@ -10703,6 +10703,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -140629,6 +140637,27 @@
       ]
     ]
   },
+  "1359584622": {
+    "name": "小學初階數學",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1359652100": {
     "name": "DungeonMaker",
     "maxPriceInfo": {
@@ -163136,6 +163165,25 @@
       "禮包1": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "禮包11": "HK$ 788.00",
+            "328金玉": "HK$ 398.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794142180981,
@@ -218716,6 +218764,16 @@
       "Mr. X Nightmare DLC": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -280046,6 +280104,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -313879,6 +313945,27 @@
           "timestamp": 1794329315472,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752607219": {
+    "name": "Warhammer Survivors",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
           "inAppPurchases": {}
         }
       ]

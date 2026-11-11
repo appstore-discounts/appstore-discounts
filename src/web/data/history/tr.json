@@ -10834,6 +10834,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -22742,6 +22750,25 @@
       "FL Cloud Mobile": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "FL Cloud Mobile": "₺799,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Hyper-Pop Mobile": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "PsyTrance": "₺149,99",
+            "Acoustic Guitars": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794184452646,
@@ -93986,6 +94013,20 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺89,99",
+            "700,000 Gold": "₺4.999,99",
+            "325,000 Gold": "₺769,99",
+            "125,000 Gold": "₺349,99",
+            "60,000 Gold": "₺169,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793234217965,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -116785,7 +116826,7 @@
   },
   "1154832936": {
     "trackId": 1154832936,
-    "trackName": "Call Ranger: Phone Blocker",
+    "trackName": "Call Ranger: Mass Spam Blocker",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -144147,6 +144188,29 @@
           "timestamp": 1745328692670,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1359584622": {
+    "trackId": 1359584622,
+    "trackName": "小學初階數學",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]
@@ -227503,6 +227567,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793234217965,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -275867,6 +275939,14 @@
     "history": [
       [
         {
+          "timestamp": 1794351164358,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -308713,6 +308793,29 @@
           "timestamp": 1794329315472,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752607219": {
+    "trackId": 6752607219,
+    "trackName": "Warhammer Survivors",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794351164358,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
           "inAppPurchases": {}
         }
       ]

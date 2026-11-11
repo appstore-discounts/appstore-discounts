@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2418` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2420` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2420|1359584622|Automatic|小學初階數學|小學初階數學|小學初階數學|小學初階數學|小學初階數學|小學初階數學|小學初階數學|
+|2419|6752607219|Automatic|❌|Warhammer Survivors|Warhammer Survivors|Warhammer Survivors|Warhammer Survivors|Warhammer Survivors|Warhammer Survivors|
 |2418|892347083|Automatic|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
 |2417|6828383349|Automatic|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
 |2416|6829459666|Automatic|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
@@ -242,7 +244,7 @@ So far, we've covered `7` `Countries or Regions` and  `2418` `Apps` <br />Push n
 |2186|6761228817|Automatic|TileGrid 地毯设计|TileGrid カーペット|TileGrid カーペット|TileGrid カーペット|TileGrid - Carpet Planner|TileGrid - Carpet Planner|TileGrid - Carpet Planner|
 |2185|6786316806|Automatic|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|
 |2184|6773620703|Automatic|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|
-|2183|1154832936|Automatic|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Phone Blocker|Call Ranger: Phone Blocker|Call Ranger: Bloquear Chamadas|
+|2183|1154832936|Automatic|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Mass Spam Blocker|Call Ranger: Mass Spam Blocker|Call Ranger: Bloquear Chamadas|
 |2182|433579249|Automatic|飕飕相机美颜版|ソソカメラ|ソソカメラ|ソソカメラ|SoSoCamera Beauty|SoSoCamera Beauty|ソソカメラ|
 |2181|6760764479|Automatic|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|
 |2180| ~~6794760301~~ |Automatic| ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ |

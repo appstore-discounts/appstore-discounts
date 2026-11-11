@@ -2,6 +2,22 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1359584622,
+      "name": {
+        "mo": "小學初階數學"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6752607219,
+      "name": {
+        "hk": "Warhammer Survivors",
+        "tw": "Warhammer Survivors",
+        "us": "Warhammer Survivors"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 892347083,
       "name": {
         "mo": "FORScan Lite - for Ford, Mazda"
