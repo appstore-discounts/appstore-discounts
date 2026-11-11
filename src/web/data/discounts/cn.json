@@ -2,6 +2,81 @@
   {
     "trackId": 6473332700,
     "region": "cn",
+    "timestamp": 1794433497584,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "战国七雄",
+        "from": "¥36.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥36.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "群雄争霸",
+        "from": "¥18.00",
+        "to": "¥14.00",
+        "range": "[¥14.00 ~ ¥18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "楚汉争霸",
+        "from": "¥36.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥36.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "重振汉室",
+        "from": "¥18.00",
+        "to": "¥14.00",
+        "range": "[¥14.00 ~ ¥18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "无双战神",
+        "from": "¥36.00",
+        "to": "¥28.00",
+        "range": "[¥14.00 ~ ¥36.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "斜谷残阳",
+        "from": "¥36.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥36.00]"
+      }
+    ],
+    "price": 35,
+    "formattedPrice": "¥35.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6473332700",
+    "trackName": "逐鹿 - 历史沙盘战棋",
+    "firstRecordedAt": 1745665323137
+  },
+  {
+    "trackId": 6747717070,
+    "region": "cn",
+    "timestamp": 1794433497584,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "绘画工具套装",
+        "from": "¥37.00",
+        "to": "¥33.00",
+        "range": "[¥33.00 ~ ¥37.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6747717070",
+    "trackName": "VoidLink",
+    "firstRecordedAt": 1755094432492
+  },
+  {
+    "trackId": 6473332700,
+    "region": "cn",
     "timestamp": 1794404303285,
     "discounts": [
       {

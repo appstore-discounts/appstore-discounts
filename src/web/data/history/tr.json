@@ -282,6 +282,39 @@
       ]
     ]
   },
+  "294631159": {
+    "trackId": 294631159,
+    "trackName": "WeatherPro",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Premium Monthly": "₺29,99",
+      "Premium 12 Month": "₺499,99",
+      "Premium 3 Month": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Premium Monthly": "₺29,99",
+      "Premium 12 Month": "₺499,99",
+      "Premium 3 Month": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Premium Monthly": "₺29,99",
+            "Premium 12 Month": "₺499,99",
+            "Premium 3 Month": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "trackId": 294730339,
     "trackName": "TripView",
@@ -98880,7 +98913,7 @@
   },
   "1055650930": {
     "trackId": 1055650930,
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -255050,6 +255083,25 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Airbus A321": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794404303285,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -304779,14 +304831,30 @@
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
-      "Keeps Pro": "₺144,99"
+      "Keeps Pro": "₺144,99",
+      "Keeps Pro Yearly": "₺499,99",
+      "Keeps Pro Monthly": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Keeps Pro": "₺29,00"
+      "Keeps Pro": "₺29,00",
+      "Keeps Pro Yearly": "₺499,99",
+      "Keeps Pro Monthly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "₺499,99",
+            "Keeps Pro Monthly": "₺99,99",
+            "Keeps Pro": "₺144,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793420190024,
@@ -308628,14 +308696,22 @@
     "trackName": "Vize: Yaşam Simülasyonu",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -308743,14 +308819,22 @@
     "trackName": "1in8b Life",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794142180981,

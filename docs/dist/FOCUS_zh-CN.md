@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2422` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2423` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2423|294631159|自动|WeatherPro|WeatherPro|WeatherPro|WeatherPro|WeatherPro|WeatherPro|WeatherPro|
 |2422|6776231069|自动|熄屏录像机|熄屏錄影機|熄屏錄影機|熄屏錄影機|Screen Off Recorder|Screen Off Recorder|Screen Off Recorder|
 |2421|6801113954|自动|❌|Booster Pack Heroes|Booster Pack Heroes|Booster Pack Heroes|Booster Pack Heroes|Booster Pack Heroes|Booster Pack Heroes|
 |2420|1359584622|自动|小學初階數學|小學初階數學|小學初階數學|小學初階數學|小學初階數學|小學初階數學|小學初階數學|
@@ -1521,7 +1522,7 @@
 |911|962291530|自动|Analog Beijing|Analog Beijing|Analog Beijing|Analog Beijing|Analog Beijing|Analog Beijing|Analog Beijing|
 |910|1003660287|自动|❌|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|
 |909|1035220162|自动|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|
-|908|1055650930|自动|❌|Codenames|Codenames|Codenames|Codenames|Codenames|Codenames|
+|908|1055650930|自动|❌|Codenames: Word Board Game|Codenames: Word Board Game|Codenames: Word Board Game|Codenames: Word Board Game|Codenames: Word Board Game|Codenames: Código Secreto|
 |907|1073576068|自动|电波表对时|電波表對時|電波表對時|電波表對時|Clock Wave|Clock Wave|Clock Wave|
 |906|1106831630|自动|❌|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|
 |905|1138248035|自动|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|

@@ -125,6 +125,39 @@
       ]
     ]
   },
+  "294631159": {
+    "trackId": 294631159,
+    "trackName": "WeatherPro",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Premium 12 Month": "USD 8.99",
+      "Premium 3 Month": "USD 1.99",
+      "Premium Monthly": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Premium 12 Month": "USD 8.99",
+      "Premium 3 Month": "USD 1.99",
+      "Premium Monthly": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Premium 12 Month": "USD 8.99",
+            "Premium 3 Month": "USD 1.99",
+            "Premium Monthly": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "trackId": 294730339,
     "trackName": "TripView",
@@ -11925,6 +11958,18 @@
       "Alaska Map Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0.39,
+          "formattedPrice": "USD 0.39",
+          "inAppPurchases": {
+            "Dakota Map Pack": "USD 0.99",
+            "Unlock Everything": "USD 7.49",
+            "Alaska Map Pack": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791917735754,
@@ -77830,7 +77875,7 @@
   },
   "1055650930": {
     "trackId": 1055650930,
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
@@ -78683,14 +78728,22 @@
     "trackName": "VRPlayer Pro : 2D 3D 360°Video",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767558646047,
@@ -154298,6 +154351,14 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792337187582,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -207201,6 +207262,17 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Hunter's Pack": "USD 1.59",
+            "Steyr Arms Pack": "USD 2.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791917735754,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -216886,6 +216958,14 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793113722877,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -221239,7 +221319,7 @@
       "price": 2.99,
       "formattedPrice": "USD 2.99",
       "终身护持": "USD 14.99",
-      "年度护持": "USD 2.99",
+      "年度护持": "USD 19.99",
       "月度护持": "USD 0.99",
       "3-day Trial": "USD 0.00"
     },
@@ -221252,6 +221332,19 @@
       "3-day Trial": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "USD 0.00",
+            "终身护持": "USD 14.99",
+            "年度护持": "USD 19.99",
+            "月度护持": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792412125162,
@@ -222048,14 +222141,30 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99",
-      "Keeps Pro": "USD 4.99"
+      "Keeps Pro": "USD 4.99",
+      "Keeps Pro Yearly": "USD 9.99",
+      "Keeps Pro Monthly": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Keeps Pro": "USD 1.00"
+      "Keeps Pro": "USD 1.00",
+      "Keeps Pro Yearly": "USD 9.99",
+      "Keeps Pro Monthly": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "USD 9.99",
+            "Keeps Pro Monthly": "USD 1.99",
+            "Keeps Pro": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793382301850,
@@ -224848,14 +224957,22 @@
     "trackName": "1in8b Life",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794142180981,

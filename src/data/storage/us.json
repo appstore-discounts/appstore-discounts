@@ -417,6 +417,37 @@
       ]
     ]
   },
+  "294631159": {
+    "name": "WeatherPro",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Premium 12 Month": "$8.99",
+      "Premium 3 Month": "$1.99",
+      "Premium Monthly": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Premium 12 Month": "$8.99",
+      "Premium 3 Month": "$1.99",
+      "Premium Monthly": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Premium 12 Month": "$8.99",
+            "Premium 3 Month": "$1.99",
+            "Premium Monthly": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "name": "TripView",
     "maxPriceInfo": {
@@ -111608,7 +111639,7 @@
     ]
   },
   "1055650930": {
-    "name": "Codenames",
+    "name": "Codenames: Word Board Game",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
@@ -332592,6 +332623,23 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99",
+            "Santa Claws Card Back": "$0.99"
+          }
+        },
+        {
           "timestamp": 1794404303285,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -364318,14 +364366,30 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "Keeps Pro": "$19.99"
+      "Keeps Pro": "$19.99",
+      "Keeps Pro Yearly": "$9.99",
+      "Keeps Pro Monthly": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Keeps Pro": "$1.99"
+      "Keeps Pro": "$1.99",
+      "Keeps Pro Yearly": "$9.99",
+      "Keeps Pro Monthly": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "$9.99",
+            "Keeps Pro Monthly": "$1.99",
+            "Keeps Pro": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -364694,6 +364758,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794433497584,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Hero Oni": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Hero Ignus": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Wildcat": "$4.99",
+            "Gems Handful": "$2.99"
+          }
+        },
         {
           "timestamp": 1794404303285,
           "price": 6.99,
@@ -367640,14 +367721,22 @@
   "6830479627": {
     "name": "1in8b Life",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794142180981,

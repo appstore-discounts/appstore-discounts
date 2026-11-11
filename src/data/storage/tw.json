@@ -96,6 +96,37 @@
       ]
     ]
   },
+  "294631159": {
+    "name": "WeatherPro",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Premium 12 Month": "$290.00",
+      "Premium 3 Month": "$60.00",
+      "Premium Monthly": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Premium 12 Month": "$290.00",
+      "Premium 3 Month": "$60.00",
+      "Premium Monthly": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Premium 12 Month": "$290.00",
+            "Premium 3 Month": "$60.00",
+            "Premium Monthly": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "name": "TripView",
     "maxPriceInfo": {
@@ -15337,6 +15368,18 @@
       "Unlock Everything": "$270.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 15,
+          "formattedPrice": "$15.00",
+          "inAppPurchases": {
+            "Dakota Map Pack": "$30.00",
+            "Alaska Map Pack": "$30.00",
+            "Unlock Everything": "$270.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791917735754,
@@ -99302,7 +99345,7 @@
     ]
   },
   "1055650930": {
-    "name": "Codenames",
+    "name": "Codenames: Word Board Game",
     "maxPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00",
@@ -100213,14 +100256,22 @@
   "1065311870": {
     "name": "VRPlayer Pro : 2D 3D 360°Video",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767558646047,
@@ -107045,6 +107096,25 @@
       "2,160,000 points": "$2,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "63,000 points": "$90.00",
+            "225,000 points": "$320.00",
+            "176,000 points": "$290.00",
+            "345,000 points": "$490.00",
+            "20,000 points": "$30.00",
+            "100,000 points": "$90.00",
+            "600,000 points": "$790.00",
+            "50 kilometers": "$60.00",
+            "500,000 points": "$320.00",
+            "25,000 points": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794404303285,
@@ -162080,6 +162150,25 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "禮包5": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "禮包11": "$1,690.00",
+            "丹青閣通行證": "$330.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794404303285,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -206039,6 +206128,14 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792337187582,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -242585,6 +242682,25 @@
       "五子良將": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "重振漢室": "$90.00",
+            "北境狂人": "$90.00",
+            "公路霸業": "$90.00",
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "群雄爭霸": "$90.00",
+            "楚漢爭霸": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "終身版": "$220.00",
+            "巾幗綻芳華": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794221790401,
@@ -307444,6 +307560,17 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 230,
+          "formattedPrice": "$230.00",
+          "inAppPurchases": {
+            "Steyr Arms Pack": "$90.00",
+            "Hunter's Pack": "$55.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791917735754,
           "price": 330,
           "formattedPrice": "$330.00",
@@ -318458,6 +318585,14 @@
     "history": [
       [
         {
+          "timestamp": 1794433497584,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793113722877,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -322361,7 +322496,7 @@
       "price": 90,
       "formattedPrice": "$90.00",
       "终身护持": "$490.00",
-      "年度护持": "$90.00",
+      "年度护持": "$690.00",
       "月度护持": "$30.00",
       "3-day Trial": "$0.00"
     },
@@ -322374,6 +322509,19 @@
       "3-day Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "$0.00",
+            "终身护持": "$490.00",
+            "年度护持": "$690.00",
+            "月度护持": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792412125162,
@@ -323128,14 +323276,30 @@
     "maxPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00",
-      "Keeps Pro": "$190.00"
+      "Keeps Pro": "$190.00",
+      "Keeps Pro Yearly": "$320.00",
+      "Keeps Pro Monthly": "$60.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Keeps Pro": "$39.00"
+      "Keeps Pro": "$39.00",
+      "Keeps Pro Yearly": "$320.00",
+      "Keeps Pro Monthly": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "$320.00",
+            "Keeps Pro Monthly": "$60.00",
+            "Keeps Pro": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793382301850,
@@ -326751,14 +326915,22 @@
   "6830479627": {
     "name": "1in8b Life",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794142180981,
@@ -326793,14 +326965,22 @@
   "6814254443": {
     "name": "Pixel Miner：悠閒挖礦遊戲",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433497584,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794221790401,
