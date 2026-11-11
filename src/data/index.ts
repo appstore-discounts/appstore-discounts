@@ -12,8 +12,13 @@ import pushDingTalkNotification from './dingtalk'
 import updateAppInfoConfig from './config'
 import updateLog from './log'
 import disableApps from './disableApps'
+import {
+  loadNotificationFilters,
+  filterNotificationDiscounts,
+} from './notificationFilters'
 
 async function controller() {
+  const notificationFilters = loadNotificationFilters()
   start('controller')
   const regionAppTopInfo = await getRegionAppTopInfo(regions)
   const appConfig = updateAppInfoConfig(regionAppTopInfo)
@@ -58,9 +63,14 @@ async function controller() {
     regionStorageAppInfo,
   })
 
-  await pushTelegramNotification(regionDiscountInfo)
+  const notificationDiscounts = filterNotificationDiscounts(
+    regionDiscountInfo,
+    notificationFilters,
+  )
 
-  await pushDingTalkNotification(regionDiscountInfo)
+  await pushTelegramNotification(notificationDiscounts)
+
+  await pushDingTalkNotification(notificationDiscounts)
 
   disableApps({
     appConfig,
