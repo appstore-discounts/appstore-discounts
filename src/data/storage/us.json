@@ -102692,6 +102692,20 @@
     "history": [
       [
         {
+          "timestamp": 1794372778825,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$10.99",
+            "25,000 Gold": "$5.99",
+            "125,000 Gold": "$21.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$54.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793265912561,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -152001,6 +152015,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793683824235,
@@ -241948,7 +241970,7 @@
     ]
   },
   "1582355047": {
-    "name": "Hacker Başlangıç",
+    "name": "Hacker the Beginning",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
@@ -259267,6 +259289,14 @@
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -304731,6 +304761,25 @@
       "New Holland T8.435 Genesis": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "$1.99",
+            "Vervaet Hydro Trike 5x5": "$1.99",
+            "Kubota RTV-XG850 SIDEKICK": "$1.99",
+            "Case IH Austoft 8800 Multi-Row": "$1.99",
+            "Krone BiG Pack 1290 HDP VC": "$0.99",
+            "Kotte PQ 32000": "$0.99",
+            "KINZE 3665 Blue Drive": "$0.99",
+            "Versatile 4WD 620": "$1.99",
+            "Amazone CITAN 15001-C": "$0.99",
+            "Claas Xerion 5000": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -367659,6 +367708,31 @@
           "price": 7.19,
           "formattedPrice": "$7.19",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "name": "Booster Pack Heroes",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99",
+      "Supporter Pack": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99",
+      "Supporter Pack": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Supporter Pack": "$2.99"
+          }
         }
       ]
     ]

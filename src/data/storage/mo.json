@@ -107321,6 +107321,25 @@
     "history": [
       [
         {
+          "timestamp": 1794372778825,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Tuner": "USD 0.00",
+            "Chromakey": "USD 0.00",
+            "Unlock All": "USD 7.99",
+            "Paint": "USD 0.00",
+            "Erase": "USD 0.99",
+            "Blend": "USD 0.99",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793991369986,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -220453,6 +220472,31 @@
           "price": 7.19,
           "formattedPrice": "USD 7.19",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "name": "Booster Pack Heroes",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
+      "支持者禮包": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
+      "支持者禮包": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "支持者禮包": "USD 2.99"
+          }
         }
       ]
     ]

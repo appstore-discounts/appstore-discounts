@@ -44930,7 +44930,8 @@
       "Lattice Shedding": "$30.00",
       "Crystal Overclock": "$30.00",
       "Magnetic Siphon": "$30.00",
-      "Harmonic Vibrations": "$30.00"
+      "Harmonic Vibrations": "$30.00",
+      "Unlock Anti-Vax": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -44970,9 +44971,29 @@
       "Lattice Shedding": "$30.00",
       "Crystal Overclock": "$30.00",
       "Magnetic Siphon": "$30.00",
-      "Harmonic Vibrations": "$30.00"
+      "Harmonic Vibrations": "$30.00",
+      "Unlock Anti-Vax": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Unlock Anti-Vax": "$30.00",
+            "Alien Chemistry": "$30.00",
+            "Atmospheric Interference": "$30.00",
+            "Void Signal": "$30.00",
+            "Brittle Lattice": "$30.00",
+            "Quantum Obfuscation": "$30.00",
+            "Synaptic Pulse": "$30.00",
+            "Lattice Shedding": "$30.00",
+            "Crystal Overclock": "$30.00",
+            "Magnetic Siphon": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786615484339,
@@ -331346,6 +331367,33 @@
           "price": 250,
           "formattedPrice": "$250.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "trackId": 6801113954,
+    "trackName": "Booster Pack Heroes",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 140,
+      "formattedPrice": "$140.00",
+      "支持者禮包": "$45.00"
+    },
+    "minPriceInfo": {
+      "price": 140,
+      "formattedPrice": "$140.00",
+      "支持者禮包": "$45.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 140,
+          "formattedPrice": "$140.00",
+          "inAppPurchases": {
+            "支持者禮包": "$45.00"
+          }
         }
       ]
     ]

@@ -318528,5 +318528,32 @@
         }
       ]
     ]
+  },
+  "6801113954": {
+    "trackId": 6801113954,
+    "trackName": "Booster Pack Heroes",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "支持者禮包": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "支持者禮包": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "支持者禮包": "HK$ 18.00"
+          }
+        }
+      ]
+    ]
   }
 }

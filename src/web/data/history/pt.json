@@ -14375,6 +14375,25 @@
     "history": [
       [
         {
+          "timestamp": 1794372778825,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Superpower 10": "1,99 €",
+            "Unlock all level packs including future updates": "3,99 €",
+            "Superpower 500": "19,99 €",
+            "Superpower 20": "3,99 €",
+            "Superpower 50": "8,99 €",
+            "Unlock \"Bamboo Chutes\" level pack": "1,99 €",
+            "Unlock \"Sticky Steps\" level pack": "1,99 €",
+            "Unlock \"Rocket Science\" level pack": "1,99 €",
+            "Magnetic Stars Superior Pack": "29,99 €",
+            "Superpower 50 Sale": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794351164358,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -159469,6 +159488,33 @@
           "price": 7.99,
           "formattedPrice": "7,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "trackId": 6801113954,
+    "trackName": "Booster Pack Heroes",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.79,
+      "formattedPrice": "6,79 €",
+      "Pacote de Apoiador": "2,49 €"
+    },
+    "minPriceInfo": {
+      "price": 6.79,
+      "formattedPrice": "6,79 €",
+      "Pacote de Apoiador": "2,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 6.79,
+          "formattedPrice": "6,79 €",
+          "inAppPurchases": {
+            "Pacote de Apoiador": "2,49 €"
+          }
         }
       ]
     ]

@@ -22752,6 +22752,22 @@
     "history": [
       [
         {
+          "timestamp": 1794372778825,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "FL Cloud Mobile": "₺129,99",
+            "Voices": "₺49,99",
+            "DubTechno": "₺99,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Hyper-Pop Mobile": "₺149,99",
+            "Synth Lead": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1794351164358,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -214579,7 +214595,7 @@
   },
   "1582355047": {
     "trackId": 1582355047,
-    "trackName": "Hacker Başlangıç",
+    "trackName": "Hacker the Beginning",
     "region": "tr",
     "maxPriceInfo": {
       "price": 19.99,
@@ -254998,6 +255014,25 @@
     "history": [
       [
         {
+          "timestamp": 1794372778825,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A321": "₺99,99",
+            "Airbus A350-1000": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794261475759,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -288828,6 +288863,25 @@
     "history": [
       [
         {
+          "timestamp": 1794372778825,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "passatb8": "₺49,99",
+            "5 gold": "₺19,99",
+            "15 gold": "₺29,99",
+            "30000 money": "₺19,99",
+            "sonsuz paket": "₺249,99",
+            "30 gold": "₺49,99",
+            "30 ticket": "₺49,99",
+            "porches": "₺49,99",
+            "10 gold": "₺29,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794184452646,
           "price": 0,
           "formattedPrice": "Free",
@@ -308817,6 +308871,33 @@
           "price": 399.99,
           "formattedPrice": "₺399,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "trackId": 6801113954,
+    "trackName": "Booster Pack Heroes",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 250,
+      "formattedPrice": "₺250,00",
+      "Supporter Pack": "₺72,99"
+    },
+    "minPriceInfo": {
+      "price": 250,
+      "formattedPrice": "₺250,00",
+      "Supporter Pack": "₺72,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794372778825,
+          "price": 250,
+          "formattedPrice": "₺250,00",
+          "inAppPurchases": {
+            "Supporter Pack": "₺72,99"
+          }
         }
       ]
     ]
