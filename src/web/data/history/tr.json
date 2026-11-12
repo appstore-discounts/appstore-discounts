@@ -39044,6 +39044,25 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "+800 Emoji Stickers": "₺49,99",
+            "AEX Company Calendars": "₺149,99",
+            "DAX Company Calendars": "₺149,99",
+            "FTSE 100 Company Calendars": "₺149,99",
+            "DJ 30 Company Calendars": "₺149,99",
+            "Religious holidays": "₺49,99",
+            "AMX Company Calendars": "₺149,99",
+            "BEL 20 Company Calendars": "₺149,99",
+            "CAC 40 Company Calendars": "₺149,99",
+            "NASDAQ 100 Company Calendars": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793420190024,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -65670,7 +65689,8 @@
       "GROOVY GUT SHAKER": "₺99,99",
       "DARK DUNGEON OF DESPAIR": "₺49,99",
       "BLADE OF JUSTICE": "₺49,99",
-      "LOW RIDER": "₺49,99"
+      "LOW RIDER": "₺49,99",
+      "A MAJOR'S HIGH BROW": "₺0,00"
     },
     "minPriceInfo": {
       "price": 599.99,
@@ -65687,9 +65707,29 @@
       "GROOVY GUT SHAKER": "₺99,99",
       "DARK DUNGEON OF DESPAIR": "₺49,99",
       "BLADE OF JUSTICE": "₺49,99",
-      "LOW RIDER": "₺49,99"
+      "LOW RIDER": "₺49,99",
+      "A MAJOR'S HIGH BROW": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519898441,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "BEAST OF SHADOWS": "₺0,00",
+            "STANDARD ROCK KIT": "₺0,00",
+            "A MAJOR'S LOW BLOW": "₺0,00",
+            "A MAJOR'S HIGH BROW": "₺0,00",
+            "LOW RIDER": "₺49,99",
+            "HIGH FIVE": "₺49,99",
+            "DEEP BLUE": "₺0,00",
+            "BLADE OF JUSTICE": "₺49,99",
+            "FUSION FLIPPO": "₺49,99",
+            "BEEPING BOBBIE": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -216843,6 +216883,16 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794261475759,
           "price": 0,
           "formattedPrice": "Free",
@@ -277496,6 +277546,14 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793578623309,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -304667,7 +304725,7 @@
   },
   "6799335271": {
     "trackId": 6799335271,
-    "trackName": "Funny Doctor: Kids Habit Scan",
+    "trackName": "Funny Doctor - Kids Tummy Scan",
     "region": "tr",
     "maxPriceInfo": {
       "price": 19.99,
@@ -307496,7 +307554,7 @@
   },
   "6819276809": {
     "trackId": 6819276809,
-    "trackName": "構造大飯店",
+    "trackName": "構造大飯店－建築師考試題庫",
     "region": "tr",
     "maxPriceInfo": {
       "price": 599.99,

@@ -40168,6 +40168,25 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "2,99 €",
+            "DLC Sister in Arms (Special Price)": "1,99 €",
+            "Biomes Add-on": "1,99 €",
+            "Biomes Add-on (Special Price)": "0,99 €",
+            "Lonely Mountain Add-on": "7,99 €",
+            "Bosses & Monsters Add-on": "8,99 €",
+            "Heart of Evil Add-on": "7,99 €",
+            "Invasion Add-on": "5,99 €",
+            "Abandoned Mines Add-on": "0,99 €",
+            "Temples of 4 Elements Add-on": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793397478286,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -101721,6 +101740,16 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794261475759,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -118016,6 +118045,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519898441,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793578623309,
@@ -141887,10 +141924,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519898441,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770490042625,
@@ -152427,7 +152472,7 @@
     ]
   },
   "6799335271": {
-    "name": "奇趣小医生 - 肚子身体模拟扫描坏习惯小怪兽与好打卡自律养成",
+    "name": "奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -154097,7 +154142,7 @@
     ]
   },
   "6819276809": {
-    "name": "構造大飯店",
+    "name": "構造大飯店－建築師考試題庫",
     "maxPriceInfo": {
       "price": 12.99,
       "formattedPrice": "12,99 €"

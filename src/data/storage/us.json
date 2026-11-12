@@ -130997,7 +130997,8 @@
       "Tuner HD Textures": "$0.00",
       "Open Wheel HD Textures": "$0.00",
       "Endurance HD Textures": "$0.00",
-      "Touring HD Textures": "$0.00"
+      "Touring HD Textures": "$0.00",
+      "Touring Legends Pack": "$0.00"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -131015,9 +131016,29 @@
       "Tuner HD Textures": "$0.00",
       "Open Wheel HD Textures": "$0.00",
       "Endurance HD Textures": "$0.00",
-      "Touring HD Textures": "$0.00"
+      "Touring HD Textures": "$0.00",
+      "Touring Legends Pack": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519898441,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Road & Track Pack": "$0.00",
+            "Drag Pack": "$0.00",
+            "Touring Legends Pack": "$0.00",
+            "Sprint Pack": "$0.00",
+            "Coupé Style Pack": "$0.00",
+            "Best of British Pack": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Touring HD Textures": "$0.00",
+            "Endurance HD Textures": "$0.00",
+            "Open Wheel HD Textures": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785399944043,
@@ -139255,6 +139276,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794519898441,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "江湖名士": "$3.99",
+            "秦王的宝藏": "$24.99",
+            "鳌拜的私房钱": "$8.99",
+            "一盒元宝": "$2.99",
+            "30元礼包": "$3.99",
+            "60元礼包": "$8.99",
+            "一袋元宝": "$0.99",
+            "168元礼包": "$24.99",
+            "6元礼包": "$0.99",
+            "30元礼包四": "$3.99"
+          }
+        },
         {
           "timestamp": 1794494512321,
           "price": 0.99,
@@ -205425,6 +205463,23 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        },
+        {
           "timestamp": 1794494512321,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -243703,6 +243758,16 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794261475759,
           "price": 0,
           "formattedPrice": "Free",
@@ -277284,6 +277349,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794519898441,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "五子良將": "$5.99",
+            "戰國七雄": "$5.99",
+            "楚漢爭霸": "$5.99",
+            "重振漢室": "$2.99",
+            "自創武將": "$2.99",
+            "北境狂人": "$2.99",
+            "道法自然": "$2.99",
+            "江山美人": "$2.99",
+            "群雄爭霸": "$2.99",
+            "終身版": "$6.99"
+          }
+        },
         {
           "timestamp": 1794494512321,
           "price": 5.99,
@@ -330661,6 +330743,14 @@
     "history": [
       [
         {
+          "timestamp": 1794519898441,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793615736419,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -349373,10 +349463,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0.29,
+      "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519898441,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770490042625,
@@ -364372,7 +364470,7 @@
     ]
   },
   "6799335271": {
-    "name": "Funny Doctor: Kids Habit Scan",
+    "name": "Funny Doctor - Kids Tummy Scan",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
@@ -366566,7 +366664,7 @@
     ]
   },
   "6819276809": {
-    "name": "構造大飯店",
+    "name": "構造大飯店－建築師考試題庫",
     "maxPriceInfo": {
       "price": 11.99,
       "formattedPrice": "$11.99"

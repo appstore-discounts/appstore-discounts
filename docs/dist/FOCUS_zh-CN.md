@@ -104,7 +104,7 @@
 |2330|6762813110|自动|❌|Sifu|Sifu|Sifu|Sifu|Sifu|Sifu|
 |2329|6814210373|自动|Auday - Watch全天AI录音|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|Auday - All-Day Watch Recorder|
 |2328|6817352467|自动|❌|❌|❌|❌|❌|Karakol Amiri|❌|
-|2327|6819276809|自动|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
+|2327|6819276809|自动|構造大飯店－建築師考試題庫|構造大飯店－建築師考試題庫|構造大飯店－建築師考試題庫|構造大飯店－建築師考試題庫|構造大飯店－建築師考試題庫|構造大飯店－建築師考試題庫|構造大飯店－建築師考試題庫|
 |2326|1057703608|自动|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
 |2325|6762412284|自动|时光锚点 Days Anchor - 倒数 纪念 小组件|時光錨點 Days Anchor - 倒數日 紀念日 小工具|時光錨點 Days Anchor - 倒數日 紀念日 小工具|時光錨點 Days Anchor - 倒數日 紀念日 小工具|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
 |2324|6812927976|自动|❌|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: Magic RPG|Enchanted Survival: Magic RPG|Enchanted Survival: RPG Loot|
@@ -161,7 +161,7 @@
 |2273|6760237050|自动|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|
 |2272|6800616114|自动|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|
 |2271|6749684876|自动|❌|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|
-|2270|6799335271|自动|奇趣小医生 - 肚子身体模拟扫描坏习惯小怪兽与好打卡自律养成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|Funny Doctor: Kids Habit Scan|Funny Doctor: Kids Habit Scan|奇趣小医生 - 肚子身体模拟扫描坏习惯小怪兽与好打卡自律养成|
+|2270|6799335271|自动|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|Funny Doctor - Kids Tummy Scan|Funny Doctor - Kids Tummy Scan|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|
 |2269|655607914|自动|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|
 |2268|1334253650|自动|❌|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|AC2PHONE|
 |2267|6805543429|自动|❌|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|護士投考全攻略 NurseReady|

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6480058345,
+    "region": "us",
+    "timestamp": 1794519898441,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6480058345",
+    "trackName": "Kaiju Attack 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
+    "trackId": 6758114235,
+    "region": "us",
+    "timestamp": 1794519898441,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.29",
+        "range": "[$0.29 ~ $0.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "$0.29",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6758114235",
+    "trackName": "1 TL",
+    "firstRecordedAt": 1770490042625
+  },
+  {
     "trackId": 385902072,
     "region": "us",
     "timestamp": 1794462892032,
