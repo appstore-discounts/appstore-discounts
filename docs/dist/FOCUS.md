@@ -1630,7 +1630,7 @@ So far, we've covered `7` `Countries or Regions` and  `2424` `Apps` <br />Push n
 |804|998834675|Automatic|❌|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|
 |803|1232529101|Automatic|❌|歸家異途|歸家異途|歸家異途|Home Behind|Home Behind|Home Behind|
 |802|1573482724|Automatic|❌|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|
-|801|1602772289|Automatic|❌|7 Days to End with You|7 Days to End with You|7 Days to End with You|7 Days to End with You|7 Days to End with You|❌|
+|801|1602772289|Automatic|❌|7 Days to End with You|7 Days to End with You|7 Days to End with You|7 Days to End with You|7 Days to End with You|7 Days to End with You|
 |800|1613295180|Automatic|❌|青春敘曲|青春敘曲|青春敘曲|Growing Up: Life of the '90s|Growing Up: Life of the '90s|Growing Up: Life of the '90s|
 |799|1614666556|Automatic|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|CNC VMC Simulator|
 |798|1624777523|Automatic|❌|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|Guess Who? Meet the Crew|

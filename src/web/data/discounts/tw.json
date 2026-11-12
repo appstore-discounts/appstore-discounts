@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1642733080,
+    "region": "tw",
+    "timestamp": 1794494512321,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1304822713,
     "region": "tw",
     "timestamp": 1794462892032,

@@ -11086,14 +11086,22 @@
     "trackName": "PeakFinder",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
       "price": 229.99,
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794494512321,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -108378,6 +108386,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794494512321,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "幸运转盘": "₺799,99",
+            "至尊门票": "₺799,99",
+            "应援十次": "₺199,99",
+            "福运铃铛": "₺799,99",
+            "福运十次": "₺199,99",
+            "战姬参战": "₺4.999,99",
+            "火鸡宴会": "₺799,99",
+            "提升十级": "₺199,99",
+            "宝石通行证": "₺799,99",
+            "休假证明": "₺799,99"
+          }
+        },
         {
           "timestamp": 1794462892032,
           "price": 4.99,
@@ -242001,6 +242026,23 @@
     "history": [
       [
         {
+          "timestamp": 1794494512321,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "60 Gold": "₺49,99",
+            "Double Combat Rewards": "₺99,99",
+            "Monthly Card": "₺249,99",
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "3280 Gold": "₺2.499,99",
+            "1280 Gold": "₺999,99",
+            "300 Gold": "₺249,99",
+            "980 Gold": "₺799,99",
+            "6480 Gold": "₺4.999,99"
+          }
+        },
+        {
           "timestamp": 1794462892032,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -255199,6 +255241,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794494512321,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 747-400": "₺99,99"
+          }
+        },
         {
           "timestamp": 1794462892032,
           "price": 199.99,

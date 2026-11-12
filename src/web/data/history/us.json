@@ -15287,14 +15287,22 @@
     "trackName": "PeakFinder",
     "region": "us",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 5.99,
+      "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794494512321,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -140904,7 +140912,11 @@
       "6元礼包四": "$0.99",
       "328元礼包三": "$49.99",
       "168元礼包三": "$24.99",
-      "648元礼包三": "$99.99"
+      "648元礼包三": "$99.99",
+      "韦爵爷的饭钱": "$3.99",
+      "汉帝的宝箱": "$49.99",
+      "传世珍宝": "$99.99",
+      "18元礼包": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -140927,9 +140939,32 @@
       "6元礼包四": "$0.99",
       "328元礼包三": "$49.99",
       "168元礼包三": "$24.99",
-      "648元礼包三": "$99.99"
+      "648元礼包三": "$99.99",
+      "韦爵爷的饭钱": "$3.99",
+      "汉帝的宝箱": "$49.99",
+      "传世珍宝": "$99.99",
+      "18元礼包": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794494512321,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "一袋元宝": "$0.99",
+            "一盒元宝": "$2.99",
+            "鳌拜的私房钱": "$8.99",
+            "秦王的宝藏": "$24.99",
+            "江湖名士": "$3.99",
+            "韦爵爷的饭钱": "$3.99",
+            "汉帝的宝箱": "$49.99",
+            "传世珍宝": "$99.99",
+            "18元礼包": "$2.99",
+            "6元礼包": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -207712,6 +207747,25 @@
     "history": [
       [
         {
+          "timestamp": 1794494512321,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Prime gemma 100": "$0.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 500": "$4.99",
+            "Prime Gemma 5000": "$39.99",
+            "Prime Gemma 1200": "$9.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 10000": "$69.99",
+            "Tamer Kit": "$0.99",
+            "Hunter Package": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794404303285,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -257782,6 +257836,14 @@
     "history": [
       [
         {
+          "timestamp": 1794494512321,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790134270308,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -280304,6 +280366,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794494512321,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "五子良將": "$5.99",
+            "地圖存檔": "$1.99",
+            "劇本存檔": "$1.99",
+            "月下追魂": "$5.99",
+            "斜谷殘陽": "$5.99",
+            "自創寶物": "$1.99",
+            "冠絕天下": "$5.99",
+            "西涼悍將": "$5.99",
+            "江山美人": "$2.99",
+            "終身版": "$6.99"
+          }
+        },
         {
           "timestamp": 1794462892032,
           "price": 5.99,
@@ -336166,6 +336245,23 @@
     "history": [
       [
         {
+          "timestamp": 1794494512321,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Sea Rat Outfit": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99"
+          }
+        },
+        {
           "timestamp": 1794462892032,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -359391,6 +359487,25 @@
       "Underworld Pass 2": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794494512321,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "New Rulers": "$5.99",
+            "Wedding Skin Set": "$9.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Underworld Pass 2": "$2.99",
+            "Neo Behemoth": "$1.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Moonveil Skin Set": "$9.99",
+            "Memory of Training": "$17.99",
+            "Underworld Pass 1": "$2.99",
+            "Essence of Transcendence": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794404303285,

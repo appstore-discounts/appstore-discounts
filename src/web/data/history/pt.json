@@ -15657,6 +15657,23 @@
     "history": [
       [
         {
+          "timestamp": 1794494512321,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "The Machine: Bride of Pin•bot™ + Medieval Madness™": "5,99 €",
+            "Gorgar™ + Monster Bash™": "5,99 €",
+            "Theatre of Magic® Pinball Table": "2,99 €",
+            "Fun House™ + Circqus Voltaire™": "5,99 €",
+            "Ripley's Believe It or Not® Pinball Table": "1,99 €",
+            "Black Knight™ + Creature from the Black Lagoon™": "5,99 €",
+            "Black Hole™ Pinball Table": "1,99 €",
+            "Elvira and the Party Monsters™ + No Good Gofers™": "5,99 €",
+            "Taxi™ + Harley-Davidson® 3rd Edition": "5,99 €",
+            "Pack de três mesas de lançamento": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1794462892032,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -107505,6 +107522,29 @@
             "Basic Plan": "3,99 €",
             "Business Plan": "29,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1602772289": {
+    "trackId": 1602772289,
+    "trackName": "7 Days to End with You",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794494512321,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
