@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 385902072,
+    "region": "pt",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 1304822713,
+    "region": "pt",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 9,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1304822713",
+    "trackName": "Infinity Tank Battle",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1571643809,
+    "region": "pt",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6497948575,
+    "region": "pt",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[4,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6497948575",
+    "trackName": "Way of the Hunter Wild America",
+    "firstRecordedAt": 1764095974561
+  },
+  {
     "trackId": 6478398981,
     "region": "pt",
     "timestamp": 1794351164358,

@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 385902072,
+    "region": "us",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $2.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 1304822713,
+    "region": "us",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "Free",
+        "range": "[Free ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1304822713",
+    "trackName": "Infinity Tank Battle",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 1571643809,
+    "region": "us",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 6497948575,
+    "region": "us",
+    "timestamp": 1794462892032,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$7.99",
+        "range": "[$4.99 ~ $10.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6497948575",
+    "trackName": "Way of the Hunter Wild America",
+    "firstRecordedAt": 1764095974561
+  },
+  {
     "trackId": 6478398981,
     "region": "us",
     "timestamp": 1794351164358,
