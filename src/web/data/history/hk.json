@@ -39627,6 +39627,14 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793297052912,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -62557,13 +62565,25 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "HRV4Training Pro": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "HRV4Training Pro": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "HRV4Training Pro": "HK$ 388.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755299553649,
@@ -62784,6 +62804,25 @@
       "N.M.S.T. Collection": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "HK$ 32.00",
+            "Ayatsugu_Otowa Collection": "HK$ 32.00",
+            "Sherwin Collection": "HK$ 32.00",
+            "Capchii Collection": "HK$ 32.00",
+            "VII Bundle 06": "HK$ 98.00",
+            "VII Bundle 05": "HK$ 88.00",
+            "VII Bundle 03": "HK$ 58.00",
+            "VII Bundle 02": "HK$ 38.00",
+            "VII Bundle 04": "HK$ 68.00",
+            "VII Bundle 01": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -68288,6 +68327,60 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "737006024": {
+    "trackId": 737006024,
+    "trackName": "LEGO® Marvel Super Heroes",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Ultimate Super Hero Pack": "HK$ 88.00",
+      "Free Fun Pack": "HK$ 0.00",
+      "Bad Boys Pack": "HK$ 18.00",
+      "Avengers Pack": "HK$ 22.00",
+      "X-Men Villains Pack": "HK$ 18.00",
+      "Spider-Man Pack": "HK$ 18.00",
+      "X-Men Pack": "HK$ 18.00",
+      "Fantastic Four Pack": "HK$ 18.00",
+      "x10 Studs Pack": "HK$ 32.00",
+      "Invincibility Pack": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Ultimate Super Hero Pack": "HK$ 88.00",
+      "Free Fun Pack": "HK$ 0.00",
+      "Bad Boys Pack": "HK$ 18.00",
+      "Avengers Pack": "HK$ 22.00",
+      "X-Men Villains Pack": "HK$ 18.00",
+      "Spider-Man Pack": "HK$ 18.00",
+      "X-Men Pack": "HK$ 18.00",
+      "Fantastic Four Pack": "HK$ 18.00",
+      "x10 Studs Pack": "HK$ 32.00",
+      "Invincibility Pack": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Ultimate Super Hero Pack": "HK$ 88.00",
+            "Free Fun Pack": "HK$ 0.00",
+            "Bad Boys Pack": "HK$ 18.00",
+            "Avengers Pack": "HK$ 22.00",
+            "X-Men Villains Pack": "HK$ 18.00",
+            "Spider-Man Pack": "HK$ 18.00",
+            "X-Men Pack": "HK$ 18.00",
+            "Fantastic Four Pack": "HK$ 18.00",
+            "x10 Studs Pack": "HK$ 32.00",
+            "Invincibility Pack": "HK$ 22.00"
+          }
         }
       ]
     ]
@@ -86061,6 +86154,25 @@
       "下载包318": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "下载包8": "HK$ 8.00",
+            "下载包318": "HK$ 388.00",
+            "永久金紫会员": "HK$ 288.00",
+            "下载次数": "HK$ 8.00",
+            "金紫会员永久": "HK$ 288.00",
+            "金紫会员6个月": "HK$ 58.00",
+            "金紫会员12个月": "HK$ 88.00",
+            "金紫会员1个月": "HK$ 18.00",
+            "纯净模式永久": "HK$ 228.00",
+            "纯净模式12个月": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792412125162,
@@ -131372,7 +131484,7 @@
   },
   "1269488509": {
     "trackId": 1269488509,
-    "trackName": "饥荒语音助手",
+    "trackName": "SurviKit",
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
@@ -174226,6 +174338,14 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789225426600,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -202315,6 +202435,25 @@
       "Bird Blues Changes 12key": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 128,
+          "formattedPrice": "HK$ 128.00",
+          "inAppPurchases": {
+            "Swing Ⅱ-V-I-VI 12key (Long)": "HK$ 38.00",
+            "Major Jazz Blues 12 key": "HK$ 38.00",
+            "Minor Blues 12 key": "HK$ 38.00",
+            "Bossa Nova Blues 12key": "HK$ 22.00",
+            "Antonio Carlos Jobim Book Ⅰ.": "HK$ 48.00",
+            "Feel Like Makin love 12key": "HK$ 22.00",
+            "Bill Evans Repertoire": "HK$ 58.00",
+            "Rhythm Changes Reharmonization": "HK$ 22.00",
+            "Rhythm Change 12key": "HK$ 38.00",
+            "F.T.B (Robert Glasper) 12 key": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794578326520,
@@ -315795,7 +315934,8 @@
       "英雄達莉雅": "HK$ 38.00",
       "塔樓貓頭鷹騎士促銷": "HK$ 22.00",
       "英雄奧斯尼爾促銷": "HK$ 22.00",
-      "塔樓貓頭鷹騎士": "HK$ 38.00"
+      "塔樓貓頭鷹騎士": "HK$ 38.00",
+      "法術 地精商店": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 58,
@@ -315836,9 +315976,29 @@
       "英雄達莉雅": "HK$ 38.00",
       "塔樓貓頭鷹騎士促銷": "HK$ 22.00",
       "英雄奧斯尼爾促銷": "HK$ 22.00",
-      "塔樓貓頭鷹騎士": "HK$ 38.00"
+      "塔樓貓頭鷹騎士": "HK$ 38.00",
+      "法術 地精商店": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全英雄禮包": "HK$ 188.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全塔禮包": "HK$ 148.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "法術 索羅化身": "HK$ 38.00",
+            "法術 地精商店": "HK$ 22.00",
+            "英雄 鬼侍": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -319512,6 +319672,29 @@
           "timestamp": 1794462892032,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6794754217": {
+    "trackId": 6794754217,
+    "trackName": "棒球打不好就再轉生：投手養成",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1453661259,
+    "region": "tw",
+    "timestamp": 1794604319311,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1453661259",
+    "trackName": "Dungeon Warfare 2",
+    "firstRecordedAt": 1787520021461
+  },
+  {
+    "trackId": 6747138769,
+    "region": "tw",
+    "timestamp": 1794604319311,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$490.00",
+        "to": "$390.00",
+        "range": "[$190.00 ~ $590.00]"
+      }
+    ],
+    "price": 390,
+    "formattedPrice": "$390.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6747138769",
+    "trackName": "Easy Text to Speech Reader Pro",
+    "firstRecordedAt": 1755066012809
+  },
+  {
     "trackId": 6816896250,
     "region": "tw",
     "timestamp": 1794578326520,

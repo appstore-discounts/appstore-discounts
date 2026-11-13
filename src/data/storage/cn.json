@@ -35397,13 +35397,25 @@
     "name": "HRV4Training",
     "maxPriceInfo": {
       "price": 68,
-      "formattedPrice": "¥68.00"
+      "formattedPrice": "¥68.00",
+      "HRV4Training Pro": "¥328.00"
     },
     "minPriceInfo": {
       "price": 68,
-      "formattedPrice": "¥68.00"
+      "formattedPrice": "¥68.00",
+      "HRV4Training Pro": "¥328.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "HRV4Training Pro": "¥328.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755299553649,
@@ -128989,6 +129001,25 @@
       "宝物连珠组": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6金玉": "¥6.00",
+            "30金玉": "¥30.00",
+            "68金玉": "¥68.00",
+            "30元礼包": "¥30.00",
+            "1元礼包": "¥1.00",
+            "198金玉": "¥198.00",
+            "高级月奉": "¥30.00",
+            "648金玉": "¥648.00",
+            "328元礼包": "¥328.00",
+            "198元礼包": "¥198.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794547025179,

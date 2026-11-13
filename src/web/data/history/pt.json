@@ -5847,6 +5847,23 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1794578326520,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -22690,7 +22707,8 @@
       "Desbloquear Fungo": "0,99 €",
       "Desbloquear Príon": "0,99 €",
       "Desbloquear NanoVírus": "0,99 €",
-      "Desbloquear Arma Biológica": "0,99 €"
+      "Desbloquear Arma Biológica": "0,99 €",
+      "Unlock Zombies vs Earth": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -22733,9 +22751,29 @@
       "Desbloquear Fungo": "0,99 €",
       "Desbloquear Príon": "0,99 €",
       "Desbloquear NanoVírus": "0,99 €",
-      "Desbloquear Arma Biológica": "0,99 €"
+      "Desbloquear Arma Biológica": "0,99 €",
+      "Unlock Zombies vs Earth": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unlock Zombies vs Earth": "0,99 €",
+            "Unlock Anti-Vax": "0,99 €",
+            "Alien Chemistry": "0,99 €",
+            "Atmospheric Interference": "0,99 €",
+            "Void Signal": "0,99 €",
+            "Brittle Lattice": "0,99 €",
+            "Quantum Obfuscation": "0,99 €",
+            "Synaptic Pulse": "0,99 €",
+            "Lattice Shedding": "0,99 €",
+            "Crystal Overclock": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794329315472,
@@ -37147,6 +37185,60 @@
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "737006024": {
+    "trackId": 737006024,
+    "trackName": "LEGO® Marvel Super Heroes",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Pacote dos Bad Boys": "1,99 €",
+      "Pacote do Super-herói Supremo": "9,99 €",
+      "Pacote do Homem-Aranha": "1,99 €",
+      "Pacote dos Vilões de X-Men": "1,99 €",
+      "Pacote do Quarteto Fantástico": "1,99 €",
+      "Pacote dos X-Men": "1,99 €",
+      "Pacote da Diversão": "0,00 €",
+      "Pacote dos Vingadores": "2,99 €",
+      "Pacote de Peças X10": "3,99 €",
+      "Pacote de Invencibilidade": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Pacote dos Bad Boys": "1,99 €",
+      "Pacote do Super-herói Supremo": "9,99 €",
+      "Pacote do Homem-Aranha": "1,99 €",
+      "Pacote dos Vilões de X-Men": "1,99 €",
+      "Pacote do Quarteto Fantástico": "1,99 €",
+      "Pacote dos X-Men": "1,99 €",
+      "Pacote da Diversão": "0,00 €",
+      "Pacote dos Vingadores": "2,99 €",
+      "Pacote de Peças X10": "3,99 €",
+      "Pacote de Invencibilidade": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pacote dos Bad Boys": "1,99 €",
+            "Pacote do Super-herói Supremo": "9,99 €",
+            "Pacote do Homem-Aranha": "1,99 €",
+            "Pacote dos Vilões de X-Men": "1,99 €",
+            "Pacote do Quarteto Fantástico": "1,99 €",
+            "Pacote dos X-Men": "1,99 €",
+            "Pacote da Diversão": "0,00 €",
+            "Pacote dos Vingadores": "2,99 €",
+            "Pacote de Peças X10": "3,99 €",
+            "Pacote de Invencibilidade": "2,99 €"
+          }
         }
       ]
     ]
@@ -55156,6 +55248,23 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "XP de Torre": "1,19 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €"
+          }
+        },
+        {
           "timestamp": 1794578326520,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -67163,7 +67272,7 @@
   },
   "1269488509": {
     "trackId": 1269488509,
-    "trackName": "饥荒语音助手",
+    "trackName": "SurviKit",
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,
@@ -118094,6 +118203,14 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787838577561,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -157454,7 +157571,12 @@
       "Torre TREANT": "7,99 €",
       "BAÚ de Gemas": "22,99 €",
       "PACOTE TODOS OS HERÓIS": "29,99 €",
-      "BARRIL de Gemas": "9,99 €"
+      "BARRIL de Gemas": "9,99 €",
+      "Herói MALIK": "5,99 €",
+      "VAGÃO de Gemas": "59,99 €",
+      "MONTANHA de Gemas": "99,99 €",
+      "BOLSA de Gemas - Sale": "3,99 €",
+      "Herói IGNUS Sale": "1,99 €"
     },
     "minPriceInfo": {
       "VITRINE OFERTA 6": "5,99 €",
@@ -157482,9 +157604,33 @@
       "Torre TREANT": "7,99 €",
       "BAÚ de Gemas": "22,99 €",
       "PACOTE TODOS OS HERÓIS": "29,99 €",
-      "BARRIL de Gemas": "9,99 €"
+      "BARRIL de Gemas": "9,99 €",
+      "Herói MALIK": "5,99 €",
+      "VAGÃO de Gemas": "59,99 €",
+      "MONTANHA de Gemas": "99,99 €",
+      "BOLSA de Gemas - Sale": "3,99 €",
+      "Herói IGNUS Sale": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Herói MALIK": "5,99 €",
+            "PUNHADO de Gemas": "2,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "VAGÃO de Gemas": "59,99 €",
+            "BARRIL de Gemas": "9,99 €",
+            "BAÚ de Gemas": "22,99 €",
+            "MONTANHA de Gemas": "99,99 €",
+            "BOLSA de Gemas - Sale": "3,99 €",
+            "Herói ASHBITE": "7,99 €",
+            "Herói IGNUS Sale": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793683824235,
@@ -160207,6 +160353,29 @@
       [
         {
           "timestamp": 1794462892032,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6794754217": {
+    "trackId": 6794754217,
+    "trackName": "야구 못하면 또 환생함: 투수 키우기",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794604319311,
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}

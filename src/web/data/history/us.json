@@ -38610,6 +38610,25 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Chapter N": "$3.99",
+            "Chapter D": "$4.99",
+            "Chapter L": "$9.99",
+            "Chapter T": "$4.99",
+            "Chapter R": "$4.99",
+            "Chapter 0": "$4.99",
+            "Chapter K": "$4.99",
+            "Chapter 10": "$4.99",
+            "Chapter 9": "$4.99",
+            "Chapter S": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793113722877,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -71877,6 +71896,25 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$14.99",
+            "Racing Prodigy X30 Atlanta": "$14.99",
+            "Racing Prodigy X30 Kart Dubai": "$14.99",
+            "Racing Prodigy X30 B. Vegas": "$14.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "10 Pack Qualifying Tyres": "$0.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Le Cont Hards - 40 Tyre Pack": "$3.99",
+            "Le Cont Mediums - 40 Tyre Pack": "$3.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794329315472,
           "price": 0,
           "formattedPrice": "Free",
@@ -77141,6 +77179,60 @@
           "price": 1.99,
           "formattedPrice": "$1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "737006024": {
+    "trackId": 737006024,
+    "trackName": "LEGO® Marvel Super Heroes",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Bad Boys Pack": "$1.99",
+      "Ultimate Super Hero Pack": "$9.99",
+      "Spider-Man Pack": "$1.99",
+      "X-Men Villains Pack": "$1.99",
+      "Fantastic Four Pack": "$1.99",
+      "Avengers Pack": "$2.99",
+      "Free Fun Pack": "$0.00",
+      "X-Men Pack": "$1.99",
+      "Invincibility Pack": "$2.99",
+      "x10 Studs Pack": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Bad Boys Pack": "$1.99",
+      "Ultimate Super Hero Pack": "$9.99",
+      "Spider-Man Pack": "$1.99",
+      "X-Men Villains Pack": "$1.99",
+      "Fantastic Four Pack": "$1.99",
+      "Avengers Pack": "$2.99",
+      "Free Fun Pack": "$0.00",
+      "X-Men Pack": "$1.99",
+      "Invincibility Pack": "$2.99",
+      "x10 Studs Pack": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Bad Boys Pack": "$1.99",
+            "Ultimate Super Hero Pack": "$9.99",
+            "Spider-Man Pack": "$1.99",
+            "X-Men Villains Pack": "$1.99",
+            "Fantastic Four Pack": "$1.99",
+            "Avengers Pack": "$2.99",
+            "Free Fun Pack": "$0.00",
+            "X-Men Pack": "$1.99",
+            "Invincibility Pack": "$2.99",
+            "x10 Studs Pack": "$3.99"
+          }
         }
       ]
     ]
@@ -335811,6 +335903,25 @@
     "history": [
       [
         {
+          "timestamp": 1794604319311,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "1元礼包": "$0.99",
+            "12元礼包": "$1.99",
+            "3元礼包": "$0.99",
+            "6元礼包": "$0.99",
+            "18元礼包": "$2.99",
+            "30元礼包": "$3.99",
+            "60元礼包": "$8.99",
+            "68元礼包": "$9.99",
+            "198元礼包": "$29.99",
+            "98元礼包": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794086945540,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -343830,6 +343941,14 @@
       "formattedPrice": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787876097640,
@@ -373135,6 +373254,29 @@
           "timestamp": 1794462892032,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6794754217": {
+    "trackId": 6794754217,
+    "trackName": "Mound Reborn: Baseball Career",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794604319311,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

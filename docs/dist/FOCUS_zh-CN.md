@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2426` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2428` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2428|737006024|自动|❌|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|
+|2427|6794754217|自动|❌|棒球打不好就再轉生：投手養成|棒球打不好就再轉生：投手養成|棒球打不好就再轉生：投手養成|Mound Reborn: Baseball Career|Mound Reborn: Baseball Career|야구 못하면 또 환생함: 투수 키우기|
 |2426|1613297344|自动|❌|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|
 |2425|926008509|自动|Type Nine - T9 Keyboard|Type Nine - T9 Keyboard|Type Nine - T9 Keyboard|Type Nine - T9 Keyboard|Type Nine - T9 Keyboard|Type Nine - T9 Keyboard|Type Nine - T9 Keyboard|
 |2424|6825710504|自动|❌|Mahalleden Yıldıza|Mahalleden Yıldıza|Mahalleden Yıldıza|Mahalleden Yıldıza|Mahalleden Yıldıza|Mahalleden Yıldıza|
@@ -1417,7 +1419,7 @@
 |1019|1141282192|自动|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|
 |1018|6737434503|自动|❌|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|
 |1017|478289911|自动|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|
-|1016|1269488509|自动|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|饥荒语音助手|
+|1016|1269488509|自动|饥荒语音助手|SurviKit|SurviKit|SurviKit|饥荒语音助手|饥荒语音助手|SurviKit|
 |1015|426860241|自动|❌|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|
 |1014|531727127|自动|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|
 |1013|1102750714|自动|地牢求生|地牢求生 - 無盡的迷宮|地牢求生 - 無盡的迷宮|地牢求生 - 無盡的迷宮|Dungeon Survival|Dungeon Survival|Sobrevivência em masmorra|
