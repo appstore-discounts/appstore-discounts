@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6816896250,
+    "region": "tw",
+    "timestamp": 1794578326520,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6816896250",
+    "trackName": "Tiny Computers",
+    "firstRecordedAt": 1792812452311
+  },
+  {
     "trackId": 6786557574,
     "region": "tw",
     "timestamp": 1794547025179,
@@ -369,7 +389,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $150.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 90,

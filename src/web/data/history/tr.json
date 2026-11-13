@@ -67080,13 +67080,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "formattedPrice": "₺499,99",
+      "HRV4Training Pro": "₺2.499,99"
     },
     "minPriceInfo": {
       "price": 449.99,
-      "formattedPrice": "₺449,99"
+      "formattedPrice": "₺449,99",
+      "HRV4Training Pro": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "HRV4Training Pro": "₺2.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -89698,6 +89710,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794578326520,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纯净模式1个月": "₺17,99",
+            "下载包8": "₺49,99",
+            "下载包318": "₺2.499,99",
+            "永久金紫会员": "₺1.999,99",
+            "下载次数": "₺4,99",
+            "金紫会员永久": "₺1.999,99",
+            "金紫会员6个月": "₺229,99",
+            "金紫会员12个月": "₺399,99",
+            "金紫会员1个月": "₺59,99",
+            "纯净模式永久": "₺1.499,99"
+          }
+        },
         {
           "timestamp": 1794547025179,
           "price": 0,
@@ -169836,6 +169865,23 @@
     "history": [
       [
         {
+          "timestamp": 1794578326520,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "Big Cities USA Explorer Pack": "₺149,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "The Atlantis Board": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1794547025179,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -220180,6 +220226,23 @@
     "history": [
       [
         {
+          "timestamp": 1794578326520,
+          "price": 649,
+          "formattedPrice": "₺649,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1794547025179,
           "price": 649,
           "formattedPrice": "₺649,00",
@@ -224070,6 +224133,29 @@
           "timestamp": 1745442137026,
           "price": 229.99,
           "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1613297344": {
+    "trackId": 1613297344,
+    "trackName": "KOF 2000 ACA NEOGEO",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
           "inAppPurchases": {}
         }
       ]
@@ -232241,6 +232327,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794578326520,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Nurse Pack": "₺249,99",
+            "Unlock Beholder": "₺149,99",
+            "Unlock Gumiho": "₺149,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺199,99",
+            "Unlock Baphomet": "₺149,99",
+            "Season 2 Battle Pass": "₺99,99",
+            "Monster Pack 2": "₺1.499,99",
+            "Info Pack": "₺699,99",
+            "Smelting Pack": "₺399,99"
+          }
+        },
         {
           "timestamp": 1794547025179,
           "price": 99.99,
@@ -280383,6 +280486,25 @@
     "history": [
       [
         {
+          "timestamp": 1794578326520,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "₺49,99",
+            "Santa Claws Pack": "₺199,99",
+            "Under the Tree location": "₺99,99",
+            "Santa Claws Emoji Pack": "₺49,99",
+            "All Wrapped Up outfit": "₺99,99",
+            "Snow Globe Outfit": "₺99,99",
+            "Mystic Mayhem Location": "₺49,99",
+            "MysticMayhem Cauldron Creature": "₺99,99",
+            "Mystic Mayhem Emoji Pack": "₺99,99",
+            "Mystic Mayhem Card Back": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793928155391,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -300219,13 +300341,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Oldi Unlimited": "₺29,99"
     },
     "minPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Oldi Unlimited": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Oldi Unlimited": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779809260240,
@@ -308576,10 +308710,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794290710109,

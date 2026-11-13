@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1642733080,
+    "region": "tr",
+    "timestamp": 1794578326520,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6816896250,
+    "region": "tr",
+    "timestamp": 1794578326520,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6816896250",
+    "trackName": "Tiny Computers",
+    "firstRecordedAt": 1792812452311
+  },
+  {
     "trackId": 1439262206,
     "region": "tr",
     "timestamp": 1794547025179,
@@ -58,26 +98,6 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id1580629864",
     "trackName": "Clank!",
     "firstRecordedAt": 1773162085626
-  },
-  {
-    "trackId": 1642733080,
-    "region": "tr",
-    "timestamp": 1794547025179,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "₺249,99",
-        "to": "₺99,99",
-        "range": "[₺99,99 ~ ₺249,99]"
-      }
-    ],
-    "price": 99.99,
-    "formattedPrice": "₺99,99",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id1642733080",
-    "trackName": "DungeonSquad",
-    "firstRecordedAt": 1745328692670
   },
   {
     "trackId": 6449233549,
@@ -329,7 +349,7 @@
         "name": "Price",
         "from": "₺249,99",
         "to": "₺149,99",
-        "range": "[₺149,99 ~ ₺249,99]"
+        "range": "[₺49,99 ~ ₺249,99]"
       }
     ],
     "price": 149.99,

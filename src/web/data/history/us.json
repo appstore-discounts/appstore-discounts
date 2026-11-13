@@ -68965,13 +68965,25 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "HRV4Training Pro": "$59.99"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "HRV4Training Pro": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "HRV4Training Pro": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755299553649,
@@ -134237,6 +134249,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794578326520,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "660 Rubies": "$8.99",
+            "Total Package": "$15.99",
+            "Element Package": "$15.99",
+            "180 Rubies": "$2.99",
+            "Element EXP increase": "$8.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99"
+          }
+        },
         {
           "timestamp": 1794547025179,
           "price": 0.99,
@@ -254624,6 +254653,29 @@
       ]
     ]
   },
+  "1613297344": {
+    "trackId": 1613297344,
+    "trackName": "KOF 2000 ACA NEOGEO",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1613920866": {
     "trackId": 1613920866,
     "trackName": "金價即時通",
@@ -364154,13 +364206,25 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Oldi Unlimited": "$0.49"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Oldi Unlimited": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Oldi Unlimited": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779809260240,
@@ -372046,10 +372110,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794290710109,

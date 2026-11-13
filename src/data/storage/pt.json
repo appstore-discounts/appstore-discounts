@@ -5677,6 +5677,25 @@
     "history": [
       [
         {
+          "timestamp": 1794578326520,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro + Família": "29,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Haydn: String Quartets": "1,99 €",
+            "Christmas Carol Collection": "1,99 €",
+            "Bach: Cello Suites": "1,99 €",
+            "Vivaldi: The Four Seasons": "1,99 €",
+            "Mozart: Twelve Duets": "1,99 €",
+            "The Mutopia Piano Collection": "5,99 €",
+            "forScore Pro": "17,99 €",
+            "Voluntary Upgrade": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793382301850,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -14055,6 +14074,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794578326520,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Superpower 10": "1,99 €",
+            "Unlock all level packs including future updates": "3,99 €",
+            "Superpower 500": "19,99 €",
+            "Superpower 20": "3,99 €",
+            "Superpower 50": "8,99 €",
+            "Unlock \"Bamboo Chutes\" level pack": "1,99 €",
+            "Unlock \"Sticky Steps\" level pack": "1,99 €",
+            "Unlock \"Rocket Science\" level pack": "1,99 €",
+            "Magnetic Stars Superior Pack": "29,99 €",
+            "Superpower 50 Sale": "5,99 €"
+          }
+        },
         {
           "timestamp": 1794547025179,
           "price": 0.99,
@@ -34008,13 +34044,25 @@
     "name": "HRV4Training",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "HRV4Training Pro": "59,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "HRV4Training Pro": "59,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "HRV4Training Pro": "59,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -53732,6 +53780,25 @@
       "Insta Monkey Bucket 1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Sauda Hero Bundle Sale": "3,99 €",
+            "Sauda Hero Bundle": "7,99 €",
+            "Insta Monkey Bucket 7": "7,99 €",
+            "Insta Monkey Bucket 5": "5,99 €",
+            "Insta Monkey Bucket 4": "3,99 €",
+            "Insta Monkey Bucket 3": "2,99 €",
+            "Insta Monkey Bucket 2": "1,99 €",
+            "Insta Monkey Bucket 1.5": "1,99 €",
+            "Insta Monkey Bucket 1": "0,99 €",
+            "Portable Lake Pro": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794290710109,
@@ -105662,6 +105729,27 @@
       ]
     ]
   },
+  "1613297344": {
+    "name": "KOF 2000 ACA NEOGEO",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1613920866": {
     "name": "金價即時通",
     "maxPriceInfo": {
@@ -148228,13 +148316,25 @@
     "name": "Oldi - Phone Camera",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Oldi Ilimitado": "0,49 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Oldi Ilimitado": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Oldi Ilimitado": "0,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779809260240,
@@ -154947,10 +155047,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794290710109,

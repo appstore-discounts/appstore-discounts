@@ -48035,6 +48035,23 @@
     "history": [
       [
         {
+          "timestamp": 1794578326520,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "¥8.00",
+            "金牛会员连续包月": "¥6.00",
+            "手机高级诊股连续包月": "¥8.00",
+            "手机超级Level-2连续包半年": "¥48.00",
+            "手机Level-2包年服务": "¥88.00",
+            "金牛会员尊享版连续包年": "¥98.00",
+            "金牛会员月版": "¥18.00",
+            "手机超级Level2两年版": "¥158.00",
+            "主力密码连续包月": "¥118.00",
+            "短线宝连续包月": "¥138.00"
+          }
+        },
+        {
           "timestamp": 1794547025179,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -236926,13 +236943,25 @@
     "name": "Oldi - Phone Camera",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "Oldi 无限": "¥3.00"
     },
     "minPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "Oldi 无限": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Oldi 无限": "¥3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779809260240,
@@ -239610,7 +239639,7 @@
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "¥18.00",
-      "终身护持": "¥99.00",
+      "终身护持": "¥108.00",
       "年度护持": "¥128.00",
       "月度护持": "¥8.00",
       "3-day Trial": "¥0.00"
@@ -239624,6 +239653,19 @@
       "3-day Trial": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794578326520,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "3-day Trial": "¥0.00",
+            "年度护持": "¥128.00",
+            "月度护持": "¥8.00",
+            "终身护持": "¥108.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794433497584,
