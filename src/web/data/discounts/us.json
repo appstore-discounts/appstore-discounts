@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6743349595,
+    "region": "us",
+    "timestamp": 1794661229808,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6743349595",
+    "trackName": "Godseeker II Dark Fantasy ARPG",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1453661259,
     "region": "us",
     "timestamp": 1794632787864,
@@ -45888,7 +45908,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "Free",
-        "range": "[Free ~ $0.99]"
+        "range": "[Free ~ $2.99]"
       }
     ],
     "price": 0,
@@ -47924,7 +47944,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "Free",
-        "range": "[Free ~ $0.99]"
+        "range": "[Free ~ $2.99]"
       }
     ],
     "price": 0,

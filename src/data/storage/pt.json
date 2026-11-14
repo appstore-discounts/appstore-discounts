@@ -416,13 +416,25 @@
     "name": "Translator with Voice",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Translation Monthly Subscription": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Translation Monthly Subscription": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Translation Monthly Subscription": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777299185454,
@@ -16445,6 +16457,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794661229808,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "5,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "4,99 €",
+            "Minecraft Store Item 8": "7,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
         {
           "timestamp": 1794632787864,
           "price": 6.99,
@@ -120288,14 +120317,22 @@
   "6447693393": {
     "name": "灵感卡片 - 创意笔记",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -147790,10 +147827,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778817905438,
@@ -155333,6 +155378,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794578326520,

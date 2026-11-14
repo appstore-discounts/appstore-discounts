@@ -567,13 +567,25 @@
     "name": "Translator with Voice",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Translation Monthly Subscription": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Translation Monthly Subscription": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Translation Monthly Subscription": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777299185454,
@@ -22453,6 +22465,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794661229808,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Sliced Beats": "₺49,99",
+            "Voices": "₺49,99",
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Brazil Bass": "₺99,99",
+            "Chill-Lo-Fi Mobile": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synth Plucks": "₺99,99"
+          }
+        },
         {
           "timestamp": 1794632787864,
           "price": 399.99,
@@ -270947,14 +270976,22 @@
   "6447693393": {
     "name": "灵感卡片 - 创意笔记",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749510724459,
@@ -295901,10 +295938,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778817905438,
@@ -304553,6 +304598,14 @@
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794578326520,

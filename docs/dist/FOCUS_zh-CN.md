@@ -450,7 +450,7 @@
 |1988|672878122|自动|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|
 |1987|1615288664|自动|法环地图艾尔登冒险指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|
 |1986|6476342802|自动|❌|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel and Defense|Skel and Defense|Skel and Defense|
-|1985|6743349595|自动|❌|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|
+|1985|6743349595|自动|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|
 |1984|1477993614|自动|场记板-专业导演板拍打板摄影道具|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|Clapperboard Pro|Clapperboard Pro|场记板-专业导演板拍打板摄影道具|
 |1983|1304231334|自动|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS Altitude Pro-海拔仪|GPS Altitude Pro-海拔仪|GPS海拔表-实时高度测量仪专业版|
 |1982|376302649|自动|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|

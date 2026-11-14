@@ -650,13 +650,25 @@
     "name": "Translator with Voice",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Translation Monthly Subscription": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Translation Monthly Subscription": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Translation Monthly Subscription": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777299185454,
@@ -62144,6 +62156,25 @@
     "history": [
       [
         {
+          "timestamp": 1794661229808,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Adults Only! Bundle": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794329315472,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -66048,6 +66079,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794661229808,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99"
+          }
+        },
         {
           "timestamp": 1794632787864,
           "price": 9.99,
@@ -157726,6 +157774,25 @@
     "history": [
       [
         {
+          "timestamp": 1794661229808,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Monster Succession": "$4.99",
+            "Awakening Viper Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Torture Master Package": "$22.99",
+            "Awakening Skill Package": "$17.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794290710109,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -228579,6 +228646,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794661229808,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Welcome Offer": "$9.99",
+            "Sports and Games Pack": "$7.99",
+            "Ready to Roast": "$6.49"
+          }
+        },
         {
           "timestamp": 1794632787864,
           "price": 1.99,
@@ -321992,14 +322076,22 @@
   "6447693393": {
     "name": "灵感卡片 - 创意笔记",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749525225041,
@@ -358730,10 +358822,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778817905438,
@@ -367944,6 +368044,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794661229808,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794578326520,
