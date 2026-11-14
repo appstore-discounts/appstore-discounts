@@ -1195,7 +1195,7 @@ So far, we've covered `7` `Countries or Regions` and  `2428` `Apps` <br />Push n
 |1243|727466621|Automatic|❌|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|
 |1242|1578669842|Automatic|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|
 |1241|1640679491|Automatic|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
-|1240|6569254072|Automatic|Watch闪卡|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|
+|1240|6569254072|Automatic|Watch闪卡|Watch閃卡|Watch閃卡|Watch閃卡|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Cards no Watch|
 |1239| ~~6748376912~~ |Automatic| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ | ~~❌~~ |
 |1238| ~~1533979882~~ |Automatic| ~~❌~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ |
 |1237|1466088186|Automatic|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|
@@ -2340,7 +2340,7 @@ So far, we've covered `7` `Countries or Regions` and  `2428` `Apps` <br />Push n
 |98|1595901138|Manual|NES 模拟器 - 吞食天地|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|
 |97|1163515895|Manual|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账Pro-3秒钟快速记账|
 |96|754105884|Manual|NightCap 相机：长曝光|NightCap 相機：長曝光大師|NightCap 相機：長曝光大師|NightCap 相機：長曝光大師|NightCap Camera: Long Exposure|NightCap Camera: Long Exposure|Câmera NightCap|
-|95|1642364007|Manual|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|Altitude Compass|Altitude Compass|海拔指南针-经纬度水印相机|
+|95|1642364007|Manual|海拔指南针-坐标水印相机|海拔指南针-坐标水印相机|海拔指南针-坐标水印相机|海拔指南针-坐标水印相机|Altitude Compass|Altitude Compass|海拔指南针-坐标水印相机|
 |94|1522215205|Manual|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|
 |93|1484181693|Manual|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|
 |92|1117998129|Manual|2027人体解剖学图谱|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|

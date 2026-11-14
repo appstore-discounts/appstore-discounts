@@ -1,19 +1,39 @@
 [
   {
+    "trackId": 1453661259,
+    "region": "tr",
+    "timestamp": 1794632787864,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1453661259",
+    "trackName": "Dungeon Warfare 2",
+    "firstRecordedAt": 1787520021461
+  },
+  {
     "trackId": 6747138769,
     "region": "tr",
-    "timestamp": 1794604319311,
+    "timestamp": 1794632787864,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
         "from": "₺799,99",
-        "to": "₺699,99",
+        "to": "₺499,99",
         "range": "[₺249,99 ~ ₺999,99]"
       }
     ],
-    "price": 699.99,
-    "formattedPrice": "₺699,99",
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6747138769",
     "trackName": "Easy Text to Speech Reader Pro",

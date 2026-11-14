@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6747138769,
+    "region": "tw",
+    "timestamp": 1794632787864,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$490.00",
+        "to": "$320.00",
+        "range": "[$190.00 ~ $590.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6747138769",
+    "trackName": "Easy Text to Speech Reader Pro",
+    "firstRecordedAt": 1755066012809
+  },
+  {
     "trackId": 1453661259,
     "region": "tw",
     "timestamp": 1794604319311,
@@ -18,26 +38,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1453661259",
     "trackName": "Dungeon Warfare 2",
     "firstRecordedAt": 1787520021461
-  },
-  {
-    "trackId": 6747138769,
-    "region": "tw",
-    "timestamp": 1794604319311,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$490.00",
-        "to": "$390.00",
-        "range": "[$190.00 ~ $590.00]"
-      }
-    ],
-    "price": 390,
-    "formattedPrice": "$390.00",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id6747138769",
-    "trackName": "Easy Text to Speech Reader Pro",
-    "firstRecordedAt": 1755066012809
   },
   {
     "trackId": 6816896250,
@@ -11732,7 +11732,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1642364007",
-    "trackName": "海拔指南针-经纬度水印相机",
+    "trackName": "海拔指南针-坐标水印相机",
     "firstRecordedAt": 1721960142187
   },
   {
@@ -19187,7 +19187,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1642364007",
-    "trackName": "海拔指南针-经纬度水印相机",
+    "trackName": "海拔指南针-坐标水印相机",
     "firstRecordedAt": 1721960142187
   },
   {

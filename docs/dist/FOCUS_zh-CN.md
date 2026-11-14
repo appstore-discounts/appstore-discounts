@@ -1195,7 +1195,7 @@
 |1243|727466621|自动|❌|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|THE KING OF FIGHTERS '97|
 |1242|1578669842|自动|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|
 |1241|1640679491|自动|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
-|1240|6569254072|自动|Watch闪卡|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|
+|1240|6569254072|自动|Watch闪卡|Watch閃卡|Watch閃卡|Watch閃卡|QuickNotes: Watch Flashcards|QuickNotes: Watch Flashcards|QuickNotes: Cards no Watch|
 |1239| ~~6748376912~~ |自动| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ | ~~❌~~ |
 |1238| ~~1533979882~~ |自动| ~~❌~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ |
 |1237|1466088186|自动|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|
@@ -2340,7 +2340,7 @@
 |98|1595901138|手动|NES 模拟器 - 吞食天地|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|
 |97|1163515895|手动|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账Pro-3秒钟快速记账|
 |96|754105884|手动|NightCap 相机：长曝光|NightCap 相機：長曝光大師|NightCap 相機：長曝光大師|NightCap 相機：長曝光大師|NightCap Camera: Long Exposure|NightCap Camera: Long Exposure|Câmera NightCap|
-|95|1642364007|手动|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|Altitude Compass|Altitude Compass|海拔指南针-经纬度水印相机|
+|95|1642364007|手动|海拔指南针-坐标水印相机|海拔指南针-坐标水印相机|海拔指南针-坐标水印相机|海拔指南针-坐标水印相机|Altitude Compass|Altitude Compass|海拔指南针-坐标水印相机|
 |94|1522215205|手动|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|
 |93|1484181693|手动|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|
 |92|1117998129|手动|2027人体解剖学图谱|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|Human Anatomy Atlas 2027|
