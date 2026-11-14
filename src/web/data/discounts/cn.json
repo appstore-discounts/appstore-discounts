@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "cn",
+    "timestamp": 1794685416076,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
+    "trackId": 6740698426,
+    "region": "cn",
+    "timestamp": 1794685416076,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "New Hero",
+        "from": "¥68.00",
+        "to": "¥22.00",
+        "range": "[¥22.00 ~ ¥68.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "¥18.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6740698426",
+    "trackName": "帝国传奇：像素英雄",
+    "firstRecordedAt": 1774522842214
+  },
+  {
     "trackId": 6747138769,
     "region": "cn",
     "timestamp": 1794632787864,
@@ -975,7 +1015,7 @@
         "name": "Price",
         "from": "¥6.00",
         "to": "免费",
-        "range": "[免费 ~ ¥6.00]"
+        "range": "[免费 ~ ¥18.00]"
       }
     ],
     "price": 0,
@@ -25825,7 +25865,7 @@
         "name": "Price",
         "from": "¥6.00",
         "to": "免费",
-        "range": "[免费 ~ ¥6.00]"
+        "range": "[免费 ~ ¥18.00]"
       }
     ],
     "price": 0,
@@ -27717,7 +27757,7 @@
         "name": "Price",
         "from": "¥6.00",
         "to": "免费",
-        "range": "[免费 ~ ¥6.00]"
+        "range": "[免费 ~ ¥18.00]"
       }
     ],
     "price": 0,
