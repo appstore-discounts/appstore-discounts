@@ -4497,6 +4497,25 @@
     "history": [
       [
         {
+          "timestamp": 1794703649883,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "USD 29.99",
+            "LUFS Meter": "USD 9.99",
+            "HAA CinemaTools with HAA Link": "USD 149.99",
+            "HAA Link": "USD 9.99",
+            "HAA Pro Module": "USD 19.99",
+            "SPL Enhance": "USD 39.99",
+            "All-In Module Access": "USD 9.99",
+            "HAA Upgrade to Pro": "USD 399.99",
+            "HAA Pro Installer Calibration": "USD 499.99",
+            "HAA Home Theater": "USD 99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786181792801,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -102569,14 +102588,22 @@
     "trackName": "SurviKit",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794703649883,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746144557554,
@@ -192037,6 +192064,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794703649883,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 4.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Boeing 777-300ER": "USD 1.99",
+            "Airbus A320neo": "USD 3.99",
+            "Boeing 787-9": "USD 3.99"
+          }
+        },
         {
           "timestamp": 1794685416076,
           "price": 3.99,

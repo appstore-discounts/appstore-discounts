@@ -1419,7 +1419,7 @@
 |1019|1141282192|自动|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|
 |1018|6737434503|自动|❌|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|
 |1017|478289911|自动|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|
-|1016|1269488509|自动|饥荒语音助手|SurviKit|SurviKit|SurviKit|饥荒语音助手|饥荒语音助手|SurviKit|
+|1016|1269488509|自动|SurviKit|SurviKit|SurviKit|SurviKit|饥荒语音助手|饥荒语音助手|SurviKit|
 |1015|426860241|自动|❌|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|
 |1014|531727127|自动|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|
 |1013|1102750714|自动|地牢求生|地牢求生 - 無盡的迷宮|地牢求生 - 無盡的迷宮|地牢求生 - 無盡的迷宮|Dungeon Survival|Dungeon Survival|Sobrevivência em masmorra|

@@ -550,6 +550,25 @@
     "history": [
       [
         {
+          "timestamp": 1794703649883,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "World Sweetener Pack": "¥68.00",
+            "Steel Guitar Sweeteners": "¥98.00",
+            "Orchestral Sweeteners": "¥38.00",
+            "Misc Stringed Sweeteners": "¥28.00",
+            "Keyboard Sweeteners": "¥148.00",
+            "Harp Sweeteners": "¥38.00",
+            "Harmonica Sweeteners": "¥68.00",
+            "Guitar & Bass Sweeteners": "¥38.00",
+            "Buzz Feiten Pack": "¥38.00",
+            "Extended Frequency Modes": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794044344582,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -20966,6 +20985,24 @@
       "FL Cloud Mobile": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794703649883,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "¥38.00",
+            "Ferrous Mobile": "¥22.00",
+            "Hyper-Pop Mobile": "¥22.00",
+            "Chip-Tune Mobile": "¥22.00",
+            "Essential Winds": "¥15.00",
+            "Essential Strings": "¥15.00",
+            "DubTechno": "¥15.00",
+            "Chill-Lo-Fi Mobile": "¥15.00",
+            "Technocraft": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794462892032,
@@ -52278,7 +52315,9 @@
       "购买 12 个宝石": "¥12.00",
       "购买8000金币": "¥18.00",
       "购买500个宝石": "¥418.00",
-      "购买20000金币": "¥73.00"
+      "购买20000金币": "¥73.00",
+      "购买 60 个宝石": "¥50.00",
+      "购买 26 个宝石": "¥25.00"
     },
     "minPriceInfo": {
       "price": 6,
@@ -52291,9 +52330,30 @@
       "购买 12 个宝石": "¥12.00",
       "购买8000金币": "¥18.00",
       "购买500个宝石": "¥418.00",
-      "购买20000金币": "¥73.00"
+      "购买20000金币": "¥73.00",
+      "购买 60 个宝石": "¥50.00",
+      "购买 26 个宝石": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794703649883,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "购买20000金币": "¥73.00",
+            "购买5000金币": "¥25.00",
+            "购买1500金币": "¥6.00",
+            "购买500个宝石": "¥418.00",
+            "购买140个宝石": "¥138.00",
+            "购买35个宝石": "¥45.00",
+            "购买8个宝石": "¥12.00",
+            "购买 60 个宝石": "¥50.00",
+            "购买 26 个宝石": "¥25.00",
+            "购买 12 个宝石": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -89190,17 +89250,25 @@
   },
   "1269488509": {
     "trackId": 1269488509,
-    "trackName": "饥荒语音助手",
+    "trackName": "SurviKit",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794703649883,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746144557554,
@@ -236876,6 +236944,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794703649883,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "New Clan": "¥9.90",
+            "New Hero": "¥68.00",
+            "Privilege": "¥1.00"
+          }
+        },
         {
           "timestamp": 1794685416076,
           "price": 18,

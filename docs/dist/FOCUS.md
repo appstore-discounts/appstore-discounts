@@ -1419,7 +1419,7 @@ So far, we've covered `7` `Countries or Regions` and  `2428` `Apps` <br />Push n
 |1019|1141282192|Automatic|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|Advanced Comprehension Therapy|
 |1018|6737434503|Automatic|❌|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|將星三國 - 單機開放劇情三國遊戲|
 |1017|478289911|Automatic|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|iMMIG 記帳小秘書|
-|1016|1269488509|Automatic|饥荒语音助手|SurviKit|SurviKit|SurviKit|饥荒语音助手|饥荒语音助手|SurviKit|
+|1016|1269488509|Automatic|SurviKit|SurviKit|SurviKit|SurviKit|饥荒语音助手|饥荒语音助手|SurviKit|
 |1015|426860241|Automatic|❌|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|Mini Motor Racing|
 |1014|531727127|Automatic|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|CovertCam|
 |1013|1102750714|Automatic|地牢求生|地牢求生 - 無盡的迷宮|地牢求生 - 無盡的迷宮|地牢求生 - 無盡的迷宮|Dungeon Survival|Dungeon Survival|Sobrevivência em masmorra|
