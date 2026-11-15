@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 6744430250,
+    "region": "mo",
+    "timestamp": 1794767452594,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 4.99",
+        "range": "[免費 ~ USD 7.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6744430250",
+    "trackName": "Python 學習計劃",
+    "firstRecordedAt": 1764059795706
+  },
+  {
+    "trackId": 6479395335,
+    "region": "mo",
+    "timestamp": 1794767452594,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6479395335",
+    "trackName": "RPGViewer",
+    "firstRecordedAt": 1781814371032
+  },
+  {
+    "trackId": 6760446039,
+    "region": "mo",
+    "timestamp": 1794767452594,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "年度护持",
+        "from": "USD 19.99",
+        "to": "USD 14.99",
+        "range": "[USD 2.99 ~ USD 19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6760446039",
+    "trackName": "般若心灯",
+    "firstRecordedAt": 1787961173466
+  },
+  {
     "trackId": 1504760106,
     "region": "mo",
     "timestamp": 1794738363484,

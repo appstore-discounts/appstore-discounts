@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6744430250,
+    "region": "cn",
+    "timestamp": 1794767452594,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥58.00",
+        "to": "¥38.00",
+        "range": "[免费 ~ ¥58.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "¥38.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6744430250",
+    "trackName": "Python 學習計劃",
+    "firstRecordedAt": 1764059795706
+  },
+  {
+    "trackId": 6760446039,
+    "region": "cn",
+    "timestamp": 1794767452594,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "年度护持",
+        "from": "¥128.00",
+        "to": "¥98.00",
+        "range": "[¥20.00 ~ ¥128.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6760446039",
+    "trackName": "般若心灯",
+    "firstRecordedAt": 1787961173466
+  },
+  {
     "trackId": 1500126852,
     "region": "cn",
     "timestamp": 1794685416076,
@@ -2778,7 +2818,7 @@
         "name": "Price",
         "from": "¥57.00",
         "to": "免费",
-        "range": "[免费 ~ ¥57.00]"
+        "range": "[免费 ~ ¥98.00]"
       }
     ],
     "price": 0,

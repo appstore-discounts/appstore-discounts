@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-15T12:07:11.978Z</updated>
+    <updated>2026-11-15T20:12:15.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-15T12:07:11.978Z</updated>
+        <updated>2026-11-15T20:12:15.290Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 15 Nov 2026 12:07:11 GMT</id>
+        <id>rankingusSun, 15 Nov 2026 20:12:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-15T12:07:11.978Z</updated>
+        <updated>2026-11-15T20:12:15.290Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -1187,6 +1187,23 @@ feedId:157008699750812672+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>62</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6479395335?lang=en">RPGViewer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2009,6 +2026,56 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RPGViewer]]></title>
+        <id>RPGViewer-us-1794767452594</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6479395335?lang=en"/>
+        <updated>2026-11-15T18:30:52.594Z</updated>
+        <summary type="html"><![CDATA[Price: $4.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6479395335?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f0/c8/aaf0c869-59c5-5fc1-e11c-b8f1dd4e0806/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$4.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $4.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$3.99</b>
+</p><h2>Application Description</h2><p>
+  RPGViewer is a player for your own RPG Maker and Flash projects, rebuilt from the ground up as a native iOS app.
+
+You bring the game. RPGViewer runs it.
+
+One app covers the engines you actually have projects in:
+
+• RPG Maker XP, VX and VX Ace — run natively through a port of the original RGSS engine, not an imitation of it. Full speed, no browser in the middle.
+• RPG Maker MV and MZ — full support, including OGG audio with no re-encoding.
+• Flash (SWF) — played through Ruffle, including Flash games that were never converted to HTML5.
+• HTML5 games — any self-contained page, opened from your library.
+
+Saves work the way you expect
+• Import existing save files. Drop in a .rpgsave or .rmmzsave from your desktop and it appears in the game's own browser save slots.
+• Read the game's browser saves directly. Saves the browser version made on the same origin show up here, with title, playtime, location, party and level all decoded.
+• Export back out. Take a save with you when you move to a new device.
+• Separate storage per game. Each title keeps its own saves, its own port and its own settings — nothing bleeds across games.
+
+Built for playing on a phone
+• On-screen gamepad with remappable keys. Bind any physical or on-screen control to whatever the game reads.
+• Real controller support. Connect a gamepad and it takes over, and the on-screen pad steps aside automatically.
+• One consistent menu. The same control, in the same corner, on every engine — only the rows change, because only the rows that do something are shown.
+• Fast-forward for native engine games.
+• Works in landscape and portrait, iPhone and iPad.
+
+RPG Maker MV and MZ only
+• Cheat panel built into the menu — tweak values, items and party members without leaving the game.
+
+Please note
+• RPGViewer is a player only. It contains no games of its own, and it cannot download them. Please make sure the projects you run are obtained through legitimate channels.
+• It is a generic runtime. It does not modify the source of RPG Maker or Flash projects, and it does not emulate them.
+• Flash playback is provided by Ruffle. Games that depend on server-side components, or that require a network service, will not run.
+
+Built for people making RPG Maker games: test your project on your phone before you ship it, and keep playing the games you already own.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/6c/08/a26c085e-b219-b544-7bb3-06cd9fe97bed/01-library.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/c7/87/a7c78723-3249-1a48-440e-25c5b3e6c91d/02-playing.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/1e/5d/b81e5dba-6245-009e-00da-1493d82a58a9/03-menu.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/f9/fc/def9fcda-8c3d-37e9-ace4-a38a9d6bec1e/04-saves.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/d8/13/3ad813a9-c615-be5b-8ef8-5dc83fff5b42/01-ipad-en.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eco inc. Save the Earth]]></title>

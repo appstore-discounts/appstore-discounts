@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6479395335,
+    "region": "us",
+    "timestamp": 1794767452594,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6479395335",
+    "trackName": "RPGViewer",
+    "firstRecordedAt": 1781814371032
+  },
+  {
     "trackId": 1504760106,
     "region": "us",
     "timestamp": 1794738363484,
