@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2428` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2431` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2431|392746207|Automatic|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Navegador privado|
+|2430|6767571391|Automatic|A320系统复位|A320系统复位|A320系统复位|A320系统复位|A320系统复位|A320系统复位|A320系统复位|
+|2429|6822746934|Automatic|❌|無名餘燼：刻印之旅|無名餘燼：刻印之旅|無名餘燼：刻印之旅|Nameless Ember: Sigilbound|Nameless Ember: Sigilbound|❌|
 |2428|737006024|Automatic|❌|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|LEGO® Marvel Super Heroes|
 |2427|6794754217|Automatic|❌|棒球打不好就再轉生：投手養成|棒球打不好就再轉生：投手養成|棒球打不好就再轉生：投手養成|Mound Reborn: Baseball Career|Mound Reborn: Baseball Career|야구 못하면 또 환생함: 투수 키우기|
 |2426|1613297344|Automatic|❌|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|KOF 2000 ACA NEOGEO|

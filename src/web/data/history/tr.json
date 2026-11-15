@@ -15051,6 +15051,29 @@
       ]
     ]
   },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Private Browser",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "trackId": 393670998,
     "trackName": "欧路词典 Eudic 增强版",
@@ -191663,6 +191686,19 @@
     "history": [
       [
         {
+          "timestamp": 1794738363484,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "₺10,00",
+            "Full scenarios": "₺249,99",
+            "+444! Triple-Four Booster Pack": "₺99,99",
+            "+2026 boosters ECO-Initiative!": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793713301535,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -285731,8 +285767,8 @@
     "trackName": "Solar Arc: Golden Hour Tracker",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
       "Solar Arc Pro": "₺249,99"
     },
     "minPriceInfo": {
@@ -285741,6 +285777,14 @@
       "Solar Arc Pro": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794086945540,
@@ -300950,8 +300994,8 @@
     "trackName": "CGRC Governance Risk & Comply",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 43.99,
-      "formattedPrice": "₺43,99",
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
       "Pro Lifetime": "₺399,99",
       "Pro Yearly": "₺299,99",
       "Pro Monthly": "₺79,99"
@@ -300964,6 +301008,14 @@
       "Pro Monthly": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790437951279,
@@ -310236,6 +310288,52 @@
           "timestamp": 1794604319311,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 2499.99,
+      "formattedPrice": "₺2.499,99"
+    },
+    "minPriceInfo": {
+      "price": 2499.99,
+      "formattedPrice": "₺2.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 2499.99,
+          "formattedPrice": "₺2.499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822746934": {
+    "trackId": 6822746934,
+    "trackName": "Nameless Ember: Sigilbound",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
           "inAppPurchases": {}
         }
       ]

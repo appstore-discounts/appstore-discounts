@@ -20776,6 +20776,29 @@
       ]
     ]
   },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Private Browser",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "trackId": 393670998,
     "trackName": "欧路词典 Eudic 增强版",
@@ -211270,6 +211293,19 @@
     "history": [
       [
         {
+          "timestamp": 1794738363484,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$1.00",
+            "+2026 boosters ECO-Initiative!": "$4.29",
+            "Full scenarios": "$4.99",
+            "+444! Triple-Four Booster Pack": "$2.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793713301535,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -244461,6 +244497,14 @@
       "formattedPrice": "$0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793960748222,
@@ -346876,8 +346920,8 @@
     "trackName": "Solar Arc: Golden Hour Tracker",
     "region": "us",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 6.99,
+      "formattedPrice": "$6.99",
       "Solar Arc Pro": "$4.99"
     },
     "minPriceInfo": {
@@ -346886,6 +346930,14 @@
       "Solar Arc Pro": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794086945540,
@@ -364829,8 +364881,8 @@
     "trackName": "CGRC Governance Risk & Comply",
     "region": "us",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "$12.99",
+      "price": 19.99,
+      "formattedPrice": "$19.99",
       "Pro Lifetime": "$19.99",
       "Pro Yearly": "$14.99",
       "Pro Monthly": "$3.99"
@@ -364843,6 +364895,14 @@
       "Pro Monthly": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790437951279,
@@ -373577,6 +373637,52 @@
           "timestamp": 1794604319311,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "$49.99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "$49.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 49.99,
+          "formattedPrice": "$49.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822746934": {
+    "trackId": 6822746934,
+    "trackName": "Nameless Ember: Sigilbound",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

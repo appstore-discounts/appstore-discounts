@@ -512,6 +512,23 @@
     "history": [
       [
         {
+          "timestamp": 1794738363484,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "¥38.00",
+            "Tuning Tools": "¥68.00",
+            "Full Discounted Upgrade Pack": "¥398.00",
+            "Harmonic Tuning": "¥148.00",
+            "Buzz Feiten Pack": "¥38.00",
+            "Extended Frequency Modes": "¥38.00",
+            "Keyboard Sweeteners": "¥148.00",
+            "Orchestral Sweeteners": "¥38.00",
+            "Steel Guitar Sweeteners": "¥98.00",
+            "Harp Sweeteners": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1794703649883,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -16083,6 +16100,27 @@
       ]
     ]
   },
+  "392746207": {
+    "name": "Sporløs: Private Browser",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "name": "欧路词典 Eudic 增强版",
     "maxPriceInfo": {
@@ -20724,6 +20762,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794738363484,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Voices": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Synth Lead": "¥15.00",
+            "Sliced Beats": "¥8.00",
+            "Groove Machine Synth": "¥0.00",
+            "Synth Plucks": "¥15.00",
+            "Chill-Lo-Fi Mobile": "¥15.00"
+          }
+        },
         {
           "timestamp": 1794703649883,
           "price": 88,
@@ -51594,6 +51649,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794738363484,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "购买8个宝石": "¥12.00",
+            "购买1500金币": "¥6.00",
+            "购买35个宝石": "¥45.00",
+            "购买140个宝石": "¥138.00",
+            "购买5000金币": "¥25.00",
+            "购买 12 个宝石": "¥12.00",
+            "购买8000金币": "¥18.00",
+            "购买500个宝石": "¥418.00",
+            "购买20000金币": "¥73.00"
+          }
+        },
         {
           "timestamp": 1794703649883,
           "price": 6,
@@ -213435,8 +213506,8 @@
   "6752503669": {
     "name": "Solar Arc: 黄金时刻 日出日落",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00",
+      "price": 48,
+      "formattedPrice": "¥48.00",
       "Solar Arc Pro": "¥38.00"
     },
     "minPriceInfo": {
@@ -213445,6 +213516,14 @@
       "Solar Arc Pro": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -241876,6 +241955,27 @@
           "timestamp": 1794661229808,
           "price": 0,
           "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "name": "A320系统复位",
+    "maxPriceInfo": {
+      "price": 80,
+      "formattedPrice": "¥80.00"
+    },
+    "minPriceInfo": {
+      "price": 80,
+      "formattedPrice": "¥80.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 80,
+          "formattedPrice": "¥80.00",
           "inAppPurchases": {}
         }
       ]

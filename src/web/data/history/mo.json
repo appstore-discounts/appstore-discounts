@@ -4497,6 +4497,23 @@
     "history": [
       [
         {
+          "timestamp": 1794738363484,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "Reference Files Module": "USD 14.99",
+            "Max Subwoofer SPL": "USD 29.99",
+            "LUFS Meter": "USD 9.99",
+            "HAA CinemaTools with HAA Link": "USD 149.99",
+            "HAA Link": "USD 9.99",
+            "HAA Pro Module": "USD 19.99",
+            "SPL Enhance": "USD 39.99",
+            "All-In Module Access": "USD 9.99",
+            "HAA Upgrade to Pro": "USD 399.99",
+            "HAA Pro Installer Calibration": "USD 499.99"
+          }
+        },
+        {
           "timestamp": 1794703649883,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -12801,6 +12818,29 @@
           "timestamp": 1745328692670,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Private Browser",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]
@@ -142611,6 +142651,19 @@
     "history": [
       [
         {
+          "timestamp": 1794738363484,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Full scenarios": "USD 4.99",
+            "+2026 boosters ECO-Initiative!": "USD 4.29",
+            "+444! Triple-Four Booster Pack": "USD 2.00",
+            "+100 boosters ECO-Initiative!": "USD 1.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793713301535,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -204440,8 +204493,8 @@
     "trackName": "Solar Arc: 黃金時刻 日出日落",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99",
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
       "Solar Arc Pro": "USD 4.99"
     },
     "minPriceInfo": {
@@ -204450,6 +204503,14 @@
       "Solar Arc Pro": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -217938,8 +217999,8 @@
     "trackName": "CGRC Governance Risk & Comply",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "USD 12.99",
+      "price": 19.99,
+      "formattedPrice": "USD 19.99",
       "Pro Lifetime": "USD 19.99",
       "Pro Yearly": "USD 14.99",
       "Pro Monthly": "USD 3.99"
@@ -217952,6 +218013,14 @@
       "Pro Monthly": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -226011,6 +226080,52 @@
           "timestamp": 1794604319311,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822746934": {
+    "trackId": 6822746934,
+    "trackName": "無名餘燼：刻印之旅",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]

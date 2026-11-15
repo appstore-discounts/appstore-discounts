@@ -16266,6 +16266,27 @@
       ]
     ]
   },
+  "392746207": {
+    "name": "Sporløs: Private Browser",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "name": "欧路词典 Eudic 增强版",
     "maxPriceInfo": {
@@ -193065,6 +193086,19 @@
     "history": [
       [
         {
+          "timestamp": 1794738363484,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "Full scenarios": "$150.00",
+            "+444! Triple-Four Booster Pack": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793713301535,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -305366,8 +305400,8 @@
   "6752503669": {
     "name": "Solar Arc: 黃金時刻 日出日落",
     "maxPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00",
+      "price": 220,
+      "formattedPrice": "$220.00",
       "Solar Arc Pro": "$150.00"
     },
     "minPriceInfo": {
@@ -305376,6 +305410,14 @@
       "Solar Arc Pro": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -319985,8 +320027,8 @@
   "6759642128": {
     "name": "CGRC Governance Risk & Comply",
     "maxPriceInfo": {
-      "price": 240,
-      "formattedPrice": "$240.00",
+      "price": 250,
+      "formattedPrice": "$250.00",
       "Pro Lifetime": "$490.00",
       "Pro Yearly": "$390.00",
       "Pro Monthly": "$90.00"
@@ -319999,6 +320041,14 @@
       "Pro Monthly": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 250,
+          "formattedPrice": "$250.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -328480,6 +328530,48 @@
           "timestamp": 1794604319311,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "name": "A320系统复位",
+    "maxPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
+    "minPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 1290,
+          "formattedPrice": "$1,290.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822746934": {
+    "name": "無名餘燼：刻印之旅",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794738363484,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]
