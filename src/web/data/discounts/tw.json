@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1664728315,
+    "region": "tw",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1664728315",
+    "trackName": "Mutropolis mobile",
+    "firstRecordedAt": 1754269969797
+  },
+  {
     "trackId": 6744430250,
     "region": "tw",
     "timestamp": 1794767452594,

@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1664728315,
+    "region": "tr",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺199,99",
+        "range": "[₺179,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1664728315",
+    "trackName": "Mutropolis mobile",
+    "firstRecordedAt": 1754269969797
+  },
+  {
+    "trackId": 6744430250,
+    "region": "tr",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺249,99",
+        "range": "[Free ~ ₺399,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6744430250",
+    "trackName": "Python 學習計劃",
+    "firstRecordedAt": 1764059795706
+  },
+  {
+    "trackId": 6670599313,
+    "region": "tr",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺249,99",
+        "range": "[₺249,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6670599313",
+    "trackName": "TRINITY TRIGGER",
+    "firstRecordedAt": 1764102625154
+  },
+  {
+    "trackId": 6760446039,
+    "region": "tr",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "年度护持",
+        "from": "₺999,99",
+        "to": "₺799,99",
+        "range": "[₺149,99 ~ ₺999,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6760446039",
+    "trackName": "般若心灯",
+    "firstRecordedAt": 1787961173466
+  },
+  {
+    "trackId": 6827745244,
+    "region": "tr",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺29,99",
+        "to": "₺19,99",
+        "range": "[₺9,99 ~ ₺29,99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "₺19,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6827745244",
+    "trackName": "Vize: Yaşam Simülasyonu",
+    "firstRecordedAt": 1793820298773
+  },
+  {
     "trackId": 6479395335,
     "region": "tr",
     "timestamp": 1794767452594,

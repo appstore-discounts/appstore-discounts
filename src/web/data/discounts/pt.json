@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1664728315,
+    "region": "pt",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1664728315",
+    "trackName": "Mutropolis mobile",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6744430250,
+    "region": "pt",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "8,99 €",
+        "to": "5,99 €",
+        "range": "[Gratuito ~ 8,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6744430250",
+    "trackName": "Python 學習計劃",
+    "firstRecordedAt": 1764059795706
+  },
+  {
+    "trackId": 6760446039,
+    "region": "pt",
+    "timestamp": 1794790008854,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "年度护持",
+        "from": "22,99 €",
+        "to": "17,99 €",
+        "range": "[2,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6760446039",
+    "trackName": "般若心灯",
+    "firstRecordedAt": 1787961173466
+  },
+  {
     "trackId": 6479395335,
     "region": "pt",
     "timestamp": 1794767452594,
