@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6444508254,
+    "region": "cn",
+    "timestamp": 1794825673547,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "汉末地图重制版",
+        "from": "¥20.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥20.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "华夏九州-水浒英雄传",
+        "from": "¥25.00",
+        "to": "¥20.00",
+        "range": "[¥18.00 ~ ¥25.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6444508254",
+    "trackName": "汉末霸业",
+    "firstRecordedAt": 1779826154618
+  },
+  {
     "trackId": 6744430250,
     "region": "cn",
     "timestamp": 1794767452594,

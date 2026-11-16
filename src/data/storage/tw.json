@@ -19341,6 +19341,14 @@
     "history": [
       [
         {
+          "timestamp": 1794825673547,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 490,
           "formattedPrice": "$490.00",
@@ -53056,7 +53064,9 @@
       "120.000 coins": "$1,490.00",
       "45.000 coins": "$690.00",
       "22.000 coins": "$320.00",
-      "10.000 coins": "$150.00"
+      "10.000 coins": "$150.00",
+      "2.000 coins": "$30.00",
+      "6.000 coins": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -53070,9 +53080,30 @@
       "120.000 coins": "$1,490.00",
       "45.000 coins": "$690.00",
       "22.000 coins": "$320.00",
-      "10.000 coins": "$150.00"
+      "10.000 coins": "$150.00",
+      "2.000 coins": "$30.00",
+      "6.000 coins": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "2.000 coins": "$30.00",
+            "6.000 coins": "$90.00",
+            "10.000 coins": "$150.00",
+            "22.000 coins": "$320.00",
+            "45.000 coins": "$690.00",
+            "120.000 coins": "$1,490.00",
+            "5,000 Coins": "$30.00",
+            "10,000 Coins": "$60.00",
+            "15,000 Coins": "$90.00",
+            "25,000 Coins": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751504557387,
@@ -92259,6 +92290,14 @@
     "history": [
       [
         {
+          "timestamp": 1794825673547,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 490,
           "formattedPrice": "$490.00",
@@ -93594,6 +93633,14 @@
       "formattedPrice": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -125452,6 +125499,23 @@
     "history": [
       [
         {
+          "timestamp": 1794825673547,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "高速模式": "$30.00",
+            "開羅雕像2": "$60.00",
+            "跳舞的開羅君": "$60.00",
+            "開羅雕像套組": "$60.00",
+            "跳舞開羅姬": "$60.00",
+            "跳舞的歪羅君": "$60.00",
+            "聖誕服": "$30.00",
+            "森野熊服": "$30.00",
+            "肉包子服": "$30.00",
+            "回到童年": "$30.00"
+          }
+        },
+        {
           "timestamp": 1794790008854,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -140203,6 +140267,14 @@
       "formattedPrice": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -189920,6 +189992,34 @@
       ]
     ]
   },
+  "1490656387": {
+    "name": "Incognito — Private Browser",
+    "maxPriceInfo": {
+      "price": 20,
+      "formattedPrice": "$20.00",
+      "14-Day Trial": "$0.00",
+      "Unlock": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 20,
+      "formattedPrice": "$20.00",
+      "14-Day Trial": "$0.00",
+      "Unlock": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "14-Day Trial": "$0.00",
+            "Unlock": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "1491196899": {
     "name": "Papa's Bakeria To Go!",
     "maxPriceInfo": {
@@ -190127,6 +190227,14 @@
     "history": [
       [
         {
+          "timestamp": 1794825673547,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 490,
           "formattedPrice": "$490.00",
@@ -190210,6 +190318,14 @@
       "formattedPrice": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -190335,6 +190451,14 @@
       "formattedPrice": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -191231,6 +191355,25 @@
       "Intro Offer (low)": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Master Package": "$355.00",
+            "Zenith Islands DLC": "$89.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Starter Package": "$89.00",
+            "Prime Gemma 2500": "$355.00",
+            "Prime gemma 100": "$19.00",
+            "Hunter Package": "$180.00",
+            "Prime Gemma 5000": "$710.00",
+            "Evoker Package": "$180.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794547025179,
@@ -192851,6 +192994,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794685416076,
@@ -268098,8 +268249,8 @@
   "6469419567": {
     "name": "Overwinter Survival",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 50,
+      "formattedPrice": "$50.00",
       "Elite Pack": "$290.00",
       "Premium Pack": "$150.00",
       "Advanced Pack": "$90.00",
@@ -268114,6 +268265,19 @@
       "Standard Pack": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 50,
+          "formattedPrice": "$50.00",
+          "inAppPurchases": {
+            "Elite Pack": "$150.00",
+            "Premium Pack": "$120.00",
+            "Advanced Pack": "$60.00",
+            "Standard Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791114629972,
@@ -299044,7 +299208,15 @@
       "Mystic Mayhem Card Back": "$30.00",
       "Kitchen Chaos Pack": "$120.00",
       "Mystic Mayhem Pack": "$120.00",
-      "Sun and Spice Bundle": "$220.00"
+      "Sun and Spice Bundle": "$220.00",
+      "Most Valuable Kitten": "$60.00",
+      "Sea Rat Outfit": "$60.00",
+      "Glenn Coco": "$60.00",
+      "Beach Day Pack": "$120.00",
+      "Beach Day Location": "$60.00",
+      "Beach Day Emoji Pack": "$30.00",
+      "Beach Day Card back": "$30.00",
+      "Slice of Heaven Outfit": "$60.00"
     },
     "minPriceInfo": {
       "price": 120,
@@ -299062,9 +299234,36 @@
       "Mystic Mayhem Card Back": "$30.00",
       "Kitchen Chaos Pack": "$120.00",
       "Mystic Mayhem Pack": "$120.00",
-      "Sun and Spice Bundle": "$220.00"
+      "Sun and Spice Bundle": "$220.00",
+      "Most Valuable Kitten": "$60.00",
+      "Sea Rat Outfit": "$60.00",
+      "Glenn Coco": "$60.00",
+      "Beach Day Pack": "$120.00",
+      "Beach Day Location": "$60.00",
+      "Beach Day Emoji Pack": "$30.00",
+      "Beach Day Card back": "$30.00",
+      "Slice of Heaven Outfit": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Most Valuable Kitten": "$60.00",
+            "Sea Rat Outfit": "$60.00",
+            "Explosive Expansions Pass": "$290.00",
+            "Glenn Coco": "$60.00",
+            "Beach Day Pack": "$120.00",
+            "Beach Day Location": "$60.00",
+            "Beach Day Emoji Pack": "$30.00",
+            "Beach Day Card back": "$30.00",
+            "Slice of Heaven Outfit": "$60.00",
+            "Kitchen Chaos Pack": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794604319311,
@@ -316812,6 +317011,25 @@
     "history": [
       [
         {
+          "timestamp": 1794825673547,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "新的統治者": "$190.00",
+            "婚禮造型套裝": "$320.00",
+            "深淵開拓者": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "尼奧貝希摩斯": "$60.00",
+            "超越精華": "$990.00",
+            "魔界通行證2": "$90.00",
+            "隱月造型套裝": "$320.00",
+            "魔界通行證1": "$90.00",
+            "永恆方舟": "$990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794703649883,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -323726,6 +323944,18 @@
     "history": [
       [
         {
+          "timestamp": 1794825673547,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "「Akane」與「Koro」已解鎖！": "$90.00",
+            "Koro已解鎖！": "$60.00",
+            "Akane已解鎖！": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793907156005,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -328745,6 +328975,27 @@
           "timestamp": 1794738363484,
           "price": 150,
           "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756707224": {
+    "name": "都市傳說解體中心",
+    "maxPriceInfo": {
+      "price": 299,
+      "formattedPrice": "$299.00"
+    },
+    "minPriceInfo": {
+      "price": 299,
+      "formattedPrice": "$299.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794825673547,
+          "price": 299,
+          "formattedPrice": "$299.00",
           "inAppPurchases": {}
         }
       ]

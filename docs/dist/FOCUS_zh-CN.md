@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2431` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2433` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2433|1490656387|自动|Incognito — 私密浏览器|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|
+|2432|6756707224|自动|❌|都市傳說解體中心|都市傳說解體中心|都市傳說解體中心|Urban Myth Dissolution Center|Urban Myth Dissolution Center|Urban Myth Dissolution Center|
 |2431|392746207|自动|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Private Browser|Sporløs: Navegador privado|
 |2430|6767571391|自动|A320系统复位|A320系统复位|A320系统复位|A320系统复位|A320系统复位|A320系统复位|A320系统复位|
 |2429|6822746934|自动|❌|無名餘燼：刻印之旅|無名餘燼：刻印之旅|無名餘燼：刻印之旅|Nameless Ember: Sigilbound|Nameless Ember: Sigilbound|❌|
@@ -359,7 +361,7 @@
 |2082|1459203087|自动|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|❌|
 |2081|6776762891|自动|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|
 |2080|441179131|自动|爱笔思画|愛筆思畫|愛筆思畫|愛筆思畫|ibis Paint|ibis Paint|ibis Paint|
-|2079|6778044568|自动|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|Baby Solid Food Helper|Baby Solid Food Helper|❌|
+|2079|6778044568|自动|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|Baby Solid Food Helper|Baby Solid Food Helper|新手爸媽的副食品好幫手|
 |2078|1044671796|自动|❌|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|
 |2077|1410742242|自动|❌|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|
 |2076|1467248737|自动|❌|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|
