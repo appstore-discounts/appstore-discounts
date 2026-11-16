@@ -28545,6 +28545,27 @@
       ]
     ]
   },
+  "550067264": {
+    "name": "Cafeteria Nipponica",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "550101894": {
     "name": "高吉占星专业版 - 流年运势运程全解析",
     "maxPriceInfo": {
@@ -149609,6 +149630,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794290710109,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -154190,6 +154219,23 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Herói DRAKKAN": "7,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "PUNHADO de Gemas": "2,99 €",
+            "Herói IGNUS": "2,99 €",
+            "BARRIL de Gemas": "9,99 €",
+            "Torre CAÇADORAS": "5,99 €",
+            "Herói ASHBITE": "7,99 €",
+            "PACOTE TODAS AS TORRES": "22,99 €",
+            "Torre FORJADOR": "5,99 €",
+            "Herói ONI": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1794825673547,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -156550,6 +156596,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794433497584,
