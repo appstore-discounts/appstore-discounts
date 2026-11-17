@@ -119906,6 +119906,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -147673,6 +147681,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -153048,6 +153064,18 @@
       "《部落与弯刀 - 胧境之冬》": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "《部落与弯刀 - 比武大会》": "¥8.00",
+            "《部落与弯刀 - 赫石之夏》": "¥8.00",
+            "《部落与弯刀 - 胧境之冬》": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -171530,6 +171558,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -186420,7 +186456,9 @@
       "乐桥终身会员": "¥68.00",
       "连续按月订阅": "¥12.00",
       "月度高级订阅": "¥12.00",
-      "年度高级订阅": "¥38.00"
+      "年度高级订阅": "¥38.00",
+      "月度会员升级终身": "¥56.00",
+      "年度会员升级终身": "¥30.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -186429,9 +186467,25 @@
       "乐桥终身会员": "¥28.00",
       "连续按月订阅": "¥12.00",
       "月度高级订阅": "¥12.00",
-      "年度高级订阅": "¥28.00"
+      "年度高级订阅": "¥28.00",
+      "月度会员升级终身": "¥56.00",
+      "年度会员升级终身": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "月度高级订阅": "¥12.00",
+            "乐桥终身会员": "¥68.00",
+            "年度高级订阅": "¥38.00",
+            "月度会员升级终身": "¥56.00",
+            "年度会员升级终身": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760941181671,
@@ -188048,6 +188102,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -242086,6 +242148,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794433497584,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -242223,6 +242293,27 @@
           "timestamp": 1794738363484,
           "price": 80,
           "formattedPrice": "¥80.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6832405958": {
+    "name": "指尖乐器－腕上演奏",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]

@@ -53408,6 +53408,29 @@
       ]
     ]
   },
+  "550067264": {
+    "trackId": 550067264,
+    "trackName": "客滿餐廳物語",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "550101894": {
     "trackId": 550101894,
     "trackName": "高吉占星 專業版Pro 星座占卜大師",
@@ -53733,6 +53756,25 @@
       "6.000 coins": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "5,000 Coins": "$30.00",
+            "25,000 Coins": "$150.00",
+            "15,000 Coins": "$90.00",
+            "10,000 Coins": "$60.00",
+            "85,000 Coins": "$490.00",
+            "55,000 Coins": "$320.00",
+            "120.000 coins": "$1,490.00",
+            "45.000 coins": "$690.00",
+            "22.000 coins": "$320.00",
+            "10.000 coins": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794825673547,
@@ -193691,6 +193733,25 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Zenith Islands DLC": "$89.00",
+            "Prime Dimension DLC": "$125.00",
+            "Master Package": "$355.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Starter Package": "$89.00",
+            "Prime Gemma 2500": "$355.00",
+            "Prime gemma 100": "$19.00",
+            "Hunter Package": "$180.00",
+            "Prime Gemma 5000": "$710.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794825673547,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -215409,6 +215470,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -222789,6 +222858,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -223584,6 +223661,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -225940,6 +226025,14 @@
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -294390,10 +294483,18 @@
       "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -302765,6 +302866,25 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$290.00",
+            "Mystic Mayhem Pack": "$120.00",
+            "Sun and Spice Bundle": "$220.00",
+            "Kitchen Chaos Pack": "$120.00",
+            "Santa Claws Card Back": "$30.00",
+            "Santa Claws Pack": "$120.00",
+            "Under the Tree location": "$60.00",
+            "Santa Claws Emoji Pack": "$30.00",
+            "All Wrapped Up outfit": "$60.00",
+            "Snow Globe Outfit": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794825673547,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -310105,6 +310225,18 @@
       "DLC - Land of the Eclipse": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC - The Tournament": "$60.00",
+            "DLC - The Ember Saga": "$60.00",
+            "DLC - Land of the Eclipse": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -324886,6 +325018,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794290710109,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -331536,14 +331676,22 @@
     "trackName": "Enchanted Survival: 刷寶RPG",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794290710109,
@@ -333218,6 +333366,14 @@
     "history": [
       [
         {
+          "timestamp": 1794865224584,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794433497584,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -333408,14 +333564,22 @@
     "trackName": "Warhammer Survivors",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 250,
-      "formattedPrice": "$250.00"
+      "price": 290,
+      "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
       "price": 250,
       "formattedPrice": "$250.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794351164358,
@@ -333586,6 +333750,29 @@
           "timestamp": 1794825673547,
           "price": 299,
           "formattedPrice": "$299.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6832405958": {
+    "trackId": 6832405958,
+    "trackName": "指尖樂器－腕上演奏",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794865224584,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

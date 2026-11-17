@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 1587860402,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1587860402",
+    "trackName": "籠中窺夢",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1611723264,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1611723264",
+    "trackName": "人類跌落夢境",
+    "firstRecordedAt": 1746356524165
+  },
+  {
+    "trackId": 1614795077,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1614795077",
+    "trackName": "Otaku's Adventure",
+    "firstRecordedAt": 1745676122075
+  },
+  {
+    "trackId": 1620883955,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$150.00",
+        "range": "[$90.00 ~ $290.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1620883955",
+    "trackName": "Little Nightmares",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6458144503,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $290.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6458144503",
+    "trackName": "Skul: The Hero Slayer",
+    "firstRecordedAt": 1745626119758
+  },
+  {
+    "trackId": 6443875944,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6443875944",
+    "trackName": "Sands of Salzaar",
+    "firstRecordedAt": 1759807531910
+  },
+  {
+    "trackId": 6760948683,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6760948683",
+    "trackName": "Digline：療癒挖礦",
+    "firstRecordedAt": 1781276299651
+  },
+  {
+    "trackId": 6830479627,
+    "region": "tw",
+    "timestamp": 1794865224584,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6830479627",
+    "trackName": "1in8b Life",
+    "firstRecordedAt": 1794142180981
+  },
+  {
     "trackId": 424591347,
     "region": "tw",
     "timestamp": 1794825673547,
@@ -1631,7 +1791,7 @@
         "name": "Price",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[$30.00 ~ $120.00]"
       }
     ],
     "price": 30,
@@ -2513,7 +2673,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[$30.00 ~ $120.00]"
       }
     ],
     "price": 30,
@@ -6495,7 +6655,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 90,
@@ -13465,7 +13625,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 90,
@@ -18814,7 +18974,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 90,
@@ -24282,7 +24442,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 90,
@@ -28217,7 +28377,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 90,
@@ -36058,7 +36218,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$190.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 190,
@@ -40067,7 +40227,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$90.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 90,
@@ -47824,7 +47984,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$120.00",
-        "range": "[$90.00 ~ $290.00]"
+        "range": "[$30.00 ~ $290.00]"
       }
     ],
     "price": 120,
