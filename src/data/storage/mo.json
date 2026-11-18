@@ -221741,14 +221741,22 @@
   "6819150080": {
     "name": "Duo Aquarium",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "USD 1.00"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "USD 1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795000306282,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794086945540,

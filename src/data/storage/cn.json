@@ -159580,6 +159580,24 @@
     "history": [
       [
         {
+          "timestamp": 1795000306282,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "新手成长大礼包": "¥30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794825673547,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -242312,14 +242330,22 @@
   "6819150080": {
     "name": "Duo Aquarium",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795000306282,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794086945540,
