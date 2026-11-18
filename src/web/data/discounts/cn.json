@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 479665601,
+    "region": "cn",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥88.00",
+        "to": "¥68.00",
+        "range": "[¥68.00 ~ ¥88.00]"
+      }
+    ],
+    "price": 68,
+    "formattedPrice": "¥68.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id479665601",
+    "trackName": "iZip专业版 - Zip Rar 压缩、解压缩工具",
+    "firstRecordedAt": 1761380057726
+  },
+  {
+    "trackId": 6737795387,
+    "region": "cn",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥38.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "五朵金花",
+        "from": "¥18.00",
+        "to": "¥16.00",
+        "range": "[¥16.00 ~ ¥18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "不归玄境",
+        "from": "¥12.00",
+        "to": "¥10.00",
+        "range": "[¥10.00 ~ ¥12.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6737795387",
+    "trackName": "鬼谷八荒",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1458460469,
     "region": "cn",
     "timestamp": 1794865224584,
@@ -782,7 +836,7 @@
     "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1441522083",
-    "trackName": "LED弹幕-手持弹幕显示屏，跑马灯滚动字幕",
+    "trackName": "手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕",
     "firstRecordedAt": 1783944326400
   },
   {

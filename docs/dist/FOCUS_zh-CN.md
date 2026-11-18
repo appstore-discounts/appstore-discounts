@@ -1,12 +1,20 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2435` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2443` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2443|951627022|自动|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
+|2442|6833608280|自动|FarView 远迹|❌|❌|❌|❌|❌|❌|
+|2441|6833854183|自动|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
+|2440|6826478625|自动|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|
+|2439|6834208556|手动|Sorapuff: 飞行恐惧安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: Fear of Flying Help|Sorapuff: Fear of Flying Help|Sorapuff: Medo de Voar|
+|2438|6816097524|手动|Comic Weather: 搞笑天气预报|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: Funny Forecast|Comic Weather: Funny Forecast|Comic Weather: Clima engraçado|
+|2437|6792524904|手动|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|
+|2436|6822285409|手动|❌|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall: Multiview Live TV|Skywall: Multiview Live TV|Skywall: Multiview em direto|
 |2435|550067264|自动|❌|客滿餐廳物語|客滿餐廳物語|客滿餐廳物語|Cafeteria Nipponica|Cafeteria Nipponica|Cafeteria Nipponica|
 |2434|6832405958|自动|指尖乐器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|Fingertip Instruments|Fingertip Instruments|❌|
 |2433|1490656387|自动|Incognito — 私密浏览器|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|
@@ -27,7 +35,7 @@
 |2418|892347083|自动|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
 |2417|6828383349|自动|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
 |2416|6829459666|自动|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
-|2415|6827445474|自动|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|
+|2415|6827445474|自动|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|
 |2414|6816793607|自动|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2413|6826404492|自动|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2412|6758903716|自动|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
@@ -38,7 +46,7 @@
 |2407|1233326914|自动|ParKing P - 我的车在哪里？|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P Onde está meu carro?|
 |2406|1462754972|自动|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|
 |2405|6788134172|自动|❌|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|
-|2404|6828960722|自动|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|
+|2404|6828960722|自动|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Jogo de Gestão|
 |2403|6762192063|自动|❌|Absolum|Absolum|Absolum|Absolum|Absolum|Absolum|
 |2402|408625926|自动|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
 |2401|6827745244|自动|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
@@ -80,7 +88,7 @@
 |2365|6771652722|自动|❌|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|
 |2364|6819720065|自动|P's Pocket|P's Pocket|P's Pocket|P's Pocket|P's Pocket|❌|❌|
 |2363|6793744610|自动|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|
-|2362|6817821959|自动|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|cafedays|Cafe Days|Cafe Days: gerencie um café|
+|2362|6817821959|自动|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days|Cafe Days|Cafe Days: gerencie um café|
 |2361|6785542417|自动|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|
 |2360|6789634028|自动|❌|Pilavcı|Pilavcı|Pilavcı|Rice Station|Rice Station|Pilavcı|
 |2359|424015306|自动|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|
@@ -1520,7 +1528,7 @@
 |925|1059911569|自动|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|自动|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|自动|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|自动|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
+|922|1441522083|自动|手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|自动|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|自动|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|自动|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|

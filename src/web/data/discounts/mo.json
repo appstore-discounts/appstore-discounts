@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 479665601,
+    "region": "mo",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 12.99",
+        "to": "USD 9.99",
+        "range": "[USD 9.99 ~ USD 12.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id479665601",
+    "trackName": "iZip專業版 - Zip RAR 壓縮、解壓縮工具",
+    "firstRecordedAt": 1761380057726
+  },
+  {
+    "trackId": 633625517,
+    "region": "mo",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id633625517",
+    "trackName": "Baldur's Gate II: EE",
+    "firstRecordedAt": 1792337187582
+  },
+  {
+    "trackId": 1515382132,
+    "region": "mo",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1515382132",
+    "trackName": "Axis & Allies 1942 Online",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6759970821,
+    "region": "mo",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 3.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6759970821",
+    "trackName": "地牢合併!（Dungeon Merge!）",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 1587860402,
     "region": "mo",
     "timestamp": 1794865224584,
@@ -1471,7 +1551,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1441522083",
-    "trackName": "LED跑馬燈・手持彈幕・應援燈牌",
+    "trackName": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "firstRecordedAt": 1745568184983
   },
   {

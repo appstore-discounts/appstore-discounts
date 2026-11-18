@@ -16471,8 +16471,8 @@
       "Realms Plus: You + 10 Friends": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "Minecraft Store Item 2": "1,99 €",
       "Realms Plus:10 Friends w/trial": "7,99 €",
       "Minecraft Store Item 6": "5,99 €",
@@ -16509,6 +16509,25 @@
       "Realms Plus: You + 10 Friends": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "5,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "4,99 €",
+            "Minecraft Store Item 8": "7,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794661229808,
@@ -18877,6 +18896,14 @@
       "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791838643666,
@@ -32926,14 +32953,27 @@
       "Galeria de Heróis": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
       "Em Defesa do Lado Selvagem": "2,99 €",
       "Preço Pago Com Sangue": "2,99 €",
       "Uma Voz na Escuridão": "2,99 €",
       "Galeria de Heróis": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Em Defesa do Lado Selvagem": "2,99 €",
+            "Preço Pago Com Sangue": "2,99 €",
+            "Uma Voz na Escuridão": "2,99 €",
+            "Galeria de Heróis": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,
@@ -43513,6 +43553,40 @@
       ]
     ]
   },
+  "951627022": {
+    "name": "Photo Scanner Plus",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Photomyne account": "49,99 €",
+      "Conta do Photomyne": "11,99 €",
+      "Photomyne membership": "69,99 €",
+      "Video account": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Photomyne account": "49,99 €",
+      "Conta do Photomyne": "11,99 €",
+      "Photomyne membership": "69,99 €",
+      "Video account": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Photomyne account": "49,99 €",
+            "Conta do Photomyne": "11,99 €",
+            "Photomyne membership": "69,99 €",
+            "Video account": "5,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "952625011": {
     "name": "每日精選-國家地理每日精選",
     "maxPriceInfo": {
@@ -46526,6 +46600,20 @@
       "50 GEMAS": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "1400 GEMAS": "89,99 €",
+            "650 GEMAS": "49,99 €",
+            "250 GEMAS": "17,99 €",
+            "120 GEMAS": "8,99 €",
+            "50 GEMAS": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793841525729,
@@ -74984,6 +75072,19 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "4,99 €",
+            "Ragnarök DLC": "4,99 €",
+            "Atlantis DLC": "4,99 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793841525729,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -76697,14 +76798,27 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €",
-      "Pro Lifetime": "3,99 €"
+      "Pro Lifetime": "3,99 €",
+      "Pro 14-Day Pass": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Pro Lifetime": "3,99 €"
+      "Pro Lifetime": "3,99 €",
+      "Pro 14-Day Pass": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro 14-Day Pass": "0,99 €",
+            "Pro Lifetime": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793683824235,
@@ -78687,6 +78801,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793841525729,
@@ -91060,10 +91182,18 @@
       "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -91720,6 +91850,14 @@
       "formattedPrice": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793841525729,
@@ -93790,6 +93928,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793841525729,
@@ -102238,6 +102384,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -106558,6 +106712,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -107833,6 +107995,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 4.49,
+          "formattedPrice": "4,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -113586,6 +113756,18 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "1,99 €",
+            "DLC - The Ember Saga": "1,99 €",
+            "DLC - The Tournament": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -119149,7 +119331,11 @@
       "Dumb Phone Plus Monthly": "8,99 €",
       "Dumb Phone Plus Yearly": "69,99 €",
       "Dumb Phone Plus Lifetime": "89,99 €",
-      "Dumb Phone Plus Weekly": "1,99 €"
+      "Dumb Phone Plus Weekly": "1,99 €",
+      "Dumb Phone Pro Lifetime": "89,99 €",
+      "Dumb Phone Pro Monthly": "5,99 €",
+      "Dumb Phone Pro Weekly": "1,99 €",
+      "Dumb Phone Pro Yearly": "17,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -119157,9 +119343,26 @@
       "Dumb Phone Plus Monthly": "3,49 €",
       "Dumb Phone Plus Yearly": "8,29 €",
       "Dumb Phone Plus Lifetime": "34,99 €",
-      "Dumb Phone Plus Weekly": "1,99 €"
+      "Dumb Phone Plus Weekly": "1,99 €",
+      "Dumb Phone Pro Lifetime": "89,99 €",
+      "Dumb Phone Pro Monthly": "5,99 €",
+      "Dumb Phone Pro Weekly": "1,99 €",
+      "Dumb Phone Pro Yearly": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Dumb Phone Pro Lifetime": "89,99 €",
+            "Dumb Phone Pro Monthly": "5,99 €",
+            "Dumb Phone Pro Weekly": "1,99 €",
+            "Dumb Phone Pro Yearly": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792969306156,
@@ -119537,10 +119740,18 @@
       "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -131191,7 +131402,8 @@
       "France Map": "9,99 €",
       "Nederlands Map": "9,99 €",
       "Iberia Map": "9,99 €",
-      "Old West Map": "9,99 €"
+      "Old West Map": "9,99 €",
+      "Ticket to Ride Sale Offer": "29,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -131241,9 +131453,29 @@
       "France Map": "9,99 €",
       "Nederlands Map": "9,99 €",
       "Iberia Map": "9,99 €",
-      "Old West Map": "9,99 €"
+      "Old West Map": "9,99 €",
+      "Ticket to Ride Sale Offer": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Ticket to Ride Sale Offer": "29,99 €",
+            "Round the World Ticket": "49,99 €",
+            "Welcome Offer": "29,99 €",
+            "Europe Expansion": "14,99 €",
+            "Europe Map": "12,99 €",
+            "1910 Ticket Pack": "3,99 €",
+            "Nordic Expansion": "12,99 €",
+            "Japan Expansion": "12,99 €",
+            "Heart of Africa Expansion": "12,99 €",
+            "Nordic Map": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792703638499,
@@ -152502,7 +152734,8 @@
       "50 Diamonds": "1,99 €",
       "16 Base Heroes Unlock Pack": "44,99 €",
       "700 Diamonds": "22,99 €",
-      "30-Day Supply Pass": "6,99 €"
+      "30-Day Supply Pass": "6,99 €",
+      "DLC 1": "19,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -152513,9 +152746,27 @@
       "50 Diamonds": "1,99 €",
       "16 Base Heroes Unlock Pack": "44,99 €",
       "700 Diamonds": "22,99 €",
-      "30-Day Supply Pass": "6,99 €"
+      "30-Day Supply Pass": "6,99 €",
+      "DLC 1": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "DLC 1": "19,99 €",
+            "30-Day Supply Pass": "6,99 €",
+            "120 Diamonds": "3,99 €",
+            "Starter Pack 1": "1,99 €",
+            "4000 Diamonds": "99,99 €",
+            "50 Diamonds": "1,99 €",
+            "16 Base Heroes Unlock Pack": "44,99 €",
+            "700 Diamonds": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793960748222,
@@ -152952,7 +153203,7 @@
       "formattedPrice": "2,99 €",
       "终身护持": "17,99 €",
       "年度护持": "22,99 €",
-      "月度护持": "0,99 €",
+      "月度护持": "1,99 €",
       "3-day Trial": "0,00 €"
     },
     "minPriceInfo": {
@@ -152964,6 +153215,19 @@
       "3-day Trial": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "3-day Trial": "0,00 €",
+            "终身护持": "17,99 €",
+            "年度护持": "17,99 €",
+            "月度护持": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794790008854,
@@ -153867,7 +154131,8 @@
       "Pacote · Gala das lendas": "3,99 €",
       "Engenheira rúnica": "0,49 €",
       "Herói · Yarna": "0,99 €",
-      "Herói · Unheo": "0,99 €"
+      "Herói · Unheo": "0,99 €",
+      "Pacote · Caçada Cinzescama": "7,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -153899,9 +154164,29 @@
       "Pacote · Gala das lendas": "3,99 €",
       "Engenheira rúnica": "0,49 €",
       "Herói · Yarna": "0,99 €",
-      "Herói · Unheo": "0,99 €"
+      "Herói · Unheo": "0,99 €",
+      "Pacote · Caçada Cinzescama": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pacote · Caçada Cinzescama": "7,99 €",
+            "Herói · Yarna": "0,99 €",
+            "Herói · Unheo": "0,99 €",
+            "Pacote · Gala dos cavaleiros": "2,99 €",
+            "Pacote · Floresta e oficina": "2,99 €",
+            "Pacote · Jardim nevado": "2,99 €",
+            "Pacote · Noite oriental": "2,99 €",
+            "Pacote · Lua e estrelas": "2,99 €",
+            "Rainha da caça outonal": "0,49 €",
+            "Gladiador de prata": "0,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794462892032,
@@ -156567,14 +156852,22 @@
   "6819150080": {
     "name": "Duo Aquarium",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "1,00 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "1,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794086945540,
@@ -156715,7 +157008,7 @@
     ]
   },
   "6827445474": {
-    "name": "FoldTick",
+    "name": "FoldTick: Duo Fold Counter",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -156784,10 +157077,18 @@
       "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 7.49,
+      "formattedPrice": "7,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 7.49,
+          "formattedPrice": "7,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794351164358,
@@ -156866,7 +157167,7 @@
     ]
   },
   "6828960722": {
-    "name": "Grounds Up: Business Tycoon",
+    "name": "Grounds Up: Jogo de Gestão",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
@@ -156966,6 +157267,147 @@
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "name": "誰偷吃了蛋撻？",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "name": "Pocket Mac Lab",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834208556": {
+    "name": "Sorapuff: Medo de Voar",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Sorapuff Pro": "14,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Sorapuff Pro": "14,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Sorapuff Pro": "14,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6816097524": {
+    "name": "Comic Weather: Clima engraçado",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Teste grátis de 7 dias": "0,00 €",
+      "Comic Weather Full": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Teste grátis de 7 dias": "0,00 €",
+      "Comic Weather Full": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Teste grátis de 7 dias": "0,00 €",
+            "Comic Weather Full": "5,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6792524904": {
+    "name": "ScreenCommand",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822285409": {
+    "name": "Skywall: Multiview em direto",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Skywall Full": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Skywall Full": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Skywall Full": "6,99 €"
+          }
         }
       ]
     ]

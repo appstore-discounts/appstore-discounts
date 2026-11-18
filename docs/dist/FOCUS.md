@@ -1,12 +1,20 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2443` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2443|951627022|Automatic|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
+|2442|6833608280|Automatic|FarView 远迹|❌|❌|❌|❌|❌|❌|
+|2441|6833854183|Automatic|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
+|2440|6826478625|Automatic|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|
+|2439|6834208556|Manual|Sorapuff: 飞行恐惧安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: Fear of Flying Help|Sorapuff: Fear of Flying Help|Sorapuff: Medo de Voar|
+|2438|6816097524|Manual|Comic Weather: 搞笑天气预报|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: Funny Forecast|Comic Weather: Funny Forecast|Comic Weather: Clima engraçado|
+|2437|6792524904|Manual|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|
+|2436|6822285409|Manual|❌|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall: Multiview Live TV|Skywall: Multiview Live TV|Skywall: Multiview em direto|
 |2435|550067264|Automatic|❌|客滿餐廳物語|客滿餐廳物語|客滿餐廳物語|Cafeteria Nipponica|Cafeteria Nipponica|Cafeteria Nipponica|
 |2434|6832405958|Automatic|指尖乐器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|Fingertip Instruments|Fingertip Instruments|❌|
 |2433|1490656387|Automatic|Incognito — 私密浏览器|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|
@@ -27,7 +35,7 @@ So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push n
 |2418|892347083|Automatic|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
 |2417|6828383349|Automatic|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
 |2416|6829459666|Automatic|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
-|2415|6827445474|Automatic|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|
+|2415|6827445474|Automatic|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|
 |2414|6816793607|Automatic|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2413|6826404492|Automatic|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2412|6758903716|Automatic|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
@@ -38,7 +46,7 @@ So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push n
 |2407|1233326914|Automatic|ParKing P - 我的车在哪里？|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P Onde está meu carro?|
 |2406|1462754972|Automatic|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|
 |2405|6788134172|Automatic|❌|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|
-|2404|6828960722|Automatic|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|
+|2404|6828960722|Automatic|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Jogo de Gestão|
 |2403|6762192063|Automatic|❌|Absolum|Absolum|Absolum|Absolum|Absolum|Absolum|
 |2402|408625926|Automatic|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
 |2401|6827745244|Automatic|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
@@ -80,7 +88,7 @@ So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push n
 |2365|6771652722|Automatic|❌|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|
 |2364|6819720065|Automatic|P's Pocket|P's Pocket|P's Pocket|P's Pocket|P's Pocket|❌|❌|
 |2363|6793744610|Automatic|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|
-|2362|6817821959|Automatic|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|cafedays|Cafe Days|Cafe Days: gerencie um café|
+|2362|6817821959|Automatic|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days|Cafe Days|Cafe Days: gerencie um café|
 |2361|6785542417|Automatic|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|懲教署投考全攻略 CSDReady|
 |2360|6789634028|Automatic|❌|Pilavcı|Pilavcı|Pilavcı|Rice Station|Rice Station|Pilavcı|
 |2359|424015306|Automatic|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|
@@ -1520,7 +1528,7 @@ So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push n
 |925|1059911569|Automatic|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|Automatic|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|Automatic|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|Automatic|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
+|922|1441522083|Automatic|手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|Automatic|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|Automatic|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|Automatic|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|

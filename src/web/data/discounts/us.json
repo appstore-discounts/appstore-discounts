@@ -1,5 +1,185 @@
 [
   {
+    "trackId": 479665601,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$12.99",
+        "to": "$9.99",
+        "range": "[$9.99 ~ $12.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id479665601",
+    "trackName": "iZip Pro -Zip Unzip Unrar Tool",
+    "firstRecordedAt": 1761380057726
+  },
+  {
+    "trackId": 633625517,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id633625517",
+    "trackName": "Baldur's Gate II: EE",
+    "firstRecordedAt": 1792337187582
+  },
+  {
+    "trackId": 1515382132,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1515382132",
+    "trackName": "Axis & Allies 1942 Online",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1587860402,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1587860402",
+    "trackName": "Moncage",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1614795077,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1614795077",
+    "trackName": "Otaku's Adventure",
+    "firstRecordedAt": 1745676122075
+  },
+  {
+    "trackId": 1620883955,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$4.49",
+        "range": "[$2.99 ~ $8.99]"
+      }
+    ],
+    "price": 4.49,
+    "formattedPrice": "$4.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1620883955",
+    "trackName": "Little Nightmares",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6469419567,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6458144503,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$7.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $7.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6458144503",
+    "trackName": "Skul: The Hero Slayer",
+    "firstRecordedAt": 1745626119758
+  },
+  {
+    "trackId": 6443875944,
+    "region": "us",
+    "timestamp": 1794977944693,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.49",
+        "range": "[$3.49 ~ $4.99]"
+      }
+    ],
+    "price": 3.49,
+    "formattedPrice": "$3.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6443875944",
+    "trackName": "Sands of Salzaar",
+    "firstRecordedAt": 1759807531910
+  },
+  {
     "trackId": 6760948683,
     "region": "us",
     "timestamp": 1794865224584,
@@ -6412,7 +6592,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 2.99,
@@ -13341,7 +13521,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 2.99,
@@ -18934,7 +19114,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 2.99,
@@ -24252,7 +24432,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 2.99,
@@ -28529,7 +28709,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 2.99,
@@ -35623,7 +35803,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$5.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 5.99,
@@ -39896,7 +40076,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 2.99,
@@ -47658,7 +47838,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$3.99",
-        "range": "[$2.99 ~ $7.99]"
+        "range": "[$0.99 ~ $7.99]"
       }
     ],
     "price": 3.99,

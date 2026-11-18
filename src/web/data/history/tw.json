@@ -34268,6 +34268,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791838643666,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -37837,6 +37845,25 @@
       "大正晝夜譚組合包": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "大富翁4 Fun 美國地圖": "$30.00",
+            "「日本香港組合包」": "$30.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "$30.00",
+            "大富翁 4 fun 韓國地圖組合包": "$30.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "$30.00",
+            "大富翁 4 fun 樂園組合包": "$30.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "$30.00",
+            "仙五地圖包": "$30.00",
+            "大富翁4 Fun夏日組合包": "$30.00",
+            "很多元寶": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794661229808,
@@ -63617,14 +63644,27 @@
       "Gallery of Heroes": "$90.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00",
+      "price": 90,
+      "formattedPrice": "$90.00",
       "In Defense of the Wild": "$90.00",
       "A Price Paid in Blood": "$90.00",
       "A Voice in the Dark": "$90.00",
       "Gallery of Heroes": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "In Defense of the Wild": "$90.00",
+            "A Price Paid in Blood": "$90.00",
+            "A Voice in the Dark": "$90.00",
+            "Gallery of Heroes": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,
@@ -72565,6 +72605,25 @@
       "$50 Credit": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "$2,990.00",
+            "3 Mo. Fongo Ultimate": "$990.00",
+            "6 Mo. Fongo Ultimate": "$1,990.00",
+            "1 Mo. Fongo Ultimate": "$390.00",
+            "12 Mo. Remove Ads": "$590.00",
+            "6 Mo. Remove Ads": "$320.00",
+            "3 Mo. Remove Ads": "$190.00",
+            "1 Mo. Remove Ads": "$90.00",
+            "12 Mo. Fongo Plus": "$2,990.00",
+            "12 Mo. Global Texting": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794404303285,
@@ -85247,6 +85306,39 @@
       ]
     ]
   },
+  "951627022": {
+    "trackId": 951627022,
+    "trackName": "照片掃描儀加強版",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Photomyne account": "$1,490.00",
+      "Photomyne 帳號": "$640.00",
+      "Photomyne membership": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Photomyne account": "$1,490.00",
+      "Photomyne 帳號": "$640.00",
+      "Photomyne membership": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Photomyne account": "$1,490.00",
+            "Photomyne 帳號": "$640.00",
+            "Photomyne membership": "$690.00"
+          }
+        }
+      ]
+    ]
+  },
   "952625011": {
     "trackId": 952625011,
     "trackName": "每日精選-國家地理每日精選",
@@ -91957,6 +92049,20 @@
       "250 顆寶石": "$490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "120 顆寶石": "$290.00",
+            "50 顆寶石": "$120.00",
+            "1400 顆寶石": "$2,490.00",
+            "650 顆寶石": "$1,290.00",
+            "250 顆寶石": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -156521,6 +156627,19 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 330,
+          "formattedPrice": "$330.00",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$170.00",
+            "Ragnarök DLC": "$170.00",
+            "Atlantis DLC": "$170.00",
+            "Eternal Embers DLC": "$170.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793820298773,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -159426,19 +159545,32 @@
   },
   "1441522083": {
     "trackId": 1441522083,
-    "trackName": "LED跑馬燈・手持彈幕・應援燈牌",
+    "trackName": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "region": "tw",
     "maxPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00",
-      "Pro 終身版": "$120.00"
+      "Pro 終身版": "$120.00",
+      "Pro 14 天通行證": "$30.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro 終身版": "$120.00"
+      "Pro 終身版": "$120.00",
+      "Pro 14 天通行證": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro 14 天通行證": "$30.00",
+            "Pro 終身版": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793654775026,
@@ -164910,6 +165042,25 @@
       "禮包1": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "648金玉": "$3,290.00",
+            "禮包5": "$170.00",
+            "一鍵買斷禮包": "$150.00",
+            "328金玉": "$1,690.00",
+            "丹青閣通行證": "$330.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794661229808,
@@ -176827,6 +176978,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 270,
+          "formattedPrice": "$270.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793820298773,
           "price": 55,
           "formattedPrice": "$55.00",
@@ -184333,6 +184492,24 @@
       "Natural Wonders": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Natural Wonders": "$90.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Valkyrie Token": "$320.00",
+            "Promotion": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794661229808,
@@ -197156,10 +197333,18 @@
       "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -198494,6 +198679,14 @@
       "formattedPrice": "$15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 330,
+          "formattedPrice": "$330.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -201975,6 +202168,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 170,
+          "formattedPrice": "$170.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -224513,6 +224714,25 @@
       "Hero Bomett": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Special Daily Pack15": "$60.00",
+            "Unit Group Jaegers": "$220.00",
+            "Special Daily Pack7": "$60.00",
+            "Starter Pack": "$150.00",
+            "HeroBounty Hunter": "$150.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794604319311,
@@ -271624,6 +271844,19 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Elite Pack": "$150.00",
+            "Premium Pack": "$120.00",
+            "Advanced Pack": "$60.00",
+            "Standard Pack": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794825673547,
           "price": 50,
           "formattedPrice": "$50.00",
@@ -280182,6 +280415,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Global scenery - 3 months": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794790008854,
@@ -299949,7 +300201,11 @@
       "Dumb Phone Plus Yearly": "$1,990.00",
       "Dumb Phone Plus Lifetime": "$2,490.00",
       "Dumb Phone Plus Monthly": "$290.00",
-      "Dumb Phone Plus Weekly": "$60.00"
+      "Dumb Phone Plus Weekly": "$60.00",
+      "Dumb Phone Pro Yearly": "$490.00",
+      "Dumb Phone Pro Weekly": "$60.00",
+      "Dumb Phone Pro Lifetime": "$2,490.00",
+      "Dumb Phone Pro Monthly": "$150.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -299957,9 +300213,26 @@
       "Dumb Phone Plus Yearly": "$145.00",
       "Dumb Phone Plus Lifetime": "$990.00",
       "Dumb Phone Plus Monthly": "$60.00",
-      "Dumb Phone Plus Weekly": "$60.00"
+      "Dumb Phone Plus Weekly": "$60.00",
+      "Dumb Phone Pro Yearly": "$490.00",
+      "Dumb Phone Pro Weekly": "$60.00",
+      "Dumb Phone Pro Lifetime": "$2,490.00",
+      "Dumb Phone Pro Monthly": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Pro Yearly": "$490.00",
+            "Dumb Phone Pro Weekly": "$60.00",
+            "Dumb Phone Pro Lifetime": "$2,490.00",
+            "Dumb Phone Pro Monthly": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792942623004,
@@ -328089,7 +328362,8 @@
       "50 Diamonds": "$60.00",
       "16 Base Heroes Unlock Pack": "$1,290.00",
       "700 Diamonds": "$690.00",
-      "30天補給卡": "$190.00"
+      "30天補給卡": "$190.00",
+      "DLC 1": "$590.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -328100,9 +328374,27 @@
       "50 Diamonds": "$60.00",
       "16 Base Heroes Unlock Pack": "$1,290.00",
       "700 Diamonds": "$690.00",
-      "30天補給卡": "$190.00"
+      "30天補給卡": "$190.00",
+      "DLC 1": "$590.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Pack 1": "$60.00",
+            "120 Diamonds": "$120.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "DLC 1": "$590.00",
+            "30天補給卡": "$190.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793960748222,
@@ -328521,7 +328813,7 @@
       "formattedPrice": "$90.00",
       "终身护持": "$490.00",
       "年度护持": "$690.00",
-      "月度护持": "$30.00",
+      "月度护持": "$60.00",
       "3-day Trial": "$0.00"
     },
     "minPriceInfo": {
@@ -328533,6 +328825,19 @@
       "3-day Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "$0.00",
+            "终身护持": "$490.00",
+            "年度护持": "$490.00",
+            "月度护持": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794767452594,
@@ -329964,6 +330269,25 @@
       "展示 禮包 7": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全英雄禮包": "$790.00",
+            "全法術禮包": "$390.00",
+            "全塔禮包": "$690.00",
+            "全塔禮包_B": "$490.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00",
+            "英雄 伊格納斯": "$90.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "展示 禮包 7": "$150.00",
+            "英雄 鬼侍": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794703649883,
@@ -333492,7 +333816,7 @@
   },
   "6827445474": {
     "trackId": 6827445474,
-    "trackName": "FoldTick",
+    "trackName": "FoldTick: Duo Fold Counter",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -333774,6 +334098,159 @@
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "trackId": 6833854183,
+    "trackName": "誰偷吃了蛋撻？",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "trackId": 6826478625,
+    "trackName": "Pocket Mac Lab",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834208556": {
+    "trackId": 6834208556,
+    "trackName": "Sorapuff: 飛行恐懼安心助手",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Sorapuff Pro": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Sorapuff Pro": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Sorapuff Pro": "$290.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6816097524": {
+    "trackId": 6816097524,
+    "trackName": "Comic Weather: 搞笑天氣預報",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "7 天免費試用": "$0.00",
+      "Comic Weather Full": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "7 天免費試用": "$0.00",
+      "Comic Weather Full": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7 天免費試用": "$0.00",
+            "Comic Weather Full": "$150.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6792524904": {
+    "trackId": 6792524904,
+    "trackName": "ScreenCommand",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822285409": {
+    "trackId": 6822285409,
+    "trackName": "Skywall：多螢幕直播電視",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Skywall Full": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Skywall Full": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Skywall Full": "$190.00"
+          }
         }
       ]
     ]

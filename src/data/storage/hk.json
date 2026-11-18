@@ -33659,6 +33659,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791838643666,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -60146,14 +60154,27 @@
       "Gallery of Heroes": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "In Defense of the Wild": "HK$ 22.00",
       "A Price Paid in Blood": "HK$ 22.00",
       "A Voice in the Dark": "HK$ 22.00",
       "Gallery of Heroes": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "In Defense of the Wild": "HK$ 22.00",
+            "A Price Paid in Blood": "HK$ 22.00",
+            "A Voice in the Dark": "HK$ 22.00",
+            "Gallery of Heroes": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,
@@ -82285,6 +82306,37 @@
       ]
     ]
   },
+  "951627022": {
+    "name": "照片掃描儀加強版",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Photomyne account": "HK$ 388.00",
+      "Photomyne 帳號": "HK$ 158.00",
+      "Photomyne membership": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Photomyne account": "HK$ 388.00",
+      "Photomyne 帳號": "HK$ 158.00",
+      "Photomyne membership": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Photomyne account": "HK$ 388.00",
+            "Photomyne 帳號": "HK$ 158.00",
+            "Photomyne membership": "HK$ 148.00"
+          }
+        }
+      ]
+    ]
+  },
   "952625011": {
     "name": "每日精選-國家地理每日精選",
     "maxPriceInfo": {
@@ -89583,6 +89635,20 @@
       "50 顆寶石": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "50 顆寶石": "HK$ 32.00",
+            "1400 顆寶石": "HK$ 588.00",
+            "650 顆寶石": "HK$ 328.00",
+            "250 顆寶石": "HK$ 128.00",
+            "120 顆寶石": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -154491,6 +154557,19 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 78,
+          "formattedPrice": "HK$ 78.00",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "HK$ 38.00",
+            "Ragnarök DLC": "HK$ 38.00",
+            "Atlantis DLC": "HK$ 38.00",
+            "Eternal Embers DLC": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793820298773,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -157714,18 +157793,31 @@
     ]
   },
   "1441522083": {
-    "name": "LED跑馬燈・手持彈幕・應援燈牌",
+    "name": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "maxPriceInfo": {
       "price": 2,
       "formattedPrice": "HK$ 2.00",
-      "Pro 終身版": "HK$ 32.00"
+      "Pro 終身版": "HK$ 32.00",
+      "Pro 14 天通行證": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro 終身版": "HK$ 32.00"
+      "Pro 終身版": "HK$ 32.00",
+      "Pro 14 天通行證": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro 14 天通行證": "HK$ 8.00",
+            "Pro 終身版": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793654775026,
@@ -172906,6 +172998,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -193130,10 +193230,18 @@
       "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -194682,6 +194790,14 @@
       "formattedPrice": "HK$ 5.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 78,
+          "formattedPrice": "HK$ 78.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -198476,6 +198592,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -284039,7 +284163,11 @@
       "Dumb Phone Plus Yearly": "HK$ 488.00",
       "Dumb Phone Plus Lifetime": "HK$ 588.00",
       "Dumb Phone Plus Monthly": "HK$ 58.00",
-      "Dumb Phone Plus Weekly": "HK$ 18.00"
+      "Dumb Phone Plus Weekly": "HK$ 18.00",
+      "Dumb Phone Pro Weekly": "HK$ 18.00",
+      "Dumb Phone Pro Yearly": "HK$ 118.00",
+      "Dumb Phone Pro Lifetime": "HK$ 588.00",
+      "Dumb Phone Pro Monthly": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -284047,9 +284175,26 @@
       "Dumb Phone Plus Yearly": "HK$ 74.00",
       "Dumb Phone Plus Lifetime": "HK$ 228.00",
       "Dumb Phone Plus Monthly": "HK$ 31.00",
-      "Dumb Phone Plus Weekly": "HK$ 18.00"
+      "Dumb Phone Plus Weekly": "HK$ 18.00",
+      "Dumb Phone Pro Weekly": "HK$ 18.00",
+      "Dumb Phone Pro Yearly": "HK$ 118.00",
+      "Dumb Phone Pro Lifetime": "HK$ 588.00",
+      "Dumb Phone Pro Monthly": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Pro Weekly": "HK$ 18.00",
+            "Dumb Phone Pro Yearly": "HK$ 118.00",
+            "Dumb Phone Pro Lifetime": "HK$ 588.00",
+            "Dumb Phone Pro Monthly": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792942623004,
@@ -310770,7 +310915,8 @@
       "50 Diamonds": "HK$ 18.00",
       "16 Base Heroes Unlock Pack": "HK$ 288.00",
       "700 Diamonds": "HK$ 148.00",
-      "30天補給卡": "HK$ 48.00"
+      "30天補給卡": "HK$ 48.00",
+      "DLC 1": "HK$ 128.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -310781,9 +310927,27 @@
       "50 Diamonds": "HK$ 18.00",
       "16 Base Heroes Unlock Pack": "HK$ 288.00",
       "700 Diamonds": "HK$ 148.00",
-      "30天補給卡": "HK$ 48.00"
+      "30天補給卡": "HK$ 48.00",
+      "DLC 1": "HK$ 128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Pack 1": "HK$ 18.00",
+            "DLC 1": "HK$ 128.00",
+            "30天補給卡": "HK$ 48.00",
+            "120 Diamonds": "HK$ 32.00",
+            "4000 Diamonds": "HK$ 788.00",
+            "50 Diamonds": "HK$ 18.00",
+            "16 Base Heroes Unlock Pack": "HK$ 288.00",
+            "700 Diamonds": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793960748222,
@@ -311218,7 +311382,7 @@
       "formattedPrice": "HK$ 22.00",
       "终身护持": "HK$ 118.00",
       "年度护持": "HK$ 148.00",
-      "月度护持": "HK$ 8.00",
+      "月度护持": "HK$ 18.00",
       "3-day Trial": "HK$ 0.00"
     },
     "minPriceInfo": {
@@ -311230,6 +311394,19 @@
       "3-day Trial": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "HK$ 0.00",
+            "终身护持": "HK$ 118.00",
+            "年度护持": "HK$ 118.00",
+            "月度护持": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794767452594,
@@ -312161,6 +312338,25 @@
       "服裝組合 · 傳奇盛宴": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00",
+            "服裝組合 · 月與星": "HK$ 22.00",
+            "服裝組合 · 傳奇盛宴": "HK$ 32.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "付費角色・薩爾古爾": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794547025179,
@@ -315952,7 +316148,7 @@
     ]
   },
   "6827445474": {
-    "name": "FoldTick",
+    "name": "FoldTick: Duo Fold Counter",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
@@ -316203,6 +316399,147 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "name": "誰偷吃了蛋撻？",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "name": "Pocket Mac Lab",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834208556": {
+    "name": "Sorapuff: 飛行恐懼安心助手",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Sorapuff Pro": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Sorapuff Pro": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Sorapuff Pro": "HK$ 88.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6816097524": {
+    "name": "Comic Weather: 搞笑天氣預報",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "7 天免費試用": "HK$ 0.00",
+      "Comic Weather Full": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "7 天免費試用": "HK$ 0.00",
+      "Comic Weather Full": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7 天免費試用": "HK$ 0.00",
+            "Comic Weather Full": "HK$ 38.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6792524904": {
+    "name": "ScreenCommand",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822285409": {
+    "name": "Skywall：多螢幕直播電視",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Skywall Full": "HK$ 48.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Skywall Full": "HK$ 48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Skywall Full": "HK$ 48.00"
+          }
         }
       ]
     ]

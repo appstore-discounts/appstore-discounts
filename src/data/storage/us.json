@@ -37402,6 +37402,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791838643666,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -65616,14 +65624,27 @@
       "Gallery of Heroes": "$2.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "A Price Paid in Blood": "$2.99",
       "A Voice in the Dark": "$2.99",
       "In Defense of the Wild": "$2.99",
       "Gallery of Heroes": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "$2.99",
+            "A Voice in the Dark": "$2.99",
+            "In Defense of the Wild": "$2.99",
+            "Gallery of Heroes": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,
@@ -66128,6 +66149,25 @@
       "Toyota 2018 Enhanced": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794825673547,
@@ -94268,6 +94308,34 @@
       ]
     ]
   },
+  "951627022": {
+    "name": "Photo Scan Plus",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Photomyne account": "$19.99",
+      "Photomyne membership": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Photomyne account": "$19.99",
+      "Photomyne membership": "$29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Photomyne account": "$19.99",
+            "Photomyne membership": "$29.99"
+          }
+        }
+      ]
+    ]
+  },
   "952704587": {
     "name": "Analog Portland",
     "maxPriceInfo": {
@@ -99373,6 +99441,20 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "月度会员": "$1.99",
+            "生辰-年度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "生辰-季度会员": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794290710109,
           "price": 0,
           "formattedPrice": "Free",
@@ -102658,6 +102740,20 @@
       "650 Gems": "$40.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "120 Gems": "$7.99",
+            "50 Gems": "$3.99",
+            "250 Gems": "$15.99",
+            "650 Gems": "$40.99",
+            "1400 Gems": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793874237037,
@@ -170819,6 +170915,19 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$5.99",
+            "Ragnarök DLC": "$5.99",
+            "Atlantis DLC": "$5.99",
+            "Eternal Embers DLC": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793874237037,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -173954,14 +174063,27 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "Pro Lifetime": "$3.99"
+      "Pro Lifetime": "$3.99",
+      "Pro 14-Day Pass": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro Lifetime": "$3.99"
+      "Pro Lifetime": "$3.99",
+      "Pro 14-Day Pass": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro 14-Day Pass": "$0.99",
+            "Pro Lifetime": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793683824235,
@@ -191468,6 +191590,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793874237037,
@@ -210537,10 +210667,18 @@
       "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -211715,6 +211853,14 @@
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793874237037,
@@ -217757,6 +217903,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793874237037,
@@ -243541,6 +243695,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -252766,6 +252928,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -255838,6 +256008,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 4.49,
+          "formattedPrice": "$4.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794494512321,
@@ -282644,6 +282822,25 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Monthly Card": "$4.99",
+            "Professional Training": "$14.99",
+            "680 Gold": "$9.99",
+            "Special Training": "$9.99",
+            "60 Gold": "$0.99",
+            "1980 Gold": "$29.99",
+            "6480 Gold": "$99.99",
+            "980 Gold": "$14.99",
+            "300 Gold": "$4.99",
+            "1280 Gold": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789010266489,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -285151,6 +285348,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "Christmas night": "$1.79",
+            "Wacky Halloween Set": "$2.39",
+            "2025春いちごスキン": "$0.49",
+            "Starry Night": "$1.79",
+            "Night Chill": "$1.79",
+            "ネオンシティ": "$1.79",
+            "Crimson Walk": "$1.79",
+            "Fireworks display": "$1.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794790008854,
@@ -305780,6 +305996,19 @@
       "Advanced Pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Elite Pack": "$4.99",
+            "Standard Pack": "$0.99",
+            "Premium Pack": "$3.99",
+            "Advanced Pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794825673547,
@@ -329491,10 +329720,18 @@
       "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790134270308,
@@ -330981,7 +331218,11 @@
       "Dumb Phone Plus Yearly": "$59.99",
       "Dumb Phone Plus Lifetime": "$79.99",
       "Dumb Phone Plus Monthly": "$7.99",
-      "Dumb Phone Plus Weekly": "$1.99"
+      "Dumb Phone Plus Weekly": "$1.99",
+      "Dumb Phone Pro Weekly": "$1.99",
+      "Dumb Phone Pro Yearly": "$14.99",
+      "Dumb Phone Pro Monthly": "$4.99",
+      "Dumb Phone Pro Lifetime": "$79.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -330989,9 +331230,26 @@
       "Dumb Phone Plus Yearly": "$11.99",
       "Dumb Phone Plus Lifetime": "$29.99",
       "Dumb Phone Plus Monthly": "$3.99",
-      "Dumb Phone Plus Weekly": "$1.99"
+      "Dumb Phone Plus Weekly": "$1.99",
+      "Dumb Phone Pro Weekly": "$1.99",
+      "Dumb Phone Pro Yearly": "$14.99",
+      "Dumb Phone Pro Monthly": "$4.99",
+      "Dumb Phone Pro Lifetime": "$79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Pro Weekly": "$1.99",
+            "Dumb Phone Pro Yearly": "$14.99",
+            "Dumb Phone Pro Monthly": "$4.99",
+            "Dumb Phone Pro Lifetime": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792985127398,
@@ -344412,6 +344670,18 @@
       "DLC - Land of the Eclipse": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "DLC - The Tournament": "$1.99",
+            "DLC - The Ember Saga": "$1.99",
+            "DLC - Land of the Eclipse": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -364595,7 +364865,8 @@
       "50 Diamonds": "$1.99",
       "16 Base Heroes Unlock Pack": "$39.99",
       "700 Diamonds": "$19.99",
-      "30-Day Supply Pass": "$5.99"
+      "30-Day Supply Pass": "$5.99",
+      "DLC 1": "$16.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -364606,9 +364877,27 @@
       "50 Diamonds": "$1.99",
       "16 Base Heroes Unlock Pack": "$39.99",
       "700 Diamonds": "$19.99",
-      "30-Day Supply Pass": "$5.99"
+      "30-Day Supply Pass": "$5.99",
+      "DLC 1": "$16.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Starter Pack 1": "$1.99",
+            "120 Diamonds": "$3.99",
+            "DLC 1": "$16.99",
+            "30-Day Supply Pass": "$5.99",
+            "4000 Diamonds": "$99.99",
+            "50 Diamonds": "$1.99",
+            "16 Base Heroes Unlock Pack": "$39.99",
+            "700 Diamonds": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793960748222,
@@ -365047,7 +365336,7 @@
       "formattedPrice": "$2.99",
       "终身护持": "$19.99",
       "年度护持": "$19.99",
-      "月度护持": "$0.99",
+      "月度护持": "$1.99",
       "3-day Trial": "$0.00"
     },
     "minPriceInfo": {
@@ -365059,6 +365348,19 @@
       "3-day Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-day Trial": "$0.00",
+            "终身护持": "$19.99",
+            "年度护持": "$14.99",
+            "月度护持": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794825673547,
@@ -365985,7 +366287,8 @@
       "Pack · Gala of Legends": "$3.99",
       "Rune Engineer": "$0.49",
       "Hero · Yarna": "$0.99",
-      "Hero · Unheo": "$0.99"
+      "Hero · Unheo": "$0.99",
+      "Bundle · Ashscale Hunt": "$6.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -366017,9 +366320,29 @@
       "Pack · Gala of Legends": "$3.99",
       "Rune Engineer": "$0.49",
       "Hero · Yarna": "$0.99",
-      "Hero · Unheo": "$0.99"
+      "Hero · Unheo": "$0.99",
+      "Bundle · Ashscale Hunt": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bundle · Ashscale Hunt": "$6.99",
+            "Hero · Yarna": "$0.99",
+            "Hero · Unheo": "$0.99",
+            "Pack · Knights' Gala": "$2.99",
+            "Pack · Forest and Forge": "$2.99",
+            "Pack · Snowflower Garden": "$2.99",
+            "Pack · Eastern Night": "$2.99",
+            "Pack · Moon and Stars": "$2.99",
+            "Autumn Hunt Queen": "$0.49",
+            "Silver Gladiator": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794462892032,
@@ -366285,6 +366608,25 @@
       "Tower Forger": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Gems Handful": "$2.99",
+            "Hero Ignus": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Wildcat": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794865224584,
@@ -368419,7 +368761,7 @@
     ]
   },
   "6817821959": {
-    "name": "cafedays",
+    "name": "Cafe Days",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
@@ -369436,7 +369778,7 @@
     ]
   },
   "6827445474": {
-    "name": "FoldTick",
+    "name": "FoldTick: Duo Fold Counter",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
@@ -369687,6 +370029,147 @@
           "price": 0.99,
           "formattedPrice": "$0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "name": "Who Ate the Egg Tart?",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "name": "Pocket Mac Lab",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834208556": {
+    "name": "Sorapuff: Fear of Flying Help",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Sorapuff Pro": "$10.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Sorapuff Pro": "$10.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Sorapuff Pro": "$10.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6816097524": {
+    "name": "Comic Weather: Funny Forecast",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Free 7-day Trial": "$0.00",
+      "Comic Weather Full": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Free 7-day Trial": "$0.00",
+      "Comic Weather Full": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Free 7-day Trial": "$0.00",
+            "Comic Weather Full": "$4.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6792524904": {
+    "name": "ScreenCommand",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822285409": {
+    "name": "Skywall: Multiview Live TV",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Skywall Full": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Skywall Full": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Skywall Full": "$5.99"
+          }
         }
       ]
     ]

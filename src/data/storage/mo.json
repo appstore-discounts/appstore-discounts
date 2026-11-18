@@ -27006,6 +27006,14 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791838643666,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -48359,14 +48367,27 @@
       "In Defense of the Wild": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "A Price Paid in Blood": "USD 2.99",
       "A Voice in the Dark": "USD 2.99",
       "Gallery of Heroes": "USD 2.99",
       "In Defense of the Wild": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "USD 2.99",
+            "A Voice in the Dark": "USD 2.99",
+            "In Defense of the Wild": "USD 2.99",
+            "Gallery of Heroes": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792337187582,
@@ -65429,6 +65450,46 @@
       ]
     ]
   },
+  "951627022": {
+    "name": "照片掃描儀加強版",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Photomyne account": "USD 47.99",
+      "Photomyne 帳號": "USD 11.99",
+      "Photomyne membership": "USD 19.99",
+      "Restore photo credits": "USD 14.99",
+      "Legacy Transfer": "USD 29.99",
+      "Magic motion credits": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Photomyne account": "USD 47.99",
+      "Photomyne 帳號": "USD 11.99",
+      "Photomyne membership": "USD 19.99",
+      "Restore photo credits": "USD 14.99",
+      "Legacy Transfer": "USD 29.99",
+      "Magic motion credits": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Photomyne account": "USD 47.99",
+            "Photomyne 帳號": "USD 11.99",
+            "Photomyne membership": "USD 19.99",
+            "Restore photo credits": "USD 14.99",
+            "Legacy Transfer": "USD 29.99",
+            "Magic motion credits": "USD 9.99"
+          }
+        }
+      ]
+    ]
+  },
   "952625011": {
     "name": "每日精選-國家地理每日精選",
     "maxPriceInfo": {
@@ -71866,6 +71927,20 @@
       "50 顆寶石": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "1400 顆寶石": "USD 79.99",
+            "650 顆寶石": "USD 40.99",
+            "250 顆寶石": "USD 15.99",
+            "120 顆寶石": "USD 7.99",
+            "50 顆寶石": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -116506,6 +116581,19 @@
     "history": [
       [
         {
+          "timestamp": 1794977944693,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "USD 3.99",
+            "Ragnarök DLC": "USD 3.99",
+            "Atlantis DLC": "USD 3.99",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793820298773,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -119985,18 +120073,31 @@
     ]
   },
   "1441522083": {
-    "name": "LED跑馬燈・手持彈幕・應援燈牌",
+    "name": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29",
-      "Pro 終身版": "USD 3.99"
+      "Pro 終身版": "USD 3.99",
+      "Pro 14 天通行證": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro 終身版": "USD 3.99"
+      "Pro 終身版": "USD 3.99",
+      "Pro 14 天通行證": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro 14 天通行證": "USD 0.99",
+            "Pro 終身版": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793654775026,
@@ -128140,6 +128241,14 @@
       "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -141841,10 +141950,18 @@
       "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -143259,6 +143376,14 @@
       "formattedPrice": "USD 0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -146493,6 +146618,14 @@
       "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793820298773,
@@ -194968,7 +195101,11 @@
       "Dumb Phone Plus Yearly": "USD 59.99",
       "Dumb Phone Plus Lifetime": "USD 79.99",
       "Dumb Phone Plus Monthly": "USD 7.99",
-      "Dumb Phone Plus Weekly": "USD 1.99"
+      "Dumb Phone Plus Weekly": "USD 1.99",
+      "Dumb Phone Pro Weekly": "USD 1.99",
+      "Dumb Phone Pro Yearly": "USD 14.99",
+      "Dumb Phone Pro Lifetime": "USD 79.99",
+      "Dumb Phone Pro Monthly": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -194976,9 +195113,26 @@
       "Dumb Phone Plus Yearly": "USD 7.59",
       "Dumb Phone Plus Lifetime": "USD 29.99",
       "Dumb Phone Plus Monthly": "USD 3.19",
-      "Dumb Phone Plus Weekly": "USD 1.99"
+      "Dumb Phone Plus Weekly": "USD 1.99",
+      "Dumb Phone Pro Weekly": "USD 1.99",
+      "Dumb Phone Pro Yearly": "USD 14.99",
+      "Dumb Phone Pro Lifetime": "USD 79.99",
+      "Dumb Phone Pro Monthly": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Pro Weekly": "USD 1.99",
+            "Dumb Phone Pro Yearly": "USD 14.99",
+            "Dumb Phone Pro Lifetime": "USD 79.99",
+            "Dumb Phone Pro Monthly": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792942623004,
@@ -217552,7 +217706,8 @@
       "50 Diamonds": "USD 1.99",
       "16 Base Heroes Unlock Pack": "USD 39.99",
       "700 Diamonds": "USD 19.99",
-      "30天補給卡": "USD 5.99"
+      "30天補給卡": "USD 5.99",
+      "DLC 1": "USD 16.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -217563,9 +217718,27 @@
       "50 Diamonds": "USD 1.99",
       "16 Base Heroes Unlock Pack": "USD 39.99",
       "700 Diamonds": "USD 19.99",
-      "30天補給卡": "USD 5.99"
+      "30天補給卡": "USD 5.99",
+      "DLC 1": "USD 16.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "DLC 1": "USD 16.99",
+            "30天補給卡": "USD 5.99",
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793960748222,
@@ -218000,7 +218173,7 @@
       "formattedPrice": "USD 2.99",
       "终身护持": "USD 14.99",
       "年度护持": "USD 19.99",
-      "月度护持": "USD 0.99",
+      "月度护持": "USD 1.99",
       "3-day Trial": "USD 0.00"
     },
     "minPriceInfo": {
@@ -218012,6 +218185,19 @@
       "3-day Trial": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "USD 0.00",
+            "终身护持": "USD 14.99",
+            "年度护持": "USD 14.99",
+            "月度护持": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794767452594,
@@ -218902,7 +219088,8 @@
       "服裝組合 · 傳奇盛宴": "USD 3.99",
       "符文技師": "USD 0.49",
       "付費角色・雅爾娜": "USD 0.99",
-      "付費角色・雲虛": "USD 0.99"
+      "付費角色・雲虛": "USD 0.99",
+      "組合・灰鱗追獵隊": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -218934,9 +219121,29 @@
       "服裝組合 · 傳奇盛宴": "USD 3.99",
       "符文技師": "USD 0.49",
       "付費角色・雅爾娜": "USD 0.99",
-      "付費角色・雲虛": "USD 0.99"
+      "付費角色・雲虛": "USD 0.99",
+      "組合・灰鱗追獵隊": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "組合・灰鱗追獵隊": "USD 6.99",
+            "付費角色・雅爾娜": "USD 0.99",
+            "付費角色・雲虛": "USD 0.99",
+            "服裝組合 · 騎士團盛宴": "USD 2.99",
+            "服裝組合 · 森林與工坊": "USD 2.99",
+            "服裝組合 · 雪花庭園": "USD 2.99",
+            "服裝組合 · 東方之夜": "USD 2.99",
+            "服裝組合 · 月與星": "USD 2.99",
+            "秋獵女王": "USD 0.49",
+            "白銀鬥士": "USD 0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794462892032,
@@ -221682,7 +221889,7 @@
     ]
   },
   "6827445474": {
-    "name": "FoldTick",
+    "name": "FoldTick: Duo Fold Counter",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
@@ -221941,6 +222148,147 @@
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "name": "誰偷吃了蛋撻？",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "name": "Pocket Mac Lab",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834208556": {
+    "name": "Sorapuff: 飛行恐懼安心助手",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Sorapuff Pro": "USD 10.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Sorapuff Pro": "USD 10.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Sorapuff Pro": "USD 10.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6816097524": {
+    "name": "Comic Weather: 搞笑天氣預報",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "7 天免費試用": "USD 0.00",
+      "Comic Weather Full": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "7 天免費試用": "USD 0.00",
+      "Comic Weather Full": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7 天免費試用": "USD 0.00",
+            "Comic Weather Full": "USD 4.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6792524904": {
+    "name": "ScreenCommand",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822285409": {
+    "name": "Skywall：多螢幕直播電視",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Skywall Full": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Skywall Full": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794977944693,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Skywall Full": "USD 5.99"
+          }
         }
       ]
     ]
