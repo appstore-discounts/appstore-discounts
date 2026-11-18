@@ -53828,7 +53828,7 @@
     ]
   },
   "729067952": {
-    "name": "Purgatory Prayers",
+    "name": "Prayers for the Holy Souls",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
@@ -115012,7 +115012,7 @@
     ]
   },
   "1391571907": {
-    "name": "Fine修圖",
+    "name": "Fine修圖 - 照片與視頻編輯",
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "USD 6.99",
@@ -117040,6 +117040,14 @@
       "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 1.59,
+          "formattedPrice": "USD 1.59",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -132497,6 +132505,14 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -146405,6 +146421,18 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {
+            "Atlantis for free download": "USD 0.00",
+            "Ragnarök for free download": "USD 0.00",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792505275724,
           "price": 17.99,
           "formattedPrice": "USD 17.99",
@@ -147059,6 +147087,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -162442,8 +162478,8 @@
   "1601446687": {
     "name": "Streets of Rage 4",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99",
+      "price": 8.99,
+      "formattedPrice": "USD 8.99",
       "Mr. X Nightmare DLC": "USD 2.99"
     },
     "minPriceInfo": {
@@ -162452,6 +162488,16 @@
       "Mr. X Nightmare DLC": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794351164358,
@@ -203839,13 +203885,31 @@
     "name": "Moment Pro Camera II",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "formattedPrice": "USD 9.99",
+      "Lifetime (Unlocked)": "USD 0.00",
+      "Monthly (Rent to Own)": "USD 2.99",
+      "Lifetime": "USD 24.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Lifetime (Unlocked)": "USD 0.00",
+      "Monthly (Rent to Own)": "USD 2.99",
+      "Lifetime": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime (Unlocked)": "USD 0.00",
+            "Monthly (Rent to Own)": "USD 2.99",
+            "Lifetime": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782829258984,
@@ -217405,7 +217469,7 @@
     ]
   },
   "6797458927": {
-    "name": "塔台",
+    "name": "塔台 Tower - 訂閱轉換與規則設定",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
@@ -221349,14 +221413,22 @@
   "6793052963": {
     "name": "計算機鍵盤：輸入法計算機，讓你邊打字邊計算",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -221678,14 +221750,22 @@
   "6762192063": {
     "name": "Absolum",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "price": 11.99,
+      "formattedPrice": "USD 11.99"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793907156005,
@@ -222297,6 +222377,27 @@
           "inAppPurchases": {
             "Skywall Full": "USD 5.99"
           }
+        }
+      ]
+    ]
+  },
+  "6832769102": {
+    "name": "Survival Days",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
         }
       ]
     ]

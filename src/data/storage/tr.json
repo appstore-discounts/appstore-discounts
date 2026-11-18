@@ -13564,11 +13564,21 @@
       "ZRTP For Outgoing Calls": "₺1.299,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "ZRTP For Outgoing Calls": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763776605254,
@@ -70435,7 +70445,7 @@
     ]
   },
   "729067952": {
-    "name": "Purgatory Prayers",
+    "name": "Prayers for the Holy Souls",
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
@@ -148647,7 +148657,7 @@
     ]
   },
   "1391571907": {
-    "name": "Fine - Photo Editor",
+    "name": "Fine - Photo & Video Editor",
     "maxPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99",
@@ -164361,6 +164371,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -285348,13 +285366,31 @@
     "name": "Moment Pro Camera II",
     "maxPriceInfo": {
       "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "formattedPrice": "₺499,99",
+      "Lifetime (Unlocked)": "₺0,00",
+      "Monthly (Rent to Own)": "₺149,99",
+      "Lifetime": "₺1.299,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime (Unlocked)": "₺0,00",
+      "Monthly (Rent to Own)": "₺149,99",
+      "Lifetime": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime (Unlocked)": "₺0,00",
+            "Monthly (Rent to Own)": "₺149,99",
+            "Lifetime": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782857708407,
@@ -297042,7 +297078,7 @@
     ]
   },
   "6756866511": {
-    "name": "IIWII",
+    "name": "IIWII: Film Simulation Camera",
     "maxPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
@@ -300547,7 +300583,7 @@
     ]
   },
   "6797458927": {
-    "name": "塔台",
+    "name": "Tower - Config Converter",
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
@@ -302764,7 +302800,8 @@
       "Spell Shop": "₺149,99",
       "TOWERS OFFER 09": "₺399,99",
       "Tower Owl": "₺249,99",
-      "Hero Osnir": "₺249,99"
+      "Hero Osnir": "₺249,99",
+      "Hero Dalia": "₺249,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -302807,10 +302844,28 @@
       "Spell Shop": "₺149,99",
       "TOWERS OFFER 09": "₺399,99",
       "Tower Owl": "₺249,99",
-      "Hero Osnir": "₺249,99"
+      "Hero Osnir": "₺249,99",
+      "Hero Dalia": "₺249,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1795032051232,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Owl": "₺249,99",
+            "Hero Osnir": "₺249,99",
+            "Hero Dalia": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "Gems Wagon": "₺2.499,99",
+            "Tower Alchemist": "₺149,99",
+            "Gems Chest": "₺999,99",
+            "Hero Drakkan": "₺399,99"
+          }
+        },
         {
           "timestamp": 1795000306282,
           "price": 399.99,
@@ -304498,6 +304553,12 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1794977944693,
           "price": 2.99,
           "formattedPrice": "₺2,99",
@@ -305926,14 +305987,22 @@
   "6793052963": {
     "name": "SumKey: Calculator Keyboard",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -306933,6 +307002,27 @@
           "inAppPurchases": {
             "Skywall Full": "₺99,99"
           }
+        }
+      ]
+    ]
+  },
+  "6832769102": {
+    "name": "Survival Days",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
         }
       ]
     ]

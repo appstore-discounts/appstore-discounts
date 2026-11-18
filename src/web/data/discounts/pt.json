@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 378503081,
+    "region": "pt",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id378503081",
+    "trackName": "Groundwire: VoIP SIP Softphone",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1466120520,
+    "region": "pt",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1466120520",
+    "trackName": "iVerify Basic",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6748837351,
+    "region": "pt",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 9,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6748837351",
+    "trackName": "Moment Pro Camera II",
+    "firstRecordedAt": 1763124830350
+  },
+  {
     "trackId": 479516143,
     "region": "pt",
     "timestamp": 1794977944693,
@@ -3510,7 +3570,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1391571907",
-    "trackName": "Fine - Photo Editor",
+    "trackName": "Fine: Editor de Fotos e Vídeos",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -13606,7 +13666,7 @@
     "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6756866511",
-    "trackName": "IIWII",
+    "trackName": "IIWII: Câmera analógica",
     "firstRecordedAt": 1779184723397
   },
   {
@@ -13948,7 +14008,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "6,99 €",
-        "range": "[6,99 € ~ 9,99 €]"
+        "range": "[Gratuito ~ 9,99 €]"
       }
     ],
     "price": 6.99,
@@ -32705,7 +32765,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "5,99 €",
-        "range": "[5,99 € ~ 9,99 €]"
+        "range": "[1,99 € ~ 9,99 €]"
       }
     ],
     "price": 5.99,

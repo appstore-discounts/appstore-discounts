@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1435461053,
+    "region": "mo",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.49",
+        "to": "USD 1.59",
+        "range": "[USD 0.90 ~ USD 7.49]"
+      }
+    ],
+    "price": 1.59,
+    "formattedPrice": "USD 1.59",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1435461053",
+    "trackName": "This Is the Police",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 1466120520,
+    "region": "mo",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1466120520",
+    "trackName": "iVerify Basic",
+    "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 1537060891,
+    "region": "mo",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 17.99",
+        "to": "USD 7.49",
+        "range": "[USD 6.29 ~ USD 17.99]"
+      }
+    ],
+    "price": 7.49,
+    "formattedPrice": "USD 7.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 1538124245,
+    "region": "mo",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 6748837351,
+    "region": "mo",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 5.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6748837351",
+    "trackName": "Moment Pro Camera II",
+    "firstRecordedAt": 1763124830350
+  },
+  {
     "trackId": 479665601,
     "region": "mo",
     "timestamp": 1794977944693,
@@ -1417,7 +1517,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 0.99,
@@ -3327,7 +3427,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1391571907",
-    "trackName": "Fine修圖",
+    "trackName": "Fine修圖 - 照片與視頻編輯",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -6455,7 +6555,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -13474,7 +13574,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -18409,7 +18509,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -23858,7 +23958,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -27871,7 +27971,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -34138,7 +34238,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -37310,7 +37410,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -40323,7 +40423,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -43342,7 +43442,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -46845,7 +46945,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -49086,7 +49186,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -50764,7 +50864,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 1.99,
@@ -53178,7 +53278,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 4.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 4.99,
@@ -57414,7 +57514,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 4.99",
-        "range": "[USD 0.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 8.99]"
       }
     ],
     "price": 4.99,
@@ -57583,7 +57683,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1391571907",
-    "trackName": "Fine修圖",
+    "trackName": "Fine修圖 - 照片與視頻編輯",
     "firstRecordedAt": 1722784406759
   },
   {

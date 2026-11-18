@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2443` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2444` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2444|6832769102|自动|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
 |2443|951627022|自动|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
 |2442|6833608280|自动|FarView 远迹|❌|❌|❌|❌|❌|❌|
 |2441|6833854183|自动|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
@@ -250,7 +251,7 @@
 |2203|6797726611|自动|KeyCam|KeyCam|KeyCam|KeyCam|KeyCam|KeyCam|KeyCam|
 |2202|811397653|自动|❌|你必須造一艘船|你必須造一艘船|你必須造一艘船|You Must Build A Boat|You Must Build A Boat|Você Deve Construir Um Barco|
 |2201|1601016809|自动|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|
-|2200|6797458927|自动|❌|塔台|塔台|塔台|塔台|塔台|塔台|
+|2200|6797458927|自动|❌|塔台|塔台 Tower - 訂閱轉換與規則設定|塔台 Tower - 訂閱轉換與規則設定|Tower - Config Converter|Tower - Config Converter|塔台 Tower - 订阅转换与规则配置|
 |2199|1445813795|自动|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Lunar Eclipse Guide: Aug 27–28|Lunar Eclipse Guide: 28 August|Eclipse Guide: Lua de sangue|
 |2198|6449100612|自动|❌|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|
 |2197|1599230728|自动|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|
@@ -454,7 +455,7 @@
 |1999|1043877923|自动|❌|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|Shoes Clothing Store Master|Shoes Clothing Store Master|Shoes Clothing Store Master|
 |1998|982717032|自动|生意记账DailySales - 进销存管理系统多仓库盘点|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|
 |1997|6745770352|自动|声波防晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|声波防晕车|
-|1996|6756866511|自动|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|
+|1996|6756866511|自动|IIWII|IIWII|IIWII|IIWII: Analogkamera & Looks|IIWII: Film Simulation Camera|IIWII: Film Simulation Camera|IIWII: Câmera analógica|
 |1995|6748056918|自动|❌|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|
 |1994|6767835460|自动|❌|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|
 |1993|880614385|自动|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|
@@ -1445,7 +1446,7 @@
 |1008|1419928720|自动|❌|起點小說（專業版）|起點小說（專業版）|❌|❌|❌|❌|
 |1007|892542000|自动|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|
 |1006|728401013|自动|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|
-|1005|729067952|自动|Purgatory Prayers|Purgatory Prayers|Purgatory Prayers|Purgatory Prayers|Purgatory Prayers|Purgatory Prayers|Purgatory Prayers|
+|1005|729067952|自动|Prayers for the Holy Souls|Prayers for the Holy Souls|Prayers for the Holy Souls|Prayers for the Holy Souls|Prayers for the Holy Souls|Prayers for the Holy Souls|Prayers for the Holy Souls|
 |1004|950012304|自动|Cellular Info|Cellular Info|Cellular Info|Cellular Info|Cellular Info|Cellular Info|Cellular Info|
 |1003|1448241295|自动|小管家 - 垃圾短信拦截清理大师|小管家 - 短信拦截手机助手|小管家 - 短信拦截手机助手|小管家 - 短信拦截手机助手|Armor - SMS Spam Filter|Armor - Junk Messages Filter|❌|
 |1002|378503081|自动|❌|❌|❌|Groundwire: VoIP SIP Softphone|Groundwire: VoIP SIP Softphone|Groundwire: VoIP SIP Softphone|Groundwire: VoIP SIP Softphone|
@@ -2331,7 +2332,7 @@
 |122|931188326|手动|DayCost|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|
 |121|6449930220|手动|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari - Watch Browser|Wafari - Watch Browser|Wafari  手表浏览器|
 |120| ~~818394449~~ |手动| ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~Timeline - World history~~ | ~~Timeline - World history~~ | ~~❌~~ |
-|119|1391571907|手动|Fine修图|Fine修圖|Fine修圖|Fine修圖|Fine - Photo Editor|Fine - Photo Editor|Fine - Photo Editor|
+|119|1391571907|手动|Fine修图|Fine修圖|Fine修圖 - 照片與視頻編輯|Fine修圖 - 照片與視頻編輯|Fine - Photo & Video Editor|Fine - Photo & Video Editor|Fine: Editor de Fotos e Vídeos|
 |118|6499125531|手动|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|
 |117| ~~1485101937~~ |手动| ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~❌~~ |
 |116|703265535|手动|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|FocusDots · Focus What Matters|

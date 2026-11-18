@@ -15323,11 +15323,21 @@
       "ZRTP For Outgoing Calls": "$790.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00",
+      "price": 60,
+      "formattedPrice": "$60.00",
       "ZRTP For Outgoing Calls": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763742909378,
@@ -69421,7 +69431,7 @@
   },
   "729067952": {
     "trackId": 729067952,
-    "trackName": "Purgatory Prayers",
+    "trackName": "Prayers for the Holy Souls",
     "region": "tw",
     "maxPriceInfo": {
       "price": 60,
@@ -155184,7 +155194,7 @@
   },
   "1391571907": {
     "trackId": 1391571907,
-    "trackName": "Fine修圖",
+    "trackName": "Fine修圖 - 照片與視頻編輯",
     "region": "tw",
     "maxPriceInfo": {
       "price": 220,
@@ -157099,6 +157109,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 55,
+          "formattedPrice": "$55.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -180922,6 +180940,14 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -202003,6 +202029,18 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 270,
+          "formattedPrice": "$270.00",
+          "inAppPurchases": {
+            "Ragnarök for free download": "$0.00",
+            "Atlantis for free download": "$0.00",
+            "Eternal Embers DLC": "$170.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792505275724,
           "price": 630,
           "formattedPrice": "$630.00",
@@ -202591,6 +202629,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -221635,6 +221681,16 @@
       "Mr. X Nightmare DLC": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794329315472,
@@ -312276,13 +312332,31 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 320,
-      "formattedPrice": "$320.00"
+      "formattedPrice": "$320.00",
+      "Lifetime (Unlocked)": "$0.00",
+      "Monthly (Rent to Own)": "$90.00",
+      "Lifetime": "$790.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Lifetime (Unlocked)": "$0.00",
+      "Monthly (Rent to Own)": "$90.00",
+      "Lifetime": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime (Unlocked)": "$0.00",
+            "Monthly (Rent to Own)": "$90.00",
+            "Lifetime": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782829258984,
@@ -324415,7 +324489,7 @@
   },
   "6756866511": {
     "trackId": 6756866511,
-    "trackName": "IIWII",
+    "trackName": "IIWII: Analogkamera & Looks",
     "region": "tw",
     "maxPriceInfo": {
       "price": 90,
@@ -328105,7 +328179,7 @@
   },
   "6797458927": {
     "trackId": 6797458927,
-    "trackName": "塔台",
+    "trackName": "塔台 Tower - 訂閱轉換與規則設定",
     "region": "tw",
     "maxPriceInfo": {
       "price": 60,
@@ -329854,8 +329928,8 @@
       "付費角色・雲虛": "$30.00"
     },
     "minPriceInfo": {
-      "price": 49,
-      "formattedPrice": "$49.00",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "贊助第一階・贊助者": "$20.00",
       "付費角色・艾德瑞克": "$30.00",
       "贊助第三階・傭兵團恩人": "$220.00",
@@ -329878,6 +329952,25 @@
       "付費角色・雲虛": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "付費角色・墨蘭": "$30.00",
+            "付費角色・艾德瑞克": "$30.00",
+            "付費角色・雅爾娜": "$30.00",
+            "組合・光之騎士團": "$320.00",
+            "付費角色・菲涅": "$30.00",
+            "付費角色・伊蕾娜": "$30.00",
+            "付費角色・艾洛溫": "$30.00",
+            "付費角色・薩爾古爾": "$30.00",
+            "付費角色・蘿潔爾": "$30.00",
+            "付費角色・雲虛": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794578326520,
@@ -330299,7 +330392,8 @@
       "英雄達莉雅": "$150.00",
       "英雄奧斯尼爾": "$150.00",
       "塔樓貓頭鷹騎士": "$150.00",
-      "法術變羊術": "$150.00"
+      "法術變羊術": "$150.00",
+      "混合 禮包 11": "$320.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -330341,9 +330435,29 @@
       "英雄達莉雅": "$150.00",
       "英雄奧斯尼爾": "$150.00",
       "塔樓貓頭鷹騎士": "$150.00",
-      "法術變羊術": "$150.00"
+      "法術變羊術": "$150.00",
+      "混合 禮包 11": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄達莉雅": "$150.00",
+            "塔樓貓頭鷹騎士": "$150.00",
+            "英雄奧斯尼爾": "$150.00",
+            "全英雄禮包": "$790.00",
+            "混合 禮包 11": "$320.00",
+            "全法術禮包": "$390.00",
+            "全塔禮包": "$690.00",
+            "法術變羊術": "$150.00",
+            "全塔禮包_B": "$490.00",
+            "英雄 德拉坎": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795000306282,
@@ -333327,14 +333441,22 @@
     "trackName": "計算機鍵盤：輸入法計算機，讓你邊打字邊計算",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -333680,14 +333802,22 @@
     "trackName": "Absolum",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 290,
-      "formattedPrice": "$290.00"
+      "price": 390,
+      "formattedPrice": "$390.00"
     },
     "minPriceInfo": {
       "price": 290,
       "formattedPrice": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793907156005,
@@ -334351,6 +334481,29 @@
           "inAppPurchases": {
             "Skywall Full": "$190.00"
           }
+        }
+      ]
+    ]
+  },
+  "6832769102": {
+    "trackId": 6832769102,
+    "trackName": "Survival Days",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
         }
       ]
     ]

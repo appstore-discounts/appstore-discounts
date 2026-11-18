@@ -19774,11 +19774,21 @@
       "ZRTP For Outgoing Calls": "$24.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 1.79,
+      "formattedPrice": "$1.79",
       "ZRTP For Outgoing Calls": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 1.79,
+          "formattedPrice": "$1.79",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763785756998,
@@ -62956,6 +62966,23 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Adults Only! Bundle": "$7.99"
+          }
+        },
+        {
           "timestamp": 1795000306282,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -66955,6 +66982,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795032051232,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99"
+          }
+        },
         {
           "timestamp": 1795000306282,
           "price": 9.99,
@@ -75970,7 +76014,7 @@
   },
   "729067952": {
     "trackId": 729067952,
-    "trackName": "Purgatory Prayers",
+    "trackName": "Prayers for the Holy Souls",
     "region": "us",
     "maxPriceInfo": {
       "price": 1.99,
@@ -96247,6 +96291,25 @@
       "12花币": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$0.99",
+            "金牛会员连续包月": "$0.99",
+            "短线宝连续包月": "$20.49",
+            "手机高级诊股连续包月": "$0.99",
+            "金牛会员月版": "$2.99",
+            "金牛会员尊享版连续包年": "$14.99",
+            "手机Level-2包年服务": "$12.99",
+            "手机超级Level-2连续包半年": "$6.49",
+            "手机超级Level2两年版": "$22.99",
+            "神奇电波连续包季": "$27.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794329315472,
@@ -171386,7 +171449,7 @@
   },
   "1391571907": {
     "trackId": 1391571907,
-    "trackName": "Fine - Photo Editor",
+    "trackName": "Fine - Photo & Video Editor",
     "region": "us",
     "maxPriceInfo": {
       "price": 6.99,
@@ -197293,6 +197356,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -349947,13 +350018,31 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "Lifetime (Unlocked)": "$0.00",
+      "Monthly (Rent to Own)": "$2.99",
+      "Lifetime": "$24.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime (Unlocked)": "$0.00",
+      "Monthly (Rent to Own)": "$2.99",
+      "Lifetime": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime (Unlocked)": "$0.00",
+            "Monthly (Rent to Own)": "$2.99",
+            "Lifetime": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782877922821,
@@ -365068,7 +365157,7 @@
   },
   "6756866511": {
     "trackId": 6756866511,
-    "trackName": "IIWII",
+    "trackName": "IIWII: Film Simulation Camera",
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,
@@ -368935,7 +369024,7 @@
   },
   "6797458927": {
     "trackId": 6797458927,
-    "trackName": "塔台",
+    "trackName": "Tower - Config Converter",
     "region": "us",
     "maxPriceInfo": {
       "price": 1.99,
@@ -371083,6 +371172,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795032051232,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Tower Owl": "$4.99",
+            "Hero Dalia": "$4.99",
+            "Hero Osnir": "$4.99",
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "Spell Sheepmorph": "$4.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99"
+          }
+        },
         {
           "timestamp": 1795000306282,
           "price": 6.99,
@@ -373876,14 +373982,22 @@
     "trackName": "SumKey: Calculator Keyboard",
     "region": "us",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
@@ -374867,6 +374981,29 @@
           "inAppPurchases": {
             "Skywall Full": "$5.99"
           }
+        }
+      ]
+    ]
+  },
+  "6832769102": {
+    "trackId": 6832769102,
+    "trackName": "Survival Days",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
         }
       ]
     ]

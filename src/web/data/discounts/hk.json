@@ -1,5 +1,125 @@
 [
   {
+    "trackId": 924438909,
+    "region": "hk",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "捐款",
+        "from": "HK$ 38.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 68,
+    "formattedPrice": "HK$ 68.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id924438909",
+    "trackName": "ProShot",
+    "firstRecordedAt": 1777050395660
+  },
+  {
+    "trackId": 1435461053,
+    "region": "hk",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 68.00",
+        "to": "HK$ 15.00",
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "HK$ 15.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1435461053",
+    "trackName": "This Is the Police",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 1466120520,
+    "region": "hk",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1466120520",
+    "trackName": "iVerify Basic",
+    "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 1537060891,
+    "region": "hk",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 158.00",
+        "to": "HK$ 68.00",
+        "range": "[HK$ 55.00 ~ HK$ 158.00]"
+      }
+    ],
+    "price": 68,
+    "formattedPrice": "HK$ 68.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 1538124245,
+    "region": "hk",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 6748837351,
+    "region": "hk",
+    "timestamp": 1795032051232,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 48.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 88.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6748837351",
+    "trackName": "Moment Pro Camera II",
+    "firstRecordedAt": 1763124830350
+  },
+  {
     "trackId": 479665601,
     "region": "hk",
     "timestamp": 1794977944693,
@@ -1417,7 +1537,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -6505,7 +6625,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -13576,7 +13696,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -18465,7 +18585,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -24006,7 +24126,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -27935,7 +28055,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -34276,7 +34396,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -37624,7 +37744,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -40742,7 +40862,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -44149,7 +44269,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -48179,7 +48299,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -50663,7 +50783,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -52305,7 +52425,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 18,
@@ -54732,7 +54852,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 38.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 38,
@@ -59127,7 +59247,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 38.00",
-        "range": "[HK$ 8.00 ~ HK$ 58.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 38,

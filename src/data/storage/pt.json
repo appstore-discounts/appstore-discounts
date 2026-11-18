@@ -7302,11 +7302,21 @@
       "ZRTP For Outgoing Calls": "29,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €",
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
       "ZRTP For Outgoing Calls": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763776605254,
@@ -33425,6 +33435,25 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {
+            "BEAST OF SHADOWS": "0,00 €",
+            "STANDARD ROCK KIT": "0,00 €",
+            "A MAJOR'S LOW BLOW": "0,00 €",
+            "A MAJOR'S HIGH BROW": "0,00 €",
+            "LOW RIDER": "0,99 €",
+            "HIGH FIVE": "0,99 €",
+            "DEEP BLUE": "0,00 €",
+            "BLADE OF JUSTICE": "0,99 €",
+            "FUSION FLIPPO": "0,99 €",
+            "BEEPING BOBBIE": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791966321053,
           "price": 12.99,
           "formattedPrice": "12,99 €",
@@ -35935,7 +35964,7 @@
     ]
   },
   "729067952": {
-    "name": "Purgatory Prayers",
+    "name": "Prayers for the Holy Souls",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
@@ -73969,7 +73998,7 @@
     ]
   },
   "1391571907": {
-    "name": "Fine - Photo Editor",
+    "name": "Fine: Editor de Fotos e Vídeos",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €",
@@ -80647,6 +80676,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -138539,13 +138576,31 @@
     "name": "Moment Pro Camera II",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Lifetime (Unlocked)": "0,00 €",
+      "Monthly (Rent to Own)": "2,99 €",
+      "Lifetime": "29,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Lifetime (Unlocked)": "0,00 €",
+      "Monthly (Rent to Own)": "2,99 €",
+      "Lifetime": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime (Unlocked)": "0,00 €",
+            "Monthly (Rent to Own)": "2,99 €",
+            "Lifetime": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782857708407,
@@ -148961,7 +149016,7 @@
     ]
   },
   "6756866511": {
-    "name": "IIWII",
+    "name": "IIWII: Câmera analógica",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
@@ -152452,7 +152507,7 @@
     ]
   },
   "6797458927": {
-    "name": "塔台",
+    "name": "塔台 Tower - 订阅转换与规则配置",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
@@ -157427,6 +157482,27 @@
           "inAppPurchases": {
             "Skywall Full": "6,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6832769102": {
+    "name": "Survival Days",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

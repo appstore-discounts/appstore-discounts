@@ -36641,7 +36641,7 @@
   },
   "729067952": {
     "trackId": 729067952,
-    "trackName": "Purgatory Prayers",
+    "trackName": "Prayers for the Holy Souls",
     "region": "cn",
     "maxPriceInfo": {
       "price": 15,
@@ -140211,6 +140211,14 @@
     "history": [
       [
         {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792441380481,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -228927,13 +228935,31 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 68,
-      "formattedPrice": "¥68.00"
+      "formattedPrice": "¥68.00",
+      "Lifetime (Unlocked)": "¥0.00",
+      "Monthly (Rent to Own)": "¥22.00",
+      "Lifetime": "¥168.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 0,
+      "formattedPrice": "免费",
+      "Lifetime (Unlocked)": "¥0.00",
+      "Monthly (Rent to Own)": "¥22.00",
+      "Lifetime": "¥168.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime (Unlocked)": "¥0.00",
+            "Monthly (Rent to Own)": "¥22.00",
+            "Lifetime": "¥168.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782829258984,
@@ -237290,10 +237316,18 @@
       "formattedPrice": "¥24.00"
     },
     "minPriceInfo": {
-      "price": 24,
-      "formattedPrice": "¥24.00"
+      "price": 18,
+      "formattedPrice": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773996763416,
@@ -244940,14 +244974,22 @@
     "trackName": "計算機鍵盤：輸入法計算機，讓你邊打字邊計算",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795032051232,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793265912561,
