@@ -106,17 +106,17 @@ importers:
         specifier: ^5.0.9
         version: 5.0.10
       rollup:
-        specifier: ^2.79.1
-        version: 2.79.2
+        specifier: ^2.80.0
+        version: 2.80.0
       rollup-plugin-prettier:
         specifier: ^3.1.0
-        version: 3.1.0(prettier@2.8.8)(rollup@2.79.2)
+        version: 3.1.0(prettier@2.8.8)(rollup@2.80.0)
       rollup-plugin-terser:
         specifier: ^7.0.2
-        version: 7.0.2(rollup@2.79.2)
+        version: 7.0.2(rollup@2.80.0)
       rollup-plugin-typescript2:
         specifier: ^0.34.1
-        version: 0.34.1(rollup@2.79.2)(typescript@4.9.5)
+        version: 0.34.1(rollup@2.80.0)(typescript@4.9.5)
       tslib:
         specifier: ^2.6.3
         version: 2.8.1
@@ -1033,6 +1033,7 @@ packages:
   basic-ftp@5.0.5:
     resolution: {integrity: sha512-4Bcg1P8xhUuqcii/S0Z9wiHIrQVPMermM1any+MX5GeGD7faD3/msQUDGLol9wOcz4/jbg/WJnGqoJF6LiBdtg==}
     engines: {node: '>=10.0.0'}
+    deprecated: Security vulnerability fixed in 5.2.0, please upgrade
 
   bignumber.js@9.3.1:
     resolution: {integrity: sha512-Ko0uX15oIUS7wJ3Rb30Fs6SkVbLmPBAKdlm7q9+ak9bbIeFf0MwuBsQV6z7+X768/cHsfg+WlysDWJcmthjsjQ==}
@@ -1769,21 +1770,23 @@ packages:
 
   glob@10.4.5:
     resolution: {integrity: sha512-7Bv8RF0k6xjo7d4A/PxYLbUCfb6c+Vpd2/mB2yRDlew7Jb5hEXiCD9ibfO7wpk8i4sevK6DFny9h7EYbM3/sHg==}
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
     hasBin: true
 
   glob@11.0.3:
     resolution: {integrity: sha512-2Nim7dha1KVkaiF4q6Dj+ngPPMdfvLJEOpZk/jKiUAkqKebpGAWQXAq9z1xu9HKu5lWfqw/FASuccEjyznjPaA==}
     engines: {node: 20 || >=22}
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
     hasBin: true
 
   glob@7.2.3:
     resolution: {integrity: sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==}
-    deprecated: Glob versions prior to v9 are no longer supported
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   glob@8.1.0:
     resolution: {integrity: sha512-r8hpEjiQEYlF2QU0df3dS+nxxSIreXQS1qRhMJM0Q5NDdR386C7jb7Hwwod8Fgiuex+k0GFjgft18yvxm5XoCQ==}
     engines: {node: '>=12'}
-    deprecated: Glob versions prior to v9 are no longer supported
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   global-dirs@0.1.1:
     resolution: {integrity: sha512-NknMLn7F2J7aflwFOlGdNIuCDpN3VGoSoB+aap3KABFWbHVn1TCgFC+np23J8W2BiZbjfEw3BFBycSMv1AFblg==}
@@ -2923,8 +2926,8 @@ packages:
       rollup: '>=1.26.3'
       typescript: '>=2.4.0'
 
-  rollup@2.79.2:
-    resolution: {integrity: sha512-fS6iqSPZDs3dr/y7Od6y5nha8dW1YnbgtsyotCVvoFGKbERG++CVRFv1meyGDE1SNItQA8BrnCw7ScdAhRJ3XQ==}
+  rollup@2.80.0:
+    resolution: {integrity: sha512-cIFJOD1DESzpjOBl763Kp1AH7UE/0fcdHe6rZXUdQ9c50uvgigvW97u3IcSeBwOkgqL/PXPBktBCh0KEu5L8XQ==}
     engines: {node: '>=10.0.0'}
     hasBin: true
 
@@ -6773,7 +6776,7 @@ snapshots:
       '@rolldown/binding-win32-ia32-msvc': 1.0.0-beta.9
       '@rolldown/binding-win32-x64-msvc': 1.0.0-beta.9
 
-  rollup-plugin-prettier@3.1.0(prettier@2.8.8)(rollup@2.79.2):
+  rollup-plugin-prettier@3.1.0(prettier@2.8.8)(rollup@2.80.0):
     dependencies:
       '@types/prettier': 2.7.3
       diff: 5.1.0
@@ -6783,27 +6786,27 @@ snapshots:
       lodash.omitby: 4.6.0
       magic-string: 0.30.3
       prettier: 2.8.8
-      rollup: 2.79.2
+      rollup: 2.80.0
 
-  rollup-plugin-terser@7.0.2(rollup@2.79.2):
+  rollup-plugin-terser@7.0.2(rollup@2.80.0):
     dependencies:
       '@babel/code-frame': 7.27.1
       jest-worker: 26.6.2
-      rollup: 2.79.2
+      rollup: 2.80.0
       serialize-javascript: 4.0.0
       terser: 5.44.1
 
-  rollup-plugin-typescript2@0.34.1(rollup@2.79.2)(typescript@4.9.5):
+  rollup-plugin-typescript2@0.34.1(rollup@2.80.0)(typescript@4.9.5):
     dependencies:
       '@rollup/pluginutils': 4.2.1
       find-cache-dir: 3.3.2
       fs-extra: 10.1.0
-      rollup: 2.79.2
+      rollup: 2.80.0
       semver: 7.7.3
       tslib: 2.8.1
       typescript: 4.9.5
 
-  rollup@2.79.2:
+  rollup@2.80.0:
     optionalDependencies:
       fsevents: 2.3.3
 
