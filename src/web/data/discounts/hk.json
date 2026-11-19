@@ -1,8 +1,28 @@
 [
   {
+    "trackId": 1437054263,
+    "region": "hk",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 2.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 2.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1437054263",
+    "trackName": "Gem - Money tracker",
+    "firstRecordedAt": 1772564572180
+  },
+  {
     "trackId": 6801980968,
     "region": "hk",
-    "timestamp": 1795054671703,
+    "timestamp": 1795086617057,
     "discounts": [
       {
         "type": "price",
@@ -18,6 +38,46 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6801980968",
     "trackName": "塔與傭兵團",
     "firstRecordedAt": 1790160655952
+  },
+  {
+    "trackId": 6812927976,
+    "region": "hk",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 32.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6812927976",
+    "trackName": "Enchanted Survival: 刷寶RPG",
+    "firstRecordedAt": 1791507612931
+  },
+  {
+    "trackId": 6814254443,
+    "region": "hk",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6814254443",
+    "trackName": "Pixel Miner：悠閒挖礦遊戲",
+    "firstRecordedAt": 1794221790401
   },
   {
     "trackId": 1435461053,

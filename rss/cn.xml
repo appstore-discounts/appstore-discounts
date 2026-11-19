@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-11-18T22:13:26.844Z</updated>
+    <updated>2026-11-19T12:52:22.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T22:13:26.846Z</updated>
+        <updated>2026-11-19T12:52:22.212Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 18 Nov 2026 22:13:26 GMT</id>
+        <id>rankingcnThu, 19 Nov 2026 12:52:22 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T22:13:26.846Z</updated>
+        <updated>2026-11-19T12:52:22.212Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2444</b>
+        <b>2446</b>
       </td>
       <td>
         <b>208</b>
       </td>
       <td>
-        <b>2236</b>
+        <b>2238</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>1388</b>
+        <b>1389</b>
       </td>
       <td>
         <b>168</b>
       </td>
       <td>
-        <b>1220</b>
+        <b>1221</b>
       </td>
       <td>
         <b>63</b>
@@ -97,48 +97,14 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6824686276?lang=zh-CN">Wider - Fullscreen Browsing</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6821872148?lang=zh-CN">Duopaper: 折叠屏全景壁纸，展开发现画中隐藏的小惊喜</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">汉末霸业</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>2</b>
+            <span>总次数</span>：<b>3</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>2</b>
           </li><li>
             <span>App内购买</span><ol>
               <li>
@@ -157,6 +123,40 @@ feedId:157007849019630592+userId:73658201673997312
                 <i>华夏九州-水浒英雄传</i>：<b>1</b>
               </li>
             </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6824686276?lang=zh-CN">Wider - Fullscreen Browsing</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6821872148?lang=zh-CN">Duopaper: 折叠屏全景壁纸，展开发现画中隐藏的小惊喜</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -333,7 +333,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1441522083?lang=zh-CN">手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1437054263?lang=zh-CN">Gem - Money tracker</a>
       </td>
       <td>
         <ul>
@@ -350,7 +350,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1458460469?lang=zh-CN">人类跌落梦境</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1441522083?lang=zh-CN">手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕</a>
       </td>
       <td>
         <ul>
@@ -367,7 +367,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1500126852?lang=zh-CN">Chord</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1458460469?lang=zh-CN">人类跌落梦境</a>
       </td>
       <td>
         <ul>
@@ -384,7 +384,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1538124245?lang=zh-CN">哪里哪里</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1500126852?lang=zh-CN">Chord</a>
       </td>
       <td>
         <ul>
@@ -401,7 +401,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1584313012?lang=zh-CN">笼中窥梦</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1538124245?lang=zh-CN">哪里哪里</a>
       </td>
       <td>
         <ul>
@@ -418,7 +418,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">全能记(录音,备忘,流水)</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1584313012?lang=zh-CN">笼中窥梦</a>
       </td>
       <td>
         <ul>
@@ -433,6 +433,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>19</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">全能记(录音,备忘,流水)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1591620171?lang=zh-CN">Stay for Safari - 用户脚本与广告拦截插件</a>
@@ -455,7 +472,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1600925588?lang=zh-CN">GR Linker - 理光相机传图 Image Sync</a>
@@ -472,7 +489,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1614200925?lang=zh-CN">部落与弯刀</a>
@@ -489,7 +506,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1662217862?lang=zh-CN">Wipr 2</a>
@@ -512,7 +529,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6801866888?lang=zh-CN">上次是什么时候 - 家务·保养记录</a>
@@ -529,7 +546,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6759358968?lang=zh-CN">PadLab - Live Pads</a>
@@ -552,7 +569,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6479395335?lang=zh-CN">RPGViewer</a>
@@ -569,7 +586,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6752503669?lang=zh-CN">Solar Arc: 黄金时刻 日出日落</a>
@@ -586,7 +603,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6775828757?lang=zh-CN">新世界：暗影成双</a>
@@ -611,7 +628,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6471594918?lang=zh-CN">Just a Simple Image Converter</a>
@@ -628,7 +645,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6473332700?lang=zh-CN">逐鹿 - 历史沙盘战棋</a>
@@ -661,7 +678,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6747717070?lang=zh-CN">VoidLink</a>
@@ -684,7 +701,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6743526212?lang=zh-CN">AutoSeat 2</a>
@@ -701,7 +718,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6786557574?lang=zh-CN">油耗管家-加油记录省油统计车辆里程费用记账工具专用版</a>
@@ -718,7 +735,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6749542417?lang=zh-CN">迷雾北境</a>
@@ -735,7 +752,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6747138769?lang=zh-CN">Easy Text to Speech Reader Pro</a>
@@ -752,7 +769,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760446039?lang=zh-CN">般若心灯</a>
@@ -775,7 +792,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6744430250?lang=zh-CN">Python 學習計劃</a>
@@ -792,7 +809,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6830479627?lang=zh-CN">1in8b Life</a>
@@ -809,7 +826,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6444396120?lang=zh-CN">挺进地牢</a>
@@ -826,7 +843,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6443786927?lang=zh-CN">全面憨憨战争模拟器</a>
@@ -843,7 +860,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6737795387?lang=zh-CN">鬼谷八荒</a>
@@ -868,7 +885,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6753931080?lang=zh-CN">小小梦魇</a>
@@ -885,10 +902,61 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6748837351?lang=zh-CN">Moment Pro Camera II</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>44</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6639610182?lang=zh-CN">武士零</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>45</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6749369705?lang=zh-CN">沙石镇时光</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>46</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6738571698?lang=zh-CN">心灵渡船-灵魂摆渡人正版移植手游</a>
       </td>
       <td>
         <ul>
@@ -1481,6 +1549,399 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[武士零]]></title>
+        <id>武士零-cn-1795086617057</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6639610182?lang=zh-CN"/>
+        <updated>2026-11-19T11:10:17.057Z</updated>
+        <summary type="html"><![CDATA[价格: ¥24.00 → ¥18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6639610182?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/a1/4a/0aa14ae6-f557-b3e8-f421-1e830777420f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥24.00</span> → <b>
+  <strong>¥18.00</strong>
+</b><span>[¥18.00 ~ ¥24.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥18.00</b>
+</p><h2>应用描述</h2><p>
+  《武士零》（Katana ZERO）是一款屡获殊荣的新黑色电影风横版动作游戏。
+你将扮演代号“零”的失忆武士，在霓虹闪烁的赛博都市中，以极速动作展开瞬间决定生死的战斗——劈砍、冲刺、操纵时间，一击必杀！
+在行云流水的战斗里，在药物与记忆的夹缝中，找到你来时的路。
+
+【独特卓越的战斗】
+在各种形势下战胜对手，将向你射来的子弹反弹回去、闪避前来的攻击、用陷阱和爆炸来巧妙地控制敌人的行动与环境……不留任何活口。
+
+【精心打造的流程】
+每一关都被设计为能用多种方式完成。你可以尽情挥洒创意、随机应变地将敌人们一一解决。
+
+【独辟蹊径的叙事】
+一个充满谜团的故事，通过在游玩过程中自然穿插的众多过场展示，抽丝剥茧地讲述这段峰回路转、出乎你意料之外的剧情。
+
+【风格鲜明的体验】
+游戏采用赛博朋克美术风格与新黑色电影叙事，像素艺术与霓虹美学结合的设计，配上充满80年代复古风格的电子摇滚BGM，共同构筑了这座名为“新麦加”的霓虹都市。
+
+【手游适配与优化】
+触屏操作全优化，享受如掌机般行云流水的战斗体验。
+同时支持主流手柄连接，随时随地，用你最喜欢的方式“杀穿”新麦加。
+
+【付费说明】
+游戏将以“买断制”形式进行发售。
+只需一次付费，即可永久获得游戏全部内容，无内购，无广告。
+
+【联系我们】
+官方QQ群:751841172
+客服QQ:3002921159/2853302554
+若在游戏过程中，遇到任何问题或有建议反馈，可通过以上任何渠道与我们进行联系
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/9f/50/489f5062-9592-4fdc-6264-d4d5d33960e8/2778_1284.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/7e/97/5b7e97ac-d30c-3ecf-5ba4-da0fd0090fd1/2778_128-5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/3b/e7/963be75e-cc0a-218d-a322-b3b379ed34b7/2778_1284.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/da/d9/4ddad926-4d34-e845-8b40-0a9207da07e1/2778_1284-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/0e/94/dc0e941d-719c-fd26-0674-90a67a8e63d0/2778_128-6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/53/e6/ba53e658-0975-91fd-226c-1cde2e92c75a/2778_1284-7.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/7c/ad/de7caddb-924a-a79c-38d8-b658cc3f7d38/2778_128-4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/04/59/6604594f-7263-ef24-5ed4-e9a8d0ee2403/2778_1284-2.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/f9/2f/51f92f03-38f8-b00e-4731-d016a08dc376/2732_2048.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/80/30/3380309d-bb8e-b151-b385-b0a771be52d5/2732_2048-1__U62f7_U8d1d_6.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/f5/65/1af565dd-b0a4-10ac-0089-ec25716034b3/2732_2048-1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/80/30/888030db-890a-c21f-f1fd-2788945b238d/2732_2048-1__U62f7_U8d1d_2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/4f/24/a94f24c7-5907-6458-0173-838dacac5735/2732_2048-1__U62f7_U8d1d_4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/10/f8/f110f84e-a7c7-083b-7b27-321281825cc6/2732_2048-1__U62f7_U8d1d_5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/a9/81/03a981a0-e6ea-199a-7051-d33e05a2f8d9/2732_2048-1__U62f7_U8d1d_3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/45/a2/7745a229-ffb1-d415-6931-f370959a1dae/2732_2048-1__U62f7_U8d1d.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汉末霸业]]></title>
+        <id>汉末霸业-cn-1795086617057</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN"/>
+        <updated>2026-11-19T11:10:17.057Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → ¥6.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/3f/31/2a3f3137-1165-c6f4-b5b1-c3e83c64946b/AppIcon_ios_new-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥1.00 ~ ¥88.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥6.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    宝物编辑器：<b>¥6.00</b>
+  </li><li>
+    美术升级包：<b>¥12.00</b>
+  </li><li>
+    群英荟：<b>¥12.00</b>
+  </li><li>
+    出类拔萃：<b>¥12.00</b>
+  </li><li>
+    苍天之志：<b>¥15.00</b>
+  </li><li>
+    英雄的黎明：<b>¥28.00</b>
+  </li><li>
+    汉末地图重制版：<b>¥15.00</b>
+  </li><li>
+    山河归一：<b>¥12.00</b>
+  </li><li>
+    华夏九州-水浒英雄传：<b>¥20.00</b>
+  </li><li>
+    大明：远洋宏图：<b>¥28.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【游戏简介】
+《汉末霸业》是一款是由龙游天下工作室精心制作，一款回合制君主扮演SLG游戏。主要是以国人自己对三国游戏的新思维，新角度来打造不一样的三国世界。在回归传统策略类的基础上深度刻画了三国各城市之间的地域差异以及每个武将自身能力和特性的异同，而在战斗方面突出结合天时地利人和的调配来进行作战的魅力。
+
+【付费说明】
+有任何疑问，请加官方QQ群：604880409，咨询客服，切勿盲目操作，导致扣费！
+
+【设备支持】
+《汉末霸业》要求系统版本为iOS 16以上，并使用iPhone X及以上、iPad Air 2、iPad mini 4、iPad 2017或任意iPad Pro进行游戏。
+
+【官方社群】
+官方微博：http://weibo.com/longyougame
+TapTap社区：https://www.taptap.com/app/65333
+官方微信公众号：三国志汉末霸业
+官方抖音：https://v.douyin.com/W4gpqG/
+百度贴吧：三国志汉末霸业
+官方QQ群：604880409
+
+
+游戏特色
+
+一：经典的白描绣像画风，古朴典雅
+
+人物头像采用经典的《三国演义》连环画的白描绣像画风和上色。游戏界面采用古风古韵设计，地道中国风。
+
+ 
+
+二：简单易上手的政务管理模式：
+
+基础的内政安排、人事探索、军事侦察、技术开发都采用放置类管理模式，减少繁琐的重复操作，让玩家能聚焦其他事件。君主扮演模式，玩家只需要关注首都以及国家的管理。其他城市交给太守进行管理。使用方针给分城下达不同的军政指令。
+
+ 
+
+三：极其丰富的游戏内容设定：
+
+从公元184~280年，超过1300名登场武将（包括历史和演义武将）。 
+
+30武将基本能力划分，对武将之间能力进行详细的差异化区分。
+
+超过300种以上的独立配置的武将特性，全面凸显武将个体差异。 
+
+超过500种有考据的物品宝物设定。多种分类划分来满足不同的喜好需求。
+
+近六十多个不同类型的城市，200多种有据可考的城市特征和特产。
+
+丰富的技术开发条目和贯穿整个游戏系统的支撑。体现了科技实力的重要性。
+
+六大基本兵种和十多种特殊兵种构成丰富的兵种体系。
+
+超丰富的官职系统和封侯授爵系统。
+
+君主指派的联姻系统和人性化的子女培养及继承体系。 
+
+各种自然现象和事件灾害模拟出多灾多难的三国时期。 
+
+多种异民族势力和流寇山贼，需要你去平定和剿灭。 
+
+丰富的来访事情，商人、仙人、名士、名医、名匠、剑客游走四方，引发各种功能事件。
+
+ 
+
+四：回归经典回合制，侧重策略性排兵布阵的战斗系统
+
+天气和地形、地块高度的引入更加凸显天时地利要素对战争的影响。
+
+野战和攻城战功能独立分开。攻城有攻城车，霹雳车，井阑，守城有投石机、床弩、塞门刀车。更能凸显攻守之间的平衡关系。
+
+参军特性和战场特性的引入，更加凸显三国演义中对军师角色的塑造。 
+
+阵型系统的引入，让奇门八阵体现各自不同的辅助效果。不同的兵种搭配不同的阵型将有各异的强化效果。
+
+隆重推荐全新制作的番外篇【苍天之志~蜀传】：
+一：【苍天之志】是基于【汉末霸业】的游戏体系开发的独立番外篇，独立运行。
+二：【苍天之志】是将角色扮演的RPG和战旗回合制游戏要素融合而成的新玩法。
+三：玩家将自创角色，加入刘备一方。将拥有自己的封地，在游戏进程中，通过征战，获得功绩，提升地位，并不断发展和壮大实力。【注：获得用“臧霸的野望”来称呼更方便玩家的理解】
+四：玩家拥有开府建牙的权利，可以去接取各种任务来获得奖励，有了收入就可以自由招揽武将，招募和训练自己的精锐私兵，不断地发展自己的领地和私兵集团。
+五：在战场上，玩家只需要指挥自己和私兵部队来取得胜利。获得傲人的功绩，成为战役胜利的关键力量。
+六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的宏愿！六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的野望！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/a9/aa/78a9aaab-0221-b121-41d7-db86722ffe1d/768e93e9-dff2-437b-a317-24f2148a9100_2208x1242_U0028_U7b80_U4f53_U0029.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/11/0c/67110c59-4e19-7d1a-a27b-bcec82c5ad3e/08d67d95-a14c-41d4-ba45-92f193a8b142_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/c2/da/1dc2da0f-4556-5007-a3ff-79f6f96344e6/2e612c64-3df2-427f-90c0-131630bfb94c__U5b89_U90a6_U9f50_U6c11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/93/3f/88933fc1-1bae-b4dc-683a-638a335893a7/b44ac90f-e322-4620-b5e5-65dc1695e44c__U7fa4_U82f1_U9f50_U805a.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c1/ab/1ec1abac-ab5d-e060-2882-b048c10be5a6/676e79ca-838c-4d7b-b440-d09ae87d3448__U4f20_U5947_U5175_U79cd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/77/94/0e779400-ee34-eada-a821-3d3c94db8646/c24460c5-7ec8-4dde-9beb-6c4a852aedb0__U91ce_U6218_U5730_U56fe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/7e/0f/0a7e0fe7-d12e-fc6a-34b1-fbddd59151bc/b7c38907-017d-4764-9498-6c3e5a8560aa__U5b50_U5973_U57f9_U517b.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/04/3c/ab043ce7-e2eb-ce25-b19f-f767a553413b/2eda3974-58da-4e45-8775-8e1473b32376__U795e_U5175_U4eb2_U9020.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/aa/d2/69aad2f1-0509-bcbf-e410-a6e206975c21/fcb91eb7-0468-4246-894c-dbe75948af3a_2732x2048_Uff08_U7b80_U4f53_Uff09.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/96/fb/a996fb32-a64c-e613-2e44-7b63690ed51c/632e2730-6c28-4bcb-82dc-b5abb41bf0aa_2732x20481.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/9e/fd/6c9efdf1-0150-671b-7d8d-4a407273cfdc/0a12f10b-c5e6-4e51-91ce-bfbf658f7bcc__U5b89_U90a6_U9f50_U6c11.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/18/a2/ff18a28a-dca0-c159-307e-b53c434ef1be/84078e23-a734-4c76-860d-cc4a1fd6d02b__U7fa4_U82f1_U9f50_U805a.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/c6/7e/20c67e16-cb0f-980b-612d-604970f01b30/c63075fc-182f-44ce-95ea-ad02ec28a65c__U91ce_U6218_U5730_U56fe.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/7c/9e/907c9ecd-f1d6-fcfc-1c0b-664d4aed6b31/e42d0bfa-1f54-4a6d-bdc6-3f6f8eadeae2_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/2c/2d/dd2c2dc6-98d3-ee9b-97a2-334b29763477/3772daed-d12d-4537-88d8-f178718fae13__U5b50_U5973_U57f9_U517b.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5d/97/7f5d9712-a31b-4552-5d43-de8d7d371392/fc40cb3f-a371-4014-82bd-0612a742975f__U795e_U5175_U4eb2_U9020.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gem - Money tracker]]></title>
+        <id>Gem - Money tracker-cn-1795086617057</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1437054263?lang=zh-CN"/>
+        <updated>2026-11-19T11:10:17.057Z</updated>
+        <summary type="html"><![CDATA[价格: ¥3.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1437054263?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/3b/5d/263b5dae-3e55-6587-cbdc-0291096db403/AppIcon-0-0-1x_U007ephone-0-3-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥3.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥3.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Thanks tip：<b>¥8.00</b>
+  </li><li>
+    Spectacular tip：<b>¥38.00</b>
+  </li><li>
+    Amazing tip：<b>¥22.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Log expenses and stay on budget.
+No subscription. In-app purchases are tips :)
+
+BUDGET
+- Daily, weekly, monthly and yearly
+- Average & daily spending, breakdown by category
+- Compare against same day last month
+- Rearrange your budgets, and other lists
+- Explore your costs and salary over time
+
+ORGANIZE
+- By category, budget, wallet, account, tag…
+- Customize category colors & icons (500+ from Apple)
+- Favorite accounts, custom sorting, merge categories
+- Add attachments and receipts
+
+BILLS
+- Repeat: day, week, month, year
+- View paid & upcoming subscriptions
+
+MONEY TOOLS
+- Savings goals, income, transfers, balance
+- Multiple currencies, exchange rates
+- Calculator & journal view
+
+WALLET SYNC & AUTOMATIONS
+- Instant recording when paying in store with Apple Pay (requires setup)
+- Auto-organize expenses based on merchant names
+- App shortcuts and “Send to Gem” in share sheet
+- Import CSV files, sub-categories, notes. Import into specific wallet. Skip duplicates when importing
+- Export everything
+
+MORE
+- Customize the way you create entries
+- Widgets. Lock Screen shortcut
+- Daily iCloud backup
+- Daily reminders
+- Custom main screen, list layouts, app menu and theme
+- Insights in search results
+
+PREVIEW FEATURES
+May not work as expected :)
+- Type “Rent” → it’s categorized in “Household”
+- Detect receipt prices from attachments
+
+
+Need help? Have a suggestion?
+Email me at human@shelftwo.com.
+
+Terms & privacy: shelftwo.com/gem/terms
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/ab/ae/6dabaeac-974f-729f-6d9e-beaaff7cb9ff/6ad4111d-3c1b-434e-b3e0-4bb9740076a2_7_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/bd/0a/3cbd0a94-54d1-019f-0d5c-5931f50c70ae/4e4872a3-3e45-4a29-8192-19f85bf13155_8_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/12/0c/11120c52-20fc-4bc9-2268-8e45b7dece9e/2ce11e6f-08ef-443d-baa4-25dc2f0d0bed_6_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/43/c7/2c43c7b7-e309-6652-0ed1-bb219a5f7f3b/7742c5f2-4f9d-41db-b4e3-9177eff41dbc_5_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/33/7b/5e337b31-6d9b-1753-cc24-27413002498b/654af4bb-b9fd-4baa-9132-99f42cc622cd_4_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ea/c3/98eac35f-f2f0-deb3-0d2e-0ae43fe600c9/3560b367-e555-4b6d-8d01-12f8deb54644_3_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/e4/f5/e0e4f5dd-e082-38fe-b3ae-7378c34bbcc9/35a23c11-7533-4191-948a-064a0617ded0_1_copy.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/06/86/ca06865d-07cf-5f81-1dec-94b049a66b8e/3ad819d5-c7a2-4c00-982c-3e05b05f27bf_8.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙石镇时光]]></title>
+        <id>沙石镇时光-cn-1795086617057</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6749369705?lang=zh-CN"/>
+        <updated>2026-11-19T11:10:17.057Z</updated>
+        <summary type="html"><![CDATA[价格: ¥29.00 → ¥26.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6749369705?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/2b/72/ba2b72f2-1872-822a-5330-f122eed88b57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥29.00</span> → <b>
+  <strong>¥26.00</strong>
+</b><span>[¥22.00 ~ ¥36.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥26.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    《沙石镇时光》美好时光与怪兽萌宠合集包：<b>¥14.00</b>
+  </li><li>
+    《沙石镇时光》肥尾守宫宠物包：<b>¥3.00</b>
+  </li><li>
+    DLC-家具合集包：<b>¥10.00</b>
+  </li><li>
+    手游DLC-工坊主泳装礼服合集包：<b>¥5.00</b>
+  </li><li>
+    DLC超值合集包：<b>¥56.00</b>
+  </li><li>
+    DLC-星光礼服礼包合集：<b>¥12.00</b>
+  </li><li>
+    《沙石镇时光》DLC-暖意泳装礼包合集：<b>¥12.00</b>
+  </li><li>
+    沙石镇时光恋爱时光DLC：<b>¥10.00</b>
+  </li><li>
+    《沙石镇时光》怪兽萌宠：<b>¥10.00</b>
+  </li><li>
+    DLC-可爱风格家具包：<b>¥5.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  灾后的荒漠小城沙石镇迫切需要全面的重建。
+我们诚挚而迫切地邀请您成为新的工坊主，您可以在这里用不同的方式收集资源，在专属工坊中创造各种机器和设备，也可以探索广阔的沙漠，深入废墟，搜寻旧世界遗留的古老文物，甚至与怪物斗智斗勇。经营崭新生活也少不了种植，烹饪，养殖，与沙石镇居民建立不同的关系等等丰富多样的玩法！
+工坊主，在这里曾有无数治沙人的努力被风沙掩埋，重现绿洲的梦想似乎遥不可及，如今，使命传递至你的手中，期待你续写让沙石镇重焕生机的史诗篇章。
+
+感谢你体验《沙石镇时光》手游，也由衷感谢你对「良心工作室」的支持。愿你在这片黄沙之地，亲手缔造属于自己的温暖与美好。
+
+【建设专属工坊】
+从无到有，一切尽在您手，您可以将各种复杂精密的机器排列组合在一起，打造专属于您的工坊，并制作各式各样的工具或设备；您可以通过劳作，将戈壁变成可耕种的肥沃土地，拥有着特色沙漠种植系统的沙石镇时光是您不能错过的种田游戏；您可以扩建栅栏，养上一大堆沙漠地区特有的动物，成为这个小镇首屈一指的牧场主；全新加入的房屋扩建系统，可以让每个玩家都建造出自己独有的房屋，家园升级不再千篇一律。
+
+【探索开放世界】
+广阔天地，任您畅游，您可以探索小镇周围的广阔沙漠，深入各种废墟探险；从充满生活气息的城镇到散发神秘色彩的戈壁，各种新奇的怪物，各种沙漠特色坐骑等您来体验。
+
+【享受甜蜜时光】
+在沙石镇，你就是最耀眼的明星！沉浸于超过100小时的主线剧情，探索数百个支线故事，与40多位性格各异的角色相遇、相识、相知。他们每个人都有独一无二的故事等你揭开，或许，还会与某个人擦出意想不到的爱情火花……
+
+【战斗，就是要炫！】
+通过自由搭配技能树，解锁酷炫招式，驾驭各式强力武器，迎战千奇百怪的怪物军团。这里的每一场战斗，都让你酣畅淋漓！
+
+【不止好玩，更要好听好看】
+更多的？可以有！你可以听到更加生动和动感的音乐，并且体验新的声效技术，让您仅凭声音就能知道身处何方！独特的天气系统，带你感受“黄沙万里滔天”的壮丽奇观。更有丰富趣味小游戏等你来玩，让你在工坊经营之余体验到多彩的沙石镇风土人情。
+
+【移动端专属装扮】
+手游专属礼服？免费送！我们为工坊主们提供了移动端专属的各种装扮，从国风礼服到清爽T恤，只为让你在沙石镇活出不一样的人生！
+
+【手游适配与优化】
+厌倦了在PC端的繁琐操作？试试更懂你的移动端！
+贴合掌心的操作优化，专为手游触屏设计。
+PC端组装太麻烦？移动端极简操作不再烦恼！
+另外，还有更醒目的视觉指引与交互引导，助你畅游沙石镇！
+
+【设备要求与说明】
+为保证游戏流畅体验，我们推荐使用运行内存（RAM）为6GB及以上的iOS设备进行游玩。
+《沙石镇时光》是一款包含许多3D模型渲染的游戏，即便是PC端也需要GTX1060及以上的显卡才能畅玩，为了能在手机上精细呈现沙石镇的生动细节，我们做了很多的移动端兼容适配，但无法避免的是对设备还是有一定的性能要求，尤其是在iOS端的运行内存（RAM）方面。
+同时，为了确保游戏可以兼容更多的IOS低端设备，我们也不得已对运行内存（RAM）为4GB的设备做了一些调整，在游戏中会缺少人物对话语音，以及在游戏存档后期（如小镇建筑、NPC数量增加时），运行内存为4GB的设备可能会出现卡顿情况，极端情况下可能出现闪退。
+（运行内存为6GB及以上设备完全不会受到上述内容影响）
+使用RAM为4GB设备的工坊主，若比较在意游戏目前的优化状况，还请谨慎购买。但毫无疑问，我们将尽快进行版本更迭，努力为更多设备带来更优秀的游戏体验。
+
+注：游戏安装后约占13GB储存空间，需预留16GB或更多储存空间，以确保游戏可以顺利安装与加载资源。
+
+【支持设备一览】
+「推荐配置」
+iPhone 机型如下：
+iPhone 12 Pro / iPhone 12 Pro Max
+iPhone 13 Pro / iPhone 13 Pro Max
+iPhone 14 全系列
+iPhone 15 全系列
+iPhone 16 全系列（含iPhone 16e）
+iPhone 17 全系列
+
+iPad机型如下：
+iPad 11
+第一代iPad Pro(6GB内存版本)及以上机型
+iPad Air5及以上机型
+iPad mini 7
+
+「最低配置」
+iPhone 机型如下：
+iPhone SE3
+iPhone XS / iPhone XS Max
+iPhone 11 / iPhone 11 Pro / iPhone 11 Pro Max
+iPhone 12 / iPhone 12 mini
+iPhone 13 / iPhone 13 mini
+
+iPad机型如下：
+iPad 10
+第一代iPad Pro(4GB 内存版本)
+iPad Air 4
+iPad mini 6
+
+
+【联系我们】
+「良心工作室」非常重视每一位玩家的反馈，如果您有任何建议，都可以通过下面这些方式找到我们，我们会为您提供一对一的交流与服务。
+抖音：@沙石镇时光手游
+快手：@沙石镇时光手游
+B站：@沙石镇时光手游
+小红书：@沙石镇时光手游
+微博：@沙石镇时光手游
+《沙石镇时光》官方QQ1群：711196318（已满）
+《沙石镇时光》官方QQ2群：1031192254（已满）
+《沙石镇时光》官方QQ3群：1083221813（已满）
+《沙石镇时光》官方QQ4群：1081975560
+良心工作室官方QQ2群：867108476
+
+我们期待与你的见面，工坊主们
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/62/6e/28626ef0-40fc-9ba6-5ff5-b41872bdfe26/2838_1320-1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/94/51/f89451d4-5ed1-17bb-a4b9-2d6889c48df1/2838_1320-2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/22/6f/ad226f49-bade-5c82-2c92-c18839c6b8f3/2838_1320-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/92/21/539221bd-66cb-f8da-93c3-ee5dab817631/2838_1320-4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/3f/4f/7d3f4fc1-fd4c-a39e-4504-c6058db0b710/2838_1320-5_U00281_U0029.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/ea/13/49ea1388-4637-5d1b-6bc7-77711ea00ff4/2838_1320-6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/49/72/8249729f-27ac-91f1-fd53-f42d27049d49/2838_1320-7.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/69/ad/b169ad34-86c4-17d7-5b45-f70c21a47bc7/2838_1320-8.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/04/fd/4e04fdaa-ef8f-5ea9-9472-0a971d76e5d1/2732_2024-1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/73/b4/5973b4ae-1cc1-e608-dfe5-4c20819857d8/2732_2024-2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/8f/75/988f757a-8417-391a-469b-8188445abea0/2732_2024-3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/21/84/9b2184b1-f837-042c-6fc0-5bfc2459f0bc/2732_2024-4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/0e/14/b10e147d-5847-fa95-4aca-608b64480607/2732_2024-5_U00282_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/92/b1/6e92b1b4-a2c5-4e16-60e5-d80377940a7a/2732_2024-6.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/8f/2c/de8f2c5e-d967-e508-74e6-f2ad54011c5d/2732_2024-7.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/b0/4c/73b04ce2-d1fd-634d-c8b4-d6745a2288a2/2732_2024-8.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心灵渡船-灵魂摆渡人正版移植手游]]></title>
+        <id>心灵渡船-灵魂摆渡人正版移植手游-cn-1795086617057</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6738571698?lang=zh-CN"/>
+        <updated>2026-11-19T11:10:17.057Z</updated>
+        <summary type="html"><![CDATA[价格: ¥25.00 → ¥18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6738571698?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/99/31/b69931eb-67d9-0d79-a61a-6f19e8a2ca94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥25.00</span> → <b>
+  <strong>¥18.00</strong>
+</b><span>[¥15.00 ~ ¥25.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥18.00</b>
+</p><h2>应用描述</h2><p>
+  《心灵渡船》是一款屡获殊荣的手绘风沉浸式剧情冒险游戏，以温暖而深邃的视角，直面“死亡”这一终极命题，将告别转化为一场关于爱与陪伴的深刻体验。
+你将扮演摆渡人——斯黛拉，与小猫迪芙达尔一起驾驶一艘可自由建造的渡船，穿行于生死之间的海域。你可以通过耕种、捕鱼、采矿、烹饪等日常来充实船上的生活，更在倾听与理解中，走进乘客们背后的故事。每一次完成的心愿，每一次温暖的陪伴，都是为了那场终将到来的、珍重的告别......
+游戏以原创手绘美术与原创音乐，搭建出冥想般的沉浸世界；主线约 30 小时，更有大量隐藏内容等待你用更长的时间慢慢抵达。每一次相遇都有重量，每一次送别都值得珍重。
+
+【游戏特色】
+1.沉浸于精巧的手绘世界，在温柔的原创音乐中，开启一段治愈之旅。
+2.亲手设计并扩建你的灵魂渡船，将它从一叶小舟打造成承载故事与温度的家园。
+3.让耕种、采矿、捕鱼、烹饪、编织、制作构成你的日常，用多样玩法丰富整段旅程。
+4.结识性格各异的伙伴，与他们一同旅行，倾听他们未诉说的往事，成为彼此珍爱的朋友。
+5.在精心构建的轻平台关卡中自由探索、奔跑、跳跃，解开旅途中的谜题。
+6.自由装扮你的船只、角色与小猫，在丰富的自定义选项中，打造独一无二的航行。
+7.进入一段随心安排的体验，你可以在片段时光中轻松经营，或是花上30个小时完成这段旅程，更可以用数百小时细细品味每一个隐藏的故事与细节。
+
+【联系我们】
+官方QQ群:625705007
+客服QQ:3002921159/2853302554
+若在游戏过程中，遇到任何问题或有建议反馈，可通过以上任何渠道与我们进行联系
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/09/ad/a509ad58-8bee-6e62-36fa-2e5eed2058c8/_U5956_U9879_U56fe2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/b0/2a/47b02afb-e79d-731f-8a87-1c300e26c312/_U3010IOS_U30112796_1290-_U56fe5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/84/f5/f984f51a-cae8-6f2f-0f99-ab82c5a100d8/_U3010IOS_U30112796_1290-_U56fe3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/63/5f/30635f39-0c6c-60fa-c74c-dceae41ba48e/_U3010IOS_U30112796_1290-_U56fe2_Uff08_U5355_U56fe_Uff09.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/74/c4/5b74c44c-5bcc-3d89-f61d-15d14d8fd6af/_U3010IOS_U30112796_1290-_U56fe1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/8b/0f/d68b0f66-f63c-fdcd-e21a-3ee1d17716bb/_U3010IOS_U30112796_1290-_U56fe4.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/5a/a6/b35aa625-ec6d-8cea-22db-7ce6c76fd545/_U5956_U9879_U56fe2__U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/44/9a/a2449a03-5379-f52e-f60b-1b3dd9064429/_U3010IOS_U30112732_2048-_U4e3b_U56fe_Uff08_U6b63_U7248_Uff09.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/7a/f9/8f7af9a4-7026-0899-2412-e7d861a255f9/_U3010IOS_U30112732_2048-_U56fe5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/d7/42/3ad7426a-82a5-6af2-4a6f-586ebf9a79e8/_U3010IOS_U30112732_2048-_U56fe3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/2d/e9/c32de96b-0a15-46b0-5ec4-1da7501a5a17/_U3010IOS_U30112732_2048-_U56fe2_Uff08_U5355_U56fe_Uff09.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/7a/96/3b7a96d9-50c3-e788-1e1b-a9f6b546202d/_U3010IOS_U30112732_2048-_U56fe1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/c0/7c/0bc07c8b-6b0c-22cf-0816-ad4fd4c18af2/_U3010IOS_U30112732_2048-_U56fe4.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小小梦魇]]></title>
         <id>小小梦魇-cn-1795032051232</id>
         <link href="https://appstore-discounts.eyelly.me/cn/6753931080?lang=zh-CN"/>
@@ -1933,127 +2394,5 @@ Where will you be born?
 官方微博：@心动网络 、@笼中窥梦-Moncage
 官方邮箱：moncagethegame@gmail.com
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/60/96/c9/6096c967-0a20-cdf0-410d-509a6a1915e8/59c11ec4-0475-4edb-9fd3-161fccc3192e_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/f4/d6/19f4d654-3dc5-4655-47d4-fe0cf17ff615/c70be9f9-25dc-4e98-a90a-0de3f64fb9b7_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ca/59/19/ca5919aa-a7f7-70b1-7ea8-f2f30f771362/8779e75c-b294-4e35-b5e9-8b2e07c619be_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/36/aa/f836aac5-8c84-c816-290a-cd5c4bf2a0d4/1e335283-4ac7-43a6-a6c3-7ec1091bbbe8_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e5/59/31/e559311e-4567-4c3e-3af2-ef377fed5ac1/25d6fea3-9030-435c-b849-c15a4fa4f0bd_005_Uff08_U4e2d_U6587.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/f2/c0/8ef2c061-edf3-a13b-9549-d3e079c3a9da/49fac2f4-284d-4b71-a1e3-49b4b16dcf78_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/5a/6b/685a6b5f-f76e-e981-bd0a-5050e1e9ec89/f34c5fd6-35cd-4c32-bc98-f9fb5d4e5a60_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2e/be/a2/2ebea2d2-a56b-4194-87d9-424a0c2b9c40/66f1e6e4-f871-47d0-be81-a324a36842a0_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/a7/54/cca7545c-afe2-d35b-c123-72d026bf5bd5/4a47efdf-c9ef-41db-a7eb-396b6d247383_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/74/a8/e8/74a8e89c-7cf4-a891-39c4-ce6270a04a76/1136fedd-d2f3-40b6-873d-24e7ecc8967a_005_Uff08_U4e2d_U6587.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汉末霸业]]></title>
-        <id>汉末霸业-cn-1794825673547</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN"/>
-        <updated>2026-11-16T10:41:13.547Z</updated>
-        <summary type="html"><![CDATA[汉末地图重制版: ¥20.00 → ¥15.00<br/>华夏九州-水浒英雄传: ¥25.00 → ¥20.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/3f/31/2a3f3137-1165-c6f4-b5b1-c3e83c64946b/AppIcon_ios_new-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
-  <li>
-    <strong>汉末地图重制版：</strong><span>¥20.00</span> → <b>
-  <strong>¥15.00</strong>
-</b><span>[¥15.00 ~ ¥20.00]</span>
-  </li><li>
-    <strong>华夏九州-水浒英雄传：</strong><span>¥25.00</span> → <b>
-  <strong>¥20.00</strong>
-</b><span>[¥18.00 ~ ¥25.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>¥28.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    宝物编辑器：<b>¥6.00</b>
-  </li><li>
-    美术升级包：<b>¥12.00</b>
-  </li><li>
-    群英荟：<b>¥12.00</b>
-  </li><li>
-    出类拔萃：<b>¥12.00</b>
-  </li><li>
-    苍天之志：<b>¥15.00</b>
-  </li><li>
-    英雄的黎明：<b>¥28.00</b>
-  </li><li>
-    汉末地图重制版：<b>¥15.00</b>
-  </li><li>
-    山河归一：<b>¥12.00</b>
-  </li><li>
-    华夏九州-水浒英雄传：<b>¥20.00</b>
-  </li><li>
-    大明：远洋宏图：<b>¥28.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  【游戏简介】
-《汉末霸业》是一款是由龙游天下工作室精心制作，一款回合制君主扮演SLG游戏。主要是以国人自己对三国游戏的新思维，新角度来打造不一样的三国世界。在回归传统策略类的基础上深度刻画了三国各城市之间的地域差异以及每个武将自身能力和特性的异同，而在战斗方面突出结合天时地利人和的调配来进行作战的魅力。
-
-【付费说明】
-有任何疑问，请加官方QQ群：604880409，咨询客服，切勿盲目操作，导致扣费！
-
-【设备支持】
-《汉末霸业》要求系统版本为iOS 16以上，并使用iPhone X及以上、iPad Air 2、iPad mini 4、iPad 2017或任意iPad Pro进行游戏。
-
-【官方社群】
-官方微博：http://weibo.com/longyougame
-TapTap社区：https://www.taptap.com/app/65333
-官方微信公众号：三国志汉末霸业
-官方抖音：https://v.douyin.com/W4gpqG/
-百度贴吧：三国志汉末霸业
-官方QQ群：604880409
-
-
-游戏特色
-
-一：经典的白描绣像画风，古朴典雅
-
-人物头像采用经典的《三国演义》连环画的白描绣像画风和上色。游戏界面采用古风古韵设计，地道中国风。
-
- 
-
-二：简单易上手的政务管理模式：
-
-基础的内政安排、人事探索、军事侦察、技术开发都采用放置类管理模式，减少繁琐的重复操作，让玩家能聚焦其他事件。君主扮演模式，玩家只需要关注首都以及国家的管理。其他城市交给太守进行管理。使用方针给分城下达不同的军政指令。
-
- 
-
-三：极其丰富的游戏内容设定：
-
-从公元184~280年，超过1300名登场武将（包括历史和演义武将）。 
-
-30武将基本能力划分，对武将之间能力进行详细的差异化区分。
-
-超过300种以上的独立配置的武将特性，全面凸显武将个体差异。 
-
-超过500种有考据的物品宝物设定。多种分类划分来满足不同的喜好需求。
-
-近六十多个不同类型的城市，200多种有据可考的城市特征和特产。
-
-丰富的技术开发条目和贯穿整个游戏系统的支撑。体现了科技实力的重要性。
-
-六大基本兵种和十多种特殊兵种构成丰富的兵种体系。
-
-超丰富的官职系统和封侯授爵系统。
-
-君主指派的联姻系统和人性化的子女培养及继承体系。 
-
-各种自然现象和事件灾害模拟出多灾多难的三国时期。 
-
-多种异民族势力和流寇山贼，需要你去平定和剿灭。 
-
-丰富的来访事情，商人、仙人、名士、名医、名匠、剑客游走四方，引发各种功能事件。
-
- 
-
-四：回归经典回合制，侧重策略性排兵布阵的战斗系统
-
-天气和地形、地块高度的引入更加凸显天时地利要素对战争的影响。
-
-野战和攻城战功能独立分开。攻城有攻城车，霹雳车，井阑，守城有投石机、床弩、塞门刀车。更能凸显攻守之间的平衡关系。
-
-参军特性和战场特性的引入，更加凸显三国演义中对军师角色的塑造。 
-
-阵型系统的引入，让奇门八阵体现各自不同的辅助效果。不同的兵种搭配不同的阵型将有各异的强化效果。
-
-隆重推荐全新制作的番外篇【苍天之志~蜀传】：
-一：【苍天之志】是基于【汉末霸业】的游戏体系开发的独立番外篇，独立运行。
-二：【苍天之志】是将角色扮演的RPG和战旗回合制游戏要素融合而成的新玩法。
-三：玩家将自创角色，加入刘备一方。将拥有自己的封地，在游戏进程中，通过征战，获得功绩，提升地位，并不断发展和壮大实力。【注：获得用“臧霸的野望”来称呼更方便玩家的理解】
-四：玩家拥有开府建牙的权利，可以去接取各种任务来获得奖励，有了收入就可以自由招揽武将，招募和训练自己的精锐私兵，不断地发展自己的领地和私兵集团。
-五：在战场上，玩家只需要指挥自己和私兵部队来取得胜利。获得傲人的功绩，成为战役胜利的关键力量。
-六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的宏愿！六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的野望！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/a9/aa/78a9aaab-0221-b121-41d7-db86722ffe1d/768e93e9-dff2-437b-a317-24f2148a9100_2208x1242_U0028_U7b80_U4f53_U0029.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/11/0c/67110c59-4e19-7d1a-a27b-bcec82c5ad3e/08d67d95-a14c-41d4-ba45-92f193a8b142_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/c2/da/1dc2da0f-4556-5007-a3ff-79f6f96344e6/2e612c64-3df2-427f-90c0-131630bfb94c__U5b89_U90a6_U9f50_U6c11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/93/3f/88933fc1-1bae-b4dc-683a-638a335893a7/b44ac90f-e322-4620-b5e5-65dc1695e44c__U7fa4_U82f1_U9f50_U805a.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c1/ab/1ec1abac-ab5d-e060-2882-b048c10be5a6/676e79ca-838c-4d7b-b440-d09ae87d3448__U4f20_U5947_U5175_U79cd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/77/94/0e779400-ee34-eada-a821-3d3c94db8646/c24460c5-7ec8-4dde-9beb-6c4a852aedb0__U91ce_U6218_U5730_U56fe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/7e/0f/0a7e0fe7-d12e-fc6a-34b1-fbddd59151bc/b7c38907-017d-4764-9498-6c3e5a8560aa__U5b50_U5973_U57f9_U517b.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/04/3c/ab043ce7-e2eb-ce25-b19f-f767a553413b/2eda3974-58da-4e45-8775-8e1473b32376__U795e_U5175_U4eb2_U9020.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/aa/d2/69aad2f1-0509-bcbf-e410-a6e206975c21/fcb91eb7-0468-4246-894c-dbe75948af3a_2732x2048_Uff08_U7b80_U4f53_Uff09.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/96/fb/a996fb32-a64c-e613-2e44-7b63690ed51c/632e2730-6c28-4bcb-82dc-b5abb41bf0aa_2732x20481.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/9e/fd/6c9efdf1-0150-671b-7d8d-4a407273cfdc/0a12f10b-c5e6-4e51-91ce-bfbf658f7bcc__U5b89_U90a6_U9f50_U6c11.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/18/a2/ff18a28a-dca0-c159-307e-b53c434ef1be/84078e23-a734-4c76-860d-cc4a1fd6d02b__U7fa4_U82f1_U9f50_U805a.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/c6/7e/20c67e16-cb0f-980b-612d-604970f01b30/c63075fc-182f-44ce-95ea-ad02ec28a65c__U91ce_U6218_U5730_U56fe.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/7c/9e/907c9ecd-f1d6-fcfc-1c0b-664d4aed6b31/e42d0bfa-1f54-4a6d-bdc6-3f6f8eadeae2_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/2c/2d/dd2c2dc6-98d3-ee9b-97a2-334b29763477/3772daed-d12d-4537-88d8-f178718fae13__U5b50_U5973_U57f9_U517b.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5d/97/7f5d9712-a31b-4552-5d43-de8d7d371392/fc40cb3f-a371-4014-82bd-0612a742975f__U795e_U5175_U4eb2_U9020.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

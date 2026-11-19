@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 1437054263,
+    "region": "cn",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥3.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥3.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1437054263",
+    "trackName": "Gem - Money tracker",
+    "firstRecordedAt": 1772564572180
+  },
+  {
+    "trackId": 6738571698,
+    "region": "cn",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥25.00",
+        "to": "¥18.00",
+        "range": "[¥15.00 ~ ¥25.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "¥18.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6738571698",
+    "trackName": "心灵渡船-灵魂摆渡人正版移植手游",
+    "firstRecordedAt": 1769749948149
+  },
+  {
+    "trackId": 6749369705,
+    "region": "cn",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥29.00",
+        "to": "¥26.00",
+        "range": "[¥22.00 ~ ¥36.00]"
+      }
+    ],
+    "price": 26,
+    "formattedPrice": "¥26.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6749369705",
+    "trackName": "沙石镇时光",
+    "firstRecordedAt": 1770345791146
+  },
+  {
+    "trackId": 6444508254,
+    "region": "cn",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥28.00",
+        "to": "¥6.00",
+        "range": "[¥1.00 ~ ¥88.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "汉末地图重制版",
+        "from": "¥20.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥20.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "华夏九州-水浒英雄传",
+        "from": "¥25.00",
+        "to": "¥20.00",
+        "range": "[¥18.00 ~ ¥25.00]"
+      }
+    ],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6444508254",
+    "trackName": "汉末霸业",
+    "firstRecordedAt": 1779826154618
+  },
+  {
+    "trackId": 6639610182,
+    "region": "cn",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥24.00",
+        "to": "¥18.00",
+        "range": "[¥18.00 ~ ¥24.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "¥18.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6639610182",
+    "trackName": "武士零",
+    "firstRecordedAt": 1790683950818
+  },
+  {
     "trackId": 6753721284,
     "region": "cn",
     "timestamp": 1795054671703,

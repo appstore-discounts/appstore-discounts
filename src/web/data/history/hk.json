@@ -157774,13 +157774,25 @@
       "Amazing tip": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Spectacular tip": "HK$ 38.00",
       "Thanks tip": "HK$ 8.00",
       "Amazing tip": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Spectacular tip": "HK$ 38.00",
+            "Thanks tip": "HK$ 8.00",
+            "Amazing tip": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772564572180,
@@ -166042,6 +166054,25 @@
       "禮包1": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "禮包5": "HK$ 38.00",
+            "月俸": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794767452594,
@@ -203208,6 +203239,23 @@
     "history": [
       [
         {
+          "timestamp": 1795086617057,
+          "price": 128,
+          "formattedPrice": "HK$ 128.00",
+          "inAppPurchases": {
+            "Swing Ⅱ-V-I-VI 12key (Long)": "HK$ 38.00",
+            "Major Jazz Blues 12 key": "HK$ 38.00",
+            "Minor Blues 12 key": "HK$ 38.00",
+            "Bossa Nova Blues 12key": "HK$ 22.00",
+            "Antonio Carlos Jobim Book Ⅰ.": "HK$ 48.00",
+            "Feel Like Makin love 12key": "HK$ 22.00",
+            "Bill Evans Repertoire": "HK$ 58.00",
+            "Rhythm Changes Reharmonization": "HK$ 22.00",
+            "Rhythm Change 12key": "HK$ 38.00",
+            "F.T.B (Robert Glasper) 12 key": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1795054671703,
           "price": 128,
           "formattedPrice": "HK$ 128.00",
@@ -239859,6 +239907,20 @@
       "Filtr": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Filtr": "HK$ 188.00",
+            "Yearly Recurring Tip": "HK$ 88.00",
+            "Monthly Recurring Tip": "HK$ 18.00",
+            "Mega Tip": "HK$ 148.00",
+            "Tip": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794404303285,
@@ -308612,6 +308674,23 @@
     "history": [
       [
         {
+          "timestamp": 1795086617057,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "新的統治者": "HK$ 48.00",
+            "婚禮造型套裝": "HK$ 88.00",
+            "魔界擴充通行證": "HK$ 48.00",
+            "深淵開拓者": "HK$ 88.00",
+            "魔界通行證2": "HK$ 22.00",
+            "尼奧貝希摩斯": "HK$ 18.00",
+            "隱月造型套裝": "HK$ 88.00",
+            "超越精華": "HK$ 228.00",
+            "永恆方舟": "HK$ 228.00",
+            "訓練記憶": "HK$ 148.00"
+          }
+        },
+        {
           "timestamp": 1795032051232,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -311725,6 +311804,14 @@
       "Remove Ads": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -316991,6 +317078,23 @@
     "history": [
       [
         {
+          "timestamp": 1795086617057,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00",
+            "服裝組合 · 月與星": "HK$ 22.00",
+            "服裝組合 · 傳奇盛宴": "HK$ 32.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1795054671703,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -319215,6 +319319,14 @@
     "history": [
       [
         {
+          "timestamp": 1795086617057,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794865224584,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -320979,6 +321091,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794865224584,

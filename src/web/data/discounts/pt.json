@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1437054263,
+    "region": "pt",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,49 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,49 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1437054263",
+    "trackName": "Gem - Money tracker",
+    "firstRecordedAt": 1772564572180
+  },
+  {
+    "trackId": 6760948683,
+    "region": "pt",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6760948683",
+    "trackName": "Digline: Mineração Relaxante",
+    "firstRecordedAt": 1781276299651
+  },
+  {
+    "trackId": 6812927976,
+    "region": "pt",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6812927976",
+    "trackName": "Enchanted Survival: RPG Loot",
+    "firstRecordedAt": 1791507612931
+  },
+  {
+    "trackId": 6814254443,
+    "region": "pt",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6814254443",
+    "trackName": "Pixel Miner: Jogo de Cavar",
+    "firstRecordedAt": 1794221790401
+  },
+  {
     "trackId": 1435461053,
     "region": "pt",
     "timestamp": 1795054671703,

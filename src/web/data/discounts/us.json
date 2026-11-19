@@ -1,5 +1,145 @@
 [
   {
+    "trackId": 1435461053,
+    "region": "us",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $8.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1435461053",
+    "trackName": "This Is the Police",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 1437054263,
+    "region": "us",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.49",
+        "to": "Free",
+        "range": "[Free ~ $0.49]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1437054263",
+    "trackName": "Gem - Money tracker",
+    "firstRecordedAt": 1772564572180
+  },
+  {
+    "trackId": 1537060891,
+    "region": "us",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$21.99",
+        "to": "$8.99",
+        "range": "[$7.99 ~ $21.99]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "$8.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 1538124245,
+    "region": "us",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 6760948683,
+    "region": "us",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6760948683",
+    "trackName": "Digline: Cozy Mining",
+    "firstRecordedAt": 1781276299651
+  },
+  {
+    "trackId": 6812927976,
+    "region": "us",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6812927976",
+    "trackName": "Enchanted Survival: Magic RPG",
+    "firstRecordedAt": 1791507612931
+  },
+  {
+    "trackId": 6814254443,
+    "region": "us",
+    "timestamp": 1795086617057,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6814254443",
+    "trackName": "Pixel Miner: Cozy Digging Game",
+    "firstRecordedAt": 1794221790401
+  },
+  {
     "trackId": 6801980968,
     "region": "us",
     "timestamp": 1795054671703,
@@ -1471,7 +1611,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 0.99,
@@ -6632,7 +6772,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -13842,7 +13982,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -19074,7 +19214,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -24331,7 +24471,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -28489,7 +28629,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -35021,7 +35161,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -38422,7 +38562,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -41756,7 +41896,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -45354,7 +45494,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -49002,7 +49142,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -51246,7 +51386,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -52984,7 +53124,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 1.99,
@@ -55559,7 +55699,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 4.99,
@@ -59975,7 +60115,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $7.99]"
+        "range": "[$0.99 ~ $8.99]"
       }
     ],
     "price": 4.99,

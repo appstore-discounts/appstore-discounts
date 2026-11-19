@@ -117858,13 +117858,25 @@
       "Amazing tip": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "USD 0.49",
+      "price": 0,
+      "formattedPrice": "免費",
       "Spectacular tip": "USD 4.99",
       "Thanks tip": "USD 0.99",
       "Amazing tip": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Spectacular tip": "USD 4.99",
+            "Thanks tip": "USD 0.99",
+            "Amazing tip": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772564572180,
@@ -214382,6 +214394,14 @@
     "history": [
       [
         {
+          "timestamp": 1795086617057,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -214797,6 +214817,14 @@
       "20 fuel to storage": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794865224584,
@@ -220393,6 +220421,14 @@
     "history": [
       [
         {
+          "timestamp": 1795086617057,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794865224584,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -222015,6 +222051,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795086617057,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794865224584,
