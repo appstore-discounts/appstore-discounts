@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2446` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2448` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2448|6813760931|自动|通胜 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|
+|2447|6768040383|自动|GR Snap - 理光GR无线传图|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|
 |2446|6756657026|自动|高塔旅人-巴别塔圣歌|❌|❌|❌|❌|❌|❌|
 |2445|1008692660|自动|❌|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|
 |2444|6832769102|自动|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
@@ -659,7 +661,7 @@
 |1797|1526122309|自动|❌|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|❌|❌|❌|
 |1796|1581312955|自动|❌|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|
 |1795|6752767565|自动|櫻花最前線 - 2026年預測|櫻花最前線 - 2026年預測|❌|櫻花最前線 - 2026年預測|❌|❌|❌|
-|1794|453571750|自动|3D绳结 (Knots 3D)|3D繩結  (Knots 3D)|3D繩結  (Knots 3D)|3D繩結  (Knots 3D)|Knots 3D|Knots 3D|Nós 3D  (Knots 3D)|
+|1794|453571750|自动|3D绳结大全 (Knots 3D)|3D繩結大全 (Knots 3D)|3D繩結大全 (Knots 3D)|3D繩結大全 (Knots 3D)|Knots 3D|Knots 3D|Nós Marinheiros 3D (Knots 3D)|
 |1793|6736900640|自动|❌|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|
 |1792|6759760712|自动|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|
 |1791|305709452|自动|财务计算机|Financial Calculator|Financial Calculator|Financial Calculator|Financial Calculator|Financial Calculator|Calculadora Financeira|
@@ -2447,7 +2449,7 @@
 |9|1596063349|手动|❌|Stash|Stash|Stash|Stash - Rule Based Proxy|Stash - Rule Based Proxy|Stash - Rule Based Proxy|
 |8|6444029612|手动|❌|Loon Lite|Loon Lite|Loon Lite|Loon Lite|Loon Lite|Loon Lite|
 |7|1373567447|手动|❌|Loon|Loon|Loon|Loon|Loon|Loon|
-|6|1442620678|手动|❌|Surge 5|Surge 5|Surge 5|Surge 5|Surge 6|Surge 6|
+|6|1442620678|手动|❌|Surge 6|Surge 6|Surge 6|Surge 6|Surge 6|Surge 6|
 |5|1443988620|手动|❌|Quantumult X|Quantumult X|Quantumult X|Quantumult X|Quantumult X|❌|
 |4|932747118|手动|❌|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|
 |3|1642682818|手动|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|

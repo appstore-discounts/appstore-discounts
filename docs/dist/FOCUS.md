@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2446` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2448` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2448|6813760931|Automatic|通胜 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|
+|2447|6768040383|Automatic|GR Snap - 理光GR无线传图|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|
 |2446|6756657026|Automatic|高塔旅人-巴别塔圣歌|❌|❌|❌|❌|❌|❌|
 |2445|1008692660|Automatic|❌|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|
 |2444|6832769102|Automatic|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
@@ -659,7 +661,7 @@ So far, we've covered `7` `Countries or Regions` and  `2446` `Apps` <br />Push n
 |1797|1526122309|Automatic|❌|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|❌|❌|❌|
 |1796|1581312955|Automatic|❌|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|
 |1795|6752767565|Automatic|櫻花最前線 - 2026年預測|櫻花最前線 - 2026年預測|❌|櫻花最前線 - 2026年預測|❌|❌|❌|
-|1794|453571750|Automatic|3D绳结 (Knots 3D)|3D繩結  (Knots 3D)|3D繩結  (Knots 3D)|3D繩結  (Knots 3D)|Knots 3D|Knots 3D|Nós 3D  (Knots 3D)|
+|1794|453571750|Automatic|3D绳结大全 (Knots 3D)|3D繩結大全 (Knots 3D)|3D繩結大全 (Knots 3D)|3D繩結大全 (Knots 3D)|Knots 3D|Knots 3D|Nós Marinheiros 3D (Knots 3D)|
 |1793|6736900640|Automatic|❌|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|Countless Army Mobile Edition|
 |1792|6759760712|Automatic|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|射龍門 - 將春節經典牌局帶到手機上，隨時隨地都可以來一場！|
 |1791|305709452|Automatic|财务计算机|Financial Calculator|Financial Calculator|Financial Calculator|Financial Calculator|Financial Calculator|Calculadora Financeira|
@@ -2447,7 +2449,7 @@ So far, we've covered `7` `Countries or Regions` and  `2446` `Apps` <br />Push n
 |9|1596063349|Manual|❌|Stash|Stash|Stash|Stash - Rule Based Proxy|Stash - Rule Based Proxy|Stash - Rule Based Proxy|
 |8|6444029612|Manual|❌|Loon Lite|Loon Lite|Loon Lite|Loon Lite|Loon Lite|Loon Lite|
 |7|1373567447|Manual|❌|Loon|Loon|Loon|Loon|Loon|Loon|
-|6|1442620678|Manual|❌|Surge 5|Surge 5|Surge 5|Surge 5|Surge 6|Surge 6|
+|6|1442620678|Manual|❌|Surge 6|Surge 6|Surge 6|Surge 6|Surge 6|Surge 6|
 |5|1443988620|Manual|❌|Quantumult X|Quantumult X|Quantumult X|Quantumult X|Quantumult X|❌|
 |4|932747118|Manual|❌|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|
 |3|1642682818|Manual|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|

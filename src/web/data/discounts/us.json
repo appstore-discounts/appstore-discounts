@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6756542102,
+    "region": "us",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$64.99",
+        "to": "$51.99",
+        "range": "[$51.99 ~ $69.99]"
+      }
+    ],
+    "price": 51.99,
+    "formattedPrice": "$51.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6756542102",
+    "trackName": "Onyx Magic",
+    "firstRecordedAt": 1766435443969
+  },
+  {
+    "trackId": 6798830578,
+    "region": "us",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6798830578",
+    "trackName": "PDF2MD: PDF to Markdown",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 1435461053,
     "region": "us",
     "timestamp": 1795086617057,

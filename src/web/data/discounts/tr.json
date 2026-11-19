@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1621267448,
+    "region": "tr",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "weekly pro",
+        "from": "₺449,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺449,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1621267448",
+    "trackName": "FormCheck AI: 表格检查",
+    "firstRecordedAt": 1772046909953
+  },
+  {
+    "trackId": 6756542102,
+    "region": "tr",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺3.499,99",
+        "to": "₺2.999,99",
+        "range": "[₺2.999,99 ~ ₺3.999,99]"
+      }
+    ],
+    "price": 2999.99,
+    "formattedPrice": "₺2.999,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6756542102",
+    "trackName": "Onyx Magic",
+    "firstRecordedAt": 1766435443969
+  },
+  {
+    "trackId": 6798830578,
+    "region": "tr",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6798830578",
+    "trackName": "PDF2MD: PDF to Markdown",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 1437054263,
     "region": "tr",
     "timestamp": 1795086617057,

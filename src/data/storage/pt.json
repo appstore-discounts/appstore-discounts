@@ -14651,7 +14651,7 @@
     ]
   },
   "453571750": {
-    "name": "Nós 3D  (Knots 3D)",
+    "name": "Nós Marinheiros 3D (Knots 3D)",
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €"
@@ -80422,7 +80422,8 @@
       "精听党 | 英语四级真题精品课": "9,99 €",
       "英语时文精读（新冠专题）": "29,99 €",
       "VIP连续包月": "3,99 €",
-      "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €"
+      "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €",
+      "《人类简史》英文原版精读课": "89,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -80438,9 +80439,29 @@
       "精听党 | 英语四级真题精品课": "9,99 €",
       "英语时文精读（新冠专题）": "29,99 €",
       "VIP连续包月": "3,99 €",
-      "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €"
+      "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €",
+      "《人类简史》英文原版精读课": "89,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "《人类简史》英文原版精读课": "89,99 €",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "34,99 €",
+            "VIP连续包月": "3,99 €",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "34,99 €",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "34,99 €",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "34,99 €",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "34,99 €",
+            "林小鹿英语精读（1-7季合集升级版）": "79,99 €",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "34,99 €",
+            "林小鹿经济学人精读": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782770887097,
@@ -140906,6 +140927,17 @@
     "history": [
       [
         {
+          "timestamp": 1795118369176,
+          "price": 59.99,
+          "formattedPrice": "59,99 €",
+          "inAppPurchases": {
+            "Onyx Print": "59,99 €",
+            "100 Onyx Credits": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1772987915268,
           "price": 69.99,
           "formattedPrice": "69,99 €",
@@ -152940,6 +152972,14 @@
     "history": [
       [
         {
+          "timestamp": 1795118369176,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794165648967,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -154754,6 +154794,25 @@
       "Herói IGNUS Sale": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "BARRIL de Gemas": "9,99 €",
+            "BAÚ de Gemas": "22,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "Herói DRAKKAN": "7,99 €",
+            "PUNHADO de Gemas": "2,99 €",
+            "Herói IGNUS": "2,99 €",
+            "Torre CAÇADORAS": "5,99 €",
+            "Herói ASHBITE": "7,99 €",
+            "PACOTE TODAS AS TORRES": "22,99 €",
+            "Torre FORJADOR": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794865224584,
@@ -157704,6 +157763,48 @@
           "timestamp": 1795032051232,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813760931": {
+    "name": "通勝 2027",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6768040383": {
+    "name": "GR Snap - Ricoh GR Image Sync",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]

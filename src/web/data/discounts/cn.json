@@ -1,5 +1,379 @@
 [
   {
+    "trackId": 510249014,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id510249014",
+    "trackName": "水平仪 HD",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1157863540,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1157863540",
+    "trackName": "泰拉瑞亚",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1159266744,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥6.00",
+        "to": "¥3.00",
+        "range": "[¥3.00 ~ ¥6.00]"
+      }
+    ],
+    "price": 3,
+    "formattedPrice": "¥3.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1159266744",
+    "trackName": "双子 Gemini",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1271620263,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1271620263",
+    "trackName": "艾希 - ICEY",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1344655035,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "蜡烛人完整版",
+        "from": "¥30.00",
+        "to": "¥16.80",
+        "range": "[¥16.80 ~ ¥30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1344655035",
+    "trackName": "蜡烛人",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1380582804,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1380582804",
+    "trackName": "手机帝国",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1453808408,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1453808408",
+    "trackName": "恶果之地",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6446614518,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥20.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥20.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6446614518",
+    "trackName": "画中世界",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6499512726,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6499512726",
+    "trackName": "浮岛冒险",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6483210281,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥9.50",
+        "range": "[¥9.50 ~ ¥12.00]"
+      }
+    ],
+    "price": 9.5,
+    "formattedPrice": "¥9.50",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6483210281",
+    "trackName": "生物原型",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6753102218,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥9.50",
+        "range": "[¥9.50 ~ ¥12.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：莫提亚的遗产",
+        "from": "¥6.00",
+        "to": "¥3.00",
+        "range": "[¥3.00 ~ ¥6.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：深海魅影",
+        "from": "¥6.00",
+        "to": "¥3.00",
+        "range": "[¥3.00 ~ ¥6.00]"
+      }
+    ],
+    "price": 9.5,
+    "formattedPrice": "¥9.50",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6753102218",
+    "trackName": "神器行者：奥罗瑞恩传奇",
+    "firstRecordedAt": 1761272362844
+  },
+  {
+    "trackId": 6746152489,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥9.50",
+        "range": "[¥9.50 ~ ¥12.00]"
+      }
+    ],
+    "price": 9.5,
+    "formattedPrice": "¥9.50",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6746152489",
+    "trackName": "西行乱斗",
+    "firstRecordedAt": 1763015934337
+  },
+  {
+    "trackId": 6739762570,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥9.50",
+        "range": "[¥9.50 ~ ¥12.00]"
+      }
+    ],
+    "price": 9.5,
+    "formattedPrice": "¥9.50",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6739762570",
+    "trackName": "生物原型2",
+    "firstRecordedAt": 1765678903382
+  },
+  {
+    "trackId": 6756542102,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥498.00",
+        "to": "¥368.00",
+        "range": "[¥368.00 ~ ¥498.00]"
+      }
+    ],
+    "price": 368,
+    "formattedPrice": "¥368.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6756542102",
+    "trackName": "Onyx Magic",
+    "firstRecordedAt": 1766435443969
+  },
+  {
+    "trackId": 6754591842,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥15.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6754591842",
+    "trackName": "无径之林",
+    "firstRecordedAt": 1768718457040
+  },
+  {
+    "trackId": 6755228041,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥30.00",
+        "to": "¥24.00",
+        "range": "[¥24.00 ~ ¥30.00]"
+      }
+    ],
+    "price": 24,
+    "formattedPrice": "¥24.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6755228041",
+    "trackName": "潜水员戴夫",
+    "firstRecordedAt": 1770383775007
+  },
+  {
+    "trackId": 6760122905,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥14.00",
+        "range": "[¥14.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 14,
+    "formattedPrice": "¥14.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6760122905",
+    "trackName": "江城创业记",
+    "firstRecordedAt": 1787402209195
+  },
+  {
+    "trackId": 6798830578,
+    "region": "cn",
+    "timestamp": 1795118369176,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥22.00",
+        "range": "[¥22.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "¥22.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6798830578",
+    "trackName": "PDF2MD: PDF to Markdown",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 1437054263,
     "region": "cn",
     "timestamp": 1795086617057,
@@ -5851,7 +6225,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -7145,7 +7519,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -7926,7 +8300,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -9259,7 +9633,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -10411,7 +10785,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -12400,7 +12774,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -16212,7 +16586,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -20796,7 +21170,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -22464,7 +22838,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -27636,7 +28010,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -30683,7 +31057,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -31805,7 +32179,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,
@@ -32674,7 +33048,7 @@
         "name": "蜡烛人完整版",
         "from": "¥30.00",
         "to": "¥18.00",
-        "range": "[¥18.00 ~ ¥30.00]"
+        "range": "[¥16.80 ~ ¥30.00]"
       }
     ],
     "price": 0,

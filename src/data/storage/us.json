@@ -106305,6 +106305,25 @@
     "history": [
       [
         {
+          "timestamp": 1795118369176,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Side Story Chapter 1": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Expansion Ch. U": "$3.99",
+            "Medium bottle of Chiming Core": "$4.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Small bottle of Chiming Core": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793160762894,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -174476,7 +174495,7 @@
     ]
   },
   "1442620678": {
-    "name": "Surge 5",
+    "name": "Surge 6",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -193775,7 +193794,8 @@
       "《爱丽丝梦游仙境》": "$5.99",
       "《欧·亨利短篇小说精选》": "$5.99",
       "VIP连续包月": "$3.99",
-      "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99"
+      "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+      "《人类简史》英文原版精读课": "$79.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -193804,9 +193824,28 @@
       "《爱丽丝梦游仙境》": "$5.99",
       "《欧·亨利短篇小说精选》": "$5.99",
       "VIP连续包月": "$3.99",
-      "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99"
+      "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+      "《人类简史》英文原版精读课": "$79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "每日外刊": "$8.49",
+            "2年联合VIP会员": "$29.99",
+            "VIP连续包季": "$7.99",
+            "VIP连续包月": "$3.99",
+            "一年联合VIP会员": "$19.99",
+            "《人类简史》英文原版精读课": "$79.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794142180981,
@@ -348736,12 +348775,23 @@
       "Onyx Print": "$99.99"
     },
     "minPriceInfo": {
-      "price": 54.99,
-      "formattedPrice": "$54.99",
+      "price": 51.99,
+      "formattedPrice": "$51.99",
       "100 Onyx Credits": "$19.99",
       "Onyx Print": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 51.99,
+          "formattedPrice": "$51.99",
+          "inAppPurchases": {
+            "Onyx Print": "$49.99",
+            "100 Onyx Credits": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772987915268,
@@ -357342,6 +357392,25 @@
     "history": [
       [
         {
+          "timestamp": 1795118369176,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "New Rulers": "$5.99",
+            "Wedding Skin Set": "$9.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Neo Behemoth": "$1.99",
+            "Moonveil Skin Set": "$9.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Underworld Pass 2": "$2.99",
+            "Underworld Pass 1": "$2.99",
+            "Essence of Transcendence": "$29.99",
+            "Memory of Training": "$17.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795000306282,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -365329,6 +365398,14 @@
     "history": [
       [
         {
+          "timestamp": 1795118369176,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794165648967,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -370803,6 +370880,48 @@
           "timestamp": 1795032051232,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813760931": {
+    "name": "通勝 2027",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6768040383": {
+    "name": "GR Snap - Ricoh GR Image Sync",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795118369176,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
           "inAppPurchases": {}
         }
       ]
