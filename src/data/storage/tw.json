@@ -24291,13 +24291,28 @@
     "name": "紫微斗數排盤",
     "maxPriceInfo": {
       "price": 790,
-      "formattedPrice": "$790.00"
+      "formattedPrice": "$790.00",
+      "Premium 月訂閱": "$90.00",
+      "Premium 年訂閱": "$790.00"
     },
     "minPriceInfo": {
       "price": 790,
-      "formattedPrice": "$790.00"
+      "formattedPrice": "$790.00",
+      "Premium 月訂閱": "$90.00",
+      "Premium 年訂閱": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "Premium 月訂閱": "$90.00",
+            "Premium 年訂閱": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756822351570,
@@ -24392,6 +24407,25 @@
       "艾莉優惠套裝": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "神秘鴨優惠套裝": "$30.00",
+            "大頑固優惠套裝": "$30.00",
+            "艾莉優惠套裝": "$30.00",
+            "鎖匠 － 全部愛麗鎖": "$60.00",
+            "愛麗的故事": "$30.00",
+            "假日優惠套裝": "$120.00",
+            "鎖匠 - 一把鎖": "$30.00",
+            "神秘鴨": "$90.00",
+            "鎖匠 – 全部的神秘鎖": "$150.00",
+            "鎖匠 – 全部的大頑固鎖": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787121698880,
@@ -91881,6 +91915,27 @@
           "timestamp": 1761941657013,
           "price": 120,
           "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1008692660": {
+    "name": "RollerCoaster Tycoon® 3",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]
@@ -244222,6 +244277,25 @@
     "history": [
       [
         {
+          "timestamp": 1795054671703,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "斜谷殘陽": "$190.00",
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "群雄爭霸": "$90.00",
+            "重振漢室": "$90.00",
+            "楚漢爭霸": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "北境狂人": "$90.00",
+            "公路霸業": "$90.00",
+            "終身版": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794433497584,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -277213,6 +277287,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795000306282,
@@ -320111,16 +320204,31 @@
       "formattedPrice": "$150.00",
       "BikeControl Pro": "$790.00",
       "BikeControl Pro - Yearly": "$790.00",
-      "Full Version Unlock": "$150.00"
+      "Full Version Unlock": "$150.00",
+      "Pro Forever": "$1,490.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "BikeControl Pro": "$60.00",
       "BikeControl Pro - Yearly": "$790.00",
-      "Full Version Unlock": "$120.00"
+      "Full Version Unlock": "$120.00",
+      "Pro Forever": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Forever": "$1,490.00",
+            "BikeControl Pro": "$60.00",
+            "BikeControl Pro - Yearly": "$790.00",
+            "Full Version Unlock": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792942623004,
@@ -326030,6 +326138,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795054671703,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄達莉雅": "$150.00",
+            "塔樓貓頭鷹騎士": "$150.00",
+            "混合 禮包 11": "$320.00",
+            "英雄奧斯尼爾": "$150.00",
+            "全英雄禮包": "$790.00",
+            "法術變羊術": "$150.00",
+            "全法術禮包": "$390.00",
+            "全塔禮包": "$690.00",
+            "全塔禮包_B": "$490.00",
+            "一箱寶石": "$690.00"
+          }
+        },
         {
           "timestamp": 1795032051232,
           "price": 220,

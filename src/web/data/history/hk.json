@@ -25420,13 +25420,28 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 188,
-      "formattedPrice": "HK$ 188.00"
+      "formattedPrice": "HK$ 188.00",
+      "Premium 月訂閱": "HK$ 22.00",
+      "Premium 年訂閱": "HK$ 188.00"
     },
     "minPriceInfo": {
       "price": 188,
-      "formattedPrice": "HK$ 188.00"
+      "formattedPrice": "HK$ 188.00",
+      "Premium 月訂閱": "HK$ 22.00",
+      "Premium 年訂閱": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "Premium 月訂閱": "HK$ 22.00",
+            "Premium 年訂閱": "HK$ 188.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756822351570,
@@ -78221,6 +78236,14 @@
     "history": [
       [
         {
+          "timestamp": 1795054671703,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "捐款": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1795032051232,
           "price": 68,
           "formattedPrice": "HK$ 68.00",
@@ -91988,6 +92011,29 @@
           "timestamp": 1761941657013,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1008692660": {
+    "trackId": 1008692660,
+    "trackName": "RollerCoaster Tycoon® 3",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]
@@ -154891,7 +154937,7 @@
   },
   "1391571907": {
     "trackId": 1391571907,
-    "trackName": "Fine修圖",
+    "trackName": "Fine修圖 - 照片與視頻編輯",
     "region": "hk",
     "maxPriceInfo": {
       "price": 58,
@@ -203160,6 +203206,25 @@
       "Bird Blues Changes 12key": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 128,
+          "formattedPrice": "HK$ 128.00",
+          "inAppPurchases": {
+            "Minor Swing Ⅱ-Ⅴ-Ⅰ-Ⅵ 12key(L)": "HK$ 38.00",
+            "Antonio Carlos Jobim SongBookⅡ": "HK$ 48.00",
+            "Sing like Chet": "HK$ 58.00",
+            "Antonio Carlos Jobim Book Ⅰ.": "HK$ 48.00",
+            "Latin Jazz Song Book (Cuban)": "HK$ 48.00",
+            "Film Music Repertoire": "HK$ 38.00",
+            "Art Blakey&The Jazz Messengers": "HK$ 38.00",
+            "Benny Green Songbook": "HK$ 38.00",
+            "One Chord Funk (Dominant7th)": "HK$ 38.00",
+            "Essential Wayne Shorter": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794604319311,
@@ -310873,16 +310938,31 @@
       "formattedPrice": "HK$ 38.00",
       "BikeControl Pro": "HK$ 18.00",
       "BikeControl Pro - Yearly": "HK$ 188.00",
-      "Full Version Unlock": "HK$ 38.00"
+      "Full Version Unlock": "HK$ 38.00",
+      "Pro Forever": "HK$ 368.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "BikeControl Pro": "HK$ 18.00",
       "BikeControl Pro - Yearly": "HK$ 188.00",
-      "Full Version Unlock": "HK$ 32.00"
+      "Full Version Unlock": "HK$ 32.00",
+      "Pro Forever": "HK$ 368.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "BikeControl Pro": "HK$ 18.00",
+            "Pro Forever": "HK$ 368.00",
+            "BikeControl Pro - Yearly": "HK$ 188.00",
+            "Full Version Unlock": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -311139,7 +311219,7 @@
   },
   "6756866511": {
     "trackId": 6756866511,
-    "trackName": "IIWII",
+    "trackName": "IIWII: Analogkamera & Looks",
     "region": "hk",
     "maxPriceInfo": {
       "price": 22,
@@ -315094,7 +315174,7 @@
   },
   "6797458927": {
     "trackId": 6797458927,
-    "trackName": "塔台",
+    "trackName": "塔台 Tower - 訂閱轉換與規則設定",
     "region": "hk",
     "maxPriceInfo": {
       "price": 18,
@@ -316883,8 +316963,8 @@
       "服裝組合 · 傳奇盛宴": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 13,
-      "formattedPrice": "HK$ 13.00",
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
       "贊助第一階・贊助者": "HK$ 2.00",
       "付費角色・艾德瑞克": "HK$ 8.00",
       "贊助第三階・傭兵團恩人": "HK$ 58.00",
@@ -316909,6 +316989,25 @@
       "服裝組合 · 傳奇盛宴": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00",
+            "服裝組合 · 月與星": "HK$ 22.00",
+            "服裝組合 · 傳奇盛宴": "HK$ 32.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "付費角色・薩爾古爾": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,

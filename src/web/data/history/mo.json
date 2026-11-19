@@ -18560,13 +18560,28 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 23.99,
-      "formattedPrice": "USD 23.99"
+      "formattedPrice": "USD 23.99",
+      "Premium 月訂閱": "USD 2.99",
+      "Premium 年訂閱": "USD 24.99"
     },
     "minPriceInfo": {
       "price": 23.99,
-      "formattedPrice": "USD 23.99"
+      "formattedPrice": "USD 23.99",
+      "Premium 月訂閱": "USD 2.99",
+      "Premium 年訂閱": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 23.99,
+          "formattedPrice": "USD 23.99",
+          "inAppPurchases": {
+            "Premium 月訂閱": "USD 2.99",
+            "Premium 年訂閱": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756822351570,
@@ -74295,6 +74310,29 @@
       ]
     ]
   },
+  "1008692660": {
+    "trackId": 1008692660,
+    "trackName": "RollerCoaster Tycoon® 3",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1009747025": {
     "trackId": 1009747025,
     "trackName": "zFuse - 影片播放器",
@@ -83138,7 +83176,12 @@
       "翅膀焕新礼包": "USD 2.99",
       "神器微光礼包": "USD 0.99",
       "战力启航礼包": "USD 0.99",
-      "战力跃升礼包": "USD 2.99"
+      "战力跃升礼包": "USD 2.99",
+      "至尊闯关基金XIV": "USD 99.99",
+      "闯关基金XIV": "USD 49.99",
+      "至尊闯关基金XV": "USD 99.99",
+      "闯关基金XV": "USD 49.99",
+      "至尊等级基金XIII": "USD 99.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -83181,9 +83224,33 @@
       "翅膀焕新礼包": "USD 2.99",
       "神器微光礼包": "USD 0.99",
       "战力启航礼包": "USD 0.99",
-      "战力跃升礼包": "USD 2.99"
+      "战力跃升礼包": "USD 2.99",
+      "至尊闯关基金XIV": "USD 99.99",
+      "闯关基金XIV": "USD 49.99",
+      "至尊闯关基金XV": "USD 99.99",
+      "闯关基金XV": "USD 49.99",
+      "至尊等级基金XIII": "USD 99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "至尊闯关基金XIV": "USD 99.99",
+            "闯关基金XIV": "USD 49.99",
+            "至尊闯关基金XV": "USD 99.99",
+            "闯关基金XV": "USD 49.99",
+            "至尊等级基金XIII": "USD 99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794632787864,
@@ -217606,16 +217673,31 @@
       "formattedPrice": "USD 4.99",
       "BikeControl Pro": "USD 24.99",
       "BikeControl Pro - Yearly": "USD 22.99",
-      "Full Version Unlock": "USD 4.99"
+      "Full Version Unlock": "USD 4.99",
+      "Pro Forever": "USD 44.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "BikeControl Pro": "USD 1.99",
       "BikeControl Pro - Yearly": "USD 22.99",
-      "Full Version Unlock": "USD 3.99"
+      "Full Version Unlock": "USD 3.99",
+      "Pro Forever": "USD 44.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Forever": "USD 44.99",
+            "BikeControl Pro": "USD 1.99",
+            "BikeControl Pro - Yearly": "USD 22.99",
+            "Full Version Unlock": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -217894,7 +217976,7 @@
   },
   "6756866511": {
     "trackId": 6756866511,
-    "trackName": "IIWII",
+    "trackName": "IIWII: Analogkamera & Looks",
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
@@ -223538,8 +223620,8 @@
       "組合・灰鱗追獵隊": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
       "贊助第一階・贊助者": "USD 0.49",
       "付費角色・艾德瑞克": "USD 0.99",
       "贊助第三階・傭兵團恩人": "USD 6.99",
@@ -223571,6 +223653,25 @@
       "組合・灰鱗追獵隊": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "組合・灰鱗追獵隊": "USD 6.99",
+            "付費角色・雅爾娜": "USD 0.99",
+            "付費角色・雲虛": "USD 0.99",
+            "服裝組合 · 騎士團盛宴": "USD 2.99",
+            "服裝組合 · 森林與工坊": "USD 2.99",
+            "服裝組合 · 雪花庭園": "USD 2.99",
+            "服裝組合 · 東方之夜": "USD 2.99",
+            "服裝組合 · 月與星": "USD 2.99",
+            "秋獵女王": "USD 0.49",
+            "白銀鬥士": "USD 0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,

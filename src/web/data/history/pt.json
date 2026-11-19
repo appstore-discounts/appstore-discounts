@@ -34149,6 +34149,25 @@
     "history": [
       [
         {
+          "timestamp": 1795054671703,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "0,00 €",
+            "DEEP BLUE": "0,00 €",
+            "BEEPING BOBBIE": "0,00 €",
+            "A MAJOR'S LOW BLOW": "0,00 €",
+            "BEAST OF SHADOWS": "0,00 €",
+            "FUSION FLIPPO": "0,99 €",
+            "CAMPBELL'S CANS": "0,99 €",
+            "ISAAC'S NEW TONES": "0,99 €",
+            "HIGH FIVE": "0,99 €",
+            "GROOVY GUT SHAKER": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795032051232,
           "price": 12.99,
           "formattedPrice": "12,99 €",
@@ -48601,6 +48620,29 @@
           "timestamp": 1761941657013,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1008692660": {
+    "trackId": 1008692660,
+    "trackName": "RollerCoaster Tycoon® 3",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -77348,6 +77390,14 @@
     "history": [
       [
         {
+          "timestamp": 1795054671703,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792539493215,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -96097,6 +96147,18 @@
     "history": [
       [
         {
+          "timestamp": 1795054671703,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Ragnarök for free download": "0,00 €",
+            "Atlantis for free download": "0,00 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792539493215,
           "price": 19.99,
           "formattedPrice": "19,99 €",
@@ -96571,6 +96633,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -108325,6 +108395,16 @@
       "DLC Mr. X Nightmare": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "DLC Mr. X Nightmare": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794329315472,
@@ -152370,16 +152450,31 @@
       "formattedPrice": "5,99 €",
       "Full Version Unlock": "5,99 €",
       "BikeControl Pro": "27,99 €",
-      "BikeControl Pro - Yearly": "24,99 €"
+      "BikeControl Pro - Yearly": "24,99 €",
+      "Pro Forever": "49,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
       "Full Version Unlock": "4,99 €",
       "BikeControl Pro": "2,79 €",
-      "BikeControl Pro - Yearly": "24,99 €"
+      "BikeControl Pro - Yearly": "24,99 €",
+      "Pro Forever": "49,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Full Version Unlock": "5,99 €",
+            "BikeControl Pro": "2,79 €",
+            "Pro Forever": "49,99 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793991369986,
@@ -158316,6 +158411,25 @@
     "history": [
       [
         {
+          "timestamp": 1795054671703,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote · Caçada Cinzescama": "7,99 €",
+            "Herói · Yarna": "0,99 €",
+            "Herói · Unheo": "0,99 €",
+            "Pacote · Gala dos cavaleiros": "2,99 €",
+            "Pacote · Floresta e oficina": "2,99 €",
+            "Pacote · Jardim nevado": "2,99 €",
+            "Pacote · Noite oriental": "2,99 €",
+            "Pacote · Lua e estrelas": "2,99 €",
+            "Rainha da caça outonal": "0,49 €",
+            "Gladiador de prata": "0,49 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794977944693,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -161094,14 +161208,22 @@
     "trackName": "Absolum",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €"
+      "price": 11.99,
+      "formattedPrice": "11,99 €"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795054671703,
+          "price": 11.99,
+          "formattedPrice": "11,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793907156005,

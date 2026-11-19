@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1435461053,
+    "region": "pt",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1435461053",
+    "trackName": "This is the Police",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1537060891,
+    "region": "pt",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "19,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 19,99 €]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 1538124245,
+    "region": "pt",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6753721284,
+    "region": "pt",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "BikeControl Pro",
+        "from": "27,99 €",
+        "to": "2,79 €",
+        "range": "[2,79 € ~ 27,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6753721284",
+    "trackName": "BikeControl: Virtual Shifting",
+    "firstRecordedAt": 1778874489166
+  },
+  {
+    "trackId": 6801980968,
+    "region": "pt",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6801980968",
+    "trackName": "Tower & Mercenaries",
+    "firstRecordedAt": 1790160655952
+  },
+  {
     "trackId": 378503081,
     "region": "pt",
     "timestamp": 1795032051232,

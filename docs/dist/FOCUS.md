@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2444` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2445` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2445|1008692660|Automatic|❌|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|
 |2444|6832769102|Automatic|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
 |2443|951627022|Automatic|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
 |2442|6833608280|Automatic|FarView 远迹|❌|❌|❌|❌|❌|❌|
@@ -251,7 +252,7 @@ So far, we've covered `7` `Countries or Regions` and  `2444` `Apps` <br />Push n
 |2203|6797726611|Automatic|KeyCam|KeyCam|KeyCam|KeyCam|KeyCam|KeyCam|KeyCam|
 |2202|811397653|Automatic|❌|你必須造一艘船|你必須造一艘船|你必須造一艘船|You Must Build A Boat|You Must Build A Boat|Você Deve Construir Um Barco|
 |2201|1601016809|Automatic|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|
-|2200|6797458927|Automatic|❌|塔台|塔台 Tower - 訂閱轉換與規則設定|塔台 Tower - 訂閱轉換與規則設定|Tower - Config Converter|Tower - Config Converter|塔台 Tower - 订阅转换与规则配置|
+|2200|6797458927|Automatic|❌|塔台 Tower - 訂閱轉換與規則設定|塔台 Tower - 訂閱轉換與規則設定|塔台 Tower - 訂閱轉換與規則設定|Tower - Config Converter|Tower - Config Converter|塔台 Tower - 订阅转换与规则配置|
 |2199|1445813795|Automatic|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Lunar Eclipse Guide: Aug 27–28|Lunar Eclipse Guide: 28 August|Eclipse Guide: Lua de sangue|
 |2198|6449100612|Automatic|❌|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|
 |2197|1599230728|Automatic|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|
@@ -455,7 +456,7 @@ So far, we've covered `7` `Countries or Regions` and  `2444` `Apps` <br />Push n
 |1999|1043877923|Automatic|❌|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|Shoes Clothing Store Master|Shoes Clothing Store Master|Shoes Clothing Store Master|
 |1998|982717032|Automatic|生意记账DailySales - 进销存管理系统多仓库盘点|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|
 |1997|6745770352|Automatic|声波防晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|声波防晕车|
-|1996|6756866511|Automatic|IIWII|IIWII|IIWII|IIWII: Analogkamera & Looks|IIWII: Film Simulation Camera|IIWII: Film Simulation Camera|IIWII: Câmera analógica|
+|1996|6756866511|Automatic|IIWII: Analogkamera & Looks|IIWII: Analogkamera & Looks|IIWII: Analogkamera & Looks|IIWII: Analogkamera & Looks|IIWII: Film Simulation Camera|IIWII: Film Simulation Camera|IIWII: Câmera analógica|
 |1995|6748056918|Automatic|❌|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|
 |1994|6767835460|Automatic|❌|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|
 |1993|880614385|Automatic|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|
@@ -2332,7 +2333,7 @@ So far, we've covered `7` `Countries or Regions` and  `2444` `Apps` <br />Push n
 |122|931188326|Manual|DayCost|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|
 |121|6449930220|Manual|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari - Watch Browser|Wafari - Watch Browser|Wafari  手表浏览器|
 |120| ~~818394449~~ |Manual| ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~Timeline - World history~~ | ~~Timeline - World history~~ | ~~❌~~ |
-|119|1391571907|Manual|Fine修图|Fine修圖|Fine修圖 - 照片與視頻編輯|Fine修圖 - 照片與視頻編輯|Fine - Photo & Video Editor|Fine - Photo & Video Editor|Fine: Editor de Fotos e Vídeos|
+|119|1391571907|Manual|Fine修图|Fine修圖 - 照片與視頻編輯|Fine修圖 - 照片與視頻編輯|Fine修圖 - 照片與視頻編輯|Fine - Photo & Video Editor|Fine - Photo & Video Editor|Fine: Editor de Fotos e Vídeos|
 |118|6499125531|Manual|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|
 |117| ~~1485101937~~ |Manual| ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~❌~~ |
 |116|703265535|Manual|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|FocusDots · Focus What Matters|

@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1435461053,
+    "region": "tr",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺139,99",
+        "to": "₺29,99",
+        "range": "[₺5,00 ~ ₺139,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1435461053",
+    "trackName": "This Is the Police",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 1537060891,
+    "region": "tr",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺349,99",
+        "to": "₺139,99",
+        "range": "[₺54,99 ~ ₺349,99]"
+      }
+    ],
+    "price": 139.99,
+    "formattedPrice": "₺139,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 1538124245,
+    "region": "tr",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6801980968,
+    "region": "tr",
+    "timestamp": 1795054671703,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6801980968",
+    "trackName": "Tower & Mercenaries",
+    "firstRecordedAt": 1790160655952
+  },
+  {
     "trackId": 378503081,
     "region": "tr",
     "timestamp": 1795032051232,
