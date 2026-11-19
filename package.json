@@ -11,6 +11,7 @@
     "docs-i18n": "i18n t -P docs/src",
     "build": "rimraf dist/src && rollup -c",
     "rss": "tsx src/data/index.ts",
+    "test:notifications": "tsx --test src/data/notificationFilters.test.ts",
     "rss-i18n": "npx i18n t -P src/data/i18n",
     "generate-web-data": "tsx src/web/scripts/generateWebData.ts"
   },
