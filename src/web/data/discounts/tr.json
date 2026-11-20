@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6805775608,
+    "region": "tr",
+    "timestamp": 1795172225067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "₺29,99",
+        "range": "[₺29,99 ~ ₺49,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6805775608",
+    "trackName": "Turkish Coffeehouse Simulator",
+    "firstRecordedAt": 1792505275724
+  },
+  {
+    "trackId": 6822746934,
+    "region": "tr",
+    "timestamp": 1795172225067,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6822746934",
+    "trackName": "Nameless Ember: Sigilbound",
+    "firstRecordedAt": 1794738363484
+  },
+  {
     "trackId": 325307477,
     "region": "tr",
     "timestamp": 1795140089529,

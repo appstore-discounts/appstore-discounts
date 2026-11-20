@@ -24808,6 +24808,14 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793382301850,
           "price": 128,
           "formattedPrice": "HK$ 128.00",
@@ -25052,12 +25060,23 @@
       "Premium 年訂閱": "HK$ 188.00"
     },
     "minPriceInfo": {
-      "price": 188,
-      "formattedPrice": "HK$ 188.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium 月訂閱": "HK$ 22.00",
       "Premium 年訂閱": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium 月訂閱": "HK$ 22.00",
+            "Premium 年訂閱": "HK$ 188.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795054671703,
@@ -42555,6 +42574,27 @@
           "timestamp": 1745328692670,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "525117691": {
+    "name": "StitchSketch",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
         }
       ]
@@ -78152,6 +78192,25 @@
       "Chloe": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "HK$ 8.00",
+            "Rat": "HK$ 8.00",
+            "Small Coin Pack": "HK$ 8.00",
+            "Large Coin Pack": "HK$ 22.00",
+            "Unlock all stages": "HK$ 8.00",
+            "Medium Coin Pack": "HK$ 18.00",
+            "Dragon": "HK$ 8.00",
+            "Atom": "HK$ 8.00",
+            "Snake": "HK$ 8.00",
+            "Pig": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792753502905,
@@ -315746,10 +315805,18 @@
       "formattedPrice": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 5,
+      "formattedPrice": "HK$ 5.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 5,
+          "formattedPrice": "HK$ 5.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -317177,10 +317244,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794738363484,

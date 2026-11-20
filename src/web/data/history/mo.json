@@ -18316,6 +18316,14 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793382301850,
           "price": 16.99,
           "formattedPrice": "USD 16.99",
@@ -18584,12 +18592,23 @@
       "Premium 年訂閱": "USD 24.99"
     },
     "minPriceInfo": {
-      "price": 23.99,
-      "formattedPrice": "USD 23.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium 月訂閱": "USD 2.99",
       "Premium 年訂閱": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium 月訂閱": "USD 2.99",
+            "Premium 年訂閱": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795054671703,
@@ -35915,6 +35934,29 @@
           "timestamp": 1745328692670,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "525117691": {
+    "trackId": 525117691,
+    "trackName": "StitchSketch",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
         }
       ]
@@ -136567,6 +136609,22 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Explorer Pack": "USD 10.99",
+            "City Break": "USD 2.99",
+            "The Complete Collection": "USD 34.99",
+            "Welcome Offer": "USD 19.99",
+            "Victorian London Board": "USD 6.99",
+            "Theme Collection": "USD 19.99",
+            "New York 2121 Board": "USD 6.99",
+            "Cherry Blossom Tokyo Board": "USD 6.99",
+            "Arcade Dice Sale": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1795140089529,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -192796,6 +192854,23 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 4.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Boeing 777-300ER": "USD 1.99",
+            "Airbus A320neo": "USD 3.99",
+            "Boeing 787-9": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1795140089529,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -225694,10 +225769,18 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0.59,
+      "formattedPrice": "USD 0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 0.59,
+          "formattedPrice": "USD 0.59",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -227239,10 +227322,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794738363484,

@@ -15123,6 +15123,14 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "$790.00"
+          }
+        },
+        {
           "timestamp": 1795118369176,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -24052,6 +24060,14 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793382301850,
           "price": 590,
           "formattedPrice": "$590.00",
@@ -24325,12 +24341,23 @@
       "Premium 年訂閱": "$790.00"
     },
     "minPriceInfo": {
-      "price": 790,
-      "formattedPrice": "$790.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Premium 月訂閱": "$90.00",
       "Premium 年訂閱": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium 月訂閱": "$90.00",
+            "Premium 年訂閱": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795054671703,
@@ -44681,6 +44708,27 @@
       ]
     ]
   },
+  "525117691": {
+    "name": "StitchSketch",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "525176875": {
     "name": "Sun Surveyor (太陽測量師)",
     "maxPriceInfo": {
@@ -47300,6 +47348,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795172225067,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Sandbox Unlock Standard Parts": "$290.00",
+            "Sandbox Unlock All Parts": "$290.00",
+            "Nooleus X Parts Pack": "$120.00",
+            "Transponder Module": "$30.00",
+            "1000 Quick Launches": "$120.00",
+            "Mission Free Unlock-All": "$150.00",
+            "10 Quick Launches": "$30.00",
+            "Mission 06 Demo": "$30.00",
+            "Mission 05 Demo": "$30.00",
+            "50 Quick Launches": "$60.00"
+          }
+        },
         {
           "timestamp": 1795140089529,
           "price": 60,
@@ -127229,6 +127294,25 @@
       "60元礼包三": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "江湖名士": "$120.00",
+            "秦王的宝藏": "$790.00",
+            "鳌拜的私房钱": "$290.00",
+            "一盒元宝": "$90.00",
+            "一袋元宝": "$30.00",
+            "30元礼包": "$120.00",
+            "30元礼包四": "$120.00",
+            "60元礼包": "$290.00",
+            "168元礼包": "$790.00",
+            "6元礼包": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794547025179,
@@ -227473,6 +227557,23 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "終極套件": "$490.00",
+            "第1季套件": "$320.00",
+            "作弊與懲罰": "$150.00",
+            "超越掩體": "$220.00",
+            "終極套件 (折扣)": "$390.00",
+            "新領導者": "$150.00",
+            "祕密地堡": "$220.00",
+            "生存指南": "$90.00",
+            "第1季套件 (折扣)": "$220.00",
+            "過去的陰影": "$220.00"
+          }
+        },
+        {
           "timestamp": 1795140089529,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -244600,6 +244701,25 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "斜谷殘陽": "$190.00",
+            "戰國七雄": "$190.00",
+            "群雄爭霸": "$90.00",
+            "楚漢爭霸": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "重振漢室": "$90.00",
+            "終身版": "$220.00",
+            "北境狂人": "$90.00",
+            "巾幗綻芳華": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795054671703,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -257784,6 +257904,23 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "秘密教會": "$30.00",
+            "星降之夜": "$30.00",
+            "聖誕夜": "$30.00",
+            "紅葉漫步": "$30.00",
+            "萬聖派對": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "新年日出": "$30.00",
+            "水畔": "$30.00",
+            "花火大會": "$30.00",
+            "夏威夷海灘": "$20.00"
+          }
+        },
+        {
           "timestamp": 1795118369176,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -269257,6 +269394,23 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 70,
+          "formattedPrice": "$70.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "200'000 Coins": "$30.00",
+            "KINZE 3665 Blue Drive": "$30.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "ClaasLexion8900+ConvioFlex1380": "$90.00",
+            "500'000 Coins": "$60.00",
+            "Case IH Speed-Tiller": "$30.00",
+            "Claas Xerion 5000": "$60.00",
+            "Krone BiG M 450": "$60.00"
+          }
+        },
+        {
           "timestamp": 1795118369176,
           "price": 70,
           "formattedPrice": "$70.00",
@@ -277648,6 +277802,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A350-1000": "$120.00",
+            "Airbus A380": "$60.00",
+            "UH-60": "$30.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A321": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795054671703,
@@ -326120,7 +326293,8 @@
       "服裝組合 · 騎士團盛宴": "$90.00",
       "服裝組合 · 森林與工坊": "$90.00",
       "付費角色・雅爾娜": "$30.00",
-      "付費角色・雲虛": "$30.00"
+      "付費角色・雲虛": "$30.00",
+      "組合・灰鱗追獵隊": "$220.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -326144,9 +326318,29 @@
       "服裝組合 · 騎士團盛宴": "$90.00",
       "服裝組合 · 森林與工坊": "$90.00",
       "付費角色・雅爾娜": "$30.00",
-      "付費角色・雲虛": "$30.00"
+      "付費角色・雲虛": "$30.00",
+      "組合・灰鱗追獵隊": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "付費角色・墨蘭": "$30.00",
+            "付費角色・雅爾娜": "$30.00",
+            "付費角色・艾德瑞克": "$30.00",
+            "組合・光之騎士團": "$320.00",
+            "付費角色・菲涅": "$30.00",
+            "付費角色・伊蕾娜": "$30.00",
+            "付費角色・薩爾古爾": "$30.00",
+            "付費角色・艾洛溫": "$30.00",
+            "組合・灰鱗追獵隊": "$220.00",
+            "付費角色・雲虛": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795032051232,
@@ -326632,6 +326826,25 @@
       "混合 禮包 11": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄達莉雅": "$150.00",
+            "塔樓貓頭鷹騎士": "$150.00",
+            "混合 禮包 11": "$320.00",
+            "英雄奧斯尼爾": "$150.00",
+            "全法術禮包": "$390.00",
+            "全英雄禮包": "$790.00",
+            "法術變羊術": "$150.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "一箱寶石": "$690.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795086617057,
@@ -328894,10 +329107,18 @@
       "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 19,
+      "formattedPrice": "$19.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 19,
+          "formattedPrice": "$19.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -330341,10 +330562,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794738363484,

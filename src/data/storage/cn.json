@@ -24643,6 +24643,14 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793382301850,
           "price": 118,
           "formattedPrice": "¥118.00",
@@ -24925,12 +24933,23 @@
       "Premium 年订阅": "¥168.00"
     },
     "minPriceInfo": {
-      "price": 168,
-      "formattedPrice": "¥168.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "Premium 月订阅": "¥22.00",
       "Premium 年订阅": "¥168.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium 月订阅": "¥22.00",
+            "Premium 年订阅": "¥168.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795054671703,
@@ -29753,6 +29772,27 @@
           "timestamp": 1745328692670,
           "price": 8,
           "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "525117691": {
+    "name": "StitchSketch",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 68,
+          "formattedPrice": "¥68.00",
           "inAppPurchases": {}
         }
       ]
@@ -47908,6 +47948,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795172225067,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Photomyne account": "¥328.00",
+            "Photomyne 账号": "¥90.00",
+            "Photomyne membership": "¥398.00",
+            "Video account": "¥38.00"
+          }
+        },
         {
           "timestamp": 1795140089529,
           "price": 8,
@@ -142918,6 +142969,25 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60金砖": "¥6.00",
+            "战斗奖励双倍": "¥12.00",
+            "300金砖": "¥30.00",
+            "120金砖": "¥12.00",
+            "680金砖": "¥68.00",
+            "深度高级特训": "¥98.00",
+            "月卡": "¥15.00",
+            "高级特训": "¥68.00",
+            "980金砖": "¥98.00",
+            "6480金砖": "¥648.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794404303285,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -189217,6 +189287,25 @@
     "history": [
       [
         {
+          "timestamp": 1795172225067,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "冠绝天下": "¥36.00",
+            "重振汉室": "¥18.00",
+            "斜谷残阳": "¥36.00",
+            "无双战神": "¥36.00",
+            "自创武将朝代特色兵种补丁": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794685416076,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -227169,6 +227258,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795172225067,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794685416076,
