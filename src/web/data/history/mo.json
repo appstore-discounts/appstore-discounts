@@ -4473,8 +4473,8 @@
       "HAA Pro Module": "USD 19.99",
       "SPL Enhance": "USD 19.99",
       "All-In Module Access": "USD 9.99",
-      "HAA Upgrade to Pro": "USD 399.99",
-      "HAA Pro Installer Calibration": "USD 499.99",
+      "HAA Upgrade to Pro": "USD 264.99",
+      "HAA Pro Installer Calibration": "USD 334.99",
       "HAA Home Theater": "USD 99.99",
       "Unlock All Tier 5": "USD 249.99",
       "Unlock All Tier 7": "USD 349.99",
@@ -4489,12 +4489,31 @@
       "IR Module": "USD 49.99",
       "SPL Traffic Light": "USD 9.99",
       "SoundScope VR": "USD 24.99",
-      "LUFS Meter": "USD 9.99",
+      "LUFS Meter": "USD 6.49",
       "HAA CinemaTools with HAA Link": "USD 99.99",
-      "Reference Files Module": "USD 14.99",
-      "Max Subwoofer SPL": "USD 29.99"
+      "Reference Files Module": "USD 9.99",
+      "Max Subwoofer SPL": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Reference Files Module": "USD 9.99",
+            "Max Subwoofer SPL": "USD 19.99",
+            "LUFS Meter": "USD 6.49",
+            "HAA CinemaTools with HAA Link": "USD 99.99",
+            "HAA Link": "USD 9.99",
+            "HAA Pro Module": "USD 19.99",
+            "SPL Enhance": "USD 26.49",
+            "All-In Module Access": "USD 9.99",
+            "HAA Upgrade to Pro": "USD 264.99",
+            "HAA Pro Installer Calibration": "USD 334.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794738363484,
@@ -136548,6 +136567,25 @@
     "history": [
       [
         {
+          "timestamp": 1795140089529,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Complete Collection": "USD 34.99",
+            "Snowdrop Valley": "USD 14.99",
+            "Snowdrop Valley Board": "USD 6.99",
+            "Explorer Pack": "USD 10.99",
+            "Snowdrop Valley Token Bundle": "USD 9.99",
+            "Reindeer": "USD 2.99",
+            "Snowman": "USD 2.99",
+            "Snowmobile Token": "USD 2.99",
+            "Tree Token": "USD 2.99",
+            "1935 Atlantic City Board": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791290979408,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -192758,6 +192796,25 @@
     "history": [
       [
         {
+          "timestamp": 1795140089529,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "USD 3.99",
+            "Boeing 787-9": "USD 3.99",
+            "Airbus A320neo": "USD 3.99",
+            "Me 262": "USD 1.99",
+            "Boeing 737-800": "USD 2.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794703649883,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -201125,12 +201182,23 @@
       "WOL Pro": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "USD 1.49",
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
       "WOL Pro SALE": "USD 0.49",
       "WOL Pro": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "WOL Pro SALE": "USD 0.49",
+            "WOL Pro": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771001866488,
@@ -227448,6 +227516,29 @@
           "timestamp": 1795118369176,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817336623": {
+    "trackId": 6817336623,
+    "trackName": "LoopTake: Seamless Video Loops",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

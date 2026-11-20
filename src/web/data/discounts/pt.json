@@ -1,5 +1,348 @@
 [
   {
+    "trackId": 325307477,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "22,99 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 22,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Pro Module",
+        "from": "8,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 8,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Graph Module",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 14,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Polarity Test Module",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SoundScope VR",
+        "from": "29,99 €",
+        "to": "19,99 €",
+        "range": "[19,99 € ~ 29,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Speaker Distortion",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 6,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ETC Module",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 6,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "VU Meter",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Traffic Light",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "IR Module",
+        "from": "59,99 €",
+        "to": "39,99 €",
+        "range": "[39,99 € ~ 59,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id325307477",
+    "trackName": "AudioTools, dB, Sound & Audio",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 441142802,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "19,99 €",
+        "to": "14,99 €",
+        "range": "[9,99 € ~ 19,99 €]"
+      }
+    ],
+    "price": 14.99,
+    "formattedPrice": "14,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id441142802",
+    "trackName": "Bass Modes Symmetry School",
+    "firstRecordedAt": 1777815491574
+  },
+  {
+    "trackId": 510249014,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id510249014",
+    "trackName": "Level HD.",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1271620263,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1271620263",
+    "trackName": "ICEY",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1291429551,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1291429551",
+    "trackName": "60 Parsecs!",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1380582804,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1380582804",
+    "trackName": "手机帝国",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1453808408,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1453808408",
+    "trackName": "Juicy Realm",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1474716211,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1474716211",
+    "trackName": "60 Seconds! Reatomized",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6753102218,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6753102218",
+    "trackName": "神器行者：奥罗瑞恩传奇",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6448201153,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6448201153",
+    "trackName": "WOL — wake on lan",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6444400410,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6444400410",
+    "trackName": "Farming Simulator 23",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6746152489,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6746152489",
+    "trackName": "西行乱斗",
+    "firstRecordedAt": 1763015934337
+  },
+  {
+    "trackId": 6748056918,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6748056918",
+    "trackName": "Farming Simulator 26 Mobile",
+    "firstRecordedAt": 1779184723397
+  },
+  {
+    "trackId": 6760122905,
+    "region": "pt",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6760122905",
+    "trackName": "江城创业记",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 6756542102,
     "region": "pt",
     "timestamp": 1795118369176,
@@ -3923,7 +4266,7 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "2,99 €",
-        "range": "[2,99 € ~ 7,99 €]"
+        "range": "[1,99 € ~ 7,99 €]"
       }
     ],
     "price": 2.99,
@@ -21451,7 +21794,7 @@
         "name": "Price",
         "from": "7,99 €",
         "to": "3,49 €",
-        "range": "[2,99 € ~ 7,99 €]"
+        "range": "[1,99 € ~ 7,99 €]"
       }
     ],
     "price": 3.49,
@@ -21638,7 +21981,7 @@
         "name": "Price",
         "from": "7,99 €",
         "to": "3,49 €",
-        "range": "[2,99 € ~ 7,99 €]"
+        "range": "[1,99 € ~ 7,99 €]"
       }
     ],
     "price": 3.49,

@@ -1,5 +1,108 @@
 [
   {
+    "trackId": 325307477,
+    "region": "tw",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$690.00",
+        "to": "$320.00",
+        "range": "[$320.00 ~ $690.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Reference Files Module",
+        "from": "$490.00",
+        "to": "$320.00",
+        "range": "[$320.00 ~ $490.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Pro Module",
+        "from": "$290.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ETC Module",
+        "from": "$190.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $190.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Graph Module",
+        "from": "$320.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $390.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SoundScope VR",
+        "from": "$790.00",
+        "to": "$590.00",
+        "range": "[$590.00 ~ $790.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "STIPA Basic",
+        "from": "$1,490.00",
+        "to": "$990.00",
+        "range": "[$990.00 ~ $1,490.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Polarity Test Module",
+        "from": "$120.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "IR Module",
+        "from": "$1,490.00",
+        "to": "$990.00",
+        "range": "[$990.00 ~ $1,490.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Transfer Function",
+        "from": "$1,490.00",
+        "to": "$990.00",
+        "range": "[$990.00 ~ $1,490.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id325307477",
+    "trackName": "AudioTools, dB, Sound & Audio",
+    "firstRecordedAt": 1746788532840
+  },
+  {
+    "trackId": 6448201153,
+    "region": "tw",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6448201153",
+    "trackName": "WOL — wake on lan",
+    "firstRecordedAt": 1751617058383
+  },
+  {
     "trackId": 510249014,
     "region": "tw",
     "timestamp": 1795118369176,
@@ -33461,14 +33564,14 @@
         "name": "IR Module",
         "from": "$1,490.00",
         "to": "$1,190.00",
-        "range": "[$1,190.00 ~ $1,490.00]"
+        "range": "[$990.00 ~ $1,490.00]"
       },
       {
         "type": "inAppPurchase",
         "name": "Transfer Function",
         "from": "$1,490.00",
         "to": "$1,190.00",
-        "range": "[$1,190.00 ~ $1,490.00]"
+        "range": "[$990.00 ~ $1,490.00]"
       },
       {
         "type": "inAppPurchase",

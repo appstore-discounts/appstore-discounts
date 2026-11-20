@@ -4953,12 +4953,12 @@
       "price": 320,
       "formattedPrice": "$320.00",
       "SPL Pro Module": "$150.00",
-      "SPL Graph Module": "$320.00",
-      "ETC Module": "$190.00",
+      "SPL Graph Module": "$220.00",
+      "ETC Module": "$120.00",
       "SoundScope VR": "$590.00",
-      "Polarity Test Module": "$120.00",
-      "IR Module": "$1,190.00",
-      "Transfer Function": "$1,190.00",
+      "Polarity Test Module": "$90.00",
+      "IR Module": "$990.00",
+      "Transfer Function": "$990.00",
       "LARSA": "$690.00",
       "Phase Meter": "$150.00",
       "SPL Traffic Light": "$320.00",
@@ -4976,13 +4976,32 @@
       "LUFS Meter": "$320.00",
       "HAA CinemaTools with HAA Link": "$4,990.00",
       "Amplitude Sweep": "$490.00",
-      "Reference Files Module": "$490.00",
+      "Reference Files Module": "$320.00",
       "Max Subwoofer SPL": "$990.00",
       "Speaker Distortion": "$190.00",
       "Impedance Module": "$990.00",
-      "STIPA Basic": "$1,490.00"
+      "STIPA Basic": "$990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Reference Files Module": "$320.00",
+            "All-In Module Access": "$320.00",
+            "SPL Pro Module": "$150.00",
+            "ETC Module": "$120.00",
+            "SPL Graph Module": "$220.00",
+            "SoundScope VR": "$590.00",
+            "STIPA Basic": "$990.00",
+            "Polarity Test Module": "$90.00",
+            "IR Module": "$990.00",
+            "Transfer Function": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794604319311,
@@ -47892,6 +47911,25 @@
       "Mission 03 Demo": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Mission 01 Demo": "$30.00",
+            "Mission 02 Demo": "$30.00",
+            "Mission 01 Skip": "$30.00",
+            "Mission 02 Skip": "$30.00",
+            "Mission 01 Gold": "$60.00",
+            "Mission 03 Gold": "$60.00",
+            "Mission Free Unlock-All": "$150.00",
+            "Mission 02 Gold": "$60.00",
+            "Mission 03 Skip": "$30.00",
+            "Mission 03 Demo": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -230343,7 +230381,12 @@
       "終極套件 (大折扣)": "$150.00",
       "第1季套件 (完整版)": "$690.00",
       "終極套件 (完整版)": "$1,990.00",
-      "過去的陰影": "$220.00"
+      "過去的陰影": "$220.00",
+      "Custom Scenarios": "$220.00",
+      "Seeds of Hope": "$220.00",
+      "Season 2 Pass (Full)": "$690.00",
+      "Season 2 Pass (Discount)": "$220.00",
+      "Season 2 Pass": "$320.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -230360,9 +230403,33 @@
       "終極套件 (大折扣)": "$150.00",
       "第1季套件 (完整版)": "$690.00",
       "終極套件 (完整版)": "$1,990.00",
-      "過去的陰影": "$220.00"
+      "過去的陰影": "$220.00",
+      "Custom Scenarios": "$220.00",
+      "Seeds of Hope": "$220.00",
+      "Season 2 Pass (Full)": "$690.00",
+      "Season 2 Pass (Discount)": "$220.00",
+      "Season 2 Pass": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Custom Scenarios": "$220.00",
+            "Seeds of Hope": "$220.00",
+            "Season 2 Pass (Full)": "$690.00",
+            "Season 2 Pass (Discount)": "$220.00",
+            "Season 2 Pass": "$320.00",
+            "過去的陰影": "$220.00",
+            "超越掩體": "$220.00",
+            "第1季套件 (折扣)": "$220.00",
+            "終極套件 (折扣)": "$390.00",
+            "祕密地堡": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782829258984,
@@ -303531,12 +303598,23 @@
       "WOL Pro": "$30.00"
     },
     "minPriceInfo": {
-      "price": 50,
-      "formattedPrice": "$50.00",
+      "price": 30,
+      "formattedPrice": "$30.00",
       "WOL Pro SALE": "$20.00",
       "WOL Pro": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "WOL Pro SALE": "$20.00",
+            "WOL Pro": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771001866488,
@@ -335134,6 +335212,29 @@
           "timestamp": 1795118369176,
           "price": 320,
           "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817336623": {
+    "trackId": 6817336623,
+    "trackName": "LoopTake: Seamless Video Loops",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

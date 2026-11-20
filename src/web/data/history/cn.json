@@ -2098,12 +2098,12 @@
       "price": 68,
       "formattedPrice": "¥68.00",
       "SPL Pro Module": "¥38.00",
-      "ETC Module": "¥38.00",
-      "SoundScope VR": "¥128.00",
+      "ETC Module": "¥28.00",
+      "SoundScope VR": "¥118.00",
       "Transfer Function": "¥228.00",
       "LARSA": "¥148.00",
       "Phase Meter": "¥38.00",
-      "SPL Graph Module": "¥68.00",
+      "SPL Graph Module": "¥48.00",
       "Surround Generator": "¥68.00",
       "Speaker Distortion": "¥28.00",
       "VU Meter": "¥15.00",
@@ -2117,7 +2117,7 @@
       "Unlock All Tier 5": "¥998.00",
       "Unlock All Tier 7": "¥1,998.00",
       "Unlock All Tier 4": "¥998.00",
-      "Reference Files Module": "¥98.00",
+      "Reference Files Module": "¥68.00",
       "IR Module": "¥228.00",
       "Gated Noise RT60": "¥268.00",
       "Impedance Module": "¥198.00",
@@ -2126,6 +2126,25 @@
       "Max Subwoofer SPL": "¥198.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "¥38.00",
+            "All-In Module Access": "¥68.00",
+            "ETC Module": "¥28.00",
+            "SoundScope VR": "¥118.00",
+            "Transfer Function": "¥228.00",
+            "Phase Meter": "¥38.00",
+            "Reference Files Module": "¥68.00",
+            "LARSA": "¥148.00",
+            "SPL Graph Module": "¥48.00",
+            "Surround Generator": "¥198.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793928155391,
@@ -48597,17 +48616,36 @@
       "Photomyne account": "¥328.00",
       "Photomyne 账号": "¥90.00",
       "Photomyne membership": "¥398.00",
-      "Video account": "¥38.00"
+      "Video account": "¥38.00",
+      "Restore photo credits": "¥22.00",
+      "Legacy Transfer": "¥198.00",
+      "Magic motion credits": "¥15.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00",
       "Photomyne account": "¥328.00",
       "Photomyne 账号": "¥90.00",
-      "Photomyne membership": "¥398.00",
-      "Video account": "¥38.00"
+      "Photomyne membership": "¥148.00",
+      "Video account": "¥38.00",
+      "Restore photo credits": "¥22.00",
+      "Legacy Transfer": "¥198.00",
+      "Magic motion credits": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Restore photo credits": "¥22.00",
+            "Legacy Transfer": "¥198.00",
+            "Magic motion credits": "¥15.00",
+            "Photomyne membership": "¥148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -213038,12 +213076,23 @@
       "WOL Pro": "¥8.00"
     },
     "minPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00",
+      "price": 8,
+      "formattedPrice": "¥8.00",
       "WOL Pro SALE": "¥3.00",
       "WOL Pro": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "WOL Pro SALE": "¥3.00",
+            "WOL Pro": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771001866488,
@@ -245912,6 +245961,29 @@
           "timestamp": 1795118369176,
           "price": 50,
           "formattedPrice": "¥50.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817336623": {
+    "trackId": 6817336623,
+    "trackName": "LoopTake: Seamless Video Loops",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795140089529,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]

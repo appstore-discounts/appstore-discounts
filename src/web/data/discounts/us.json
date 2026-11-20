@@ -1,5 +1,128 @@
 [
   {
+    "trackId": 325307477,
+    "region": "us",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$19.99",
+        "to": "$9.99",
+        "range": "[$9.99 ~ $19.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Pro Module",
+        "from": "$7.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SoundScope VR",
+        "from": "$24.99",
+        "to": "$16.49",
+        "range": "[$16.49 ~ $24.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Graph Module",
+        "from": "$9.99",
+        "to": "$6.49",
+        "range": "[$6.49 ~ $12.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Polarity Test Module",
+        "from": "$3.99",
+        "to": "$2.49",
+        "range": "[$2.49 ~ $3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "ETC Module",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $5.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "SPL Traffic Light",
+        "from": "$9.99",
+        "to": "$6.49",
+        "range": "[$5.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "VU Meter",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Speaker Distortion",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $5.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "IR Module",
+        "from": "$49.99",
+        "to": "$33.49",
+        "range": "[$33.49 ~ $49.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id325307477",
+    "trackName": "AudioTools, dB, Sound & Audio",
+    "firstRecordedAt": 1746788532840
+  },
+  {
+    "trackId": 441142802,
+    "region": "us",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$16.99",
+        "to": "$12.99",
+        "range": "[$9.99 ~ $16.99]"
+      }
+    ],
+    "price": 12.99,
+    "formattedPrice": "$12.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id441142802",
+    "trackName": "Bass Modes Symmetry School",
+    "firstRecordedAt": 1777815491574
+  },
+  {
+    "trackId": 6448201153,
+    "region": "us",
+    "timestamp": 1795140089529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6448201153",
+    "trackName": "WOL — wake on lan",
+    "firstRecordedAt": 1751617058383
+  },
+  {
     "trackId": 6756542102,
     "region": "us",
     "timestamp": 1795118369176,
@@ -32488,7 +32611,7 @@
         "name": "SPL Graph Module",
         "from": "$12.99",
         "to": "$9.99",
-        "range": "[$9.99 ~ $12.99]"
+        "range": "[$6.49 ~ $12.99]"
       }
     ],
     "price": 19.99,
@@ -33171,7 +33294,7 @@
         "name": "SoundScope VR",
         "from": "$24.99",
         "to": "$17.99",
-        "range": "[$17.99 ~ $24.99]"
+        "range": "[$16.49 ~ $24.99]"
       },
       {
         "type": "inAppPurchase",
@@ -33199,7 +33322,7 @@
         "name": "IR Module",
         "from": "$49.99",
         "to": "$34.99",
-        "range": "[$34.99 ~ $49.99]"
+        "range": "[$33.49 ~ $49.99]"
       }
     ],
     "price": 19.99,
