@@ -952,7 +952,7 @@ So far, we've covered `7` `Countries or Regions` and  `2450` `Apps` <br />Push n
 |1508|6449265626|Automatic|Groic : Listen music togther|Groic : Listen music togther|Groic : Listen music togther|Groic : Listen music togther|Groic : Listen music togther|Groic : Listen music togther|Groic : Listen music togther|
 |1507|911208088|Automatic|❌|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|
 |1506|1020967894|Automatic|GPS诊断 - 卫星测试工具和坐标|GPS診斷 - 衛星測試工具和坐標|GPS診斷 - 衛星測試工具和坐標|GPS診斷 - 衛星測試工具和坐標|GPS Diagnostic: Satellite Test|GPS Diagnostic: Satellite Test|GPS Diagnostic: Teste Satélite|
-|1505|982457990|Automatic|❌|求生無限-無限流大冒險|求生無限-無限流大冒險|求生無限-無限流大冒險|Cross Infinity: Eschaton Rifts|Cross Infinity: Eschaton Rifts|求生无限 - 单机经典无限流大冒险|
+|1505|982457990|Automatic|❌|求生無限-無限流大冒險|求生無限-無限流大冒險|求生無限-無限流大冒險|Cross Infinity:God's Dimension|Cross Infinity:God's Dimension|求生无限 - 单机经典无限流大冒险|
 |1504|6751413449|Automatic|❌|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|
 |1503|6478566840|Automatic|❌|Magic Research 2|Magic Research 2|Magic Research 2|Magic Research 2|Magic Research 2|Magic Research 2|
 |1502|1618663548|Automatic|swimstats live|swimstats live|swimstats live|swimstats live|swimstats live|swimstats live|swimstats live|

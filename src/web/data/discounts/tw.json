@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1250601531,
+    "region": "tw",
+    "timestamp": 1795203532221,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$320.00",
+        "range": "[$150.00 ~ $390.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1250601531",
+    "trackName": "RAW Power",
+    "firstRecordedAt": 1761390556340
+  },
+  {
+    "trackId": 6478843819,
+    "region": "tw",
+    "timestamp": 1795203532221,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "月卡",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6478843819",
+    "trackName": "家園、異星與獵人",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6466296603,
+    "region": "tw",
+    "timestamp": 1795203532221,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1745578938597
+  },
+  {
     "trackId": 441142802,
     "region": "tw",
     "timestamp": 1795172225067,

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1250601531,
+    "region": "hk",
+    "timestamp": 1795203532221,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 98.00",
+        "to": "HK$ 88.00",
+        "range": "[HK$ 38.00 ~ HK$ 98.00]"
+      }
+    ],
+    "price": 88,
+    "formattedPrice": "HK$ 88.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1250601531",
+    "trackName": "RAW Power",
+    "firstRecordedAt": 1761390556340
+  },
+  {
+    "trackId": 6466296603,
+    "region": "hk",
+    "timestamp": 1795203532221,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 32.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1745578938597
+  },
+  {
     "trackId": 441142802,
     "region": "hk",
     "timestamp": 1795172225067,

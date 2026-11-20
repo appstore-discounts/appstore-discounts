@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1250601531,
+    "region": "mo",
+    "timestamp": 1795203532221,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 12.99",
+        "to": "USD 9.99",
+        "range": "[USD 4.99 ~ USD 12.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1250601531",
+    "trackName": "RAW Power",
+    "firstRecordedAt": 1761390556340
+  },
+  {
+    "trackId": 6466296603,
+    "region": "mo",
+    "timestamp": 1795203532221,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1745578938597
+  },
+  {
     "trackId": 441142802,
     "region": "mo",
     "timestamp": 1795172225067,
