@@ -34521,6 +34521,25 @@
     "history": [
       [
         {
+          "timestamp": 1795286667018,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Hot Chrome paint job for all vehicles": "HK$ 22.00",
+            "Seoul Rider paint job for all vehicles": "HK$ 8.00",
+            "Autobahn paint job for all vehicles": "HK$ 8.00",
+            "The Met paint job for all vehicles": "HK$ 8.00",
+            "East Side paint job for all vehicles": "HK$ 8.00",
+            "Donut Finder": "HK$ 22.00",
+            "Pack of 50 Super Cops": "HK$ 98.00",
+            "Pack of 10 Super Cops": "HK$ 22.00",
+            "Pack of 3 Super Cops": "HK$ 8.00",
+            "Unlock All Vehicles": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792703638499,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -194589,7 +194608,8 @@
       "+2026 boosters ECO-Initiative!": "HK$ 38.00",
       "+444! Triple-Four Booster Pack": "HK$ 18.00",
       "+100 boosters ECO-Initiative!": "HK$ 10.00",
-      "Full scenarios": "HK$ 38.00"
+      "Full scenarios": "HK$ 38.00",
+      "Buy Premium": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -194600,9 +194620,24 @@
       "+2026 boosters ECO-Initiative!": "HK$ 32.00",
       "+444! Triple-Four Booster Pack": "HK$ 18.00",
       "+100 boosters ECO-Initiative!": "HK$ 10.00",
-      "Full scenarios": "HK$ 8.00"
+      "Full scenarios": "HK$ 8.00",
+      "Buy Premium": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795286667018,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full scenarios": "HK$ 38.00",
+            "+100 boosters ECO-Initiative!": "HK$ 10.00",
+            "+2026 boosters ECO-Initiative!": "HK$ 32.00",
+            "+444! Triple-Four Booster Pack": "HK$ 18.00",
+            "Buy Premium": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794738363484,
@@ -301141,6 +301176,14 @@
     "history": [
       [
         {
+          "timestamp": 1795286667018,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794767452594,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -317327,13 +317370,28 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "formattedPrice": "HK$ 58.00",
+      "每週方案": "HK$ 18.00",
+      "永久方案": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "每週方案": "HK$ 18.00",
+      "永久方案": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795286667018,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每週方案": "HK$ 18.00",
+            "永久方案": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794165648967,
@@ -317754,6 +317812,25 @@
       "付費角色・雲虛": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795286667018,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・艾洛溫": "HK$ 8.00",
+            "付費角色・雲虛": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795257649461,

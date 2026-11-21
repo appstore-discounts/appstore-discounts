@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-21T12:19:05.679Z</updated>
+    <updated>2026-11-21T20:27:15.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-21T12:19:05.679Z</updated>
+        <updated>2026-11-21T20:27:15.354Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 21 Nov 2026 12:19:05 GMT</id>
+        <id>rankingusSat, 21 Nov 2026 20:27:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-21T12:19:05.680Z</updated>
+        <updated>2026-11-21T20:27:15.354Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -131,14 +131,22 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/954982733?lang=en">Tuner T1 Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/951627022?lang=en">Photo Scan Plus</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Photomyne membership</i>：<b>1</b>
+              </li><li>
+                <i>Photomyne account</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -148,7 +156,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1580067723?lang=en">Wall of insanity</a>
+        <a href="https://appstore-discounts.eyelly.me/us/954982733?lang=en">Tuner T1 Pro</a>
       </td>
       <td>
         <ul>
@@ -165,7 +173,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">Wider - Fullscreen Browsing</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1504760106?lang=en">Eco inc. Save the Earth</a>
       </td>
       <td>
         <ul>
@@ -182,7 +190,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1580067723?lang=en">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -199,7 +207,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6747138769?lang=en">Easy Text to Speech Reader Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">Wider - Fullscreen Browsing</a>
       </td>
       <td>
         <ul>
@@ -214,6 +222,40 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>8</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6747138769?lang=en">Easy Text to Speech Reader Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/325307477?lang=en">AudioTools, dB, Sound & Audio</a>
@@ -252,7 +294,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/378503081?lang=en">Groundwire: VoIP SIP Softphone</a>
@@ -269,7 +311,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/385902072?lang=en">Guns'n'Glory Premium</a>
@@ -286,7 +328,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/424591347?lang=en">FINAL FANTASY III (3D REMAKE)</a>
@@ -303,7 +345,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/441142802?lang=en">Bass Modes Symmetry School</a>
@@ -320,7 +362,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/445270462?lang=en">紫微斗數排盤</a>
@@ -337,7 +379,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/479665601?lang=en">iZip Pro -Zip Unzip Unrar Tool</a>
@@ -354,7 +396,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/510249014?lang=en">Level HD.</a>
@@ -371,7 +413,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/633625517?lang=en">Baldur's Gate II: EE</a>
@@ -388,7 +430,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/882362024?lang=en">Ace Attorney: Dual Destinies</a>
@@ -415,7 +457,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/931188326?lang=en">DayCost Pro - Personal Finance</a>
@@ -432,30 +474,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/951627022?lang=en">Photo Scan Plus</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Photomyne membership</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/966489322?lang=en">生辰 — 桌面时间小组件</a>
@@ -478,7 +497,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/998834675?lang=en">Clouds & Sheep 2 Premium</a>
@@ -495,7 +514,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1020541183?lang=en">MovieSpirit - Movie Maker Pro</a>
@@ -512,7 +531,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1021566244?lang=en">FINAL FANTASY VII</a>
@@ -529,7 +548,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1041260001?lang=en">FINAL FANTASY Ⅸ</a>
@@ -546,7 +565,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1136993233?lang=en">Apollo Justice Ace Attorney</a>
@@ -569,7 +588,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1140451547?lang=en">Shot Tracer</a>
@@ -586,7 +605,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1159700098?lang=en">To the Moon</a>
@@ -603,7 +622,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1250601531?lang=en">RAW Power</a>
@@ -620,7 +639,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1271620263?lang=en">ICEY</a>
@@ -637,7 +656,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1291429551?lang=en">60 Parsecs!</a>
@@ -654,7 +673,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1298544927?lang=en">My Child Lebensborn</a>
@@ -671,7 +690,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1303222868?lang=en">Paprika Recipe Manager 4</a>
@@ -688,7 +707,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1304822713?lang=en">Infinity Tank Battle</a>
@@ -705,7 +724,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1326740784?lang=en">FINAL FANTASY VIII Remastered</a>
@@ -722,7 +741,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1380582804?lang=en">Mobile Empire</a>
@@ -739,7 +758,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1424977227?lang=en">Titan Quest HD</a>
@@ -756,7 +775,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1435461053?lang=en">This Is the Police</a>
@@ -773,7 +792,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1437054263?lang=en">Gem - Money tracker</a>
@@ -790,7 +809,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1439262206?lang=en">Root Board Game</a>
@@ -807,7 +826,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1441522083?lang=en">LED Banner: Marquee & Scroller</a>
@@ -824,7 +843,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1444636541?lang=en">Photomator – Photo Editor</a>
@@ -847,7 +866,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1453661259?lang=en">Dungeon Warfare 2</a>
@@ -864,7 +883,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1453808408?lang=en">Juicy Realm</a>
@@ -881,7 +900,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1453820315?lang=en">This Is the Police 2</a>
@@ -898,7 +917,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1466120520?lang=en">iVerify Basic</a>
@@ -915,7 +934,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1474716211?lang=en">60 Seconds! Reatomized</a>
@@ -932,7 +951,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492041417?lang=en">FINAL FANTASY IV</a>
@@ -949,7 +968,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492041539?lang=en">FINAL FANTASY VI</a>
@@ -966,7 +985,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492041611?lang=en">FINAL FANTASY V</a>
@@ -983,7 +1002,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492049794?lang=en">武林群侠风云传</a>
@@ -1000,27 +1019,10 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1500126852?lang=en">Chord</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>52</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1504760106?lang=en">Eco inc. Save the Earth</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1500126852?lang=en">Chord</a>
       </td>
       <td>
         <ul>
@@ -1389,7 +1391,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>73</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1642733080?lang=en">DungeonSquad</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1642139491?lang=en">Tokyo Train!</a>
       </td>
       <td>
         <ul>
@@ -1406,7 +1408,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>74</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1664728315?lang=en">Mutropolis mobile</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1642733080?lang=en">DungeonSquad</a>
       </td>
       <td>
         <ul>
@@ -1423,7 +1425,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>75</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en">When'd I</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1664728315?lang=en">Mutropolis mobile</a>
       </td>
       <td>
         <ul>
@@ -1438,6 +1440,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>76</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en">When'd I</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>77</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6759358968?lang=en">PadLab - Live Pads</a>
@@ -1462,7 +1481,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6752503669?lang=en">Solar Arc: Golden Hour Tracker</a>
@@ -1479,7 +1498,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6444660338?lang=en">Legend of Keepers</a>
@@ -1496,7 +1515,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -1513,7 +1532,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6786115854?lang=en">No More Slimes!!: Idle Action</a>
@@ -1530,7 +1549,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6759970821?lang=en">Dungeon Merge!</a>
@@ -1547,7 +1566,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6770101449?lang=en">五道門：文字江湖</a>
@@ -1564,7 +1583,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6755290585?lang=en">Raiders Map</a>
@@ -1591,7 +1610,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6755103808?lang=en">VoidLink - Extreme</a>
@@ -1614,7 +1633,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6474541983?lang=en">Children of Morta</a>
@@ -1631,7 +1650,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6471594918?lang=en">Just a Simple Image Converter</a>
@@ -1648,7 +1667,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6758201392?lang=en">Slime Rancher</a>
@@ -1665,7 +1684,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
+        <b>89</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6478398981?lang=en">IPTV Smart Pro - Live TV</a>
@@ -1682,7 +1701,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
+        <b>90</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6497948575?lang=en">Way of the Hunter Wild America</a>
@@ -1699,7 +1718,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>90</b>
+        <b>91</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6758114235?lang=en">1 TL</a>
@@ -1716,7 +1735,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>91</b>
+        <b>92</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en">Kaiju Attack 2</a>
@@ -1733,7 +1752,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>92</b>
+        <b>93</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6786557574?lang=en">Fuel MPG Mileage Tracker Log</a>
@@ -1750,7 +1769,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>93</b>
+        <b>94</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6449233549?lang=en">Ark Nova</a>
@@ -1767,7 +1786,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>94</b>
+        <b>95</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6743349595?lang=en">Godseeker II Dark Fantasy ARPG</a>
@@ -1784,7 +1803,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>95</b>
+        <b>96</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6479395335?lang=en">RPGViewer</a>
@@ -1801,7 +1820,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6760446039?lang=en">般若心灯</a>
@@ -1824,7 +1843,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>97</b>
+        <b>98</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6744430250?lang=en">Python 學習計劃</a>
@@ -1841,7 +1860,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6830479627?lang=en">1in8b Life</a>
@@ -1858,7 +1877,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>99</b>
+        <b>100</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6443875944?lang=en">Sands of Salzaar</a>
@@ -1875,7 +1894,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>100</b>
+        <b>101</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6458144503?lang=en">Skul: The Hero Slayer</a>
@@ -1892,7 +1911,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>101</b>
+        <b>102</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6469419567?lang=en">Overwinter Survival</a>
@@ -1909,7 +1928,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>102</b>
+        <b>103</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6748837351?lang=en">Moment Pro Camera II</a>
@@ -1926,7 +1945,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>103</b>
+        <b>104</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6801980968?lang=en">Tower & Mercenaries</a>
@@ -1943,7 +1962,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>104</b>
+        <b>105</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6814254443?lang=en">Pixel Miner: Cozy Digging Game</a>
@@ -1960,7 +1979,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>105</b>
+        <b>106</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6812927976?lang=en">Enchanted Survival: Magic RPG</a>
@@ -1977,7 +1996,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>106</b>
+        <b>107</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6798830578?lang=en">PDF2MD: PDF to Markdown</a>
@@ -1994,7 +2013,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>107</b>
+        <b>108</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6756542102?lang=en">Onyx Magic</a>
@@ -2011,7 +2030,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>108</b>
+        <b>109</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6448201153?lang=en">WOL — wake on lan</a>
@@ -2028,7 +2047,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>109</b>
+        <b>110</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6822746934?lang=en">Nameless Ember: Sigilbound</a>
@@ -2045,7 +2064,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>110</b>
+        <b>111</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6805775608?lang=en">Turkish Coffeehouse Simulator</a>
@@ -2062,7 +2081,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>111</b>
+        <b>112</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6760122905?lang=en">江城创业记</a>
@@ -2079,7 +2098,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>112</b>
+        <b>113</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6748056918?lang=en">Farming Simulator 26 Mobile</a>
@@ -2096,7 +2115,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>113</b>
+        <b>114</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6746152489?lang=en">西行乱斗</a>
@@ -2113,7 +2132,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>114</b>
+        <b>115</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6753102218?lang=en">Artifact Seeker</a>
@@ -2130,7 +2149,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>115</b>
+        <b>116</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6444400410?lang=en">Farming Simulator 23 Mobile</a>
@@ -2147,7 +2166,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>116</b>
+        <b>117</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6478843819?lang=en">Home, Planet & Hunters</a>
@@ -2170,10 +2189,44 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>117</b>
+        <b>118</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6466296603?lang=en">The Last Game</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>119</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6749684876?lang=en">Alcyone: Chemistry Puzzle</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>120</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6785438432?lang=en">Tokyo Shipping!</a>
       </td>
       <td>
         <ul>
@@ -3007,6 +3060,246 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo Scan Plus]]></title>
+        <id>Photo Scan Plus-us-1795286667018</id>
+        <link href="https://appstore-discounts.eyelly.me/us/951627022?lang=en"/>
+        <updated>2026-11-21T18:44:27.018Z</updated>
+        <summary type="html"><![CDATA[Photomyne account: $47.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/951627022?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/6f/cb/7f6fcbdf-0876-dfca-0da4-91c0f002beb8/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Photomyne account：</strong><span>$47.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$19.99 ~ $47.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Photomyne account：<b>$19.99</b>
+  </li><li>
+    Photomyne membership：<b>$29.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Preserve the moments that matter most by turning printed photos, slides, negatives, and treasured keepsakes into a digital library your family can revisit and share for generations.
+
+Using advanced AI technology, Photomyne brings old photos into the digital age, making it quick and simple to scan, restore, enhance, and organize your family’s memories.
+
+Photo Scan Plus is the paid one-time purchase version of Photomyne. It includes the complete experience on your device: unlimited scanning, editing, saving, sharing, and organization on your iPhone or iPad. Add a Photomyne Membership anytime for secure cloud backup, web access, and syncing across your devices.
+
+In addition to Photo Scan Plus, we also offer *Photo Scan by Photomyne*. It's free to download and is first to include our newest features, improvements, and innovations. Choose the app that you feel fits you best.
+
+SCAN FASTER - PHOTOMYNE DOES THE REST
+• Scan multiple printed photos in a single shot
+• Digitize entire photo albums in minutes
+• Scan photos, slides, negatives, scrapbook pages, kids' artwork, documents, and more
+• Automatic edge detection, cropping, rotation, and color correction
+• Capture scans with a tap or Voice Control
+
+ORGANIZE YOUR MEMORIES
+• Create beautiful digital albums
+• Add names, dates, locations, and stories
+• Add audio recording
+• Scan the back of your photos and keep it attached
+• Easily search for photos and rediscover your memories
+
+RESTORE & BRING MEMORIES BACK TO LIFE
+Preserve your original scan while creating beautifully enhanced versions using Photomyne's editing tools. For more advanced restorations, optional AI-powered tools are available.
+• Sharpen blurry faces in photos
+• Colorize black & white photos
+• Auto restore faded colors
+• Manually edit with color filters
+• Remove scratches, tears, glare, shadows, and reflections using optional AI restoration tools (available with AI credits)
+
+AI-POWERED MAGIC
+In addition to its core features, Photomyne hosts handpicked external AI tools from trusted platforms to further restore and enhance your memories. These *optional* features include powerful AI enhancements like photo damage repair, subtle motion animations, and more. These advanced AI features use external AI technology and are available separately using AI credits, so you can enjoy even more photo-enhancing magic, all in one place.
+
+BACK UP & SHARE WITH PHOTOMYNE MEMBERSHIP
+Access your memories anytime, anywhere with a Photomyne Membership
+ • Automatically back up your photos to the secure Photomyne Cloud
+ • Access your memories from all your devices and on the web
+ • Keep your entire library synced across your devices
+ • Save photos to your device or computer in high resolution and print quality
+ • Share individual photos, albums, or entire collections with family and friends using simple web links
+
+OPTIONAL IN-APP UPGRADE
+A Photomyne Membership includes:
+• Automatic cloud backup to the secure Photomyne Cloud
+• Access to your memories from all your devices and on the web
+• Synced library across all your devices
+
+Memberships are available as monthly, yearly, and one-time plans.
+
+Payment is charged to your Apple ID account at confirmation of purchase. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription anytime in your App Store account settings.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/5f/6d/705f6d08-9d36-bf90-a2ec-f05582ce8982/6.5_en_01.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/49/a9/4849a92b-024a-8ca7-ad14-18f5791c914b/6.5_en_02.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/22/5a/6f225a68-d8f5-2fa8-0a64-96855fa58850/6.5_en_03.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/d5/61/1bd5619d-eca9-7b4d-ca56-6b9e9b13834e/6.5_en_04.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/59/2e/d2592e49-9b81-6a48-e31d-c9aa35842788/6.5_en_05.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/40/f9/4540f976-62b7-43c8-12ad-f8856e65ea9a/6.5_en_06.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/1f/68/511f682f-7f4a-da4c-42b9-dd8123f88988/iPad_Pro_13_en_01.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/4a/bd/9c4abdb1-15ec-2813-6786-c4e188c9ac8a/iPad_Pro_13_en_02.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/1f/39/fb1f3960-8b43-6afa-e911-b70c6b4053e1/iPad_Pro_13_en_03.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/50/f2/2b50f236-b16e-7506-e498-da9f6bb2b5f2/iPad_Pro_13_en_04.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/d4/72/b1d4724b-dbcb-8f00-ce32-b952b8b1f59e/iPad_Pro_13_en_05.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alcyone: Chemistry Puzzle]]></title>
+        <id>Alcyone: Chemistry Puzzle-us-1795286667018</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6749684876?lang=en"/>
+        <updated>2026-11-21T18:44:27.018Z</updated>
+        <summary type="html"><![CDATA[Price: $6.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6749684876?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/6c/ab/2c6cab59-8908-34f5-ba8b-4aee1a2a66e5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$6.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $6.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Weekly Access：<b>$1.99</b>
+  </li><li>
+    Lifetime Access：<b>$6.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  "Nothing is created, nothing is lost, everything is transformed." - Antoine Lavoisier, 'Elements of Chemistry'
+
+The first 5 stages are free to play, and you can access all stages via an in-app purchase. Existing paid users retain full access to all content at no additional cost..
+
+'Alcyone' is a chemistry puzzle game set across the periodic table. Your goal is to weave scattered elements together to synthesize molecules, and assemble them to trigger chemical reactions. Molecules don't simply stay in place. As temperatures rise and fall, matter changes states between gas, liquid, and solid—floating up or sinking down. This unique system adds depth to the puzzle in a truly distinctive way. Design your own chain reactions and lose track of time in the world of chemistry. Simply enjoy the game, and real-world chemical knowledge will follow like a gift.
+
+Build molecules and trigger reactions.
+
+• Combine elements to synthesize a wide variety of molecules. Experience the vast world of chemistry and find joy in discovering over 1,300 real-world compounds.
+• Compounds change through three phases—solid, liquid, and gas—depending on the ambient temperature. Their physical properties, where solids and liquids sink and gases rise, act as key variables in your puzzles.
+• Place identical compounds in adjacent cells to trigger reactions. The more complex the elemental composition of the compound, the higher the score you earn, allowing you to find your own efficient scoring path.
+• Your score increases exponentially as the number of reacting compounds grows and the chain reactions last longer. Strategize your placement to achieve the highest possible scores.
+• From basic reactions like acid-base neutralization and hydrolysis to advanced organic chemistry, combine real-world chemical reactions to design and enjoy spectacular chain reactions.
+
+Explore the periodic table and collect elements.
+
+• Conquering numerous stages organized by atomic number, from Hydrogen (H, 1) to Krypton (Kr, 36), allows you to explore chemistry from basic to advanced levels step-by-step.
+• Every time you complete a stage, you can collect new elements or unlock new chemical reactions that expand the possibilities of your experiments and your scientific toolkit.
+• Upgrade each element to significantly boost your scoring efficiency. As you upgrade specific elements, the value of every compound containing them increases, letting you reach much higher scores.
+• Acquire and upgrade organic functional groups to improve synthesis efficiency. Even compounds with complex structures can be created much more easily and quickly using upgraded functional groups.
+
+Alcyone is continuously improved through regular updates. Focus entirely on the joy of chemistry, with no pop-up ads.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/af/dc/aeafdc95-ef3d-f953-32f3-92b3a365c5d3/MainA.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/d8/59/e2d859e8-119a-e0cc-905f-3c70d3c06e6f/MainB.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/37/22/8d3722db-6107-33d5-4b0b-ac86085ec375/Form.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/27/ab/b427ab7a-6770-54ae-5116-59ea9b1915bc/State.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/1e/3d/5b1e3d8f-0c42-a95b-38c8-9b7b20a265e6/React.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/0c/79/870c792d-9c99-b003-6449-9f013b2995d3/Atom.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/12/7f/24127f9e-59e6-8dc2-2d69-3b577cbed696/Molecule.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/92/79/0f9279eb-8df7-0ef2-89bd-1b05d6ae8f69/Chain.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/15/78/961578f6-7049-34fa-488c-6a960d8b2020/Facts.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/79/de/0f79decd-4479-e7b8-a050-9d5bbfc2e815/Stats.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/fb/f8/cbfbf89a-70b8-a0ab-e6f5-aed2fe1918d6/US1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/55/47/c6554715-6503-926e-048b-09f57c7c65e5/US2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/d2/e3/d8d2e38c-0617-9c71-a84b-a24ef97ce382/US3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/d0/ec/b2d0eca9-3cc9-ffc1-5f88-0bb4b0ac940a/US4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/42/41/7642411c-2032-8618-d200-85e74f88b417/US5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/a1/e9/20a1e949-54b4-f978-236b-f866c463c592/US6.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/41/9c/c9419cd8-ddb0-4330-c8e2-9291febe7794/US7.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/c0/4f/34c04f69-dfdf-75e9-10c4-bf9aa4b7c228/US8.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Shipping!]]></title>
+        <id>Tokyo Shipping!-us-1795286667018</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6785438432?lang=en"/>
+        <updated>2026-11-21T18:44:27.018Z</updated>
+        <summary type="html"><![CDATA[Price: $4.99 → $0.49]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6785438432?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/fb/d7/9dfbd774-235e-a9e9-72c2-3786cbe61488/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$4.99</span> → <b>
+  <strong>$0.49</strong>
+</b><span>[$0.49 ~ $4.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.49</b>
+</p><h2>Application Description</h2><p>
+  Lead Japan's merchant fleet to import resources and export goods!
+Engage in trade, power up domestic industries, and drive the rapid growth of the Japanese economy!
+
+Japan relies on imports for many of its essential resources, with 99% of these shipments transported by merchant vessels such as tankers and bulk carriers.
+Imported resources are processed domestically into various goods for export, generating foreign currency. Merchant ships—including container ships and car carriers—play a vital role in these exports as well.
+
+Building a merchant ship can take two to three years or more; consequently, many shipping companies secure the vessels they operate by leasing them from shipowners (a practice known as "chartering").
+
+
+Use your merchant fleet to handle imports and exports, activate key domestic industries, and fuel the growth of the Japanese economy!
+There are just two main tasks for the player:
+
+1.
+Charter merchant ships! You can sign contracts by selecting the charter period, ship type, and vessel size. Once chartered, simply choose your trading partners and the goods to be traded, and the ships will set sail.
+
+2.
+Operate essential domestic industries! By supplying valuable resources to these industries, you can manufacture products. These goods can be consumed domestically or sold as exports to earn foreign currency. Infrastructure that generates energy cannot be allowed to stop; oil, LNG (liquefied natural gas), and coal are vital to the Japanese economy. Make sure to keep imports flowing!
+
+
+It’s "Game Over" if you run out of any of the essentials for infrastructure and daily life: oil, LNG, coal, food, or money. Keep a close eye on your resource stockpiles as you manage the Japanese economy!
+
+
+There are absolutely no advertisements or in-app purchases—feel free to focus entirely on the gameplay.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/2b/67/c22b67ca-a855-131a-53c4-183a346061c4/1242x2688031.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/28/53/8e2853f6-89be-f385-b080-cc15872514df/1242x2688032.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/f9/c4/adf9c47f-fbc8-0c7c-652b-90b988400909/1242x2688033.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/34/70/a534704f-33b3-fcf5-2fad-71ebce4b6a48/1242x2688034.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/7a/1a/437a1a19-7835-f49f-ca3e-d5002721949d/2048x2732047.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/a4/82/b4a482c3-6342-c001-1de7-3cf31c5f797b/2048x2732048.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/c3/a2/97c3a2f6-6495-8d63-51f4-18417a20e891/2048x2732049.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/52/bb/6552bbe8-2395-77c6-cbff-c3626aa6ef86/2048x2732050.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Train!]]></title>
+        <id>Tokyo Train!-us-1795286667018</id>
+        <link href="https://appstore-discounts.eyelly.me/us/1642139491?lang=en"/>
+        <updated>2026-11-21T18:44:27.018Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $0.49]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1642139491?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/c2/b9/05c2b9d4-189c-dfaf-1efd-09838d14142f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$0.49</strong>
+</b><span>[$0.29 ~ $9.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.49</b>
+</p><h2>Application Description</h2><p>
+  Run Japan's trains!
+
+No railroad knowledge is required to play "Tokyo Train!".
+This game is a brain game with simple rules but requires a lot of brain power.
+
+
+Customers are waiting at the station for the trains to arrive to take them to their destinations.
+Start the trains and transport your customers.
+
+You will earn money for every passenger who boards a train.
+Adjust the interval between runs and the number of cars to achieve the highest revenue.
+Departing trains costs money. If you send out too many trains and the boarding rate drops, you will lose your revenue.
+
+The operation method is very easy and the rules are simple.
+All you have to do is adjust the number of train cars and make the trains depart at the best time.
+As the game progresses, express fares will also appear.
+
+No technical knowledge is required at all.
+Both people who like trains and people who like games can quickly understand and enjoy the game.
+
+There are no in-app purchases. There are no ads.
+Please concentrate on the game.
+Share your operating results on social media.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/21/5d/09215dd6-b630-31f6-01e8-4530e656990e/2688x1242HankyuKyoto.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/95/dc/4395dc4c-c158-00ef-7ae8-94e697f38514/2688x1242StageChoice034.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/67/1d/b3671d5c-90d5-aa2f-a227-e19a07858a67/2688x1242Title032.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/19/ae/bc19aebf-5f06-3f90-c1f2-a8bb729560db/2732x2048HankyuKyoto.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/f2/68/09f268b3-c52e-844a-b59b-0083f43a49ad/2732x2048StageChoice035.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/96/1a/26961aa7-ebe3-9820-b942-804e30ec5509/2732x2048Title033.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eco inc. Save the Earth]]></title>
+        <id>Eco inc. Save the Earth-us-1795286667018</id>
+        <link href="https://appstore-discounts.eyelly.me/us/1504760106?lang=en"/>
+        <updated>2026-11-21T18:44:27.018Z</updated>
+        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1504760106?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/b4/a9/4fb4a924-6875-8b1e-fa59-f90a571750aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.29</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $7.49]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    +100 boosters ECO-Initiative!：<b>$1.00</b>
+  </li><li>
+    +2026 boosters ECO-Initiative!：<b>$4.29</b>
+  </li><li>
+    Full scenarios：<b>$4.99</b>
+  </li><li>
+    +444! Triple-Four Booster Pack：<b>$2.00</b>
+  </li><li>
+    Buy Premium：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Eco Inc. Save the Earth is a strategy game about protecting a living planet.
+
+Take on scenarios about plastic pollution, food waste, global cooling, alien invasion and more. Each scenario has its own threats, projects and victory conditions.
+
+Develop environmental initiatives, manage resources and send volunteers to emergencies. Upgrade rescue helicopters and boats, explore a 3D Earth with moving clouds, and zoom out for a journey through the Solar System.
+
+Unlock automatic point collection and chest opening, set music and sound volume separately, and adjust text size for comfortable play.
+
+Built-in Moodplayer: choose tracks, pause playback and adjust volume. Loading music requires internet access. No sign-in is required. Player settings also offer optional Moodplayer sign-in through Google.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/09/43/a509438e-db56-6e1e-e342-7b4d5c6ce193/10-scenarios.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/10/4c/9b104c23-2c93-b771-e18a-bc6494bbcabd/08-mars.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/95/cf/5b95cfe6-4009-39c1-bccd-40b3cc5a23d7/02-together.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/41/65/e04165e2-b50a-5923-1154-9c792bf9ca8c/03-volunteers.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/8e/b7/958eb768-35e3-a4a0-8364-3e2833c3bbbe/05-forests.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/bb/87/5bbb8749-709c-75ed-6277-f8b6e570c678/06-oceans.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/e8/d6/12e8d6e5-13ed-d477-eeb6-ea0a75e96472/07-animals.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/20/7a/19207ab9-2d55-e2bf-2b88-7d467090bedf/09-choices.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/f4/90/ebf49001-35c7-3a7c-068b-2f29c44da9ad/10-scenarios.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/58/6c/e5586c3c-07d8-8b10-652e-1934133f5dcd/08-mars.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/df/9b/4cdf9ba5-6a55-1be4-8a4e-8dc0202065c2/02-together.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/b5/2f/6bb52f5c-6333-a038-1fc4-701310604a89/03-volunteers.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/d7/9b/14d79b8a-261e-f213-49b5-27e4ea235729/05-forests.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/dc/9b/e2dc9b51-ea12-af46-72b0-7083a452e48b/06-oceans.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/bb/80/aebb809b-18c1-9e29-e355-4d84f0ec9652/07-animals.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/c1/97/cdc1977d-0cdb-3564-64b2-7760144a43d0/09-choices.jpg/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Photo Scan Plus]]></title>
@@ -4861,147 +5154,5 @@ No ads or subscriptions. One purchase takes you to the floor 999 ending.
 Optional in-app items (tips, cosmetics, paid heroes) are available. None are required to play.
 한국어 · English · 日本語 · 繁體中文 · Français · Deutsch · Italiano · Español · Português
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/c6/64/aac6648a-bb91-cdcd-9678-a8d5a0f74438/01-battle.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/06/0d/3d060df6-bc01-ed59-2b51-e8f9734ae8b8/02-rogue.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/86/c8/1f86c873-fe2b-374a-9354-68667128dd25/03-lounge.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/c4/3f/29c43f75-e2d3-2040-b7ec-0c542c66a33a/04-gallery.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/74/14/89741437-6e3e-7812-fa4a-154486320c96/05-towers.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/1d/87/111d871c-0162-2396-09db-42f88225da9e/06-home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/d0/19/1ad01963-3803-56a4-0295-13be17232da7/07-condition.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/86/b1/eb86b1ef-6046-5a4c-8bf3-c12e8a4f7127/08-ashBattle.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/c5/26/acc52645-bad0-9288-6cca-5858a8cfb703/09-story.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/63/a6/6a63a67f-c323-d697-fe8d-ccee1d803ebf/01-fight.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/e2/21/c8e22189-9ed3-56e0-22ea-540c85222cca/02-towers.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/c4/16/14c41676-a939-1cc5-9dee-b7b09c27c130/03-home.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/a2/59/5ba25917-016f-2255-a0ad-9124c17e64ee/04-party.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/2c/a7/bd2ca7e5-f104-e886-ef24-676f6a6509bb/05-raidGate.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/57/73/975773e7-ae96-9dc9-2f9e-fdabdefd4c26/06-roster.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/8c/29/f28c29bf-4b3d-6d1c-3248-249bf785fc7f/07-fight2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/60/89/d360891a-de5e-a8e6-a724-0f3a6f1e2efa/08-gallery.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/a6/08/3fa608b4-ed9a-533d-306b-b272e416dd5d/09-named-events.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/2f/42/b42f42e7-1bff-b1e3-96fb-b65a1054cf60/10-story.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moment Pro Camera II]]></title>
-        <id>Moment Pro Camera II-us-1795032051232</id>
-        <link href="https://appstore-discounts.eyelly.me/us/6748837351?lang=en"/>
-        <updated>2026-11-18T20:00:51.232Z</updated>
-        <summary type="html"><![CDATA[Price: $9.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6748837351?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/d4/8d/48d48db7-1045-3186-1dd3-816d475b952a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$9.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $9.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Lifetime (Unlocked)：<b>$0.00</b>
-  </li><li>
-    Monthly (Rent to Own)：<b>$2.99</b>
-  </li><li>
-    Lifetime：<b>$24.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  We’re a small independent group of photographers, designers, and engineers who want more out of their camera: more natural shots, more cinematic video, and more manual controls. We’ve been making MPC-II for over a decade and promise to keep making it better. Join us.
-
-NATURAL, UNPROCESSED SHOTS
-It starts with the look.
-
-• MPC-II offers our own Natural Processing imaging pipeline. It builds from RAW data instead of the stock camera’s heavier HDR and contrast, so you get authentic tones without excessive sharpening and noise reduction.
-• Dynamic Range Enhancer: a tone mapping pipeline for Natural that recovers detail in highlights and shadows. Set it to Off, Light, Medium, or Strong.
-• Import Your LUTs: bring your own into the Look Library and organize them in folders. Shoot with your LUTs baked into your shots, or use them in preview-only mode.
-
-YOUR OWN WORKFLOW
-Your camera, your way. We built MPC-II to support anyone’s workflow.
-
-• Swap Your Action Plates: pick the plate that suits you, then choose which controls live on it. Rearrange the controls or remove everything but the capture mode.
-• Save Your Profiles: save your capture mode, format, look, and controls. Store unlimited profiles and pin four to quick slots you switch with a tap.
-• Launch From Anywhere: open a Profile or capture mode from a widget, a Shortcut, or Apple Watch. On the Watch you also get a live feed, lens switching, Crown zoom, and timers.
-• Your Focal Lengths: add the focal lengths you actually shoot to each camera and cycle through them from the lens bar.
-• Zen Mode: go distraction-free.
-
-PRO TOOLS
-Now for the camera-nerd features. We’ve spent a decade building pro tools that photographers and filmmakers rely on. Missing one? Tell us and we’ll add it.
-
-• All The Manual Controls: Auto, Shutter Priority with ISO range, ISO priority, or full Manual. White balance by temperature and tint, presets, or gray card. Separate exposure and focus reticles, Manual Focus, Focus Peaking, and Focus Loupe. On iPhone 18 Pro, Variable Aperture from f1.48 to f4.0. Works in Photo and Video.
-• Photo Modes: Natural, Standard, RAW, or ProRAW. JPG, HEIF, or TIFF. Standard at 12, 24, or 48MP. Shoot 3:4, 4:5, 1:1, or 16:9. Tune ProRAW bit depth and compression.
-• Video Modes: Open Gate, Apple Log and Log2, ProRes, 10-bit recording, and HEVC. Set resolution, color space, frame rate, codec, bitrate, and chroma subsampling.
-• Slow Shutter: build light trails and motion blur in camera by stacking frames. Set a duration, or hold the exposure open with Bulb.
-• Monitoring: Waveform, RGB histograms, zebras, false color, and audio meters. Grids, levels, and social frames.
-• Hardware and Storage: save to your photo library, Files, or external storage. Supports external and bluetooth mics, HDMI clean feed, and Moment lenses with anamorphic de-squeeze.
-
-BUILT TO BE RELIED ON
-We track our performance closely. Whether you’re shooting from a mountaintop or making a feature film, MPC-II is an app you can count on when it matters most.
-
-• Efficient processing: our pipeline is built to perform, even when shooting high-bandwidth formats with monitors and LUTs.
-• Confidence: your selected lens is locked, rather than switching on its own when the light changes. Your format, exposure, and color settings stay on screen, so you always know what you're shooting.
-• Always reliable: a stable app you can count on through the whole take, the whole shoot, and the whole trip.
-
-We love hearing from our community. For feature requests, ideas, or support, email us at hello@momentprocamera.com or message us @momentprocamera on social media.
-
-Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/27/72/e42772a1-d24e-8219-9c1e-f351e3a6c567/1-Hero.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/15/24/6c152403-8fbb-76f7-d75b-2d41920c7399/2-Natural.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/da/7a/03da7a7f-f9e7-a539-101f-baaed0fa5725/3-Looks.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/5c/93/a95c939b-818c-43da-fff1-6b556633fd29/4-Cinema.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/66/b2/a666b290-6cfb-8fc3-908a-ff1d23b2e81d/5-Profiles.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/40/9d/40409db7-a577-ab83-bfc3-edf5538ce5f2/6-Action_Plates.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/5d/de/705dde12-a1f9-c6a3-0ac6-6709f62f3ecf/7-Slow_Shutter.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/e3/91/40e3919f-375f-aee6-08c3-2b32f04a25aa/8-Manual.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/d8/86/ecd88691-1cb9-5a54-df1d-ff15b5e94891/9-Pro_Tools.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/a4/83/6ba48384-7089-dbaf-19b8-84241b6df0f0/10-Creators.jpg/320x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groundwire: VoIP SIP Softphone]]></title>
-        <id>Groundwire: VoIP SIP Softphone-us-1795032051232</id>
-        <link href="https://appstore-discounts.eyelly.me/us/378503081?lang=en"/>
-        <updated>2026-11-18T20:00:51.232Z</updated>
-        <summary type="html"><![CDATA[Price: $9.99 → $1.79]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/378503081?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a2/f3/40a2f309-b767-0fef-d352-38730a51b5f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$9.99</span> → <b>
-  <strong>$1.79</strong>
-</b><span>[$1.79 ~ $9.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.79</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    ZRTP For Outgoing Calls：<b>$24.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Groundwire: the SIP softphone for your PBX or VoIP provider
-
-Groundwire is a SIP softphone app from Acrobits, a leader in VoIP and communication software since 2009. It delivers clear voice and video calls for personal and professional use, with an interface built for daily calling and none of the clutter.
-
-IMPORTANT, PLEASE READ
-
-Groundwire is a SIP client, not a VoIP service. You need service from a VoIP provider or PBX that supports standard SIP clients.
-
-Business calling features
-
-Groundwire carries the call handling you expect from a desk phone:
-
-- Group calls, for conferencing several people into one conversation.
-- Attended transfers, so you can announce a caller before handing the call over.
-- Unattended transfers, when the caller just needs the right extension.
-- Voicemail with notifications, so a missed call still reaches you.
-- Instant messaging, for the things that do not need a call.
-- Per-account settings, so one device carries several SIP identities cleanly.
-
-Works with your PBX or VoIP provider
-
-Groundwire is a universal client and true VoIP for PBX users. Teams run it as an Asterisk softphone, a FreePBX extension, or a 3CX endpoint, and it connects just as readily to hosted PBX systems and business phone providers. It also comes preconfigured for major providers, so setup takes minutes. Because it is a standard client, there is no lock-in: bring the account you already have, and Groundwire becomes the mobile extension of your PBX, with encrypted SIP calling on every network.
-
-On a team it is the business softphone dialer sitting on top of the PBX you already pay for. On your own it keeps a work line separate, or carries a desk extension in your pocket.
-
-Key features of the softphone
-
-- Audio on widely used codecs, Opus, G.729 and G.711 among them.
-- Video calls at 720p HD, carried by H.264 and VP8.
-- Private conversations with military-grade encryption, including TLS, SRTP, and ZRTP.
-- Low battery use thanks to efficient push notifications.
-- The VoIP dialer hands calls over between WiFi and mobile data without dropping them.
-- Custom call settings, UI, and ringtones per account.
-- 5G ready and compatible with most mobile operating systems.
-
-A softphone app without the fees
-
-Groundwire is a softphone for calling over WiFi and mobile data, with the business dialer features that usually cost a monthly fee. One payment, no subscription, nothing hidden: buy it once and it stays yours. Encryption sits inside that price rather than on top of it.
-
-Run a call center, manage a fleet of extensions, or keep a dependable sip phone for a home office. The same app covers all of it, without extra tiers.
-
-Download Groundwire and put a dependable SIP dialer on your phone, with Acrobits engineering and responsive support behind it.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/4b/03/e54b03e4-5959-109a-ac6a-4ef725af5c2d/51f3e128-9161-4fdb-a16f-ec43dd7c5382_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_01_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/6b/a3/f56ba336-eab3-53ec-e1f1-c1c43ca1acfe/55089678-61ec-4d38-a9a7-e3d88f402342_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_02_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/df/b0fbdf68-4213-bb14-5d89-b35221ed13ea/e830a11c-db8e-44be-aaef-86fe5a246f7f_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_03_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/96/dc/c696dcf1-e9ae-27b3-b797-7a026110f868/4629f1db-2fdb-4e7c-9c6d-f2579fc25bdd_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_04_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/20/8d/8a208dce-83ec-1cfb-a966-50cb2eaffb3d/0a7d67f0-cf26-4ab7-86b3-df9742b1e563_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_05_041024.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iVerify Basic]]></title>
-        <id>iVerify Basic-us-1795032051232</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1466120520?lang=en"/>
-        <updated>2026-11-18T20:00:51.232Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1466120520?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>iVerify Basic is your gateway to enhanced device security and threat awareness, offering a glimpse into the powerful capabilities of our enterprise-grade solution, iVerify EDR. Designed for individuals who prioritize their digital security, iVerify Basic empowers users to take proactive measures to safeguard their devices against a myriad of threats. Users can scan their devices with a tap to detect vulnerabilities and stay proactive against threats.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/f8/6c/24f86c84-c055-59cf-1523-3ca50c194ec1/b38288c3-7674-42c0-847d-6e92e648df75_Frame_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/eb/9b/35eb9b72-ebf0-7551-e03c-a8c84d6e8d7e/38827258-01d6-436f-8e56-34124ba121d0_Frame_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/d9/70/5fd9702e-4ade-2707-accf-8936cf199a7e/66bc5c74-71ac-4d7c-9ee1-bc867a55acf4_Frame_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/7d/3b/677d3b26-f402-b39b-39f8-d5f3bd3555bf/9eee2585-4313-450d-bade-8c2ec05fbebc_Frame_17.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/8c/9b/498c9bf3-4a2b-efe6-7879-9a8fcaffefb8/cd30f599-e9fb-4aab-b600-d8a297aca777_Frame_14.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/c6/ba/4fc6ba6d-3a7a-043e-2faf-ab1d59d1d2f8/15fead36-b8d4-4943-b363-d425334e1eb8_Frame_13.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/a8/2b/aaa82beb-042e-eca2-97b5-9ade870cdbe9/49c621ac-987e-4d3f-8c77-604627532b04_Frame_9.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/c1/deebc1c2-1ab4-42c7-cdec-0bea399f487f/6cc59cfc-62c1-4bd9-9165-74b9a75e2039_Frame_16.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>

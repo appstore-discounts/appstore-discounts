@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1504760106,
+    "region": "pt",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,29 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1504760106",
+    "trackName": "Eco Inc. Salve o Planeta",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1642139491,
+    "region": "pt",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,49 €",
+        "range": "[0,29 € ~ 9,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6785438432,
+    "region": "pt",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6785438432",
+    "trackName": "Tokyo Shipping!",
+    "firstRecordedAt": 1784449011192
+  },
+  {
+    "trackId": 6749684876,
+    "region": "pt",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 7,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6749684876",
+    "trackName": "Alcyone: Chemistry Puzzle",
+    "firstRecordedAt": 1789225426600
+  },
+  {
     "trackId": 1576521142,
     "region": "pt",
     "timestamp": 1795257649461,
@@ -1192,7 +1272,7 @@
         "name": "Price",
         "from": "0,99 €",
         "to": "0,29 €",
-        "range": "[0,29 € ~ 0,99 €]"
+        "range": "[Gratuito ~ 0,99 €]"
       }
     ],
     "price": 0.29,
@@ -25542,7 +25622,7 @@
         "name": "Price",
         "from": "0,99 €",
         "to": "0,29 €",
-        "range": "[0,29 € ~ 0,99 €]"
+        "range": "[Gratuito ~ 0,99 €]"
       }
     ],
     "price": 0.29,

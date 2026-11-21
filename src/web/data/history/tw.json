@@ -196372,7 +196372,8 @@
       "+100 boosters ECO-Initiative!": "$10.00",
       "+2026 boosters ECO-Initiative!": "$150.00",
       "+444! Triple-Four Booster Pack": "$90.00",
-      "Full scenarios": "$150.00"
+      "Full scenarios": "$150.00",
+      "Buy Premium": "$30.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -196383,9 +196384,24 @@
       "+100 boosters ECO-Initiative!": "$10.00",
       "+2026 boosters ECO-Initiative!": "$150.00",
       "+444! Triple-Four Booster Pack": "$60.00",
-      "Full scenarios": "$30.00"
+      "Full scenarios": "$30.00",
+      "Buy Premium": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795286667018,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "Full scenarios": "$150.00",
+            "+444! Triple-Four Booster Pack": "$60.00",
+            "Buy Premium": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794738363484,
@@ -267603,6 +267619,25 @@
     "history": [
       [
         {
+          "timestamp": 1795286667018,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "每月": "$60.00",
+            "每年": "$390.00",
+            "乖乖": "$60.00",
+            "Calico Theme": "$60.00",
+            "Orange Theme": "$60.00",
+            "辛巴": "$60.00",
+            "Siamese Theme": "$60.00",
+            "可可": "$60.00",
+            "City Night Theme": "$60.00",
+            "Blue Sky Theme": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -313990,6 +314025,14 @@
     "history": [
       [
         {
+          "timestamp": 1795286667018,
+          "price": 250,
+          "formattedPrice": "$250.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794767452594,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -327875,10 +327918,18 @@
       "formattedPrice": "$20.00"
     },
     "minPriceInfo": {
-      "price": 20,
-      "formattedPrice": "$20.00"
+      "price": 15,
+      "formattedPrice": "$15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795286667018,
+          "price": 15,
+          "formattedPrice": "$15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784449011192,
@@ -330510,13 +330561,28 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 220,
-      "formattedPrice": "$220.00"
+      "formattedPrice": "$220.00",
+      "每週方案": "$60.00",
+      "永久方案": "$220.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "每週方案": "$60.00",
+      "永久方案": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795286667018,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每週方案": "$60.00",
+            "永久方案": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794165648967,
@@ -331450,6 +331516,25 @@
       "混合 禮包 11": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795286667018,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄達莉雅": "$150.00",
+            "混合 禮包 11": "$320.00",
+            "塔樓貓頭鷹騎士": "$150.00",
+            "全英雄禮包": "$790.00",
+            "英雄奧斯尼爾": "$150.00",
+            "全塔禮包": "$690.00",
+            "法術變羊術": "$150.00",
+            "全法術禮包": "$390.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795203532221,

@@ -1,5 +1,112 @@
 [
   {
+    "trackId": 393670998,
+    "region": "tr",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "欧路翻译AI超级会员(3个月)",
+        "from": "₺499,99",
+        "to": "₺399,99",
+        "range": "[₺399,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "欧路翻译AI超级会员(1个月)",
+        "from": "₺199,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 799.99,
+    "formattedPrice": "₺799,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id393670998",
+    "trackName": "欧路词典 Eudic 增强版",
+    "firstRecordedAt": 1748084525757
+  },
+  {
+    "trackId": 1504760106,
+    "region": "tr",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺19,99",
+        "to": "Free",
+        "range": "[Free ~ ₺349,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1504760106",
+    "trackName": "Eco inc. Save the Earth",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1642139491,
+    "region": "tr",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺29,99",
+        "range": "[₺2,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1756860878460
+  },
+  {
+    "trackId": 6785438432,
+    "region": "tr",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺29,99",
+        "range": "[₺29,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6785438432",
+    "trackName": "Tokyo Shipping!",
+    "firstRecordedAt": 1784449011192
+  },
+  {
+    "trackId": 6749684876,
+    "region": "tr",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "Free",
+        "range": "[Free ~ ₺399,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6749684876",
+    "trackName": "Alcyone: Chemistry Puzzle",
+    "firstRecordedAt": 1789225426600
+  },
+  {
     "trackId": 1576521142,
     "region": "tr",
     "timestamp": 1795257649461,
@@ -1263,7 +1370,7 @@
         "name": "Price",
         "from": "₺49,99",
         "to": "₺19,99",
-        "range": "[₺9,99 ~ ₺349,99]"
+        "range": "[Free ~ ₺349,99]"
       }
     ],
     "price": 19.99,
@@ -26831,7 +26938,7 @@
         "name": "Price",
         "from": "₺39,99",
         "to": "₺19,99",
-        "range": "[₺9,99 ~ ₺349,99]"
+        "range": "[Free ~ ₺349,99]"
       }
     ],
     "price": 19.99,
@@ -42575,7 +42682,7 @@
         "name": "Price",
         "from": "₺349,99",
         "to": "₺9,99",
-        "range": "[₺9,99 ~ ₺349,99]"
+        "range": "[Free ~ ₺349,99]"
       }
     ],
     "price": 9.99,
@@ -44966,7 +45073,7 @@
         "name": "Price",
         "from": "₺33,99",
         "to": "₺9,99",
-        "range": "[₺9,99 ~ ₺349,99]"
+        "range": "[Free ~ ₺349,99]"
       }
     ],
     "price": 9.99,
@@ -45146,7 +45253,7 @@
         "name": "Price",
         "from": "₺33,99",
         "to": "₺9,99",
-        "range": "[₺9,99 ~ ₺349,99]"
+        "range": "[Free ~ ₺349,99]"
       },
       {
         "type": "inAppPurchase",

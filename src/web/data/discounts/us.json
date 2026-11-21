@@ -1,23 +1,83 @@
 [
   {
-    "trackId": 951627022,
+    "trackId": 1504760106,
     "region": "us",
-    "timestamp": 1795257649461,
+    "timestamp": 1795286667018,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Photomyne membership",
-        "from": "$29.99",
-        "to": "$19.99",
-        "range": "[$19.99 ~ $29.99]"
+        "type": "price",
+        "name": "Price",
+        "from": "$0.29",
+        "to": "Free",
+        "range": "[Free ~ $7.49]"
       }
     ],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id951627022",
-    "trackName": "Photo Scan Plus",
-    "firstRecordedAt": 1794977944693
+    "trackViewUrl": "https://apps.apple.com/us/app/id1504760106",
+    "trackName": "Eco inc. Save the Earth",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1642139491,
+    "region": "us",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$0.49",
+        "range": "[$0.29 ~ $9.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1756860878460
+  },
+  {
+    "trackId": 6785438432,
+    "region": "us",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $4.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6785438432",
+    "trackName": "Tokyo Shipping!",
+    "firstRecordedAt": 1784449011192
+  },
+  {
+    "trackId": 6749684876,
+    "region": "us",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "Free",
+        "range": "[Free ~ $6.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6749684876",
+    "trackName": "Alcyone: Chemistry Puzzle",
+    "firstRecordedAt": 1789225426600
   },
   {
     "trackId": 1250601531,
@@ -1232,7 +1292,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "$0.29",
-        "range": "[$0.29 ~ $7.49]"
+        "range": "[Free ~ $7.49]"
       }
     ],
     "price": 0.29,
@@ -26165,7 +26225,7 @@
         "name": "Price",
         "from": "$0.69",
         "to": "$0.29",
-        "range": "[$0.29 ~ $7.49]"
+        "range": "[Free ~ $7.49]"
       }
     ],
     "price": 0.29,
@@ -40555,7 +40615,7 @@
         "name": "Price",
         "from": "$7.49",
         "to": "$0.29",
-        "range": "[$0.29 ~ $7.49]"
+        "range": "[Free ~ $7.49]"
       }
     ],
     "price": 0.29,
@@ -43533,7 +43593,7 @@
         "name": "Price",
         "from": "$0.39",
         "to": "$0.29",
-        "range": "[$0.29 ~ $7.49]"
+        "range": "[Free ~ $7.49]"
       }
     ],
     "price": 0.29,
@@ -43734,7 +43794,7 @@
         "name": "Price",
         "from": "$0.39",
         "to": "$0.29",
-        "range": "[$0.29 ~ $7.49]"
+        "range": "[Free ~ $7.49]"
       },
       {
         "type": "inAppPurchase",
@@ -44082,7 +44142,7 @@
         "name": "Price",
         "from": "$0.59",
         "to": "$0.39",
-        "range": "[$0.29 ~ $7.49]"
+        "range": "[Free ~ $7.49]"
       }
     ],
     "price": 0.39,

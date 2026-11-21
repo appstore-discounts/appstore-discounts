@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1504760106,
+    "region": "hk",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 2.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1504760106",
+    "trackName": "Eco Inc. 拯救地球",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6749684876,
+    "region": "hk",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6749684876",
+    "trackName": "阿爾基奧涅：化學拼圖",
+    "firstRecordedAt": 1789225426600
+  },
+  {
     "trackId": 1576521142,
     "region": "hk",
     "timestamp": 1795257649461,
@@ -2227,7 +2267,7 @@
         "name": "Price",
         "from": "HK$ 58.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 58.00]"
+        "range": "[免費 ~ HK$ 58.00]"
       }
     ],
     "price": 32,

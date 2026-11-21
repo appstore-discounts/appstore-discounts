@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1504760106,
+    "region": "tw",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.00",
+        "to": "免費",
+        "range": "[免費 ~ $250.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1504760106",
+    "trackName": "Eco Inc. 拯救地球",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6785438432,
+    "region": "tw",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$20.00",
+        "to": "$15.00",
+        "range": "[$15.00 ~ $20.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "$15.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6785438432",
+    "trackName": "東京海運",
+    "firstRecordedAt": 1784449011192
+  },
+  {
+    "trackId": 6749684876,
+    "region": "tw",
+    "timestamp": 1795286667018,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "免費",
+        "range": "[免費 ~ $220.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6749684876",
+    "trackName": "阿爾基奧涅：化學拼圖",
+    "firstRecordedAt": 1789225426600
+  },
+  {
     "trackId": 1576521142,
     "region": "tw",
     "timestamp": 1795257649461,
@@ -2294,7 +2354,7 @@
         "name": "Price",
         "from": "$220.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $220.00]"
+        "range": "[免費 ~ $220.00]"
       }
     ],
     "price": 120,
