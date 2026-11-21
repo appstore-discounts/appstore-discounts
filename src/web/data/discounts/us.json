@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 951627022,
+    "region": "us",
+    "timestamp": 1795257649461,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Photomyne membership",
+        "from": "$29.99",
+        "to": "$19.99",
+        "range": "[$19.99 ~ $29.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id951627022",
+    "trackName": "Photo Scan Plus",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 1250601531,
+    "region": "us",
+    "timestamp": 1795257649461,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$12.99",
+        "to": "$9.99",
+        "range": "[$4.99 ~ $12.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1250601531",
+    "trackName": "RAW Power",
+    "firstRecordedAt": 1761390556340
+  },
+  {
+    "trackId": 1444636541,
+    "region": "us",
+    "timestamp": 1795257649461,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly Subscription",
+        "from": "$39.99",
+        "to": "$29.99",
+        "range": "[$7.99 ~ $39.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1444636541",
+    "trackName": "Photomator – Photo Editor",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 1576521142,
+    "region": "us",
+    "timestamp": 1795257649461,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1576521142",
+    "trackName": "SOULVARS",
+    "firstRecordedAt": 1749168565362
+  },
+  {
+    "trackId": 6466296603,
+    "region": "us",
+    "timestamp": 1795257649461,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1745578938597
+  },
+  {
     "trackId": 6478843819,
     "region": "us",
     "timestamp": 1795203532221,

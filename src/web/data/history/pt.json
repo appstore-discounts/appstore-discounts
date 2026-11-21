@@ -11943,6 +11943,25 @@
     "history": [
       [
         {
+          "timestamp": 1795257649461,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "0,99 €",
+            "Voices": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Drumaxx": "1,99 €",
+            "Brazil Bass": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794632787864,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -31304,6 +31323,29 @@
       ]
     ]
   },
+  "590278208": {
+    "trackId": 590278208,
+    "trackName": "SuperMetronome Groovebox Pro",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795257649461,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "592155900": {
     "trackId": 592155900,
     "trackName": "Wake up! Earthquake",
@@ -49874,6 +49916,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795257649461,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Challenge Pass \"Virtual Campus\"": "2,99 €",
+            "Secret Library Selection 13-P": "3,99 €",
+            "Secret Library Selection 15-P": "3,99 €",
+            "Secret Library Selection 13": "8,99 €",
+            "Secret Library Selection 13-B": "7,99 €",
+            "Secret Library Selection 14": "8,99 €",
+            "Secret Library Selection 15-B": "7,99 €",
+            "Secret Library Selection 14-P": "3,99 €",
+            "Secret Library Selection 15": "8,99 €",
+            "Secret Library Selection 14-B": "7,99 €"
+          }
+        },
         {
           "timestamp": 1795226323946,
           "price": 1.99,
@@ -72261,6 +72320,25 @@
     "history": [
       [
         {
+          "timestamp": 1795257649461,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Rate": "0,00 €",
+            "Info": "0,00 €",
+            "Tuner": "0,00 €",
+            "Chromakey": "0,00 €",
+            "Unlock All": "8,99 €",
+            "Paint": "0,00 €",
+            "Erase": "0,99 €",
+            "Blend": "0,99 €",
+            "Distortion": "0,00 €",
+            "Magnifier": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794011885954,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -92927,7 +93005,8 @@
       "+100 boosters ECO-Initiative!": "1,00 €",
       "+2026 boosters ECO-Initiative!": "5,99 €",
       "+444! Triple-Four Booster Pack": "2,99 €",
-      "Full scenarios": "5,99 €"
+      "Full scenarios": "5,99 €",
+      "Buy Premium": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -92935,9 +93014,24 @@
       "+100 boosters ECO-Initiative!": "1,00 €",
       "+2026 boosters ECO-Initiative!": "4,99 €",
       "+444! Triple-Four Booster Pack": "2,00 €",
-      "Full scenarios": "0,99 €"
+      "Full scenarios": "0,99 €",
+      "Buy Premium": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795257649461,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "1,00 €",
+            "+2026 boosters ECO-Initiative!": "4,99 €",
+            "Full scenarios": "5,99 €",
+            "+444! Triple-Four Booster Pack": "2,00 €",
+            "Buy Premium": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794738363484,
@@ -104093,6 +104187,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795257649461,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785449095856,
@@ -158665,7 +158767,7 @@
   },
   "6760237050": {
     "trackId": 6760237050,
-    "trackName": "MilGPS PRO",
+    "trackName": "Military GPS - Mil GPS PRO",
     "region": "pt",
     "maxPriceInfo": {
       "price": 9.99,

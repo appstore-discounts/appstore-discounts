@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2450` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2451` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2451|590278208|自动|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
 |2450|525117691|自动|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|
 |2449|6817336623|自动|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|
 |2448|6813760931|自动|通胜 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|
@@ -184,7 +185,7 @@
 |2276|732245213|自动|Voice Analyst: 音高与音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: Pitch & Volume|Voice Analyst: Pitch & Volume|Voice Analyst: Tom e Volume|
 |2275|6720703028|自动|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|
 |2274|6467631665|自动|备货追踪|備貨追蹤|備貨追蹤|備貨追蹤|Stock Tracker for AS|Stock Tracker for AS|备货追踪|
-|2273|6760237050|自动|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|MilGPS PRO|
+|2273|6760237050|自动|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|
 |2272|6800616114|自动|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|
 |2271|6749684876|自动|❌|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|
 |2270|6799335271|自动|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|Funny Doctor - Kids Tummy Scan|Funny Doctor - Kids Tummy Scan|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|
