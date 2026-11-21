@@ -200049,8 +200049,8 @@
   "6746699177": {
     "name": "Lysoniq",
     "maxPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99",
+      "price": 15.99,
+      "formattedPrice": "USD 15.99",
       "LYNQ+ Monthly": "USD 2.49"
     },
     "minPriceInfo": {
@@ -200059,6 +200059,16 @@
       "LYNQ+ Monthly": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795226323946,
+          "price": 15.99,
+          "formattedPrice": "USD 15.99",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785572401820,
@@ -204350,16 +204360,30 @@
       "formattedPrice": "USD 9.99",
       "Lifetime (Unlocked)": "USD 0.00",
       "Monthly (Rent to Own)": "USD 2.99",
-      "Lifetime": "USD 24.99"
+      "Lifetime": "USD 24.99",
+      "Rent-to-Own Reward": "USD 0.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Lifetime (Unlocked)": "USD 0.00",
       "Monthly (Rent to Own)": "USD 2.99",
-      "Lifetime": "USD 24.99"
+      "Lifetime": "USD 24.99",
+      "Rent-to-Own Reward": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795226323946,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Rent-to-Own Reward": "USD 0.00",
+            "Monthly (Rent to Own)": "USD 2.99",
+            "Lifetime": "USD 24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795032051232,

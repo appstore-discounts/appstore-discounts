@@ -67086,6 +67086,23 @@
     "history": [
       [
         {
+          "timestamp": 1795226323946,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99"
+          }
+        },
+        {
           "timestamp": 1795172225067,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -208961,6 +208978,25 @@
     "history": [
       [
         {
+          "timestamp": 1795226323946,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794519898441,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -345755,8 +345791,8 @@
     "trackName": "Lysoniq",
     "region": "us",
     "maxPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "$14.99",
+      "price": 15.99,
+      "formattedPrice": "$15.99",
       "LYNQ+ Monthly": "$2.49"
     },
     "minPriceInfo": {
@@ -345765,6 +345801,16 @@
       "LYNQ+ Monthly": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795226323946,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784352341835,
@@ -350645,16 +350691,30 @@
       "formattedPrice": "$9.99",
       "Lifetime (Unlocked)": "$0.00",
       "Monthly (Rent to Own)": "$2.99",
-      "Lifetime": "$24.99"
+      "Lifetime": "$24.99",
+      "Rent-to-Own Reward": "$0.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Lifetime (Unlocked)": "$0.00",
       "Monthly (Rent to Own)": "$2.99",
-      "Lifetime": "$24.99"
+      "Lifetime": "$24.99",
+      "Rent-to-Own Reward": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795226323946,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly (Rent to Own)": "$2.99",
+            "Lifetime": "$24.99",
+            "Rent-to-Own Reward": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795032051232,

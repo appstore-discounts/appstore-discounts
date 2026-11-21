@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1250601531,
+    "region": "tr",
+    "timestamp": 1795226323946,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺699,99",
+        "to": "₺499,99",
+        "range": "[₺249,99 ~ ₺699,99]"
+      }
+    ],
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1250601531",
+    "trackName": "RAW Power",
+    "firstRecordedAt": 1761390556340
+  },
+  {
+    "trackId": 6466296603,
+    "region": "tr",
+    "timestamp": 1795226323946,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺49,99",
+        "range": "[₺39,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1745578938597
+  },
+  {
     "trackId": 6478843819,
     "region": "tr",
     "timestamp": 1795203532221,

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1250601531,
+    "region": "pt",
+    "timestamp": 1795226323946,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "14,99 €",
+        "to": "9,99 €",
+        "range": "[5,99 € ~ 14,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1250601531",
+    "trackName": "RAW Power",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6466296603,
+    "region": "pt",
+    "timestamp": 1795226323946,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6805775608,
     "region": "pt",
     "timestamp": 1795172225067,

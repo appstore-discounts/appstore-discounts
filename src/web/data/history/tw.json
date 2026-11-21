@@ -247847,6 +247847,25 @@
     "history": [
       [
         {
+          "timestamp": 1795226323946,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "五子良將": "$190.00",
+            "斜谷殘陽": "$190.00",
+            "戰國七雄": "$190.00",
+            "群雄爭霸": "$90.00",
+            "楚漢爭霸": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "重振漢室": "$90.00",
+            "終身版": "$220.00",
+            "北境狂人": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795172225067,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -313068,16 +313087,30 @@
       "formattedPrice": "$320.00",
       "Lifetime (Unlocked)": "$0.00",
       "Monthly (Rent to Own)": "$90.00",
-      "Lifetime": "$790.00"
+      "Lifetime": "$790.00",
+      "Rent-to-Own Reward": "$0.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Lifetime (Unlocked)": "$0.00",
       "Monthly (Rent to Own)": "$90.00",
-      "Lifetime": "$790.00"
+      "Lifetime": "$790.00",
+      "Rent-to-Own Reward": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795226323946,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Rent-to-Own Reward": "$0.00",
+            "Monthly (Rent to Own)": "$90.00",
+            "Lifetime": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795032051232,
