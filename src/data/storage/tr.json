@@ -13123,7 +13123,7 @@
     ]
   },
   "372731237": {
-    "name": "FusionCalc Pro | Memo & Calc",
+    "name": "FusionCalc1 Pro | Memo & Calc",
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
@@ -161160,14 +161160,22 @@
   "1458419589": {
     "name": "Hondata Complete",
     "maxPriceInfo": {
-      "price": 699.99,
-      "formattedPrice": "₺699,99"
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
     },
     "minPriceInfo": {
       "price": 699.99,
       "formattedPrice": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795309102364,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776502768244,
@@ -287199,6 +287207,14 @@
     "history": [
       [
         {
+          "timestamp": 1795309102364,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794790008854,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -304005,7 +304021,9 @@
       "Tower Owl": "₺249,99",
       "Hero Osnir": "₺249,99",
       "Hero Dalia": "₺249,99",
-      "Spell Sheepmorph": "₺249,99"
+      "Spell Sheepmorph": "₺249,99",
+      "Hero Illiana": "₺249,99",
+      "Hero Rhodes": "₺249,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -304050,9 +304068,30 @@
       "Tower Owl": "₺249,99",
       "Hero Osnir": "₺249,99",
       "Hero Dalia": "₺249,99",
-      "Spell Sheepmorph": "₺249,99"
+      "Spell Sheepmorph": "₺249,99",
+      "Hero Illiana": "₺249,99",
+      "Hero Rhodes": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795309102364,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Owl": "₺249,99",
+            "Spell Sheepmorph": "₺249,99",
+            "Hero Osnir": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Dalia": "₺249,99",
+            "Hero Illiana": "₺249,99",
+            "ALL HEROES BUNDLE": "₺1.299,99",
+            "Hero Rhodes": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795226323946,

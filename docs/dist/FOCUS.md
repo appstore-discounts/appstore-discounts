@@ -637,7 +637,7 @@ So far, we've covered `7` `Countries or Regions` and  `2451` `Apps` <br />Push n
 |1824|6759861082|Automatic|❌|❌|❌|❌|❌|CD’ci: Oyun Al-Sat|❌|
 |1823|1003788343|Automatic|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|
 |1822|6751832229|Automatic|屠龙烈火-经典三职业再现|❌|❌|❌|❌|❌|❌|
-|1821|6740553198|Automatic|❌|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|
+|1821|6740553198|Automatic|❌|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|浮望|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|
 |1820|6757012046|Automatic|RestTap|RestTap|RestTap|RestTap|RestTap|RestTap|RestTap|
 |1819|1580768213|Automatic|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|
 |1818|6759806669|Automatic|ScoreMaster 桌游计分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster - Board Game|ScoreMaster - Board Game|ScoreMaster - Board Game|
@@ -1026,7 +1026,7 @@ So far, we've covered `7` `Countries or Regions` and  `2451` `Apps` <br />Push n
 |1435|944118456|Automatic|EXIF Viewer：照片元数据|EXIF Viewer：照片中繼資料|EXIF Viewer：照片中繼資料|EXIF Viewer：照片中繼資料|EXIF Viewer by Fluntro|EXIF Viewer by Fluntro|EXIF Viewer Tool by Fluntro|
 |1434|1499001662|Automatic|❌|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer RPG|EvoCreo2 Catch & Tame Monsters|EvoCreo 2: Jogo de Monstro RPG|
 |1433|6753102795|Automatic|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|
-|1432|372731237|Automatic|Fusion Calculator|Fusion Calculator|Fusion Calculator|Fusion Calculator|FusionCalc Pro | Memo & Calc|FusionCalc Pro | Memo & Calc|Fusion Calculator|
+|1432|372731237|Automatic|Fusion Calculator|Fusion Calculator|Fusion Calculator|Fusion Calculator|FusionCalc1 Pro | Memo & Calc|FusionCalc1 Pro | Memo & Calc|Fusion Calculator|
 |1431|1563156209|Automatic|❌|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|
 |1430|6443875944|Automatic|❌|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|Sands of Salzaar|
 |1429|348553940|Automatic|Matthew Henry Commentary|Matthew Henry Commentary|Matthew Henry Commentary|Matthew Henry Commentary|Matthew Henry Commentary|❌|❌|

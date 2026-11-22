@@ -17818,7 +17818,7 @@
     ]
   },
   "372731237": {
-    "name": "FusionCalc Pro | Memo & Calc",
+    "name": "FusionCalc1 Pro | Memo & Calc",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
@@ -192738,14 +192738,22 @@
   "1458419589": {
     "name": "Hondata Complete",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "$12.99"
+      "price": 14.99,
+      "formattedPrice": "$14.99"
     },
     "minPriceInfo": {
       "price": 12.99,
       "formattedPrice": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795309102364,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776502768244,
@@ -206749,6 +206757,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795309102364,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        },
         {
           "timestamp": 1795257649461,
           "price": 4.99,
@@ -286219,6 +286244,25 @@
     "history": [
       [
         {
+          "timestamp": 1795309102364,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Christmas night": "$1.79",
+            "オーロラプール": "$1.19",
+            "ネオンシティ": "$1.79",
+            "Wacky Halloween Set": "$2.39",
+            "Starry Night": "$1.79",
+            "Secret Church": "$1.79",
+            "Sunset beach": "$1.19"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795172225067,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -335075,6 +335119,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795309102364,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Beach Day Card back": "$0.99",
+            "Sea Rat Outfit": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99"
+          }
+        },
         {
           "timestamp": 1795286667018,
           "price": 4.99,

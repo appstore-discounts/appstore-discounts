@@ -79666,14 +79666,22 @@
   "1458419589": {
     "name": "Hondata Complete",
     "maxPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "14,99 €"
+      "price": 17.99,
+      "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
       "price": 14.99,
       "formattedPrice": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795309102364,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776502768244,
@@ -140178,6 +140186,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795309102364,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794790008854,

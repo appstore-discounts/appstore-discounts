@@ -175887,14 +175887,22 @@
   "1458419589": {
     "name": "Hondata Complete",
     "maxPriceInfo": {
-      "price": 390,
-      "formattedPrice": "$390.00"
+      "price": 490,
+      "formattedPrice": "$490.00"
     },
     "minPriceInfo": {
       "price": 390,
       "formattedPrice": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795309102364,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776502768244,
@@ -258041,6 +258049,25 @@
     "history": [
       [
         {
+          "timestamp": 1795309102364,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "聖誕夜": "$30.00",
+            "星降之夜": "$30.00",
+            "2025春ネモフィラスキン": "$20.00",
+            "秘密教會": "$30.00",
+            "萬聖派對": "$30.00",
+            "紅葉漫步": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "新年日出": "$30.00",
+            "水畔": "$30.00",
+            "花火大會": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795172225067,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -264362,6 +264389,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795309102364,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "每月": "$60.00",
+            "每年": "$390.00",
+            "Grey Theme": "$60.00",
+            "招財": "$60.00",
+            "Calico Theme": "$60.00",
+            "City Night Theme": "$60.00",
+            "Siamese Theme": "$60.00",
+            "軟軟": "$60.00",
+            "辛巴": "$60.00",
+            "Civet Theme": "$60.00"
+          }
+        },
         {
           "timestamp": 1795286667018,
           "price": 10,
@@ -316342,7 +316386,7 @@
     ]
   },
   "6740553198": {
-    "name": "FlowDown - Open & Fast AI",
+    "name": "浮望",
     "maxPriceInfo": {
       "price": 290,
       "formattedPrice": "$290.00"
