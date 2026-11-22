@@ -637,7 +637,7 @@
 |1824|6759861082|自动|❌|❌|❌|❌|❌|CD’ci: Oyun Al-Sat|❌|
 |1823|1003788343|自动|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|
 |1822|6751832229|自动|屠龙烈火-经典三职业再现|❌|❌|❌|❌|❌|❌|
-|1821|6740553198|自动|❌|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|浮望|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|
+|1821|6740553198|自动|❌|浮望|浮望|浮望|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|
 |1820|6757012046|自动|RestTap|RestTap|RestTap|RestTap|RestTap|RestTap|RestTap|
 |1819|1580768213|自动|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|
 |1818|6759806669|自动|ScoreMaster 桌游计分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster - Board Game|ScoreMaster - Board Game|ScoreMaster - Board Game|

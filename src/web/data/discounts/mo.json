@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1642139491,
+    "region": "mo",
+    "timestamp": 1795344335870,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.29 ~ USD 9.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1642139491",
+    "trackName": "東京電車",
+    "firstRecordedAt": 1756860878460
+  },
+  {
+    "trackId": 6785438432,
+    "region": "mo",
+    "timestamp": 1795344335870,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.49 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6785438432",
+    "trackName": "東京海運",
+    "firstRecordedAt": 1784449011192
+  },
+  {
     "trackId": 1504760106,
     "region": "mo",
     "timestamp": 1795286667018,
@@ -18,46 +58,6 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id1504760106",
     "trackName": "Eco Inc. 拯救地球",
     "firstRecordedAt": 1745328692670
-  },
-  {
-    "trackId": 1642139491,
-    "region": "mo",
-    "timestamp": 1795286667018,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "USD 9.99",
-        "to": "USD 0.49",
-        "range": "[USD 0.29 ~ USD 9.99]"
-      }
-    ],
-    "price": 0.49,
-    "formattedPrice": "USD 0.49",
-    "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id1642139491",
-    "trackName": "東京電車",
-    "firstRecordedAt": 1756860878460
-  },
-  {
-    "trackId": 6785438432,
-    "region": "mo",
-    "timestamp": 1795286667018,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "USD 4.99",
-        "to": "USD 0.49",
-        "range": "[USD 0.49 ~ USD 4.99]"
-      }
-    ],
-    "price": 0.49,
-    "formattedPrice": "USD 0.49",
-    "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id6785438432",
-    "trackName": "東京海運",
-    "firstRecordedAt": 1784449011192
   },
   {
     "trackId": 6749684876,
@@ -16742,7 +16742,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6740553198",
-    "trackName": "FlowDown - Open & Fast AI",
+    "trackName": "浮望",
     "firstRecordedAt": 1772879524208
   },
   {
@@ -19138,7 +19138,7 @@
     "formattedPrice": "USD 3.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6740553198",
-    "trackName": "FlowDown - Open & Fast AI",
+    "trackName": "浮望",
     "firstRecordedAt": 1772879524208
   },
   {
@@ -21438,7 +21438,7 @@
     "formattedPrice": "USD 5.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6740553198",
-    "trackName": "FlowDown - Open & Fast AI",
+    "trackName": "浮望",
     "firstRecordedAt": 1772879524208
   },
   {
@@ -24265,7 +24265,7 @@
     "formattedPrice": "USD 6.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6740553198",
-    "trackName": "FlowDown - Open & Fast AI",
+    "trackName": "浮望",
     "firstRecordedAt": 1772879524208
   },
   {

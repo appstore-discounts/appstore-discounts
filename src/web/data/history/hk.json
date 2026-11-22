@@ -166379,6 +166379,25 @@
     "history": [
       [
         {
+          "timestamp": 1795344335870,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "禮包5": "HK$ 38.00",
+            "禮包2": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795086617057,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -240377,6 +240396,20 @@
     "history": [
       [
         {
+          "timestamp": 1795344335870,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Filtr": "HK$ 38.00",
+            "Yearly Recurring Tip": "HK$ 88.00",
+            "Monthly Recurring Tip": "HK$ 18.00",
+            "Mega Tip": "HK$ 148.00",
+            "Tip": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795086617057,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -307154,7 +307187,7 @@
   },
   "6740553198": {
     "trackId": 6740553198,
-    "trackName": "FlowDown - Open & Fast AI",
+    "trackName": "浮望",
     "region": "hk",
     "maxPriceInfo": {
       "price": 58,

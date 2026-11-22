@@ -637,7 +637,7 @@ So far, we've covered `7` `Countries or Regions` and  `2451` `Apps` <br />Push n
 |1824|6759861082|Automatic|❌|❌|❌|❌|❌|CD’ci: Oyun Al-Sat|❌|
 |1823|1003788343|Automatic|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|ClimaVinea|
 |1822|6751832229|Automatic|屠龙烈火-经典三职业再现|❌|❌|❌|❌|❌|❌|
-|1821|6740553198|Automatic|❌|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|浮望|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|
+|1821|6740553198|Automatic|❌|浮望|浮望|浮望|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|FlowDown - Open & Fast AI|
 |1820|6757012046|Automatic|RestTap|RestTap|RestTap|RestTap|RestTap|RestTap|RestTap|
 |1819|1580768213|Automatic|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|
 |1818|6759806669|Automatic|ScoreMaster 桌游计分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster - Board Game|ScoreMaster - Board Game|ScoreMaster - Board Game|
