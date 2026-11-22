@@ -16598,8 +16598,8 @@
       "FL Cloud Mobile": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99",
+      "price": 7.49,
+      "formattedPrice": "USD 7.49",
       "Drumaxx": "USD 1.99",
       "Ferrous Mobile": "USD 2.99",
       "Hyper-Pop Mobile": "USD 2.99",
@@ -16623,6 +16623,24 @@
       "FL Cloud Mobile": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {
+            "Drumaxx": "USD 1.99",
+            "FL Cloud Mobile": "USD 4.99",
+            "Ferrous Mobile": "USD 2.99",
+            "Hyper-Pop Mobile": "USD 2.99",
+            "Chip-Tune Mobile": "USD 2.99",
+            "Essential Winds": "USD 1.99",
+            "Essential Strings": "USD 1.99",
+            "DubTechno": "USD 1.99",
+            "Chill-Lo-Fi Mobile": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794329315472,
@@ -35200,6 +35218,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795118369176,
@@ -60490,6 +60516,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 34.99,
+          "formattedPrice": "USD 34.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789055621758,
           "price": 49.99,
           "formattedPrice": "USD 49.99",
@@ -66912,6 +66946,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793560949290,
@@ -91193,12 +91235,23 @@
       "专业设置PRO": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
-      "文件编辑器": "USD 4.99",
+      "price": 0,
+      "formattedPrice": "免費",
+      "文件编辑器": "USD 3.99",
       "专业设置PRO": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "文件编辑器": "USD 3.99",
+            "专业设置PRO": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789727937882,
@@ -126332,11 +126385,21 @@
       "Last.fm⁺": "USD 5.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
       "Last.fm⁺": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Last.fm⁺": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -176948,6 +177011,17 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792337187582,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -187149,7 +187223,7 @@
   },
   "6469114836": {
     "trackId": 6469114836,
-    "trackName": "スイカゲーム-Aladdin X",
+    "trackName": "西瓜遊戲-Aladdin X",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -216026,6 +216100,16 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "解鎖所有職業": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793560949290,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -225090,6 +225174,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793654775026,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -227283,6 +227375,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794865224584,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -227951,6 +228051,52 @@
           "timestamp": 1795140089529,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754688764": {
+    "trackId": 6754688764,
+    "trackName": "風來的希煉6plus 蛇蜷島探險譚",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800287771": {
+    "trackId": 6800287771,
+    "trackName": "Crownfall：自動探索刷寶RPG",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

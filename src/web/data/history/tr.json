@@ -79288,6 +79288,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 1749.99,
+          "formattedPrice": "₺1.749,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 2499.99,
           "formattedPrice": "₺2.499,99",
@@ -87324,6 +87332,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793578623309,
@@ -117533,12 +117549,23 @@
       "专业设置PRO": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99",
-      "文件编辑器": "₺249,99",
+      "price": 0,
+      "formattedPrice": "Free",
+      "文件编辑器": "₺199,99",
       "专业设置PRO": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "文件编辑器": "₺199,99",
+            "专业设置PRO": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789727937882,
@@ -240510,6 +240537,25 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Separate Ways": "₺349,00",
+            "Extra DLC Pack": "₺769,00",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x3 (B)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺254,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Attaché Case: 'Classic'": "₺35,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792898598896,
           "price": 0,
           "formattedPrice": "Free",
@@ -257316,6 +257362,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737": "₺49,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 747-400": "₺99,99",
+            "Concorde": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795226323946,
@@ -291625,7 +291690,8 @@
       "75000 money": "₺29,99",
       "30 gold": "₺49,99",
       "50 gold": "₺99,99",
-      "200000 money": "₺49,99"
+      "200000 money": "₺49,99",
+      "50 ticket": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -291655,9 +291721,29 @@
       "75000 money": "₺29,99",
       "30 gold": "₺49,99",
       "50 gold": "₺99,99",
-      "200000 money": "₺49,99"
+      "200000 money": "₺49,99",
+      "50 ticket": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "30000 money": "₺19,99",
+            "50 ticket": "₺99,99",
+            "sonsuz paket": "₺249,99",
+            "15 ticket": "₺29,99",
+            "porches": "₺49,99",
+            "15 gold": "₺29,99",
+            "50 gold": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795172225067,
@@ -308485,6 +308571,23 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Owl": "₺249,99",
+            "Spell Sheepmorph": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Osnir": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "Hero Drakkan": "₺399,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Dalia": "₺249,99"
+          }
+        },
+        {
           "timestamp": 1795344335870,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -313059,6 +313162,52 @@
           "timestamp": 1795140089529,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754688764": {
+    "trackId": 6754688764,
+    "trackName": "Shiren: Serpentcoil Island",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
+    },
+    "minPriceInfo": {
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800287771": {
+    "trackId": 6800287771,
+    "trackName": "クラウンフォール：自動探索ハクスラRPG",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]

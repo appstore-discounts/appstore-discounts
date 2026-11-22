@@ -1,5 +1,132 @@
 [
   {
+    "trackId": 432850619,
+    "region": "tw",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$490.00",
+        "to": "$250.00",
+        "range": "[$250.00 ~ $490.00]"
+      }
+    ],
+    "price": 250,
+    "formattedPrice": "$250.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id432850619",
+    "trackName": "FL Studio Mobile",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 904280696,
+    "region": "tw",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1,490.00",
+        "to": "$1,040.00",
+        "range": "[$1,040.00 ~ $1,490.00]"
+      }
+    ],
+    "price": 1040,
+    "formattedPrice": "$1,040.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id904280696",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 1142623977,
+    "region": "tw",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "文件编辑器",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1142623977",
+    "trackName": "iRime输入法-小鹤双拼五笔郑码输入法",
+    "firstRecordedAt": 1789727937882
+  },
+  {
+    "trackId": 1447768809,
+    "region": "tw",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $320.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1447768809",
+    "trackName": "Marvis Pro",
+    "firstRecordedAt": 1762886188326
+  },
+  {
+    "trackId": 6502634839,
+    "region": "tw",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
+    "trackId": 6801866888,
+    "region": "tw",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$100.00",
+        "range": "[$90.00 ~ $120.00]"
+      }
+    ],
+    "price": 100,
+    "formattedPrice": "$100.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6801866888",
+    "trackName": "上次是什麼時候 - 家事·保養紀錄",
+    "firstRecordedAt": 1790284283691
+  },
+  {
     "trackId": 1504760106,
     "region": "tw",
     "timestamp": 1795286667018,

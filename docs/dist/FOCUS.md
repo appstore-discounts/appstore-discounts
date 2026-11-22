@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2451` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2453` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2453|6754688764|Automatic|❌|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|Shiren: Serpentcoil Island|Shiren: Serpentcoil Island|不思議のダンジョン 風来のシレン6plus|
+|2452|6800287771|Automatic|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|
 |2451|590278208|Automatic|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
 |2450|525117691|Automatic|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|
 |2449|6817336623|Automatic|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|
@@ -471,7 +473,7 @@ So far, we've covered `7` `Countries or Regions` and  `2451` `Apps` <br />Push n
 |1990|1497379822|Automatic|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Trilha e Bike|
 |1989|6753721284|Automatic|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|
 |1988|672878122|Automatic|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|
-|1987|1615288664|Automatic|法环地图艾尔登冒险指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|
+|1987|1615288664|Automatic|法环地图 - 艾尔登冒险指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|
 |1986|6476342802|Automatic|❌|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel and Defense|Skel and Defense|Skel and Defense|
 |1985|6743349595|Automatic|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|
 |1984|1477993614|Automatic|场记板-专业导演板拍打板摄影道具|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|Clapperboard Pro|Clapperboard Pro|场记板-专业导演板拍打板摄影道具|
@@ -2206,7 +2208,7 @@ So far, we've covered `7` `Countries or Regions` and  `2451` `Apps` <br />Push n
 |255|6471479898|Automatic|猫历 - 可爱清新日历和日程表提醒事项|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|
 |254|6738371720|Automatic|❌|銀盤滑冰場物語|銀盤滑冰場物語|銀盤滑冰場物語|Skating Rink Story|Skating Rink Story|Skating Rink Story|
 |253|6456751953|Automatic|❌|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|
-|252|6469114836|Automatic|❌|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|スイカゲーム-Aladdin X|
+|252|6469114836|Automatic|❌|西瓜遊戲-Aladdin X|西瓜遊戲-Aladdin X|西瓜遊戲-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|スイカゲーム-Aladdin X|
 |251|6743648252|Automatic|❌|終焉車站|終焉車站|終焉車站|Saihate Station|Saihate Station|Saihate Station|
 |250|6738636631|Automatic|❌|烈焰同盟|❌|烈焰同盟|❌|❌|❌|
 |249|6480082872|Automatic|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|

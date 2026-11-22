@@ -86321,6 +86321,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 34.99,
+          "formattedPrice": "$34.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789096391072,
           "price": 49.99,
           "formattedPrice": "$49.99",
@@ -96271,6 +96279,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793615736419,
@@ -129549,12 +129565,23 @@
       "文件编辑器": "$4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "专业设置PRO": "$1.99",
-      "文件编辑器": "$4.99"
+      "文件编辑器": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "专业设置PRO": "$1.99",
+            "文件编辑器": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789727937882,
@@ -373676,6 +373703,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793654775026,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -376504,6 +376539,52 @@
           "timestamp": 1795140089529,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754688764": {
+    "trackId": 6754688764,
+    "trackName": "Shiren: Serpentcoil Island",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800287771": {
+    "trackId": 6800287771,
+    "trackName": "クラウンフォール：自動探索ハクスラRPG",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]

@@ -22185,8 +22185,8 @@
       "FL Cloud Mobile": "$150.00"
     },
     "minPriceInfo": {
-      "price": 490,
-      "formattedPrice": "$490.00",
+      "price": 250,
+      "formattedPrice": "$250.00",
       "Varazdin Orchestral Mobile": "$120.00",
       "Tuned 808 Bass": "$30.00",
       "Amped Guitar & Bass": "$90.00",
@@ -22212,6 +22212,25 @@
       "FL Cloud Mobile": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 250,
+          "formattedPrice": "$250.00",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "$120.00",
+            "Tuned 808 Bass": "$30.00",
+            "Amped Guitar & Bass": "$90.00",
+            "Acoustic Guitars": "$30.00",
+            "Voices": "$30.00",
+            "Synth Lead": "$60.00",
+            "Sliced Beats": "$30.00",
+            "Chill-Lo-Fi Mobile": "$60.00",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -34772,6 +34791,25 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Unlock All": "$490.00",
+            "Unlock All Vehicles": "$320.00",
+            "Pack of 3 Super Cops": "$30.00",
+            "Pack of 10 Super Cops": "$90.00",
+            "Pack of 50 Super Cops": "$390.00",
+            "Donut Finder": "$90.00",
+            "East Side paint job for all vehicles": "$30.00",
+            "The Met paint job for all vehicles": "$30.00",
+            "Autobahn paint job for all vehicles": "$30.00",
+            "Seoul Rider paint job for all vehicles": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794290710109,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -44626,6 +44664,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795118369176,
@@ -77397,6 +77443,14 @@
       "formattedPrice": "$1,040.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 1040,
+          "formattedPrice": "$1,040.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789055621758,
@@ -116663,12 +116717,23 @@
       "文件编辑器": "$150.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "专业设置PRO": "$60.00",
-      "文件编辑器": "$150.00"
+      "文件编辑器": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "专业设置PRO": "$60.00",
+            "文件编辑器": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789727937882,
@@ -163253,11 +163318,21 @@
       "Last.fm⁺": "$190.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00",
+      "price": 150,
+      "formattedPrice": "$150.00",
       "Last.fm⁺": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Last.fm⁺": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762886188326,
@@ -194405,12 +194480,31 @@
       "Hunter Offer Sale": "$89.00",
       "Master Offer Sale": "$180.00",
       "Crystal Offer": "$690.00",
-      "Elite Offer": "$320.00",
+      "Elite Offer": "$180.00",
       "Spray kit": "$89.00",
       "Ascensio Kit": "$89.00",
       "Intro Offer (low)": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Starter Package": "$89.00",
+            "Hunter Package": "$180.00",
+            "Elite Offer": "$180.00",
+            "Zenith Islands DLC": "$89.00",
+            "Prime Dimension DLC": "$125.00",
+            "Master Package": "$355.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Prime Gemma 2500": "$355.00",
+            "Prime Gemma 5000": "$710.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795086617057,
@@ -236802,6 +236896,17 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792337187582,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -261184,7 +261289,7 @@
   },
   "6469114836": {
     "trackId": 6469114836,
-    "trackName": "スイカゲーム-Aladdin X",
+    "trackName": "西瓜遊戲-Aladdin X",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -322305,6 +322410,16 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "解鎖所有職業": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793560949290,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -332995,6 +333110,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793654775026,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -335212,6 +335335,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794865224584,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -335880,6 +336011,52 @@
           "timestamp": 1795140089529,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754688764": {
+    "trackId": 6754688764,
+    "trackName": "風來的希煉6plus 蛇蜷島探險譚",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800287771": {
+    "trackId": 6800287771,
+    "trackName": "Crownfall：自動探索刷寶RPG",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

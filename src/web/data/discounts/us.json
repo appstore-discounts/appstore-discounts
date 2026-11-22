@@ -1,5 +1,92 @@
 [
   {
+    "trackId": 904280696,
+    "region": "us",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$49.99",
+        "to": "$34.99",
+        "range": "[$34.99 ~ $49.99]"
+      }
+    ],
+    "price": 34.99,
+    "formattedPrice": "$34.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id904280696",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 953426154,
+    "region": "us",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$19.99",
+        "to": "$11.99",
+        "range": "[Free ~ $19.99]"
+      }
+    ],
+    "price": 11.99,
+    "formattedPrice": "$11.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id953426154",
+    "trackName": "Be Focused Pro - Focus Timer",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1142623977,
+    "region": "us",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "文件编辑器",
+        "from": "$4.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1142623977",
+    "trackName": "iRime输入法-小鹤双拼五笔郑码输入法",
+    "firstRecordedAt": 1789727937882
+  },
+  {
+    "trackId": 6801866888,
+    "region": "us",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$3.49",
+        "range": "[$2.99 ~ $3.99]"
+      }
+    ],
+    "price": 3.49,
+    "formattedPrice": "$3.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6801866888",
+    "trackName": "When'd I",
+    "firstRecordedAt": 1790284283691
+  },
+  {
     "trackId": 1504760106,
     "region": "us",
     "timestamp": 1795286667018,

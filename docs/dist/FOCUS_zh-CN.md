@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2451` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2453` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2453|6754688764|自动|❌|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|Shiren: Serpentcoil Island|Shiren: Serpentcoil Island|不思議のダンジョン 風来のシレン6plus|
+|2452|6800287771|自动|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|
 |2451|590278208|自动|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
 |2450|525117691|自动|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|
 |2449|6817336623|自动|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|
@@ -471,7 +473,7 @@
 |1990|1497379822|自动|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Trilha e Bike|
 |1989|6753721284|自动|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|
 |1988|672878122|自动|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|
-|1987|1615288664|自动|法环地图艾尔登冒险指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|
+|1987|1615288664|自动|法环地图 - 艾尔登冒险指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|
 |1986|6476342802|自动|❌|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel and Defense|Skel and Defense|Skel and Defense|
 |1985|6743349595|自动|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|
 |1984|1477993614|自动|场记板-专业导演板拍打板摄影道具|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|Clapperboard Pro|Clapperboard Pro|场记板-专业导演板拍打板摄影道具|
@@ -2206,7 +2208,7 @@
 |255|6471479898|自动|猫历 - 可爱清新日历和日程表提醒事项|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：日曆 & 行事曆 & 時間管理|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|Cat Calendar：Schedule Planner|
 |254|6738371720|自动|❌|銀盤滑冰場物語|銀盤滑冰場物語|銀盤滑冰場物語|Skating Rink Story|Skating Rink Story|Skating Rink Story|
 |253|6456751953|自动|❌|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|MyTan - AI Bot|
-|252|6469114836|自动|❌|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|スイカゲーム-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|スイカゲーム-Aladdin X|
+|252|6469114836|自动|❌|西瓜遊戲-Aladdin X|西瓜遊戲-Aladdin X|西瓜遊戲-Aladdin X|Suika Game-Aladdin X|Suika Game-Aladdin X|スイカゲーム-Aladdin X|
 |251|6743648252|自动|❌|終焉車站|終焉車站|終焉車站|Saihate Station|Saihate Station|Saihate Station|
 |250|6738636631|自动|❌|烈焰同盟|❌|烈焰同盟|❌|❌|❌|
 |249|6480082872|自动|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|Dumbify|

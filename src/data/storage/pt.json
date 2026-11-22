@@ -40190,6 +40190,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 41.99,
+          "formattedPrice": "41,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 59.99,
           "formattedPrice": "59,99 €",
@@ -43927,6 +43935,14 @@
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793578623309,
@@ -59279,12 +59295,23 @@
       "专业设置PRO": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
-      "文件编辑器": "5,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "文件编辑器": "3,99 €",
       "专业设置PRO": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "文件编辑器": "3,99 €",
+            "专业设置PRO": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789727937882,
@@ -156036,6 +156063,14 @@
     "history": [
       [
         {
+          "timestamp": 1795374324087,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793654775026,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -158533,6 +158568,48 @@
           "timestamp": 1795140089529,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754688764": {
+    "name": "不思議のダンジョン 風来のシレン6plus",
+    "maxPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "minPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800287771": {
+    "name": "クラウンフォール：自動探索ハクスラRPG",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795374324087,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

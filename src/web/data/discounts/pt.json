@@ -1,5 +1,72 @@
 [
   {
+    "trackId": 904280696,
+    "region": "pt",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "59,99 €",
+        "to": "41,99 €",
+        "range": "[39,99 € ~ 59,99 €]"
+      }
+    ],
+    "price": 41.99,
+    "formattedPrice": "41,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id904280696",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 953426154,
+    "region": "pt",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "14,99 €",
+        "to": "8,99 €",
+        "range": "[8,99 € ~ 14,99 €]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "8,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id953426154",
+    "trackName": "Be Focused Pro: Timer Pomodoro",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1142623977,
+    "region": "pt",
+    "timestamp": 1795374324087,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "文件编辑器",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1142623977",
+    "trackName": "iRime输入法-小鹤双拼五笔郑码输入法",
+    "firstRecordedAt": 1789727937882
+  },
+  {
     "trackId": 1504760106,
     "region": "pt",
     "timestamp": 1795286667018,
