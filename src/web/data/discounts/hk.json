@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 646256209,
+    "region": "hk",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id646256209",
+    "trackName": "照片橡皮擦",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1164801111,
+    "region": "hk",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 68.00",
+        "to": "HK$ 58.00",
+        "range": "[HK$ 48.00 ~ HK$ 68.00]"
+      }
+    ],
+    "price": 58,
+    "formattedPrice": "HK$ 58.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1164801111",
+    "trackName": "AutoSleep – 在手錶上追蹤睡眠",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 904237743,
     "region": "hk",
     "timestamp": 1795397093932,

@@ -11572,7 +11572,7 @@
       "SFX": "0,00 €",
       "Transistor Bass": "0,00 €",
       "Synth Plucks": "1,99 €",
-      "FL Cloud Mobile": "5,99 €",
+      "FL Cloud Mobile": "34,99 €",
       "Oldschool Breakbeats": "1,99 €"
     },
     "minPriceInfo": {
@@ -11606,6 +11606,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795434690588,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "34,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Voices": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Drumaxx": "1,99 €"
+          }
+        },
         {
           "timestamp": 1795397093932,
           "price": 8.99,
@@ -26676,6 +26693,25 @@
     "history": [
       [
         {
+          "timestamp": 1795434690588,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "Handful of Bolts": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794290710109,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -33408,6 +33444,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795434690588,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782597726747,
@@ -92135,14 +92179,22 @@
   "1520427393": {
     "name": "El Tubero 2.0",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795434690588,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771584448603,
@@ -147134,6 +147186,14 @@
     "history": [
       [
         {
+          "timestamp": 1795434690588,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Todas as classes": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1795397093932,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -152549,8 +152609,8 @@
       "珍品匣檔": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "宗師匣檔": "99,99 €",
       "問道進階檔": "49,99 €",
       "定向匣檔": "34,99 €",
@@ -152560,6 +152620,22 @@
       "珍品匣檔": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795434690588,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "宗師匣檔": "99,99 €",
+            "問道進階檔": "49,99 €",
+            "定向匣檔": "34,99 €",
+            "輕囊通寶": "2,99 €",
+            "進階材料檔": "17,99 €",
+            "小袋通寶": "0,99 €",
+            "珍品匣檔": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795140089529,
@@ -158159,7 +158235,7 @@
     ]
   },
   "6827445474": {
-    "name": "FoldTick: Duo Fold Counter",
+    "name": "FoldTick: Fold Counter",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"

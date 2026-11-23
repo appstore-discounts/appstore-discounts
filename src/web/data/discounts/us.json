@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 432850619,
+    "region": "us",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$14.99",
+        "to": "$7.49",
+        "range": "[$7.49 ~ $14.99]"
+      }
+    ],
+    "price": 7.49,
+    "formattedPrice": "$7.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id432850619",
+    "trackName": "FL Studio Mobile",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 646256209,
+    "region": "us",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id646256209",
+    "trackName": "Photo Eraser for iPhone",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1447768809,
+    "region": "us",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1447768809",
+    "trackName": "Marvis Pro",
+    "firstRecordedAt": 1762886188326
+  },
+  {
+    "trackId": 6502634839,
+    "region": "us",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 904237743,
     "region": "us",
     "timestamp": 1795397093932,

@@ -63440,6 +63440,14 @@
     "history": [
       [
         {
+          "timestamp": 1795434690588,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782567731105,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -196156,14 +196164,22 @@
   "1520427393": {
     "name": "El Tubero 2.0",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 190,
+      "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795434690588,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771584448603,
@@ -222548,6 +222564,25 @@
       "Hero Bomett": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795434690588,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Unit Group Jaegers": "$220.00",
+            "Starter Pack": "$150.00",
+            "Special Daily Pack7": "$60.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00",
+            "Hero Red Dragon": "$190.00",
+            "Special Daily Pack 1": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795086617057,
@@ -318387,6 +318422,14 @@
     "history": [
       [
         {
+          "timestamp": 1795434690588,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "解鎖所有職業": "$320.00"
+          }
+        },
+        {
           "timestamp": 1795374324087,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -318704,6 +318747,25 @@
       "魔界通行證2": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795434690588,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "新的統治者": "$190.00",
+            "魔界擴充通行證": "$190.00",
+            "深淵開拓者": "$320.00",
+            "尼奧貝希摩斯": "$60.00",
+            "婚禮造型套裝": "$320.00",
+            "隱月造型套裝": "$320.00",
+            "超越精華": "$990.00",
+            "永恆方舟": "$990.00",
+            "時間旅行者": "$190.00",
+            "魔界通行證1": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794825673547,

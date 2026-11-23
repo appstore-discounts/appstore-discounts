@@ -45,7 +45,7 @@ So far, we've covered `7` `Countries or Regions` and  `2453` `Apps` <br />Push n
 |2418|892347083|Automatic|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
 |2417|6828383349|Automatic|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
 |2416|6829459666|Automatic|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
-|2415|6827445474|Automatic|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|
+|2415|6827445474|Automatic|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|
 |2414|6816793607|Automatic|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2413|6826404492|Automatic|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2412|6758903716|Automatic|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
@@ -71,7 +71,7 @@ So far, we've covered `7` `Countries or Regions` and  `2453` `Apps` <br />Push n
 |2392|6480453979|Automatic|❌|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|
 |2391|6783953753|Automatic|❌|Batomon Showdown|Batomon Showdown|Batomon Showdown|Batomon Showdown|Batomon Showdown|Batomon Showdown|
 |2390|6819239166|Automatic|❌|❌|❌|❌|❌|Trading Card Shop|❌|
-|2389|6766557247|Automatic|❌|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes|Sky Routes|Sky Routes: Companhia aérea|
+|2389|6766557247|Automatic|❌|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes: Airline Simulator|Sky Routes: Airline Simulator|Sky Routes: Companhia aérea|
 |2388|810405576|Automatic|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|
 |2387|959272198|Automatic|指尖帝国|指尖帝国|指尖帝国|指尖帝国|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|
 |2386|1071622918|Automatic|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|

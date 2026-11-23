@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 646256209,
+    "region": "tw",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "免費",
+        "range": "[免費 ~ $60.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id646256209",
+    "trackName": "照片橡皮擦",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6502634839,
+    "region": "tw",
+    "timestamp": 1795434690588,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 904237743,
     "region": "tw",
     "timestamp": 1795397093932,
@@ -105,26 +145,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1447768809",
     "trackName": "Marvis Pro",
     "firstRecordedAt": 1762886188326
-  },
-  {
-    "trackId": 6502634839,
-    "region": "tw",
-    "timestamp": 1795374324087,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$150.00",
-        "to": "$90.00",
-        "range": "[免費 ~ $150.00]"
-      }
-    ],
-    "price": 90,
-    "formattedPrice": "$90.00",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id6502634839",
-    "trackName": "Dungeon Tracer",
-    "firstRecordedAt": 1776705257529
   },
   {
     "trackId": 6801866888,

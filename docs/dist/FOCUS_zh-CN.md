@@ -45,7 +45,7 @@
 |2418|892347083|自动|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
 |2417|6828383349|自动|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
 |2416|6829459666|自动|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
-|2415|6827445474|自动|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|
+|2415|6827445474|自动|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|
 |2414|6816793607|自动|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2413|6826404492|自动|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2412|6758903716|自动|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
@@ -71,7 +71,7 @@
 |2392|6480453979|自动|❌|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|Saints Row: The Third|
 |2391|6783953753|自动|❌|Batomon Showdown|Batomon Showdown|Batomon Showdown|Batomon Showdown|Batomon Showdown|Batomon Showdown|
 |2390|6819239166|自动|❌|❌|❌|❌|❌|Trading Card Shop|❌|
-|2389|6766557247|自动|❌|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes|Sky Routes|Sky Routes: Companhia aérea|
+|2389|6766557247|自动|❌|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes: 航空公司經營|Sky Routes: Airline Simulator|Sky Routes: Airline Simulator|Sky Routes: Companhia aérea|
 |2388|810405576|自动|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|
 |2387|959272198|自动|指尖帝国|指尖帝国|指尖帝国|指尖帝国|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|
 |2386|1071622918|自动|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|
