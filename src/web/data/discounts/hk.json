@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 904237743,
+    "region": "hk",
+    "timestamp": 1795397093932,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 88.00",
+        "to": "HK$ 61.00",
+        "range": "[HK$ 58.00 ~ HK$ 88.00]"
+      }
+    ],
+    "price": 61,
+    "formattedPrice": "HK$ 61.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id904237743",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 904280696,
+    "region": "hk",
+    "timestamp": 1795397093932,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 388.00",
+        "to": "HK$ 270.00",
+        "range": "[HK$ 270.00 ~ HK$ 388.00]"
+      }
+    ],
+    "price": 270,
+    "formattedPrice": "HK$ 270.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id904280696",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1723994479838
+  },
+  {
     "trackId": 432850619,
     "region": "hk",
     "timestamp": 1795374324087,

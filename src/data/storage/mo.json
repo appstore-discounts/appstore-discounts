@@ -59276,6 +59276,14 @@
     "history": [
       [
         {
+          "timestamp": 1795397093932,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764693496320,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -222987,14 +222995,22 @@
   "6828383349": {
     "name": "DuoFridge",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795397093932,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794329315472,

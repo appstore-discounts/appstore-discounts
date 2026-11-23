@@ -75360,6 +75360,14 @@
     "history": [
       [
         {
+          "timestamp": 1795397093932,
+          "price": 61,
+          "formattedPrice": "HK$ 61.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764693496320,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -75765,6 +75773,14 @@
       "formattedPrice": "HK$ 270.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795397093932,
+          "price": 270,
+          "formattedPrice": "HK$ 270.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789055621758,
@@ -317575,14 +317591,22 @@
   "6828383349": {
     "name": "DuoFridge",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795397093932,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794329315472,
