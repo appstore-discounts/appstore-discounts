@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1422480068,
+    "region": "us",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Nautilus Unlock All and AI",
+        "from": "$14.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $14.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
+    "trackName": "Nautilus: Web, Word, Annotate",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6770101449,
+    "region": "us",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "Free",
+        "range": "[Free ~ $5.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
     "trackId": 432850619,
     "region": "us",
     "timestamp": 1795434690588,
@@ -2073,7 +2113,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $5.99]"
+        "range": "[Free ~ $5.99]"
       }
     ],
     "price": 0.99,
@@ -3176,7 +3216,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $5.99]"
+        "range": "[Free ~ $5.99]"
       }
     ],
     "price": 0.99,
@@ -4732,7 +4772,7 @@
         "name": "Price",
         "from": "$5.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $5.99]"
+        "range": "[Free ~ $5.99]"
       }
     ],
     "price": 4.99,
@@ -6798,7 +6838,7 @@
         "name": "Price",
         "from": "$5.99",
         "to": "$1.49",
-        "range": "[$0.99 ~ $5.99]"
+        "range": "[Free ~ $5.99]"
       }
     ],
     "price": 1.49,
@@ -10876,7 +10916,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $5.99]"
+        "range": "[Free ~ $5.99]"
       }
     ],
     "price": 0.99,

@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2453` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2455` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2455|593958503|Automatic|❌|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|
+|2454|1518385711|Automatic|❌|Mindcell|Mindcell|Mindcell|Mindcell|Mindcell|❌|
 |2453|6754688764|Automatic|❌|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|Shiren: Serpentcoil Island|Shiren: Serpentcoil Island|不思議のダンジョン 風来のシレン6plus|
 |2452|6800287771|Automatic|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|
 |2451|590278208|Automatic|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
@@ -45,7 +47,7 @@ So far, we've covered `7` `Countries or Regions` and  `2453` `Apps` <br />Push n
 |2418|892347083|Automatic|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
 |2417|6828383349|Automatic|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
 |2416|6829459666|Automatic|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
-|2415|6827445474|Automatic|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|
+|2415|6827445474|Automatic|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|FoldTick: Fold Counter|
 |2414|6816793607|Automatic|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2413|6826404492|Automatic|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2412|6758903716|Automatic|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
@@ -172,7 +174,7 @@ So far, we've covered `7` `Countries or Regions` and  `2453` `Apps` <br />Push n
 |2291|6759664029|Automatic|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|Automatic|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
 |2289|6801980968|Automatic|❌|塔與傭兵團|塔與傭兵團|塔與傭兵團|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
-|2288|6811795155|Automatic|Keeps|Keeps|Keeps|Keeps|Keeps: Cost Per Use Tracker|Keeps: Cost Per Use Tracker|Keeps|
+|2288|6811795155|Automatic|Keeps：物品管理与单次成本|Keeps：物品管理與單次成本|Keeps：物品管理與單次成本|Keeps：物品管理與單次成本|Keeps: Cost Per Use Tracker|Keeps: Cost Per Use Tracker|Keeps: Custo por utilização|
 |2287|6786557574|Automatic|油耗管家-加油记录省油统计车辆里程费用记账工具专用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|Fuel MPG Mileage Tracker Log|MPG Petrol Mileage Tracker Log|Combustível Consumo Abaste Log|
 |2286|1660373266|Automatic|Habanos 雪茄验证器|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|
 |2285|6795595036|Automatic|爱兵法 - 孙子兵法、三十六计、武经七书|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|

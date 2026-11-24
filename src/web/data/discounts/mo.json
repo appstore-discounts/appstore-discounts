@@ -1,5 +1,125 @@
 [
   {
+    "trackId": 951627022,
+    "region": "mo",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Legacy Transfer",
+        "from": "USD 29.99",
+        "to": "USD 9.99",
+        "range": "[USD 9.99 ~ USD 29.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id951627022",
+    "trackName": "照片掃描儀加強版",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 1287138671,
+    "region": "mo",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1287138671",
+    "trackName": "Thumper：便攜版",
+    "firstRecordedAt": 1750137190847
+  },
+  {
+    "trackId": 1389752090,
+    "region": "mo",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6502634839,
+    "region": "mo",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.49",
+        "to": "USD 0.99",
+        "range": "[免費 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
+    "trackId": 6770101449,
+    "region": "mo",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 5.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
+    "trackId": 6811795155,
+    "region": "mo",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Keeps Pro",
+        "from": "USD 4.99",
+        "to": "USD 2.49",
+        "range": "[USD 1.00 ~ USD 4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6811795155",
+    "trackName": "Keeps：物品管理與單次成本",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 646256209,
     "region": "mo",
     "timestamp": 1795434690588,
@@ -1958,7 +2078,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 5.99]"
+        "range": "[免費 ~ USD 5.99]"
       }
     ],
     "price": 0.99,
@@ -2974,7 +3094,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 5.99]"
+        "range": "[免費 ~ USD 5.99]"
       }
     ],
     "price": 0.99,
@@ -4156,7 +4276,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps：物品管理與單次成本",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -4529,7 +4649,7 @@
         "name": "Price",
         "from": "USD 5.99",
         "to": "USD 4.99",
-        "range": "[USD 0.99 ~ USD 5.99]"
+        "range": "[免費 ~ USD 5.99]"
       }
     ],
     "price": 4.99,
@@ -5567,7 +5687,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps：物品管理與單次成本",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -6623,7 +6743,7 @@
         "name": "Price",
         "from": "USD 5.99",
         "to": "USD 1.49",
-        "range": "[USD 0.99 ~ USD 5.99]"
+        "range": "[免費 ~ USD 5.99]"
       }
     ],
     "price": 1.49,
@@ -10568,7 +10688,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 5.99]"
+        "range": "[免費 ~ USD 5.99]"
       }
     ],
     "price": 0.99,

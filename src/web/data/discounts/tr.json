@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 443646748,
+    "region": "tr",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "₺174,99",
+        "to": "₺26,99",
+        "range": "[₺26,99 ~ ₺174,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id443646748",
+    "trackName": "Fitness Buddy+ Gym Workout Log",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 1287138671,
+    "region": "tr",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺49,99",
+        "range": "[₺39,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1287138671",
+    "trackName": "Thumper: Pocket Edition",
+    "firstRecordedAt": 1750137190847
+  },
+  {
+    "trackId": 1389752090,
+    "region": "tr",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6811795155,
+    "region": "tr",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Keeps Pro",
+        "from": "₺144,99",
+        "to": "₺72,99",
+        "range": "[₺29,00 ~ ₺144,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6811795155",
+    "trackName": "Keeps: Cost Per Use Tracker",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 563718995,
     "region": "tr",
     "timestamp": 1795434690588,

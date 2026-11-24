@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1287138671,
+    "region": "tw",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1287138671",
+    "trackName": "Thumper：便攜版",
+    "firstRecordedAt": 1750137190847
+  },
+  {
+    "trackId": 1389752090,
+    "region": "tw",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $290.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6770101449,
+    "region": "tw",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "免費",
+        "range": "[免費 ~ $190.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
+    "trackId": 6811795155,
+    "region": "tw",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Keeps Pro",
+        "from": "$190.00",
+        "to": "$95.00",
+        "range": "[$39.00 ~ $190.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6811795155",
+    "trackName": "Keeps：物品管理與單次成本",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 646256209,
     "region": "tw",
     "timestamp": 1795434690588,
@@ -1999,7 +2079,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $190.00]"
+        "range": "[免費 ~ $190.00]"
       }
     ],
     "price": 30,
@@ -3042,7 +3122,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $190.00]"
+        "range": "[免費 ~ $190.00]"
       }
     ],
     "price": 30,
@@ -4204,7 +4284,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps：物品管理與單次成本",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -4597,7 +4677,7 @@
         "name": "Price",
         "from": "$190.00",
         "to": "$150.00",
-        "range": "[$30.00 ~ $190.00]"
+        "range": "[免費 ~ $190.00]"
       }
     ],
     "price": 150,
@@ -5668,7 +5748,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps：物品管理與單次成本",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -6844,7 +6924,7 @@
         "name": "Price",
         "from": "$190.00",
         "to": "$50.00",
-        "range": "[$30.00 ~ $190.00]"
+        "range": "[免費 ~ $190.00]"
       }
     ],
     "price": 50,
@@ -10820,7 +10900,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $190.00]"
+        "range": "[免費 ~ $190.00]"
       }
     ],
     "price": 30,

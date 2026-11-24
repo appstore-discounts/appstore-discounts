@@ -44842,6 +44842,29 @@
       ]
     ]
   },
+  "593958503": {
+    "trackId": 593958503,
+    "trackName": "PUZZINGO Kids Puzzles (Pro)",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "594117733": {
     "trackId": 594117733,
     "trackName": "仙劍奇俠傳1 DOS懷舊版",
@@ -66784,10 +66807,25 @@
       "Photomyne 帳號": "USD 11.99",
       "Photomyne membership": "USD 19.99",
       "Restore photo credits": "USD 14.99",
-      "Legacy Transfer": "USD 29.99",
+      "Legacy Transfer": "USD 9.99",
       "Magic motion credits": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Photomyne account": "USD 47.99",
+            "Photomyne 帳號": "USD 11.99",
+            "Photomyne membership": "USD 19.99",
+            "Restore photo credits": "USD 14.99",
+            "Legacy Transfer": "USD 9.99",
+            "Magic motion credits": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -103574,6 +103612,14 @@
     "history": [
       [
         {
+          "timestamp": 1795476365275,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792081393556,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -116864,6 +116910,19 @@
       "Return to Castlevania": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "The Bad Seed": "USD 3.99",
+            "Fatal Falls": "USD 3.99",
+            "The Queen and the Sea": "USD 3.99",
+            "Return to Castlevania": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -145023,6 +145082,29 @@
           "timestamp": 1761476971956,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1518385711": {
+    "trackId": 1518385711,
+    "trackName": "Mindcell",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.39,
+      "formattedPrice": "USD 0.39"
+    },
+    "minPriceInfo": {
+      "price": 0.39,
+      "formattedPrice": "USD 0.39"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 0.39,
+          "formattedPrice": "USD 0.39",
           "inAppPurchases": {}
         }
       ]
@@ -208430,6 +208512,14 @@
     "history": [
       [
         {
+          "timestamp": 1795476365275,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794261475759,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -216124,6 +216214,16 @@
     "history": [
       [
         {
+          "timestamp": 1795476365275,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "解鎖所有職業": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795374324087,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -219678,6 +219778,14 @@
     "history": [
       [
         {
+          "timestamp": 1795476365275,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1795086617057,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -221638,8 +221746,8 @@
       "珍品匣檔": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "宗師匣檔": "USD 99.99",
       "問道進階檔": "USD 44.99",
       "定向匣檔": "USD 29.99",
@@ -221649,6 +221757,22 @@
       "珍品匣檔": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "宗師匣檔": "USD 99.99",
+            "問道進階檔": "USD 44.99",
+            "定向匣檔": "USD 29.99",
+            "輕囊通寶": "USD 2.99",
+            "進階材料檔": "USD 14.99",
+            "小袋通寶": "USD 0.99",
+            "珍品匣檔": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795118369176,
@@ -224337,7 +224461,7 @@
   },
   "6811795155": {
     "trackId": 6811795155,
-    "trackName": "Keeps",
+    "trackName": "Keeps：物品管理與單次成本",
     "region": "mo",
     "maxPriceInfo": {
       "price": 1.99,
@@ -224354,6 +224478,18 @@
       "Keeps Pro Monthly": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "USD 9.99",
+            "Keeps Pro Monthly": "USD 1.99",
+            "Keeps Pro": "USD 2.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794433497584,
@@ -225693,6 +225829,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795086617057,
@@ -227541,7 +227685,7 @@
   },
   "6827445474": {
     "trackId": 6827445474,
-    "trackName": "FoldTick: Duo Fold Counter",
+    "trackName": "FoldTick: Fold Counter",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -227896,7 +228040,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Sorapuff Pro": "USD 10.99"
+      "Sorapuff Pro": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -227904,6 +228048,16 @@
       "Sorapuff Pro": "USD 10.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Sorapuff Pro": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,

@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1287138671,
+    "region": "hk",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1287138671",
+    "trackName": "Thumper：便攜版",
+    "firstRecordedAt": 1750137190847
+  },
+  {
+    "trackId": 1389752090,
+    "region": "hk",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 68.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 68.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6502634839,
+    "region": "hk",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "HK$ 8.00",
+        "range": "[免費 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
+    "trackId": 6770101449,
+    "region": "hk",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
+    "trackId": 6811795155,
+    "region": "hk",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Keeps Pro",
+        "from": "HK$ 44.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 9.00 ~ HK$ 44.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6811795155",
+    "trackName": "Keeps：物品管理與單次成本",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 646256209,
     "region": "hk",
     "timestamp": 1795434690588,
@@ -1999,7 +2099,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+        "range": "[免費 ~ HK$ 48.00]"
       }
     ],
     "price": 8,
@@ -2995,7 +3095,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+        "range": "[免費 ~ HK$ 48.00]"
       }
     ],
     "price": 8,
@@ -4204,7 +4304,7 @@
     "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps：物品管理與單次成本",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -4597,7 +4697,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 38.00",
-        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+        "range": "[免費 ~ HK$ 48.00]"
       }
     ],
     "price": 38,
@@ -5661,7 +5761,7 @@
     "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps：物品管理與單次成本",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -6777,7 +6877,7 @@
         "name": "Price",
         "from": "HK$ 48.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+        "range": "[免費 ~ HK$ 48.00]"
       }
     ],
     "price": 12,
@@ -10712,7 +10812,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 48.00]"
+        "range": "[免費 ~ HK$ 48.00]"
       }
     ],
     "price": 8,

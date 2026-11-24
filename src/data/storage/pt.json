@@ -30872,6 +30872,27 @@
       ]
     ]
   },
+  "593958503": {
+    "name": "PUZZINGO Kids Puzzles (Pro)",
+    "maxPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "minPriceInfo": {
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "594117733": {
     "name": "仙劍奇俠傳1 DOS懷舊版",
     "maxPriceInfo": {
@@ -66667,6 +66688,14 @@
     "history": [
       [
         {
+          "timestamp": 1795476365275,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792107485359,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -74166,14 +74195,27 @@
       "Retorno a Castlevania": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "4,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "Fatal Falls": "3,99 €",
       "The Bad Seed": "3,99 €",
       "DLC QUEEN AND THE SEA": "3,99 €",
       "Retorno a Castlevania": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "The Bad Seed": "3,99 €",
+            "Fatal Falls": "3,99 €",
+            "DLC QUEEN AND THE SEA": "3,99 €",
+            "Retorno a Castlevania": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -139544,6 +139586,14 @@
     "history": [
       [
         {
+          "timestamp": 1795476365275,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794290710109,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -150896,6 +150946,14 @@
     "history": [
       [
         {
+          "timestamp": 1795476365275,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1795086617057,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -155156,7 +155214,7 @@
     ]
   },
   "6811795155": {
-    "name": "Keeps",
+    "name": "Keeps: Custo por utilização",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €",
@@ -155172,6 +155230,18 @@
       "Keeps Pro Monthly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "9,99 €",
+            "Keeps Pro Monthly": "1,99 €",
+            "Keeps Pro": "3,29 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794433497584,
@@ -156678,6 +156748,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795476365275,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795086617057,

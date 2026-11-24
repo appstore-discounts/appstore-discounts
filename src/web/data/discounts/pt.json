@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1287138671,
+    "region": "pt",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1287138671",
+    "trackName": "Thumper: Pocket Edition",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1389752090,
+    "region": "pt",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6811795155,
+    "region": "pt",
+    "timestamp": 1795476365275,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Keeps Pro",
+        "from": "6,49 €",
+        "to": "3,29 €",
+        "range": "[1,29 € ~ 6,49 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6811795155",
+    "trackName": "Keeps: Custo por utilização",
+    "firstRecordedAt": 1790094096914
+  },
+  {
     "trackId": 432850619,
     "region": "pt",
     "timestamp": 1795434690588,
@@ -4320,7 +4380,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps: Custo por utilização",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -5784,7 +5844,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6811795155",
-    "trackName": "Keeps",
+    "trackName": "Keeps: Custo por utilização",
     "firstRecordedAt": 1790094096914
   },
   {
@@ -7726,7 +7786,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "4,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
+        "range": "[3,99 € ~ 9,99 €]"
       }
     ],
     "price": 4.99,
@@ -12193,7 +12253,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "5,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
+        "range": "[3,99 € ~ 9,99 €]"
       }
     ],
     "price": 5.99,
@@ -22508,7 +22568,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "4,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
+        "range": "[3,99 € ~ 9,99 €]"
       }
     ],
     "price": 4.99,
@@ -27722,7 +27782,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "4,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
+        "range": "[3,99 € ~ 9,99 €]"
       }
     ],
     "price": 4.99,
@@ -31580,7 +31640,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "4,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
+        "range": "[3,99 € ~ 9,99 €]"
       }
     ],
     "price": 4.99,
