@@ -35149,6 +35149,14 @@
     "history": [
       [
         {
+          "timestamp": 1795550250676,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1795434690588,
           "price": 0,
           "formattedPrice": "免费",
@@ -48767,13 +48775,25 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 1.8,
-      "formattedPrice": "¥1.80"
+      "formattedPrice": "¥1.80",
+      "打赏开发者": "¥3.00"
     },
     "minPriceInfo": {
       "price": 1,
-      "formattedPrice": "¥1.00"
+      "formattedPrice": "¥1.00",
+      "打赏开发者": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 1.8,
+          "formattedPrice": "¥1.80",
+          "inAppPurchases": {
+            "打赏开发者": "¥3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793217915729,
@@ -90803,6 +90823,25 @@
       "Geometric Frame Pack": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794767452594,
@@ -191783,6 +191822,25 @@
       "地图存档": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "冠绝天下": "¥36.00",
+            "无双战神": "¥36.00",
+            "斜谷残阳": "¥36.00",
+            "重振汉室": "¥18.00",
+            "自创武将朝代特色兵种补丁": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,

@@ -42707,6 +42707,23 @@
     "history": [
       [
         {
+          "timestamp": 1795550250676,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Richman4 Paid AC Package": "₺49,99",
+            "Richman4 Paid Monster Package": "₺49,99",
+            "Richman 4 Fun Chinese Paladin package": "₺49,99",
+            "「Japan & Hong Kong Package」": "₺49,99",
+            "Richman 4 Fun Paid FI Package": "₺49,99",
+            "Richman 4 Fun  PARIS & LONDON": "₺49,99",
+            "Richman 4 fun Paradise & Dinosaur Island": "₺49,99",
+            "Taisho Daynight Package": "₺49,99",
+            "Ruins Explorer Package": "₺49,99",
+            "Empire of Angels Package": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1795509367484,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -86845,13 +86862,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Reward developers": "₺49,99"
     },
     "minPriceInfo": {
       "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "formattedPrice": "₺39,99",
+      "Reward developers": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Reward developers": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -205763,6 +205792,45 @@
       ]
     ]
   },
+  "1563852783": {
+    "trackId": 1563852783,
+    "trackName": "Resolutioner",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Tip Jar - $0.99": "₺49,99",
+      "Tip Jar - $9.99": "₺499,99",
+      "Tip Jar - $4.99": "₺249,99",
+      "Tip Jar - $2.99": "₺149,99",
+      "Tip Jar - $1.99": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Tip Jar - $0.99": "₺49,99",
+      "Tip Jar - $9.99": "₺499,99",
+      "Tip Jar - $4.99": "₺249,99",
+      "Tip Jar - $2.99": "₺149,99",
+      "Tip Jar - $1.99": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Tip Jar - $0.99": "₺49,99",
+            "Tip Jar - $9.99": "₺499,99",
+            "Tip Jar - $4.99": "₺249,99",
+            "Tip Jar - $2.99": "₺149,99",
+            "Tip Jar - $1.99": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
   "1563906582": {
     "trackId": 1563906582,
     "trackName": "Bus Simulator",
@@ -257787,6 +257855,23 @@
     "history": [
       [
         {
+          "timestamp": 1795550250676,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737": "₺49,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1795476365275,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -292035,6 +292120,14 @@
     "history": [
       [
         {
+          "timestamp": 1795550250676,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791332575449,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -299323,7 +299416,7 @@
   },
   "6751122124": {
     "trackId": 6751122124,
-    "trackName": "Notteka | AI Assistant",
+    "trackName": "Notteka | Hong Kong AI Bot",
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
@@ -309067,7 +309160,8 @@
       "Hero Dalia": "₺249,99",
       "Spell Sheepmorph": "₺249,99",
       "Hero Illiana": "₺249,99",
-      "Hero Rhodes": "₺249,99"
+      "Hero Rhodes": "₺249,99",
+      "SPELLS OFFER 05": "₺199,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -309114,9 +309208,29 @@
       "Hero Dalia": "₺249,99",
       "Spell Sheepmorph": "₺249,99",
       "Hero Illiana": "₺249,99",
-      "Hero Rhodes": "₺249,99"
+      "Hero Rhodes": "₺249,99",
+      "SPELLS OFFER 05": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Owl": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Ignus": "₺149,99",
+            "Spell Sheepmorph": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "SPELLS OFFER 05": "₺199,99",
+            "Hero Oni": "₺249,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Osnir": "₺249,99",
+            "Spell Aspect of Sol": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795397093932,

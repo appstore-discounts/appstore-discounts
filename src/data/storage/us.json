@@ -66476,6 +66476,25 @@
     "history": [
       [
         {
+          "timestamp": 1795550250676,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795494082908,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -94828,13 +94847,25 @@
     "name": "iBrowser - Full Screen Browser",
     "maxPriceInfo": {
       "price": 0.89,
-      "formattedPrice": "$0.89"
+      "formattedPrice": "$0.89",
+      "Reward developers": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.89,
-      "formattedPrice": "$0.89"
+      "formattedPrice": "$0.89",
+      "Reward developers": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 0.89,
+          "formattedPrice": "$0.89",
+          "inAppPurchases": {
+            "Reward developers": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -230034,6 +230065,43 @@
       ]
     ]
   },
+  "1563852783": {
+    "name": "Resolutioner",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Tip Jar - $9.99": "$9.99",
+      "Tip Jar - $0.99": "$0.99",
+      "Tip Jar - $1.99": "$1.99",
+      "Tip Jar - $2.99": "$2.99",
+      "Tip Jar - $4.99": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Tip Jar - $9.99": "$9.99",
+      "Tip Jar - $0.99": "$0.99",
+      "Tip Jar - $1.99": "$1.99",
+      "Tip Jar - $2.99": "$2.99",
+      "Tip Jar - $4.99": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Tip Jar - $9.99": "$9.99",
+            "Tip Jar - $0.99": "$0.99",
+            "Tip Jar - $1.99": "$1.99",
+            "Tip Jar - $2.99": "$2.99",
+            "Tip Jar - $4.99": "$4.99"
+          }
+        }
+      ]
+    ]
+  },
   "1563906582": {
     "name": "Bus Simulator",
     "maxPriceInfo": {
@@ -230180,6 +230248,25 @@
       "Sports and Celebrity Bundle": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795550250676,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Welcome Offer": "$9.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Holiday Thanksgiving Pack": "$1.99",
+            "Midnight Mix Pack 1": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795434690588,
@@ -335770,6 +335857,23 @@
     "history": [
       [
         {
+          "timestamp": 1795550250676,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Sea Rat Outfit": "$1.99",
+            "Beach Day Card back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99"
+          }
+        },
+        {
           "timestamp": 1795509367484,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -357613,7 +357717,7 @@
     ]
   },
   "6751122124": {
-    "name": "Notteka | AI Assistant",
+    "name": "Notteka | Hong Kong AI Bot",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",

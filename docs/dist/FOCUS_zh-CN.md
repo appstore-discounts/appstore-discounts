@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2458` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2459` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2459|1563852783|自动|❌|Resolutioner|Resolutioner|Resolutioner|Resolutioner|Resolutioner|Resolutioner|
 |2458|6829036963|自动|❌|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Duty Court 2|Duty Court 2|Nöbetçi Mahkeme 2|
 |2457|6763063611|自动|❌|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|
 |2456|593958503|自动|❌|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|
@@ -566,7 +567,7 @@
 |1902|6758863302|自动|❌|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|
 |1901|6758862862|自动|❌|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|
 |1900|1536711520|自动|小熊数日子|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|
-|1899|6751122124|自动|Notteka - 香港AI Bot|Notteka | 香港AI Bot|Notteka | 香港AI Bot|Notteka | 香港AI Bot|Notteka | AI Assistant|Notteka | AI Assistant|Notteka - AI 工作台|
+|1899|6751122124|自动|Notteka - 香港AI Bot|Notteka | 香港AI Bot|Notteka | 香港AI Bot|Notteka | 香港AI Bot|Notteka | Hong Kong AI Bot|Notteka | Hong Kong AI Bot|Notteka - 香港AI Bot|
 |1898|6760331891|自动|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|
 |1897|6756783688|自动|❌|❌|❌|寶寶接種小幫手|❌|❌|❌|
 |1896|374098312|自动|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|
