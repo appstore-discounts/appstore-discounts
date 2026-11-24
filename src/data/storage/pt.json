@@ -26693,6 +26693,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "Skatepark: Inbound": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795434690588,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -43737,7 +43756,7 @@
     ]
   },
   "948944368": {
-    "name": "iBrowser- Full Screen Browser",
+    "name": "iBrowser - Full Screen Browser",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -54541,6 +54560,25 @@
       "Insta Monkey Bucket 1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "XP de Torre": "1,19 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "10 Pontos de Conhecimento": "8,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794604319311,
@@ -130151,7 +130189,8 @@
       "Cartão Mensal": "5,99 €",
       "Treinamento Profissional": "17,99 €",
       "680 Ouro": "9,99 €",
-      "Treinamento Especial": "9,99 €"
+      "Treinamento Especial": "9,99 €",
+      "Cartão Mensal Chave de Ouro": "17,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -130169,9 +130208,29 @@
       "Cartão Mensal": "5,99 €",
       "Treinamento Profissional": "17,99 €",
       "680 Ouro": "9,99 €",
-      "Treinamento Especial": "9,99 €"
+      "Treinamento Especial": "9,99 €",
+      "Cartão Mensal Chave de Ouro": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Cartão Mensal Chave de Ouro": "17,99 €",
+            "120 Ouro": "1,99 €",
+            "Expansão de Mochila": "1,99 €",
+            "Recompensas Duplas de Combate": "1,99 €",
+            "3280 Ouro": "59,99 €",
+            "1280 Ouro": "22,99 €",
+            "300 Ouro": "5,99 €",
+            "980 Ouro": "17,99 €",
+            "6480 Ouro": "99,99 €",
+            "1980 Ouro": "34,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782252795272,
@@ -155059,7 +155118,7 @@
     ]
   },
   "6760237050": {
-    "name": "Military GPS - Mil GPS PRO",
+    "name": "Mil GPS PRO - Military GPS",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
@@ -158847,6 +158906,73 @@
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829036963": {
+    "name": "Nöbetçi Mahkeme 2",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763063611": {
+    "name": "Bills Must Be Paid",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834179800": {
+    "name": "Spaceclear: Limpeza de Memória",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Spaceclear Pro Vitalício": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Spaceclear Pro Vitalício": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Spaceclear Pro Vitalício": "7,99 €"
+          }
         }
       ]
     ]

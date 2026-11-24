@@ -798,6 +798,22 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Dance Pack Too": "₺49,99",
+            "Alien Pack": "₺49,99",
+            "Tyrannosaurus Rex Skin Pack": "₺49,99",
+            "Halloween Skin Pack": "₺49,99",
+            "Medieval Pack": "₺49,99",
+            "Holiday Skin Pack": "₺49,99",
+            "Ice Monster Skin Pack": "₺49,99",
+            "Japanese Skin Pack": "₺49,99",
+            "Shark Pack": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1795476365275,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -28261,6 +28277,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795494082908,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Premium": "₺174,99",
+            "Fitness Buddy Premium": "₺26,99"
+          }
+        },
         {
           "timestamp": 1795476365275,
           "price": 199.99,
@@ -86781,7 +86806,7 @@
   },
   "948944368": {
     "trackId": 948944368,
-    "trackName": "iBrowser- Full Screen Browser",
+    "trackName": "iBrowser - Full Screen Browser",
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
@@ -171118,6 +171143,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Golden Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99",
+            "Champions Token Bundle": "₺799,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795434690588,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -230594,6 +230638,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Pack": "₺799,99",
+            "Season 1 Pack": "₺499,99",
+            "Critical Mass": "₺399,99",
+            "Beyond the Bunkers": "₺399,99",
+            "Cheats & Punishment": "₺249,99",
+            "Season 1 Pack (discount)": "₺399,99",
+            "Ultimate Pack (discount)": "₺599,99",
+            "New Leaders": "₺249,99",
+            "Survival Guide": "₺149,99",
+            "Season 2 Pass": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793420190024,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -244261,7 +244324,8 @@
       "1980 Gold": "₺1.499,99",
       "Professional Training": "₺799,99",
       "680 Gold": "₺499,99",
-      "Special Training": "₺499,99"
+      "Special Training": "₺499,99",
+      "Golden Key Card": "₺799,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -244279,9 +244343,29 @@
       "1980 Gold": "₺1.299,99",
       "Professional Training": "₺699,99",
       "680 Gold": "₺449,99",
-      "Special Training": "₺449,99"
+      "Special Training": "₺449,99",
+      "Golden Key Card": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "60 Gold": "₺49,99",
+            "Double Combat Rewards": "₺99,99",
+            "Monthly Card": "₺129,99",
+            "Golden Key Card": "₺799,99",
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "3280 Gold": "₺2.499,99",
+            "1280 Gold": "₺999,99",
+            "300 Gold": "₺249,99",
+            "980 Gold": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795203532221,
@@ -248970,6 +249054,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795494082908,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Round the World Ticket": "₺2.499,99",
+            "Europe Expansion": "₺799,99",
+            "Welcome Offer": "₺1.499,99",
+            "Europe Map": "₺699,99",
+            "1910 Ticket Pack": "₺199,99",
+            "Japan Expansion": "₺699,99",
+            "Legendary Asia Map": "₺499,99",
+            "Ticket to Ride ChristmasBundle": "₺499,99",
+            "Germany Expansion": "₺699,99",
+            "Legendary Asia Expansion": "₺699,99"
+          }
+        },
         {
           "timestamp": 1795476365275,
           "price": 249.99,
@@ -308115,7 +308216,7 @@
   },
   "6760237050": {
     "trackId": 6760237050,
-    "trackName": "Military GPS - Mil GPS PRO",
+    "trackName": "Mil GPS PRO - Military GPS",
     "region": "tr",
     "maxPriceInfo": {
       "price": 599.99,
@@ -313308,10 +313409,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794865224584,
@@ -313609,6 +313718,79 @@
           "price": 149.99,
           "formattedPrice": "₺149,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829036963": {
+    "trackId": 6829036963,
+    "trackName": "Duty Court 2",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763063611": {
+    "trackId": 6763063611,
+    "trackName": "Bills Must Be Paid",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834179800": {
+    "trackId": 6834179800,
+    "trackName": "Spaceclear: Phone Cleaner",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Spaceclear Pro Lifetime": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Spaceclear Pro Lifetime": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Spaceclear Pro Lifetime": "₺129,99"
+          }
         }
       ]
     ]

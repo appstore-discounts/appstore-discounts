@@ -156293,6 +156293,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元满级武器礼包": "¥6.00",
+            "30元月卡": "¥30.00",
+            "18元每日系统经验礼包": "¥18.00",
+            "6元每日电量礼包": "¥6.00",
+            "98元永久通行证": "¥98.00",
+            "12元每日活跃数据礼包": "¥12.00",
+            "98元每月限时皮肤礼包": "¥98.00",
+            "108每月签名皮肤礼包": "¥108.00",
+            "30元快递券礼包": "¥30.00",
+            "98月度通行证": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795434690588,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -176250,6 +176269,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "奇境森林": "¥15.00",
+            "DLC：孤山世界": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795054671703,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -191745,6 +191783,25 @@
       "地图存档": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "重振汉室": "¥18.00",
+            "冠绝天下": "¥36.00",
+            "终身版": "¥45.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795434690588,
@@ -246523,10 +246580,18 @@
       "formattedPrice": "¥8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 6,
+      "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794865224584,
@@ -246761,6 +246826,33 @@
           "price": 8,
           "formattedPrice": "¥8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834179800": {
+    "trackId": 6834179800,
+    "trackName": "Spaceclear：手机存储空间清理",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Spaceclear Pro 终身": "¥34.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Spaceclear Pro 终身": "¥34.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Spaceclear Pro 终身": "¥34.00"
+          }
         }
       ]
     ]

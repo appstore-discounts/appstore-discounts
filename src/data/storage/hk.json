@@ -45502,6 +45502,23 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Sandbox Unlock Standard Parts": "HK$ 58.00",
+            "Sandbox Unlock All Parts": "HK$ 58.00",
+            "Nooleus X Parts Pack": "HK$ 32.00",
+            "1000 Quick Launches": "HK$ 32.00",
+            "Transponder Module": "HK$ 8.00",
+            "Mission Free Unlock-All": "HK$ 38.00",
+            "Mission 15 Skip": "HK$ 8.00",
+            "Mission 12 Skip": "HK$ 8.00",
+            "10 Quick Launches": "HK$ 8.00",
+            "Mission 22 Skip": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1795476365275,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -270318,6 +270335,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Concorde": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795226323946,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -313831,6 +313867,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・艾洛溫": "HK$ 8.00",
+            "付費角色・雲虛": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "組合・光之騎士團": "HK$ 88.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795286667018,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -318394,6 +318449,73 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829036963": {
+    "name": "Nöbetçi Mahkeme 2",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763063611": {
+    "name": "Bills Must Be Paid",
+    "maxPriceInfo": {
+      "price": 45,
+      "formattedPrice": "HK$ 45.00"
+    },
+    "minPriceInfo": {
+      "price": 45,
+      "formattedPrice": "HK$ 45.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 45,
+          "formattedPrice": "HK$ 45.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834179800": {
+    "name": "Spaceclear：手機儲存空間清理",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Spaceclear Pro 終身": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Spaceclear Pro 終身": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Spaceclear Pro 終身": "HK$ 58.00"
+          }
         }
       ]
     ]

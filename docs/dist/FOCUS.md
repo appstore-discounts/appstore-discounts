@@ -1,32 +1,35 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2455` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2458` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|2455|593958503|Automatic|❌|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|
-|2454|1518385711|Automatic|❌|Mindcell|Mindcell|Mindcell|Mindcell|Mindcell|❌|
-|2453|6754688764|Automatic|❌|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|Shiren: Serpentcoil Island|Shiren: Serpentcoil Island|不思議のダンジョン 風来のシレン6plus|
-|2452|6800287771|Automatic|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|
-|2451|590278208|Automatic|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
-|2450|525117691|Automatic|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|
-|2449|6817336623|Automatic|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|
-|2448|6813760931|Automatic|通胜 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|
-|2447|6768040383|Automatic|GR Snap - 理光GR无线传图|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|
-|2446|6756657026|Automatic|高塔旅人-巴别塔圣歌|❌|❌|❌|❌|❌|❌|
-|2445|1008692660|Automatic|❌|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|
-|2444|6832769102|Automatic|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
-|2443|951627022|Automatic|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
-|2442|6833608280|Automatic|FarView 远迹|❌|❌|❌|❌|❌|❌|
-|2441|6833854183|Automatic|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
-|2440|6826478625|Automatic|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|
-|2439|6834208556|Manual|Sorapuff: 飞行恐惧安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: Fear of Flying Help|Sorapuff: Fear of Flying Help|Sorapuff: Medo de Voar|
-|2438|6816097524|Manual|Comic Weather: 搞笑天气预报|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: Funny Forecast|Comic Weather: Funny Forecast|Comic Weather: Clima engraçado|
-|2437|6792524904|Manual|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|
-|2436|6822285409|Manual|❌|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall: Multiview Live TV|Skywall: Multiview Live TV|Skywall: Multiview em direto|
+|2458|6829036963|Automatic|❌|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Duty Court 2|Duty Court 2|Nöbetçi Mahkeme 2|
+|2457|6763063611|Automatic|❌|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|
+|2456|593958503|Automatic|❌|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|
+|2455|1518385711|Automatic|❌|Mindcell|Mindcell|Mindcell|Mindcell|Mindcell|❌|
+|2454|6754688764|Automatic|❌|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|Shiren: Serpentcoil Island|Shiren: Serpentcoil Island|不思議のダンジョン 風来のシレン6plus|
+|2453|6800287771|Automatic|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|
+|2452|590278208|Automatic|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
+|2451|525117691|Automatic|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|
+|2450|6817336623|Automatic|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|
+|2449|6813760931|Automatic|通胜 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|通勝 2027|
+|2448|6768040383|Automatic|GR Snap - 理光GR无线传图|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|
+|2447|6756657026|Automatic|高塔旅人-巴别塔圣歌|❌|❌|❌|❌|❌|❌|
+|2446|1008692660|Automatic|❌|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|
+|2445|6832769102|Automatic|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
+|2444|951627022|Automatic|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
+|2443|6833608280|Automatic|FarView 远迹|❌|❌|❌|❌|❌|❌|
+|2442|6833854183|Automatic|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
+|2441|6826478625|Automatic|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|
+|2440|6834208556|Manual|Sorapuff: 飞行恐惧安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: Fear of Flying Help|Sorapuff: Fear of Flying Help|Sorapuff: Medo de Voar|
+|2439|6816097524|Manual|Comic Weather: 搞笑天气预报|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: Funny Forecast|Comic Weather: Funny Forecast|Comic Weather: Clima engraçado|
+|2438|6792524904|Manual|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|
+|2437|6822285409|Manual|❌|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall: Multiview Live TV|Skywall: Multiview Live TV|Skywall: Multiview em direto|
+|2436|6834179800|Manual|Spaceclear：手机存储空间清理|Spaceclear：手機儲存空間清理|Spaceclear：手機儲存空間清理|Spaceclear：手機儲存空間清理|Spaceclear: Phone Cleaner|Spaceclear: Phone Cleaner|Spaceclear: Limpeza de Memória|
 |2435|550067264|Automatic|❌|客滿餐廳物語|客滿餐廳物語|客滿餐廳物語|Cafeteria Nipponica|Cafeteria Nipponica|Cafeteria Nipponica|
 |2434|6832405958|Automatic|指尖乐器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|Fingertip Instruments|Fingertip Instruments|❌|
 |2433|1490656387|Automatic|Incognito — 私密浏览器|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|Incognito — Private Browser|
@@ -189,7 +192,7 @@ So far, we've covered `7` `Countries or Regions` and  `2455` `Apps` <br />Push n
 |2276|732245213|Automatic|Voice Analyst: 音高与音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: Pitch & Volume|Voice Analyst: Pitch & Volume|Voice Analyst: Tom e Volume|
 |2275|6720703028|Automatic|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|
 |2274|6467631665|Automatic|备货追踪|備貨追蹤|備貨追蹤|備貨追蹤|Stock Tracker for AS|Stock Tracker for AS|备货追踪|
-|2273|6760237050|Automatic|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|
+|2273|6760237050|Automatic|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|
 |2272|6800616114|Automatic|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|
 |2271|6749684876|Automatic|❌|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|
 |2270|6799335271|Automatic|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|Funny Doctor - Kids Tummy Scan|Funny Doctor - Kids Tummy Scan|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|
@@ -2000,7 +2003,7 @@ So far, we've covered `7` `Countries or Regions` and  `2455` `Apps` <br />Push n
 |465|941143328|Automatic|❌|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|
 |464|945322477|Automatic|❌|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|
 |463|946477821|Automatic|❌|Evoland|Evoland|Evoland|Evoland|Evoland|Evoland|
-|462|948944368|Automatic|全屏浏览器 - 用得全屏才是好浏览器！|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|iBrowser- Full Screen Browser|
+|462|948944368|Automatic|全屏浏览器 - 用得全屏才是好浏览器！|iBrowser- Full Screen Browser|全屏瀏覽器 - 用得全屏才是好瀏覽器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|
 |461|954724812|Automatic|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|
 |460|955687901|Automatic|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
 |459|961932335|Automatic|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|

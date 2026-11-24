@@ -1,23 +1,63 @@
 [
   {
-    "trackId": 1422480068,
+    "trackId": 1287138671,
     "region": "us",
-    "timestamp": 1795476365275,
+    "timestamp": 1795494082908,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1287138671",
+    "trackName": "Thumper: Pocket Edition",
+    "firstRecordedAt": 1750137190847
+  },
+  {
+    "trackId": 1389752090,
+    "region": "us",
+    "timestamp": 1795494082908,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $8.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6811795155,
+    "region": "us",
+    "timestamp": 1795494082908,
     "discounts": [
       {
         "type": "inAppPurchase",
-        "name": "Nautilus Unlock All and AI",
-        "from": "$14.99",
-        "to": "$3.99",
-        "range": "[$3.99 ~ $14.99]"
+        "name": "Keeps Pro",
+        "from": "$19.99",
+        "to": "$9.99",
+        "range": "[$1.99 ~ $19.99]"
       }
     ],
     "price": 0,
     "formattedPrice": "Free",
     "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Nautilus: Web, Word, Annotate",
-    "firstRecordedAt": 1722784406759
+    "trackViewUrl": "https://apps.apple.com/us/app/id6811795155",
+    "trackName": "Keeps: Cost Per Use Tracker",
+    "firstRecordedAt": 1790094096914
   },
   {
     "trackId": 6770101449,

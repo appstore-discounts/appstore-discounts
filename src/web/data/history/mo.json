@@ -66664,7 +66664,7 @@
   },
   "948944368": {
     "trackId": 948944368,
-    "trackName": "iBrowser- Full Screen Browser",
+    "trackName": "全屏瀏覽器 - 用得全屏才是好瀏覽器！",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.29,
@@ -228284,6 +228284,79 @@
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829036963": {
+    "trackId": 6829036963,
+    "trackName": "Nöbetçi Mahkeme 2",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763063611": {
+    "trackId": 6763063611,
+    "trackName": "Bills Must Be Paid",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834179800": {
+    "trackId": 6834179800,
+    "trackName": "Spaceclear：手機儲存空間清理",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Spaceclear Pro 終身": "USD 7.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Spaceclear Pro 終身": "USD 7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Spaceclear Pro 終身": "USD 7.99"
+          }
         }
       ]
     ]

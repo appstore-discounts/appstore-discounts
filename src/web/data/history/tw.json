@@ -4985,6 +4985,25 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Reference Files Module": "$320.00",
+            "All-In Module Access": "$320.00",
+            "SPL Pro Module": "$150.00",
+            "ETC Module": "$120.00",
+            "SPL Graph Module": "$220.00",
+            "SoundScope VR": "$590.00",
+            "Polarity Test Module": "$90.00",
+            "IR Module": "$990.00",
+            "Transfer Function": "$990.00",
+            "Phase Meter": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795140089529,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -64562,6 +64581,23 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "$0.00",
+            "A MAJOR'S LOW BLOW": "$0.00",
+            "BEAST OF SHADOWS": "$0.00",
+            "DEEP BLUE": "$0.00",
+            "BEEPING BOBBIE": "$0.00",
+            "CAMPBELL'S CANS": "$30.00",
+            "ISAAC'S NEW TONES": "$30.00",
+            "GROOVY GUT SHAKER": "$60.00",
+            "HIGH FIVE": "$30.00",
+            "DARK DUNGEON OF DESPAIR": "$30.00"
+          }
+        },
+        {
           "timestamp": 1795476365275,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -85585,7 +85621,7 @@
   },
   "948944368": {
     "trackId": 948944368,
-    "trackName": "iBrowser- Full Screen Browser",
+    "trackName": "全屏瀏覽器 - 用得全屏才是好瀏覽器！",
     "region": "tw",
     "maxPriceInfo": {
       "price": 20,
@@ -241005,6 +241041,23 @@
     "history": [
       [
         {
+          "timestamp": 1795494082908,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$1,700.00",
+            "逆命殊途": "$280.00",
+            "額外內容擴充包": "$560.00",
+            "武器專屬強化券 x5 (A)": "$280.00",
+            "武器專屬強化券 x3 (A)": "$199.00",
+            "手槍彈藥吊飾": "$29.00",
+            "金色公事包": "$29.00",
+            "武器專屬強化券 x1 (A)": "$85.00",
+            "綠色藥草吊飾": "$29.00",
+            "經典公事包": "$29.00"
+          }
+        },
+        {
           "timestamp": 1795476365275,
           "price": 0,
           "formattedPrice": "免費",
@@ -336329,6 +336382,79 @@
           "price": 90,
           "formattedPrice": "$90.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829036963": {
+    "trackId": 6829036963,
+    "trackName": "Nöbetçi Mahkeme 2",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763063611": {
+    "trackId": 6763063611,
+    "trackName": "Bills Must Be Paid",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6834179800": {
+    "trackId": 6834179800,
+    "trackName": "Spaceclear：手機儲存空間清理",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Spaceclear Pro 終身": "$170.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Spaceclear Pro 終身": "$170.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795494082908,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Spaceclear Pro 終身": "$170.00"
+          }
         }
       ]
     ]
