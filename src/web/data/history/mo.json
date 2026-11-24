@@ -59362,6 +59362,22 @@
     "history": [
       [
         {
+          "timestamp": 1795509367484,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Main Story Set": "USD 14.99",
+            "Special Episode": "USD 2.99",
+            "Costume Set": "USD 0.99",
+            "Episode 2": "USD 4.99",
+            "Episode 5": "USD 4.99",
+            "Episode 4": "USD 4.99",
+            "Episode 3": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793874237037,
           "price": 0.49,
           "formattedPrice": "USD 0.49",
@@ -90714,6 +90730,20 @@
       "Turnabout Corner": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795509367484,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "All Episodes Set": "USD 14.99",
+            "Turnabout Trump, Part 2": "USD 1.99",
+            "Turnabout Succession": "USD 4.99",
+            "Turnabout Serenade": "USD 4.99",
+            "Turnabout Corner": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793874237037,
@@ -170477,6 +170507,14 @@
     "history": [
       [
         {
+          "timestamp": 1795509367484,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793874237037,
           "price": 9.89,
           "formattedPrice": "USD 9.89",
@@ -185402,7 +185440,8 @@
       "1280金磚": "USD 19.99",
       "980金磚": "USD 14.99",
       "6480金磚": "USD 99.99",
-      "1980金磚": "USD 29.99"
+      "1980金磚": "USD 29.99",
+      "金鑰匙月卡": "USD 7.49"
     },
     "minPriceInfo": {
       "price": 0,
@@ -185420,9 +185459,29 @@
       "1280金磚": "USD 19.99",
       "980金磚": "USD 14.99",
       "6480金磚": "USD 99.99",
-      "1980金磚": "USD 29.99"
+      "1980金磚": "USD 29.99",
+      "金鑰匙月卡": "USD 7.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795509367484,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "戰鬥獎勵雙倍": "USD 1.99",
+            "60金磚": "USD 0.99",
+            "680金磚": "USD 9.99",
+            "300金磚": "USD 4.99",
+            "高級特訓": "USD 9.99",
+            "月卡": "USD 2.49",
+            "980金磚": "USD 14.99",
+            "深度高級特訓": "USD 14.99",
+            "金鑰匙月卡": "USD 7.49",
+            "120金磚": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795203532221,
@@ -196651,6 +196710,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795509367484,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793874237037,
@@ -224311,7 +224378,7 @@
   },
   "6760237050": {
     "trackId": 6760237050,
-    "trackName": "Military GPS - Mil GPS PRO",
+    "trackName": "Mil GPS PRO - Military GPS",
     "region": "mo",
     "maxPriceInfo": {
       "price": 9.99,

@@ -192,7 +192,7 @@ So far, we've covered `7` `Countries or Regions` and  `2458` `Apps` <br />Push n
 |2276|732245213|Automatic|Voice Analyst: 音高与音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: Pitch & Volume|Voice Analyst: Pitch & Volume|Voice Analyst: Tom e Volume|
 |2275|6720703028|Automatic|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|
 |2274|6467631665|Automatic|备货追踪|備貨追蹤|備貨追蹤|備貨追蹤|Stock Tracker for AS|Stock Tracker for AS|备货追踪|
-|2273|6760237050|Automatic|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|
+|2273|6760237050|Automatic|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|
 |2272|6800616114|Automatic|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|
 |2271|6749684876|Automatic|❌|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|
 |2270|6799335271|Automatic|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|Funny Doctor - Kids Tummy Scan|Funny Doctor - Kids Tummy Scan|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|
@@ -2003,7 +2003,7 @@ So far, we've covered `7` `Countries or Regions` and  `2458` `Apps` <br />Push n
 |465|941143328|Automatic|❌|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|
 |464|945322477|Automatic|❌|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|
 |463|946477821|Automatic|❌|Evoland|Evoland|Evoland|Evoland|Evoland|Evoland|
-|462|948944368|Automatic|全屏浏览器 - 用得全屏才是好浏览器！|iBrowser- Full Screen Browser|全屏瀏覽器 - 用得全屏才是好瀏覽器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|
+|462|948944368|Automatic|全屏浏览器 - 用得全屏才是好浏览器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|
 |461|954724812|Automatic|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|
 |460|955687901|Automatic|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
 |459|961932335|Automatic|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|

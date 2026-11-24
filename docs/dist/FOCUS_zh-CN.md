@@ -192,7 +192,7 @@
 |2276|732245213|自动|Voice Analyst: 音高与音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: Pitch & Volume|Voice Analyst: Pitch & Volume|Voice Analyst: Tom e Volume|
 |2275|6720703028|自动|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|
 |2274|6467631665|自动|备货追踪|備貨追蹤|備貨追蹤|備貨追蹤|Stock Tracker for AS|Stock Tracker for AS|备货追踪|
-|2273|6760237050|自动|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Military GPS - Mil GPS PRO|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|
+|2273|6760237050|自动|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|Mil GPS PRO - Military GPS|
 |2272|6800616114|自动|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|
 |2271|6749684876|自动|❌|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|
 |2270|6799335271|自动|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院|Funny Doctor - Kids Tummy Scan|Funny Doctor - Kids Tummy Scan|奇趣小医生-三假医院 肚肚扫描 CT扫描 肚子有虫 身体检查|
@@ -2003,7 +2003,7 @@
 |465|941143328|自动|❌|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|
 |464|945322477|自动|❌|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|
 |463|946477821|自动|❌|Evoland|Evoland|Evoland|Evoland|Evoland|Evoland|
-|462|948944368|自动|全屏浏览器 - 用得全屏才是好浏览器！|iBrowser- Full Screen Browser|全屏瀏覽器 - 用得全屏才是好瀏覽器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|
+|462|948944368|自动|全屏浏览器 - 用得全屏才是好浏览器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|全屏瀏覽器 - 用得全屏才是好瀏覽器！|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|iBrowser - Full Screen Browser|
 |461|954724812|自动|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|同花顺至尊版-股票软件|
 |460|955687901|自动|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
 |459|961932335|自动|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|
