@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1236657805,
+    "region": "cn",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1236657805",
+    "trackName": "Cube CFOP：F2L、OLL、PLL 魔方公式",
+    "firstRecordedAt": 1756541666587
+  },
+  {
+    "trackId": 1269488509,
+    "region": "cn",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥15.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1269488509",
+    "trackName": "SurviKit",
+    "firstRecordedAt": 1746144557554
+  },
+  {
+    "trackId": 1549126927,
+    "region": "cn",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1549126927",
+    "trackName": "Posture up",
+    "firstRecordedAt": 1778346131929
+  },
+  {
+    "trackId": 6742457882,
+    "region": "cn",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Deco Plus",
+        "from": "¥18.00",
+        "to": "¥13.00",
+        "range": "[¥13.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
     "trackId": 1309638846,
     "region": "cn",
     "timestamp": 1795550250676,
@@ -1707,7 +1787,7 @@
         "name": "Price",
         "from": "¥22.00",
         "to": "¥12.00",
-        "range": "[¥12.00 ~ ¥22.00]"
+        "range": "[¥8.00 ~ ¥22.00]"
       }
     ],
     "price": 12,

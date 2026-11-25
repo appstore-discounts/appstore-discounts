@@ -21,7 +21,7 @@ So far, we've covered `7` `Countries or Regions` and  `2459` `Apps` <br />Push n
 |2448|6768040383|Automatic|GR Snap - 理光GR无线传图|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|
 |2447|6756657026|Automatic|高塔旅人-巴别塔圣歌|❌|❌|❌|❌|❌|❌|
 |2446|1008692660|Automatic|❌|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|
-|2445|6832769102|Automatic|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
+|2445|6832769102|Automatic|❌|Survival Days：殭屍末日求生|Survival Days：殭屍末日求生|Survival Days：殭屍末日求生|Survival Days|Survival Days|Survival Days|
 |2444|951627022|Automatic|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
 |2443|6833608280|Automatic|FarView 远迹|❌|❌|❌|❌|❌|❌|
 |2442|6833854183|Automatic|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|

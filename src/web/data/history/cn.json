@@ -89042,10 +89042,18 @@
       "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794112817031,
@@ -89862,6 +89870,14 @@
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794703649883,
@@ -142293,10 +142309,18 @@
       "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778346131929,
@@ -156330,6 +156354,25 @@
       "60元华幕独秀*威斯康星皮肤礼包": "¥60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元满级武器礼包": "¥6.00",
+            "30元月卡": "¥30.00",
+            "18元每日系统经验礼包": "¥18.00",
+            "6元每日电量礼包": "¥6.00",
+            "98元永久通行证": "¥98.00",
+            "12元每日活跃数据礼包": "¥12.00",
+            "98元每月限时皮肤礼包": "¥98.00",
+            "108每月签名皮肤礼包": "¥108.00",
+            "30元快递券礼包": "¥30.00",
+            "6元每周超值礼包": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,
@@ -189649,9 +189692,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Deco Plus": "¥18.00"
+      "Deco Plus": "¥13.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Deco Plus": "¥13.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792454818639,
@@ -237026,7 +237079,17 @@
       "Worship Drum Kit 3": "¥8.00",
       "Worship Drum Kit 2": "¥8.00",
       "Worship Drum Kit 1": "¥8.00",
-      "Live Loops": "¥38.00"
+      "Live Loops": "¥38.00",
+      "StageLab": "¥28.00",
+      "Pad Mix Pro": "¥15.00",
+      "Pad Pulse Pro": "¥15.00",
+      "Arp Pro": "¥15.00",
+      "Sequencer Pro": "¥22.00",
+      "Worship Pad": "¥6.00",
+      "Analog Pad 2": "¥6.00",
+      "Atmospheric Pad EFX": "¥6.00",
+      "Haze Pad EFX": "¥6.00",
+      "Pad Wind EFX": "¥6.00"
     },
     "minPriceInfo": {
       "price": 12,
@@ -237041,9 +237104,38 @@
       "Worship Drum Kit 3": "¥8.00",
       "Worship Drum Kit 2": "¥8.00",
       "Worship Drum Kit 1": "¥8.00",
-      "Live Loops": "¥38.00"
+      "Live Loops": "¥38.00",
+      "StageLab": "¥28.00",
+      "Pad Mix Pro": "¥15.00",
+      "Pad Pulse Pro": "¥15.00",
+      "Arp Pro": "¥15.00",
+      "Sequencer Pro": "¥22.00",
+      "Worship Pad": "¥6.00",
+      "Analog Pad 2": "¥6.00",
+      "Atmospheric Pad EFX": "¥6.00",
+      "Haze Pad EFX": "¥6.00",
+      "Pad Wind EFX": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "StageLab": "¥28.00",
+            "Pad Mix Pro": "¥15.00",
+            "Pad Pulse Pro": "¥15.00",
+            "Arp Pro": "¥15.00",
+            "Sequencer Pro": "¥22.00",
+            "Worship Pad": "¥6.00",
+            "Analog Pad 2": "¥6.00",
+            "Atmospheric Pad EFX": "¥6.00",
+            "Haze Pad EFX": "¥6.00",
+            "Pad Wind EFX": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793841525729,

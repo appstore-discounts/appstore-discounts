@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1236657805,
+    "region": "mo",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1236657805",
+    "trackName": "Cube CFOP: F2L, OLL & PLL",
+    "firstRecordedAt": 1756541666587
+  },
+  {
+    "trackId": 1269488509,
+    "region": "mo",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1269488509",
+    "trackName": "SurviKit",
+    "firstRecordedAt": 1746144557554
+  },
+  {
+    "trackId": 1479808939,
+    "region": "mo",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1479808939",
+    "trackName": "孙美琪",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 1549126927,
+    "region": "mo",
+    "timestamp": 1795579033340,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1549126927",
+    "trackName": "Posture up",
+    "firstRecordedAt": 1778346131929
+  },
+  {
     "trackId": 1309638846,
     "region": "mo",
     "timestamp": 1795550250676,

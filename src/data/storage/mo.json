@@ -97277,10 +97277,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,
@@ -101430,6 +101438,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794703649883,
@@ -136643,7 +136659,8 @@
       "Call of Olympus": "USD 3.99",
       "Archon's Royal Wardrobe": "USD 2.99",
       "Regent's Royal Wardrobe": "USD 2.99",
-      "Decennial Royal Wardrobe": "USD 2.99"
+      "Decennial Royal Wardrobe": "USD 2.99",
+      "Pharaoh Lands": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -136652,9 +136669,25 @@
       "Call of Olympus": "USD 2.99",
       "Archon's Royal Wardrobe": "USD 2.99",
       "Regent's Royal Wardrobe": "USD 2.99",
-      "Decennial Royal Wardrobe": "USD 2.99"
+      "Decennial Royal Wardrobe": "USD 2.99",
+      "Pharaoh Lands": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Norse Lands": "USD 2.99",
+            "Call of Olympus": "USD 3.99",
+            "Pharaoh Lands": "USD 3.99",
+            "Archon's Royal Wardrobe": "USD 2.99",
+            "Regent's Royal Wardrobe": "USD 2.99",
+            "Decennial Royal Wardrobe": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780235094665,
@@ -136954,10 +136987,18 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746457348888,
@@ -149062,10 +149103,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795579033340,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778346131929,
@@ -223766,7 +223815,7 @@
     ]
   },
   "6832769102": {
-    "name": "Survival Days",
+    "name": "Survival Days：殭屍末日求生",
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"

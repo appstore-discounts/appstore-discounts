@@ -21,7 +21,7 @@
 |2448|6768040383|自动|GR Snap - 理光GR无线传图|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR 無線傳圖|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|GR Snap - Ricoh GR Image Sync|
 |2447|6756657026|自动|高塔旅人-巴别塔圣歌|❌|❌|❌|❌|❌|❌|
 |2446|1008692660|自动|❌|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|RollerCoaster Tycoon® 3|
-|2445|6832769102|自动|❌|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|Survival Days|
+|2445|6832769102|自动|❌|Survival Days：殭屍末日求生|Survival Days：殭屍末日求生|Survival Days：殭屍末日求生|Survival Days|Survival Days|Survival Days|
 |2444|951627022|自动|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
 |2443|6833608280|自动|FarView 远迹|❌|❌|❌|❌|❌|❌|
 |2442|6833854183|自动|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
