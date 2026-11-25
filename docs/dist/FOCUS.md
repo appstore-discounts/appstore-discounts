@@ -1,12 +1,17 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2459` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2464` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2464|6830056796|Automatic|❌|詛咒武器庫 CURSED ARSENAL：割草肉鴿|詛咒武器庫 CURSED ARSENAL：割草肉鴿|詛咒武器庫 CURSED ARSENAL：割草肉鴿|CURSED ARSENAL: Pixel Survivor|CURSED ARSENAL: Pixel Survivor|CURSED ARSENAL: Pixel Survivor|
+|2463|6757590970|Automatic|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|
+|2462|6828326158|Automatic|❌|Diamond YEARS|Diamond YEARS|Diamond YEARS|Diamond YEARS|Diamond YEARS|다이아몬드 이어스: 야구선수 시뮬레이터|
+|2461|6805318319|Automatic|柔粒胶片相机 - 复古胶卷·韩系自拍|柔粒底片相機 - 復古菲林·韓系自拍|柔粒底片相機 - 復古菲林·韓系自拍|柔粒底片相機 - 復古菲林·韓系自拍|ROLLIE'S: 35mm Film Camera|ROLLIE'S: 35mm Film Camera|ROLLIE'S: Câmara Analógica|
+|2460|6787626708|Automatic|❌|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|
 |2459|1563852783|Automatic|❌|Resolutioner|Resolutioner|Resolutioner|Resolutioner|Resolutioner|Resolutioner|
 |2458|6829036963|Automatic|❌|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Duty Court 2|Duty Court 2|Nöbetçi Mahkeme 2|
 |2457|6763063611|Automatic|❌|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|

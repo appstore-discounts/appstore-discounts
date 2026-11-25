@@ -1,12 +1,17 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2459` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2464` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2464|6830056796|自动|❌|詛咒武器庫 CURSED ARSENAL：割草肉鴿|詛咒武器庫 CURSED ARSENAL：割草肉鴿|詛咒武器庫 CURSED ARSENAL：割草肉鴿|CURSED ARSENAL: Pixel Survivor|CURSED ARSENAL: Pixel Survivor|CURSED ARSENAL: Pixel Survivor|
+|2463|6757590970|自动|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|比比怪 - 截图识别，换平台比价|
+|2462|6828326158|自动|❌|Diamond YEARS|Diamond YEARS|Diamond YEARS|Diamond YEARS|Diamond YEARS|다이아몬드 이어스: 야구선수 시뮬레이터|
+|2461|6805318319|自动|柔粒胶片相机 - 复古胶卷·韩系自拍|柔粒底片相機 - 復古菲林·韓系自拍|柔粒底片相機 - 復古菲林·韓系自拍|柔粒底片相機 - 復古菲林·韓系自拍|ROLLIE'S: 35mm Film Camera|ROLLIE'S: 35mm Film Camera|ROLLIE'S: Câmara Analógica|
+|2460|6787626708|自动|❌|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|Car Dealership Tycoon Sim|
 |2459|1563852783|自动|❌|Resolutioner|Resolutioner|Resolutioner|Resolutioner|Resolutioner|Resolutioner|
 |2458|6829036963|自动|❌|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Nöbetçi Mahkeme 2|Duty Court 2|Duty Court 2|Nöbetçi Mahkeme 2|
 |2457|6763063611|自动|❌|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|Bills Must Be Paid|

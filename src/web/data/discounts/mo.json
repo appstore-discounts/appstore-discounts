@@ -1,5 +1,405 @@
 [
   {
+    "trackId": 549432607,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.49",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 2.49]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 592398757,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.49 ~ USD 6.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id592398757",
+    "trackName": "Grooves: Song Speed Changer",
+    "firstRecordedAt": 1745658131479
+  },
+  {
+    "trackId": 1033342465,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.49 ~ USD 6.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1033342465",
+    "trackName": "Just Press Record",
+    "firstRecordedAt": 1745384546601
+  },
+  {
+    "trackId": 1062022008,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 19.99",
+        "to": "USD 14.99",
+        "range": "[USD 14.99 ~ USD 29.99]"
+      }
+    ],
+    "price": 14.99,
+    "formattedPrice": "USD 14.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1062022008",
+    "trackName": "LumaFusion",
+    "firstRecordedAt": 1745419646428
+  },
+  {
+    "trackId": 1369179088,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 5.99",
+        "to": "USD 2.99",
+        "range": "[USD 0.99 ~ USD 5.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1369179088",
+    "trackName": "Grimvalor",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1465288147,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 3.99",
+        "range": "[USD 2.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1465288147",
+    "trackName": "ATOM RPG",
+    "firstRecordedAt": 1768725301023
+  },
+  {
+    "trackId": 1481181827,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.49",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 7.49]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1481181827",
+    "trackName": "Aces of the Luftwaffe Squadron",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 1499001662,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "USD 10.99",
+        "to": "USD 7.69",
+        "range": "[USD 7.69 ~ USD 19.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1537057699,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 17.99",
+        "to": "USD 9.99",
+        "range": "[USD 9.99 ~ USD 17.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1537057699",
+    "trackName": "Solo - Fretboard Visualization",
+    "firstRecordedAt": 1749129079535
+  },
+  {
+    "trackId": 1571643809,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1571643809",
+    "trackName": "地城謎蹤",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 1592505377,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 2.49",
+        "range": "[USD 0.39 ~ USD 8.99]"
+      }
+    ],
+    "price": 2.49,
+    "formattedPrice": "USD 2.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1642715290,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 1.59",
+        "range": "[USD 1.39 ~ USD 8.99]"
+      }
+    ],
+    "price": 1.59,
+    "formattedPrice": "USD 1.59",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1642715290",
+    "trackName": "Little Big Workshop",
+    "firstRecordedAt": 1745492532710
+  },
+  {
+    "trackId": 6740349666,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6740349666",
+    "trackName": "Backyard Baseball '97",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6740349587,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6740349587",
+    "trackName": "Backyard Baseball '01",
+    "firstRecordedAt": 1752005659477
+  },
+  {
+    "trackId": 6478572512,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.89",
+        "range": "[USD 3.89 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.89,
+    "formattedPrice": "USD 3.89",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6478572512",
+    "trackName": "迷你空管：高級版",
+    "firstRecordedAt": 1752221868417
+  },
+  {
+    "trackId": 6740349855,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6740349855",
+    "trackName": "Backyard Football '99",
+    "firstRecordedAt": 1757409218377
+  },
+  {
+    "trackId": 6748572801,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 5.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6748572801",
+    "trackName": "首爾驅魔人1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6749824842,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 14.99",
+        "to": "USD 7.49",
+        "range": "[USD 3.99 ~ USD 14.99]"
+      }
+    ],
+    "price": 7.49,
+    "formattedPrice": "USD 7.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6749824842",
+    "trackName": "Parachute Backup Mobile",
+    "firstRecordedAt": 1767272224446
+  },
+  {
+    "trackId": 6445992619,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 8.99]"
+      }
+    ],
+    "price": 2.49,
+    "formattedPrice": "USD 2.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6445992619",
+    "trackName": "SpongeBob - The Cosmic Shake",
+    "firstRecordedAt": 1767364108321
+  },
+  {
+    "trackId": 6813841355,
+    "region": "mo",
+    "timestamp": 1795625467723,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6813841355",
+    "trackName": "Toastie: grilled cheese game",
+    "firstRecordedAt": 1792873079489
+  },
+  {
     "trackId": 1236657805,
     "region": "mo",
     "timestamp": 1795579033340,
@@ -9363,7 +9763,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 4.99]"
+        "range": "[USD 3.89 ~ USD 4.99]"
       }
     ],
     "price": 3.99,
@@ -23511,7 +23911,7 @@
         "name": "Price",
         "from": "USD 29.99",
         "to": "USD 19.99",
-        "range": "[USD 19.99 ~ USD 29.99]"
+        "range": "[USD 14.99 ~ USD 29.99]"
       },
       {
         "type": "inAppPurchase",
@@ -24825,7 +25225,7 @@
         "name": "Price",
         "from": "USD 29.99",
         "to": "USD 19.99",
-        "range": "[USD 19.99 ~ USD 29.99]"
+        "range": "[USD 14.99 ~ USD 29.99]"
       },
       {
         "type": "inAppPurchase",
@@ -29985,7 +30385,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 4.99]"
+        "range": "[USD 3.89 ~ USD 4.99]"
       }
     ],
     "price": 3.99,
@@ -30392,7 +30792,7 @@
         "name": "Price",
         "from": "USD 29.99",
         "to": "USD 19.99",
-        "range": "[USD 19.99 ~ USD 29.99]"
+        "range": "[USD 14.99 ~ USD 29.99]"
       },
       {
         "type": "inAppPurchase",
@@ -33178,7 +33578,7 @@
         "name": "Price",
         "from": "USD 29.99",
         "to": "USD 19.99",
-        "range": "[USD 19.99 ~ USD 29.99]"
+        "range": "[USD 14.99 ~ USD 29.99]"
       }
     ],
     "price": 19.99,
