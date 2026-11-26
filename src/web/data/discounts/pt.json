@@ -1,5 +1,373 @@
 [
   {
+    "trackId": 549432607,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1062022008,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "19,99 €",
+        "to": "13,99 €",
+        "range": "[13,99 € ~ 29,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Creator Pass Monthly",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Creator Pass Yearly",
+        "from": "69,99 €",
+        "to": "47,99 €",
+        "range": "[47,99 € ~ 69,99 €]"
+      }
+    ],
+    "price": 13.99,
+    "formattedPrice": "13,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1062022008",
+    "trackName": "LumaFusion",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1465288147,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1465288147",
+    "trackName": "ATOM RPG",
+    "firstRecordedAt": 1768725301023
+  },
+  {
+    "trackId": 1481181827,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1481181827",
+    "trackName": "Aces of the Luftwaffe Squadron",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1499001662,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "10,99 €",
+        "to": "7,69 €",
+        "range": "[7,69 € ~ 19,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Offer",
+        "from": "4,99 €",
+        "to": "3,49 €",
+        "range": "[3,49 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Hunter Package",
+        "from": "4,99 €",
+        "to": "3,49 €",
+        "range": "[3,49 € ~ 9,99 €]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
+    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1537057699,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "19,99 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 19,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1537057699",
+    "trackName": "Solo - Fretboard Visualization",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1571643809,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1592505377,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[0,49 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1642715290,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1642715290",
+    "trackName": "Little Big Workshop",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6748572801,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6748572801",
+    "trackName": "Seoul Exorcist 1111: Roguelite",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6740349855,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6740349855",
+    "trackName": "Backyard Football '99",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6478572512,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6478572512",
+    "trackName": "Mini Airways:Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6740349587,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6740349587",
+    "trackName": "Backyard Baseball '01",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6740349666,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6740349666",
+    "trackName": "Backyard Baseball '97",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6749824842,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "17,99 €",
+        "to": "7,99 €",
+        "range": "[3,99 € ~ 17,99 €]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6749824842",
+    "trackName": "Parachute Backup Mobile",
+    "firstRecordedAt": 1767272224446
+  },
+  {
+    "trackId": 6445992619,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6445992619",
+    "trackName": "SpongeBob - The Cosmic Shake",
+    "firstRecordedAt": 1767364108321
+  },
+  {
+    "trackId": 6813841355,
+    "region": "pt",
+    "timestamp": 1795657011458,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6813841355",
+    "trackName": "Toastie: grilled cheese game",
+    "firstRecordedAt": 1792873079489
+  },
+  {
     "trackId": 592398757,
     "region": "pt",
     "timestamp": 1795625467723,
@@ -6819,14 +7187,14 @@
         "name": "Elite Offer",
         "from": "9,99 €",
         "to": "4,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
+        "range": "[3,49 € ~ 9,99 €]"
       },
       {
         "type": "inAppPurchase",
         "name": "Crystal Offer",
         "from": "22,99 €",
         "to": "10,99 €",
-        "range": "[10,99 € ~ 22,99 €]"
+        "range": "[7,69 € ~ 22,99 €]"
       }
     ],
     "price": 4.99,
@@ -7234,21 +7602,21 @@
         "name": "Master Package",
         "from": "19,99 €",
         "to": "10,99 €",
-        "range": "[10,99 € ~ 19,99 €]"
+        "range": "[7,69 € ~ 19,99 €]"
       },
       {
         "type": "inAppPurchase",
         "name": "Elite Offer",
         "from": "9,99 €",
         "to": "4,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
+        "range": "[3,49 € ~ 9,99 €]"
       },
       {
         "type": "inAppPurchase",
         "name": "Crystal Offer",
         "from": "22,99 €",
         "to": "10,99 €",
-        "range": "[10,99 € ~ 22,99 €]"
+        "range": "[7,69 € ~ 22,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -23582,7 +23950,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "19,99 €",
-        "range": "[19,99 € ~ 29,99 €]"
+        "range": "[13,99 € ~ 29,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -24830,7 +25198,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "19,99 €",
-        "range": "[19,99 € ~ 29,99 €]"
+        "range": "[13,99 € ~ 29,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -30024,7 +30392,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "19,99 €",
-        "range": "[19,99 € ~ 29,99 €]"
+        "range": "[13,99 € ~ 29,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -32914,7 +33282,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "19,99 €",
-        "range": "[19,99 € ~ 29,99 €]"
+        "range": "[13,99 € ~ 29,99 €]"
       }
     ],
     "price": 19.99,

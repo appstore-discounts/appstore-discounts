@@ -4805,6 +4805,23 @@
     "history": [
       [
         {
+          "timestamp": 1795657011458,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Extended Frequency Modes": "$4.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Buzz Feiten Pack": "$5.99",
+            "Keyboard Sweeteners": "$19.99"
+          }
+        },
+        {
           "timestamp": 1795625467723,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -36631,7 +36648,11 @@
       "Story Mode - Skin Pack": "$2.99",
       "Biome Settlers - Skin Pack 2": "$1.99",
       "Creepy Starter Pack": "$9.99",
-      "Cuddly Starter Pack": "$5.99"
+      "Cuddly Starter Pack": "$5.99",
+      "Explorer Starter Pack": "$9.99",
+      "Farming Starter Pack": "$5.99",
+      "Minecraft Store Item 49": "$48.99",
+      "Minecraft Store Item 47": "$46.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -36668,9 +36689,32 @@
       "Story Mode - Skin Pack": "$2.99",
       "Biome Settlers - Skin Pack 2": "$1.99",
       "Creepy Starter Pack": "$9.99",
-      "Cuddly Starter Pack": "$5.99"
+      "Cuddly Starter Pack": "$5.99",
+      "Explorer Starter Pack": "$9.99",
+      "Farming Starter Pack": "$5.99",
+      "Minecraft Store Item 49": "$48.99",
+      "Minecraft Store Item 47": "$46.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795657011458,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Explorer Starter Pack": "$9.99",
+            "Farming Starter Pack": "$5.99",
+            "Creepy Starter Pack": "$9.99",
+            "Cuddly Starter Pack": "$5.99",
+            "Marketplace Pass Full": "$3.99",
+            "Marketplace Pass Trial": "$3.99",
+            "The Incredibles": "$7.99",
+            "Marketplace Pass w/trial": "$3.99",
+            "Minecraft Store Item 49": "$48.99",
+            "Minecraft Store Item 47": "$46.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785516330891,
@@ -173645,6 +173689,17 @@
     "history": [
       [
         {
+          "timestamp": 1795657011458,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Pro Lifetime": "$14.99",
+            "Nautilus Unlock All and AI": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795494082908,
           "price": 0,
           "formattedPrice": "Free",
@@ -199171,7 +199226,8 @@
       "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
       "赖世雄中级美语下（视频课）": "$14.99",
       "赖世雄中级美语上（视频课）": "$14.99",
-      "可乐新概念（二）语音语调及连读": "$9.99"
+      "可乐新概念（二）语音语调及连读": "$9.99",
+      "《人类简史》英文原版精读课": "$79.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -199207,9 +199263,29 @@
       "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
       "赖世雄中级美语下（视频课）": "$9.99",
       "赖世雄中级美语上（视频课）": "$9.99",
-      "可乐新概念（二）语音语调及连读": "$9.99"
+      "可乐新概念（二）语音语调及连读": "$9.99",
+      "《人类简史》英文原版精读课": "$79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795657011458,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "长期VIP权限": "$59.99",
+            "每日英语听力VIP订阅": "$3.99",
+            "一年VIP权限": "$19.99",
+            "《每日外刊》订阅": "$8.99",
+            "看美剧《小谢尔顿》学英语 第一辑": "$19.99",
+            "可乐新概念（二）语音语调及连读": "$9.99",
+            "《了不起的盖茨比》": "$5.99",
+            "《人类简史》英文原版精读课": "$79.99",
+            "赖世雄中级美语下（视频课）": "$14.99",
+            "赖世雄中级美语上（视频课）": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
@@ -377534,7 +377610,7 @@
   },
   "6792524904": {
     "trackId": 6792524904,
-    "trackName": "ScreenCommand",
+    "trackName": "ScreenCommand: TV Web Browser",
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,

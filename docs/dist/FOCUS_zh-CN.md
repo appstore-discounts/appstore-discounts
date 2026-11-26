@@ -33,7 +33,7 @@
 |2441|6826478625|自动|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|
 |2440|6834208556|手动|Sorapuff: 飞行恐惧安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: 飛行恐懼安心助手|Sorapuff: Fear of Flying Help|Sorapuff: Fear of Flying Help|Sorapuff: Medo de Voar|
 |2439|6816097524|手动|Comic Weather: 搞笑天气预报|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: 搞笑天氣預報|Comic Weather: Funny Forecast|Comic Weather: Funny Forecast|Comic Weather: Clima engraçado|
-|2438|6792524904|手动|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|ScreenCommand|
+|2438|6792524904|手动|ScreenCommand：大屏浏览器|ScreenCommand：大螢幕上網|ScreenCommand：大螢幕上網|ScreenCommand：大螢幕上網|ScreenCommand: TV Web Browser|ScreenCommand: TV Web Browser|ScreenCommand: Navegador na TV|
 |2437|6822285409|手动|❌|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall：多螢幕直播電視|Skywall: Multiview Live TV|Skywall: Multiview Live TV|Skywall: Multiview em direto|
 |2436|6834179800|手动|Spaceclear：手机存储空间清理|Spaceclear：手機儲存空間清理|Spaceclear：手機儲存空間清理|Spaceclear：手機儲存空間清理|Spaceclear: Phone Cleaner|Spaceclear: Phone Cleaner|Spaceclear: Limpeza de Memória|
 |2435|550067264|自动|❌|客滿餐廳物語|客滿餐廳物語|客滿餐廳物語|Cafeteria Nipponica|Cafeteria Nipponica|Cafeteria Nipponica|
