@@ -1,5 +1,459 @@
 [
   {
+    "trackId": 342115564,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "RetroPak One",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $1.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id342115564",
+    "trackName": "Classic Camera by Hipstamatic",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 549432607,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1062022008,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$29.99",
+        "to": "$19.99",
+        "range": "[$19.99 ~ $29.99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "$19.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1062022008",
+    "trackName": "LumaFusion",
+    "firstRecordedAt": 1745419646428
+  },
+  {
+    "trackId": 1465288147,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1465288147",
+    "trackName": "ATOM RPG",
+    "firstRecordedAt": 1768725301023
+  },
+  {
+    "trackId": 1481181827,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $8.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1481181827",
+    "trackName": "Aces of the Luftwaffe Squadron",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 1499001662,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "$19.99",
+        "to": "$13.99",
+        "range": "[$13.99 ~ $19.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Hunter Package",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Evoker Package",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer RPG",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1524418421,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1524418421",
+    "trackName": "SessionBand Jazz Fusion",
+    "firstRecordedAt": 1747774936582
+  },
+  {
+    "trackId": 1534488108,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$2.99 ~ $5.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1534488108",
+    "trackName": "SessionBand Jazz 4",
+    "firstRecordedAt": 1747774936582
+  },
+  {
+    "trackId": 1537057699,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$17.99",
+        "to": "$9.99",
+        "range": "[$9.99 ~ $17.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1537057699",
+    "trackName": "Solo - Fretboard Visualization",
+    "firstRecordedAt": 1749129079535
+  },
+  {
+    "trackId": 1561849298,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$2.99 ~ $5.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1561849298",
+    "trackName": "SessionBand Soul Jazz Funk 3",
+    "firstRecordedAt": 1747774936582
+  },
+  {
+    "trackId": 1571643809,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 1592505377,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$2.99",
+        "range": "[$0.49 ~ $10.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1642715290,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $10.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642715290",
+    "trackName": "Little Big Workshop",
+    "firstRecordedAt": 1745492532710
+  },
+  {
+    "trackId": 6740349666,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6740349666",
+    "trackName": "Backyard Baseball '97",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6740349587,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6740349587",
+    "trackName": "Backyard Baseball '01",
+    "firstRecordedAt": 1752005659477
+  },
+  {
+    "trackId": 6478572512,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.89",
+        "range": "[$3.89 ~ $4.99]"
+      }
+    ],
+    "price": 3.89,
+    "formattedPrice": "$3.89",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6478572512",
+    "trackName": "Mini Airways:Premium",
+    "firstRecordedAt": 1752221868417
+  },
+  {
+    "trackId": 6740349855,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6740349855",
+    "trackName": "Backyard Football '99",
+    "firstRecordedAt": 1757409218377
+  },
+  {
+    "trackId": 6748572801,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6748572801",
+    "trackName": "Seoul Exorcist 1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6749824842,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$14.99",
+        "to": "$7.49",
+        "range": "[$3.99 ~ $14.99]"
+      }
+    ],
+    "price": 7.49,
+    "formattedPrice": "$7.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6749824842",
+    "trackName": "Parachute Backup Mobile",
+    "firstRecordedAt": 1767272224446
+  },
+  {
+    "trackId": 6445992619,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $10.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6445992619",
+    "trackName": "SpongeBob - The Cosmic Shake",
+    "firstRecordedAt": 1767364108321
+  },
+  {
+    "trackId": 6813841355,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6813841355",
+    "trackName": "Toastie: grilled cheese game",
+    "firstRecordedAt": 1792873079489
+  },
+  {
+    "trackId": 6830056796,
+    "region": "us",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6830056796",
+    "trackName": "CURSED ARSENAL: Pixel Survivor",
+    "firstRecordedAt": 1795625467723
+  },
+  {
     "trackId": 592398757,
     "region": "us",
     "timestamp": 1795625467723,
@@ -9676,7 +10130,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $4.99]"
+        "range": "[$3.89 ~ $4.99]"
       }
     ],
     "price": 3.99,
@@ -30596,7 +31050,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $4.99]"
+        "range": "[$3.89 ~ $4.99]"
       }
     ],
     "price": 3.99,

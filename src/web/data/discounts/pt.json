@@ -1,5 +1,152 @@
 [
   {
+    "trackId": 342115564,
+    "region": "pt",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "RetroPak One",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id342115564",
+    "trackName": "Hipstamatic Classic",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 432850619,
+    "region": "pt",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "FL Cloud Mobile",
+        "from": "34,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 34,99 €]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "8,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id432850619",
+    "trackName": "FL Studio Mobile",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1499001662,
+    "region": "pt",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "10,99 €",
+        "to": "7,69 €",
+        "range": "[7,69 € ~ 19,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Offer",
+        "from": "4,99 €",
+        "to": "3,49 €",
+        "range": "[3,49 € ~ 9,99 €]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
+    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1524418421,
+    "region": "pt",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1524418421",
+    "trackName": "SessionBand Jazz Fusion",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1534488108,
+    "region": "pt",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1534488108",
+    "trackName": "SessionBand Jazz 4",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1561849298,
+    "region": "pt",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1561849298",
+    "trackName": "SessionBand Soul Jazz Funk 3",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6830056796,
+    "region": "pt",
+    "timestamp": 1795694171051,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6830056796",
+    "trackName": "CURSED ARSENAL: Pixel Survivor",
+    "firstRecordedAt": 1795625467723
+  },
+  {
     "trackId": 549432607,
     "region": "pt",
     "timestamp": 1795657011458,
@@ -91,40 +238,6 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1481181827",
     "trackName": "Aces of the Luftwaffe Squadron",
-    "firstRecordedAt": 1761797674362
-  },
-  {
-    "trackId": 1499001662,
-    "region": "pt",
-    "timestamp": 1795657011458,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Master Package",
-        "from": "10,99 €",
-        "to": "7,69 €",
-        "range": "[7,69 € ~ 19,99 €]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Elite Offer",
-        "from": "4,99 €",
-        "to": "3,49 €",
-        "range": "[3,49 € ~ 9,99 €]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Hunter Package",
-        "from": "4,99 €",
-        "to": "3,49 €",
-        "range": "[3,49 € ~ 9,99 €]"
-      }
-    ],
-    "price": 4.99,
-    "formattedPrice": "4,99 €",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
-    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
     "firstRecordedAt": 1761797674362
   },
   {

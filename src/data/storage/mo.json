@@ -30846,6 +30846,25 @@
     "history": [
       [
         {
+          "timestamp": 1795694171051,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "「日本香港組合包」": "USD 0.99",
+            "大富翁4 Fun 美國地圖": "USD 0.99",
+            "大富翁 4 fun 仙劍仙靈島組合包": "USD 0.99",
+            "大富翁 4 fun 軒轅劍太山組合包": "USD 0.99",
+            "大富翁 4 fun 韓國地圖組合包": "USD 0.99",
+            "大富翁 4 fun 樂園組合包": "USD 0.99",
+            "仙五地圖包": "USD 0.99",
+            "大富翁 4 FUN  巴黎倫敦組合包": "USD 0.99",
+            "大富翁4 Fun夏日組合包": "USD 0.99",
+            "大富翁 4 fun 水上世界組合包": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794865224584,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -35554,7 +35573,8 @@
       "Lattice Shedding": "USD 0.99",
       "Crystal Overclock": "USD 0.99",
       "Magnetic Siphon": "USD 0.99",
-      "Harmonic Vibrations": "USD 0.99"
+      "Harmonic Vibrations": "USD 0.99",
+      "異星晶擴充包": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -35596,9 +35616,29 @@
       "Lattice Shedding": "USD 0.99",
       "Crystal Overclock": "USD 0.99",
       "Magnetic Siphon": "USD 0.99",
-      "Harmonic Vibrations": "USD 0.99"
+      "Harmonic Vibrations": "USD 0.99",
+      "異星晶擴充包": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795694171051,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "解鎖全部基因": "USD 7.99",
+            "Necroa病毒擴展包": "USD 1.99",
+            "瘟疫配套": "USD 12.99",
+            "Neurax蠕蟲擴展包": "USD 1.99",
+            "解鎖七個基礎病原體": "USD 2.99",
+            "解開作弊模式": "USD 9.99",
+            "猿猴流感擴充包": "USD 1.99",
+            "場景包": "USD 2.99",
+            "紅魔瘟疫擴展包": "USD 1.99",
+            "異星晶擴充包": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792319275424,
@@ -69115,6 +69155,31 @@
             "纯净模式12个月": "USD 7.49",
             "纯净模式6个月": "USD 4.49",
             "纯净模式1个月": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "966245474": {
+    "name": "Through the Ages",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "New Leaders and Wonders": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "New Leaders and Wonders": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795694171051,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "New Leaders and Wonders": "USD 4.99"
           }
         }
       ]
@@ -116877,6 +116942,27 @@
       ]
     ]
   },
+  "1420356569": {
+    "name": "APlayer - Alook 播放器",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795694171051,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1422196592": {
     "name": "堪輿透明羅盤",
     "maxPriceInfo": {
@@ -144499,6 +144585,14 @@
     "history": [
       [
         {
+          "timestamp": 1795694171051,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792505275724,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -146865,6 +146959,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795694171051,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -152238,6 +152340,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795694171051,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792505275724,
@@ -224306,11 +224416,17 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
       [
+        {
+          "timestamp": 1795694171051,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1795625467723,
           "price": 2.99,
