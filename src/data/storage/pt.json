@@ -76952,6 +76952,14 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767320023055,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -78520,10 +78528,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -113796,6 +113812,20 @@
       "Filtr": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Filtr": "5,99 €",
+            "Yearly Recurring Tip": "9,99 €",
+            "Monthly Recurring Tip": "1,99 €",
+            "Mega Tip": "22,99 €",
+            "Tip": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792061720856,
@@ -158061,10 +158091,18 @@
       "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792600862887,
@@ -159899,6 +159937,27 @@
             "Upgrade para o definitivo": "4,49 €",
             "Pacote definitivo Deluxe": "14,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6803754226": {
+    "name": "一念修仙：凡人修真",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

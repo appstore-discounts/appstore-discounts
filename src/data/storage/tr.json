@@ -152844,6 +152844,14 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767320023055,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -157048,10 +157056,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -255142,6 +255158,25 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 737": "₺49,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-800": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795579033340,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -289254,6 +289289,25 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "30000 money": "₺19,99",
+            "15 gold": "₺29,99",
+            "sonsuz paket": "₺249,99",
+            "15 ticket": "₺29,99",
+            "porches": "₺49,99",
+            "50 gold": "₺99,99",
+            "büyük paket": "₺59,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795694171051,
           "price": 0,
           "formattedPrice": "Free",
@@ -305621,6 +305675,25 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Owl": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Dalia": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Osnir": "₺249,99",
+            "ALL HEROES BUNDLE": "₺1.299,99",
+            "Hero Ignus": "₺149,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "Gems Barrel": "₺499,99",
+            "Spell Sheepmorph": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795694171051,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -308439,10 +308512,18 @@
       "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792600862887,
@@ -310256,13 +310337,25 @@
     "name": "CURSED ARSENAL: Pixel Survivor",
     "maxPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "Unlock Full Game": "₺249,99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Unlock Full Game": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock Full Game": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -310392,6 +310485,27 @@
             "Ultimate Deluxe": "₺409,99",
             "Booster Pack (Thank You)": "₺139,99"
           }
+        }
+      ]
+    ]
+  },
+  "6803754226": {
+    "name": "One Thought Immortal",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
         }
       ]
     ]

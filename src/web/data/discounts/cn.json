@@ -1,5 +1,252 @@
 [
   {
+    "trackId": 596026805,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥78.00",
+        "to": "¥38.00",
+        "range": "[¥38.00 ~ ¥78.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "¥38.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id596026805",
+    "trackName": "PhotoPills",
+    "firstRecordedAt": 1745528534252
+  },
+  {
+    "trackId": 1065360416,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "BimmerLink full version",
+        "from": "¥298.00",
+        "to": "¥198.00",
+        "range": "[¥198.00 ~ ¥298.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "CarPlay Add-On",
+        "from": "¥68.00",
+        "to": "¥58.00",
+        "range": "[¥58.00 ~ ¥68.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1065360416",
+    "trackName": "BimmerLink",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1309638846,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1309638846",
+    "trackName": "Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1438243180,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1438243180",
+    "trackName": "Dark Reader for Safari",
+    "firstRecordedAt": 1726201068727
+  },
+  {
+    "trackId": 1575364575,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "¥3.00",
+        "range": "[¥3.00 ~ ¥8.00]"
+      }
+    ],
+    "price": 3,
+    "formattedPrice": "¥3.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1575364575",
+    "trackName": "Rassel - Pocket shaker",
+    "firstRecordedAt": 1769193880424
+  },
+  {
+    "trackId": 6763518834,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6763518834",
+    "trackName": "NaviBeat: Navidrome Player",
+    "firstRecordedAt": 1792319275424
+  },
+  {
+    "trackId": 6819090967,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥28.00",
+        "to": "¥22.00",
+        "range": "[¥22.00 ~ ¥28.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "¥22.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6819090967",
+    "trackName": "AWTRIX NG",
+    "firstRecordedAt": 1792600862887
+  },
+  {
+    "trackId": 6822194774,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6822194774",
+    "trackName": "TypeDraw",
+    "firstRecordedAt": 1793160762894
+  },
+  {
+    "trackId": 6834208556,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Sorapuff Pro",
+        "from": "¥45.00",
+        "to": "¥30.00",
+        "range": "[¥30.00 ~ ¥45.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6834208556",
+    "trackName": "Sorapuff: 飞行恐惧安心助手",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6816097524,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Comic Weather Full",
+        "from": "¥38.00",
+        "to": "¥22.00",
+        "range": "[¥22.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6816097524",
+    "trackName": "Comic Weather: 搞笑天气预报",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6792524904,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥32.00",
+        "to": "¥24.00",
+        "range": "[¥24.00 ~ ¥32.00]"
+      }
+    ],
+    "price": 24,
+    "formattedPrice": "¥24.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6792524904",
+    "trackName": "ScreenCommand：大屏浏览器",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6834179800,
+    "region": "cn",
+    "timestamp": 1795726836879,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Spaceclear Pro 终身",
+        "from": "¥34.00",
+        "to": "¥25.00",
+        "range": "[¥25.00 ~ ¥34.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6834179800",
+    "trackName": "Spaceclear：手机存储空间清理",
+    "firstRecordedAt": 1795494082908
+  },
+  {
     "trackId": 1464666446,
     "region": "cn",
     "timestamp": 1795694171051,
@@ -18806,7 +19053,7 @@
         "name": "Price",
         "from": "¥78.00",
         "to": "¥39.00",
-        "range": "[¥39.00 ~ ¥78.00]"
+        "range": "[¥38.00 ~ ¥78.00]"
       }
     ],
     "price": 39,

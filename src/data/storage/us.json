@@ -173603,6 +173603,14 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767329288895,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -180681,10 +180689,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750849911787,
@@ -230728,6 +230744,25 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Welcome Offer": "$9.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Holiday Thanksgiving Pack": "$1.99",
+            "Ready to Roast": "$6.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795625467723,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -266213,6 +266248,25 @@
       "Mecha Jormungand": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Corrupted Pack": "$6.99",
+            "Unlock Temperament": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,
@@ -369659,6 +369713,23 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Tower Owl": "$4.99",
+            "Hero Dalia": "$4.99",
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "Hero Osnir": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Gems Handful": "$2.99",
+            "MIX OFFER 11": "$9.99"
+          }
+        },
+        {
           "timestamp": 1795694171051,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -371855,10 +371926,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792600862887,
@@ -373635,14 +373714,24 @@
     "name": "CURSED ARSENAL: Pixel Survivor",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Unlock Full Game": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Unlock Full Game": "$4.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock Full Game": "$4.99"
+          }
+        },
         {
           "timestamp": 1795694171051,
           "price": 0,
@@ -373771,6 +373860,27 @@
             "Stock Market Add-on": "$8.49",
             "5M In-Game Cash": "$24.99"
           }
+        }
+      ]
+    ]
+  },
+  "6803754226": {
+    "name": "One Thought Immortal",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]

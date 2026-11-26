@@ -53540,10 +53540,18 @@
       "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 44,
-      "formattedPrice": "HK$ 44.00"
+      "price": 42,
+      "formattedPrice": "HK$ 42.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 42,
+          "formattedPrice": "HK$ 42.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764520263711,
@@ -82727,8 +82735,8 @@
   "948944368": {
     "name": "全屏瀏覽器 - 用得全屏才是好瀏覽器！",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "HK$ 3.00",
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
       "打賞開發者": "HK$ 8.00"
     },
     "minPriceInfo": {
@@ -82737,6 +82745,16 @@
       "打賞開發者": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "打賞開發者": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795550250676,
@@ -91260,10 +91278,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792061720856,
@@ -99678,10 +99704,21 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "CarPlay Add-On": "HK$ 88.00",
-      "BimmerLink full version": "HK$ 288.00"
+      "CarPlay Add-On": "HK$ 58.00",
+      "BimmerLink full version": "HK$ 228.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "BimmerLink full version": "HK$ 228.00",
+            "CarPlay Add-On": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -135084,6 +135121,14 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1795118369176,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -135401,6 +135446,25 @@
       "Large Tip": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Micro Tip": "HK$ 8.00",
+            "Small Tip": "HK$ 8.00",
+            "Medium Tip": "HK$ 18.00",
+            "Large Tip": "HK$ 32.00",
+            "Super Tip": "HK$ 38.00",
+            "Mega Tip": "HK$ 48.00",
+            "Super Mega Tip": "HK$ 88.00",
+            "Super Smashing Tip": "HK$ 128.00",
+            "Super Mega Smashing Tip": "HK$ 228.00",
+            "The Ultimate Tip": "HK$ 428.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794494512321,
@@ -136958,6 +137022,25 @@
       "Geometric Frame Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795550250676,
@@ -155866,6 +155949,16 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "1. Expansion": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783444419793,
           "price": 68,
           "formattedPrice": "HK$ 68.00",
@@ -157126,6 +157219,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767285341831,
@@ -164219,10 +164320,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750849911787,
@@ -178594,6 +178703,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795118369176,
@@ -212243,6 +212360,14 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787564790409,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -224902,6 +225027,25 @@
       "Special Daily Pack 1": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "All Unit Groups": "HK$ 98.00",
+            "All Heroes": "HK$ 118.00",
+            "Hero Dragon Kosmos": "HK$ 58.00",
+            "Unit Group Jaegers": "HK$ 58.00",
+            "Hero Red Dragon": "HK$ 48.00",
+            "Unit Group Rebooted Ascendii": "HK$ 22.00",
+            "Hero Red Dragon On Sale": "HK$ 32.00",
+            "Hero Zhara": "HK$ 38.00",
+            "Unit Group Planterras": "HK$ 22.00",
+            "Hero Gauntlet": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794165648967,
@@ -238115,6 +238259,14 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764433856253,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -238807,6 +238959,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794790008854,
@@ -286676,6 +286836,14 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1777472434197,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -296367,6 +296535,18 @@
       "RCS Pro (1個月)": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "RCS Pro (1個月)": "HK$ 48.00",
+            "RCS Pro (1年)": "HK$ 288.00",
+            "RCS Pro (6個月)": "HK$ 228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -310334,10 +310514,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781525626784,
@@ -313634,6 +313822,18 @@
       "「Akane」與「Koro」已解鎖！": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Koro已解鎖！": "HK$ 18.00",
+            "Akane已解鎖！": "HK$ 18.00",
+            "「Akane」與「Koro」已解鎖！": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795118369176,
@@ -317441,12 +317641,23 @@
       "Library Doctor": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
       "NaviSyncRock": "HK$ 38.00",
       "Library Doctor": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Library Doctor": "HK$ 32.00",
+            "NaviSyncRock": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -317640,10 +317851,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792600862887,
@@ -318171,14 +318390,27 @@
       "Atlantic Notebook": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
       "Sahara Notebook": "HK$ 18.00",
       "Highlands Notebook": "HK$ 18.00",
       "Bordeaux Notebook": "HK$ 18.00",
       "Atlantic Notebook": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Atlantic Notebook": "HK$ 18.00",
+            "Bordeaux Notebook": "HK$ 18.00",
+            "Highlands Notebook": "HK$ 18.00",
+            "Sahara Notebook": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793713301535,
@@ -318596,10 +318828,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794044344582,
@@ -319144,6 +319384,16 @@
     "history": [
       [
         {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Sorapuff Pro": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795476365275,
           "price": 0,
           "formattedPrice": "免費",
@@ -319176,9 +319426,20 @@
       "price": 0,
       "formattedPrice": "免費",
       "7 天免費試用": "HK$ 0.00",
-      "Comic Weather Full": "HK$ 38.00"
+      "Comic Weather Full": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7 天免費試用": "HK$ 0.00",
+            "Comic Weather Full": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -319199,10 +319460,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 28,
+      "formattedPrice": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -319223,9 +319492,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Skywall Full": "HK$ 48.00"
+      "Skywall Full": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Skywall Full": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -319416,9 +319695,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Spaceclear Pro 終身": "HK$ 58.00"
+      "Spaceclear Pro 終身": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Spaceclear Pro 終身": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,
@@ -319435,13 +319724,25 @@
     "name": "詛咒武器庫 CURSED ARSENAL：割草肉鴿",
     "maxPriceInfo": {
       "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "formattedPrice": "HK$ 38.00",
+      "解鎖完整版": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "解鎖完整版": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "解鎖完整版": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -319569,6 +319870,27 @@
             "極速維修廠（感謝回饋）": "HK$ 25.00",
             "極速維修廠": "HK$ 40.00"
           }
+        }
+      ]
+    ]
+  },
+  "6803754226": {
+    "name": "一念修仙：凡人修真",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795726836879,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
         }
       ]
     ]
