@@ -1,12 +1,15 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2469` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2472` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2472|967812288|自动|❌|Rush Rally 2|Rush Rally 2|Rush Rally 2|Rush Rally 2|Rush Rally 2|Rush Rally 2|
+|2471|6788440625|自动|七连翻助手|七连翻助手|七连翻助手|七连翻助手|七连翻助手|七连翻助手|七连翻助手|
+|2470|6828314184|自动|❌|山河策：三國戰略|山河策：三國戰略|山河策：三國戰略|ShanHe: Three Kingdoms|ShanHe: Three Kingdoms|ShanHe: Three Kingdoms|
 |2469|6837332681|自动|❌|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|❌|
 |2468|6775229702|自动|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|
 |2467|6803754226|自动|❌|一念修仙：凡人修真|一念修仙：凡人修真|一念修仙：凡人修真|One Thought Immortal|One Thought Immortal|一念修仙：凡人修真|
@@ -2206,7 +2209,7 @@
 |273|6741474933|自动|Berry胶片相机 - 韩系自拍神器|Berry底片相機 - 韓系奶霜感攝影|Berry底片相機 - 韓系奶霜感攝影|Berry底片相機 - 韓系奶霜感攝影|BerryFilm - Korean Style Cam|BerryFilm - Korean Style Cam|BerryFilm - Korean Style Cam|
 |272|6742221550|自动|魔卡棋旅|❌|❌|❌|❌|❌|❌|
 |271|6738767315|自动|便利店开业日记|❌|❌|❌|❌|❌|❌|
-|270|6737987084|自动|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|CatLight Pro: Selfie Light Cam|CatLight Pro: Selfie Light Cam|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|
+|270|6737987084|自动|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|CatLight Pro: Selfie Light Cam|CatLight Pro: Selfie Light Cam|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|
 |269|6446607609|自动|佛系传奇:君王天下|❌|❌|❌|❌|❌|❌|
 |268|6499512726|自动|浮岛冒险|❌|❌|❌|❌|❌|❌|
 |267|6483210281|自动|生物原型|❌|❌|❌|❌|❌|❌|

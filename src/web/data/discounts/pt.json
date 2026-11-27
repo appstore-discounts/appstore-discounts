@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 364876095,
+    "region": "pt",
+    "timestamp": 1795804914527,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "17,99 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 17,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id364876095",
+    "trackName": "Jump Desktop (RDP, VNC, Fluid)",
+    "firstRecordedAt": 1762763768805
+  },
+  {
+    "trackId": 443646748,
+    "region": "pt",
+    "timestamp": 1795804914527,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Fitness Buddy Premium",
+        "from": "46,99 €",
+        "to": "29,99 €",
+        "range": "[29,99 € ~ 46,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id443646748",
+    "trackName": "Fitness Amigo+",
+    "firstRecordedAt": 1788900351663
+  },
+  {
     "trackId": 596026805,
     "region": "pt",
     "timestamp": 1795762516171,
@@ -32459,7 +32499,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6737987084",
-    "trackName": "小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者",
+    "trackName": "小猫补光灯pro - 官方正版，自拍补光相机氛围灯",
     "firstRecordedAt": 1761797674362
   },
   {

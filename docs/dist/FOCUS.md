@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2469` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2472` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2472|967812288|Automatic|❌|Rush Rally 2|Rush Rally 2|Rush Rally 2|Rush Rally 2|Rush Rally 2|Rush Rally 2|
+|2471|6788440625|Automatic|七连翻助手|七连翻助手|七连翻助手|七连翻助手|七连翻助手|七连翻助手|七连翻助手|
+|2470|6828314184|Automatic|❌|山河策：三國戰略|山河策：三國戰略|山河策：三國戰略|ShanHe: Three Kingdoms|ShanHe: Three Kingdoms|ShanHe: Three Kingdoms|
 |2469|6837332681|Automatic|❌|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|❌|
 |2468|6775229702|Automatic|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|
 |2467|6803754226|Automatic|❌|一念修仙：凡人修真|一念修仙：凡人修真|一念修仙：凡人修真|One Thought Immortal|One Thought Immortal|一念修仙：凡人修真|
@@ -2206,7 +2209,7 @@ So far, we've covered `7` `Countries or Regions` and  `2469` `Apps` <br />Push n
 |273|6741474933|Automatic|Berry胶片相机 - 韩系自拍神器|Berry底片相機 - 韓系奶霜感攝影|Berry底片相機 - 韓系奶霜感攝影|Berry底片相機 - 韓系奶霜感攝影|BerryFilm - Korean Style Cam|BerryFilm - Korean Style Cam|BerryFilm - Korean Style Cam|
 |272|6742221550|Automatic|魔卡棋旅|❌|❌|❌|❌|❌|❌|
 |271|6738767315|Automatic|便利店开业日记|❌|❌|❌|❌|❌|❌|
-|270|6737987084|Automatic|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|CatLight Pro: Selfie Light Cam|CatLight Pro: Selfie Light Cam|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|
+|270|6737987084|Automatic|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|CatLight Pro: Selfie Light Cam|CatLight Pro: Selfie Light Cam|小猫补光灯pro - 官方正版，自拍补光相机氛围灯|
 |269|6446607609|Automatic|佛系传奇:君王天下|❌|❌|❌|❌|❌|❌|
 |268|6499512726|Automatic|浮岛冒险|❌|❌|❌|❌|❌|❌|
 |267|6483210281|Automatic|生物原型|❌|❌|❌|❌|❌|❌|

@@ -6968,6 +6968,14 @@
     "history": [
       [
         {
+          "timestamp": 1795804914527,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767320023055,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -13911,6 +13919,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795804914527,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Premium": "43,99 €",
+            "Fitness Buddy Premium": "29,99 €"
+          }
+        },
         {
           "timestamp": 1795762516171,
           "price": 3.99,
@@ -45282,6 +45299,27 @@
           "timestamp": 1784995437022,
           "price": 22.99,
           "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "967812288": {
+    "name": "Rush Rally 2",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -130947,7 +130985,7 @@
     ]
   },
   "6737987084": {
-    "name": "小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者",
+    "name": "小猫补光灯pro - 官方正版，自拍补光相机氛围灯",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -160277,6 +160315,48 @@
           "inAppPurchases": {
             "Extra Love": "4,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6788440625": {
+    "name": "七连翻助手",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828314184": {
+    "name": "ShanHe: Three Kingdoms",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

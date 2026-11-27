@@ -17719,6 +17719,14 @@
     "history": [
       [
         {
+          "timestamp": 1795804914527,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767329288895,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -66652,6 +66660,23 @@
     "history": [
       [
         {
+          "timestamp": 1795804914527,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99"
+          }
+        },
+        {
           "timestamp": 1795762516171,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -101157,6 +101182,27 @@
           "timestamp": 1784995437022,
           "price": 19.99,
           "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "967812288": {
+    "name": "Rush Rally 2",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]
@@ -230860,6 +230906,23 @@
     "history": [
       [
         {
+          "timestamp": 1795804914527,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Holiday Thanksgiving Pack": "$1.99",
+            "Welcome Offer": "$9.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Fun & Games Games Mix Pack 1": "$1.99"
+          }
+        },
+        {
           "timestamp": 1795762516171,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -246796,6 +246859,25 @@
       "Retro Rammers Car Pack": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$10.99",
+            "Content Bundle 2": "$8.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Reckless Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -311964,6 +312046,25 @@
     "history": [
       [
         {
+          "timestamp": 1795804914527,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795494082908,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -374161,14 +374262,22 @@
   "6828326158": {
     "name": "Diamond YEARS",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795625467723,
@@ -374315,6 +374424,48 @@
           "inAppPurchases": {
             "Extra Love": "$4.99"
           }
+        }
+      ]
+    ]
+  },
+  "6788440625": {
+    "name": "七连翻助手",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828314184": {
+    "name": "ShanHe: Three Kingdoms",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795804914527,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
         }
       ]
     ]
