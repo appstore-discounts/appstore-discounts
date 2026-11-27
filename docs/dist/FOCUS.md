@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2467` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2469` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2469|6837332681|Automatic|❌|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|❌|
+|2468|6775229702|Automatic|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|
 |2467|6803754226|Automatic|❌|一念修仙：凡人修真|一念修仙：凡人修真|一念修仙：凡人修真|One Thought Immortal|One Thought Immortal|一念修仙：凡人修真|
 |2466|966245474|Automatic|❌|Through the Ages|Through the Ages|Through the Ages|Through the Ages|Through the Ages|Through the Ages|
 |2465|1420356569|Automatic|APlayer - Alook 播放器|APlayer - Alook 播放器|APlayer - Alook 播放器|APlayer - Alook 播放器|APlayer - Alook Media Player|APlayer - Alook Media Player|APlayer - Reprodutor Alook|
@@ -21,7 +23,7 @@ So far, we've covered `7` `Countries or Regions` and  `2467` `Apps` <br />Push n
 |2456|593958503|Automatic|❌|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|
 |2455|1518385711|Automatic|❌|Mindcell|Mindcell|Mindcell|Mindcell|Mindcell|❌|
 |2454|6754688764|Automatic|❌|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|Shiren: Serpentcoil Island|Shiren: Serpentcoil Island|不思議のダンジョン 風来のシレン6plus|
-|2453|6800287771|Automatic|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|
+|2453|6800287771|Automatic|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索ハクスラRPG|Crownfall：自動探索ハクスラRPG|Crownfall：自動探索ハクスラRPG|
 |2452|590278208|Automatic|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
 |2451|525117691|Automatic|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|
 |2450|6817336623|Automatic|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|
@@ -420,7 +422,7 @@ So far, we've covered `7` `Countries or Regions` and  `2467` `Apps` <br />Push n
 |2057|1193760955|Automatic|百怪千奇野兽园 - Tinybop出品|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Creature Garden by Tinybop|Creature Garden by Tinybop|O Jardim das Criaturas|
 |2056|394199597|Automatic|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|
 |2055|576216365|Automatic|妞妞12345|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|Math Animations Pro|Maths Animations Pro|Animações de Matemática Pro|
-|2054|6777231093|Automatic|❌|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|
+|2054|6777231093|Automatic|❌|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|
 |2053|1464501334|Automatic|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|
 |2052|1529092958|Automatic|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
 |2051|6760948683|Automatic|❌|Digline：療癒挖礦|Digline：療癒挖礦|Digline：療癒挖礦|Digline: Cozy Mining|Digline: Cosy Mining|Digline: Mineração Relaxante|

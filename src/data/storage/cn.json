@@ -242,13 +242,28 @@
     "name": "Airports",
     "maxPriceInfo": {
       "price": 88,
-      "formattedPrice": "¥88.00"
+      "formattedPrice": "¥88.00",
+      "Airports Pro Yearly": "¥168.00",
+      "Airports Pro Monthly": "¥22.00"
     },
     "minPriceInfo": {
       "price": 58,
-      "formattedPrice": "¥58.00"
+      "formattedPrice": "¥58.00",
+      "Airports Pro Yearly": "¥168.00",
+      "Airports Pro Monthly": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Airports Pro Yearly": "¥168.00",
+            "Airports Pro Monthly": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -80333,6 +80348,25 @@
       "伊芙琳.坎贝尔礼包": "¥50.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "周卡": "¥12.00",
+            "少量信用点": "¥6.00",
+            "大月卡": "¥45.00",
+            "小月卡": "¥25.00",
+            "中等信用点": "¥12.00",
+            "福利升级": "¥6.00",
+            "超多信用点": "¥50.00",
+            "大量信用点": "¥25.00",
+            "海量信用点": "¥108.00",
+            "超级多信用点": "¥258.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794372778825,
@@ -231779,6 +231813,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 29,
+          "formattedPrice": "¥29.00",
+          "inAppPurchases": {
+            "《沙石镇时光》美好时光与怪兽萌宠合集包": "¥14.00",
+            "《沙石镇时光》肥尾守宫宠物包": "¥3.00",
+            "DLC-家具合集包": "¥10.00",
+            "手游DLC-工坊主泳装礼服合集包": "¥5.00",
+            "DLC超值合集包": "¥56.00",
+            "《沙石镇时光》DLC-暖意泳装礼包合集": "¥12.00",
+            "DLC-星光礼服礼包合集": "¥12.00",
+            "《沙石镇时光》怪兽萌宠": "¥10.00",
+            "沙石镇时光恋爱时光DLC": "¥10.00",
+            "DLC-雅致家具包": "¥5.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795397093932,
           "price": 26,
           "formattedPrice": "¥26.00",
@@ -244658,6 +244711,31 @@
           "price": 48,
           "formattedPrice": "¥48.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775229702": {
+    "name": "ListenBrief: ListenBrainz View",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00",
+      "Extra Love": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00",
+      "Extra Love": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Extra Love": "¥28.00"
+          }
         }
       ]
     ]

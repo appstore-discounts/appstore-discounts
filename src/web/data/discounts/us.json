@@ -1,5 +1,412 @@
 [
   {
+    "trackId": 596026805,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$5.49",
+        "range": "[$5.49 ~ $10.99]"
+      }
+    ],
+    "price": 5.49,
+    "formattedPrice": "$5.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id596026805",
+    "trackName": "PhotoPills",
+    "firstRecordedAt": 1745528534252
+  },
+  {
+    "trackId": 1005098334,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1005098334",
+    "trackName": "Human Resource Machine",
+    "firstRecordedAt": 1792061720856
+  },
+  {
+    "trackId": 1065360416,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "BimmerLink full version",
+        "from": "$39.99",
+        "to": "$29.99",
+        "range": "[$29.99 ~ $44.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "CarPlay Add-On",
+        "from": "$9.99",
+        "to": "$7.99",
+        "range": "[$7.99 ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1065360416",
+    "trackName": "BimmerLink",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1309638846,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1309638846",
+    "trackName": "Vintage Camera - Goodak",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1434690170,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $8.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1434690170",
+    "trackName": "Power Grid Boardgame",
+    "firstRecordedAt": 1763281915332
+  },
+  {
+    "trackId": 1575364575,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $0.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1575364575",
+    "trackName": "Rassel - Pocket shaker",
+    "firstRecordedAt": 1769193880424
+  },
+  {
+    "trackId": 1620202676,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1620202676",
+    "trackName": "Iron Marines Invasion RTS Game",
+    "firstRecordedAt": 1771447813830
+  },
+  {
+    "trackId": 1659903900,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1659903900",
+    "trackName": "Super Mega Lucky Box",
+    "firstRecordedAt": 1748402466218
+  },
+  {
+    "trackId": 6503088710,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $9.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6503088710",
+    "trackName": "World of Goo 2",
+    "firstRecordedAt": 1746874928144
+  },
+  {
+    "trackId": 6738282698,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6738282698",
+    "trackName": "RCS - Real Combat Simulator",
+    "firstRecordedAt": 1760256857343
+  },
+  {
+    "trackId": 6476489377,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6476489377",
+    "trackName": "Clever Mixed",
+    "firstRecordedAt": 1781525626784
+  },
+  {
+    "trackId": 6786115854,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$5.99",
+        "range": "[$4.99 ~ $9.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "$5.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
+    "trackId": 6763518834,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $5.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6763518834",
+    "trackName": "NaviBeat: Navidrome Player",
+    "firstRecordedAt": 1792319275424
+  },
+  {
+    "trackId": 6822194774,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6822194774",
+    "trackName": "TypeDraw",
+    "firstRecordedAt": 1793160762894
+  },
+  {
+    "trackId": 6828960722,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6828960722",
+    "trackName": "Grounds Up: Business Tycoon",
+    "firstRecordedAt": 1794044344582
+  },
+  {
+    "trackId": 6834208556,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Sorapuff Pro",
+        "from": "$14.99",
+        "to": "$9.99",
+        "range": "[$9.99 ~ $14.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6834208556",
+    "trackName": "Sorapuff: Fear of Flying Help",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6816097524,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Comic Weather Full",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6816097524",
+    "trackName": "Comic Weather: Funny Forecast",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6792524904,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.69",
+        "range": "[$3.69 ~ $4.99]"
+      }
+    ],
+    "price": 3.69,
+    "formattedPrice": "$3.69",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6792524904",
+    "trackName": "ScreenCommand: TV Web Browser",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6822285409,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Skywall Full",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $5.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6822285409",
+    "trackName": "Skywall: Multiview Live TV",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6834179800,
+    "region": "us",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Spaceclear Pro Lifetime",
+        "from": "$7.99",
+        "to": "$5.99",
+        "range": "[$5.99 ~ $7.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6834179800",
+    "trackName": "Spaceclear: Phone Cleaner",
+    "firstRecordedAt": 1795494082908
+  },
+  {
     "trackId": 1438243180,
     "region": "us",
     "timestamp": 1795726836879,
@@ -28112,7 +28519,7 @@
         "name": "BimmerLink full version",
         "from": "$44.99",
         "to": "$39.99",
-        "range": "[$39.99 ~ $44.99]"
+        "range": "[$29.99 ~ $44.99]"
       }
     ],
     "price": 39.99,

@@ -326,13 +326,28 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 390,
-      "formattedPrice": "$390.00"
+      "formattedPrice": "$390.00",
+      "Airports Pro Yearly": "$790.00",
+      "Airports Pro Monthly": "$90.00"
     },
     "minPriceInfo": {
       "price": 290,
-      "formattedPrice": "$290.00"
+      "formattedPrice": "$290.00",
+      "Airports Pro Yearly": "$790.00",
+      "Airports Pro Monthly": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {
+            "Airports Pro Yearly": "$790.00",
+            "Airports Pro Monthly": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -195227,6 +195242,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Prime Gemma 2500": "$355.00",
+            "Master Offer Sale": "$180.00",
+            "Starter Package": "$89.00",
+            "Hunter Package": "$125.00",
+            "Elite Offer": "$125.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Master Package": "$245.00",
+            "Prime Dimension DLC": "$125.00",
+            "Prime Gemma 5000": "$710.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795625467723,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -249078,6 +249112,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "群雄爭霸": "$90.00",
+            "楚漢爭霸": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "終身版": "$220.00",
+            "巾幗綻芳華": "$120.00",
+            "無雙戰神": "$190.00",
+            "重振漢室": "$90.00",
+            "自創寶物": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795579033340,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -273894,8 +273947,8 @@
     "trackName": "Overwinter Survival",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 50,
-      "formattedPrice": "$50.00",
+      "price": 60,
+      "formattedPrice": "$60.00",
       "Elite Pack": "$290.00",
       "Premium Pack": "$150.00",
       "Advanced Pack": "$90.00",
@@ -273910,6 +273963,19 @@
       "Standard Pack": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Elite Pack": "$150.00",
+            "Premium Pack": "$120.00",
+            "Advanced Pack": "$60.00",
+            "Standard Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -328167,7 +328233,7 @@
   },
   "6777231093": {
     "trackId": 6777231093,
-    "trackName": "Patrol Officer",
+    "trackName": "Road Duty: Traffic Police Sim",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -337870,6 +337936,56 @@
           "price": 90,
           "formattedPrice": "$90.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6837332681": {
+    "trackId": 6837332681,
+    "trackName": "知識勇者：國小英文數學國語闖關",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775229702": {
+    "trackId": 6775229702,
+    "trackName": "ListenBrief: ListenBrainz View",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Extra Love": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Extra Love": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Extra Love": "$120.00"
+          }
         }
       ]
     ]

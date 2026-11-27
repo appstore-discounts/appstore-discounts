@@ -363,13 +363,28 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 98,
-      "formattedPrice": "HK$ 98.00"
+      "formattedPrice": "HK$ 98.00",
+      "Airports Pro Yearly": "HK$ 188.00",
+      "Airports Pro Monthly": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 68,
-      "formattedPrice": "HK$ 68.00"
+      "formattedPrice": "HK$ 68.00",
+      "Airports Pro Yearly": "HK$ 188.00",
+      "Airports Pro Monthly": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {
+            "Airports Pro Yearly": "HK$ 188.00",
+            "Airports Pro Monthly": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -20180,6 +20195,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "HK$ 32.00",
+            "Birth Chart Report - Untimed": "HK$ 22.00",
+            "Birthday Report": "HK$ 32.00",
+            "Child Report - Full": "HK$ 32.00",
+            "Child Report - Untimed": "HK$ 22.00",
+            "My Pet Report": "HK$ 18.00",
+            "Predictive Report - Full": "HK$ 32.00",
+            "Predictive Report - No Background": "HK$ 22.00",
+            "Predictive Report - Untimed": "HK$ 22.00",
+            "Relationship Report": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794112817031,
           "price": 0,
           "formattedPrice": "免費",
@@ -23036,6 +23070,25 @@
       "Transistor Bass": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "HK$ 8.00",
+            "Acoustic Guitars": "HK$ 8.00",
+            "Sliced Beats": "HK$ 8.00",
+            "Essential Strings": "HK$ 18.00",
+            "Hyper-Pop Mobile": "HK$ 22.00",
+            "Amped Guitar & Bass": "HK$ 22.00",
+            "Brazil Bass": "HK$ 18.00",
+            "Ferrous Mobile": "HK$ 22.00",
+            "Voices": "HK$ 8.00",
+            "Varazdin Orchestral Mobile": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795579033340,
@@ -35041,6 +35094,19 @@
       "礼包50币": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "礼包5币": "HK$ 8.00",
+            "礼包15币": "HK$ 18.00",
+            "礼包25币": "HK$ 48.00",
+            "礼包50币": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792412125162,
@@ -71222,6 +71288,25 @@
       "$50 Credit": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00",
+            "$20 Credit": "HK$ 148.00",
+            "3 Mo. Global Texting": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795579033340,
@@ -137232,6 +137317,22 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "HK$ 8.00",
+            "Power Builder (monthly)": "HK$ 23.00",
+            "Micro Tip": "HK$ 8.00",
+            "Power Builder (yearly)": "HK$ 203.00",
+            "Mega Tip": "HK$ 48.00",
+            "Medium Tip": "HK$ 18.00",
+            "Small Tip": "HK$ 8.00",
+            "Super Mega Smashing Tip": "HK$ 228.00",
+            "Super Mega Tip": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1795726836879,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -167034,6 +167135,25 @@
       "禮包1": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "禮包2": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -249117,6 +249237,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "重振漢室": "HK$ 22.00",
+            "自創武將": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "無雙戰神": "HK$ 48.00",
+            "鎮海神威": "HK$ 22.00",
+            "自創地圖": "HK$ 32.00",
+            "巾幗綻芳華": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794825673547,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -261210,6 +261349,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "聖誕夜": "HK$ 9.00",
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "2025春さくらスキン": "HK$ 2.00",
+            "星降之夜": "HK$ 9.00",
+            "新年日出": "HK$ 9.00",
+            "花火大會": "HK$ 9.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "夏日庭院": "HK$ 6.00",
+            "萬聖派對": "HK$ 9.00",
+            "夏色クリームソーダ": "HK$ 6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795579033340,
           "price": 15,
           "formattedPrice": "HK$ 15.00",
@@ -269671,8 +269829,8 @@
     "trackName": "Overwinter Survival",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
       "Elite Pack": "HK$ 58.00",
       "Premium Pack": "HK$ 38.00",
       "Advanced Pack": "HK$ 22.00",
@@ -269687,6 +269845,19 @@
       "Standard Pack": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Elite Pack": "HK$ 38.00",
+            "Premium Pack": "HK$ 32.00",
+            "Advanced Pack": "HK$ 18.00",
+            "Standard Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791114629972,
@@ -310684,6 +310855,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "深淵開拓者": "HK$ 88.00",
+            "魔界擴充通行證": "HK$ 48.00",
+            "新的統治者": "HK$ 48.00",
+            "尼奧貝希摩斯": "HK$ 18.00",
+            "婚禮造型套裝": "HK$ 88.00",
+            "隱月造型套裝": "HK$ 88.00",
+            "超越精華": "HK$ 228.00",
+            "永恆方舟": "HK$ 228.00",
+            "時間旅行者": "HK$ 48.00",
+            "魔界通行證1": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795550250676,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -314629,7 +314819,7 @@
   },
   "6777231093": {
     "trackId": 6777231093,
-    "trackName": "Patrol Officer",
+    "trackName": "Road Duty: Traffic Police Sim",
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
@@ -319338,6 +319528,25 @@
       "付費角色・雲虛": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・艾洛溫": "HK$ 8.00",
+            "付費角色・雲虛": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "組合・光之騎士團": "HK$ 88.00",
+            "服裝 · 萬聖節套組 2": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -324539,6 +324748,56 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6837332681": {
+    "trackId": 6837332681,
+    "trackName": "知識勇者：國小英文數學國語闖關",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775229702": {
+    "trackId": 6775229702,
+    "trackName": "ListenBrief: ListenBrainz View",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "Extra Love": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "Extra Love": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Extra Love": "HK$ 32.00"
+          }
         }
       ]
     ]

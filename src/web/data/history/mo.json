@@ -363,13 +363,28 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 12.99,
-      "formattedPrice": "USD 12.99"
+      "formattedPrice": "USD 12.99",
+      "Airports Pro Yearly": "USD 24.99",
+      "Airports Pro Monthly": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "formattedPrice": "USD 8.99",
+      "Airports Pro Yearly": "USD 24.99",
+      "Airports Pro Monthly": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {
+            "Airports Pro Yearly": "USD 24.99",
+            "Airports Pro Monthly": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -36192,6 +36207,24 @@
       "異星晶擴充包": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "解鎖全部基因": "USD 7.99",
+            "Necroa病毒擴展包": "USD 1.99",
+            "瘟疫配套": "USD 10.99",
+            "Neurax蠕蟲擴展包": "USD 1.99",
+            "解鎖七個基礎病原體": "USD 2.99",
+            "解開作弊模式": "USD 9.99",
+            "猿猴流感擴充包": "USD 1.99",
+            "場景包": "USD 2.99",
+            "紅魔瘟疫擴展包": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -191735,8 +191768,8 @@
     "trackName": "Overwinter Survival",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "Elite Pack": "USD 7.99",
       "Premium Pack": "USD 4.99",
       "Advanced Pack": "USD 2.99",
@@ -191751,6 +191784,19 @@
       "Standard Pack": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Elite Pack": "USD 4.99",
+            "Premium Pack": "USD 3.99",
+            "Advanced Pack": "USD 1.99",
+            "Standard Pack": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791114629972,
@@ -220786,7 +220832,7 @@
   },
   "6777231093": {
     "trackId": 6777231093,
-    "trackName": "Patrol Officer",
+    "trackName": "Road Duty: Traffic Police Sim",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -229478,6 +229524,56 @@
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6837332681": {
+    "trackId": 6837332681,
+    "trackName": "知識勇者：國小英文數學國語闖關",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775229702": {
+    "trackId": 6775229702,
+    "trackName": "ListenBrief: ListenBrainz View",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
+      "Extra Love": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
+      "Extra Love": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Extra Love": "USD 3.99"
+          }
         }
       ]
     ]

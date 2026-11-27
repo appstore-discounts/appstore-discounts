@@ -558,13 +558,28 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 699.99,
-      "formattedPrice": "₺699,99"
+      "formattedPrice": "₺699,99",
+      "Airports Pro Yearly": "₺1.299,99",
+      "Airports Pro Monthly": "₺149,99"
     },
     "minPriceInfo": {
       "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "formattedPrice": "₺399,99",
+      "Airports Pro Yearly": "₺1.299,99",
+      "Airports Pro Monthly": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "Airports Pro Yearly": "₺1.299,99",
+            "Airports Pro Monthly": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -59321,6 +59336,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764556138236,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -95924,10 +95947,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792061720856,
@@ -101375,9 +101406,20 @@
       "price": 0,
       "formattedPrice": "Free",
       "CarPlay Add-On": "₺399,99",
-      "BimmerLink full version": "₺1.999,99"
+      "BimmerLink full version": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "BimmerLink full version": "₺1.499,99",
+            "CarPlay Add-On": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771232335229,
@@ -110328,6 +110370,25 @@
       "Skywarden Unlock Pack": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺149,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺249,99",
+            "Pile O Monkey Money": "₺249,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Extra Monkey Money": "₺99,99",
+            "Paragon Unlock": "₺249,99",
+            "Double Cash Mode": "₺399,99",
+            "Tower and Paragon Unlock": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -140042,6 +140103,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1795140089529,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -142018,6 +142087,25 @@
       "Upgrade Deluxe Edition": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Design Frame Package": "₺49,99",
+            "Social Frame Package": "₺49,99",
+            "Magazine Frame Package": "₺49,99",
+            "Black Frame Pack": "₺49,99",
+            "Geometric Frame Pack": "₺49,99",
+            "Stamp Frame Pack": "₺49,99",
+            "Retro Frame Pack": "₺49,99",
+            "Stroke Frame Pack": "₺49,99",
+            "Color Frame Pack": "₺49,99",
+            "Upgrade Deluxe Edition": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795579033340,
@@ -153484,6 +153572,16 @@
       "1. Expansion": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "1. Expansion": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783434755140,
@@ -168432,6 +168530,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795140089529,
@@ -191715,7 +191821,8 @@
       "Ascensio Kit": "₺249,99",
       "Starter Offer Sale": "₺99,99",
       "Hunter Offer Sale": "₺249,99",
-      "Master Offer Sale": "₺499,99"
+      "Master Offer Sale": "₺499,99",
+      "Elite Offer": "₺109,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -191744,9 +191851,29 @@
       "Ascensio Kit": "₺80,99",
       "Starter Offer Sale": "₺31,99",
       "Hunter Offer Sale": "₺80,99",
-      "Master Offer Sale": "₺159,99"
+      "Master Offer Sale": "₺159,99",
+      "Elite Offer": "₺109,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Elite Offer": "₺109,99",
+            "Master Offer Sale": "₺159,99",
+            "Prime Gemma 500": "₺80,99",
+            "Prime gemma 100": "₺15,99",
+            "Tamer Kit": "₺15,99",
+            "Starter Package": "₺80,99",
+            "Master Package": "₺219,99",
+            "Evoker Kit": "₺15,99",
+            "Hunter Package": "₺109,99",
+            "Spray kit": "₺80,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -215201,6 +215328,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787564790409,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -227887,6 +228022,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Hero Dragon Kosmos": "₺399,99",
+            "All Unit Groups": "₺699,99",
+            "Hero Red Dragon On Sale": "₺199,99",
+            "All Heroes": "₺799,99",
+            "Unit Group Rebooted Ascendii": "₺149,99",
+            "Unit Group Jaegers": "₺399,99",
+            "Hero Dragon Kosmos On Sale": "₺249,99",
+            "Hero Red Dragon": "₺299,99",
+            "Unit Group Ascendii On Sale": "₺49,99",
+            "Special Daily Pack7": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794184452646,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -237887,6 +238041,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764469234125,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -238497,6 +238659,14 @@
       "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794790008854,
@@ -241529,6 +241699,25 @@
       "Weapon Upgrade Ticket x1 (E)": "₺41,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Separate Ways": "₺349,00",
+            "Extra DLC Pack": "₺769,00",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Attaché Case: 'Classic'": "₺35,99",
+            "Weapon Upgrade Ticket x3 (B)": "₺254,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795374324087,
@@ -258435,6 +258624,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795762516171,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 737": "₺49,99",
+            "Airbus A350-1000": "₺199,99"
+          }
+        },
         {
           "timestamp": 1795726836879,
           "price": 199.99,
@@ -280937,6 +281143,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1777503718910,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -289948,6 +290162,18 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "RCS Pro (1 month)": "₺249,99",
+            "RCS Pro (1 year)": "₺1.799,99",
+            "RCS Pro (6 months)": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1764641127012,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -292996,6 +293222,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 ticket": "₺19,99",
+            "15 gold": "₺29,99",
+            "5 gold": "₺19,99",
+            "sonsuz paket": "₺249,99",
+            "30000 money": "₺19,99",
+            "15 ticket": "₺29,99",
+            "porches": "₺49,99",
+            "50 gold": "₺99,99",
+            "10 gold": "₺29,99"
+          }
+        },
         {
           "timestamp": 1795726836879,
           "price": 0,
@@ -304964,7 +305207,7 @@
   },
   "6777231093": {
     "trackId": 6777231093,
-    "trackName": "Patrol Officer",
+    "trackName": "Road Duty: Traffic Police Sim",
     "region": "tr",
     "maxPriceInfo": {
       "price": 9.99,
@@ -305033,10 +305276,18 @@
       "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781525626784,
@@ -308356,6 +308607,18 @@
       "Unlocked! “Akane” & “Koro”": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Koro Unlocked!": "₺99,99",
+            "Akane Unlocked!": "₺99,99",
+            "Unlocked! “Akane” & “Koro”": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795140089529,
@@ -311961,6 +312224,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1795694171051,
           "price": 2.99,
           "formattedPrice": "₺2,99",
@@ -312749,12 +313020,23 @@
       "Library Doctor": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
       "NaviSyncRock": "₺249,99",
       "Library Doctor": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Library Doctor": "₺199,99",
+            "NaviSyncRock": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -313492,14 +313774,27 @@
       "Atlantic Notebook": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "Sahara Notebook": "₺99,99",
       "Highlands Notebook": "₺99,99",
       "Bordeaux Notebook": "₺99,99",
       "Atlantic Notebook": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Atlantic Notebook": "₺99,99",
+            "Sahara Notebook": "₺99,99",
+            "Highlands Notebook": "₺99,99",
+            "Bordeaux Notebook": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793713301535,
@@ -314008,10 +314303,18 @@
       "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794044344582,
@@ -314611,9 +314914,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Sorapuff Pro": "₺349,99"
+      "Sorapuff Pro": "₺234,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Sorapuff Pro": "₺234,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -314640,9 +314953,20 @@
       "price": 0,
       "formattedPrice": "Free",
       "Free 7-day Trial": "₺0,00",
-      "Comic Weather Full": "₺129,99"
+      "Comic Weather Full": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Free 7-day Trial": "₺0,00",
+            "Comic Weather Full": "₺79,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -314665,10 +314989,18 @@
       "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -314691,9 +315023,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Skywall Full": "₺99,99"
+      "Skywall Full": "₺69,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Skywall Full": "₺69,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -314823,7 +315165,7 @@
   },
   "6800287771": {
     "trackId": 6800287771,
-    "trackName": "クラウンフォール：自動探索ハクスラRPG",
+    "trackName": "Crownfall：自動探索ハクスラRPG",
     "region": "tr",
     "maxPriceInfo": {
       "price": 149.99,
@@ -314902,9 +315244,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Spaceclear Pro Lifetime": "₺129,99"
+      "Spaceclear Pro Lifetime": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Spaceclear Pro Lifetime": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,
@@ -315102,6 +315454,56 @@
           "price": 149.99,
           "formattedPrice": "₺149,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6837332681": {
+    "trackId": 6837332681,
+    "trackName": "知識勇者：國小英文數學國語闖關",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775229702": {
+    "trackId": 6775229702,
+    "trackName": "ListenBrief: ListenBrainz View",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "Extra Love": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "Extra Love": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Extra Love": "₺199,99"
+          }
         }
       ]
     ]

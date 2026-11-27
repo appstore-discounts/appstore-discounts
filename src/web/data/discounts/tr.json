@@ -1,5 +1,412 @@
 [
   {
+    "trackId": 596026805,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺599,99",
+        "to": "₺299,99",
+        "range": "[₺299,99 ~ ₺599,99]"
+      }
+    ],
+    "price": 299.99,
+    "formattedPrice": "₺299,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id596026805",
+    "trackName": "PhotoPills",
+    "firstRecordedAt": 1745528534252
+  },
+  {
+    "trackId": 1005098334,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1005098334",
+    "trackName": "Human Resource Machine",
+    "firstRecordedAt": 1792061720856
+  },
+  {
+    "trackId": 1065360416,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "BimmerLink full version",
+        "from": "₺1.999,99",
+        "to": "₺1.499,99",
+        "range": "[₺1.499,99 ~ ₺2.499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "CarPlay Add-On",
+        "from": "₺499,99",
+        "to": "₺399,99",
+        "range": "[₺399,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1065360416",
+    "trackName": "BimmerLink",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1309638846,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺29,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1309638846",
+    "trackName": "Vintage Camera - Goodak",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 1434690170,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1434690170",
+    "trackName": "Power Grid Boardgame",
+    "firstRecordedAt": 1763281915332
+  },
+  {
+    "trackId": 1575364575,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "₺29,99",
+        "range": "[₺29,99 ~ ₺49,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1575364575",
+    "trackName": "Rassel - Pocket shaker",
+    "firstRecordedAt": 1769193880424
+  },
+  {
+    "trackId": 1620202676,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1620202676",
+    "trackName": "Iron Marines Invasion RTS Game",
+    "firstRecordedAt": 1771447813830
+  },
+  {
+    "trackId": 1659903900,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺39,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1659903900",
+    "trackName": "Super Mega Lucky Box",
+    "firstRecordedAt": 1748402466218
+  },
+  {
+    "trackId": 6503088710,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺399,99",
+        "range": "[₺349,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6503088710",
+    "trackName": "World of Goo 2",
+    "firstRecordedAt": 1746874928144
+  },
+  {
+    "trackId": 6738282698,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6738282698",
+    "trackName": "RCS - Real Combat Simulator",
+    "firstRecordedAt": 1760256857343
+  },
+  {
+    "trackId": 6476489377,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6476489377",
+    "trackName": "Clever Mixed",
+    "firstRecordedAt": 1781525626784
+  },
+  {
+    "trackId": 6786115854,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺299,99",
+        "range": "[₺249,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 299.99,
+    "formattedPrice": "₺299,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6786115854",
+    "trackName": "No More Slimes!!: Idle Action",
+    "firstRecordedAt": 1787838577561
+  },
+  {
+    "trackId": 6763518834,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6763518834",
+    "trackName": "NaviBeat: Navidrome Player",
+    "firstRecordedAt": 1792319275424
+  },
+  {
+    "trackId": 6822194774,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6822194774",
+    "trackName": "TypeDraw",
+    "firstRecordedAt": 1793160762894
+  },
+  {
+    "trackId": 6828960722,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6828960722",
+    "trackName": "Grounds Up: Business Tycoon",
+    "firstRecordedAt": 1794044344582
+  },
+  {
+    "trackId": 6834208556,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Sorapuff Pro",
+        "from": "₺349,99",
+        "to": "₺234,99",
+        "range": "[₺234,99 ~ ₺349,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6834208556",
+    "trackName": "Sorapuff: Fear of Flying Help",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6816097524,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Comic Weather Full",
+        "from": "₺129,99",
+        "to": "₺79,99",
+        "range": "[₺79,99 ~ ₺129,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6816097524",
+    "trackName": "Comic Weather: Funny Forecast",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6792524904,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6792524904",
+    "trackName": "ScreenCommand: TV Web Browser",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6822285409,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Skywall Full",
+        "from": "₺99,99",
+        "to": "₺69,99",
+        "range": "[₺69,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6822285409",
+    "trackName": "Skywall: Multiview Live TV",
+    "firstRecordedAt": 1794977944693
+  },
+  {
+    "trackId": 6834179800,
+    "region": "tr",
+    "timestamp": 1795762516171,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Spaceclear Pro Lifetime",
+        "from": "₺129,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺129,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6834179800",
+    "trackName": "Spaceclear: Phone Cleaner",
+    "firstRecordedAt": 1795494082908
+  },
+  {
     "trackId": 1438243180,
     "region": "tr",
     "timestamp": 1795726836879,
@@ -16838,7 +17245,7 @@
     "formattedPrice": "₺5,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6777231093",
-    "trackName": "Patrol Officer",
+    "trackName": "Road Duty: Traffic Police Sim",
     "firstRecordedAt": 1781388259761
   },
   {
@@ -28716,7 +29123,7 @@
         "name": "BimmerLink full version",
         "from": "₺2.499,99",
         "to": "₺1.999,99",
-        "range": "[₺1.999,99 ~ ₺2.499,99]"
+        "range": "[₺1.499,99 ~ ₺2.499,99]"
       }
     ],
     "price": 1999.99,

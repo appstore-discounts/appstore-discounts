@@ -649,13 +649,28 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 12.99,
-      "formattedPrice": "$12.99"
+      "formattedPrice": "$12.99",
+      "Airports Pro Yearly": "$24.99",
+      "Airports Pro Monthly": "$2.99"
     },
     "minPriceInfo": {
       "price": 8.99,
-      "formattedPrice": "$8.99"
+      "formattedPrice": "$8.99",
+      "Airports Pro Yearly": "$24.99",
+      "Airports Pro Monthly": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {
+            "Airports Pro Yearly": "$24.99",
+            "Airports Pro Monthly": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -58648,6 +58663,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 5.49,
+          "formattedPrice": "$5.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764564837208,
           "price": 10.99,
           "formattedPrice": "$10.99",
@@ -67419,6 +67442,25 @@
       "Toyota 2018 Enhanced": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795579033340,
@@ -96152,8 +96194,8 @@
     "trackName": "iBrowser - Full Screen Browser",
     "region": "us",
     "maxPriceInfo": {
-      "price": 0.89,
-      "formattedPrice": "$0.89",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "Reward developers": "$0.99"
     },
     "minPriceInfo": {
@@ -96162,6 +96204,16 @@
       "Reward developers": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Reward developers": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795550250676,
@@ -105879,10 +105931,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792061720856,
@@ -115429,9 +115489,20 @@
       "price": 0,
       "formattedPrice": "Free",
       "CarPlay Add-On": "$7.99",
-      "BimmerLink full version": "$39.99"
+      "BimmerLink full version": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "BimmerLink full version": "$29.99",
+            "CarPlay Add-On": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771232335229,
@@ -153978,6 +154049,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1795172225067,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -156185,6 +156264,25 @@
       "Geometric Frame Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795579033340,
@@ -174437,6 +174535,16 @@
       "1. Expansion": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "1. Expansion": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783434755140,
@@ -199207,6 +199315,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795172225067,
@@ -233392,6 +233508,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Holiday Thanksgiving Pack": "$1.99",
+            "Welcome Offer": "$9.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Fun & Games Sports Mix Pack 2": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795726836879,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -245415,6 +245550,14 @@
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787564790409,
@@ -258471,6 +258614,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Hero Gauntlet": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794547025179,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -269230,6 +269392,25 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Corrupted Pack": "$6.99",
+            "Monster Pack": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795726836879,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -275986,6 +276167,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764477491832,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -276345,6 +276534,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794790008854,
@@ -290687,6 +290884,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "Starry Night": "$1.79",
+            "Sunset beach": "$1.19",
+            "Christmas night": "$1.79",
+            "Fireworks display": "$1.79",
+            "オーロラプール": "$1.19",
+            "Moonlight and Lanterns": "$1.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,
@@ -311529,6 +311745,19 @@
       "Advanced Pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Elite Pack": "$4.99",
+            "Standard Pack": "$0.99",
+            "Premium Pack": "$3.99",
+            "Advanced Pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -337604,6 +337833,14 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1777521003026,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -339979,6 +340216,25 @@
       "Yucky Buddy Outfit": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Sea Rat Outfit": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Beach Day Card back": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795694171051,
@@ -351204,6 +351460,18 @@
       "RCS Pro (6 months)": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "RCS Pro (1 month)": "$5.99",
+            "RCS Pro (1 year)": "$39.99",
+            "RCS Pro (6 months)": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764650198088,
@@ -369095,7 +369363,7 @@
   },
   "6777231093": {
     "trackId": 6777231093,
-    "trackName": "Patrol Officer",
+    "trackName": "Road Duty: Traffic Police Sim",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,
@@ -369148,10 +369416,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781525626784,
@@ -372592,6 +372868,18 @@
     "history": [
       [
         {
+          "timestamp": 1795762516171,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Unlocked! “Akane” & “Koro”": "$2.99",
+            "Koro Unlocked!": "$1.99",
+            "Akane Unlocked!": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1795140089529,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -374079,6 +374367,25 @@
       "MIX OFFER 11": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Tower Owl": "$4.99",
+            "Hero Ashbite": "$6.99",
+            "Hero Dalia": "$4.99",
+            "Hero Drakkan": "$6.99",
+            "Hero Osnir": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Gems Handful": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795726836879,
@@ -376163,12 +376470,23 @@
       "Library Doctor": "$3.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 3.99,
+      "formattedPrice": "$3.99",
       "NaviSyncRock": "$4.99",
       "Library Doctor": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Library Doctor": "$3.99",
+            "NaviSyncRock": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792441380481,
@@ -376959,14 +377277,27 @@
       "Atlantic Notebook": "$1.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Sahara Notebook": "$1.99",
       "Highlands Notebook": "$1.99",
       "Bordeaux Notebook": "$1.99",
       "Atlantic Notebook": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Atlantic Notebook": "$1.99",
+            "Bordeaux Notebook": "$1.99",
+            "Sahara Notebook": "$1.99",
+            "Highlands Notebook": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793713301535,
@@ -377389,10 +377720,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794044344582,
@@ -377976,9 +378315,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Sorapuff Pro": "$10.99"
+      "Sorapuff Pro": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Sorapuff Pro": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,
@@ -378015,9 +378364,20 @@
       "price": 0,
       "formattedPrice": "Free",
       "Free 7-day Trial": "$0.00",
-      "Comic Weather Full": "$4.99"
+      "Comic Weather Full": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Free 7-day Trial": "$0.00",
+            "Comic Weather Full": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -378040,10 +378400,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 3.69,
+      "formattedPrice": "$3.69"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 3.69,
+          "formattedPrice": "$3.69",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -378066,9 +378434,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Skywall Full": "$5.99"
+      "Skywall Full": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Skywall Full": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794977944693,
@@ -378198,7 +378576,7 @@
   },
   "6800287771": {
     "trackId": 6800287771,
-    "trackName": "クラウンフォール：自動探索ハクスラRPG",
+    "trackName": "Crownfall：自動探索ハクスラRPG",
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,
@@ -378277,9 +378655,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Spaceclear Pro Lifetime": "$7.99"
+      "Spaceclear Pro Lifetime": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Spaceclear Pro Lifetime": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795494082908,
@@ -378475,6 +378863,56 @@
           "price": 2.99,
           "formattedPrice": "$2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6837332681": {
+    "trackId": 6837332681,
+    "trackName": "知識勇者：國小英文數學國語闖關",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775229702": {
+    "trackId": 6775229702,
+    "trackName": "ListenBrief: ListenBrainz View",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Extra Love": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99",
+      "Extra Love": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1795762516171,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Extra Love": "$4.99"
+          }
         }
       ]
     ]

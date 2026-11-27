@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2467` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2469` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2469|6837332681|自动|❌|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|知識勇者：國小英文數學國語闖關|❌|
+|2468|6775229702|自动|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|ListenBrief: ListenBrainz View|
 |2467|6803754226|自动|❌|一念修仙：凡人修真|一念修仙：凡人修真|一念修仙：凡人修真|One Thought Immortal|One Thought Immortal|一念修仙：凡人修真|
 |2466|966245474|自动|❌|Through the Ages|Through the Ages|Through the Ages|Through the Ages|Through the Ages|Through the Ages|
 |2465|1420356569|自动|APlayer - Alook 播放器|APlayer - Alook 播放器|APlayer - Alook 播放器|APlayer - Alook 播放器|APlayer - Alook Media Player|APlayer - Alook Media Player|APlayer - Reprodutor Alook|
@@ -21,7 +23,7 @@
 |2456|593958503|自动|❌|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|PUZZINGO Kids Puzzles (Pro)|
 |2455|1518385711|自动|❌|Mindcell|Mindcell|Mindcell|Mindcell|Mindcell|❌|
 |2454|6754688764|自动|❌|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|風來的希煉6plus 蛇蜷島探險譚|Shiren: Serpentcoil Island|Shiren: Serpentcoil Island|不思議のダンジョン 風来のシレン6plus|
-|2453|6800287771|自动|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|クラウンフォール：自動探索ハクスラRPG|
+|2453|6800287771|自动|❌|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索刷寶RPG|Crownfall：自動探索ハクスラRPG|Crownfall：自動探索ハクスラRPG|Crownfall：自動探索ハクスラRPG|
 |2452|590278208|自动|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|SuperMetronome Groovebox Pro|
 |2451|525117691|自动|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|StitchSketch|
 |2450|6817336623|自动|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|LoopTake: Seamless Video Loops|
@@ -420,7 +422,7 @@
 |2057|1193760955|自动|百怪千奇野兽园 - Tinybop出品|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Creature Garden by Tinybop|Creature Garden by Tinybop|O Jardim das Criaturas|
 |2056|394199597|自动|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|
 |2055|576216365|自动|妞妞12345|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|Math Animations Pro|Maths Animations Pro|Animações de Matemática Pro|
-|2054|6777231093|自动|❌|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|
+|2054|6777231093|自动|❌|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|Road Duty: Traffic Police Sim|
 |2053|1464501334|自动|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|
 |2052|1529092958|自动|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
 |2051|6760948683|自动|❌|Digline：療癒挖礦|Digline：療癒挖礦|Digline：療癒挖礦|Digline: Cozy Mining|Digline: Cosy Mining|Digline: Mineração Relaxante|
