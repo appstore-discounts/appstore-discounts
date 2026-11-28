@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 1504760106,
+    "region": "tr",
+    "timestamp": 1795835123378,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Buy Premium",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "₺19,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1504760106",
+    "trackName": "Eco inc. Save the Earth",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1612952507,
+    "region": "tr",
+    "timestamp": 1795835123378,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺449,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Rocket Science Pack",
+        "from": "₺249,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Orbit Pack",
+        "from": "₺249,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1612952507",
+    "trackName": "AeroPads - Pads & Soundscapes",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 364876095,
     "region": "tr",
     "timestamp": 1795804914527,

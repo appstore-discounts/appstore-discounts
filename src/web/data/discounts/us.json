@@ -1,5 +1,79 @@
 [
   {
+    "trackId": 966489322,
+    "region": "us",
+    "timestamp": 1795835123378,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "永久会员",
+        "from": "$14.99",
+        "to": "$12.99",
+        "range": "[$12.99 ~ $19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id966489322",
+    "trackName": "生辰 — 桌面时间小组件",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1612952507,
+    "region": "us",
+    "timestamp": 1795835123378,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Orbit Pack",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Rocket Science Pack",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1612952507",
+    "trackName": "AeroPads - Pads & Soundscapes",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6828960722,
+    "region": "us",
+    "timestamp": 1795835123378,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6828960722",
+    "trackName": "Grounds Up: Business Tycoon",
+    "firstRecordedAt": 1794044344582
+  },
+  {
     "trackId": 364876095,
     "region": "us",
     "timestamp": 1795804914527,
@@ -147,46 +221,6 @@
     "firstRecordedAt": 1769193880424
   },
   {
-    "trackId": 1620202676,
-    "region": "us",
-    "timestamp": 1795762516171,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$2.99",
-        "to": "$0.99",
-        "range": "[$0.99 ~ $2.99]"
-      }
-    ],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id1620202676",
-    "trackName": "Iron Marines Invasion RTS Game",
-    "firstRecordedAt": 1771447813830
-  },
-  {
-    "trackId": 1659903900,
-    "region": "us",
-    "timestamp": 1795762516171,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$2.99",
-        "to": "$0.99",
-        "range": "[$0.99 ~ $2.99]"
-      }
-    ],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id1659903900",
-    "trackName": "Super Mega Lucky Box",
-    "firstRecordedAt": 1748402466218
-  },
-  {
     "trackId": 6503088710,
     "region": "us",
     "timestamp": 1795762516171,
@@ -285,46 +319,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6763518834",
     "trackName": "NaviBeat: Navidrome Player",
     "firstRecordedAt": 1792319275424
-  },
-  {
-    "trackId": 6822194774,
-    "region": "us",
-    "timestamp": 1795762516171,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$4.99",
-        "to": "$1.99",
-        "range": "[$1.99 ~ $4.99]"
-      }
-    ],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id6822194774",
-    "trackName": "TypeDraw",
-    "firstRecordedAt": 1793160762894
-  },
-  {
-    "trackId": 6828960722,
-    "region": "us",
-    "timestamp": 1795762516171,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$2.99",
-        "to": "$0.99",
-        "range": "[$0.99 ~ $2.99]"
-      }
-    ],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id6828960722",
-    "trackName": "Grounds Up: Business Tycoon",
-    "firstRecordedAt": 1794044344582
   },
   {
     "trackId": 6834208556,

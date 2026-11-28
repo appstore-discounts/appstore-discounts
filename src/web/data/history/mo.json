@@ -168596,10 +168596,21 @@
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "Orbit Pack": "USD 4.99",
-      "Rocket Science Pack": "USD 4.99"
+      "Orbit Pack": "USD 0.99",
+      "Rocket Science Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795835123378,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Rocket Science Pack": "USD 0.99",
+            "Orbit Pack": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784428776416,
@@ -228518,6 +228529,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795835123378,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1795726836879,

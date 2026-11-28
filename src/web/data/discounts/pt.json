@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 1504760106,
+    "region": "pt",
+    "timestamp": 1795835123378,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Buy Premium",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "0,29 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1504760106",
+    "trackName": "Eco Inc. Salve o Planeta",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1612952507,
+    "region": "pt",
+    "timestamp": 1795835123378,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 8,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Orbit Pack",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Rocket Science Pack",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1612952507",
+    "trackName": "AeroPads - Pads & Soundscapes",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 364876095,
     "region": "pt",
     "timestamp": 1795804914527,
